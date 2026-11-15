@@ -53,6 +53,7 @@ def mirror_site(folder: str, url: str) -> None:
         "--no-parent",
         "--domains", url.split("//", 1)[1].split("/", 1)[0],
         "--directory-prefix", str(destination),
+        "--no-host-directories",
         "--execute", "robots=off",
         "--wait", "0.2",
         "--tries", "3",
