@@ -1,0 +1,31 @@
+# Saídas de build (o app, o DMG e o ffmpeg embutido são gerados por ./make_dmg.sh)
+build/
+.build/
+
+# Ícone de origem opcional: cai para o desenhado quando ausente
+# (mantido fora do repositório por ser um asset grande e substituível)
+AppIcon.png
+
+.DS_Store
+
+# Caches locais dos geradores e relatórios reproduzíveis
+__pycache__/
+*.pyc
+arquivos-gerados/
+
+# Cache local do wrangler
+.wrangler/
+
+# Listas nunca vão para o Git: canais e filmes vêm só dos links das configs.
+catalogo.txt
+canais.txt
+restritos.txt
+radios.txt
+*.m3u
+*.m3u8
+
+.claude/
+*.py
+*_5gmax.json
+output/
+scripts/test_*.swift

@@ -1,0 +1,295 @@
+# SAIMO TV — CANAIS RESTRITOS
+# 72 canais · só aparecem depois do código
+#
+# Mesmo formato do catalogo.txt. Os apps baixam este arquivo ao destravar,
+# então renomear, tirar ou trocar link aqui vale sem recompilar nada.
+
+canal: Sexy Hot
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/sexy-hot.png
+fonte: https://canais.fazoeli.co.za/fontes/smart/sexyhot.m3u8
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/180157.ts
+qualidade: 4K
+
+canal: Playboy TV
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/playboy-tv.png
+fonte: https://canais.fazoeli.co.za/fontes/smart/playboy.m3u8
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72221.ts
+qualidade: FHD
+
+canal: Anal
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/anal.m3u8
+qualidade: HD · 1280x720
+
+canal: Asian
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/asian.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Ass
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/bigass.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Dick
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/bigdick.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Tits
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/bigtits.m3u8
+qualidade: HD · 1280x720
+
+canal: Blowjob
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/blowjob.m3u8
+qualidade: HD · 1280x720
+
+canal: Compilation
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/compilation.m3u8
+qualidade: HD · 1280x720
+
+canal: Cuckold
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/cuckold.m3u8
+qualidade: HD · 1280x720
+
+canal: Fetish
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/fetish.m3u8
+qualidade: HD · 1280x720
+
+canal: Gangbang
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/gangbang.m3u8
+qualidade: HD · 1280x720
+
+canal: Gay
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/gay.m3u8
+qualidade: HD · 1280x720
+
+canal: Hardcore
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/hardcore.m3u8
+qualidade: HD · 1280x720
+
+canal: Interracial
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/interracial.m3u8
+qualidade: HD · 1280x720
+
+canal: Live Cams
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/livecams.m3u8
+qualidade: HD · 1280x720
+
+canal: Pornstar
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/pornstar.m3u8
+qualidade: HD · 1280x720
+
+canal: POV
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/pov.m3u8
+qualidade: HD · 1280x720
+
+canal: Rough
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/rough.m3u8
+qualidade: HD · 1280x720
+
+canal: Russian
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/russian.m3u8
+qualidade: HD · 1280x720
+
+canal: Threesome
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/threesome.m3u8
+qualidade: HD · 1280x720
+
+canal: Woman
+categoria: Adulto
+fonte: https://live.redtraffic.net/woman.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Anal
+categoria: Adulto
+fonte: https://live.mycamtv.com/anal.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Asian
+categoria: Adulto
+fonte: https://live.mycamtv.com/asian.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Big Ass
+categoria: Adulto
+fonte: https://live.mycamtv.com/defstream.m3u8
+qualidade: FHD · 1920x1080
+
+canal: MyCam Big Tits
+categoria: Adulto
+fonte: https://live.mycamtv.com/bigtits.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Blonde
+categoria: Adulto
+fonte: https://live.mycamtv.com/blonde.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Brunette
+categoria: Adulto
+fonte: https://live.mycamtv.com/brunette.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Latina
+categoria: Adulto
+fonte: https://live.mycamtv.com/latina.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Squirt
+categoria: Adulto
+fonte: https://live.mycamtv.com/squirt.m3u8
+qualidade: FHD · 1920x1080
+
+canal: MyCam White
+categoria: Adulto
+fonte: https://live.mycamtv.com/white.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Jenny Live
+categoria: Adulto
+fonte: https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Miami TV Mexico
+categoria: Adulto
+fonte: https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: O-la-la!
+categoria: Adulto
+logo: https://i.imgur.com/6aOmZs4.png
+fonte: http://31.148.48.15/O-la-la/index.m3u8
+
+canal: Playboy TV Latin America
+categoria: Adulto
+logo: https://i.imgur.com/B3DMUM9.png
+fonte: http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Sex Privé
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/sex-prive.png
+fonte: https://cdn-mg1.satlabscloud.com.br/SEX_PRIVE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+qualidade: FHD · 1920x1080
+
+canal: A Casa das Brasileirinhas
+categoria: Adulto
+logo: http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140487.ts
+qualidade: HD · 1280x960
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140488.ts
+qualidade: HD · 1280x720
+
+canal: All Anal
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/166035.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/166036.ts
+qualidade: HD · 1280x720
+
+canal: Anal Only
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/149544.ts
+qualidade: HD · 1280x720
+fonte: http://vivlar.me:80/497238/KK8Kdy/149544.ts
+qualidade: HD · 1280x720
+
+canal: Filmes Adultos
+categoria: Adulto
+logo: http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140536.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140537.ts
+qualidade: HD · 1280x720
+
+canal: Filmes Trans
+categoria: Adulto
+logo: http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145382.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145383.ts
+qualidade: HD · 1280x720
+
+canal: Fuck Studies
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/169085.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/169086.ts
+qualidade: HD · 1280x720
+
+canal: Homossexual Masculino
+categoria: Adulto
+logo: http://24horas.cc:80/images/23282a88114949d0a31f5fbee6dd0733.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140492.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140493.ts
+qualidade: SD · 848x472
+
+canal: Interesseiras
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/149606.ts
+qualidade: HD · 1280x720
+fonte: http://vivlar.me:80/497238/KK8Kdy/149606.ts
+qualidade: HD · 1280x720
+
+canal: Lets Try Anal
+categoria: Adulto
+logo: http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140760.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/141499.ts
+qualidade: HD · 1280x720
+
+canal: MissaX
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/169088.ts
+qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/169089.ts
+qualidade: HD · 1280x720
+
+canal: Pornhub Yinyleon
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/149548.ts
+qualidade: HD · 1280x720
+fonte: http://vivlar.me:80/497238/KK8Kdy/149548.ts
+qualidade: HD · 1280x720
+
+canal: Teste de Fudelidade
+categoria: Adulto
+logo: http://24horas.cc:80/images/3e81163f7309a5a4f01613ff430db818.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140761.ts
+qualidade: HD · 1280x728
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140762.ts
+qualidade: HD · 1280x720
+
+canal: Tweetney
+categoria: Adulto
+logo: http://vaiagora.vip/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/169097.ts
+qualidade: HD · 1280x720
+fonte: http://vivlar.me:80/497238/KK8Kdy/169097.ts
+qualidade: HD · 1280x720

@@ -1,0 +1,1005 @@
+A Academia		0	16
+A Acusação		0	8
+A Agencia	2024	0	20
+A Agencia - Ligue Para o Meu Agente - Menajerimi Ara		0	45
+A Agente	2025	0	12
+A Agência	2024	0	318
+A Alma Não Tem Cor		0	174
+A Amiga Genial	2018	0	34
+A Antartida		0	20
+A Arca	2023	0	48
+A Arte da Negociacao		0	24
+A Arte de Sarah		0	16
+A Arte do Crime		0	20
+A Artista da Enganação		0	8
+A Ascensao e a Queda dos Faraos		0	12
+A Atriz		0	16
+A Australia Mortal		0	8
+A Autonomia		0	12
+A Barbara E O Troll		0	26
+A Bastarda		0	44
+A Batalha das Pizzas		0	20
+A Batalha das Vovos		0	12
+A Batalha dos 100	2023	0	36
+A Batalha dos 100 Asia		0	24
+A Batalha dos 100 Cozinheiros		0	18
+A Batalha dos 100: Itália		0	16
+A Batalha dos 100: México (2026)	2026	0	18
+A Batalha dos Biscoitos Natalinos		0	16
+A Batalha dos Chefs Raiz		0	16
+A Batalha dos Piores Cozinheiros		0	224
+A Batalha dos Piores Cozinheiros Em Pratos Limpos		0	16
+A Baía		0	48
+A Bela e a Fera	2012	0	140
+A Bela e o Padeiro		0	18
+A Bela e o Sr Romantico		0	100
+A Beleza Secreta dos Animais	2021	0	16
+A Bilionaria o Mordomo e o Namorado		0	6
+A Bloody Lucky Day	2023	0	20
+A Boa Vizinhança	2018	0	310
+A Boss and A Babe		0	24
+A Brava Yong Su Jeong		0	248
+A Bruxa		0	20
+A Bruxa J da Porta ao Lado		0	24
+A Bruxa do Bem	2015	0	114
+A Bênção		0	16
+A Bíblia	2013	0	178
+A Cabeça de Joaquín Murrieta	2023	0	16
+A Caca ao Tesouro de Fenn		0	6
+A Cacadora de Cobras		0	20
+A Cadeira	2025	0	16
+A Cadela Sabichona		0	24
+A Caminho do Céu		0	20
+A Cancao do Samurai		0	16
+A Candidata		0	124
+A Cara do Pai		0	30
+A Casa Coruja		0	86
+A Casa Harper		0	20
+A Casa Mágica da Gabby		0	170
+A Casa da Rainha		0	200
+A Casa da Raven	2017	0	246
+A Casa das Sete Mulheres		0	110
+A Casa de Moda	2024	0	20
+A Casa do Dragao	2022	0	26
+A Casa do Dragão	2022	0	52
+A Casa do Mickey Mouse		0	264
+A Casa dos Espiritos	2026	0	8
+A Casa dos Espíritos	2026	0	16
+A Catedral do Mar		0	16
+A Caverna Encantada		0	574
+A Caçada	2026	0	12
+A Caçadora de Pedófilos	2021	0	16
+A Certain Scientific Accelerator		0	24
+A Chave para o Coração da Fênix		0	56
+A Chuva		0	74
+A Cidade É Nossa		0	12
+A Colina do Cao	2025	0	10
+A Comida de Amanha		0	6
+A Comissária de Bordo		0	32
+A Concierge Pokemon		0	16
+A Condition Called Love		0	24
+A Cor do Poder		0	20
+A Coroa Perfeita		0	24
+A Coroa Vazia		0	38
+A Corrida Maluca	2017	0	156
+A Corrida das Vacinas		0	12
+A Couple of Cuckoos		0	72
+A Cozinha de Eduardo Garcia		0	16
+A Cozinha de Fermat		0	24
+A Cozinha do Jinny		0	44
+A Cozinheira de Castamar		0	24
+A Criatura		0	20
+A Criatura de Gyeongseong	2023	0	17
+A Crise dos Caras		0	16
+A Crise dos Três Poderes		0	8
+A Culpa e do Cabral Na Estrada		0	22
+A Culpa é da Carlota		0	52
+A Culpa é do Cabral		0	328
+A Dama	2026	1	8
+A Dama de Companhia		1	16
+A Dança da Morte		1	8
+A Desalmada		1	180
+A Descoberta das Bruxas	2018	1	50
+A Desesperada Sra Seon Ju		1	252
+A Desordem que Ficou		1	16
+A Diarista		1	238
+A Diplomata		1	44
+A Disputa dos Confeiteiros Halloween		1	92
+A Disputa dos Confeiteiros: Primavera		1	138
+A Divisão	2019	1	40
+A Dona		1	284
+A Dona da Bola	2025	1	40
+A Dona do Pedaço		1	322
+A Emissaria Divina		1	48
+A Enciclopedia de Istambul		1	16
+A Enciclopédia de Istambul - Istanbul Ansiklopedisi		1	16
+A Epopeia da arvore Negra - Kara Ağaç Destanı		1	30
+A Era das Tulipas - Lale Devri		1	11
+A Era de Miyu		1	76
+A Era do Gelo - Icerde		1	38
+A Era do Gelo: Histórias do Scrat	2022	0	6
+A Era dos Dados		1	12
+A Era dos Humanos		1	8
+A Escada		1	16
+A Escola Amaldiçoada		1	16
+A Escola do Alem		1	16
+A Escolha		1	62
+A Escolha - Babil		1	62
+A Escolhida - Elkızı		1	13
+A Escolinha do Golias		1	86
+A Escrava Isaura		1	334
+A Escuta		1	120
+A Esposa do Meu Marido	2024	1	32
+A Esposa do Meu Marido Japao		1	20
+A Estação das Garotas Perdidas	2025	1	12
+A Estrada de Lichia		1	70
+A Etica do Silencio		1	10
+A Ex mulher		1	16
+A Fabrica		1	20
+A Fada e o Pastor		1	24
+A Familia Addams		1	60
+A Familia Baldwin		1	16
+A Familia Hathaway		1	96
+A Familia Radical Maior e Melhor		1	78
+A Familia do meu Marido - Kocamın Ailesi		1	26
+A Família Stallone		1	36
+A Fantastica Fábrica da Sanidade		1	6
+A Favorita		1	394
+A Faxineira	2022	1	92
+A Feia Mais Bela		1	600
+A Feiticeira	1964	1	366
+A Filha do Embaixador		1	466
+A Filha do Mariachi		1	200
+A Flor Mais Bela		1	20
+A Forca do Amor - Sevdam Alabora		1	4
+A Forca do Amor - Sorvete de Cranberry - Kizilcik Serbeti		1	168
+A Forca do Destino - Cennet in Gozyaslari		1	116
+A Formiga Atomica		1	156
+A Formula		1	16
+A Força do Querer		1	346
+A Franquia	2024	1	16
+A Fraude do Século		1	24
+A Friend of the Family	2022	1	18
+A Fuga - Horoub		1	10
+A Fúria de Paris	2024	1	16
+A Gaiola Dourada - Altın Kafes		1	4
+A Gangue da Luva Verde		1	32
+A Gangue de Bogota		1	16
+A Garota Desaparecida do Vaticano		1	8
+A Garota Roubada		1	10
+A Garota da Limpeza		1	26
+A Garota da Moto	2016	1	104
+A Garota de Oslo		1	20
+A Garota do Blog		1	242
+A Garota do Cigarro		1	10
+A Garota do Remo		1	16
+A Garota na Fita		1	24
+A Gata		1	320
+A Gata Comeu		1	320
+A Gata e o Rato	1985	1	107
+A Gente Tenta		1	24
+A Grande Cacada		1	16
+A Grande Conquista		2	176
+A Grande Corrida: Volta ao Mundo		2	18
+A Grande Descoberta	2025	2	8
+A Grande Familia		2	970
+A Grande Família do Alasca		2	118
+A Grande Ilusao	2024	2	16
+A Guarda do Leão		2	146
+A Guardiã da Floresta		2	16
+A Guerra dos Bolos		2	106
+A Guerra dos Reinos	2025	2	12
+A Guerra dos Samurais		2	12
+A Herdeira		2	12
+A Historia Delas	2023	2	16
+A Historia Distorcida de Amanda Knox	2025	2	16
+A Historia da Garota Perola		2	80
+A Historia da Minha Familia		2	24
+A Historia de Ana Raio e Ze Trovao		2	514
+A Historia de Bihyung Mestre Encantado dos Goblins		2	24
+A Historia do Mundo Atraves dos Tempos		2	6
+A História de Deus com Morgan Freeman		2	30
+A História do Contrato de Casamento de Park		2	24
+A História do Imagineering		2	12
+A História do Mundo: Parte 2		2	16
+A Hora do Diabo	2022	2	22
+A Horda Dourada		2	16
+A Hospede		2	40
+A Idade Dourada	2022	2	50
+A Igreja Oculta		2	16
+A Ilha		2	272
+A Ilha da Caveira	2023	2	16
+A Ilha da Fantasia		2	256
+A Ilha das Sombras		2	50
+A Imperatriz	2022	2	24
+A Incrivel Madagascar		2	6
+A Incrível Vida dos Nossos Bichinhos		2	8
+A Indústria da Cura		2	12
+A Influenciadora		2	120
+A Infância de Romeu e Julieta		2	666
+A Inglesa	2022	2	12
+A Inimiga do Povo		2	16
+A Internet do Mal		2	10
+A Intrusa		2	270
+A Inundação do Milênio	2022	2	12
+A Irma do Meio		2	40
+A Isca		2	12
+A Jogada da Vitoria		2	24
+A Jornada Heroica do Principe Ivandoe		2	82
+A Jornada da Lenda		2	80
+A Journey Through Another World Raising Kids While Adventuring		2	24
+A Juiza do Inferno	2024	2	28
+A Killer Paradox	2024	2	16
+A Lei e o Crime		2	42
+A Lenda da Generala		2	72
+A Lenda de El Cid - El Cid		2	10
+A Lenda de Korra	2012	0	51
+A Lenda de Lady Ferrari		2	24
+A Lenda de Shahmaran	2023	2	28
+A Lenda de ShenLi		2	78
+A Lenda de Sleepy Hollow	2013	2	122
+A Lenda de Vox Machina	2022	2	96
+A Lenda de Zhuohua		2	80
+A Lenda do Tesouro Perdido: No Limiar da História		2	20
+A Leste do Palácio		2	16
+A Leste do Éden	2026	2	14
+A Linha Invisível	2020	2	12
+A Lista Terminal		2	32
+A Lista Terminal Lobo Negro	2025	2	14
+A Lista Terminal: Lobo Negro	2025	0	14
+A Lista de Compras do Assassino		2	16
+A Lição	2022	2	32
+A Louva-a-deus		2	12
+A Lua Abraca o Sol		2	40
+A Lua Me Disse		2	286
+A Luz do Futuro		2	26
+A MELHOR FAMILIA FELIZ DOS EUA		2	16
+A Madrasta		2	240
+A Mafia So Mata no Verao		2	24
+A Magia de Aruna		2	12
+A Magia do Disney's Animal Kingdom		2	20
+A Maior Companhia de Navegacao do Mundo		2	12
+A Mais Pura Verdade		2	14
+A Maldicao do Triangulo das Bermudas		2	36
+A Maldição da Mansão Bly	2020	2	18
+A Maldição da Residência Hill		2	20
+A Maldição de Akakor		2	24
+A Maldição de Oak Island		2	80
+A Mao do Eurico	2023	2	10
+A Melhor Irma	2025	3	16
+A Melhor Pior Funcionaria		3	16
+A Menina Invisível	2023	3	16
+A Menina da Janela - Camdaki Kız		3	82
+A Menina e o Porquinho		3	6
+A Menina que Matou os Pais A Serie		3	12
+A Mente do Poder		3	16
+A Missao		3	50
+A Missao da Familia Yozakura		3	54
+A Missão da Família Yozakura	2024	0	54
+A Misteriosa Sociedade Benedict		3	32
+A Moreninha		3	158
+A Morte Entre Outros Misterios	2024	3	20
+A Morte do Patriarca		3	16
+A Mulher Bionica		3	44
+A Mulher Invisível		3	26
+A Mulher Proibida		3	122
+A Mulher Que Engoliu O Sol		3	250
+A Mulher da Casa Abandonada		3	6
+A Mulher do Diabo	2022	3	52
+A Mulher do Viajante no Tempo		3	12
+A Mulher dos Mortos	2022	3	24
+A Mulher na Parede	2023	3	12
+A Mulher no Lago	2024	3	14
+A Muralha		3	420
+A Máfia dos Tigres		3	24
+A Máquina do Destino	2023	3	40
+A Namorada Genial		3	56
+A Namorada Ideal		3	12
+A Negociadora		3	24
+A Neta Escolhida		3	162
+A Nobreza do Amor		3	382
+A Noiva de Beirute - Bride of Beirut		3	219
+A Noiva de Istambul		3	592
+A Noiva do Antigo Mago: O Menino do Oeste e o Cavaleiro da Tempestade Azul		3	15
+A Nova Forca		3	12
+A Nova Super Máquina	2008	3	36
+A Nova Vida de Toby		3	16
+A Nova pantera Cor de Rosa		3	60
+A Oferta		3	20
+A Oliveira Branca		3	76
+A Ordem	2019	3	40
+A Origem da Eternidade		3	44
+A Pacificadora	2020	3	20
+A Paixão		3	12
+A Paranormal		3	260
+A Partitura Secreta	2024	3	16
+A Pedra dos Sonhos		3	26
+A Penúltima Palavra		3	12
+A Pequena Sereia		3	62
+A Persistencia da Memoria		3	26
+A Pessoa Prometida		3	80
+A Peste		3	24
+A Pior Vizinhança		3	8
+A Pior das Bruxas	2017	3	76
+A Ponte: The Bridge Brasil		3	16
+A Pousada Bizarra do Kian84		3	18
+A Pousada do Jae seok		3	20
+A Pracinha		3	40
+A Primeira Arte		3	6
+A Primeira Dama do Estado Islamico		3	1
+A Primeira Vez	2023	3	90
+A Primeira-dama		3	20
+A Princesa Guerreira	2021	3	56
+A Princesa Real		3	80
+A Promessa	2023	3	1080
+A Promessa - La Promesa		3	1114
+A Promessa Yemin		3	820
+A Promessa da Alma		3	24
+A Proxima Vitima		3	406
+A Próxima Aposta		3	32
+A Que Não Podia Amar		3	334
+A Queda Argentina		3	6
+A Queda da Casa de Usher	2023	3	16
+A Queda de P Diddy		3	10
+A Química da Morte		3	12
+A Rainha Serpente	2022	3	32
+A Rainha da Persia	2024	3	68
+A Rainha das Vilas	2024	3	10
+A Rainha do Misterio		4	64
+A Rainha do Sul	2016	4	124
+A Rainha do Tráfico		4	126
+A Rainha dos Golpes		4	24
+A Regra do Jogo		4	334
+A Reinvencao do Flamengo		4	8
+A Reserva	2025	4	12
+A Retaliação		4	16
+A Rocha Encantada		4	192
+A Rocha Encantada: De Volta à Caverna		4	192
+A Roda do Tempo	2021	4	48
+A Saga Wingfeather		4	38
+A Salsa de Salcedo		4	24
+A Saída		4	16
+A Selecao dos EUA na Copa do Mundo Feminina		4	8
+A Senhora Davis	2023	4	16
+A Sete Palmos	2001	4	126
+A Small Light		4	16
+A Sogra Que Te Pariu		4	40
+A Sombra do Batman		4	52
+A Sonhada Casa de Campo		4	16
+A Sonhadora		4	322
+A Sonhadora - Passaro Madrugador - Erkenci Kus		4	322
+A Sorte de Loli		4	206
+A Sucessora		4	252
+A Super Máquina		4	160
+A Superfantástica História do Balão	2023	4	6
+A Surda Absurda		4	6
+A Série Pokémon: Horizontes	2023	4	312
+A Sétima Arte		4	14
+A Taça é Nuestra		4	12
+A Teacher		4	20
+A Teia		4	166
+A Tempestade		4	244
+A Tempestade dentro de Mim - İçimdeki Fırtına		4	6
+A Terapia por Sebastian Fitzek		4	12
+A Terra Prometida		4	360
+A Terra à Noite		4	12
+A Terra à Noite: Visão Noturna		4	6
+A Testemunha	2026	4	6
+A Thin Line		4	12
+A Tia é Top		4	32
+A Tormenta		4	20
+A Trama		4	12
+A Troca		4	52
+A Tropa da Roca		4	104
+A Turma do Charlie Brown e Snoopy		4	26
+A Turma do Ze Colmeia		4	30
+A Ultima Fronteira	2025	4	20
+A Ultima Noite em Tremor		4	16
+A Unidade		4	68
+A Usurpadora		4	240
+A Vaca e o Frango		4	104
+A Verdade Por Tras do Homem Na Lua		4	6
+A Verdade da Mentira: Uma Nova Missão		4	26
+A Verdade por Trás das Minhas Mentiras		4	10
+A Very English Scandal		4	6
+A Veterana Pitica da Firma		4	24
+A Viagem		4	334
+A Vida Depois do Tombo		4	8
+A Vida Interior		4	48
+A Vida Interior Com o Padre Paulo Ricardo		4	24
+A Vida Mentirosa dos Adultos		4	12
+A Vida Pela Frente	2023	4	20
+A Vida Secreta da Minha Secretaria		4	64
+A Vida Secreta dos Animais		4	20
+A Vida Secreta dos Casais		4	24
+A Vida Secreta dos Chimpanzés		4	12
+A Vida Segundo Ella		4	20
+A Vida Selvagem do Dr. Ole		4	16
+A Vida Sexual das Universitárias	2021	4	60
+A Vida da Gente		4	274
+A Vida de Dug		4	10
+A Vida dos Santos		4	10
+A Vida dos Sonhos do Sr Kim		4	24
+A Vida e a História de Madam C.J. Walker		4	8
+A Vida em Cores com David Attenborough		4	6
+A Vida em Outros Planetas		4	8
+A Vida no Nosso Planeta	2023	4	16
+A Vida que Voce Queria	2024	4	12
+A Vila		4	150
+A Vinganca - Can Kırıkları		4	16
+A Vinganca da Branca de Neve		4	204
+A Vinganca de Analia - La Venganza de Analia		4	140
+A Vingança do Nerd		5	16
+A Virada		5	8
+A Viuva		5	16
+A Viuva Jovem - La Viuda Joven		5	136
+A Vizinha da Mulher na Janela		5	16
+A Volta ao Mundo em 80 Dias		5	16
+A Voz Ausente		5	14
+A Vítima		5	406
+A Xerife Callie no Oeste		5	134
+A Zona		5	16
+A pequena espiã		5	20
+A vingança das Juanas		5	36
+A Árvore Familiar dos Croods	2021	5	104
+A Última Coisa Que Ele Me Falou	2023	5	30
+A Última Onda		5	12
+A Última Rodada: Um Assassino Serial na NY Queer	2023	0	4
+AARO All domain Anomaly Resolution Office		5	20
+AJ and the Queen		5	20
+ARA San Juan O Submarino que Desapareceu		5	16
+Aaahh!!! Monstros		5	104
+Abandono de Evento		5	8
+Abbott Elementary	2021	5	70
+Abdelmassih: Do Milagre ao Crime		5	8
+Abducao em Manhattan		5	6
+Abel O Grande		5	8
+Aberto ao Publico		5	8
+Abismo de Paixao		5	324
+Abominavel e a Cidade Escondida		5	40
+Abracadavers		5	22
+Abraham Lincoln		5	6
+Abraça-me Muito Forte		5	270
+Absentia	2017	5	60
+Absoluta Conviccao		5	32
+Abstrato A Arte do Design		5	16
+Absurdos da Engenharia		5	24
+Academia Unicornio		5	18
+Academia Unicornio Segredos Revelados		5	16
+Academia de Giuseppe		5	26
+Academia de Vampiros	2022	5	20
+Acampados		5	218
+Acampamento Mágico		5	46
+Acampamento de Magia para Jovens Bruxos	2023	5	18
+Acapulco	2021	5	80
+Acapulco Shore		5	26
+Aceleradas		5	20
+Acerto de Contas		5	30
+Acesso Total Corinthians		5	10
+Acesso Total Operacoes Policiais		5	16
+Acesso Total Palmeiras		5	10
+Acesso Total: Botafogo		5	16
+Acima de Qualquer Suspeita	2024	5	16
+Acredite e Verdade		5	86
+Action		5	16
+Acumuladores		5	48
+Acumuladores de Carros		5	24
+Acusado	2023	5	46
+Adak: Ilha do Tesouro		5	16
+Adamas: O Diamante Assassino		5	32
+Addicted: Vidas em Recuperação		5	48
+Adeus Terra	2024	5	24
+Adivinhe quem eu sou		5	48
+Admirável Mundo Novo		5	18
+Adolepeixes		5	56
+Adolescencia		5	8
+Adoracao		5	12
+Adoravel Corredora		5	32
+Adriano Imperador		5	6
+Adult Material		5	8
+Adultos	2025	5	32
+Advogado Fantasma		5	32
+Aero Por Tras da Aviacao		5	104
+Aeroporto Area Restrita Estados Unidos		5	48
+Aeroporto Miami		5	38
+Aeroporto: Estados Unidos		5	134
+Aeroporto: Área Restrita	2017	5	174
+Africa		5	12
+Africa Garras e Mandibulas		5	8
+After School Doctor		5	20
+Agarre Seu Amor		5	48
+Agatha Desde Sempre	2024	6	18
+Agency		6	52
+Agent P Under C		6	16
+Agente 86		6	276
+Agente Butterfly	2025	6	12
+Agente Elvis		6	20
+Agente K.C		6	58
+Agente Kim: Reativado		6	20
+Agentes da S.H.I.E.L.D. da Marvel	2013	6	272
+Agentes do Caos		6	4
+Agentes do FBI		6	16
+Agentes do Mistério	2024	6	12
+Agents of Mystery		6	18
+Agents of the Four Seasons Dance of Spring		6	28
+Aggretsuko		6	20
+Agora Exploro a Masmorra		6	48
+Agora Muppets		6	12
+Agora Terminamos		6	32
+Agora é Que São Elas		6	286
+Aguas Impuras	2023	6	14
+Agência		6	40
+Agência de Celebridades		6	24
+Ah o Natal		6	12
+Ahmet o Ajudante de Cozinheiro - Yamak Ahmet		6	10
+Ahsoka	2023	6	16
+Aile Lacos de Paixao		6	300
+Ainda Acordados	2023	6	16
+Ainda um Misterio		6	110
+Ajin		6	52
+Akame ga Kill	2014	6	48
+Akane banashi		6	24
+Akudama Drive		6	24
+Akuma kun		6	24
+AlRawabi School for Girls		6	12
+Alasca Reabilitacao Selvagem		6	28
+Alasca ao Extremo		6	64
+Alasca: Em Busca da Notícia		6	22
+Alasca: Sabedoria Nativa		6	40
+Alba		6	26
+Alcatraz		6	26
+Alegorias do Brasil		6	26
+Alegrifes e Rabujos		6	290
+Alem do Direito		6	24
+Alem do Guarda Roupa	2023	6	20
+Alemão: Os Dois Lados do Complexo		6	8
+Alert Unidade de Pessoas Desaparecidas		6	60
+Alert: Missing Persons Unit		6	56
+Alex Rider	2020	6	32
+Alexa e Katie		6	78
+Alexandre O Nascimento de um Deus	2024	6	12
+Algo Horrivel Vai Acontecer	2026	6	16
+Algo Nao Esta Certo		6	16
+Alguem Tem Que Saber		6	16
+Alguém Em Algum Lugar	2022	6	42
+Alguém tem que morrer		6	6
+Alias Codinome Perigo		6	210
+Alice and Steve		6	12
+Alice e Lewis		6	76
+Alice in Borderland	2020	6	44
+Alice na Doceria das Maravilhas		6	98
+Alien Earth	2025	6	16
+Alien TV		6	52
+Alienigenas do Passado		6	40
+All American		6	182
+All American: Novos Começos	2022	6	94
+All Her Fault	2025	6	16
+All Star Shore		6	46
+All That We Loved		6	16
+All The Way Up: Caminho para A Fama		6	20
+All of Us Are Dead		6	24
+All the Liquors		6	16
+All the Queen's Men		6	24
+Allen v. Farrow	2021	6	8
+Alma Gemea		6	454
+Alma chan Wants to Be a Family		6	22
+Alma de Cozinheira		6	70
+Alma-chan Wants to Be a Family!	2025	0	22
+Almas Perdidas		6	114
+Almost Paradise	2020	6	40
+Alphonse		6	12
+Alquimia das Almas		6	60
+Alta Fidelidade		6	20
+Alta Sociedade - Yüksek Sosyete		6	26
+Altered Carbon	2018	6	36
+Alto Luxo Baixo Custo		6	12
+Alto Mar		6	32
+Alucinação		6	8
+Alvo Primario	2025	6	16
+Além Das Nuvens		7	48
+Além da Ilha		7	20
+Além da Ilusão		7	334
+Além da Imaginação		7	72
+Além da Margem	2022	7	30
+Além de Skinwalker	2023	7	50
+Além do Tempo		7	322
+Amada e Ultrajada O Exercito na Historia do Brasil		7	6
+Amando o Inimigo		7	24
+Amanhã		7	32
+Amantes Anonimos		7	16
+Amantes Secretos		7	20
+Amar Perder		7	16
+Amar e Para os Fortes		7	14
+Amarras do Amor		7	96
+Amazing Grace		7	16
+Amber Brown		7	20
+Amelio O Homem de Verdade		7	26
+America do Sul Animais Extraordinarios		7	6
+American Crime		7	58
+American Crime Story	2016	7	58
+American Dad!		7	802
+American Gods	2017	7	38
+American Horror Stories	2021	7	48
+American Horror Story	2011	7	277
+American Hostage	2026	7	16
+American Housewife	2016	7	206
+American Vandal	2017	7	32
+Amigas Unidas Contra o Peso		7	52
+Amigas e Rivais		7	370
+Amigas para Sempre		7	52
+Amigos Sexo e Jogos	2026	0	2
+Amigos Sexo e Jogos (2026)	2026	7	16
+Among Us	2026	7	20
+Amor		7	340
+Amor 101 - Çati Kati Ask		7	16
+Amor Alem do Tempo		7	152
+Amor Amargo - Aci Ask		7	13
+Amor Apimentado		7	4
+Amor Aqui e Agora		7	20
+Amor Atras das Grades		7	32
+Amor Com Falhas		7	32
+Amor Comum - Adı Sevgi		7	11
+Amor Entre Linhas		7	56
+Amor Fatal As Seis Esposas de Thomas Randolph		7	6
+Amor Fati		7	240
+Amor Fora da Caixa		7	28
+Amor Fora das Grades		7	160
+Amor Golpe e Vinganca		7	12
+Amor Moderno	2019	7	32
+Amor Moderno Tóquio		7	14
+Amor Mortal Amor		7	16
+Amor Negado		7	9
+Amor Oculto		7	50
+Amor Offline		7	20
+Amor Perfeito		7	322
+Amor Platônico	2023	7	40
+Amor Por Acaso		7	54
+Amor Proibido		7	82
+Amor Rural		7	24
+Amor Sem Fim		7	228
+Amor Sem Fim - Kara Sevda		7	148
+Amor Sem Limites	2023	0	63
+Amor Sob Medida		7	10
+Amor Sombrio		7	76
+Amor Take Two		7	24
+Amor Traicoeiro	2024	7	12
+Amor Verdade ou Consequencia Africa do Sul		7	16
+Amor Viciado - İyilik		7	27
+Amor Vingado		7	48
+Amor ate o Fim	2025	7	14
+Amor como um Romance Coreano		7	24
+Amor da Minha Vida	2024	7	20
+Amor de Mentirinha		7	24
+Amor de Mãe		7	250
+Amor de intermediario		7	16
+Amor e Anarquia		8	32
+Amor e Batatas		8	24
+Amor e Esperanca - Ask ve Umut		8	147
+Amor e Honra		8	60
+Amor e Morte		8	14
+Amor e Odio - Aşk ve Mavi		8	15
+Amor e Orgulho - Ask ve Gurur		8	120
+Amor e Outros Dramas		8	40
+Amor e Para os Caes		8	20
+Amor e Sorte		8	8
+Amor e Trapaças	2017	8	40
+Amor na Ilha		8	166
+Amor na Ilha - Ada Masali		8	50
+Amor na Real		8	20
+Amor na Selva		8	14
+Amor nas Alturas		8	16
+Amor no Ar		8	26
+Amor no Caribe Rumo aos 90 Dias		8	78
+Amor no Contrato		8	32
+Amor no Escritorio	2026	8	16
+Amor no Natal		8	8
+Amor para Recomecar	2022	8	24
+Amor sem Idade		8	16
+Amor à Vida		8	442
+Amor: Verdade ou Consequência		8	16
+Amor: Verdade ou Consequência - Sardenha		8	16
+Amor: Verdade ou Consequência – Polônia		8	16
+Amora Negra - Amora Preta - Karadut		8	6
+Amores Bandidos		8	60
+Amores Mortais	2024	8	12
+Amores Roubados		8	20
+Amores Verdadeiros		8	1232
+Amores que Enganam		8	20
+Amorteamo	2015	8	10
+Amphibia		8	142
+Amsterdam		8	26
+Amy e Tammy Irmas Contra o Peso		8	276
+América		8	406
+América Inexplorada		8	20
+Ana		8	78
+Ana Bolena: A Rainha		8	6
+Ana Pimentinha		8	114
+Anatomia de um Escândalo		8	12
+Anatomia do Caos - Kaosun Anatomisi		8	8
+Anatomia do Crime		8	60
+And Just Like That... Um novo capítulo de Sex and the City	2021	8	66
+Andar na Pedra A Historia do Raimundos		8	10
+Anderson Spider Silva	2023	8	10
+Andes Extremo		8	12
+Andromeda		8	220
+Andy Panda		8	26
+Andy e Seu Esquilo		8	78
+Angel Di Maria Quebrando a Barreira		8	6
+Angel: O Caça Vampiro		8	220
+Angela	2024	8	156
+Angela Black		8	12
+Angela Diniz Assassinada e Condenada	2025	8	12
+Angelica 50 e Tanto		8	10
+Angelica 50 e Uns		8	5
+Angelyne: Por Trás do Ícone de Hollywood		8	10
+Angi Crime e Mentira		8	4
+Angry Birds A Ilha Misteriosa		8	48
+Angry Birds: Summer Madness		8	72
+Aniela		8	118
+Animais Drogados		8	6
+Animal		8	156
+Animal Kingdom	2016	8	150
+Animaniacs		8	202
+Anita Mui: A Rainha Pop da Ásia		8	10
+Anitta Made In Honorio		8	12
+Anjo Mau		8	346
+Anjos Ignorantes		8	16
+Anjos caem as vezes		8	48
+Anjos da Guarda		8	32
+Anjos na America		8	12
+Anna		8	20
+Anna Pigeon (2026)	2026	8	20
+Anne Shirley		8	48
+Anne com um E	2017	8	54
+Anomalia		8	20
+Anos 90 A Decada que Mudou o Mundo		8	20
+Anos Dourados		9	40
+Anos Incríveis		9	262
+Anos-luz		9	16
+Anota Ai		9	106
+Antes que Matem de Novo		9	12
+Anti Reset		9	24
+Antologia do Medo		9	26
+Antracite	2024	9	12
+Any Malu Show		9	52
+Ao Norte do Norte		9	16
+Ao Sul do Coracao	2024	9	310
+Ao Vivo do Lado de La com Tyler Henry		9	48
+Aoashi		9	48
+Aos Olhos do Mundo		9	6
+Aoshima kun E um Valentao		9	18
+Apache a Vida de Carlos Tevez		9	16
+Apaixonados Outra Vez		9	16
+Apaixonados Por Comida		9	12
+Apaixonados na Cidade		9	34
+Apaixonando-me Por Ramon		9	234
+Aparente Maldade		9	12
+Apartamento 6/9	2023	9	12
+Apartamento 69		9	12
+Apenas Amigos - Sadece Arkadasiz		9	20
+Apenas Um Show		9	494
+Apenas um Olhar		9	12
+Apenas um Show As Fitas Perdidas		9	34
+Apesar de Tudo, Amor	2021	9	20
+Apocalipse		9	310
+Apocalipse Neandertal		9	2
+Apollo Reconstruindo A Jornada Espacial		9	4
+Aposta de Outro Mundo		9	16
+Aposta de Outro Mundo - Bir Ihtimal Daha Var		9	16
+Apostando Alto		9	32
+Aprendendo a Amar		9	22
+Aprendendo a Licao		9	20
+Aprendendo a Lição	2026	0	20
+Aqua Teen Esquadrao Forca Total		9	266
+Aquaman: Rei de Atlântida		9	6
+Aquarela do Brasil		9	120
+Aquarius		9	52
+Aquela Doença Com C.	2010	9	88
+Aquela Garota - O Kız		9	24
+Aquela Noite - Kara		9	5
+Aqueles Olhos Negros	2022	9	28
+Aqueles Prestes a Morrer		9	20
+Aqui Quem Fala e o Zodiaco		9	6
+Aqui na Terra		9	32
+Araguaia		9	332
+Arcane	2021	9	36
+Arcanjo Renegado	2020	9	80
+Arctic Ascent with Alex Honnold		9	6
+Are You The One? Brasil		9	84
+Are You The One? UK		9	20
+Areia Movedica		9	12
+Ares		9	16
+Aria The Animation		9	106
+Arlequina		9	112
+Armacao ou Amor		9	80
+Armadilha		9	164
+Armadilha do Amor	2019	9	330
+Armadilha do Amor - Afili Ask		9	272
+Armas de Mulher	2022	9	16
+Armas e Amores		9	14
+Armazem 13	2009	9	128
+Armorsaurs		9	26
+Arnold		9	164
+Arqueologias em Busca dos Primeiros Brasileiros		9	12
+Arquivando o Amor		9	24
+Arquivo 81		9	16
+Arquivo Morto		9	306
+Arquivo X	1993	9	434
+Arquivos Alienigenas Reabertos		9	16
+Arquivos Desclassificados com David Duchovny		9	40
+Arquivos Secretos do Vaticano O Papa e o Demonio		9	8
+Arranjo de Natal		9	6
+Arremesso Final	2020	9	20
+Arrested Development		9	182
+Arrow	2012	9	340
+Art Attack: Modo Desafio		9	24
+Artilheiros		9	20
+Aruanas		9	40
+Arvolandia		9	30
+As 24 Personalidades de Billy Milligan		9	8
+As 7 Vidas de Lea		10	14
+As 93 Vitimas de Samuel Little		10	4
+As Amazonas		10	126
+As Amigas do Clube		10	14
+As Aventuras Escolhidas		10	28
+As Aventuras Inventadas de Dick Turpin	2024	10	14
+As Aventuras de Bernie		10	60
+As Aventuras de Bertie Gregory		10	10
+As Aventuras de Gortimer Gibbon na Rua Normal		10	52
+As Aventuras de Horton		10	14
+As Aventuras de Jackie Chan	2000	10	190
+As Aventuras de José e Durval	2023	10	16
+As Aventuras de Kid Danger		10	40
+As Aventuras de Merlin	2008	10	130
+As Aventuras de Minuano Kid		10	8
+As Aventuras de Poliana		10	1128
+As Aventuras de Sunny Bunnies		10	104
+As Aventuras de Tom e Jerry		10	78
+As Aventuras do Batman		10	34
+As Aventuras do Gato de Botas		10	104
+As Brasileiras		10	44
+As Bruxas Mayfair de Anne Rice	2023	10	32
+As Canalhas		10	26
+As Cheerleaders do Dallas Cowboys		10	28
+As Confissoes de Gypsy Rose		10	12
+As Criancas Que Amamos		10	26
+As Criancas do Paraiso - Cennetin Cocuklari		10	34
+As Cronicas de Evermoor		10	40
+As Cronicas de Gumball		10	16
+As Crônicas de Shannara	2016	10	40
+As Crônicas de Usagi: O Coelho Samurai		10	40
+As Células de Yumi		10	56
+As Fabulosas Aventuras de Moka		10	156
+As Fabulosas Aventuras dos Freak Brothers		10	32
+As Faces da Verdade: Duplo Assassinato em Topeka		10	6
+As Falsificadoras		10	20
+As Fas do Turno da Noite		10	16
+As Filhas da Mae		10	250
+As Filhas da Seita Uma Historia de Abusos		10	10
+As Filhas da Senhora Garcia		10	164
+As Five		10	52
+As Flores Perdidas de Alice Hart	2023	10	14
+As Garotas do Fundão		10	12
+As Garotas do Onibus Jornalistas de Campanha	2024	10	20
+As Ginastas		10	12
+As Grandes Ferias Grandes		10	20
+As Grandes Minorias		10	6
+As Irmas Grimm		10	12
+As Irmas Guerra		10	40
+As Irmãs Culpo		10	12
+As Leis da Selva		10	16
+As Leis de Lidia Poët	2023	10	36
+As Lendas		10	110
+As Maes dos Pinguins		10	12
+As Maiores Maquinas Do Mundo		10	12
+As Mais Incriveis Viagens de Animais		10	14
+As Maldicoes		10	6
+As Maravilhas dos Estados Unidos		10	12
+As Megamarcas que Mudaram o Mundo		10	24
+As Meninas Superpoderosas		10	356
+As Meninas de Surfside		10	20
+As Mil Mortes de Nora Dalmasso		10	6
+As Mil Vidas de Bernard Tapie		10	14
+As Mortas		10	12
+As Novas Aventuras de Christine		10	176
+As Novas Aventuras de Gasparzinho		10	104
+As Novas Aventuras de Jonny Quest		10	26
+As Novas Aventuras do Macaco		10	40
+As Novas Aventuras do Superman		10	96
+As Novas Aventuras do Ursinho Puff		10	100
+As Nove Emoções		10	232
+As Panteras		10	198
+As Pequenas Coisas da Vida	2023	10	16
+As Piores Prisoes do Mundo		10	50
+As Prisoes Mais Notorias do Mundo		10	24
+As Pupilas do Senhor Reitor		10	370
+As Quatro Estacoes do Ano	2025	10	32
+As Seguidoras		10	12
+As Telefonistas	2017	10	84
+As Terríveis Aventuras de Billy e Mandy		10	152
+As Tontas Não Vão ao Céu		10	280
+As Trapalhadas de Flapjack		10	180
+As Trigêmeas		10	208
+As Três Irmãs	2022	10	24
+As Vidas Secretas da Família Uysal		10	16
+As Visões da Raven		10	199
+As Viúvas das Quintas-Feiras		10	12
+As Últimas Horas do Titanic	2025	10	8
+Asaf	2024	10	12
+Asas da Ambição		10	48
+Ascensão: Império Otomano		10	24
+Ash vs Evil Dead	2015	10	60
+Ashley Madison Sexo Mentiras e Escandalo		10	6
+Asla Vazgecmem		10	118
+Assassination Classroom	2015	10	94
+Assassinato de uma Sexta a Noite		10	44
+Assassinato do Primeiro-Ministro		10	10
+Assassinato em Boston Raizes Furia e Acerto de Contas		11	6
+Assassinato em Middle Beach		11	8
+Assassinato na Casa Branca	2025	11	16
+Assassinato na Cidade da Bola de Espelhos		11	4
+Assassinato no Fim do Mundo		11	14
+Assassino Sem Passado		11	20
+Assassino Zen		11	32
+Assassino do Zodiaco		11	10
+Assassinos Indianos O Monstro de Bangalore		11	6
+Assassinos Indianos: Assassinato na Corte		11	6
+Assassinos Indianos: O Estripador de Déli		11	3
+Assassímio da Marvel		11	40
+Assim Como a Gente		11	20
+Assim Falava Kishibe Rohan		11	8
+Assustadoramente Apaixonados		11	24
+Assédio		11	20
+Asterix e Obelix O Combate dos Chefes	2025	11	10
+Astronauta	2024	11	12
+Asura		11	14
+Ataque dos Titas		11	178
+Ataque em Londres Os Atentados de 7 de Julho		11	8
+Ate Eu Destruir a Outra Familia do Meu Marido		11	24
+Ate Que O Restaurante Nos Separe		11	12
+Ate Que o Design nos Separe		11	18
+Ate o Ultimo Samurai		11	12
+Ate o Ultimo Suspiro - Son Nefesime Kadar		11	5
+Ate que se Prove o Contrário		11	18
+Atlanta		11	82
+Atlântida		11	52
+Atomic	2025	11	52
+Atração Fatal		11	16
+Atrevo-me a Amar-te - Ouse Amar - Me atrevo a Amarte		11	83
+Attack on Titan	2013	0	174
+Attack on Titan / Ataque dos Titãs	2013	11	106
+Atypical	2017	11	76
+Até o Céu		11	14
+Até o Céu: A Série		11	14
+Até o Fim - Flamengo Campeão da Libertadores	2019	11	10
+Aula de Amor		11	32
+Aula de Assassinato		11	6
+Austentação		11	20
+Austin & Ally		11	174
+Australia Shore		11	40
+Auto Posto		11	40
+Avatar O Ultimo Mestre do Ar	2024	11	30
+Avatar: A Lenda de Aang	2005	11	143
+Avatar: O Último Mestre do Ar	2024	0	30
+Avatar: Os Sete Refugios	2026	11	26
+Avatar: Os Sete Refúgios	2026	0	14
+Avenida Brasil		11	358
+Aventura em Matilha		11	12
+Aventuras do Didi		11	130
+Avenue 5		11	34
+Avisa Lá Que Eu Vou		11	80
+Away		11	398
+Ayse - Ayse Bir Ruh Macerasi		11	10
+a Aprendiz de Feiticeira		11	326
+a Aranha		11	156
+a cor do amor - a cor do amor		11	69
+aka Charlie Sheen		11	4
+amor ilimitado - amor ilimitado		11	70
+À Beira do Caos		11	24
+À Beira do Precipício		11	12
+À Procura do Amor		11	6
+À Procura do Assassino: Aqueles Que Matam	2019	11	32
+À Prova de Risco		11	12
+À Prova de Tudo	2006	11	148
+À Tona		11	16
+Águas do Norte		11	12

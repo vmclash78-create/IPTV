@@ -1,0 +1,47 @@
+base: 0 http://desativado.invalid/up.kiwi/movie/351921603109/34939156/
+base: 1 http://desativado.invalid/up.kiwi/series/351921603109/34939156/
+base: 2 http://tjtor8411.com:80/movie/Osiel123/Felicidade321/
+base: 3 http://tjtor8411.com:80/series/Osiel123/Felicidade321/
+base: 4 http://desativado.invalid/hubby.cx/movie/Pdsrv-vods/726216683528qroqv/
+base: 5 http://desativado.invalid/hubby.cx/series/Pdsrv-vods/726216683528qroqv/
+base: 6 http://proxy.nr3.xyz:80/movie/daniellytvc/danielly2396/
+base: 7 http://proxy.nr3.xyz:80/series/daniellytvc/danielly2396/
+base: 8 http://tvonhdbr.com:80/movie/493754/NqCxf1/
+base: 9 http://tvonhdbr.com:80/series/493754/NqCxf1/
+base: 10 http://corruptx.org:80/movie/3llohwk4g9/kwf099q30o/
+base: 11 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/
+base: 12 http://vaiagora.vip:80/movie/5q8VUj/5BeUd8/
+base: 13 http://vaiagora.vip:80/series/5q8VUj/5BeUd8/
+base: 14 http://vivlar.me:80/movie/497238/KK8Kdy/
+base: 15 http://vivlar.me:80/series/497238/KK8Kdy/
+base: 16 http://corruptx.org:80/movie/hfp5ejnrey/zq0u3kzads/
+base: 17 http://corruptx.org:80/series/hfp5ejnrey/zq0u3kzads/
+base: 18 http://desativado.invalid/hubby-dmca.com/movie/
+base: 19 http://desativado.invalid/hubby-dmca.com/series/
+#	447	116	11
+A	4532	1352	117
+B	1050	453	579
+C	1859	756	135
+D	1406	541	411
+E	1200	340	21
+F	806	297	17
+G	553	263	19
+H	568	283	39
+I	505	227	25
+J	533	151	45
+K	221	129	44
+L	760	291	82
+M	1876	754	327
+N	828	273	55
+O	4051	957	45
+P	1436	471	252
+Q	330	90	0
+R	838	356	94
+S	1704	725	195
+T	1530	745	551
+U	1229	197	2
+V	662	224	16
+W	172	98	20
+X	37	15	425
+Y	42	71	15
+Z	110	26	4
