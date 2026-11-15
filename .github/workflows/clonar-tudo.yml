@@ -1,0 +1,45 @@
+name: Clonar tudo
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-ip-tv
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Install tools
+        run: sudo apt-get update && sudo apt-get install -y wget
+
+      - name: Run mirror
+        run: python3 clonar.py
+
+      - name: Commit and push mirrored files
+        run: |
+          git add SaimoPlayer saimo-tv canais-saimo filmes-saimo
+          if git diff --cached --quiet; then
+            echo "No mirror changes."
+            exit 0
+          fi
+          git commit -m "Sync authorized Saimo sources"
+          git push origin HEAD:main
