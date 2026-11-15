@@ -10,15 +10,15 @@ permissions:
   contents: write
 
 concurrency:
-  group: mirror-ip-tv
+  group: saimo-mirror
   cancel-in-progress: false
 
 jobs:
   mirror:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 180
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -28,18 +28,20 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Install tools
-        run: sudo apt-get update && sudo apt-get install -y wget
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      - name: Run mirror
+      - name: Run complete mirror
         run: python3 clonar.py
 
-      - name: Commit and push mirrored files
+      - name: Commit mirrored content
         run: |
-          git add SaimoPlayer saimo-tv canais-saimo filmes-saimo
+          git add SaimoPlayer canais-saimo filmes-saimo
           if git diff --cached --quiet; then
-            echo "No mirror changes."
+            echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Sync authorized Saimo sources"
+          git commit -m "Sync Saimo source and catalogs"
           git push origin HEAD:main
