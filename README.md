@@ -1,30 +1,34 @@
-# IPTV — espelho automatizado
+# IPTV — espelho privado
 
-Este repositório contém um processo de espelhamento das fontes autorizadas configuradas em `clonar.py`.
+Espelho automatizado do código-fonte SaimoPlayer e dos arquivos de catálogo configurados em `clonar.py`.
 
-## Estrutura gerada
+## Estrutura
 
-- `SaimoPlayer/` — clone do repositório Git de origem.
-- `saimo-tv/` — espelho do site saimo-tv.pages.dev.
-- `canais-saimo/` — espelho do site canais-saimo.pages.dev.
-- `filmes-saimo/` — espelho do site filmes-saimo.pages.dev.
+- `SaimoPlayer/` — arquivos do repositório Git de origem, sem o histórico Git interno.
+- `canais-saimo/` — arquivos de catálogo de canais.
+- `filmes-saimo/` — índice, catálogos por letra, partições de episódios e arquivos auxiliares.
+- `redeflix/` — arquivos de links auxiliares, dentro de `filmes-saimo/`.
 
-## Como executar
+## Execução
 
-O GitHub Actions executa automaticamente:
-- após um `push` na branch `main`;
-- manualmente, em **Actions → Clonar tudo → Run workflow**.
+O GitHub Actions roda:
+- manualmente em **Actions → Clonar tudo → Run workflow**;
+- automaticamente após cada `push` na branch `main`.
 
-O workflow baixa as fontes, atualiza as pastas e cria um commit somente quando há alterações.
+O script lê `indice.txt`, identifica as chaves `#` e `A`–`Z`, tenta as variantes `%23`, `0` e `outros` para a chave `#`, e baixa as listas de filmes/séries e as partições numeradas de episódios a partir de `-0`, parando no primeiro arquivo que não retornar HTTP 2xx.
 
 ## Execução local
 
-Requisitos: Python 3, Git e GNU Wget.
+Requisitos: Python 3.10+ e Git.
 
 ```bash
 python3 clonar.py
 ```
 
-## Observações
+## Observações operacionais
 
-O espelhamento depende de os endereços de origem permanecerem públicos e acessíveis. O Wget segue páginas e recursos encontrados no mesmo domínio; caminhos protegidos, conteúdo carregado exclusivamente por APIs ou bloqueios do servidor podem exigir regras específicas adicionais. Verifique os direitos de redistribuição e os termos aplicáveis a cada fonte antes de publicar o conteúdo espelhado.
+- Arquivos opcionais que não existirem na origem são registrados como ausentes.
+- `indice.txt` e pelo menos um arquivo de canais são obrigatórios para uma execução bem-sucedida.
+- O limite de segurança é de 1.000 partições por letra; se for atingido, a execução falha explicitamente.
+- O espelhamento preserva os nomes e a estrutura de diretórios definidos no script.
+- Mantenha este repositório privado: os catálogos podem conter URLs e credenciais de serviços. A visibilidade privada reduz exposição, mas não substitui controle de acesso, rotação de credenciais e armazenamento seguro de segredos.
