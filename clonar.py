@@ -12,7 +12,7 @@ TMP = ROOT / ".mirror-tmp"
 
 SITES = {
     "saimo-tv": "https://saimo-tv.pages.dev/",
-    "canais-saimo": "https://canais-saimo.pages.dev/",
+    "canais-saimo": "https://canais-saimo.pages.dev/home",
     "filmes-saimo": "https://filmes-saimo.pages.dev/",
 }
 SOURCE_REPO = "https://github.com/SaimoTV/SaimoPlayer.git"
