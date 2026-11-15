@@ -1,182 +1,215 @@
 #!/usr/bin/env python3
-"""Browser-based mirror for the authorized Saimo sources.
+"""Mirror authorized Saimo source code and text catalogs into this repository.
 
-Uses Chromium because the sites are client-rendered and expose navigation
-through the "Endereços do Saimo" interface rather than plain static HTML.
+The catalog layout is preserved:
+  SaimoPlayer/
+  canais-saimo/
+  filmes-saimo/
 """
 from __future__ import annotations
 
+import re
 import shutil
 import subprocess
 import sys
+import time
+import urllib.error
+import urllib.request
 from pathlib import Path
-from urllib.parse import urlparse, unquote
-
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from typing import Optional
 
 ROOT = Path(__file__).resolve().parent
-TMP = ROOT / ".mirror-tmp"
-ENTRY_URL = "https://saimo-tv.pages.dev/home"
-SOURCE_REPO = "https://github.com/SaimoTV/SaimoPlayer.git"
-ALLOWED_HOSTS = {
-    "saimo-tv.pages.dev",
-    "canais-saimo.pages.dev",
-    "filmes-saimo.pages.dev",
-}
-FOLDER_BY_HOST = {
-    "saimo-tv.pages.dev": "saimo-tv",
-    "canais-saimo.pages.dev": "canais-saimo",
-    "filmes-saimo.pages.dev": "filmes-saimo",
-}
-SKIP_EXTENSIONS = {
-    ".mp4", ".m3u8", ".ts", ".mp3", ".aac", ".mkv", ".avi", ".mov",
-    ".woff", ".woff2", ".ttf", ".otf",
-}
+CHANNELS_URL = "https://canais-saimo.pages.dev/"
+MOVIES_URL = "https://filmes-saimo.pages.dev/"
+SOURCE_GIT = "https://github.com/SaimoTV/SaimoPlayer.git"
+USER_AGENT = "Mozilla/5.0 (compatible; IPTV-Catalog-Mirror/1.0)"
+TIMEOUT = 35
+RETRIES = 3
+DELAY = 0.12
+MAX_SERIES_PARTS = 1000
+
+CHANNEL_FILES = (
+    "catalogo.txt",
+    "canais.txt",
+    "guia.txt",
+    "radios.txt",
+    "restritos.txt",
+)
+MOVIE_FIXED_FILES = (
+    "indice.txt",
+    "destaques.txt",
+    "busca.txt",
+    "generos.txt",
+    "marcas.txt",
+    "fichas.txt",
+    "detalhes.txt",
+    "links-doramas.txt",
+    "redeflix/links-animes.txt",
+    "redeflix/links-doramas.txt",
+)
 
 
-def run(command: list[str], cwd: Path | None = None) -> None:
-    print("+", " ".join(command), flush=True)
-    subprocess.run(command, cwd=cwd, check=True)
-
-
-def mirror_git_repo() -> None:
-    destination = ROOT / "SaimoPlayer"
-    if TMP.exists():
-        shutil.rmtree(TMP)
-    run(["git", "clone", "--depth", "1", SOURCE_REPO, str(TMP)])
-    if destination.exists():
-        shutil.rmtree(destination)
-    shutil.copytree(TMP, destination, ignore=shutil.ignore_patterns(".git"))
-    shutil.rmtree(TMP)
-
-
-def local_path(url: str) -> Path | None:
-    parsed = urlparse(url)
-    host = (parsed.hostname or "").lower()
-    if host not in ALLOWED_HOSTS:
-        return None
-    folder = ROOT / FOLDER_BY_HOST[host]
-    path = unquote(parsed.path or "/")
-    if path.endswith("/"):
-        path += "index.html"
-    if not Path(path).suffix:
-        path += ".html"
-    relative = Path(path.lstrip("/"))
-    if ".." in relative.parts:
-        return None
-    return folder / relative
-
-
-def mirror_web_sources() -> None:
-    for folder in FOLDER_BY_HOST.values():
-        target = ROOT / folder
-        if target.exists():
-            shutil.rmtree(target)
-        target.mkdir(parents=True)
-
-    queue = [ENTRY_URL]
-    visited: set[str] = set()
-    saved: set[str] = set()
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent=("Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
-                        "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 "
-                        "Mobile/15E148 Safari/604.1"),
-            viewport={"width": 390, "height": 844},
-            is_mobile=True,
-            has_touch=True,
+def request_bytes(url: str) -> Optional[bytes]:
+    for attempt in range(1, RETRIES + 1):
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "text/plain, text/*;q=0.9, */*;q=0.5",
+                "Cache-Control": "no-cache",
+            },
         )
-        page = context.new_page()
+        try:
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
+                if 200 <= response.status < 300:
+                    return response.read()
+                return None
+        except urllib.error.HTTPError as exc:
+            if exc.code in (404, 410):
+                return None
+            if exc.code in (401, 403):
+                print(f"  HTTP {exc.code}: {url}", flush=True)
+                return None
+            if attempt == RETRIES:
+                print(f"  HTTP {exc.code}: {url}", flush=True)
+        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            if attempt == RETRIES:
+                print(f"  Request failed: {url}: {exc}", flush=True)
+        time.sleep(attempt * 0.8)
+    return None
 
-        while queue:
-            url = queue.pop(0)
-            if url in visited:
-                continue
-            visited.add(url)
-            if len(visited) > 250:
-                print("Safety limit reached: 250 pages.")
-                break
 
-            print(f"Opening in Chromium: {url}", flush=True)
-            try:
-                page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                page.wait_for_timeout(2500)
-            except PlaywrightTimeoutError:
-                print(f"Navigation timed out; checking rendered page: {url}")
+def download_file(base_url: str, relative_path: str, destination: Path) -> bool:
+    url = base_url.rstrip("/") + "/" + relative_path.lstrip("/")
+    data = request_bytes(url)
+    if data is None:
+        return False
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_bytes(data)
+    print(f"  OK {relative_path} ({len(data):,} bytes)", flush=True)
+    time.sleep(DELAY)
+    return True
 
-            # The welcome screen exposes the catalog/source links through this control.
-            try:
-                button = page.get_by_text("Endereços do Saimo", exact=False).first
-                if button.is_visible(timeout=1500):
-                    button.click(timeout=5000)
-                    page.wait_for_timeout(1800)
-            except Exception:
-                pass
 
-            # Collect links after client-side rendering and after opening the address panel.
-            links = page.locator("a[href]").evaluate_all(
-                "(els) => els.map(a => a.href)"
-            )
-            resource_urls = page.evaluate(
-                "() => performance.getEntriesByType('resource').map(e => e.name)"
-            )
-            current_url = page.url
-            candidates = [current_url, *links, *resource_urls]
+def mirror_git_source() -> None:
+    target = ROOT / "SaimoPlayer"
+    temp = ROOT / ".SaimoPlayer-clone"
+    if temp.exists():
+        shutil.rmtree(temp)
+    subprocess.run(
+        ["git", "clone", "--depth", "1", SOURCE_GIT, str(temp)],
+        check=True,
+    )
+    if target.exists():
+        shutil.rmtree(target)
+    shutil.copytree(temp, target, ignore=shutil.ignore_patterns(".git"))
+    shutil.rmtree(temp)
+    print("SaimoPlayer source mirrored.", flush=True)
 
-            # Preserve rendered HTML, including the page state reached after the button click.
-            try:
-                html = page.content()
-                dest = local_path(current_url)
-                if dest:
-                    dest.parent.mkdir(parents=True, exist_ok=True)
-                    dest.write_text(html, encoding="utf-8")
-                    saved.add(current_url)
-            except Exception as exc:
-                print(f"Could not save rendered HTML for {current_url}: {exc}")
 
-            for candidate in candidates:
-                parsed = urlparse(candidate)
-                host = (parsed.hostname or "").lower()
-                if host not in ALLOWED_HOSTS:
-                    continue
-                normalized = parsed._replace(fragment="").geturl()
-                dest = local_path(normalized)
-                if not dest or normalized in saved:
-                    continue
-                suffix = dest.suffix.lower()
-                if suffix in SKIP_EXTENSIONS:
-                    continue
-                # Queue HTML pages for rendering; download static assets and catalog files.
-                if suffix in {"", ".html", ".htm"}:
-                    if normalized not in visited and normalized not in queue:
-                        queue.append(normalized)
-                    continue
-                try:
-                    response = context.request.get(normalized, timeout=30000)
-                    if response.ok:
-                        dest.parent.mkdir(parents=True, exist_ok=True)
-                        dest.write_bytes(response.body())
-                        saved.add(normalized)
-                        print(f"Saved {normalized} ({len(response.body())} bytes)")
-                except Exception as exc:
-                    print(f"Skipped {normalized}: {exc}")
+def mirror_channels() -> None:
+    print("\n== Canais ==", flush=True)
+    target = ROOT / "canais-saimo"
+    successes = 0
+    for name in CHANNEL_FILES:
+        if download_file(CHANNELS_URL, name, target / name):
+            successes += 1
+        else:
+            print(f"  Ausente/indisponível: {name}", flush=True)
+    if successes == 0:
+        raise RuntimeError("Nenhum arquivo de canais foi baixado; confira a origem.")
 
-        browser.close()
 
-    if not saved:
-        raise RuntimeError("No pages or assets were captured. Check the source routes/access.")
+def parse_index_letters(index_text: str) -> list[str]:
+    letters: list[str] = []
+    for raw in index_text.splitlines():
+        line = raw.strip("\ufeff \r")
+        if not line or line.lower().startswith("base:"):
+            continue
+        # Index rows are tab-delimited: key, movie count, series count, optional count.
+        cols = re.split(r"\t+", line)
+        if len(cols) >= 3:
+            key = cols[0].strip()
+            if key == "#" or re.fullmatch(r"[A-Z]", key):
+                if key not in letters:
+                    letters.append(key)
+    return letters
+
+
+def download_letter_file(
+    base_url: str, folder: Path, kind: str, letter: str
+) -> bool:
+    # '#' can be published under URL-encoded, numeric, or textual aliases.
+    candidates = ["%23", "0", "outros"] if letter == "#" else [letter]
+    for candidate in candidates:
+        name = f"{kind}-{candidate}.txt"
+        data = request_bytes(base_url.rstrip("/") + "/" + name)
+        if data is not None:
+            canonical = f"{kind}-{letter}.txt"
+            dest = folder / canonical
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(data)
+            print(f"  OK {canonical} via {name} ({len(data):,} bytes)", flush=True)
+            time.sleep(DELAY)
+            return True
+        time.sleep(DELAY)
+    print(f"  Ausente: {kind}-{letter}.txt", flush=True)
+    return False
+
+
+def download_series_parts(base_url: str, folder: Path, letter: str) -> int:
+    downloaded = 0
+    for part in range(MAX_SERIES_PARTS):
+        relative = f"series-{letter}-{part}.txt"
+        dest = folder / relative
+        if not download_file(base_url, relative, dest):
+            # The published format uses contiguous zero-based part numbers.
+            break
+        downloaded += 1
+    if downloaded == MAX_SERIES_PARTS:
+        raise RuntimeError(
+            f"Limite de {MAX_SERIES_PARTS} partes atingido para a letra {letter}; "
+            "verifique se a origem tem mais arquivos."
+        )
+    return downloaded
+
+
+def mirror_movies() -> None:
+    print("\n== Filmes e séries ==", flush=True)
+    target = ROOT / "filmes-saimo"
+    target.mkdir(parents=True, exist_ok=True)
+
+    if not download_file(MOVIES_URL, "indice.txt", target / "indice.txt"):
+        raise RuntimeError("Não foi possível baixar filmes-saimo/indice.txt.")
+
+    index_text = (target / "indice.txt").read_text(encoding="utf-8-sig")
+    letters = parse_index_letters(index_text)
+    if not letters:
+        raise RuntimeError("Nenhuma letra válida encontrada em indice.txt.")
+
+    for name in MOVIE_FIXED_FILES:
+        if name == "indice.txt":
+            continue
+        if not download_file(MOVIES_URL, name, target / name):
+            print(f"  Opcional/ausente: {name}", flush=True)
+
+    print(f"\nLetras encontradas no índice: {', '.join(letters)}", flush=True)
+    for letter in letters:
+        download_letter_file(MOVIES_URL, target, "filmes", letter)
+        download_letter_file(MOVIES_URL, target, "series", letter)
+        parts = download_series_parts(MOVIES_URL, target, letter)
+        print(f"  Partes de episódios para {letter}: {parts}", flush=True)
 
 
 def main() -> int:
     try:
-        mirror_git_repo()
-        mirror_web_sources()
-    except Exception as exc:
-        print(f"Mirror failed: {exc}", file=sys.stderr)
+        mirror_git_source()
+        mirror_channels()
+        mirror_movies()
+    except (subprocess.CalledProcessError, OSError, RuntimeError) as exc:
+        print(f"ERRO: {exc}", file=sys.stderr, flush=True)
         return 1
-    print("Mirror completed.")
+    print("\nEspelhamento concluído.", flush=True)
     return 0
 
 
