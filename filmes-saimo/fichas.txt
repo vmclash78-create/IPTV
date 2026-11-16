@@ -49839,3 +49839,10 @@ s	Jeannie É um Gênio	1660	/fWYdZVUi11Qwe7wKDNjhJPWvDPS.jpg	Ficção e fantasia
 s	Meteóro: O Futuro Está Em Jogo	31757	/vOAHAb1FIAvSX30th3OHlYAUn4i.jpg	Ação e aventura,Drama,Ficção e fantasia
 s	Mico Preto	79163	/8SLDhpS7qkm4QwMOK3oWjMeKi4t.jpg	Soap,Drama
 s	Nosso Planeta	83880	/eqfdX4xNY7NANbn11APM7dZvJdD.jpg	Documentário,Família
+f	Capitão América: O Soldado Invernal (2014)	100402	/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg	Ação,Aventura,Ficção científica
+f	Vingadores: Era de Ultron (2015)	99861	/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg	Ação,Aventura,Ficção científica
+f	Homem-Formiga (2015)	102899	/lsiy4IcnbtChkayPMxLda2fq4xM.jpg	Ficção científica,Aventura,Ação
+f	Guardiões da Galáxia - Vol. 2 (2017)	283995	/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg	Ficção científica,Aventura,Ação
+f	Guardiões da Galáxia: Vol. 3 (2023)	447365	/4yycSPnchdNAZirGkmCYQwTd3cr.jpg	Ficção científica,Aventura,Ação
+f	Guardiões da Galáxia (2014)	118340	/xaY92XMToaSnBuvCui3LHzNGqZB.jpg	Ação,Ficção científica,Aventura
+f	Ebenezer e os Fantasmas do Natal (2026)	1567605	/7MBeM27NNcCYUszjTNYJUycPDhV.jpg	Fantasia,Comédia

@@ -1,74 +1,71 @@
-KAIJU GIRL CARAMELISE		0	24
-KAOS		0	16
-KILL BLUE		0	24
-KLASS 95 O Poder da Beleza	2024	0	110
-KND A Turma do Bairro		0	132
-Kabe Koji		0	16
-Kaiju No. 8		0	58
-Kakegurui		0	24
-Kakegurui Bet		0	20
-Kakegurui Twin		0	12
-Kakkou no Iinazuke		0	72
-Kakushite Makina san		0	24
-Kakushite! Makina-san!!	2025	0	12
-Kalahari Land of Secret Alliances		0	6
-Kallys Mashup		0	160
-Kamen Rider Black RX		0	94
-Kamen Rider Build		0	98
-Kamen Rider ZEZTZ		0	100
-Kamikaze: Em Queda Livre		0	16
-Kanojo Okarishimasu		0	48
-Katla	2021	0	16
-Katrina Depois da Tempestade		0	6
-Katy Keene		0	26
-Keep Your Hands Off Eizouken		0	24
-Kelp o Unicornio do Mar		0	78
-Ken e Barbie: O Casal Assassino		0	8
-Kenan		0	126
-Kenan e Kel		0	122
-Kengan Ashura	2019	0	104
-Kentaro Hiyama: O Homem que Engravidou		0	16
-Kevin Pode Esperar	2016	0	96
-Kevin Spacey A Historia Nao Contada		0	4
-Kick Buttowski: Um Projeto de Dublê		0	166
-Kick Kick Kick Kick		0	252
-Kid Cosmic		0	36
-Kid vs. Kat		0	104
-Kiddie Kai: O Universo das Artes Marciais		0	12
-Kidding	2018	0	40
-Kiff		0	170
-Killing Eve		0	64
-Killing Eve Dupla Obsessao	2018	0	14
-Killjoys	2015	0	20
-Kim Possible		0	172
-Kimberley O Oeste Selvagem da Australia		0	6
-Kimi wa Houkago Insomnia		0	26
-Kindaichi: O Jovem Detetive		0	20
-Kindred: Segredos e Raízes		0	16
-King of Boys: The Return of the King		0	14
-Kingdom	None	0	24
-Kipo E Os Animonstros		0	20
-Kiss Me First	2018	0	4
-Kissable Lips		0	16
-Kit de Sobrevivencia		0	16
-Kitti Katz		0	20
-Kitz		0	12
-Kleo	2022	0	28
-Knightfall		0	36
-Knuckles	2024	0	12
-Koala Man		0	16
-Konosuba	2016	1	24
-Konosuba As Bencaos de Deus Neste Mundo Maravilhoso		1	62
-Kotaro Vai Morar Sozinho		1	20
-Krypto Salva o Dia		1	8
-Krypton	2018	1	40
-Kubanacan		1	454
-Kubra	2024	1	32
-Kung Fu		1	100
-Kung Fu Panda: Lendas do Dragão Guerreiro		1	160
-Kung Fu Panda: O Cavaleiro Dragão		1	84
-Kung Fu Wa		1	104
-Kurukshetra A Grande Guerra de Mahabharata		1	36
-Kururi Whos in Love with me		1	22
-Kyle XY		1	86
-Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara		1	24
+KAIJU GIRL CARAMELISE		0	8
+KAOS		0	8
+KILL BLUE		0	12
+KLASS 95 O Poder da Beleza	2024	0	45
+KND A Turma do Bairro		0	66
+Kabe Koji		0	8
+Kaiju No. 8		0	24
+Kakegurui Bet		0	10
+Kakegurui Twin		0	6
+Kakushite Makina san		0	12
+Kalahari Land of Secret Alliances		0	3
+Kallys Mashup		0	80
+Kamen Rider Black RX		0	47
+Kamen Rider Build		0	49
+Kamen Rider ZEZTZ		0	47
+Kamikaze: Em Queda Livre		0	8
+Kanojo Okarishimasu		0	24
+Katla	2021	0	8
+Katrina Depois da Tempestade		0	3
+Katy Keene		0	13
+Keep Your Hands Off Eizouken		0	12
+Kelp o Unicornio do Mar		0	39
+Ken e Barbie: O Casal Assassino		0	4
+Kenan		0	10
+Kenan e Kel		0	60
+Kengan Ashura	2019	0	52
+Kentaro Hiyama: O Homem que Engravidou		0	8
+Kevin Pode Esperar	2016	0	48
+Kevin Spacey A Historia Nao Contada		0	2
+Kick Buttowski: Um Projeto de Dublê		0	52
+Kick Kick Kick Kick		0	12
+Kid Cosmic		0	18
+Kid vs. Kat		0	26
+Kiddie Kai: O Universo das Artes Marciais		0	6
+Kidding	2018	0	20
+Kiff		0	58
+Killing Eve		0	32
+Killing Eve Dupla Obsessao	2018	0	3
+Killjoys	2015	0	10
+Kim Possible		0	81
+Kimberley O Oeste Selvagem da Australia		0	3
+Kimi wa Houkago Insomnia		0	13
+Kindaichi: O Jovem Detetive		0	10
+Kindred: Segredos e Raízes		0	8
+King of Boys: The Return of the King		0	7
+Kingdom	None	0	12
+Kipo E Os Animonstros		0	10
+Kiss Me First	2018	0	1
+Kissable Lips		0	8
+Kit de Sobrevivencia		0	8
+Kitti Katz		0	10
+Kitz		0	6
+Kleo	2022	0	14
+Knightfall		0	18
+Knuckles	2024	0	6
+Koala Man		0	8
+Konosuba	2016	1	5
+Konosuba As Bencaos de Deus Neste Mundo Maravilhoso		1	5
+Kotaro Vai Morar Sozinho		1	10
+Krypto Salva o Dia		1	3
+Krypton	2018	1	25
+Kubanacan		1	227
+Kubra	2024	1	16
+Kung Fu		1	36
+Kung Fu Panda: Lendas do Dragão Guerreiro		1	80
+Kung Fu Panda: O Cavaleiro Dragão		1	42
+Kung Fu Wa		1	49
+Kurukshetra A Grande Guerra de Mahabharata		1	18
+Kururi Whos in Love with me		1	11
+Kyle XY		1	43
+Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara		1	12

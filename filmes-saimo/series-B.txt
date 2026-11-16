@@ -1,344 +1,337 @@
-B Daman Crossfire		0	104
-B Positive		0	68
-B.A. O Futuro Esta Morto		0	16
-B.O.		0	16
-BAKI DOU O Samurai Invencivel		0	50
-BASTARD!!		0	78
-BBB Tá On		0	20
-BLACK TORCH	2026	0	0
+B Daman Crossfire		0	26
+B Positive		0	34
+B.A. O Futuro Esta Morto		0	8
+B.O.		0	8
+BAKI DOU O Samurai Invencivel		0	25
+BASTARD!!		0	39
+BBB Tá On		0	10
 BLUE LOCK	2022	0	24
-BMF	2021	0	76
-BO	2023	0	12
-BORU Esquadrao Lobo		0	12
-BTS In the SOOP		0	26
-BULLET BULLET		0	24
-BURN THE WITCH		0	6
-Baby		0	36
-Baby Bandito		0	16
-Baby Looney Tunes		0	204
-Baby Vampire Blues		0	16
-Babylon 5	1994	0	220
-Babylon Berlin	2017	0	56
-Back Street Girls Gokudolls		0	20
-Bad Blood	2017	0	28
-Bad Boy		0	16
-Bad Boys e Bilionários: Índia		0	8
-Bad Buddy The Series		0	24
-Bad Genius The Series		0	24
-Bad Guys		0	24
-Bad Monkey	2024	0	20
-Bahar		0	608
-Bairros em Guerra		0	4
-Bake Me Please		0	12
-Bake Off Brasil - Cereja do Bolo		0	62
-Bake Off Brasil – Celebridades		0	36
-Bake Off Brasil: Mão na Massa		0	262
-Baki Hanma	2021	0	78
-Baki O Campeao		0	10
-Ballard Crimes Sem Resposta	2025	0	20
-Ballers	2015	0	94
-Balthazar		0	64
-Bambolê		0	346
-Banco Central sob Ataque		0	10
-Bancroft		0	14
+BMF	2021	0	38
+BO	2023	0	1
+BORU Esquadrao Lobo		0	6
+BTS In the SOOP		0	12
+BULLET BULLET		0	12
+BURN THE WITCH		0	1
+Baby		0	18
+Baby Bandito		0	8
+Baby Looney Tunes		0	102
+Baby Vampire Blues		0	8
+Babylon 5	1994	0	110
+Babylon Berlin	2017	0	28
+Back Street Girls Gokudolls		0	10
+Bad Blood	2017	0	14
+Bad Boy		0	8
+Bad Boys e Bilionários: Índia		0	3
+Bad Buddy The Series		0	12
+Bad Genius The Series		0	12
+Bad Guys		0	12
+Bad Monkey	2024	0	10
+Bahar		0	207
+Bairros em Guerra		0	2
+Bake Me Please		0	6
+Bake Off Brasil - Cereja do Bolo		0	31
+Bake Off Brasil – Celebridades		0	18
+Bake Off Brasil: Mão na Massa		0	128
+Baki Hanma	2021	0	39
+Baki O Campeao		0	3
+Ballard Crimes Sem Resposta	2025	0	10
+Ballers	2015	0	47
+Balthazar		0	32
+Bambolê		0	172
+Banco Central sob Ataque		0	5
+Bancroft		0	7
 Band of Brothers	2001	0	10
-Bandeira Vermelha		0	38
-Bandeira Vermelha - Al Sancak		0	38
-Bandi		0	16
-Bandidagem	2024	0	14
-Bandidos		0	28
-Bandidos na TV		0	14
+Bandeira Vermelha		0	19
+Bandi		0	8
+Bandidagem	2024	0	3
+Bandidos		0	14
+Bandidos na TV		0	7
 Bandidos nao podem governar o Mundo - Eşkıya Dünyaya Hükümdar Olmaz		0	181
-Bang Bang		0	346
-Bang Bang Baby		0	20
-Bangkok Buddies		0	26
-Bangkok no Limite		0	12
-Banksters		0	12
-Banshee	2013	0	76
-Baptiste		0	24
-Bar do Gogó		0	60
-Barbapapa Uma Grande Familia		0	204
-Barbearia do Pao		0	130
-Barbie Dreamhouse Adventures		0	52
-Barbie Life in the Dreamhouse		0	34
-Barbie: It Takes Two		0	52
-Barganha		0	12
-Barra Brava		0	16
-Barra Bravas		0	16
-Barrabrava		0	16
-Barracuda Queens		0	12
-Barrados no Baile	1990	0	170
-Barrados no Baile Nova Geracao		0	228
-Barriga de Aluguel		0	486
-Barry	2018	0	64
-Barão 40		0	8
-Baseado Numa Historia Real	2023	0	16
-Baskets	2016	0	80
+Bang Bang		0	173
+Bang Bang Baby		0	10
+Bangkok Buddies		0	13
+Bangkok no Limite		0	6
+Banksters		0	4
+Banshee	2013	0	38
+Baptiste		0	12
+Bar do Gogó		0	30
+Barbapapa Uma Grande Familia		0	50
+Barbearia do Pao		0	65
+Barbie Dreamhouse Adventures		0	26
+Barbie Life in the Dreamhouse		0	12
+Barbie: It Takes Two		0	26
+Barganha		0	6
+Barra Brava		0	8
+Barra Bravas		0	8
+Barracuda Queens		0	6
+Barrados no Baile	1990	0	83
+Barrados no Baile Nova Geracao		0	114
+Barriga de Aluguel		0	99
+Barry	2018	0	32
+Barão 40		0	4
+Baseado Numa Historia Real	2023	0	8
+Baskets	2016	0	40
 Basta - Yeter		0	40
-Bastidores de uma Conspiração	2023	0	12
-Bastidores do Pop O Esquema das Boy Bands		0	6
-Bat Familia		0	20
-Batalha Bilionária: O Caso Google Earth		0	8
-Batalha Makers Brasil		0	16
-Batalha das Comidinhas		0	12
-Batalha das Solteiras		0	12
-Batalha de Influencers	2024	0	14
-Batalha de Massas		0	12
-Batalha do Churrasco		0	28
-Batalha dos Alfas		0	48
-Batalha dos Cozinheiros America Latina		0	14
-Batalha pelo Ceu		0	68
-Bate Coracao		0	32
-Bate Papo BBB		0	4
-Bateau Mouche O Naufragio da Justica		0	8
-Bates Motel	2013	0	16
+Bastidores de uma Conspiração	2023	0	6
+Bastidores do Pop O Esquema das Boy Bands		0	3
+Bat Familia		0	10
+Batalha Bilionária: O Caso Google Earth		0	4
+Batalha Makers Brasil		0	8
+Batalha das Comidinhas		0	6
+Batalha das Solteiras		0	6
+Batalha de Influencers	2024	0	7
+Batalha de Massas		0	6
+Batalha do Churrasco		0	14
+Batalha dos Alfas		0	24
+Batalha dos Cozinheiros America Latina		0	7
+Batalha pelo Ceu		0	34
+Bate Coracao		0	16
+Bate Papo BBB		0	2
+Bateau Mouche O Naufragio da Justica		0	4
+Bates Motel	2013	0	8
 Batidas do Coração - Kalp Atışı		1	28
-Batman Cruzado Encapuzado	2024	1	40
-Batman do Futuro		1	104
-Batman: A Série Animada		1	170
-Batman: Cruzado Encapuzado	2024	0	40
-Battle Camp		1	20
-Battlestar Galactica	2004	1	146
-Batwheels	2022	1	196
-Batwoman	2019	1	102
-Baylen Uma Vida sem Filtro		1	44
-Baymax!	2022	1	12
-Beach Life		1	12
-Beartown		1	10
-Beast Games		1	40
-Beat Bugs		1	104
-Beauty in Black	2024	1	80
-Bebe Rena	2024	1	14
-Bebidas Apostas e Sexo		1	6
-Bebê a Bordo		1	418
-Bebês em Foco		1	12
-Beckham		1	8
-Beckham: Salve Nosso Time		1	8
-Becoming Elizabeth		1	16
-Beethoven		1	52
-Beforeigners: Os Visitantes	2019	1	24
-Behind Cut		1	16
-Behind Your Touch	2023	1	32
-Beijo Explosivo	2025	1	28
-Bel-Air		1	76
-Bela Vida		1	22
-Belas Maldicoes	2019	1	26
-Beleza Fatal	2025	1	80
-Beleza Impiedosa	2022	1	24
-Beleza Pura		1	358
-Beleza Sombrias		1	26
-Beleza Verdadeira		1	32
-Belgravia	2020	1	12
-Bella e os Bulldogs		1	80
-Belo Perto Demais da Luz		1	8
-Bem Juntinhos		1	46
-Bem Vindos a Australia		1	12
-Bem-Vindos ao Clube da Sedução		1	16
-Bem-Vindos à Vizinhança		1	14
-Bem-vindo à Família Plath		1	310
-Bem-vindos ao Wrexham		1	36
-Bem-vindos ao Éden	2022	1	32
-Bem-vindos à Terra	2021	1	12
-Ben 10		1	104
-Ben 10 Omniverse		1	160
-Ben 10: Força Alienígena		1	92
-Ben 10: Supremacia Alienígena		1	104
-Ben Hur		1	4
+Batman Cruzado Encapuzado	2024	1	20
+Batman do Futuro		1	52
+Batman: A Série Animada		1	85
+Battle Camp		1	10
+Battlestar Galactica	2004	1	78
+Batwheels	2022	1	88
+Batwoman	2019	1	58
+Baylen Uma Vida sem Filtro		1	22
+Baymax!	2022	1	4
+Beach Life		1	6
+Beartown		1	5
+Beast Games		1	20
+Beat Bugs		1	52
+Beauty in Black	2024	1	40
+Bebe Rena	2024	1	7
+Bebidas Apostas e Sexo		1	3
+Bebê a Bordo		1	2
+Bebês em Foco		1	6
+Beckham		1	4
+Beckham: Salve Nosso Time		1	4
+Becoming Elizabeth		1	8
+Beethoven		1	13
+Beforeigners: Os Visitantes	2019	1	12
+Behind Cut		1	8
+Behind Your Touch	2023	1	16
+Beijo Explosivo	2025	1	14
+Bel-Air		1	38
+Bela Vida		1	11
+Belas Maldicoes	2019	1	13
+Beleza Fatal	2025	1	40
+Beleza Impiedosa	2022	1	12
+Beleza Pura		1	179
+Beleza Sombrias		1	13
+Beleza Verdadeira		1	16
+Belgravia	2020	1	6
+Bella e os Bulldogs		1	40
+Belo Perto Demais da Luz		1	4
+Bem Juntinhos		1	23
+Bem Vindos a Australia		1	6
+Bem-Vindos ao Clube da Sedução		1	7
+Bem-Vindos à Vizinhança		1	7
+Bem-vindo à Família Plath		1	67
+Bem-vindos ao Wrexham		1	17
+Bem-vindos ao Éden	2022	1	16
+Bem-vindos à Terra	2021	1	6
+Ben 10		1	52
+Ben 10 Omniverse		1	80
+Ben 10: Força Alienígena		1	46
+Ben 10: Supremacia Alienígena		1	52
+Ben Hur		1	2
 Ben-Hur: A Série	2026	0	20
-Benjaman Kyle O Homem Sem Identidade		1	8
-Berco de Ouro		1	16
-Berlim	2023	1	16
-Berlim e a Dama com Arminho	2026	1	16
-Betaal		1	8
-Betinho No Fio da Navalha	2023	1	16
-Better Call Saul		1	126
-Better Than Us	2018	1	32
-Better Things	2016	1	30
-Betty A Feia A Historia Continua		1	40
-Betty em Nova York		1	254
-Between	2015	1	24
-Between Lands		1	20
-Beyblade	2001	1	102
-Beyblade Burst	2016	1	102
-Beyblade Burst Rise		1	104
-Beyblade Burst Surge		1	104
-Beyblade Burst Turbo		1	104
-Beyblade X	2023	1	278
-Beyblade: Metal Fusion	2009	1	102
-Bicampeas		1	8
-Biduzidos		1	26
-Big Bang A Teoria		1	558
-Big Bang: A Teoria	None	0	270
-Big Blue O Grande Oceano		1	104
-Big Brother Brasil		1	602
-Big Brother Brasil A Eliminacao		1	32
-Big Little Brawlers		1	12
-Big Little Lies	2017	2	28
-Big Mouth		2	162
-Big Mouth: De Vigarista a Vingador		2	32
-Big Nate		2	104
-Big Shot: Treinador de Elite		2	40
-Big Sky		2	94
-Big Time Rush		2	138
-Big Vape The Rise and Fall of Juul		2	8
-Bill Russell: Lenda da NBA		2	4
-Billions	2016	2	168
-Billy the Kid	2022	2	48
-Biohackers		2	24
-Biologia Avançada		2	68
-Bipolar		2	24
-Birdgirl		2	24
-Bizaardvark		2	40
-Black Bird		2	12
-Black Box		2	26
-Black Cat		2	46
-Black Clover	2017	2	340
+Benjaman Kyle O Homem Sem Identidade		1	4
+Berco de Ouro		1	8
+Berlim	2023	1	8
+Berlim e a Dama com Arminho	2026	1	8
+Betaal		1	4
+Betinho No Fio da Navalha	2023	1	8
+Better Call Saul		1	63
+Better Than Us	2018	1	16
+Better Things	2016	1	7
+Betty A Feia A Historia Continua		1	20
+Betty em Nova York		1	123
+Between	2015	1	12
+Between Lands		1	10
+Beyblade	2001	1	51
+Beyblade Burst	2016	1	51
+Beyblade Burst Rise		1	26
+Beyblade Burst Surge		1	26
+Beyblade Burst Turbo		1	51
+Beyblade X	2023	1	51
+Beyblade: Metal Fusion	2009	1	51
+Bicampeas		1	3
+Biduzidos		1	1
+Big Bang A Teoria		1	279
+Big Bang: A Teoria	None	0	253
+Big Blue O Grande Oceano		1	52
+Big Brother Brasil		1	294
+Big Brother Brasil A Eliminacao		1	16
+Big Little Brawlers		1	6
+Big Little Lies	2017	2	14
+Big Mouth		2	81
+Big Mouth: De Vigarista a Vingador		2	16
+Big Nate		2	36
+Big Shot: Treinador de Elite		2	20
+Big Sky		2	46
+Big Time Rush		2	69
+Big Vape The Rise and Fall of Juul		2	4
+Bill Russell: Lenda da NBA		2	2
+Billions	2016	2	84
+Billy the Kid	2022	2	26
+Biohackers		2	12
+Biologia Avançada		2	34
+Bipolar		2	12
+Birdgirl		2	12
+Bizaardvark		2	20
+Black Bird		2	6
+Black Box		2	13
+Black Cat		2	6
+Black Clover	2017	2	170
 Black Doves	2024	0	12
-Black Dynamite		2	20
-Black Earth Rising		2	16
-Black Kamen Rider		2	106
-Black Knight		2	12
-Black Mirror	2011	2	66
-Black Monday		2	40
-Black Narcissus		2	6
-Black Rabbit	2025	2	16
-Black Rock Shooter: Amanhecer		2	24
-Black Sails	2014	2	76
-Black Space		2	16
-Black Summer	2019	2	32
-Black Torch		2	24
-Black ish		2	308
-Blade A Serie		2	26
-Blanca		2	24
-Blaze and the Monster Machines		2	40
-Bleach	2004	2	1196
-Bleach: Sennen Kessen-hen		0	86
-Blindspotting	2021	2	32
-Bling Ring: A História por Trás dos Roubos		2	6
-Blippi Wonders		2	104
-Blippi e As Profissoes		2	20
-Blockbuster		2	20
-Blood		2	100
-Blood Blockade Battlefront		2	24
-Blossom		2	226
-Blue Bloods	2010	2	166
-Blue Box		2	50
-Blue Exorcist		2	122
-Blue Lock	2022	2	94
-Blue Ridge A Serie		2	16
-Blue Skies		2	14
-Blues de Madrasta e Enteada		2	20
-Bluey		2	304
-Bluff City Law		2	20
-BoJack Horseman		2	152
-Boa Noite Mundo		2	24
-Boa Sorte Charlie		2	200
-Boardwalk Empire: O Império do Contrabando		2	112
-Boate Kiss: A Tragédia de Santa Maria		2	10
-Bob Burnquist A Lenda do Skate	2024	2	8
-Bob Esponja		2	160
+Black Dynamite		2	10
+Black Earth Rising		2	8
+Black Kamen Rider		2	51
+Black Knight		2	6
+Black Mirror	2011	2	33
+Black Monday		2	20
+Black Narcissus		2	3
+Black Rabbit	2025	2	8
+Black Rock Shooter: Amanhecer		2	12
+Black Sails	2014	2	38
+Black Space		2	8
+Black Summer	2019	2	16
+Black Torch		2	11
+Black ish		2	153
+Blade A Serie		2	13
+Blanca		2	12
+Blaze and the Monster Machines		2	20
+Bleach	2004	2	409
+Bleach: Sennen Kessen-hen		0	43
+Blindspotting	2021	2	16
+Bling Ring: A História por Trás dos Roubos		2	3
+Blippi Wonders		2	52
+Blippi e As Profissoes		2	10
+Blockbuster		2	10
+Blood		2	20
+Blood Blockade Battlefront		2	12
+Blossom		2	113
+Blue Bloods	2010	2	74
+Blue Box		2	1
+Blue Exorcist		2	61
+Blue Lock	2022	2	39
+Blue Ridge A Serie		2	6
+Blue Skies		2	3
+Blues de Madrasta e Enteada		2	10
+Bluey		2	152
+Bluff City Law		2	10
+BoJack Horseman		2	76
+Boa Noite Mundo		2	12
+Boa Sorte Charlie		2	100
+Boardwalk Empire: O Império do Contrabando		2	56
+Boate Kiss: A Tragédia de Santa Maria		2	5
+Bob Burnquist A Lenda do Skate	2024	2	4
 Bob Esponja Calca Quadrada		2	310
-Bob O Construtor		2	104
-Bob Zoom		2	44
-Bob's Burgers		2	484
-Bobs Burgers		2	588
-Boca a Boca		2	12
-Boca do Lixo		2	16
-Bodkin	2024	2	14
-Body By Beth		2	20
-Bodycam - Registros Criminosos		2	100
+Bob O Construtor		2	52
+Bob Zoom		2	22
+Bob's Burgers		2	242
+Bobs Burgers		2	292
+Boca a Boca		2	6
+Boca do Lixo		2	8
+Bodkin	2024	2	7
+Body By Beth		2	10
+Bodycam - Registros Criminosos		2	50
 Boinas Pretas - Siyah Bere		2	10
-Boku no Hero Academia		2	342
-Bolinhos de Arroz		2	20
-Bom Dia, Verônica	2020	2	34
-Bom Sucesso		2	310
-Bombaim Cidade Sem Lei		2	20
-Bon Appetit Vossa Majestade		2	24
-Boneca Russa		2	30
-Bones		2	492
-Bones: Sempre em Medicina	2005	2	283
-Bonnie e Clyde		2	4
-Boogie Oogie		2	370
-Bookie	2023	3	32
-Boondocks	2005	3	30
-Boots		3	16
-Borboletas Negras		3	12
-Borgen		3	60
-Borges		3	20
-Boruto		3	586
-Boruto: Naruto Next Generations	2017	3	1740
-Bosch	2015	3	136
-Bosch: O Legado	2022	3	60
-Bosques da Peni_nsula Iberica A Vida no Limite		3	4
-Bosques da Peni­nsula Iberica A Vida no Limite		3	4
-Boston Blue	2025	3	40
-Bosé		3	12
-Botched By Nature		3	16
-Botched Pesadelo na Bariatrica		3	6
-Botched: Desastres do Bisturi		3	20
+Boku no Hero Academia		2	170
+Bolinhos de Arroz		2	9
+Bom Dia, Verônica	2020	2	17
+Bom Sucesso		2	155
+Bombaim Cidade Sem Lei		2	10
+Bon Appetit Vossa Majestade		2	12
+Boneca Russa		2	15
+Bones		2	246
+Bones: Sempre em Medicina	2005	2	246
+Bonnie e Clyde		2	2
+Boogie Oogie		2	185
+Bookie	2023	3	16
+Boondocks	2005	3	12
+Boots		3	1
+Borboletas Negras		3	6
+Borgen		3	30
+Borges		3	10
+Boruto		3	26
+Boruto: Naruto Next Generations	2017	3	327
+Bosch	2015	3	68
+Bosch: O Legado	2022	3	30
+Bosques da Peni­nsula Iberica A Vida no Limite		3	2
+Boston Blue	2025	3	20
+Bosé		3	6
+Botched By Nature		3	8
+Botched Pesadelo na Bariatrica		3	3
+Botched: Desastres do Bisturi		3	10
 Botões Vermelhos - Kızıl Goncalar		3	25
-Boys Prazer Sem Limites		3	14
-Bozo Show		3	314
-Branding in Seongsu		3	48
-Brasil		3	716
-Brasil 70 A Saga do Tri		3	10
-Brasil Imperial		3	20
-Brasil Raiz		3	10
-Brasil Visto de Cima		3	180
-Brasil Visto de Cima a Noite		3	52
-Brasil: A Última Cruzada		3	12
-Brave 10		3	24
-Brave New World		3	18
-Bravos Guerreiros		3	62
-Breadwinners		3	90
-Break Point		3	22
-Breaking Bad	2008	3	124
-Breaking Bad: A Química do Mal	2008	3	124
-Breakthrough: Bem-Vindo ao Futuro		3	12
-Breathe	2018	3	16
-Breathe: Pelas Sombras	2020	3	40
-Breeders	2020	3	60
-Breeze By The Sea		3	36
-Brega & Chique		3	346
-Briarpatch	2020	3	20
-Brickleberry		3	72
-Bridgerton	2020	3	64
-Brigada Costa del Sol		3	26
-Bright Girls Success		3	32
-Bright Minds		3	34
-Brilhante Victória		3	120
-Brincando Com Fogo	2020	3	96
-Brincando Com Fogo Italia		3	16
-Brincando com Fogo Espanha		3	16
-Brincando com Fogo: Alemanha		3	36
-Brincando com Fogo: Brasil		3	32
-Brincando com o Ursinho Pooh		3	30
-Bring Back Alice		3	12
-Brinquedos que Marcam Época		3	24
-Brinquedos que Mudaram o Mundo		3	32
-Britannia	2018	3	54
+Boys Prazer Sem Limites		3	7
+Bozo Show		3	100
+Branding in Seongsu		3	24
+Brasil 70 A Saga do Tri		3	5
+Brasil Imperial		3	10
+Brasil Raiz		3	5
+Brasil Visto de Cima		3	90
+Brasil Visto de Cima a Noite		3	26
+Brasil: A Última Cruzada		3	5
+Brave 10		3	16
+Brave New World		3	9
+Bravos Guerreiros		3	31
+Breadwinners		3	40
+Break Point		3	11
+Breaking Bad	2008	3	7
+Breaking Bad: A Química do Mal	2008	3	62
+Breakthrough: Bem-Vindo ao Futuro		3	6
+Breathe	2018	3	8
+Breathe: Pelas Sombras	2020	3	20
+Breeders	2020	3	30
+Breeze By The Sea		3	12
+Brega & Chique		3	172
+Briarpatch	2020	3	10
+Brickleberry		3	36
+Bridgerton	2020	3	32
+Brigada Costa del Sol		3	13
+Bright Girls Success		3	16
+Bright Minds		3	17
+Brilhante Victória		3	57
+Brincando Com Fogo	2020	3	45
+Brincando Com Fogo Italia		3	8
+Brincando com Fogo Espanha		3	8
+Brincando com Fogo: Alemanha		3	18
+Brincando com Fogo: Brasil		3	16
+Brincando com o Ursinho Pooh		3	15
+Bring Back Alice		3	6
+Brinquedos que Marcam Época		3	12
+Brinquedos que Mudaram o Mundo		3	14
+Britannia	2018	3	27
 Broad City	2014	0	49
-Brockmire		3	16
-Brooklyn Nine Nine		3	288
-Brooklyn Nine-Nine: Lei e Desordem	2013	3	306
-Bruce Lee: A Lenda		3	100
-Bubba Wallace: Na Raça		3	12
-Bubu e as Corujinhas		3	104
-Bucchigiri		3	24
-Bucky	1999	3	52
-Buddy Thunderstruck		3	46
-Buffy: A Caça-Vampiros		3	244
-Bulgasal: Almas Imortais		3	32
-Bull	2016	3	250
-Bump		3	40
-Bungo Stray Dogs	2016	3	456
+Brockmire		3	8
+Brooklyn Nine Nine		3	144
+Brooklyn Nine-Nine: Lei e Desordem	2013	3	151
+Bruce Lee: A Lenda		3	50
+Bubba Wallace: Na Raça		3	6
+Bubu e as Corujinhas		3	52
+Bucchigiri		3	12
+Bucky	1999	3	26
+Buddy Thunderstruck		3	12
+Buffy: A Caça-Vampiros		3	122
+Bulgasal: Almas Imortais		3	16
+Bull	2016	3	125
+Bump		3	20
+Bungo Stray Dogs	2016	3	69
 Buraco - Cukur		3	132
-Busca Imediata: Pessoas Desaparecidas		3	8
-Busca Implacável		3	52
-Buscando Buskers		3	12
-Buscando a Frida		3	168
-Business as Usual		3	14
-Buuu: Um Chamado para a Aventura		3	52
-Bye Bye Earth		3	58
-Bárbaros	2020	3	76
-Búnker		3	16
+Busca Imediata: Pessoas Desaparecidas		3	4
+Busca Implacável		3	26
+Buscando Buskers		3	6
+Buscando a Frida		3	84
+Business as Usual		3	7
+Buuu: Um Chamado para a Aventura		3	26
+Bye Bye Earth		3	19
+Bárbaros	2020	3	18
+Búnker		3	8

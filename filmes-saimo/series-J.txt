@@ -1,110 +1,108 @@
-JFK One Day In America		0	6
-JK		0	94
-Jaadugar: A Witch in Mongolia		0	24
-Jack Frost		0	12
-Jack Ryan de Tom Clancy	2018	0	60
-Jaguar		0	12
-Jake Long O Dragao Ocidental		0	104
-James May - O Mestre-Cuca!		0	14
-Jamestown		0	46
+JFK One Day In America		0	3
+JK		0	47
+Jaadugar: A Witch in Mongolia		0	5
+Jack Frost		0	6
+Jack Ryan de Tom Clancy	2018	0	30
+Jaguar		0	6
+Jake Long O Dragao Ocidental		0	52
+James May - O Mestre-Cuca!		0	7
+Jamestown		0	23
 Jamie Vs Britney: O Julgamento da Família Spears		0	2
-Jane		0	170
-Jane A Virgem	2014	0	200
-Japão de Norte a Sul		0	6
-Jared Fogle O Monstro do Subway		0	6
+Jane		0	15
+Jane A Virgem	2014	0	100
+Japão de Norte a Sul		0	3
+Jared Fogle O Monstro do Subway		0	3
 Jay e Pamela		0	8
 Jeannie É um Gênio	1965	0	139
-Jeffrey Dahmer: Assassino Canibal		0	8
-Jeffrey Epstein Poder e Perversao		0	8
-Jeitos de Morar		0	16
-Jellystone		0	60
-Jenny		0	80
-Jentry Chau contra O Submundo		0	26
-Jericho	2006	0	60
-Jerry Jones e seus Cowboys		0	16
-Jerry Springer Brigas Camera Acao		0	4
-Jessie		0	202
-Jessie e Colombo		0	8
-Jesus		0	392
-Jesus de Nazare		0	8
-Jewel in the Palace		0	108
-Jezabel		0	168
-Jiban		0	104
+Jeffrey Dahmer: Assassino Canibal		0	4
+Jeffrey Epstein Poder e Perversao		0	4
+Jeitos de Morar		0	8
+Jellystone		0	30
+Jenny		0	40
+Jentry Chau contra O Submundo		0	13
+Jericho	2006	0	30
+Jerry Jones e seus Cowboys		0	8
+Jerry Springer Brigas Camera Acao		0	2
+Jessie		0	101
+Jessie e Colombo		0	4
+Jesus		0	189
+Jesus de Nazare		0	4
+Jewel in the Palace		0	54
+Jezabel		0	80
 Jiban - O Policial de Aço		0	52
-Jigokuraku	2023	0	50
-Jin		0	44
-Jiraiya: O Incrível Ninja	1988	0	100
-Jiva!		0	10
-Jo		0	6
-JoJo's Bizarre Adventure	2012	0	380
-JoJos Bizarre Adventure	2012	0	380
-Joan	2024	0	12
-Joan de Arcadia		0	90
+Jigokuraku	2023	0	13
+Jin		0	22
+Jiraiya: O Incrível Ninja	1988	0	50
+Jiva!		0	5
+Jo		0	3
+JoJo's Bizarre Adventure	2012	0	1
+JoJos Bizarre Adventure	2012	0	190
+Joan	2024	0	6
+Joan de Arcadia		0	45
 Joao Rock		0	7
-Joao Sem Deus A Queda de Abadiania		0	6
-Joe Mazza: O Homem das Casas		0	20
-Joe Pickett		0	40
-Joe, um Cara Comum	2023	0	36
-Jogada de Risco	2026	0	16
-Jogando Bem		0	8
-Jogando com o Amor		0	16
-Jogando com o Amor - Dunyayla Benim Aramda		0	16
-Jogo Comprado		0	12
-Jogo Cruzado		0	16
-Jogo da Lava		0	40
-Jogo de Amor e Fantasia		0	64
-Jogo de Espioes Historias da Guerra Fria		0	6
+Joao Sem Deus A Queda de Abadiania		0	3
+Joe Mazza: O Homem das Casas		0	10
+Joe Pickett		0	20
+Joe, um Cara Comum	2023	0	7
+Jogada de Risco	2026	0	8
+Jogando Bem		0	4
+Jogando com o Amor		0	8
+Jogo Comprado		0	6
+Jogo Cruzado		0	8
+Jogo da Lava		0	20
+Jogo de Amor e Fantasia		0	32
+Jogo de Espioes Historias da Guerra Fria		0	3
 Jogos Copa do Mundo	2022	0	52
-Jogos Invictus: Veteranos no Topo		0	10
-Jogos Sagrados		0	32
+Jogos Invictus: Veteranos no Topo		0	5
+Jogos Sagrados		0	16
 Jogos do Destino - Kader Oyunlari - Games of Destiny		0	73
-John Wayne Gacy Palhaco Assassino		0	12
-Johnny Depp x Amber Heard		0	6
-Johnny Test		0	196
-Joia da Coroa		0	120
-Joias Sobre Rodas O Sonho		0	36
-Jojo Nove e Meia		0	46
-Jorels Brother Shostners Show		0	8
-Jornada Astral		0	24
-Jornada nas Estrelas		0	160
-Jornada nas Estrelas A Nova Missao		0	344
-Jornada nas Estrelas Voyager	1995	0	338
-Jornada nas Estrelas: Enterprise		0	194
-Jornada nas Estrelas: Picard		0	60
+John Wayne Gacy Palhaco Assassino		0	6
+Johnny Depp x Amber Heard		0	3
+Johnny Test		0	98
+Joia da Coroa		0	60
+Joias Sobre Rodas O Sonho		0	18
+Jojo Nove e Meia		0	23
+Jorels Brother Shostners Show		0	4
+Jornada Astral		0	12
+Jornada nas Estrelas		0	80
+Jornada nas Estrelas A Nova Missao		0	172
+Jornada nas Estrelas Voyager	1995	0	170
+Jornada nas Estrelas: Enterprise		0	97
+Jornada nas Estrelas: Picard		0	30
 Jornada nas Estrelas: Subalternos		0	49
-Jose do Egito		0	76
-Josie e as Gatinhas no Espaço		0	32
-Jovem Davi		0	10
-Jovem Diaba		0	20
-Jovem Sheldon	None	0	282
-Jovem Sherlock	2026	0	16
-Jovem Solteiro à Procura		0	60
-Jovens Herdeiros		1	32
-Jovens Milionarios		1	16
-Jovens Recrutas	2025	1	16
-Jovens Virgens	2022	1	6
-João de Deus: Cura e Crime		1	8
-Juacas		1	52
-Juan Gabriel Devo Posso e Quero		1	8
-Jubileu		1	20
-Jujutsu Kaisen	2020	1	164
-Julia		1	68
-Julie and the Phantoms		1	18
-Jun e Jun		1	16
-Junior Bake off Brasil		1	14
-Junji Ito: Histórias Macabras do Japão		1	24
+Jose do Egito		0	38
+Josie e as Gatinhas no Espaço		0	16
+Jovem Davi		0	5
+Jovem Diaba		0	10
+Jovem Sheldon	None	0	169
+Jovem Sherlock	2026	0	8
+Jovem Solteiro à Procura		0	30
+Jovens Herdeiros		1	16
+Jovens Milionarios		1	8
+Jovens Recrutas	2025	1	1
+Jovens Virgens	2022	1	2
+João de Deus: Cura e Crime		1	4
+Juacas		1	25
+Juan Gabriel Devo Posso e Quero		1	4
+Jubileu		1	10
+Jujutsu Kaisen	2020	1	106
+Julia		1	16
+Julie and the Phantoms		1	9
+Jun e Jun		1	8
+Junior Bake off Brasil		1	7
+Junji Ito: Histórias Macabras do Japão		1	12
 Juramento de Honra - Seref Sozu		1	4
-Jurassic World Teoria do Caos	None	1	40
-Jurassic World: Acampamento Jurássico	None	1	98
-Just a Little Game: Os Bastidores da LOUD		1	8
-Justica 2		1	56
-Justica Criminal Estados Unidos		1	12
-Justica Tardia		1	40
-Justificado		1	156
-Justified	2010	1	156
-Justified: Cidade Primitiva	2023	1	16
-Justiça	2016	1	92
-Justiça Jovem		1	196
-Justiça por Malik Oussekine		1	8
-Justiça por Uphaar		1	14
-Juvenile Justice		1	20
+Jurassic World Teoria do Caos	None	1	20
+Jurassic World: Acampamento Jurássico	None	1	49
+Just a Little Game: Os Bastidores da LOUD		1	4
+Justica 2		1	28
+Justica Criminal Estados Unidos		1	6
+Justica Tardia		1	2
+Justificado		1	78
+Justified	2010	1	78
+Justified: Cidade Primitiva	2023	1	8
+Justiça	2016	1	46
+Justiça Jovem		1	98
+Justiça por Malik Oussekine		1	4
+Justiça por Uphaar		1	7
+Juvenile Justice		1	10

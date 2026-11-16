@@ -1,43 +1,40 @@
-Y: O Último Homem		0	20
-YAIBA Samurai Legend		0	48
-YOLO		0	42
-Yabani		0	334
-Yabani: Coração Selvagem	2023	0	240
-Yabba-Dabba Dinossauros		0	52
-Yakitori: Soldados do Desastre		0	12
-Yamishibai Japanese Ghost Stories		0	234
-Yargi Segredos de Familia		0	838
-Yargı: Segredos de Família		0	222
-Yashahime Princess Half Demon		0	96
-Yasuke		0	12
-Years and Years		0	12
-Yellowjackets	2021	0	58
-Yellowstone	2018	0	106
-Yellowstone One Fifty		0	8
-Yellowstone Selvagem		0	4
-Yo Gabba Gabbalandia		0	20
-Yo Kai Watch		0	152
-Yolanthe		0	14
-Yonder		0	80
-Yong Pal		0	36
-You	2018	0	24
-You Are Mine		0	156
-You Maniac		0	20
-You Me Her		0	80
-You and I Are Polar Opposites		0	40
-You are Ms Servant		0	24
-You're the Worst		0	124
-Young David		0	10
+Y: O Último Homem		0	10
+YAIBA Samurai Legend		0	12
+YOLO		0	21
+Yabani		0	167
+Yabani: Coração Selvagem	2023	0	119
+Yabba-Dabba Dinossauros		0	26
+Yakitori: Soldados do Desastre		0	6
+Yamishibai Japanese Ghost Stories		0	117
+Yargi Segredos de Familia		0	126
+Yashahime Princess Half Demon		0	24
+Yasuke		0	6
+Years and Years		0	6
+Yellowjackets	2021	0	29
+Yellowstone	2018	0	66
+Yellowstone One Fifty		0	4
+Yellowstone Selvagem		0	2
+Yo Gabba Gabbalandia		0	10
+Yo Kai Watch		0	76
+Yolanthe		0	7
+Yonder		0	6
+Yong Pal		0	18
+You	2018	0	8
+You Are Mine		0	10
+You Me Her		0	39
+You and I Are Polar Opposites		0	15
+You are Ms Servant		0	12
+You're the Worst		0	62
 Young Famous e African		0	24
-Young Love		0	24
-Young Rock		0	74
-Young Royals	2021	0	36
-Younger		0	168
-Your Honor		0	40
-Youth	2026	0	16
-Yu Gi Oh GX		0	360
-Yu Yu Hakusho	2023	0	42
-Yu-Gi-Oh!		0	472
-YuGiOh		0	82
-YuGiOh GX	2004	0	34
-Yuri on ICE		0	24
+Young Love		0	12
+Young Rock		0	37
+Young Royals	2021	0	18
+Younger		0	84
+Your Honor		0	20
+Youth	2026	0	2
+Yu Gi Oh GX		0	180
+Yu Yu Hakusho	2023	0	12
+Yu-Gi-Oh!		0	236
+YuGiOh		0	28
+YuGiOh GX	2004	0	17
+Yuri on ICE		0	12

@@ -1,200 +1,196 @@
-NASCAR Velocidade Maxima		0	20
-NBA 5 em Quadra	2024	0	36
-NCIS Havaí: Investigações Criminais	2021	0	108
-NCIS Nova Orleans	2014	0	310
-NCIS Origins	2024	0	68
-NCIS Sydney	2023	0	76
+NASCAR Velocidade Maxima		0	10
+NBA 5 em Quadra	2024	0	18
+NCIS Havaí: Investigações Criminais	2021	0	54
+NCIS Nova Orleans	2014	0	155
+NCIS Origins	2024	0	30
+NCIS Sydney	2023	0	37
 NCIS Tony e Ziva		0	10
-NCIS: Investigação Naval	2003	0	1020
-NCIS: Los Angeles	2009	0	644
-NCIS: Origins	2024	0	72
-NEEDY GIRL OVERDOSE		0	26
-NIPPON SANGOKU A Guerra das Tres Nacoes		0	24
-NOS4A2		0	38
-Na Cama com Pitanda		0	20
-Na Cola dos Assassinos		0	16
-Na Direção do Amor		0	32
-Na Estrada Com O Ex	2024	0	12
-Na Fazenda com Jeremy Clarkson		0	64
-Na Lama		0	16
-Na Luta		0	20
-Na Mira do Fogo		0	20
-Na Mira do Júri: Retiro Corporativo	2026	0	16
-Na Piscina Com Fe Paes Leme		0	40
-Na Rota do Ouro	2024	0	12
-Na Sua Melhor Fase		0	24
-Na Trilha dos Elefantes		0	6
-Nacho	2023	0	16
-Nada Ortodoxa		0	8
-Nada Suspeitos		0	18
+NCIS: Investigação Naval	2003	0	513
+NCIS: Los Angeles	2009	0	322
+NEEDY GIRL OVERDOSE		0	12
+NIPPON SANGOKU A Guerra das Tres Nacoes		0	12
+NOS4A2		0	19
+Na Cama com Pitanda		0	10
+Na Cola dos Assassinos		0	8
+Na Direção do Amor		0	16
+Na Estrada Com O Ex	2024	0	6
+Na Fazenda com Jeremy Clarkson		0	32
+Na Lama		0	8
+Na Luta		0	10
+Na Mira do Fogo		0	10
+Na Mira do Júri: Retiro Corporativo	2026	0	8
+Na Piscina Com Fe Paes Leme		0	19
+Na Rota do Ouro	2024	0	6
+Na Sua Melhor Fase		0	12
+Na Trilha dos Elefantes		0	3
+Nacho	2023	0	8
+Nada Ortodoxa		0	4
+Nada Suspeitos		0	9
 Nada Vai Acontecer Conosco - Nada nos acontecera - Bize Bisey Olmaz		0	8
-Nada de Bandeja		0	12
-Nada para Ver Aqui		0	32
-Nada é o que Parece Ser		0	12
-Nahir o Segredo de um Crime		0	4
-Naked Attraction		0	106
-Naked Attraction Os Mais Atrevidos		0	10
-Naked Fireman		0	8
-Namib		0	24
-Namorado de Natal		0	40
-Namorado por Assinatura		0	20
-Namorico	2026	0	12
-Namoro na Cozinha		0	48
-Namoro no Sigilo		0	48
-Nanatsu no Taizai	2014	0	192
-Nancy Drew	2019	0	124
-Nao Consigo Te Alcancar		0	16
-Nao Diga Nada	2024	0	18
-Nao Diga Nao		0	24
-Nao E Bem Assim		0	16
-Nao Me Abandone Jamais		0	24
-Nao Tem Dinheiro que Pague		0	16
-Nao Volte para Casa	2024	0	12
-Nao e uma Caixa		0	16
-Nao nos Calaremos	2024	0	16
+Nada de Bandeja		0	6
+Nada para Ver Aqui		0	16
+Nada é o que Parece Ser		0	6
+Nahir o Segredo de um Crime		0	2
+Naked Attraction		0	53
+Naked Attraction Os Mais Atrevidos		0	5
+Naked Fireman		0	4
+Namib		0	12
+Namorado de Natal		0	20
+Namorado por Assinatura		0	10
+Namorico	2026	0	6
+Namoro na Cozinha		0	24
+Namoro no Sigilo		0	10
+Nanatsu no Taizai	2014	0	96
+Nancy Drew	2019	0	62
+Nao Consigo Te Alcancar		0	8
+Nao Diga Nada	2024	0	9
+Nao Diga Nao		0	12
+Nao E Bem Assim		0	8
+Nao Me Abandone Jamais		0	12
+Nao Tem Dinheiro que Pague		0	8
+Nao Volte para Casa	2024	0	6
+Nao e uma Caixa		0	8
+Nao nos Calaremos	2024	0	8
 Nao tenha Medo Estou Aqui com Voce - Korkma Ben Yanindayim		0	7
-Naomi		0	26
-Naquela Noite	2026	0	12
-Narciso Negro		0	6
-Narco Circus		0	8
-Narco-Santos		0	12
-Narcoamerica		0	8
-Narcos	2015	0	60
-Narcos: Mexico	2018	0	60
-Narcoworld: Histórias do Tráfico		0	8
-Naruto	2002	0	104
-Naruto Clássico		0	104
-Naruto Shippuden	2007	0	9522
-Nas Montanhas da Coruja		0	32
-Nascidos de Novo		0	64
-Nasdrovia	2020	0	24
-Nashville: No Ritmo da Fama		0	248
-National Geographic As Varias Faces da Terra		0	10
-Navillera		0	24
-NeXt		0	52
-Neagley: Detetive Particular	2026	0	16
-Neanderthal Apocalypse		0	4
-Negociador	2023	0	16
-Nell a Renegada	2024	0	16
-Nem Tao Perfeitos Assim	2023	0	52
-Nemesis		0	16
-Neo Yokio		0	12
-Neon	2023	0	52
-Neon Genesis Evangelion		0	52
-Nerd of the Dead		0	8
-Nero	2025	0	16
-Nevasca de Natal		1	12
-New Girl		1	292
-New Kids in the Wild		1	10
-New Saga		1	24
-News Anchor		1	20
-Newtopia	2025	1	16
-Neymar: O Caos Perfeito		1	6
-Night Stalker: Tortura e Terror		1	8
-Nightflyers		1	20
-Nightsleeper	2024	1	12
-Nikita	2010	1	142
-Nilba e os Desastronautas		1	78
-Nina		1	18
-Nina e os Guardiões		1	52
-Nina the Starry Bride		1	24
-Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World		1	24
-Ninguem Como Tu		1	40
-Ninguem Quer	2024	1	40
-Ninguem nos Viu Partir	2025	1	10
-Ninguém Mandou		1	20
-Ninguém Mandou Se Meter com a Gente		1	16
-Ninguém Pode Ouvir Seu Grito		1	12
-Ninguém Pode Saber		1	16
-Ninguém Quer	2024	0	40
-Ninguém Tá Olhando		1	16
-Ninja Kamui	2024	1	26
-Ninja Vs Gokudo		1	24
-Ninjago Ascensao dos Dragoes		1	40
-Ninjago Mestres do Spinjitzu		1	60
-Ninjago: Ascensão dos Dragões	2023	0	40
-Nivel Secreto	2024	1	30
+Naomi		0	13
+Naquela Noite	2026	0	6
+Narco Circus		0	4
+Narco-Santos		0	6
+Narcoamerica		0	4
+Narcos	2015	0	30
+Narcos: Mexico	2018	0	30
+Narcoworld: Histórias do Tráfico		0	4
+Naruto	2002	0	52
+Naruto Clássico		0	11
+Naruto Shippuden	2007	0	531
+Nas Montanhas da Coruja		0	16
+Nascidos de Novo		0	32
+Nasdrovia	2020	0	12
+Nashville: No Ritmo da Fama		0	122
+National Geographic As Varias Faces da Terra		0	5
+Navillera		0	12
+NeXt		0	10
+Neagley: Detetive Particular	2026	0	8
+Neanderthal Apocalypse		0	2
+Negociador	2023	0	8
+Nell a Renegada	2024	0	8
+Nem Tao Perfeitos Assim	2023	0	26
+Nemesis		0	8
+Neo Yokio		0	6
+Neon	2023	0	8
+Neon Genesis Evangelion		0	26
+Nerd of the Dead		0	4
+Nero	2025	0	8
+Nevasca de Natal		1	6
+New Girl		1	146
+New Kids in the Wild		1	5
+New Saga		1	9
+News Anchor		1	10
+Newtopia	2025	1	8
+Neymar: O Caos Perfeito		1	3
+Night Stalker: Tortura e Terror		1	4
+Nightflyers		1	10
+Nightsleeper	2024	1	6
+Nikita	2010	1	71
+Nilba e os Desastronautas		1	39
+Nina		1	9
+Nina e os Guardiões		1	26
+Nina the Starry Bride		1	12
+Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World		1	11
+Ninguem Como Tu		1	20
+Ninguem Quer	2024	1	20
+Ninguem nos Viu Partir	2025	1	5
+Ninguém Mandou		1	10
+Ninguém Mandou Se Meter com a Gente		1	8
+Ninguém Pode Ouvir Seu Grito		1	6
+Ninguém Pode Saber		1	8
+Ninguém Quer	2024	0	20
+Ninguém Tá Olhando		1	8
+Ninja Kamui	2024	1	13
+Ninja Vs Gokudo		1	12
+Ninjago Ascensao dos Dragoes		1	20
+Ninjago Mestres do Spinjitzu		1	13
+Ninjago: Ascensão dos Dragões	2023	0	20
+Nivel Secreto	2024	1	15
 No - Nó - Dugum		1	8
-No 1 Sentai Gozyuger		1	98
-No Ano Que Vem	2024	1	10
-No Caminho		1	16
-No Corre Partiu Entrega		1	70
-No Escuro	2019	1	70
-No Fogo Com Bronze		1	20
-No Limite da Lei		1	16
-No Mans Land		1	16
-No Mundo Novamente		1	80
-No Mundo da Luna		1	20
-No Olho da Tempestade	2024	1	50
-No Rancho Fundo		1	342
-No Xadrez		1	12
-Noble My Love		1	40
-Nobody Knows		1	32
-Nodame Cantabile		1	22
-Noite Adentro		1	24
-Noite de Verao		1	10
-Noite na Terra em Cores		1	24
-Noites de Corrida em Bowman Gray		1	16
-Noiva por Vingança		1	32
+No 1 Sentai Gozyuger		1	28
+No Ano Que Vem	2024	1	5
+No Caminho		1	8
+No Corre Partiu Entrega		1	35
+No Escuro	2019	1	14
+No Fogo Com Bronze		1	10
+No Limite da Lei		1	8
+No Mans Land		1	8
+No Mundo Novamente		1	40
+No Mundo da Luna		1	10
+No Olho da Tempestade	2024	1	14
+No Rancho Fundo		1	171
+No Xadrez		1	6
+Noble My Love		1	7
+Nobody Knows		1	16
+Nodame Cantabile		1	11
+Noite Adentro		1	12
+Noite de Verao		1	5
+Noite na Terra em Cores		1	12
+Noites de Corrida em Bowman Gray		1	8
+Noiva por Vingança		1	16
 Noivas em Fuga - Kaçak Gelinler		1	29
-Nomade 7		1	18
-NooBees		1	120
-Noragami		1	58
-Normal		1	24
-Normal People		1	24
-Noruega O Retorno Que Promete		1	4
-Nos Campos Do Holocausto		1	22
-Nos Eramos Reis		1	12
-Nos Os Filhos da Estacao Zoo		1	16
-Nos Somos a Onda		1	12
-Nos Tempos do Imperador		1	308
-Nossa Bandeira é a Morte		1	36
-Nossa Cidade		1	16
-Nossa Cidade - Kasaba		1	16
-Nosso Destino	2023	1	32
-Nosso Eterno Verão		1	32
-Nosso Interprete		1	72
-Nosso Jeito de Ser		1	16
+Nomade 7		1	9
+NooBees		1	60
+Noragami		1	29
+Normal		1	8
+Normal People		1	12
+Noruega O Retorno Que Promete		1	2
+Nos Campos Do Holocausto		1	11
+Nos Eramos Reis		1	6
+Nos Os Filhos da Estacao Zoo		1	8
+Nos Somos a Onda		1	6
+Nos Tempos do Imperador		1	154
+Nossa Bandeira é a Morte		1	18
+Nossa Cidade		1	8
+Nosso Destino	2023	1	16
+Nosso Eterno Verão		1	16
+Nosso Interprete		1	36
+Nosso Jeito de Ser		1	8
 Nosso Planeta	2019	0	12
-Nosso Segredo		1	48
-Nosso Universo		1	24
+Nosso Segredo		1	4
+Nosso Universo		1	6
 Nosso segredo - İkimizin Sırrı		1	10
-Nossos Dias Dourados		1	100
-Nossos Momentos de Chocolate		1	4
-Nossos Oceanos		1	10
+Nossos Dias Dourados		1	10
+Nossos Momentos de Chocolate		1	2
+Nossos Oceanos		1	5
 Nossos Rastros no Vaticano - Vatikandaki Izlerimiz		1	8
-Nostradamus: Fim dos Dias		1	16
-Not Others		1	24
-Notas da Última Fila		1	12
-Notre-Dame: Catedral em Chamas		1	12
-Noturnos		2	12
-Nova York Contra John Gotti		2	6
-Nova York Contra a Máfia		2	6
-Nova York Contra o Crime		2	436
-Novamente Apaixonados		2	340
-Nove Corpos em um Necroterio Mexicano	2025	2	12
-Nove Desconhecidos	2021	2	32
-Nove Pecas		2	22
-Novela	2023	2	16
-Novo Mundo		2	320
-Novo Rico Novo Pobre		2	132
-Now and Then: O Segredo que Nos Une		2	16
-Nua Na Rede A Verdade Sobre Rose Leonel		2	10
-Nua e Crua		2	16
-Nua e Crua - Ciplak		2	16
-Numero 309		2	402
-Nunca		2	80
-Nunca Diga Jamais com Jeff Jenkins		2	16
-Nurse Jackie		2	160
-Nurses Plantao Enfermagem	2020	2	40
-Nyaight of the Living Cat		2	24
-Não Conte a Ninguém		2	10
-Não Estou Morta!	2023	2	46
-Não Fale com Estranhos		2	16
-Não Foi Minha Culpa: Brasil		2	20
-Não Foi Minha Culpa: México		2	20
-Não Provoque	2019	2	20
-Não Sou um Robô		2	64
-Não Tenho Medo		2	12
+Nostradamus: Fim dos Dias		1	8
+Not Others		1	12
+Notas da Última Fila		1	6
+Notre-Dame: Catedral em Chamas		1	6
+Noturnos		2	6
+Nova York Contra John Gotti		2	3
+Nova York Contra a Máfia		2	3
+Nova York Contra o Crime		2	218
+Novamente Apaixonados		2	170
+Nove Corpos em um Necroterio Mexicano	2025	2	6
+Nove Desconhecidos	2021	2	21
+Nove Pecas		2	10
+Novela	2023	2	8
+Novo Mundo		2	160
+Novo Rico Novo Pobre		2	62
+Now and Then: O Segredo que Nos Une		2	8
+Nua Na Rede A Verdade Sobre Rose Leonel		2	5
+Nua e Crua		2	8
+Numero 309		2	201
+Nunca		2	4
+Nunca Diga Jamais com Jeff Jenkins		2	8
+Nurse Jackie		2	80
+Nurses Plantao Enfermagem	2020	2	20
+Nyaight of the Living Cat		2	11
+Não Conte a Ninguém		2	5
+Não Estou Morta!	2023	2	23
+Não Fale com Estranhos		2	8
+Não Foi Minha Culpa: Brasil		2	10
+Não Foi Minha Culpa: México		2	10
+Não Provoque	2019	2	10
+Não Sou um Robô		2	16
+Não Tenho Medo		2	6
 Não se Apaixone - Kaderimin Yazıldığı Gün		2	50
 Não solte a minha Mão - Elimi Bırakma		2	59
