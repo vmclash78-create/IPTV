@@ -10,19 +10,19 @@ enum Enderecos {
     static let chaveCanais = "linkCanais"
     static let chaveFilmes = "linkFilmes"
 
-    /// Endereços-padrão apontando para o seu próprio repositório no GitHub.
-    /// Caso o usuário não tenha informado nenhuma URL manual, o aplicativo carrega estes catálogos por padrão.
+    static let mudou = Notification.Name("SaimoEnderecosMudaram")
+
     static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/"
     static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes-saimo/"
-
-    static let mudou = Notification.Name("SaimoEnderecosMudaram")
 
     static func resolver(guardado: String?, padrao: String = "") -> String {
         let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
         return valor.isEmpty ? padrao : valor
     }
+        (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
+    }
 
-    /// Endereço-base da lista de canais. Usa o repositório próprio se nenhum for digitado.
+    /// Endereço-base da lista de canais. Vazio quando desligada.
     static var canais: String {
         get { resolver(guardado: UserDefaults.standard.string(forKey: chaveCanais), padrao: padraoCanais) }
         set {
@@ -31,7 +31,7 @@ enum Enderecos {
         }
     }
 
-    /// Endereço-base da pasta vod/ (filmes e séries). Usa o repositório próprio se nenhum for digitado.
+    /// Endereço-base da pasta vod/ (filmes e séries). Vazio quando desligada.
     static var filmes: String {
         get { resolver(guardado: UserDefaults.standard.string(forKey: chaveFilmes), padrao: padraoFilmes) }
         set {

@@ -1,15 +1,16 @@
 H2O Meninas Sereias		0	78
+HAIKYU!!	2014	0	50
+HALSTON		0	5
+HIV 40 anos AIDS e Suas Historias		0	6
 Habeas Corpus		0	2
 Hache		0	8
 Hackers		0	21
 Hacks	2021	0	47
 Haha You Clowns		0	9
-HAIKYU!!	2014	0	50
 Hairstyle The Talent Show Brasil		0	6
 Haja Coração		0	138
 Hakenshimasu!		0	11
 Halo	2022	0	17
-HALSTON		0	5
 Hana Kimi		0	12
 Hana-Kimi	2026	0	1
 Hanako kun e os Misterios do Colegio Kamome		0	36
@@ -29,10 +30,10 @@ Harley Davidson A Serie		0	3
 Harlots		0	24
 Harper's Island: O Mistério da Ilha		0	13
 Harrow	2018	0	37
-Harry e Meghan Escapando do Palacio		0	6
 Harry Potter Bruxos da Confeitaria		0	10
 Harry Potter: O Campeonato das Casas de Hogwarts		0	4
 Harry Quer Casar		0	8
+Harry e Meghan Escapando do Palacio		0	6
 Hatfields & McCoys		0	3
 Havai Cinco 0	2010	0	240
 Haven		0	78
@@ -92,30 +93,29 @@ Hip Hop Uncovered		1	6
 Hipertensao		1	162
 His Dark Materials		1	23
 His Dark Materials: Fronteiras do Universo	2019	1	23
-Historia de Amor John F Kennedy Jr e Carolyn Bessette	2026	1	9
 Historia Direto Ao Assunto		1	10
-Historia do Comunismo		1	6
-Historia do Fascismo		1	3
 Historia Esportiva Americana		1	10
 Historia Secreta do Pop Brasileiro		1	8
+Historia de Amor John F Kennedy Jr e Carolyn Bessette	2026	1	9
+Historia do Comunismo		1	6
+Historia do Fascismo		1	3
 Historias Arriscadas com Henry Winkler		1	8
 Historias Assustadoras do Mickey		1	5
-Historias de Animais		1	5
 Historias Paranormais		1	8
+Historias de Animais		1	5
 Historico Criminal	2024	1	16
 História de Amor		1	209
+Histórias Maravilhosas		1	5
+Histórias Quase Verdadeiras		1	4
 Histórias de Superação		1	6
 Histórias de Terror		1	8
 Histórias de Verão		1	19
-Histórias Maravilhosas		1	5
 Histórias para Vestir		1	8
 Histórias possíveis		1	2
-Histórias Quase Verdadeiras		1	4
 Hit & Run		1	9
 Hit Parade		1	8
-Hitler e o Nazismo Comeco Meio e Fim	2024	1	6
 Hitler Imagens Nunca Vistas		1	4
-HIV 40 anos AIDS e Suas Historias		0	6
+Hitler e o Nazismo Comeco Meio e Fim	2024	1	6
 Hoje é Dia de Maria		1	13
 Hokuto no Ken Legends of the Dark King		1	14
 Holiday Secrets		1	3
@@ -128,24 +128,24 @@ Homeland		1	96
 Homeland - Seguranca Nacional	2011	1	96
 Homem Aranha A Nova Serie Animada		1	13
 Homem Aranha Acao Sem Limites		1	13
+Homem Formiga Curtas		1	6
+Homem Pipa Ja E		1	10
+Homem X Abelha: A Batalha		1	9
+Homem X Bebe	2025	1	4
 Homem de Familia		1	19
 Homem de Ferro e seus Amigos Incriveis		1	7
 Homem de Ferro: Série Animada	None	0	52
 Homem do Lixo - Cop Adam		1	30
 Homem em Chamas	2026	1	7
-Homem Formiga Curtas		1	6
-Homem Pipa Ja E		1	10
-Homem X Abelha: A Batalha		1	9
-Homem X Bebe	2025	1	4
 Homem-Aranha: A Série Animada		1	65
+Homens Da Montanha Franco Atirador		1	8
+Homens Sem Lei		1	4
+Homens Trabalhando		1	10
 Homens da Lei: Bass Reeves	2023	1	8
 Homens da Montanha		1	8
-Homens Da Montanha Franco Atirador		1	8
 Homens de Verdade		1	8
 Homens do Gelo		1	59
 Homens e Deuses		1	13
-Homens Sem Lei		1	4
-Homens Trabalhando		1	10
 Homens?		1	16
 Hometown Cha Cha Cha		1	16
 Hometown Romance		1	4
@@ -176,10 +176,10 @@ Hoteis Estadias Personalizadas		2	10
 Hotel Assombrado		2	10
 Hotel Assombrado A Ultima Mordida		2	6
 Hotel Costiera	2025	2	6
-Hotel del Luna		2	16
 Hotel Hazbin		2	16
 Hotel Portofino		2	5
 Hotel Sem Estrelas		2	13
+Hotel del Luna		2	16
 Hotéis Incríveis		2	75
 Houdini		2	2
 House Of Cards	2013	2	74
@@ -191,7 +191,7 @@ House of the Owl		2	7
 HouseBroken		2	30
 Housing Complex C		2	4
 How I Met Your Father	2022	2	30
-How I Met Your Mother	2005	2	208
+How I Met Your Mother	2005	2	19
 How To Be a Carioca		2	6
 How To Get Away With Murder		2	90
 Hudson e Rex		2	64

@@ -2778,7 +2778,7 @@
 2	11	dub	http://45.172.0.116:8085/hd2/The.Ark/s2/ep11/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=47663&s=2&e=11&versao=dub
 2	12	dub	http://45.172.0.116:8085/hd2/The.Ark/s2/ep12/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=47663&s=2&e=12&versao=dub
 @Amor Sem Limites	2023
-1	1	dub	https://saimo-tv.pages.dev/api/stream?tipo=series&id=231100&s=1&e=1&versao=dub,https://dry-forest-46fa.gin4uxm3xv9o.workers.dev/manutencao.mp4
+1	1	dub	https://saimo-tv.pages.dev/api/stream?tipo=series&id=231100&s=1&e=1&versao=dub,https://dry-forest-46fa.gin4uxm3xv9o.workers.dev/manutencao.mp4,https://wild-forest-947e.ljm8kzafv2vh.workers.dev/manutencao.mp4
 @A Agencia	2024
 1	1	dub	http://45.172.0.116:8085/hd5/A-Agencia/s1/ep01/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=219971&s=1&e=1&versao=dub
 1	2	dub	http://45.172.0.116:8085/hd5/A-Agencia/s1/ep02/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=219971&s=1&e=2&versao=dub

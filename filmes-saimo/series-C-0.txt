@@ -3357,6 +3357,7 @@
 1	5	dub	http://45.172.0.116:8085/hd2/Cidade.De.Deus.A.Luta.Nao.Para/s1/ep05/master.m3u8,https://comprarebom.xyz/cdn/down/c2ffb7f974636359a1d08580/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=223397&s=1&e=5&versao=dub
 1	6	dub	http://45.172.0.116:8085/hd2/Cidade.De.Deus.A.Luta.Nao.Para/s1/ep06/master.m3u8,https://comprarebom.xyz/cdn/down/f86fe28a8a6bd46e44fd55f0/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=223397&s=1&e=6&versao=dub
 2	1	dub	http://45.172.0.116:8085/hd2/Cidade.De.Deus.A.Luta.Nao.Para/s2/ep01/master.m3u8,https://comprarebom.xyz/cdn/down/c10808c42274f1aa1ee923fd/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=223397&s=2&e=1&versao=dub
+2	2	dub	https://comprarebom.xyz/cdn/down/0908cfde4ec1964406a93022/index.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=223397&s=2&e=2&versao=dub
 @Coelho Ricochete e Blau Blau	1964
 1	1	dub	http://45.172.0.116:8085/hd5/Coelho.Ricochete.e.Blau.Blau.1964/s1/ep01/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=96547&s=1&e=1&versao=dub
 1	2	dub	http://45.172.0.116:8085/hd5/Coelho.Ricochete.e.Blau.Blau.1964/s1/ep02/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=series&id=96547&s=1&e=2&versao=dub

@@ -269,7 +269,7 @@ Cidade Turca - Zembilli		3	13
 Cidade das Esmeraldas		3	10
 Cidade das Estrelas	2026	3	8
 Cidade de Deus A Luta Nao Para	2024	3	6
-Cidade de Deus: A Luta Não Para	2024	0	7
+Cidade de Deus: A Luta Não Para	2024	0	8
 Cidade de Fantasmas		3	6
 Cidade de Sombras		3	6
 Cidade do Caos		3	6
@@ -363,7 +363,7 @@ Como Agua para Chocolate		4	12
 Como Criar um Escandalo Sexual		4	3
 Como Defender um Assassino		4	90
 Como Defender um Assassino (How to Get Away with Murder)	2014	4	32
-Como Eu Conheci Sua Mae	2005	4	208
+Como Eu Conheci Sua Mae	2005	4	19
 Como Ficar Rico		4	8
 Como Funciona o Universo		4	30
 Como Ganhar na Loteria		4	6
