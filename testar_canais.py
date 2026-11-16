@@ -17,7 +17,7 @@ from pathlib import Path
 from typing import Optional
 
 ROOT = Path(__file__).resolve().parent
-CANAIS_DIR = ROOT / "canais-saimo"
+CANAIS_DIR = ROOT / "canais"
 TIMEOUT = 6
 MAX_WORKERS = 25
 DEFAULT_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"

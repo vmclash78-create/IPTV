@@ -12,8 +12,8 @@ enum Enderecos {
 
     static let mudou = Notification.Name("SaimoEnderecosMudaram")
 
-    static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/"
-    static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes-saimo/"
+    static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais/"
+    static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes/"
 
     static func resolver(guardado: String?, padrao: String = "") -> String {
         let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)

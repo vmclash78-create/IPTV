@@ -2,9 +2,9 @@
 """Mirror authorized Saimo source code and text catalogs into this repository.
 
 The catalog layout is preserved:
-  SaimoPlayer/
-  canais-saimo/
-  filmes-saimo/
+  PrismaPlayer/
+  canais/
+  filmes/
 """
 from __future__ import annotations
 
@@ -106,7 +106,7 @@ def download_file(base_url: str, relative_path: str, destination: Path) -> bool:
 
 def apply_custom_patches() -> None:
     """Garante que os arquivos Swift apontem sempre para o repositório do vmclash78-create."""
-    sources = ROOT / "SaimoPlayer" / "Sources"
+    sources = ROOT / "PrismaPlayer" / "Sources"
     if not sources.exists():
         return
 
@@ -117,7 +117,7 @@ def apply_custom_patches() -> None:
         if "padraoCanais" not in txt:
             txt = txt.replace(
                 'static func resolver(guardado: String?) -> String {',
-                'static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/"\n    static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes-saimo/"\n\n    static func resolver(guardado: String?, padrao: String = "") -> String {\n        let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)\n        return valor.isEmpty ? padrao : valor\n    }'
+                'static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais/"\n    static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes/"\n\n    static func resolver(guardado: String?, padrao: String = "") -> String {\n        let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)\n        return valor.isEmpty ? padrao : valor\n    }'
             )
             txt = txt.replace(
                 'get { resolver(guardado: UserDefaults.standard.string(forKey: chaveCanais)) }',
@@ -146,11 +146,12 @@ def apply_custom_patches() -> None:
     events = sources / "Events.swift"
     if events.exists():
         txt = events.read_text(encoding="utf-8")
-        if "saimo-tv.pages.dev/eventos-extra.json" in txt:
+        if "saimo-tv.pages.dev/eventos-extra.json" in txt or "canais-saimo" in txt:
             txt = txt.replace(
                 "https://saimo-tv.pages.dev/eventos-extra.json",
-                "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/eventos-extra.json"
+                "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais/eventos-extra.json"
             )
+            txt = txt.replace("canais-saimo", "canais")
             events.write_text(txt, encoding="utf-8")
             print("  Patch aplicado em Events.swift", flush=True)
 
@@ -158,16 +159,17 @@ def apply_custom_patches() -> None:
     fontes = sources / "FontesDesativadas.swift"
     if fontes.exists():
         txt = fontes.read_text(encoding="utf-8")
-        if "saimo-tv.pages.dev/fontes-desativadas.json" in txt:
+        if "saimo-tv.pages.dev/fontes-desativadas.json" in txt or "canais-saimo" in txt:
             txt = txt.replace(
                 "https://saimo-tv.pages.dev/fontes-desativadas.json",
-                "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/fontes-desativadas.json"
+                "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais/fontes-desativadas.json"
             )
+            txt = txt.replace("canais-saimo", "canais")
             fontes.write_text(txt, encoding="utf-8")
             print("  Patch aplicado em FontesDesativadas.swift", flush=True)
 
     # 5. Info.plist e Marca Prisma TV
-    plist = ROOT / "SaimoPlayer" / "Info.plist"
+    plist = ROOT / "PrismaPlayer" / "Info.plist"
     if plist.exists():
         txt = plist.read_text(encoding="utf-8")
         if "Saimo TV" in txt:
@@ -180,8 +182,8 @@ def apply_custom_patches() -> None:
 
 
 def mirror_git_source() -> None:
-    target = ROOT / "SaimoPlayer"
-    temp = ROOT / ".SaimoPlayer-clone"
+    target = ROOT / "PrismaPlayer"
+    temp = ROOT / ".PrismaPlayer-clone"
     if temp.exists():
         shutil.rmtree(temp)
     subprocess.run(
@@ -192,13 +194,13 @@ def mirror_git_source() -> None:
         shutil.rmtree(target)
     shutil.copytree(temp, target, ignore=shutil.ignore_patterns(".git"))
     shutil.rmtree(temp)
-    print("SaimoPlayer source mirrored.", flush=True)
+    print("PrismaPlayer source mirrored.", flush=True)
     apply_custom_patches()
 
 
 def mirror_channels() -> None:
     print("\n== Canais ==", flush=True)
-    target = ROOT / "canais-saimo"
+    target = ROOT / "canais"
     successes = 0
     for name in CHANNEL_FILES:
         if download_file(CHANNELS_URL, name, target / name):
@@ -273,11 +275,11 @@ def download_series_parts(base_url: str, folder: Path, letter: str) -> int:
 
 def mirror_movies() -> None:
     print("\n== Filmes e séries ==", flush=True)
-    target = ROOT / "filmes-saimo"
+    target = ROOT / "filmes"
     target.mkdir(parents=True, exist_ok=True)
 
     if not download_file(MOVIES_URL, "indice.txt", target / "indice.txt"):
-        raise RuntimeError("Não foi possível baixar filmes-saimo/indice.txt.")
+        raise RuntimeError("Não foi possível baixar filmes/indice.txt.")
 
     index_text = (target / "indice.txt").read_text(encoding="utf-8-sig")
     letters = parse_index_letters(index_text)
@@ -301,7 +303,7 @@ def mirror_movies() -> None:
 def main() -> int:
     # FIX: etapas isoladas — falha em uma não cancela as demais
     steps = [
-        ("SaimoPlayer (código-fonte)", mirror_git_source),
+        ("PrismaPlayer (código-fonte)", mirror_git_source),
         ("Canais", mirror_channels),
         ("Filmes e Séries", mirror_movies),
     ]

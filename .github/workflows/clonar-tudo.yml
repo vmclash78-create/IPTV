@@ -9,15 +9,15 @@ on:
       - main
     paths-ignore:
       # Ignora pushes gerados pelo próprio workflow para evitar loop infinito
-      - 'SaimoPlayer/**'
-      - 'canais-saimo/**'
-      - 'filmes-saimo/**'
+      - 'PrismaPlayer/**'
+      - 'canais/**'
+      - 'filmes/**'
 
 permissions:
   contents: write
 
 concurrency:
-  group: saimo-mirror
+  group: prisma-mirror
   cancel-in-progress: false
 
 jobs:
@@ -45,12 +45,12 @@ jobs:
 
       - name: Commit mirrored content
         run: |
-          git add SaimoPlayer canais-saimo filmes-saimo
+          git add PrismaPlayer canais filmes
           if git diff --cached --quiet; then
             echo "Sem alterações para commitar."
             exit 0
           fi
-          git commit -m "chore(sync): mirror Saimo source and catalogs [skip ci]"
+          git commit -m "chore(sync): mirror Prisma source and catalogs [skip ci]"
           git push origin HEAD:main
 
       - name: Notify on failure

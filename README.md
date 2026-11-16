@@ -15,9 +15,9 @@ Plataforma nativa e independente de streaming IPTV e VOD sob demanda para macOS 
 
 ## 📁 Estrutura do Repositório
 
-- `SaimoPlayer/` — Código-fonte da aplicação nativa **Prisma TV** (Swift / SwiftUI).
-- `canais-saimo/` — Catálogo e metadados de canais ao vivo, guia EPG e rádios.
-- `filmes-saimo/` — Catálogos particionados de filmes, séries, episódios, sinopses e capas.
+- `PrismaPlayer/` — Código-fonte da aplicação nativa **Prisma TV** (Swift / SwiftUI).
+- `canais/` — Catálogo e metadados de canais ao vivo, guia EPG e rádios.
+- `filmes/` — Catálogos particionados de filmes, séries, episódios, sinopses e capas.
 - `clonar.py` — Automação de espelhamento e atualização dos catálogos.
 - `testar_canais.py` — Testador e auditor de saúde dos canais (Health Check em tempo real).
 - `.github/workflows/` — Workflows do GitHub Actions para sincronização diária agendada via cron.
