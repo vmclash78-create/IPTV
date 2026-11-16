@@ -290,7 +290,7 @@ Na sincronia pelo Saimo Connect, quem nunca escolheu endereço (`linksEm` 0)
 adota o que o outro aparelho enviou.
 
 Formato do Saimo (quando há endereço). **Quer montar a sua própria lista? O formato
-completo, com exemplos prontos, está em [`docs/formato-saimo.md`](docs/formato-saimo.md)**
+completo, com exemplos prontos, está em [`docs/formato-prisma.md`](docs/formato-prisma.md)**
 e dá para conferir com `python3 scripts/validar_formato_saimo.py` antes de usar:
 
 - Canais: o app só concatena `catalogo.txt`, `canais.txt`, `restritos.txt`,
