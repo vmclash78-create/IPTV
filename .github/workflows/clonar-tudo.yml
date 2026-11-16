@@ -1,10 +1,17 @@
 name: Clonar tudo
 
 on:
+  schedule:
+    - cron: '0 4 * * *'   # Execução automática diária às 04:00 UTC
   workflow_dispatch:
   push:
     branches:
       - main
+    paths-ignore:
+      # Ignora pushes gerados pelo próprio workflow para evitar loop infinito
+      - 'SaimoPlayer/**'
+      - 'canais-saimo/**'
+      - 'filmes-saimo/**'
 
 permissions:
   contents: write
@@ -16,7 +23,7 @@ concurrency:
 jobs:
   mirror:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,8 +47,13 @@ jobs:
         run: |
           git add SaimoPlayer canais-saimo filmes-saimo
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "Sem alterações para commitar."
             exit 0
           fi
-          git commit -m "Sync Saimo source and catalogs"
+          git commit -m "chore(sync): mirror Saimo source and catalogs [skip ci]"
           git push origin HEAD:main
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "::error::Sincronização falhou — verifique o log do Actions para detalhes."

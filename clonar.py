@@ -25,7 +25,7 @@ SOURCE_GIT = "https://github.com/SaimoTV/SaimoPlayer.git"
 USER_AGENT = "Mozilla/5.0 (compatible; IPTV-Catalog-Mirror/1.0)"
 TIMEOUT = 35
 RETRIES = 3
-DELAY = 0.12
+DELAY = 0.30          # aumentado para reduzir risco de rate limit no Cloudflare
 MAX_SERIES_PARTS = 1000
 
 CHANNEL_FILES = (
@@ -43,7 +43,7 @@ MOVIE_FIXED_FILES = (
     "marcas.txt",
     "fichas.txt",
     "detalhes.txt",
-    "links-doramas.txt",
+    # "links-doramas.txt",  # removido: retorna 404 (migrado para redeflix/)
     "redeflix/links-animes.txt",
     "redeflix/links-doramas.txt",
 )
@@ -84,6 +84,14 @@ def download_file(base_url: str, relative_path: str, destination: Path) -> bool:
     data = request_bytes(url)
     if data is None:
         return False
+    # FIX: rejeita respostas vazias para evitar sobrescrever arquivos bons
+    if len(data) == 0:
+        print(f"  AVISO: resposta vazia para {relative_path} — ignorado", flush=True)
+        return False
+    # Otimização: evita re-escrita se o conteúdo já é idêntico
+    if destination.exists() and destination.read_bytes() == data:
+        print(f"  Sem mudança: {relative_path}", flush=True)
+        return True
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_bytes(data)
     print(f"  OK {relative_path} ({len(data):,} bytes)", flush=True)
@@ -147,6 +155,9 @@ def download_letter_file(
         if data is not None:
             canonical = f"{kind}-{letter}.txt"
             dest = folder / canonical
+            if dest.exists() and dest.read_bytes() == data:
+                print(f"  Sem mudança: {canonical}", flush=True)
+                return True
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_bytes(data)
             print(f"  OK {canonical} via {name} ({len(data):,} bytes)", flush=True)
@@ -158,12 +169,15 @@ def download_letter_file(
 
 
 def download_series_parts(base_url: str, folder: Path, letter: str) -> int:
+    # FIX: codifica '#' como '%23' na URL para evitar arquivos ausentes
+    url_letter = "%23" if letter == "#" else letter
     downloaded = 0
     for part in range(MAX_SERIES_PARTS):
-        relative = f"series-{letter}-{part}.txt"
-        dest = folder / relative
-        if not download_file(base_url, relative, dest):
-            # The published format uses contiguous zero-based part numbers.
+        relative_url = f"series-{url_letter}-{part}.txt"
+        relative_local = f"series-{letter}-{part}.txt"
+        dest = folder / relative_local
+        if not download_file(base_url, relative_url, dest):
+            # O formato publicado usa numeração contígua base-zero; para na primeira ausência.
             break
         downloaded += 1
     if downloaded == MAX_SERIES_PARTS:
@@ -202,14 +216,33 @@ def mirror_movies() -> None:
 
 
 def main() -> int:
-    try:
-        mirror_git_source()
-        mirror_channels()
-        mirror_movies()
-    except (subprocess.CalledProcessError, OSError, RuntimeError) as exc:
-        print(f"ERRO: {exc}", file=sys.stderr, flush=True)
+    # FIX: etapas isoladas — falha em uma não cancela as demais
+    steps = [
+        ("SaimoPlayer (código-fonte)", mirror_git_source),
+        ("Canais", mirror_channels),
+        ("Filmes e Séries", mirror_movies),
+    ]
+    failed: list[str] = []
+    for name, func in steps:
+        print(f"\n{'='*60}", flush=True)
+        print(f"Iniciando: {name}", flush=True)
+        print(f"{'='*60}", flush=True)
+        try:
+            func()
+            print(f"Concluído: {name}", flush=True)
+        except (subprocess.CalledProcessError, OSError, RuntimeError) as exc:
+            print(f"ERRO em '{name}': {exc}", file=sys.stderr, flush=True)
+            failed.append(name)
+
+    print(f"\n{'='*60}", flush=True)
+    if failed:
+        print(
+            f"Espelhamento concluído COM ERROS nas etapas: {', '.join(failed)}",
+            file=sys.stderr,
+            flush=True,
+        )
         return 1
-    print("\nEspelhamento concluído.", flush=True)
+    print("Espelhamento concluído com sucesso.", flush=True)
     return 0
 
 
