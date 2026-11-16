@@ -121,7 +121,7 @@ struct BarraDoTopo: View {
                     .resizable()
                     .interpolation(.high)
                     .frame(width: 30, height: 30)
-                    .help("Saimo TV")
+                    .help("Prisma TV")
                     .padding(.leading, telaCheia ? 22 : 84)
 
                 Spacer(minLength: 0)

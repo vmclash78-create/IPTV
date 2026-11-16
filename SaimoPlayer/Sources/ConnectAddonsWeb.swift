@@ -121,7 +121,7 @@ enum ConnectAddonsWeb {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Saimo Player — Addons e Debrid</title>
+<title>Prisma TV — Addons e Debrid</title>
 <style>
   :root { color-scheme: dark; --bg:#121417; --card:#1b1f25; --line:#2c323b; --accent:#e50914; --text:#f3f4f6; --muted:#9ca3af; }
   * { box-sizing:border-box; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
@@ -148,7 +148,7 @@ enum ConnectAddonsWeb {
 <body>
 <div class="wrap">
   <div>
-    <h1>Saimo Player — Addons e Debrid</h1>
+    <h1>Prisma TV — Addons e Debrid</h1>
     <p class="sub">Adicione manifestos HTTP Stremio (/manifest.json) ou stremio:// e configure chaves Debrid diretamente pelo navegador.</p>
   </div>
 

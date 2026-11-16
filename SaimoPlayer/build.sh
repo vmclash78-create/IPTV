@@ -2,7 +2,7 @@
 set -euo pipefail
 
 cd "$(dirname "$0")"
-APP="build/Saimo TV.app"
+APP="build/Prisma TV.app"
 
 rm -rf build
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
@@ -26,7 +26,7 @@ swiftc \
   -framework MetalFX \
   -framework QuartzCore \
   -framework CoreVideo \
-  -o "$APP/Contents/MacOS/SaimoTV" \
+  -o "$APP/Contents/MacOS/PrismaTV" \
   Sources/*.swift
 
 # Motor de torrent (SaimoTorrent, Rust): toca fonte de addon sem Debrid.
@@ -38,6 +38,6 @@ else
   echo "aviso: motor de torrent não encontrado (cargo build --release em ../SaimoTorrent)" >&2
 fi
 
-codesign --force --sign - --identifier dev.saimo.player "$APP" >/dev/null 2>&1 || true
+codesign --force --sign - --identifier dev.prismatv.player "$APP" >/dev/null 2>&1 || true
 
 echo "built: $APP"

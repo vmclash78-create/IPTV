@@ -38,7 +38,7 @@ final class TocandoAgora {
         info = [
             MPMediaItemPropertyTitle: canal.name,
             MPMediaItemPropertyArtist: programa.isEmpty ? "Ao vivo" : programa,
-            MPMediaItemPropertyAlbumTitle: "Saimo TV",
+            MPMediaItemPropertyAlbumTitle: "Prisma TV",
             MPNowPlayingInfoPropertyMediaType: MPNowPlayingInfoMediaType.video.rawValue,
             MPNowPlayingInfoPropertyIsLiveStream: true,
             MPNowPlayingInfoPropertyPlaybackRate: 1.0,
@@ -67,7 +67,7 @@ final class TocandoAgora {
         info = [
             MPMediaItemPropertyTitle: titulo,
             MPMediaItemPropertyArtist: apoio,
-            MPMediaItemPropertyAlbumTitle: "Saimo TV",
+            MPMediaItemPropertyAlbumTitle: "Prisma TV",
             MPNowPlayingInfoPropertyMediaType: MPNowPlayingInfoMediaType.video.rawValue,
             MPNowPlayingInfoPropertyIsLiveStream: false,
             MPNowPlayingInfoPropertyElapsedPlaybackTime: 0.0,

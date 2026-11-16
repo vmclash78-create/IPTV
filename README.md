@@ -1,34 +1,37 @@
-# IPTV — espelho privado
+# 📺 Prisma TV
 
-Espelho automatizado do código-fonte SaimoPlayer e dos arquivos de catálogo configurados em `clonar.py`.
+Plataforma nativa e independente de streaming IPTV e VOD sob demanda para macOS e iOS, com proxy local de alta velocidade, remuxagem em tempo real, aceleração de hardware e catálogos descentralizados.
 
-## Estrutura
+## 🌟 Recursos Principais
 
-- `SaimoPlayer/` — arquivos do repositório Git de origem, sem o histórico Git interno.
-- `canais-saimo/` — arquivos de catálogo de canais.
-- `filmes-saimo/` — índice, catálogos por letra, partições de episódios e arquivos auxiliares.
-- `redeflix/` — arquivos de links auxiliares, dentro de `filmes-saimo/`.
+- **Reprodução Nativa (AVFoundation / SwiftUI)**: Aceleração total via Metal e GPU Apple Silicon/Intel.
+- **Proxy Local Inteligente (`ProxyServer.swift`)**: Intercepta e injeta cabeçalhos (Referer, User-Agent, Tokens) automaticamente sem bloqueios.
+- **Remuxer em Tempo Real**: Converte contêineres `.mkv`, `.ts` e codecs de áudio em tempo real para reprodução nativa sem recodificar o vídeo.
+- **Catálogo Descentralizado**: Filmes, séries e canais ao vivo organizados e carregados instantaneamente direto deste repositório.
+- **Suporte Multi-Fonte**: Se um link de canal cair, o player pula automaticamente para a fonte reserva sem tela preta.
+- **Multi-Tela**: Assista múltiplos canais simultaneamente em grade.
+- **Torrents & Debrid**: Suporte integrado a Real-Debrid, Torbox, AllDebrid, Premiumize e motor torrent embutido (Rust).
+- **Guia de Programação (EPG)**: Programação de TV ao vivo integrada diretamente no player.
 
-## Execução
+## 📁 Estrutura do Repositório
 
-O GitHub Actions roda:
-- manualmente em **Actions → Clonar tudo → Run workflow**;
-- automaticamente após cada `push` na branch `main`.
+- `SaimoPlayer/` — Código-fonte da aplicação nativa **Prisma TV** (Swift / SwiftUI).
+- `canais-saimo/` — Catálogo e metadados de canais ao vivo, guia EPG e rádios.
+- `filmes-saimo/` — Catálogos particionados de filmes, séries, episódios, sinopses e capas.
+- `clonar.py` — Automação de espelhamento e atualização dos catálogos.
+- `testar_canais.py` — Testador e auditor de saúde dos canais (Health Check em tempo real).
+- `.github/workflows/` — Workflows do GitHub Actions para sincronização diária agendada via cron.
 
-O script lê `indice.txt`, identifica as chaves `#` e `A`–`Z`, tenta as variantes `%23`, `0` e `outros` para a chave `#`, e baixa as listas de filmes/séries e as partições numeradas de episódios a partir de `-0`, parando no primeiro arquivo que não retornar HTTP 2xx.
+## ⚙️ Testador de Saúde dos Canais
 
-## Execução local
-
-Requisitos: Python 3.10+ e Git.
+Para auditar o status de todos os canais ao vivo em paralelo:
 
 ```bash
-python3 clonar.py
+python testar_canais.py
 ```
 
-## Observações operacionais
+O relatório detalhado com tempo de resposta e canais online/offline é gerado em `relatorio_canais.md`.
 
-- Arquivos opcionais que não existirem na origem são registrados como ausentes.
-- `indice.txt` e pelo menos um arquivo de canais são obrigatórios para uma execução bem-sucedida.
-- O limite de segurança é de 1.000 partições por letra; se for atingido, a execução falha explicitamente.
-- O espelhamento preserva os nomes e a estrutura de diretórios definidos no script.
-- Mantenha este repositório privado: os catálogos podem conter URLs e credenciais de serviços. A visibilidade privada reduz exposição, mas não substitui controle de acesso, rotação de credenciais e armazenamento seguro de segredos.
+## 🔒 Segurança
+
+Mantenha este repositório privado para preservar os endpoints e configurações.

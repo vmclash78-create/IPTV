@@ -166,6 +166,18 @@ def apply_custom_patches() -> None:
             fontes.write_text(txt, encoding="utf-8")
             print("  Patch aplicado em FontesDesativadas.swift", flush=True)
 
+    # 5. Info.plist e Marca Prisma TV
+    plist = ROOT / "SaimoPlayer" / "Info.plist"
+    if plist.exists():
+        txt = plist.read_text(encoding="utf-8")
+        if "Saimo TV" in txt:
+            txt = txt.replace("Saimo TV", "Prisma TV")
+            txt = txt.replace("SaimoTV", "PrismaTV")
+            txt = txt.replace("dev.saimo.player", "dev.prismatv.player")
+            txt = txt.replace("_saimotv._tcp", "_prismatv._tcp")
+            plist.write_text(txt, encoding="utf-8")
+            print("  Patch de marca aplicado em Info.plist", flush=True)
+
 
 def mirror_git_source() -> None:
     target = ROOT / "SaimoPlayer"

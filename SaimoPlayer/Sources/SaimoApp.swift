@@ -39,7 +39,7 @@ struct SaimoApp: App {
     }
 
     var body: some Scene {
-        WindowGroup("Saimo TV") {
+        WindowGroup("Prisma TV") {
             ContentView()
         }
         .windowStyle(.hiddenTitleBar)
