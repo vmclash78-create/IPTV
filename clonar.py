@@ -21,6 +21,7 @@ from typing import Optional
 ROOT = Path(__file__).resolve().parent
 CHANNELS_URL = "https://canais-saimo.pages.dev/"
 MOVIES_URL = "https://filmes-saimo.pages.dev/"
+EXTRA_URL = "https://saimo-tv.pages.dev/"
 SOURCE_GIT = "https://github.com/SaimoTV/SaimoPlayer.git"
 USER_AGENT = "Mozilla/5.0 (compatible; IPTV-Catalog-Mirror/1.0)"
 TIMEOUT = 35
@@ -34,6 +35,10 @@ CHANNEL_FILES = (
     "guia.txt",
     "radios.txt",
     "restritos.txt",
+)
+EXTRA_FILES = (
+    "eventos-extra.json",
+    "fontes-desativadas.json",
 )
 MOVIE_FIXED_FILES = (
     "indice.txt",
@@ -99,6 +104,69 @@ def download_file(base_url: str, relative_path: str, destination: Path) -> bool:
     return True
 
 
+def apply_custom_patches() -> None:
+    """Garante que os arquivos Swift apontem sempre para o repositório do vmclash78-create."""
+    sources = ROOT / "SaimoPlayer" / "Sources"
+    if not sources.exists():
+        return
+
+    # 1. Enderecos.swift
+    enderecos = sources / "Enderecos.swift"
+    if enderecos.exists():
+        txt = enderecos.read_text(encoding="utf-8")
+        if "padraoCanais" not in txt:
+            txt = txt.replace(
+                'static func resolver(guardado: String?) -> String {',
+                'static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/"\n    static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes-saimo/"\n\n    static func resolver(guardado: String?, padrao: String = "") -> String {\n        let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)\n        return valor.isEmpty ? padrao : valor\n    }'
+            )
+            txt = txt.replace(
+                'get { resolver(guardado: UserDefaults.standard.string(forKey: chaveCanais)) }',
+                'get { resolver(guardado: UserDefaults.standard.string(forKey: chaveCanais), padrao: padraoCanais) }'
+            )
+            txt = txt.replace(
+                'get { resolver(guardado: UserDefaults.standard.string(forKey: chaveFilmes)) }',
+                'get { resolver(guardado: UserDefaults.standard.string(forKey: chaveFilmes), padrao: padraoFilmes) }'
+            )
+            enderecos.write_text(txt, encoding="utf-8")
+            print("  Patch aplicado em Enderecos.swift", flush=True)
+
+    # 2. VersaoPublicada.swift
+    versao = sources / "VersaoPublicada.swift"
+    if versao.exists():
+        txt = versao.read_text(encoding="utf-8")
+        if "SaimoTV/saimo-downloads" in txt:
+            txt = txt.replace(
+                "https://github.com/SaimoTV/saimo-downloads/releases/latest/download/versao.json",
+                "https://github.com/vmclash78-create/IPTV/releases/latest/download/versao.json"
+            )
+            versao.write_text(txt, encoding="utf-8")
+            print("  Patch aplicado em VersaoPublicada.swift", flush=True)
+
+    # 3. Events.swift
+    events = sources / "Events.swift"
+    if events.exists():
+        txt = events.read_text(encoding="utf-8")
+        if "saimo-tv.pages.dev/eventos-extra.json" in txt:
+            txt = txt.replace(
+                "https://saimo-tv.pages.dev/eventos-extra.json",
+                "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/eventos-extra.json"
+            )
+            events.write_text(txt, encoding="utf-8")
+            print("  Patch aplicado em Events.swift", flush=True)
+
+    # 4. FontesDesativadas.swift
+    fontes = sources / "FontesDesativadas.swift"
+    if fontes.exists():
+        txt = fontes.read_text(encoding="utf-8")
+        if "saimo-tv.pages.dev/fontes-desativadas.json" in txt:
+            txt = txt.replace(
+                "https://saimo-tv.pages.dev/fontes-desativadas.json",
+                "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/fontes-desativadas.json"
+            )
+            fontes.write_text(txt, encoding="utf-8")
+            print("  Patch aplicado em FontesDesativadas.swift", flush=True)
+
+
 def mirror_git_source() -> None:
     target = ROOT / "SaimoPlayer"
     temp = ROOT / ".SaimoPlayer-clone"
@@ -113,6 +181,7 @@ def mirror_git_source() -> None:
     shutil.copytree(temp, target, ignore=shutil.ignore_patterns(".git"))
     shutil.rmtree(temp)
     print("SaimoPlayer source mirrored.", flush=True)
+    apply_custom_patches()
 
 
 def mirror_channels() -> None:
@@ -124,6 +193,8 @@ def mirror_channels() -> None:
             successes += 1
         else:
             print(f"  Ausente/indisponível: {name}", flush=True)
+    for name in EXTRA_FILES:
+        download_file(EXTRA_URL, name, target / name)
     if successes == 0:
         raise RuntimeError("Nenhum arquivo de canais foi baixado; confira a origem.")
 

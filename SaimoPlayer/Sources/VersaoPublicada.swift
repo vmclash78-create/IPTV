@@ -8,7 +8,7 @@ struct VersaoPublicada: Equatable {
     /// Onde o anúncio mora: o `versao.json` anexado à última release. Não
     /// depende de nenhum endereço de lista (quem trocou ou apagou a lista
     /// continua recebendo atualização).
-    static let anuncio = URL(string: "https://github.com/SaimoTV/saimo-downloads/releases/latest/download/versao.json")!
+    static let anuncio = URL(string: "https://github.com/vmclash78-create/IPTV/releases/latest/download/versao.json")!
 
     let tag: String
     let numero: String

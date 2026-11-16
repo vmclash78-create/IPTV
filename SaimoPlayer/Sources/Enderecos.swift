@@ -10,24 +10,30 @@ enum Enderecos {
     static let chaveCanais = "linkCanais"
     static let chaveFilmes = "linkFilmes"
 
+    /// Endereços-padrão apontando para o seu próprio repositório no GitHub.
+    /// Caso o usuário não tenha informado nenhuma URL manual, o aplicativo carrega estes catálogos por padrão.
+    static let padraoCanais = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/canais-saimo/"
+    static let padraoFilmes = "https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes-saimo/"
+
     static let mudou = Notification.Name("SaimoEnderecosMudaram")
 
-    static func resolver(guardado: String?) -> String {
-        (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
+    static func resolver(guardado: String?, padrao: String = "") -> String {
+        let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
+        return valor.isEmpty ? padrao : valor
     }
 
-    /// Endereço-base da lista de canais. Vazio quando desligada.
+    /// Endereço-base da lista de canais. Usa o repositório próprio se nenhum for digitado.
     static var canais: String {
-        get { resolver(guardado: UserDefaults.standard.string(forKey: chaveCanais)) }
+        get { resolver(guardado: UserDefaults.standard.string(forKey: chaveCanais), padrao: padraoCanais) }
         set {
             UserDefaults.standard.set(newValue, forKey: chaveCanais)
             NotificationCenter.default.post(name: mudou, object: nil)
         }
     }
 
-    /// Endereço-base da pasta vod/ (filmes e séries). Vazio quando desligada.
+    /// Endereço-base da pasta vod/ (filmes e séries). Usa o repositório próprio se nenhum for digitado.
     static var filmes: String {
-        get { resolver(guardado: UserDefaults.standard.string(forKey: chaveFilmes)) }
+        get { resolver(guardado: UserDefaults.standard.string(forKey: chaveFilmes), padrao: padraoFilmes) }
         set {
             UserDefaults.standard.set(newValue, forKey: chaveFilmes)
             NotificationCenter.default.post(name: mudou, object: nil)
