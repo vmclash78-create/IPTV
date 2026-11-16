@@ -175,6 +175,10 @@ fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playl
 qualidade: FHD · 1920x1080
 fonte: http://45.185.11.126:8000/play/a08v/index.m3u8
 qualidade: FHD · 1920x1080
+fonte: https://8082b6e2113420e4c4f714d5b2223041.s25-cloudfront-net.lat/stream/4a06fe5c9e1962410681e1df4cb875f1/error.txt
+qualidade: HD · 1280x720
+referer: https://ww0.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/getv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1439,7 +1443,9 @@ canal: Canal Agro
 categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/agromais.png
 
-fonte: http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
+qualidade: HD · 1280x720
+fonte: https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 qualidade: HD · 1280x720
 canal: Blits TV
 categoria: Variedades
@@ -2278,8 +2284,12 @@ canal: MTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/mtv.png
 
-fonte: https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+fonte: https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 qualidade: HD · 1280x720
+fonte: https://8082b6e2113420e4c4f714d5b2223041.s25-cloudfront-net.lat/stream/77c06120d15c1ecd78f957c0b9cd061b/error.txt
+qualidade: HD · 1280x720
+referer: https://ww0.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 canal: 24H Chaves
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
