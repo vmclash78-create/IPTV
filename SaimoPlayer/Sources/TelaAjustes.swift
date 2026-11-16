@@ -384,7 +384,7 @@ struct TelaAjustes: View {
                         }
                     }
 
-                    Text("Prisma TV \(versao) para Mac")
+                    Text("Saimo TV \(versao) para Mac")
                         .font(.system(size: 12))
                         .foregroundStyle(Tema.textoApagado)
                 }

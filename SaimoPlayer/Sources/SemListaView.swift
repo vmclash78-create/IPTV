@@ -18,7 +18,7 @@ struct SemListaView: View {
 
     private var textoDeAjuda: String {
         if !temAlgumaLista {
-            return "Bem-vindo ao Prisma TV! Para começar, adicione uma lista M3U (só o link já basta), uma lista com usuário e senha, o endereço de uma lista própria ou um addon HTTP Stremio."
+            return "Bem-vindo ao Saimo! Para começar, adicione uma lista M3U (só o link já basta), uma lista com usuário e senha, o endereço de uma lista do Saimo ou um addon HTTP Stremio."
         }
         return secao == .canais
             ? "Verifique a sua conexão com a internet ou adicione listas em Ajustes."
@@ -48,7 +48,7 @@ struct SemListaView: View {
                         }
                         .buttonStyle(.borderedProminent)
                         Button { VodEstado.shared.secao = .ajustes } label: {
-                            Label("Endereços da Lista", systemImage: "gearshape").font(.system(size: 13))
+                            Label("Endereços do Saimo", systemImage: "gearshape").font(.system(size: 13))
                         }
                         .buttonStyle(.bordered)
                         Button { VodEstado.shared.mostrarAddons = true } label: {

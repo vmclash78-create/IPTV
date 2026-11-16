@@ -90,7 +90,7 @@ struct ContentView: View {
             } message: {
                 Text("Deseja instalar este addon Stremio?\n\n\(vod.addonParaConfirmarURL ?? "")")
             }
-            .navigationTitle(vod.secao?.titulo ?? model.canalAtivo?.name ?? "Prisma TV")
+            .navigationTitle(vod.secao?.titulo ?? model.canalAtivo?.name ?? "Saimo TV")
             .onAppear {
                 // Como a TV: abre na tela inicial, a menos que os ajustes
                 // digam para ir direto ao último canal.
