@@ -186,7 +186,9 @@ def write_outputs(results: list[dict], source_stats: list[dict]) -> None:
             attrs.append(f'tvg-logo="{item["logo"].replace(chr(34), "")}"')
         lines.append(f'#EXTINF:-1 {" ".join(attrs)},{item["name"]}')
         lines.append(item["url"])
-    OUT_M3U.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    # Nao destrói uma playlist anterior caso uma rodada nao aprove canais.
+    if approved:
+        OUT_M3U.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
