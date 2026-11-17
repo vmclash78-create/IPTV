@@ -96,7 +96,7 @@ Teekyuu		0	12
 Teen Wolf	2011	0	100
 Teen Wolf - Lobo Adolescente		0	100
 Teenage Euthanasia		0	17
-Teerã	2020	0	29
+Teerã	2020	0	28
 Tegami Bachi		0	50
 Tegami Bachi: Letter Bee		0	50
 Teias do Destino		0	121
@@ -513,7 +513,7 @@ The Oath	2018	4	15
 The Oath: O Juramento		4	10
 The Oblivious Saint Can't Contain Her Power		4	4
 The Oblongs		4	18
-The Odd Couple		4	45
+The Odd Couple		4	37
 The Office		4	206
 The Ogre's Bride		4	1
 The Old Man	2022	4	15

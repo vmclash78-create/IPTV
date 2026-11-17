@@ -70,7 +70,7 @@ Caminhos dos Orixas		0	16
 Camp CrunchLabs		0	8
 Campeões do Barbecue		0	24
 Campeões do Sendokai		0	52
-Campfire Cooking in Another World with My Absurd Skill		0	36
+Campfire Cooking in Another World with My Absurd Skill		0	24
 Campus Drivers		0	6
 Can You Hear My Heart		0	16
 Can a Boy-Girl Friendship Survive?		0	12
@@ -255,7 +255,7 @@ Casual		2	13
 Casão: Num Jogo Sem Regras	2022	2	4
 Cat e Keet		2	78
 Cat's Eye		2	12
-CatDog		2	90
+CatDog		2	69
 Catalendas		2	86
 Catarina A Grande		2	4
 Catastrofes da Engenharia		2	6
@@ -707,6 +707,7 @@ Conto de Cinzas - Kül Masalı		5	10
 Contos		5	123
 Contos Do Loop		5	8
 Contos Futurísticos		5	7
+Contos da Noite		5	18
 Contos de The Walking Dead		5	12
 Contra o Destino - Kadere Karsi		5	29
 Contracapa		5	13
@@ -717,7 +718,7 @@ Control Z	2020	5	24
 Conturbado		5	19
 Conversa com Bial		5	189
 Conversando com um Serial Killer: O Canibal de Milwaukee		5	3
-Conversando com um serial killer O Filho de Sam		5	3
+Conversando com um serial killer O Filho de Sam		6	3
 Conversando com um serial killer: A Mente de Charles Manson		6	3
 Conversando com um serial killer: Ted Bundy		6	4
 Conversando com um serial killer: o Palhaço Assassino		6	3
@@ -749,7 +750,7 @@ Coracao que Mente - Corazon que Miente		6	51
 Coracoes Destinados		6	38
 Coracoes Solitarios - Yalniz Kalpler		6	100
 Coragem Irmao		6	6
-Coragem, o Cão Covarde		6	78
+Coragem, o Cão Covarde		6	53
 Coração Alado		6	6
 Coração Escarlate		6	35
 Coração Esmeralda		6	105
@@ -837,7 +838,7 @@ Criadas Malignas - Hizmetçiler		6	3
 Criadores de Diversão		6	8
 Criadores de Supercarros		6	15
 Criadores do Futuro		6	3
-Criando Delicias		6	16
+Criando Delicias		7	16
 Criando Dion		7	17
 Criando o Filho da Amante		7	1
 Criança		7	79

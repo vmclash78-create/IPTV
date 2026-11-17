@@ -44,20 +44,20 @@ f	No Limite da Justiça (2026)	N	2026	/aD01dfnZ0RSrDEEOz7qwm4SReeD.jpg
 fila	Séries em alta
 s	VisionQuest	V	2026	/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg
 s	O Senhor dos Anéis: Os Anéis de Poder	O	2022	/8FPCnfOftiLTHg5wnJxVdtlF8EN.jpg
-s	Dexter: Ressurreição	D	2025	/wnQ99OpwyVUxRZbfeqhNE1aab6h.jpg
-s	The Good Daughter	T		/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg
 s	Terra da Máfia	T	2025	/jM7bH9b9QT22PtkTyHzxbXx4lDI.jpg
 s	Tulsa King	T	2022	/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg
-s	South Park	S		/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg
+s	Dexter: Ressurreição	D	2025	/wnQ99OpwyVUxRZbfeqhNE1aab6h.jpg
+s	The Good Daughter	T		/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg
 s	Campus Drivers	C		/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg
-s	Slow Horses	S	2022	/rdNvIaPXpkUZl5tQLsTP15osfu2.jpg
 s	A Imperatriz	A	2022	/fOaBC66LkIwBABowOsjUEAjUeGN.jpg
 s	A Imperatriz Se Casou Novamente	A		/lzS8kJgL5pNlX25iVVjafhvQGBy.jpg
-s	Scrubs	S	2026	/vYmEEiuYU3O1BmlHhJwnNEOOTxn.jpg
-s	Lanternas	L	2026	/735vF021KbR8cg3Mlb3v4ajTGSY.jpg
-s	The Chosen	T		/9lL4etMuaZnqlSzkf0zEm3gbvlR.jpg
-s	Luz em Dias de Chuva	L		/ex26ZwCJmwUkIAbSf8s0TQpTegZ.jpg
+s	The Chosen Os Escolhidos	T	2019	/9lL4etMuaZnqlSzkf0zEm3gbvlR.jpg
+s	Dragon Ball Super: Beerus	D	2026	/w5ai45092PIlV1Vbt7kswry2C03.jpg
+s	South Park	S		/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg
+s	One Piece	O	1999	/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg
 s	Amor Disfarçado (2026)	A	2026	/fhYPYQyVopTbPIf4A7FN5Q3lxPR.jpg
+s	Noturno	N		/lVoPRl5RXH2U7XJUQJnl3z0au89.jpg
+s	Luz em Dias de Chuva	L		/ex26ZwCJmwUkIAbSf8s0TQpTegZ.jpg
 s	Um Trabalho do Inferno	U		/sb7uyzV8re3uSvogl6jn8KjLbAH.jpg
 s	Lupin	L	2021	/sOUWRai0215iUSMackrZx3Y1j05.jpg
 s	O Instituto	O	2025	/ja76sMrXwojD8SBwbblgqN5JJK.jpg
@@ -70,18 +70,18 @@ s	Rivais	R		/2eZUuadthmjqOaZnCQwjFCDY5Td.jpg
 s	JoJo's Bizarre Adventure	J	2012	/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg
 s	A Casa do Dragão	A	2022	/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg
 s	Cidade de Deus A Luta Nao Para	C	2024	/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg
+s	Lanternas	L	2026	/735vF021KbR8cg3Mlb3v4ajTGSY.jpg
 s	Marshals: Uma História de Yellowstone	M	2026	/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg
 s	The Rookie	T	2018	/yCPGrd6fzbftuaH97OUS6tUdE4B.jpg
 s	Os Simpsons	O		/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg
 s	Bleach	B	2004	/dx28DE7EgLy0FatOvnaUg0k9j92.jpg
-s	Cyberpunk: Edgerunners	C		/nWvAY8yHE873adMws83XqBPf7W2.jpg
+s	Cyberpunk: Mercenários	C	2022	/nWvAY8yHE873adMws83XqBPf7W2.jpg
 s	Princesa e Estrategista	P		/bgPVGcFIlY2vetjneDXQ1WQbJRD.jpg
 s	Futurama	F		/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg
 s	Milagres da Sala de Emergência	M		/fCCFIOeEtNBZmGEQfri5mhZDYbf.jpg
 s	S.W.A.T. Exiles	S		/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg
 s	A Lei de Alicia	A		/jh1F9HZwdP4gghnxSTEbWEmMe6.jpg
 s	Avatar: Os Sete Refugios	A	2026	/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg
-s	Stick	S	2025	/D7cxWHBj769OYsX9jpx9eb2Y9q.jpg
 fila	Lançamentos de 2026
 f	Resident Evil (2026)	R	2026	/bvBTdNaWVPrHKjyPFnsigZJsKdD.jpg
 f	A Odisseia (2026)	A	2026	/b82gpDmbbDZGywc0Zq1t2N3wWj5.jpg
@@ -226,6 +226,7 @@ d	Popular Serizawa Acts Weird Around Me		2026	/536fDgEVGzV1NpXd2gVqY0SL0ko.jpg
 d	A Pousada do Jae-seok		2026	/bnw5v4d8T9Cg4ylHuJ7CsfPZBFK.jpg
 d	Os Pecados de Kujo		2026	/t9MMKbTZClTbVL2w7yJ1ikV6g0U.jpg
 d	À Minha Ladra Querida		2026	/e0VwBgm0OPUsiFSGkwDS54AAkQb.jpg
+d	Contos da Noite		2026	/2ah8irNR08fONfeQkMlvnc3143w.jpg
 d	Um Grude de Amor		2026	/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg
 d	Além da traição		2026	/dyusVtoZ2h3RV6jbgTeqzRBMV7a.jpg
 d	After Moving Seats, The Boy Behind Me Has A Crush On Me		2026	/dZMQz3mNFPcKec88QhAVc9BtyG.jpg
@@ -245,4 +246,3 @@ d	Assustadoramente Apaixonados		2026	/iBhyQsX73fl4SUkDkaEp8MHa0dW.jpg
 d	Xiao Fang		2026	/dF8AzhhHtOLHTmuZ12Wx2if7oz2.jpg
 d	Cinquentões de Elite		2026	/wY9ruUjIX2OQt7GZpzwYhSCZamB.jpg
 d	A Chave para o Coração da Fênix		2026	/15yxaoXDWKinS5M1ksRFpkUSTms.jpg
-d	Flores do Poder		2026	/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg

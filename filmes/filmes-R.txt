@@ -263,7 +263,7 @@ Red: Crescer e Uma Fera (2022)	dub=18:508947,http://dbonline.tech-cdn.top:80/mov
 RedBad: A Invasão dos Francos (2018)	dub=18:485296,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762020.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6820.mp4
 Rede Tóxica	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751588.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751581.mp4
 Rede de Corrupção	dub=18:10877,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761712.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6828.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254272.mp4
-Rede de Intrigas	dub=18:10774,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763067.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31102.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87850.mp4
+Rede de Intrigas	dub=18:10774,18:23736,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763067.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31102.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87850.mp4
 Rede de Mentiras	dub=18:12113,18:198198,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761436.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6831.mp4
 Rede de Ódio	dub=18:590854,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763870.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31112.mp4
 Redemoinho	dub=18:417579

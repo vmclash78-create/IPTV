@@ -406,7 +406,7 @@ A Maldição de Oak Island		3	28
 A Man Who Defies The World of BL		3	7
 A Maneira Correta de Escrever Amor		3	1
 A Mangakas Weirdly Wonderful Workplace		3	11
-A Mansao Foster para Amigos Imaginários		3	78
+A Mansao Foster para Amigos Imaginários		3	76
 A Mao do Eurico	2023	3	5
 A Maquina		3	47
 A Matilha		3	9
@@ -740,7 +740,7 @@ ARK: The Animated Series		6	6
 ATRI -My Dear Moments-		6	13
 AYAKA		6	12
 AZUR LANE		6	12
-Aaahh!!! Monstros		6	78
+Aaahh!!! Monstros		6	52
 Aaron Stone		6	18
 Ab Dekh Khuda Kya Karta Hai		6	11
 Abandono de Evento		6	4
@@ -1076,7 +1076,7 @@ Amor Comum - Adı Sevgi		8	11
 Amor Contra o Tempo		8	1
 Amor Destinado, Case Comigo Novamente		8	10
 Amor Disfarçado		8	6
-Amor Disfarçado (2026)		8	8
+Amor Disfarçado (2026)		8	9
 Amor Doce Amor		8	5
 Amor Entre Estranhos		9	52
 Amor Entre Linhas		9	62
@@ -1197,7 +1197,7 @@ Amores Verdadeiros		9	1133
 Amores com Trapacas - Amores con Trampa		9	123
 Amores que Enganam		9	10
 Amorteamo	2015	9	5
-Amphibia		9	78
+Amphibia		9	58
 Amsterdam		10	81
 Amsterdam Central 24 7		10	6
 Amy e Tammy Irmas Contra o Peso		10	66
@@ -1390,7 +1390,7 @@ Armas de Mulher	2022	11	8
 Armas e Amores		11	7
 Armazem 13	2009	11	64
 Armorsaurs		11	13
-Arnold		11	114
+Arnold		11	97
 Aroma de Morango		11	23
 Arqueiro		11	170
 Arqueologias em Busca dos Primeiros Brasileiros		11	6

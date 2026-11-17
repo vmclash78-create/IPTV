@@ -107,6 +107,7 @@ Um Pouco Grande Demais		0	13
 Um Pouco de Luz do Sol		0	71
 Um Rapaz Adequado		0	12
 Um Refúgio para o Amor		0	127
+Um Romance Sem Igual		0	6
 Um Sonho até Você		0	24
 Um Só Coração		0	53
 Um Tanto Familiar		0	8
@@ -117,7 +118,7 @@ Um Trilhao de Dolares		0	6
 Um Vento Louco - Bir Deli Ruzgar		0	6
 Um Yakuza Genial: Tatsu Imortal		0	10
 Um conto de fadas		0	13
-Um de Nós - İçimizden Biri		0	6
+Um de Nós - İçimizden Biri		1	6
 Um de Nós Está Mentindo		1	24
 Uma Advogada Extraordinária		1	16
 Uma Alma, duas caras		1	129
@@ -237,7 +238,7 @@ Uta No Prince-Sama		1	13
 Utawarerumono		1	32
 Utopia		1	20
 Utopia Falls		1	9
-Uzaki Sehir Cidade		1	50
+Uzaki Sehir Cidade		2	50
 Uzaki-chan wa Asobitai!		2	25
 Uzumaki		2	4
 um Cara Comum		2	14

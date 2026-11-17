@@ -375,7 +375,7 @@ Luluzinha		3	78
 Luna Nera		3	6
 Luna Park		3	6
 Lupi e Baduki		3	13
-Lupin	2021	3	33
+Lupin	2021	3	25
 Lupin III		3	23
 Lupin da Politica		3	4
 Lupin the 3rd Part 6		3	78

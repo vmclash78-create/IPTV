@@ -422,7 +422,7 @@ Shakugan No Shana		3	24
 Shaman King		3	52
 Shaman King Flowers		3	25
 Shameless	2011	3	252
-Shangri-La Frontier	2023	3	149
+Shangri-La Frontier	2023	3	125
 Shantaram		3	12
 Shardlake		3	4
 Sharivan, O Guardião do Espaço		3	51
@@ -631,7 +631,7 @@ Solte o Ar Bem Devagar		5	12
 Solteira Astuta		5	16
 Solteiros Nunca Mais		5	20
 Solteiros, Ilhados e Desesperados		5	53
-Soltos	2020	5	57
+Soltos	2020	5	41
 Som na Faixa		5	6
 Sombra do Ceu		5	26
 Sombra e Ossos	2021	5	16
@@ -884,7 +884,7 @@ Suits - Homens de Terno	2011	7	150
 Suits LA	2025	7	24
 Sule Sua Historia - Sule Senin Hikayen		7	10
 Sullivan e Massadas: Retratos e Canções		7	2
-Sullivan's Crossing: Um Lugar para Recomeçar		7	30
+Sullivan's Crossing: Um Lugar para Recomeçar		7	25
 Sullivans Crossing Um Lugar para Recomecar	2023	7	30
 Sultão do meu Coração		7	7
 Sultão do meu Coração - Kalbimin Sultanı		7	11
@@ -936,7 +936,7 @@ Supergatinhos		7	26
 Supergirl	2015	7	126
 Supermachos		7	6
 Superman e Lois	2021	7	53
-Superman: A Série Animada		7	54
+Superman: A Série Animada		7	52
 Supermax		7	12
 Supermães		7	83
 Supernatural		7	656

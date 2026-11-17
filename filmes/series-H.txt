@@ -299,7 +299,7 @@ Hora de Aventura		2	287
 Hora de Aventura com Fionna e Cake		2	20
 Hora de Aventura: Missões Secundárias		2	21
 Hora do Jantar com David Chang		2	37
-Hora do Recreio		2	95
+Hora do Recreio		2	79
 Horimiya	2021	2	26
 Horimiya: Piece	2023	2	26
 Horário Nobre		2	10

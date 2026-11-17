@@ -1446,7 +1446,7 @@ Control Freak	dub=18:1364897,18:1452063,http://acaidopt.org:80/movie/3llohwk4g9/
 Control Zeta	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314494.mp4
 Control: O Poder da Mente (2022)	dub=18:986088,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756079.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765669.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35647.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68366.mp4
 Controle	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752069.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/403.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251712.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254678.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68371.mp4
-Controle (2023)	dub=18:1145490,18:616126,18:1152830
+Controle (2023)	dub=18:1145490
 Controle Absoluto	dub=18:13027,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752553.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44216.mp4
 Controle de Transito (2017)	dub=18:491206
 Controle: A História de Ian Curtis	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762387.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24872.mp4
@@ -1939,5 +1939,5 @@ Cúmplices de um Segredo	dub=18:206192
 Cúpula do Caos	dub=18:1187417,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758378.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48411.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757291.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69053.mp4
 Cœur de Pirate aux Francofolies de La Rochelle	dub=18:291318,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758127.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38069.mp4
 como você é babaca!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41756.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68138.mp4
-controle (2026)	dub=18:1369243,https://embedplayer2.xyz/cdn/hls/873706fea6d7ef00d57b9929edda1f6a/master.txt
+controle (2026)	dub=18:1369243,18:616126,18:1152830,https://embedplayer2.xyz/cdn/hls/873706fea6d7ef00d57b9929edda1f6a/master.txt
 ¡Casa Bonita Mi Amor!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755049.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96393.mp4

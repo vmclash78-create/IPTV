@@ -8,7 +8,7 @@ KEVIN CAN FK HIMSELF		0	8
 KILL BLUE		0	13
 KING OF PRISM -Shiny Seven Stars-		0	4
 KLASS 95 O Poder da Beleza	2024	0	45
-KND A Turma do Bairro		0	93
+KND A Turma do Bairro		0	66
 KOKKOKU		0	12
 KONOSUBA -An Explosion on This Wonderful World!		0	12
 KONOSUBA -God's blessing on this wonderful world!		0	35

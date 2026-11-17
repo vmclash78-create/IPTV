@@ -122,6 +122,7 @@ O Chefe da Casa	2016	1	56
 O Chefinho: De Volta ao Berço		1	28
 O Chefinho: De Volta aos Negócios	2018	1	47
 O Ciclo Pendragon: A Ascensão de Merlin		1	14
+O Cinema por Philomena Cunk		1	12
 O Circo da Paixão		1	15
 O Circulo		1	80
 O Circulo - Halka		1	19
@@ -237,7 +238,7 @@ O Farejador		1	32
 O Faz Nada		1	5
 O Filho Bastardo do Diabo		1	8
 O Fim da Beleza		1	3
-O Fim da Infância		1	3
+O Fim da Infância		2	3
 O Fim do Amor		2	10
 O Fim do Mundo		2	35
 O Fim do Mundo Com Você		2	8
@@ -337,7 +338,7 @@ O Juiz do Diabo		2	32
 O Juiz do Inferno		2	14
 O Julgamento de Nuremberg		2	1
 O Lab da Emily		2	10
-O Laboratório de Dexter		2	78
+O Laboratório de Dexter		2	51
 O Lado Obscuro da Fama		2	22
 O Lado Obscuro de Gangnam		2	14
 O Lado Obscuro dos Anos 80		2	16
@@ -357,7 +358,7 @@ O Livro de Boba Fett	2021	2	7
 O Lobista		2	10
 O Lobo		2	49
 O Maestro e o Mar	2022	2	19
-O Maior Assalto		2	6
+O Maior Assalto		3	6
 O Maior Roubo de Arte de Todos os Tempos		3	4
 O Mal na sua Essencia A Historia de Hadden Clark		3	5
 O Manipulado		3	12
@@ -477,7 +478,7 @@ O Piloto Invisível		3	3
 O Pior do Mal		3	24
 O Plano de Ressurreicao	2025	3	9
 O Plano é Esse		3	6
-O Poder		3	9
+O Poder		4	9
 O Poder de Hitler		4	3
 O Poder e a Lei	2022	4	40
 O Point do Mickey		4	58
@@ -597,7 +598,7 @@ O Segredo dos Animais A Serie		4	51
 O Segundo Melhor Hospital da Galáxia		4	16
 O Senhor das Moscas	2026	4	4
 O Senhor dos Anéis: Os Anéis de Poder	2022	4	28
-O Senhor e a Serva		4	10
+O Senhor e a Serva		5	10
 O Sequestro do Voo 601		5	6
 O Servente Supremo		5	1
 O Sexo dos Anjos		5	142
@@ -717,7 +718,7 @@ Obituary		5	6
 Objecao - Sakincali		5	5
 Objetos Amaldicoados		5	8
 Objetos Cortantes		5	8
-Oblivion Battery		5	12
+Oblivion Battery		6	12
 Observando Elena Evoy		6	1
 Obsess		6	4
 Obsession The Murder of a Beauty Queen		6	1
@@ -837,7 +838,7 @@ Operacao Guerra Verde		6	10
 Operacao Policial		6	55
 Operación triunfo		6	2
 Operation Buffalo		6	6
-Operação Alto Mar: Estados Unidos		6	12
+Operação Alto Mar: Estados Unidos		7	12
 Operação Berlim	2016	7	29
 Operação Big Hero: A Série		7	46
 Operação Ecstasy		7	28
@@ -957,7 +958,7 @@ Os Fantasmas de Devil Perch		7	1
 Os Farad		7	8
 Os Feiticeiros Alem de Waverly Place	2024	7	35
 Os Feiticeiros De Waverly Place		7	106
-Os Filhos da Guerra		7	2
+Os Filhos da Guerra		8	2
 Os Filhos de Sam: Loucura e Conspiração		8	4
 Os Fios do Passado - Los Hilos del Pasado		8	60
 Os Flintstones	None	8	134
@@ -1077,7 +1078,7 @@ Os Trapalhoes		8	203
 Os Ursinhos Gummi		8	65
 Os Vingadores A Serie		8	13
 Os Vingadores Unidos		8	127
-Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		8	52
+Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		9	52
 Os Vivos e os Mortos		9	6
 Os Vizinhos Green		9	109
 Os Westies: Donos do Oeste	2026	9	8

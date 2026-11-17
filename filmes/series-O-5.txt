@@ -1,3 +1,14 @@
+@O Senhor e a Serva
+1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5656691.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652118.mp4
+1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5656692.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652119.mp4
+1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5656693.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652120.mp4
+1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5656694.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652121.mp4
+1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5656695.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652122.mp4
+1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5656696.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652123.mp4
+1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5656697.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652124.mp4
+1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5656698.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652125.mp4
+1	9	dub	http://64.31.23.207:80/series/96795792/50165825/5656699.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652126.mp4
+1	10	dub	http://64.31.23.207:80/series/96795792/50165825/5656700.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652127.mp4
 @O Sequestro do Voo 601
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5640598.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521716.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149449.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5640599.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521717.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149450.mp4
@@ -4077,16 +4088,3 @@
 1	6	dub	19:70453/1/6,http://64.31.23.207:80/series/96795792/50165825/5566702.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633093.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126130.mp4
 1	7	dub	19:70453/1/7,http://64.31.23.207:80/series/96795792/50165825/5566703.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633094.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126131.mp4
 1	8	dub	19:70453/1/8,http://64.31.23.207:80/series/96795792/50165825/5566704.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633095.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126132.mp4
-@Oblivion Battery
-1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681111.mp4
-1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681112.mp4
-1	3	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681113.mp4
-1	4	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681114.mp4
-1	5	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681115.mp4
-1	6	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681116.mp4
-1	7	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681117.mp4
-1	8	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681118.mp4
-1	9	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681119.mp4
-1	10	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681120.mp4
-1	11	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681121.mp4
-1	12	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681122.mp4

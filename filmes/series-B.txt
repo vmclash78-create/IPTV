@@ -114,7 +114,7 @@ Barra Bravas		0	8
 Barrabrava		0	16
 Barracuda Queens		0	12
 Barrados No Baile - Nova Geração		0	114
-Barrados no Baile	1990	0	463
+Barrados no Baile	1990	0	461
 Barras Invisiveis		0	16
 Barriga de Aluguel		0	386
 Barry	2018	0	32
@@ -329,7 +329,7 @@ Black Blood Brothers		2	6
 Black Box		2	13
 Black Butler		2	71
 Black Cat	2024	2	23
-Black Clover	2017	2	297
+Black Clover	2017	2	178
 Black Doves	2024	2	12
 Black Dynamite		2	19
 Black Earth Rising		2	8
