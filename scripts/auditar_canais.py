@@ -39,6 +39,12 @@ SOURCES = [
         "name": "IPTV-com Brasil",
         "url": "https://github.com/iptv-com/iptv/raw/refs/heads/main/lists/brazil.m3u",
     },
+    {
+        # Repositorio declara usar feeds publicos/oficiais e excluir canais pagos.
+        # Cada URL ainda precisa passar pela auditoria local do Prisma TV.
+        "name": "FreeCastHub — canais publicos oficiais",
+        "url": "https://raw.githubusercontent.com/freecasthub/public-iptv/main/playlist.m3u",
+    },
 ]
 
 
