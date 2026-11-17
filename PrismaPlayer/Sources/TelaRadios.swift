@@ -132,25 +132,50 @@ struct Equalizador: View {
     let tocando: Bool
     private let barras = 28
 
+    private var gradiente: LinearGradient {
+        LinearGradient(
+            colors: [Tema.acento, Color(red: 0.6, green: 0.48, blue: 1)],
+            startPoint: .bottom,
+            endPoint: .top
+        )
+    }
+
     var body: some View {
         TimelineView(.animation(minimumInterval: 1.0 / 20, paused: !tocando)) { contexto in
-            let t = contexto.date.timeIntervalSinceReferenceDate
-            GeometryReader { geo in
-                let passo = geo.size.width / CGFloat(barras)
-                HStack(alignment: .bottom, spacing: passo * 0.45) {
-                    ForEach(0..<barras, id: \.self) { i in
-                        let alvo = tocando
-                            ? 0.25 + 0.75 * abs(sin(t * (2.1 + Double(i % 5) * 0.37) + Double(i) * 0.9) * sin(t * 0.9 + Double(i) * 0.31))
-                            : 0.08
-                        Capsule()
-                            .fill(LinearGradient(colors: [Tema.acento, Color(red: 0.6, green: 0.48, blue: 1)],
-                                                 startPoint: .bottom, endPoint: .top))
-                            .frame(width: passo * 0.55, height: max(3, geo.size.height * alvo))
-                    }
-                }
-                .frame(maxHeight: .infinity, alignment: .bottom)
-                .animation(.easeOut(duration: 0.12), value: tocando)
-            }
+            equalizador(noInstante: contexto.date.timeIntervalSinceReferenceDate)
         }
+    }
+
+    private func equalizador(noInstante instante: TimeInterval) -> some View {
+        GeometryReader { geometria in
+            let passo = geometria.size.width / CGFloat(barras)
+            HStack(alignment: .bottom, spacing: passo * 0.45) {
+                ForEach(0..<barras, id: \.self) { indice in
+                    barra(indice, instante: instante, passo: passo, alturaDisponivel: geometria.size.height)
+                }
+            }
+            .frame(maxHeight: .infinity, alignment: .bottom)
+            .animation(.easeOut(duration: 0.12), value: tocando)
+        }
+    }
+
+    private func barra(_ indice: Int, instante: TimeInterval, passo: CGFloat,
+                       alturaDisponivel: CGFloat) -> some View {
+        let altura = alturaDaBarra(indice, instante: instante, alturaDisponivel: alturaDisponivel)
+        return Capsule()
+            .fill(gradiente)
+            .frame(width: passo * 0.55, height: altura)
+    }
+
+    private func alturaDaBarra(_ indice: Int, instante: TimeInterval,
+                               alturaDisponivel: CGFloat) -> CGFloat {
+        let deslocamento = Double(indice)
+        let frequencia = 2.1 + Double(indice % 5) * 0.37
+        let ondaPrincipal = sin(instante * frequencia + deslocamento * 0.9)
+        let ondaSecundaria = sin(instante * 0.9 + deslocamento * 0.31)
+        let amplitude = tocando
+            ? 0.25 + 0.75 * abs(ondaPrincipal * ondaSecundaria)
+            : 0.08
+        return max(3, alturaDisponivel * amplitude)
     }
 }
