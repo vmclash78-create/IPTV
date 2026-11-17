@@ -1,0 +1,41 @@
+name: Auditoria publica de canais
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prisma-auditoria-canais
+  cancel-in-progress: false
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Agregar e auditar fontes publicas
+        run: python3 scripts/auditar_canais.py
+
+      - name: Publicar lista e relatorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add canais/auditada.m3u canais/auditoria.json relatorio_auditoria.md
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao na auditoria."
+            exit 0
+          fi
+          git commit -m "chore(iptv): atualizar canais aprovados na auditoria [skip ci]"
+          git push
