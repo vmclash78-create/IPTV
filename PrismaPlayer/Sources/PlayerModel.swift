@@ -273,7 +273,6 @@ final class PlayerModel: NSObject, ObservableObject {
     private var fonteViaProxy = false
     /// A fonte em que a série no ar vem tocando; vale só para esta sessão.
     private var fontePreferida: FontePreferida.Memoria?
-    private var blackScreenTicks: Int = 0
 
     /// Um master HLS publicado como `.txt` precisa passar pelo proxy de
     /// playlists desde o primeiro pedido. Servi-lo direto faz o AVFoundation
@@ -1246,25 +1245,6 @@ final class PlayerModel: NSObject, ObservableObject {
             Telemetria.shared.falhou(n.tipo, n.titulo, url: n.url, fonte: n.fonte, detalhe: String(reason.prefix(200)))
         }
         if let arquivo = playingFile {
-            if reason.contains("tela preta"), Remuxer.shared.isAvailable, fileSourceIndex < fileSources.count,
-               (!fileSourceRemux.indices.contains(fileSourceIndex) || !fileSourceRemux[fileSourceIndex]) {
-                while fileSourceRemux.count <= fileSourceIndex { fileSourceRemux.append(false) }
-                fileSourceRemux[fileSourceIndex] = true
-                let origem = fileSources[fileSourceIndex]
-                let remuxada = ProxyServer.shared.remuxLink(for: origem, name: playingFileName, headers: cabecalhosDaFonte(fileSourceIndex))
-                fonteViaProxy = true
-                playingFile = remuxada
-                status = "ajustando formato do vídeo (remux)…"
-                Log.shared.write("\(playingFileName): \(reason) — acionando remux ffmpeg fMP4")
-                let ponto = position
-                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) { [weak self] in
-                    guard let self, self.playingFile == remuxada else { return }
-                    self.retomarEm = ponto > 0 ? ponto : nil
-                    self.load(remuxada, channel: nil)
-                }
-                return
-            }
-
             // Algumas origens respondem com um `Content-Range` que termina no
             // fim do arquivo mesmo quando mandam só o pedaço pedido, e o
             // AVFoundation para antes do primeiro quadro. O proxy local refaz o
@@ -1495,18 +1475,6 @@ final class PlayerModel: NSObject, ObservableObject {
         }
         if playingFile == nil, selectedChannel != nil && isPlaying && player.timeControlStatus == .playing {
             aplicarLiveCatchUp(item)
-        }
-        if isPlaying && player.timeControlStatus == .playing && (playingFile != nil || selectedChannel != nil) {
-            let size = item.presentationSize
-            if size.width == 0 && (position > 2.5 || (playingFile == nil && playedSinceOpen)) {
-                blackScreenTicks += 1
-                if blackScreenTicks > 6 {
-                    blackScreenTicks = 0
-                    scheduleReconnect(reason: "tela preta com som (incompatibilidade de vídeo)")
-                }
-            } else if size.width > 0 {
-                blackScreenTicks = 0
-            }
         }
     }
 

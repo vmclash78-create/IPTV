@@ -109,7 +109,7 @@ final class SaimoConnect: ObservableObject {
         if erro == kDNSServiceErr_NoError {
             anuncio = ref
         } else {
-            Log.shared.write("Prisma Connect: anúncio Bonjour falhou (\(erro))")
+            Log.shared.write("Saimo Connect: anúncio Bonjour falhou (\(erro))")
         }
     }
 

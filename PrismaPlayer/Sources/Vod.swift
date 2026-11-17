@@ -426,12 +426,8 @@ enum Vod {
 
     private static var pasta: URL {
         let base = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
-        let legada = base.appendingPathComponent("SaimoTV/vod", isDirectory: true)
-        if FileManager.default.fileExists(atPath: legada.path) {
-            try? FileManager.default.removeItem(at: legada)
-        }
-        let dir = base.appendingPathComponent("PrismaTV/vod", isDirectory: true)
-        try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
-        return dir
+            .appendingPathComponent("PrismaTV/vod", isDirectory: true)
+        try? FileManager.default.createDirectory(at: base, withIntermediateDirectories: true)
+        return base
     }
 }

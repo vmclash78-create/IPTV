@@ -275,7 +275,7 @@ final class Telemetria {
         guard let arquivos = try? FileManager.default.contentsOfDirectory(
             at: pasta, includingPropertiesForKeys: [.contentModificationDateKey]) else { return }
         var maisNovo = visto
-        for arquivo in arquivos where arquivo.lastPathComponent.hasPrefix("PrismaTV") || arquivo.lastPathComponent.hasPrefix("SaimoTV") {
+        for arquivo in arquivos where arquivo.lastPathComponent.hasPrefix("PrismaTV") {
             let data = (try? arquivo.resourceValues(forKeys: [.contentModificationDateKey]))?
                 .contentModificationDate?.timeIntervalSince1970 ?? 0
             guard data > visto else { continue }

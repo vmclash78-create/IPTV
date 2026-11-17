@@ -19,15 +19,9 @@ enum Preferencias {
     private static var arquivoURL: URL {
         let base = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first
             ?? URL(fileURLWithPath: NSHomeDirectory()).appendingPathComponent("Library/Application Support")
-        let legada = base.appendingPathComponent("SaimoTV/ajustes.json")
         let dir = base.appendingPathComponent("PrismaTV", isDirectory: true)
-        let nova = dir.appendingPathComponent("ajustes.json")
-        if FileManager.default.fileExists(atPath: legada.path) && !FileManager.default.fileExists(atPath: nova.path) {
-            try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
-            try? FileManager.default.copyItem(at: legada, to: nova)
-        }
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
-        return nova
+        return dir.appendingPathComponent("ajustes.json")
     }
 
     private static func lerMapa() -> [String: Any] {

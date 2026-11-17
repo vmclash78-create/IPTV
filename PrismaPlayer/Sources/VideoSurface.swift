@@ -333,7 +333,6 @@ final class PlayerLayerView: NSView {
     private var itemCancellable: AnyCancellable?
     private var renderTimer: Timer?
     private var lastPixelBuffer: CVPixelBuffer?
-    private var semQuadroTicks: Int = 0
 
     var onDoubleClick: (() -> Void)?
     /// Clique simples: na multi tela é o que escolhe a tela ativa.
@@ -489,14 +488,7 @@ final class PlayerLayerView: NSView {
             bufferParaDesenhar = lastPixelBuffer
         }
 
-        guard let pb = bufferParaDesenhar else {
-            semQuadroTicks += 1
-            if semQuadroTicks > 15 && !metalLayer.isHidden {
-                metalLayer.isHidden = true
-            }
-            return
-        }
-        semQuadroTicks = 0
+        guard let pb = bufferParaDesenhar else { return }
 
         if let cs = CVImageBufferGetColorSpace(pb)?.takeUnretainedValue(),
            metalLayer.colorspace !== cs {
@@ -511,8 +503,6 @@ final class PlayerLayerView: NSView {
                 metalLayer.isHidden = false
                 CATransaction.commit()
             }
-        } else if !metalLayer.isHidden {
-            metalLayer.isHidden = true
         }
     }
 
