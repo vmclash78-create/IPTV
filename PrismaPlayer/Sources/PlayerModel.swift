@@ -1574,8 +1574,10 @@ final class PlayerModel: NSObject, ObservableObject {
             qualityChoices = [MediaChoice(id: "auto", title: "Automática")]
             audioOptions = [:]; subtitleOptions = [:]
             qualityBitrates = [:]
-            audioGroup = try? await asset.loadMediaSelectionGroup(for: .audible)
-            subtitleGroup = try? await asset.loadMediaSelectionGroup(for: .legible)
+            // API síncrona: AVMediaSelectionGroup não é Sendable e o retorno da API async
+            // não pode atravessar o isolamento do ator com o SDK atual do macOS.
+            audioGroup = asset.mediaSelectionGroup(forMediaCharacteristic: .audible)
+            subtitleGroup = asset.mediaSelectionGroup(forMediaCharacteristic: .legible)
             guard player.currentItem === item else { return }
             if let g = audioGroup {
                 audioChoices = g.options.enumerated().map { indice, opcao in
