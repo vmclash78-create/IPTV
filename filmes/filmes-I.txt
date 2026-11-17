@@ -1,24 +1,27 @@
-I Am Lisa (2020)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1870719.mp4
-I Am Mother	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34011.mp4
-I Am Mother (2019)	dub=http://45.172.0.116:8085/hd4/2019/I.Am.Mother.2019/master.m3u8
-I Am Vengeance: Retaliation	dub=https://embedplayer2.xyz/cdn/hls/1ce097c73399cece0c0aa923090e6e21/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4128.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74830.mp4
-I Am What I Am 2	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74840.mp4
-I Am a Hero (2016)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1859140.mp4
-I Live Here Now (2026)	leg=https://embedplayer2.xyz/cdn/hls/81a1d7a41cc865983cace8e001556fda/master.txt
+I Am Lisa	dub=18:728773
+I Am Mother (2019)	dub=18:505948,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765711.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34011.mp4
+I Am Vengeance Retaliation	dub=https://embedplayer2.xyz/cdn/hls/1ce097c73399cece0c0aa923090e6e21/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4128.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74830.mp4
+I Am What I Am 2	dub=18:1154478	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74840.mp4
+I Am a Hero	dub=18:276624	leg=18:276624.mp4?lang=leg
+I Live Alone	dub=18:856015
+I Live Here Now (2026)	dub=18:1274134	leg=https://embedplayer2.xyz/cdn/hls/81a1d7a41cc865983cace8e001556fda/master.txt
 I Love Boosters	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308125.mp4
-I Love Us	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1880048.mp4
-I Met A Girl	dub=https://embedplayer2.xyz/cdn/hls/7bff1b377a9d7b6bc05bac1088c87852/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74845.mp4
+I Love Us	dub=18:858672	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74835.mp4
+I Met A Girl	dub=18:1478392,https://embedplayer2.xyz/cdn/hls/7bff1b377a9d7b6bc05bac1088c87852/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74845.mp4
 I Saw the TV Glow	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49209.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74855.mp4
-I Still Believe	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3526.mp4
+I Still Believe	dub=18:715782	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74861.mp4
+I Swallow It. Public Blowjob And Anal At Night	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771589.mp4
 I Swear	dub=https://embedplayer2.xyz/cdn/hls/b6afdfde9a755476822d58a39d656611/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98336.mp4
-I Used to Be Funny (2024)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74850.mp4
-I Wanna Dance with Somebody: A História de Whitney Houston	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56267.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26802.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74866.mp4
+I Used to Be Funny (2024)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755876.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74850.mp4
+I Wanna Dance with Somebody: A História de Whitney Houston	dub=18:696157,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56267.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762678.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26802.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74866.mp4
+I Want Your Sex	leg=18:1288059.mp4?lang=leg
+I Was a Simple Man	dub=18:632311
 I Wrote This For You	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74879.mp4
-I'll Be Right There	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15609.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74873.mp4
-I'm Your Venus	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74884.mp4
-I.S.S.	dub=http://45.172.0.116:8085/hd1/2023/i-s-s-2023-720/master.m3u8
-I.S.S. (2024)	dub=https://embedplayer2.xyz/cdn/hls/a2f64caa70511005642734fbdc9c3c70/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35947.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74889.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289501.mp4
-II Guerra Mundial Filmes Perdidos: A Guerra no Ar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36938.mp4
+I'll Be Right There	dub=18:1109946,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756174.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767938.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15609.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74873.mp4
+I'm Your Venus	dub=18:1275897,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756379.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74884.mp4
+I.S.S. (2024)	dub=18:790462,https://embedplayer2.xyz/cdn/hls/a2f64caa70511005642734fbdc9c3c70/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35947.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74889.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289501.mp4
+ID A Indentidade Anônima	dub=18:86985
+II Guerra Mundial Filmes Perdidos: A Guerra no Ar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765243.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36938.mp4
 ILUSAO AGRIDOCE	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301969.mp4
 ILUSAO VERDEJANTE	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301976.mp4
 IMERSO EM SEU AMOR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302476.mp4
@@ -30,452 +33,493 @@ INIMIGOS CAEM, AMOR PERMANECE	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 INIMIGOS COM BENEFICIOS O CASAMENTO DO CEO ATACA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302106.mp4
 INVENCIVEL DESDE A CELA	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301662.mp4
 INVERNO ARDENTE	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302858.mp4
-IO - O Ultimo na Terra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34021.mp4
+IO – O Último na Terra	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765384.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34021.mp4
 IRMA EU PREPAREI UM NAMORADO BILIONARIO PARA VOCE.	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302848.mp4
 IRMANDADE DE MENTIRAS JURAMENTO POR VINGANCA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301981.mp4
-IT: Capítulo Dois	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56380.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49350.mp4
-IT: Capítulo Dois (2019)	dub=http://45.172.0.116:8085/hd1/2019/it-capitulo-dois-2019-720/master.m3u8
-Ibiza: Tudo pelo DJ (2018)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2381073.mp4
-Ibiúna, Primavera Brasileira	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1866633.mp4
-Ice Cold O Caso Jessica Wongso	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74905.mp4
-Ice Spiders: Assassinas do Gelo (2007)	dub=http://45.172.0.116:8085/hd3/2007/Ice-Spiders-Assassinas-do-Gelo-2007/master.m3u8
-Icebox (2018)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1815469.mp4
+IT: Capítulo Dois (2019)	dub=18:474350,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56380.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56388.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758528.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759447.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49350.mp4
+Ibiza: Tudo pelo DJ	dub=18:463053
+Ibiúna, Primavera Brasileira	dub=18:734668,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759677.mp4
+Icaro	dub=18:1071314
+Ice 2	dub=18:576917
+Ice Cold: O Caso Jessica Wongso (2023)	dub=18:1172499,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759830.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74905.mp4
+Ice Spiders: Assassinas do Gelo (2007)	dub=18:17306
+Ice: Um Dia Depois do Amanhã (2011)	dub=18:121442
+Icebox	dub=18:543772
 Icefall	dub=https://embedplayer2.xyz/cdn/hls/17e8f9ac7d781d7a8dd4b390f1c1d725/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250089.mp4
-Icefall Saque no Gelo (2025)	dub=https://embedplayer2.xyz/cdn/hls/17e8f9ac7d781d7a8dd4b390f1c1d725/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253442.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254761.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253708.mp4
-Icefall: Saque no Gelo	dub=http://45.172.0.116:8085/hd8/2025/Icefall-Saque-no-Gelo-2025/master.m3u8
-Iceman 2: O Viajante do Tempo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4132.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74895.mp4
-Iceman: A Roda do Tempo	dub=http://45.172.0.116:8085/hd4/2014/Iceman.A.Roda.do.Tempo.2014/master.m3u8
-Iceman: A Roda do Tempo (2014)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1857334.mp4
-Ichi, o Assassino	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2053312.mp4
-Ida Red	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4136.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74900.mp4
-Idade da Água	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38333.mp4
-Idas e Vindas do Amor (2010)	dub=http://45.172.0.116:8085/hd3/2010/idas-e-vindas-do-amor-2010/master.m3u8
-Identidade	dub=https://embedplayer2.xyz/cdn/hls/d571acf422eeea6bd56b6fa6b33e2339/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26807.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74906.mp4
-Identidade (2003)	dub=https://embedplayer2.xyz/cdn/hls/d571acf422eeea6bd56b6fa6b33e2339/master.txt
-Identidade (2021)	dub=https://embedplayer2.xyz/cdn/hls/830cf03d51a81a2e202681d427c2cddd/master.txt
-Identidade Apagada (2024)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1864701.mp4
-Identidade Paranormal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49219.mp4
-Identidade Possessiva	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74908.mp4
-Identidade Roubada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26809.mp4
-Identidades em Jogo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44684.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74912.mp4
-Identidades em Jogo (2024)	dub=http://45.172.0.116:8085/hd3/2024/identidades-em-jogo-2024/master.m3u8
-Identity Crisis	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74914.mp4
-Idiocracia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15618.mp4
-Idiotas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15613.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74920.mp4
-Idiotas (2026)	dub=http://45.172.0.116:8085/hd8/2026/03/Idiotas.2026/master.m3u8
-If Anything Happens I Love You	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31416.mp4
+Icefall Saque no Gelo (2025)	dub=18:1242501,https://embedplayer2.xyz/cdn/hls/17e8f9ac7d781d7a8dd4b390f1c1d725/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751441.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253442.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254761.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253708.mp4
+Iceman 2: O Viajante do Tempo	dub=18:490214,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755689.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760303.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4132.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74895.mp4
+Iceman: A Roda do Tempo	dub=18:105001
+Ichi, o Assassino	dub=18:9696
+Ida Red	dub=18:818192,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4136.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74900.mp4
+Ida Red: O Preço da Liberdade	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761702.mp4
+Idade da Água	dub=18:728000,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38333.mp4
+Idas e Vindas de Amor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15622.mp4
+Idas e Vindas do Amor (2010)	dub=18:32856,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767793.mp4
+Identicos (2018)	dub=18:489988
+Identidade	dub=https://embedplayer2.xyz/cdn/hls/d571acf422eeea6bd56b6fa6b33e2339/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753110.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762793.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26807.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74906.mp4
+Identidade (2003)	dub=18:2832,https://embedplayer2.xyz/cdn/hls/d571acf422eeea6bd56b6fa6b33e2339/master.txt
+Identidade (2021)	dub=18:1010227,18:541524,18:21191,https://embedplayer2.xyz/cdn/hls/830cf03d51a81a2e202681d427c2cddd/master.txt
+Identidade Especial	dub=18:222216
+Identidade Paranormal	dub=18:41505,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759680.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49219.mp4
+Identidade Possessiva	dub=18:1019961,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754249.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74908.mp4
+Identidade Roubada	dub=18:18858,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762478.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26809.mp4	leg=18:18858.mp4?lang=leg
+Identidades em Jogo (2024)	dub=18:1052280,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752698.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755520.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44684.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74912.mp4
+Identity Crisis	dub=18:1079240,18:1415138,18:31239,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756457.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759806.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74914.mp4
+Idiocracia	dub=18:7512,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768510.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15618.mp4
+Idiotas (2026)	dub=18:445466,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750577.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15613.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74920.mp4
+Idênticos: Dois Destinos Cruzados Por Um Sonho	dub=18:279914
+If Anything Happens I Love You	dub=18:713776	leg=18:713776.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74919.mp4
 If Beale Street Could Talk Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74923.mp4
-If You Were the Last	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74925.mp4
-Igual a Tudo na Vida	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74944.mp4
-Igualzinha a Mim	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15632.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74928.mp4
-Ik ben geen robot	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74938.mp4
-Ike - O Dia D (2004)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68581.mp4
+If You Were the Last	dub=18:777847,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755885.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74925.mp4
+Igual a Tudo na Vida	dub=18:10739	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74944.mp4
+Igualzinha a Mim	dub=18:49073,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754087.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768217.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15632.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74928.mp4
+Ik ben geen robot	dub=18:1178556	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74938.mp4
+Ike: O Dia D (2004)	dub=18:31065
+Il Nibbio	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74945.mp4
 Il Primo Re Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74953.mp4
-Il corpo	dub=https://embedplayer2.xyz/cdn/hls/d30bdc7d64e03f7e34c50f5a135d8127/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254755.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253684.mp4
-Il grande attacco (1978)	dub=http://45.172.0.116:8085/hd1/1978/Grande-Batalha-1978/master.m3u8
-Il legionario	dub=https://embedplayer2.xyz/cdn/hls/ba41f0765d801972bcfcd6a149714ee7/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250521.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254756.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250476.mp4
-Ilha Christmas: O Reino do Caranguejo-Ladrão	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74958.mp4
-Ilha Dos Dinossauros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34007.mp4
-Ilha Dos Dinossauros (2014)	dub=http://45.172.0.116:8085/hd4/2014/A.Ilha.dos.Dinossauros.2014/master.m3u8
-Ilha Fantasma (2021)	dub=https://embedplayer2.xyz/cdn/hls/db7dc8409838db46168073a5c7927d5f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49224.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74976.mp4
-Ilha Feroz	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4154.mp4
-Ilha Vermelha	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49229.mp4
-Ilha Vermelha (2018)	dub=http://45.172.0.116:8085/hd6/2019/Ilha.Vermelha.2019/master.m3u8
-Ilha das Flores (1989)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1867459.mp4
-Ilha das Sombras	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4140.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74967.mp4
-Ilha das Sombras (2020)	dub=http://45.172.0.116:8085/hd8/2020/Ilha.Das.Sobras.2020/master.m3u8
-Ilha de Segredos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4144.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74963.mp4
-Ilha do Medo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26812.mp4
-Ilha do Medo (2010)	dub=http://45.172.0.116:8085/hd6/2010/ilha-do-medo-2010/master.m3u8
-Ilha do Renascimento (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251426.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4150.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74972.mp4
-Ilha dos Cachorros (2018)	dub=http://45.172.0.116:8085/hd8/2018/Ilha.dos.Cachorros.2018-1080/master.m3u8
-Ilhados	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26817.mp4
-Illang A Brigada Lobo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26821.mp4
-Illang: A Brigada Lobo (2018)	dub=http://45.172.0.116:8085/hd8/2018/Illang.A.Brigada.Lobo.2018/master.m3u8
-Ilusao Macabra (2026)	dub=https://embedplayer2.xyz/cdn/hls/ca7ede72c4200aeaa5d787fd00ee4cdc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255428.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255491.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255451.mp4
-Ilusões Perdidas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26823.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74981.mp4
-Ilusões Perigosas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311739.mp4
-Imaculada	dub=http://45.172.0.116:8085/hd1/2024/imaculada-2024/master.m3u8
-Imaculada (2024)	dub=https://embedplayer2.xyz/cdn/hls/fa2ccc0de09ba1192b6febaa12dd7db1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56277.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49233.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74983.mp4
-Imagens Do Alem (2008)	dub=http://45.172.0.116:8085/hd8/2008/Imagens-Do-Alem-2008/master.m3u8
-Imagens do Além	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49237.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75005.mp4
-Imaginario: Brinquedo Diabolico (2024)	dub=https://embedplayer2.xyz/cdn/hls/bedbac6ef0445763f7c99bf63007c8fe/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56281.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49239.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74989.mp4
-Imagine Dragons: Live in Vegas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56286.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74987.mp4
-Imagine Eu e Você	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26826.mp4
-Imagine Só	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15627.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74999.mp4
-Imagine Só (2009)	dub=http://45.172.0.116:8085/hd4/2009/Imagine.So.2009/master.m3u8
-Imbécil	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15636.mp4
-Imersao (2022)	dub=https://embedplayer2.xyz/cdn/hls/1821efb51931a5dd0f5ff1fd61f1c64b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44687.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74994.mp4
-Immortal (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2068409.mp4
-Imortais	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4157.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254757.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254654.mp4
-Imortais (2011)	dub=http://45.172.0.116:8085/hd1/2011/imortais-2011/master.m3u8
-Imortais (2025)	dub=http://45.172.0.116:8085/hd8/2025/Imortais.2025/master.m3u8,https://embedplayer2.xyz/cdn/hls/90a56d0134565e0a6c2ea88fbd33ce60/master.txt
+Il corpo	dub=18:155128,https://embedplayer2.xyz/cdn/hls/d30bdc7d64e03f7e34c50f5a135d8127/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751457.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254755.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253684.mp4
+Il legionario	dub=18:475878,18:846800,https://embedplayer2.xyz/cdn/hls/ba41f0765d801972bcfcd6a149714ee7/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250521.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254756.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250476.mp4
+Il paradiso del pavone	dub=18:832284
+Il peccato	dub=18:497835	leg=18:497835.mp4?lang=leg
+Ilha	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253854.mp4
+Ilha Christmas: O Reino do Caranguejo-Ladrão	dub=18:746664,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756422.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759906.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74958.mp4
+Ilha Dos Dinossauros (2014)	dub=18:294093,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765749.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34007.mp4
+Ilha Fantasma (2021)	dub=18:749727,https://embedplayer2.xyz/cdn/hls/db7dc8409838db46168073a5c7927d5f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755063.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759078.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49224.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74976.mp4
+Ilha Feroz	dub=18:554025,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761629.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4154.mp4
+Ilha Vermelha (2018)	dub=18:592660,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758623.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49229.mp4
+Ilha das Aranhas	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750359.mp4
+Ilha das Flores	dub=18:45318
+Ilha das Sombras	dub=18:37816,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752808.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761642.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4140.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74967.mp4
+Ilha das Sombras (2020)	dub=18:673228
+Ilha de Cachorros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9672.mp4
+Ilha de Segredos	dub=18:847981,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761251.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4144.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74963.mp4
+Ilha do Medo (2010)	dub=18:11324,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761955.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26812.mp4
+Ilha do Renascimento (2024)	dub=18:504503,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251426.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750513.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4150.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74972.mp4
+Ilha dos Cachorros (2018)	dub=18:399174,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750345.mp4
+Ilhados	dub=18:841793,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764471.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26817.mp4
+Illang: A Brigada Lobo (2018)	dub=18:467824,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763268.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26821.mp4
+Iluminados	dub=18:750585
+Ilusao Macabra (2026)	dub=18:1339173,https://embedplayer2.xyz/cdn/hls/ca7ede72c4200aeaa5d787fd00ee4cdc/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751165.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255428.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255491.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751221.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255451.mp4
+Ilusão de Morte (2002)	dub=18:57100
+Ilusões Perdidas	dub=18:660000,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763839.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26823.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74981.mp4
+Ilusões Perigosas	dub=18:18801,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253863.mp4
+Imaculada (2024)	dub=18:1041613,https://embedplayer2.xyz/cdn/hls/fa2ccc0de09ba1192b6febaa12dd7db1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56277.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757340.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758950.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49233.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74983.mp4
+Imagem da Incompletude	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253855.mp4
+Imagens Do Alem (2008)	dub=18:10885,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756731.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758433.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49237.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75005.mp4
+Imagens do Inconsciente - Em Busca do Espaço Cotidiano	dub=18:811104,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760260.mp4
+Imagens do Mal	dub=18:429725
+Imaginario: Brinquedo Diabolico (2024)	dub=18:1125311,https://embedplayer2.xyz/cdn/hls/bedbac6ef0445763f7c99bf63007c8fe/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56281.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755345.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759191.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49239.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74989.mp4
+Imagine Dragons Live in Vegas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56286.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74987.mp4
+Imagine Eu e Você	dub=18:1544,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762319.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26826.mp4
+Imagine Só (2009)	dub=18:19724,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766873.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15627.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74999.mp4
+Imagining Zootopia	dub=18:391711
+Imani	dub=18:1064750
+Imbécil	dub=18:613096,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767716.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15636.mp4
+Imensidão Azul	leg=18:175.mp4?lang=leg
+Imersao (2022)	dub=18:462146,18:747765,18:842725,https://embedplayer2.xyz/cdn/hls/1821efb51931a5dd0f5ff1fd61f1c64b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752842.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44687.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74994.mp4
+Immortal	dub=18:731776
+Immortal Combat	dub=18:1656061
+Imortais	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751419.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761438.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4157.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254757.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751241.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254654.mp4
+Imortais (2011)	dub=18:37958
+Imortais (2025)	dub=18:1228668,18:1330441,https://embedplayer2.xyz/cdn/hls/90a56d0134565e0a6c2ea88fbd33ce60/master.txt
 Imortal? Já Estive Lá, Fiz Isso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98525.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302267.mp4
 Impacto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313329.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313368.mp4
 Impacto - Carpma	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303045.mp4
-Impacto Fulminante	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4166.mp4
-Impacto Mortal (2015)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313333.mp4
-Impacto Profundo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4162.mp4
-Imparavel (2024)	dub=https://embedplayer2.xyz/cdn/hls/ea297763cbd38b7ba4602bc1be804cd3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56301.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26831.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75002.mp4
-Impasse (2021)	dub=https://embedplayer2.xyz/cdn/hls/ea093071163f4fa3b5d68f57c7401ce5/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4158.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75010.mp4
-Imperdoavel (2021)	dub=http://45.172.0.116:8085/hd3/2021/Imperdoavel.2021/master.m3u8
-Imperdoável	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56291.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75022.mp4
-Imperfeitamente Perfeita	dub=http://45.172.0.116:8085/hd8/2025/Imperfeitamente-Perfeita-2025/master.m3u8
-Imperfeitamente Perfeita (2025)	dub=https://embedplayer2.xyz/cdn/hls/f6234790eee74a073e4a2d6761440c7a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97446.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99929.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100009.mp4
-Imperio Proibido	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44701.mp4
-Impetigore: Herança Maldita	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49244.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75016.mp4
-Impiedoso (2023)	dub=https://embedplayer2.xyz/cdn/hls/ef787d64746439d55e3bb5c8cc05d094/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4172.mp4	leg=https://embedplayer2.xyz/cdn/hls/72f873d0b42dffd9e8c9cdf2de1342d1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75015.mp4
-Implacavel	dub=http://45.172.0.116:8085/hd1/2025/Resgate.Implacavel.2025/master.m3u8
-Implacável (2019)	dub=http://45.172.0.116:8085/hd6/2019/implacavel.2019/master.m3u8,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4170.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75032.mp4
-Imported	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75027.mp4
-Imprevisto de Natal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/582.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75053.mp4
-Improvisação Perigosa (2025)	dub=https://embedplayer2.xyz/cdn/hls/950c890bb59255b565ad06aed2cbb69f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56305.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4174.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75043.mp4
-Impulso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44697.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75048.mp4
-ImpunIdade: As consequências da lei da maioridade penal no Brasil	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250073.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249757.mp4
-Impuratus: A Confissão do Diabo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49254.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75057.mp4
-Impuros: O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38342.mp4
-Império (2005)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56067.mp4
-Império da Luz	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56296.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75062.mp4
-Império do Sol	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26840.mp4
-Império dos Discos, Uma Loja Muito Louca	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1887620.mp4
+Impacto Fulminante	dub=18:10650,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761130.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4166.mp4
+Impacto Mortal	dub=18:360387
+Impacto Mortal: A Vingança	dub=18:36147
+Impacto Profundo	dub=18:8656,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760139.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4162.mp4
+Imparavel (2024)	dub=18:1101448,https://embedplayer2.xyz/cdn/hls/ea297763cbd38b7ba4602bc1be804cd3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56301.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755643.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762432.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26831.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75002.mp4
+Impasse (2021)	dub=18:107328,18:1259784,18:978479,18:718949,https://embedplayer2.xyz/cdn/hls/ea093071163f4fa3b5d68f57c7401ce5/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760575.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4158.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75010.mp4
+Imperdoavel (2021)	dub=18:645886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56291.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766744.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75022.mp4
+Imperfeitamente Perfeita (2025)	dub=18:1206008,https://embedplayer2.xyz/cdn/hls/f6234790eee74a073e4a2d6761440c7a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97446.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751607.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99929.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100009.mp4
+Imperio Proibido (2014)	dub=18:208763,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752832.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44701.mp4
+Imperium: Resistência Sem Líder	dub=18:374617
+Impetigore: Herança Maldita	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759080.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49244.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75016.mp4
+Impiedoso (2023)	dub=18:984249,https://embedplayer2.xyz/cdn/hls/ef787d64746439d55e3bb5c8cc05d094/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756362.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760486.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4172.mp4	leg=https://embedplayer2.xyz/cdn/hls/72f873d0b42dffd9e8c9cdf2de1342d1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75015.mp4
+Implacável (2019)	dub=18:534490,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754761.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761639.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4170.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75032.mp4
+Imported	dub=18:1494409,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755694.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75027.mp4
+Imprevisto de Natal	dub=18:874124,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752214.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/582.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75053.mp4
+Imprisoned	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75038.mp4
+Improvisação Perigosa (2025)	dub=18:1239193,https://embedplayer2.xyz/cdn/hls/950c890bb59255b565ad06aed2cbb69f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56305.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755911.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760395.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4174.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75043.mp4
+Impulses	dub=18:1303568
+Impulsividade	dub=18:1546
+Impulso	dub=18:1262124,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752458.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44697.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757548.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75048.mp4
+Impulso de Vingança	dub=18:297961
+ImpunIdade: As consequências da lei da maioridade penal no Brasil	dub=18:1655216,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250073.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751553.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249757.mp4
+Impuratus: A Confissão do Diabo	dub=18:478530,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758790.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49254.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75057.mp4
+Impuros: O Filme	dub=18:871932,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757540.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38342.mp4
+Império	dub=18:741236
+Império da Luz	dub=18:814757,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56296.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764302.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75062.mp4
+Império do Sol	dub=18:10110,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764312.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26840.mp4
+Império dos Discos, Uma Loja Muito Louca	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768631.mp4
+Império dos Lobos	dub=18:10799
+Império dos Tubarões	dub=18:457710
 Imunidade Diplomática	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306345.mp4
-In Emma's Footsteps	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26845.mp4
-In Mamãe Não Vai Te Machucar	dub=http://45.172.0.116:8085/hd3/2019/Mamae-Nao-Vai-Te-Machucar.2019/master.m3u8
-In Mamãe Não Vai Te Machucar (2019)	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6250661.mp4
-In Search of Bass Reeves	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75077.mp4
-In Whose Name?	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100015.mp4
-In Youth We Trust	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75093.mp4
-In from the Side	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23781.mp4
-In the Earth	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49259.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75083.mp4
-In the Hand of Dante	dub=http://45.172.0.116:8085/hd8/2025/01/Nas.Maos.De.Dante.2025/master.m3u8	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307289.mp4
+In Emma's Footsteps	dub=18:520268,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26845.mp4
+In Mamãe Não Vai Te Machucar	dub=18:591889
+In Search of Bass Reeves	dub=18:1292936,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756720.mp4	leg=18:1292936.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75077.mp4
+In Whose Name	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100015.mp4
+In Youth We Trust	dub=18:1283120,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756368.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75093.mp4
+In from the Side	dub=18:622082	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75072.mp4
+In punta di piedi	dub=18:502786
+In the Earth	dub=18:748853,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49259.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75083.mp4
+In the Hand of Dante	dub=18:1020047	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307289.mp4
 In the Land of Saints and Sinners	dub=https://embedplayer2.xyz/cdn/hls/7b0859f20c40015deab06a16df3e92ab/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75067.mp4
-In the Shadow of the Cypress	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40616.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75088.mp4
-In the Trap (2020)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1870912.mp4
-InFeliz por Você	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1819991.mp4
-Inabalável: A Trajetória de Amy Newhouse	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40823.mp4
-Inabitáveis	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38347.mp4
-Inabitável	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26846.mp4
-Inatividade Paranormal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15641.mp4
-Inatividade Paranormal 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15645.mp4
-Incendiário	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256507.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256477.mp4
-Incident	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75108.mp4
-Incisões Perigosas (2020)	dub=https://embedplayer2.xyz/cdn/hls/37a09e5b73f72566376fae9ec2eaea9f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49264.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75098.mp4
-Incoerência	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251228.mp4
-Incompatível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38356.mp4
-Incompatível (2022)	dub=http://45.172.0.116:8085/hd8/2022/Incompativel-2022/master.m3u8
-Incompatível com a Vida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56310.mp4
-Inconcebível (2008)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44355.mp4
-Incontrolavel (2010)	dub=http://45.172.0.116:8085/hd6/2010/Incontrolavel.2010/master.m3u8
-Incontrolável	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4178.mp4
+In the Same Breath: Verdades e Mentiras da Pandemia	dub=18:776518
+In the Shadow of the Cypress	dub=18:1156619,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754444.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40616.mp4	leg=18:1156619.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75088.mp4
+In the Trap	dub=18:646541
+In un altro paese	dub=18:245556,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763041.mp4
+InFeliz por Você	dub=18:1279837	leg=18:1279837.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75153.mp4
+Inabalável: A Trajetória de Amy Newhouse	dub=18:188072,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757456.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40823.mp4
+Inabitáveis	dub=18:668044,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757907.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38347.mp4
+Inabitável	dub=18:724986,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763980.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26846.mp4
+Inatividade Paranormal	dub=18:139038,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768563.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15641.mp4
+Inatividade Paranormal 2	dub=18:184345,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768249.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15645.mp4
+Inaudito	dub=18:480512
+Incendiário	dub=18:15705,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256507.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256477.mp4
+Incident	dub=18:47873,18:1108462,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754626.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75108.mp4
+Incisões Perigosas (2020)	dub=18:763368,https://embedplayer2.xyz/cdn/hls/37a09e5b73f72566376fae9ec2eaea9f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755157.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759273.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49264.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75098.mp4
+Incitamento	dub=18:622962	leg=18:622962.mp4?lang=leg
+Incoerência	dub=18:67415	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251228.mp4
+Incompatível (2022)	dub=18:756099,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757796.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38356.mp4
+Incompatível com a Vida	dub=18:1105948,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56310.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760026.mp4
+Inconcebível	dub=18:44202
+Incontrolavel (2010)	dub=18:44048,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760289.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4178.mp4
 Incredibles 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56315.mp4
-Incriminada por Meu Marido	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4186.mp4
-Incêndios	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1890364.mp4
-Indecente (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4182.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75113.mp4
-Indecência (2019)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26854.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75122.mp4
-Independence Day	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4194.mp4
-Independence Day (1996)	dub=http://45.172.0.116:8085/hd1/1996/Independence.Day.1996/master.m3u8
-Independence Day: O Ressurgimento	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4187.mp4
-Independence Day: O Ressurgimento (2016)	dub=http://45.172.0.116:8085/hd1/2016/independence-day-o-ressurgimento-2016/master.m3u8
-Indestrutível 0000	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/5971282.mp4
-Indiana Jones e A Reliquia do Destino (2023)	dub=https://embedplayer2.xyz/cdn/hls/32705c30258fa0d24428f95c60c34b23/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56331.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11977.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75119.mp4
-Indiana Jones e A Relíquia do Destino	dub=http://45.172.0.116:8085/hd1/2023/indiana-jones-e-a-reliquia-do-destino-2023/master.m3u8
-Indiana Jones e a Ultima Cruzada (1989)	dub=http://45.172.0.116:8085/hd8/Indiana.Jones/Indiana.Jones-e-a-ultima.Cruzada.1080-1989/master.m3u8
-Indiana Jones e a Última Cruzada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4190.mp4
-Indiana Jones e o Reino da Caveira de Cristal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4198.mp4
-Indiana Jones e o Reino da Caveira de Cristal (2008)	dub=http://45.172.0.116:8085/hd8/Indiana.Jones/Indiana.Jones.E.O.Reino.da.Caveira.de.Cristal-1080-2008/master.m3u8
-Indiana Jones e o Templo da Perdicao (1984)	dub=http://45.172.0.116:8085/hd8/Indiana.Jones/Indiana.Jones.e.o.Templo.da.Perdicao.1080-1984/master.m3u8
-Indiana Jones e o Templo da Perdição	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4202.mp4
-Indiana Jones e os Cacadores da Arca Perdida (1981)	dub=http://45.172.0.116:8085/hd8/Indiana.Jones/Indiana.Jones.e.Os.Cacadores.da.Arca.Perdida-1080-981/master.m3u8
-Indiana Jones e os Caçadores da Arca Perdida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4206.mp4
-Indianara	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1866351.mp4
-Indiferença (2024)	dub=https://embedplayer2.xyz/cdn/hls/f7c0cacee19d3637f609b7ee1b7a1850/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21446.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75124.mp4
-Indivisível (2018)	dub=https://embedplayer2.xyz/cdn/hls/dd280e925b8ac6f583247ba50b98a3e6/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36943.mp4
-Indomáveis (2021)	dub=https://embedplayer2.xyz/cdn/hls/e79ae24cee82efa6e78c1516b8cbcccf/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53111.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75130.mp4
-Indústria Americana	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1866320.mp4
-Indústria do Prazer	dub=https://embedplayer2.xyz/cdn/hls/0bcbb046fdafcedad11d106c32d3da6f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44692.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75135.mp4
-Inexplicável	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38352.mp4
-Infantaria	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310712.mp4
-Infectados	dub=http://45.172.0.116:8085/hd4/2013/INFECTADOS.2013/master.m3u8
-Infectados (2013)	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6387416.mp4
-Infecção em Nova York	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49249.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75140.mp4
-Inferninho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15650.mp4
-Inferno	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4210.mp4
-Inferno (2016)	dub=https://embedplayer2.xyz/cdn/hls/3d4f6623748a6bc5be732c0d2c3d9746/master.txt
-Inferno Abandonado	dub=http://45.172.0.116:8085/hd1/2023/Inferno.Abandonado.2023/master.m3u8
-Inferno Abandonado (2023)	dub=https://embedplayer2.xyz/cdn/hls/28681d16b4b7a6fa4638bb209ae918d7/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/586.mp4	leg=https://embedplayer2.xyz/cdn/hls/d7bc3f1f2b081c83892857b4f30344e9/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75168.mp4
-Inferno Branco	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26850.mp4
+Incriminada por Meu Marido	dub=18:849938,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761131.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4186.mp4
+Incubus	dub=18:79319
+Incêndios	dub=18:46738	leg=18:46738.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75103.mp4
+Indecente (2022)	dub=18:916740,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761685.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4182.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75113.mp4
+Indecência (2019)	dub=18:607926,18:252279,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764105.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26854.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75122.mp4
+Independence Day (1996)	dub=18:602,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761000.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4194.mp4
+Independence Day: O Ressurgimento (2016)	dub=18:47933,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761554.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4187.mp4
+Independence Daysaster	dub=18:205126
+Indestructible Man	dub=18:48385
+Indiana Jones e A Reliquia do Destino (2023)	dub=18:335977,https://embedplayer2.xyz/cdn/hls/32705c30258fa0d24428f95c60c34b23/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56331.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11977.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75119.mp4
+Indiana Jones e a Ultima Cruzada (1989)	dub=18:89,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760481.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764681.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4190.mp4
+Indiana Jones e o Reino da Caveira de Cristal (2008)	dub=18:217,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761177.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764712.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4198.mp4
+Indiana Jones e o Templo da Perdicao (1984)	dub=18:87,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760516.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764740.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4202.mp4
+Indiana Jones e os Caçadores da Arca Perdida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761349.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764648.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4206.mp4
+Indianara	dub=18:597686,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759911.mp4
+Indiferença (2024)	dub=18:1227136,https://embedplayer2.xyz/cdn/hls/f7c0cacee19d3637f609b7ee1b7a1850/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755224.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21446.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75124.mp4
+Indivisível (2018)	dub=18:514407,https://embedplayer2.xyz/cdn/hls/dd280e925b8ac6f583247ba50b98a3e6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757447.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36943.mp4
+Indomáveis (2021)	dub=18:889975,18:744,https://embedplayer2.xyz/cdn/hls/e79ae24cee82efa6e78c1516b8cbcccf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753993.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756121.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53111.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75130.mp4
+Indomável Sonhadora	dub=18:84175
+Indústria Americana	dub=18:565716,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759621.mp4
+Indústria do Prazer	dub=18:850025,https://embedplayer2.xyz/cdn/hls/0bcbb046fdafcedad11d106c32d3da6f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752427.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754898.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44692.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75135.mp4
+Inexplicável	dub=18:1142364,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757927.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38352.mp4
+Infantaria	dub=18:985166,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310712.mp4
+Infectado	dub=18:210947
+Infectados	dub=18:196830
+Infecção em Nova York	dub=18:17245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49249.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75140.mp4
+Inferninho	dub=18:471291,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758180.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766757.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15650.mp4
+Inferno	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753097.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761404.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4210.mp4
+Inferno (1999)	dub=18:10908
+Inferno (2016)	dub=18:207932,https://embedplayer2.xyz/cdn/hls/3d4f6623748a6bc5be732c0d2c3d9746/master.txt
+Inferno Abandonado (2023)	dub=18:1155187,https://embedplayer2.xyz/cdn/hls/28681d16b4b7a6fa4638bb209ae918d7/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752310.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/586.mp4	leg=https://embedplayer2.xyz/cdn/hls/d7bc3f1f2b081c83892857b4f30344e9/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75168.mp4
+Inferno Branco	dub=18:39349,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763173.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26850.mp4
 Inferno Carnal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249246.mp4
-Inferno Sangrento	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75199.mp4
-Inferno Sangrento (2020)	dub=http://45.172.0.116:8085/hd4/2020/inferno-sangrento-2020/master.m3u8
-Inferno Tropical	dub=http://45.172.0.116:8085/hd3/2023/Inferno.Tropical.2023/master.m3u8,https://embedplayer2.xyz/cdn/hls/1581ca88cc74cab1474b2250942d5931/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4218.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75184.mp4
-Inferno Vermelho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4222.mp4
-Inferno de Dante Uma Animacao Epica (2010)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9677.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75158.mp4
-Inferno na Fronteira	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35028.mp4
-Inferno na Fronteira (2019)	dub=http://45.172.0.116:8085/hd4/2019/Inferno.na.Fronteira.2019/master.m3u8
-Inferno na Torre	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6078679.mp4
-Inferno na montanha	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4214.mp4
+Inferno Sangrento (2020)	dub=18:696822,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758908.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75199.mp4
+Inferno Selvagem	dub=18:28983
+Inferno Tropical	dub=18:995805,https://embedplayer2.xyz/cdn/hls/1581ca88cc74cab1474b2250942d5931/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752524.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4218.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75184.mp4
+Inferno Vermelho	dub=18:9604,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760767.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764807.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4222.mp4
+Inferno de Dante Uma Animacao Epica (2010)	dub=18:31967,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754403.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766489.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9677.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75158.mp4
+Inferno na Estrada	dub=18:26689
+Inferno na Fronteira (2019)	dub=18:576379,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753773.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35028.mp4
+Inferno na Ilha	dub=18:73211
+Inferno na Torre	dub=18:5919,18:645985,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750522.mp4
+Inferno na montanha	dub=18:862855,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761485.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4214.mp4
+Inferno no Asfalto	dub=18:42267
 Inferno no Bronx	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21451.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75163.mp4
-Inferno no Faroeste	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35033.mp4
-Inferno no Faroeste 2	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1891382.mp4
-Inferno no Gelo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36957.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75179.mp4
-Inferno no Gelo (2019)	dub=http://45.172.0.116:8085/hd4/2019/Inferno.no.Gelo.2019/master.m3u8
-Inferno no Pantano (2025)	dub=https://embedplayer2.xyz/cdn/hls/0a78488f92eb53f04f2611f06762abdf/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75189.mp4
-Inferno no Pântano	dub=http://45.172.0.116:8085/hd4/2025/Inferno.no.Pantano.2025/master.m3u8
-Infestação (2023)	dub=https://embedplayer2.xyz/cdn/hls/8614dbd999b54c2b082c1608c1f81c51/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49279.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75194.mp4
-Infidelidade	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4228.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75204.mp4
-Infiesto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315090.mp4
-Infiltrada no Natal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39840.mp4
-Infiltrada: Golpe de Vingança	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44706.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75220.mp4
-Infiltrado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56320.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4226.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75210.mp4
-Infiltrado (2021)	dub=http://45.172.0.116:8085/hd4/2021/infiltrado-2021/master.m3u8
-Infiltrado (2023)	dub=http://45.172.0.116:8085/hd4/2021/infiltrado-2023-720/master.m3u8,https://embedplayer2.xyz/cdn/hls/5683e7de5de00a87c14e7704bc394b1c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300821.mp4
-Infiltrado na Klan	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26859.mp4
-Infiltrado na Máfia	dub=https://embedplayer2.xyz/cdn/hls/87327bea697b650113b77a9790936d66/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/590.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75225.mp4
-Infiltrados: Venezuela	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56325.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75230.mp4
-Infinito	dub=http://45.172.0.116:8085/hd3/2021/Infinite.2021/master.m3u8
-Infinito (2021)	dub=https://embedplayer2.xyz/cdn/hls/c3bcdc269737b2169081363feb54fd73/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35938.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75241.mp4
-Influencer de Mentira	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56326.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15654.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75236.mp4
-Influencer do Mal: A História de Jodi Hildebrandt	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310328.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/591.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75246.mp4
-Influência	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44992.mp4
-Influência (2019)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49284.mp4
-Informante (2023)	dub=https://embedplayer2.xyz/cdn/hls/2e620a3b988e6ed3204150a27babf3ba/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44716.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75253.mp4
-Infância	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24394.mp4
-Infância Roubada	dub=http://45.172.0.116:8085/hd6/2019/Infancia.Roubada.2019/master.m3u8,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21459.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75264.mp4
-Infância Sombria	dub=http://45.172.0.116:8085/hd4/2025/Infancia.Sombria.2025/master.m3u8,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/594.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75258.mp4
-Ingresso Para o Paraiso (2022)	dub=http://45.172.0.116:8085/hd8/2022/Ingresso.Para.O.Paraiso/master.m3u8
-Ingresso Para o Paraíso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56337.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15659.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75271.mp4
-Ingrid Vai para o Oeste (2017)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1808893.mp4
-Inherit the Witch (2024)	dub=https://embedplayer2.xyz/cdn/hls/30a0f01d35a39a0e80a277201c26c4c5/master.txt
-Inheritance	dub=https://embedplayer2.xyz/cdn/hls/30805c9904f8673742d68b629200f16b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44711.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75269.mp4
-Iniciacao (2021)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49287.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75276.mp4
-Inimiga Perfeita	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4230.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75281.mp4
-Inimiga Perfeita (2021)	dub=http://45.172.0.116:8085/hd6/2021/Inimiga.Perfeita.2021/master.m3u8
-Inimigo Desconhecido (2018)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44721.mp4
-Inimigo Invisível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4234.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75287.mp4
-Inimigo Invisível (2019)	dub=http://45.172.0.116:8085/hd8/2022/01/Inimigo-Invisivel-2022/master.m3u8
-Inimigo Mortal (2017)	dub=https://embedplayer2.xyz/cdn/hls/9be009ef10fa55376015bc1c9f7639df/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4242.mp4
-Inimigo Próximo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44725.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75292.mp4
-Inimigo Público nº 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26864.mp4
-Inimigo Público nº 1: Parte 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26868.mp4
-Inimigo do Estado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4238.mp4
-Inimigo do Estado (1998)	dub=http://45.172.0.116:8085/hd1/1998/inimigo-do-estado-1998/master.m3u8
-Inimigo Íntimo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52892.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75297.mp4
-Inimigos Públicos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21456.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75302.mp4
-Inimigos Íntimos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26873.mp4
-Inimigos à Força (1973)	dub=http://45.172.0.116:8085/hd1/1973/Inimigos-a-Forca-1973/master.m3u8
-Initial D Third Stage (2001)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1824770.mp4
-Injustice (2021)	dub=https://embedplayer2.xyz/cdn/hls/046e50c475767e890edef703de55584f/master.txt
-Injustiça: Deuses Entre Nós	dub=http://45.172.0.116:8085/hd6/2021/01/Injustica-Deuses-Entre-Nos.2021/master.m3u8,https://embedplayer2.xyz/cdn/hls/046e50c475767e890edef703de55584f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56336.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35957.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75303.mp4
-Inkabi (2024)	dub=https://embedplayer2.xyz/cdn/hls/adac6bcbc5aedcf3f4c31e66de1ca312/master.txt
-Inocente ou Culpado?	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249188.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249223.mp4
-Inocência (2020)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21460.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75309.mp4
-Inquietação	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49289.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75308.mp4
-Insaciável	leg=http://aponteiecair.lat:80/movie/65689527/29278256/2367921.mp4
-Insanidade	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49294.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75314.mp4
-Insano	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256511.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256518.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256478.mp4
-Insecure: O Fim	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75320.mp4
-Insegurança (2014)	dub=http://45.172.0.116:8085/hd4/2014/Inseguranca.2014/master.m3u8
-Insensata Paixão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26878.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75319.mp4
-Inseparáveis (2013)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10655.mp4
-Inside Llewyn Davis: Balada de um Homem Comum	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26882.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26886.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75325.mp4
-Inspetor Aranha	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9679.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75336.mp4
-Inspetor Aranha (2022)	dub=http://45.172.0.116:8085/hd8/2022/Inspetor.Aranha.2022/master.m3u8
-Inspetor Bugiganga	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4246.mp4
-Inspetor Bugiganga 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15663.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75331.mp4
-Inspetor Zende	dub=http://45.172.0.116:8085/hd3/2025/Inspetor.Zende.2025/master.m3u8	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75341.mp4
-Inspiração de Natal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39849.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75346.mp4
-Instadocs: IA Rebelde (2025)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2381883.mp4
-Instadocs: O Jogo dos Palpites	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310009.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310057.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310030.mp4
-Instadocs: The Decoy Plane (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314658.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314513.mp4
-Instinct	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26891.mp4
-Instinto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26896.mp4
-Instinto (2019)	dub=https://embedplayer2.xyz/cdn/hls/1559c07a2a722cb9c2e2a543ceb4c5f3/master.txt
-Instinto Assassino	dub=http://45.172.0.116:8085/hd6/2021/01/Instinto.Assassino.2021/master.m3u8
-Instinto Assassino (2021)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4250.mp4	leg=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75352.mp4
-Instinto Fatal	dub=http://45.172.0.116:8085/hd8/2024/Instinto-Fatal.2024.1080/master.m3u8
-Instinto Fatal (2024)	dub=https://embedplayer2.xyz/cdn/hls/4bf43b51f132bd7a953fecfd64b4ba41/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251427.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98716.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98662.mp4
-Instinto Materno	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56346.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26900.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301381.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75357.mp4
-Instinto Materno (2022)	dub=https://embedplayer2.xyz/cdn/hls/a928752cafcab28ca14c15d361fa356c/master.txt
-Instinto Policial	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4254.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75362.mp4
-Instinto Predador	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4258.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75373.mp4
-Instinto Predador (2019)	dub=http://45.172.0.116:8085/hd6/2019/Instinto.Predador.2019/master.m3u8
-Instinto Radical (2000)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1822199.mp4
-Instinto Secreto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21465.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75388.mp4
-Instinto Selvagem	dub=http://45.172.0.116:8085/hd4/1992/Instinto.Selvagem.1992/master.m3u8
-Instinto Selvagem (1992)	dub=https://embedplayer2.xyz/cdn/hls/95f03a6f099ebb54f36b9404fb436bbb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44730.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314514.mp4
-Instinto Selvagem 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21479.mp4
-Instinto Selvagem 2 (2006)	dub=http://45.172.0.116:8085/hd1/2006/Instinto.Selvagem.2.2006/master.m3u8
-Instinto Voraz	dub=http://45.172.0.116:8085/hd3/2024/instinto-voraz-2024/master.m3u8
-Instinto Voraz (2024)	dub=https://embedplayer2.xyz/cdn/hls/0f15c7943dc44506d1c545797d3ac3f0/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49304.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75368.mp4
-Insubordinados (2015)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2367554.mp4
-Insônia (2002)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1878112.mp4
-Inteligencia Humana (2026)	dub=https://embedplayer2.xyz/cdn/hls/a600e46a88554af3490d41324e78e280/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308268.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250643.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254758.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250633.mp4
-Inteligência Artificial: Ascensão das Máquinas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255437.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255452.mp4
-Intenções Cruéis (2022)	dub=https://embedplayer2.xyz/cdn/hls/4aa449ae70c5ff5af9ad0882b776e842/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44735.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75398.mp4
-Intenções Perigosas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26905.mp4
-Intenções Sádicas (2019)	dub=https://embedplayer2.xyz/cdn/hls/31b6832f909f3f98d7ab940b34bb05f3/master.txt
-Interceptor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56341.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4270.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75383.mp4
-Interceptor (2022)	dub=http://45.172.0.116:8085/hd8/2022/Interceptor-2022-1080p/master.m3u8
-Intercâmbio de Casais	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15667.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75378.mp4
-Interestelar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56351.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35952.mp4
-Interestelar (2014)	dub=http://45.172.0.116:8085/hd6/2014/Interestelar.2014/master.m3u8
-Intermediário.com	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26910.mp4
-Internet O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15681.mp4
-Interreflections	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1857574.mp4
-Interrompemos a Programação	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26914.mp4
-Interrompida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26924.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75404.mp4
-Intervencao (2021)	dub=https://embedplayer2.xyz/cdn/hls/e35310cf4ea54df3f36455634190cc4a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4266.mp4
-Intimidade Entre Estranhos (2018)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1813563.mp4
-Into the Dark - A Invasão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49309.mp4
-Intocaveis	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26919.mp4
+Inferno no Faroeste	dub=18:151933,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753727.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35033.mp4
+Inferno no Faroeste 2	dub=18:473165	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75174.mp4
+Inferno no Gelo (2019)	dub=18:635782,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755680.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757430.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36957.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75179.mp4
+Inferno no Pantano (2025)	dub=18:1407861,https://embedplayer2.xyz/cdn/hls/0a78488f92eb53f04f2611f06762abdf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756325.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758810.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75189.mp4
+Infestação (2023)	dub=18:1063879,https://embedplayer2.xyz/cdn/hls/8614dbd999b54c2b082c1608c1f81c51/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754336.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758630.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49279.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75194.mp4
+Infidel	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75215.mp4
+Infidelidade	dub=18:2251,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760715.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4228.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75204.mp4
+Infidelidade (2019)	dub=18:574883
+Infiesto	dub=18:1072567,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315090.mp4
+Infiltrada no Natal	dub=18:627471,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753639.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39840.mp4
+Infiltrada: Golpe de Vingança	dub=18:821420,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752816.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44706.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75220.mp4
+Infiltrado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56320.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760364.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765073.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757045.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4226.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75210.mp4
+Infiltrado (2021)	dub=18:637649
+Infiltrado (2023)	dub=18:982940,18:373922,https://embedplayer2.xyz/cdn/hls/5683e7de5de00a87c14e7704bc394b1c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300821.mp4
+Infiltrado Na Klan	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763294.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26859.mp4
+Infiltrado na Máfia	dub=18:1020662,https://embedplayer2.xyz/cdn/hls/87327bea697b650113b77a9790936d66/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752285.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766547.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/590.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75225.mp4
+Infiltrados: Venezuela	dub=18:1150743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56325.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759933.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75230.mp4
+Infinimundo	dub=18:1314753
+Infinito (2021)	dub=18:581726,https://embedplayer2.xyz/cdn/hls/c3bcdc269737b2169081363feb54fd73/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765616.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35938.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75241.mp4
+Influencer de Mentira	dub=18:838330,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56326.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767173.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15654.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75236.mp4
+Influencer do Mal: A História de Jodi Hildebrandt	dub=18:1591516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310328.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752086.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/591.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75246.mp4
+Influencers	dub=18:1476740	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75250.mp4
+Influência (2019)	dub=18:605373,18:1033185,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758915.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49284.mp4
+Informante (2023)	dub=18:1070802,https://embedplayer2.xyz/cdn/hls/2e620a3b988e6ed3204150a27babf3ba/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752455.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756831.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44716.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75253.mp4
+Informers - Geração Perdida	dub=18:17436
+Infância	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253670.mp4
+Infância Roubada	dub=18:868,18:81556,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756895.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21459.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75264.mp4
+Infância Sombria	dub=18:1162858,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752105.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/594.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75258.mp4
+Ingresso Para o Paraíso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56337.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768270.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15659.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75271.mp4
+Ingrid Vai para o Oeste	dub=18:411741
+Inherit the Witch (2024)	dub=18:1352445,https://embedplayer2.xyz/cdn/hls/30a0f01d35a39a0e80a277201c26c4c5/master.txt
+Inheritance	dub=18:1297860,18:1489869,18:775284,https://embedplayer2.xyz/cdn/hls/30805c9904f8673742d68b629200f16b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752552.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757350.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44711.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75269.mp4
+Iniciacao (2021)	dub=18:611489,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758288.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49287.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75276.mp4
+Inimiga Perfeita (2021)	dub=18:655917,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760399.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4230.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75281.mp4
+Inimigo Desconhecido (2018)	dub=18:498945,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752881.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44721.mp4
+Inimigo Invisível (2019)	dub=18:717042,18:614202,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4234.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75287.mp4
+Inimigo Meu (1985)	dub=18:11864
+Inimigo Mortal (2017)	dub=18:460648,https://embedplayer2.xyz/cdn/hls/9be009ef10fa55376015bc1c9f7639df/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760493.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4242.mp4
+Inimigo Próximo	dub=18:560412,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752849.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44725.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75292.mp4
+Inimigo Público nº 1	dub=18:13635,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763282.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26864.mp4
+Inimigo Público nº 1: Parte 2	dub=18:15362,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763958.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26868.mp4
+Inimigo do Estado (1998)	dub=18:9798,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760478.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4238.mp4
+Inimigo Íntimo	dub=18:52812,18:4477,18:545284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52892.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75297.mp4
+Inimigos Invisíveis	dub=18:116177
+Inimigos Para Sempre (1996)	dub=18:36929
+Inimigos Públicos	dub=18:11322,18:179002,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763045.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21456.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75302.mp4
+Inimigos Íntimos	dub=18:484901,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762397.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26873.mp4
+Inimigos à Força (1973)	dub=18:85648
+Initial D Legend 2: Racer	dub=18:321487
+Initial D Legend 3: Dream	dub=18:372758
+Initial D Third Stage	dub=18:80741
+Injustice (2021)	dub=18:831405,https://embedplayer2.xyz/cdn/hls/046e50c475767e890edef703de55584f/master.txt
+Injustice System	dub=18:800590
+Injustiça: Deuses Entre Nós	dub=https://embedplayer2.xyz/cdn/hls/046e50c475767e890edef703de55584f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56336.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765529.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35957.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75303.mp4
+Inkabi (2024)	dub=18:1259526,https://embedplayer2.xyz/cdn/hls/adac6bcbc5aedcf3f4c31e66de1ca312/master.txt
+Inner City Rats	dub=18:690744
+Inocente	dub=18:83242
+Inocente ou Culpado	dub=18:41952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249188.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249223.mp4
+Inocência (2020)	dub=18:602296,18:770447,18:194856,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754101.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21460.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75309.mp4
+Inocência Perdida	dub=18:30331
+Inquietação	dub=18:1072074,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759023.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49289.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75308.mp4
+Inquilinos Macabros	dub=18:977177
+Insaciável	dub=18:1363387,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750497.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750667.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307582.mp4
+Insanatorio: Quem Entra Nao Sai (2008)	dub=18:17166,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758865.mp4
+Insanidade	dub=18:718762,18:520905,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49294.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75314.mp4
+Insano	dub=18:1286547,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751158.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256511.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256518.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750917.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256478.mp4
+Insecta	leg=18:1757324.mp4?lang=leg
+Insecure: O Fim	dub=18:920332,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759840.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75320.mp4
+Insegurança (2014)	dub=18:262866
+Insensata Paixão	dub=18:381255,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26878.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75319.mp4
+Insensíveis	dub=18:123362
+Inseparáveis	dub=18:217412
+Inside	dub=18:1339909
+Inside Llewyn Davis: Balada de um Homem Comum	dub=18:86829,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755507.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763252.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764654.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26882.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26886.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75325.mp4
+Insonia (2002)	dub=18:320,18:469894,18:26610,18:293562
+Inspetor Aranha (2022)	dub=18:987750,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9679.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75336.mp4
+Inspetor Bugiganga	dub=18:332,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761091.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4246.mp4
+Inspetor Bugiganga 2	dub=18:19766,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15663.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75331.mp4
+Inspetor Faustão e o Mallandro	dub=18:84743
+Inspetor Zende	dub=18:1404864,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751243.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75341.mp4
+Inspiração de Natal	dub=18:1032591,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755277.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39849.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75346.mp4
+Instadocs Alex Murdaugh Unconvicted (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289963.mp4
+Instadocs: Alex Murdaugh, Unconvicted	dub=18:1704846,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750573.mp4
+Instadocs: IA Rebelde	dub=18:1790935,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750342.mp4
+Instadocs: O Jogo dos Palpites	dub=18:1736916,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310009.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750728.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310057.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310030.mp4
+Instadocs: The Decoy Plane (2026)	dub=18:1760262,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750206.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314658.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314513.mp4
+Instante	dub=18:1659193	leg=18:1659193.mp4?lang=leg
+Instinct	dub=18:1236061,18:735376,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762381.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26891.mp4
+Instinto	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763493.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26896.mp4
+Instinto (1999)	dub=18:12117	leg=18:12117.mp4?lang=leg
+Instinto (2019)	dub=18:1286641,18:1395618,18:1435476,18:530743,18:500916,https://embedplayer2.xyz/cdn/hls/1559c07a2a722cb9c2e2a543ceb4c5f3/master.txt
+Instinto Assassino (2021)	dub=18:763788,18:123324,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761375.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4250.mp4	leg=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75352.mp4
+Instinto Fatal (2024)	dub=18:1109406,18:29787,https://embedplayer2.xyz/cdn/hls/4bf43b51f132bd7a953fecfd64b4ba41/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251427.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98716.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751882.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98662.mp4
+Instinto Materno	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56346.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750870.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26900.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301381.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75357.mp4
+Instinto Materno (2022)	dub=18:768447,https://embedplayer2.xyz/cdn/hls/a928752cafcab28ca14c15d361fa356c/master.txt
+Instinto Materno (2024)	dub=18:758679
+Instinto Materno (2026)	dub=18:1699155
+Instinto Policial	dub=18:721510,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761594.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4254.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75362.mp4
+Instinto Predador	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757096.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761347.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4258.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75373.mp4
+Instinto Radical	dub=18:2089
+Instinto Secreto	dub=18:3432,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756254.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21465.mp4	leg=18:3432.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75388.mp4
+Instinto Selvagem (1992)	dub=18:402,https://embedplayer2.xyz/cdn/hls/95f03a6f099ebb54f36b9404fb436bbb/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752729.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44730.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314514.mp4
+Instinto Selvagem 2 (2006)	dub=18:3093,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21479.mp4
+Instinto Voraz (2024)	dub=18:1141182,https://embedplayer2.xyz/cdn/hls/0f15c7943dc44506d1c545797d3ac3f0/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756220.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759173.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49304.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75368.mp4
+Insubordinados	dub=18:331637
+Insônia Mortal	dub=18:677135
+Inteligencia Humana (2026)	dub=18:1268127,https://embedplayer2.xyz/cdn/hls/a600e46a88554af3490d41324e78e280/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308268.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751278.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751567.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250643.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254758.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250633.mp4
+Inteligência Artificial Ascensão das Máquinas	dub=18:505914,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255437.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255452.mp4
+Inteligência Hostil	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750472.mp4
+Intenções Cruéis (2022)	dub=18:853867,https://embedplayer2.xyz/cdn/hls/4aa449ae70c5ff5af9ad0882b776e842/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753048.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44735.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75398.mp4
+Intenções Perigosas	dub=18:64084,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762670.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26905.mp4
+Intenções Sádicas (2019)	dub=18:551726,https://embedplayer2.xyz/cdn/hls/31b6832f909f3f98d7ab940b34bb05f3/master.txt
+Interceptor (2022)	dub=18:831946,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56341.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760205.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4270.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75383.mp4
+Intercâmbio de Casais	dub=18:65762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15667.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75378.mp4
+Interestelar (2014)	dub=18:157336,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56351.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765931.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35952.mp4
+Intermediário.com	dub=18:38842,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761941.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26910.mp4
+Internet - O Filme (2017)	dub=18:430128,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768325.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15681.mp4
+Interreflections	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75393.mp4
+Interrompemos a Programação	dub=18:745078,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762242.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26914.mp4
+Interrompida	dub=18:3558,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26924.mp4	leg=18:3558.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75404.mp4
+Intervencao (2021)	dub=18:651915,18:526307,https://embedplayer2.xyz/cdn/hls/e35310cf4ea54df3f36455634190cc4a/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761527.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4266.mp4
+Intimidade Entre Estranhos	dub=18:555794
+Into The Dark	dub=18:385928,18:951959
+Into the Dark A Invasão	dub=18:680734,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759528.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49309.mp4
+Into the Dark: A Casa da Arvore (2019)	dub=18:580944
+Into the Thicket	dub=18:1035992,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755859.mp4
+Intocáveis (2011)	dub=18:77338,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763247.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26919.mp4
 Intriga Internacional	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311908.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311876.mp4
-Intrigo: Samaria (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1886298.mp4
-Intrusion	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4262.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75409.mp4
-Intruso (2023)	dub=https://embedplayer2.xyz/cdn/hls/7a57802ded1ffcdda584f462facc8afc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56354.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35942.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75414.mp4
-Inu-Oh (2022)	dub=https://embedplayer2.xyz/cdn/hls/f76cdda46082747c0cc7b165ebb4ab62/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9681.mp4
+Intrigas	dub=18:18041
+Intrigas de Estado	dub=18:16995
+Intrigo: Samaria	dub=18:482568
+Intrusion	dub=18:785752,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761723.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4262.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75409.mp4
+Intruso (2023)	dub=18:89443,18:427720,18:1263334,18:760245,https://embedplayer2.xyz/cdn/hls/7a57802ded1ffcdda584f462facc8afc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56354.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756948.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765889.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35942.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75414.mp4
+Intrusos	dub=18:63207
+Inu-Oh (2022)	dub=18:642538,https://embedplayer2.xyz/cdn/hls/f76cdda46082747c0cc7b165ebb4ab62/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9681.mp4
 InuYasha 1: Sentimentos que Transcendem o Tempo (2001)	dub=https://embedplayer2.xyz/cdn/hls/eb6496c143a6b9fd5cec5de48294e2ea/master.txt
 InuYasha 3: A Espada Dominadora do Mundo (2003)	dub=https://embedplayer2.xyz/cdn/hls/458d11dbc1510de6ed56c4fecfe875d6/master.txt	leg=https://embedplayer2.xyz/cdn/hls/9ba32124f6655acf17aab0767bf64626/master.txt
 InuYasha 4: Fogo na Ilha Mística (2004)	dub=https://embedplayer2.xyz/cdn/hls/9d099e1b62a9496ee57fa16fb41b1acd/master.txt
+Inuyashiki (2018)	dub=18:447743.m3u8,18:447743
 Invadindo a Sala Secreta do Ceo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303175.mp4
-Invasao Ao Servico Secreto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56357.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4286.mp4
-Invasao Terrorista (2021)	dub=https://embedplayer2.xyz/cdn/hls/0527dc0429fab57ede5bd304f4798b5c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4294.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75466.mp4
-Invasao Zumbi	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49299.mp4
-Invasao Zumbi 2: Peninsula (2020)	dub=https://embedplayer2.xyz/cdn/hls/0c976c84b499f4cf39a93c3eb5344490/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4298.mp4
-Invasao a Londres	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4282.mp4
-Invasao ao Servico Secreto (2019)	dub=http://45.172.0.116:8085/hd4/2019/Invasao.ao.Servico.Secreto.2019/master.m3u8
-Invasion	dub=https://embedplayer2.xyz/cdn/hls/d24337b33dc8f3f3a1e3fe8d35c1b282/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75429.mp4
-Invasor (2021)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44739.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75424.mp4
-Invasor Zim e o Florpus	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9686.mp4
-Invasores	dub=https://embedplayer2.xyz/cdn/hls/74fd0c56b95f8e3fb5759579a0469e0a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49318.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308364.mp4
-Invasores (2007)	dub=http://45.172.0.116:8085/hd1/invasores-2007/master.m3u8,https://embedplayer2.xyz/cdn/hls/74fd0c56b95f8e3fb5759579a0469e0a/master.txt
-Invasores (2015)	dub=https://embedplayer2.xyz/cdn/hls/03d244e720507f458628027106c59205/master.txt
-Invasores - Nenhum Sistema Está à Salvo (2014)	dub=https://embedplayer2.xyz/cdn/hls/bcc4f1eb9cc18d3027df31640d10b055/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44744.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75440.mp4
-Invasores da Noite	dub=https://embedplayer2.xyz/cdn/hls/5b8d5ffb229fbb526323877963505cda/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99460.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99533.mp4
-Invasão	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75434.mp4
-Invasão Alienígena	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49314.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75461.mp4
-Invasão Alienígena: Hudson Valley	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34016.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75456.mp4
-Invasão Cósmica	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35962.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75445.mp4
-Invasão Final (2021)	dub=https://embedplayer2.xyz/cdn/hls/a7fe1520bbf5c208448834bd8a3fcc56/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35966.mp4
-Invasão Noturna	dub=http://45.172.0.116:8085/hd8/2018/Invasao.Noturna.2018-1080/master.m3u8
-Invasão Noturna (2018)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1822184.mp4
-Invasão U S.A (1985)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300822.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250794.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289488.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250477.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289502.mp4
-Invasão Zumbi 2 Península	dub=http://45.172.0.116:8085/hd6/2020/Invasao.Zumbi.2.Peninsula.2020/master.m3u8
-Invasão de Domicílio	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44746.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75451.mp4
-Invasão de Domicílio (2021)	dub=http://45.172.0.116:8085/hd6/2021/01/Invasao.De.Domicilio.2021/master.m3u8
-Invasão de Lua de Mel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15677.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75471.mp4
-Invasão de Lua de Mel (2025)	dub=http://45.172.0.116:8085/hd1/2025/Invasao.De.Lua.De.Mel.2025/master.m3u8
-Invasão de Privacidade	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26928.mp4
-Invasão do Mundo: Batalha de Los Angeles	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4290.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307290.mp4
-Invasão do Mundo: Batalha de Los Angeles (2011)	dub=http://45.172.0.116:8085/hd3/2011/invasao-do-mundo-batalha-de-los-angeles-2011/master.m3u8
-Invasão à Casa Branca	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4278.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75481.mp4
-Invasão à Venezuela	dub=http://45.172.0.116:8085/hd8/2024/Invasao.a.Venezuela.2024.1080/master.m3u8
-Invasão à Venezuela (2024)	dub=https://embedplayer2.xyz/cdn/hls/4a48adf9c868f166b554d20f62fd9cb6/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250917.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254760.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250933.mp4
-Invencivel (2025)	dub=https://embedplayer2.xyz/cdn/hls/1ee4df9f46f07ed136c7781f9a53e227/master.txt
-Invencivel Caminho Da Redencao	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26947.mp4
-Invencíveis (2011)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2334422.mp4
-Invencível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56368.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26933.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75486.mp4
-Inventário de Imagens Perdidas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301312.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301383.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301114.mp4
-Inverno (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26938.mp4
-Inverno De Paixao No Grande Hotel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302981.mp4
-Inverno Rigoroso (2016)	dub=http://45.172.0.116:8085/hd4/2016/Inverno.Rigoroso.2016/master.m3u8
-Inverno da Alma	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26942.mp4
-Inverno de Sangue em Veneza	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44749.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75476.mp4
-Inverno em Chamas	dub=https://embedplayer2.xyz/cdn/hls/0a5a8ac531aa3292bb094f395c102bbe/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36952.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75491.mp4
-Inverno sem Fim (2024)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1884477.mp4
-Inversão (2011)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1860939.mp4
-Investigando Lucy Letby	dub=http://45.172.0.116:8085/hd6/2026/Investigando.Lucy.Letby.2026.1080p/master.m3u8,https://embedplayer2.xyz/cdn/hls/6aaa62db3bef96b90ab4c958348a61fa/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311324.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100018.mp4
-Invictus	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26961.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75496.mp4
-Invincible (2001)	dub=http://45.172.0.116:8085/hd4/2017/Mae.2017/master.m3u8
-Invisíveis	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26952.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75506.mp4
+Invasao Terrorista (2021)	dub=18:797294,https://embedplayer2.xyz/cdn/hls/0527dc0429fab57ede5bd304f4798b5c/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755019.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760527.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4294.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75466.mp4
+Invasao Zumbi 2: Peninsula (2020)	dub=18:581392,https://embedplayer2.xyz/cdn/hls/0c976c84b499f4cf39a93c3eb5344490/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760766.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4298.mp4
+Invasao ao Servico Secreto (2019)	dub=18:423204,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56357.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760914.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4286.mp4
+Invasion	dub=18:485374,https://embedplayer2.xyz/cdn/hls/d24337b33dc8f3f3a1e3fe8d35c1b282/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75429.mp4
+Invasive	leg=18:1288500.mp4?lang=leg
+Invasor (2021)	dub=18:734372,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752888.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44739.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75424.mp4
+Invasor Zim e o Florpus	dub=18:472983,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9686.mp4
+Invasores	dub=https://embedplayer2.xyz/cdn/hls/74fd0c56b95f8e3fb5759579a0469e0a/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758451.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49318.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308364.mp4
+Invasores (2007)	dub=18:4858,https://embedplayer2.xyz/cdn/hls/74fd0c56b95f8e3fb5759579a0469e0a/master.txt
+Invasores (2015)	dub=18:197823,https://embedplayer2.xyz/cdn/hls/03d244e720507f458628027106c59205/master.txt
+Invasores - Nenhum Sistema Está à Salvo (2014)	dub=18:284427,https://embedplayer2.xyz/cdn/hls/bcc4f1eb9cc18d3027df31640d10b055/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752546.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755825.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44744.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75440.mp4
+Invasores da Noite	dub=18:795778,https://embedplayer2.xyz/cdn/hls/5b8d5ffb229fbb526323877963505cda/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751617.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765866.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99460.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99533.mp4
+Invasão	dub=18:843905,18:1244880,18:497814,18:396535,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755808.mp4	leg=18:843905.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75434.mp4
+Invasão Alien	dub=18:120325
+Invasão Alienígena	dub=18:455551,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49314.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75461.mp4
+Invasão Alienígena: Hudson Valley	dub=18:861735,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755585.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759995.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765148.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34016.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75456.mp4
+Invasão Bolchevique	dub=18:962431
+Invasão Cósmica	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765541.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35962.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75445.mp4
+Invasão Final (2021)	dub=18:910762,https://embedplayer2.xyz/cdn/hls/a7fe1520bbf5c208448834bd8a3fcc56/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766055.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35966.mp4
+Invasão Noturna	dub=18:541876
+Invasão U S.A (1985)	dub=18:15983,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300822.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764811.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250794.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289488.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250477.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289502.mp4
+Invasão Zumbi	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758025.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49299.mp4
+Invasão a Londres	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760286.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4282.mp4
+Invasão de Domicílio (2021)	dub=18:835551,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752371.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755600.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44746.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75451.mp4
+Invasão de Lua de Mel (2025)	dub=18:1361622,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756969.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766888.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15677.mp4	leg=18:1361622.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75471.mp4
+Invasão de Privacidade	dub=18:867,18:340677,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762666.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26928.mp4
+Invasão do Mundo: Batalha de Los Angeles (2011)	dub=18:44943,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760616.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4290.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307290.mp4
+Invasão à Casa Branca	dub=18:117263,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761580.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4278.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75481.mp4
+Invasão à Venezuela (2024)	dub=18:1276825,https://embedplayer2.xyz/cdn/hls/4a48adf9c868f166b554d20f62fd9cb6/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251429.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768996.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250917.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254760.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250933.mp4
+Invencivel (2014)	dub=18:227306
+Invencivel (2025)	dub=18:765897,https://embedplayer2.xyz/cdn/hls/1ee4df9f46f07ed136c7781f9a53e227/master.txt
+Invencíveis	dub=18:95524
+Invencível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56368.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751411.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754855.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763528.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26933.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75486.mp4
+Invencível (2006)	dub=18:11652
+Invencível: Caminho da Redenção (2018)	dub=18:506680,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763868.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26947.mp4
+Inventário de Imagens Perdidas	dub=18:1112398,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750999.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301312.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301383.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301114.mp4
+Inventário de Natal	dub=18:130187
+Inverno (2022)	dub=18:942668,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763912.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26938.mp4
+Inverno da Alma	dub=18:39013,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26942.mp4
+Inverno de Paixao no Grande Hotel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302981.mp4
+Inverno de Sangue em Veneza	dub=18:931,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752276.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754306.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44749.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75476.mp4
+Inverno em Chamas	dub=18:895956,https://embedplayer2.xyz/cdn/hls/0a5a8ac531aa3292bb094f395c102bbe/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754532.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757269.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36952.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75491.mp4
+Inverno sem Fim	dub=18:1158986
+Inversão	dub=18:74835
+Investigando Lucy Letby	dub=18:1620991,https://embedplayer2.xyz/cdn/hls/6aaa62db3bef96b90ab4c958348a61fa/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311324.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751684.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100018.mp4
+Investigação Perigosa	dub=18:78504
+Invictus	dub=18:22954,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762352.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26961.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75496.mp4
+Invincible: Atom Eve	dub=18:1675955
+Invisíveis	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762833.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26952.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75506.mp4
 Invisíveis (2020)	dub=https://embedplayer2.xyz/cdn/hls/c7b2013f0139193d0a1ad76c3c5adab5/master.txt
-Invocacao do Mal 4 O Ultimo Ritual (2025)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256452.mp4
-Invocação do Mal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249272.mp4,https://comprarebom.xyz/cdn/down/ec9c579f78cba20004a13332/index.m3u8
-Invocação do Mal 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249269.mp4,https://comprarebom.xyz/cdn/down/bb05e8a75b581f0aa560f6ec/index.m3u8
-Invocação do Mal 2 (2016)	dub=https://comprarebom.xyz/cdn/down/bb05e8a75b581f0aa560f6ec/index.m3u8,http://45.172.0.116:8085/hd4/2016/Invocacao.do.Mal.2.2016/master.m3u8
-Invocação do Mal 3: A Ordem do Demônio	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56362.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249270.mp4,https://comprarebom.xyz/cdn/down/95187e6bebd220036156b97b/index.m3u8
-Invocação do Mal 3: A Ordem do Demônio (2021)	dub=https://comprarebom.xyz/cdn/down/95187e6bebd220036156b97b/index.m3u8,http://45.172.0.116:8085/hd4/2021/invocacao-do-mal-3-a-ordem-do-demonio-2021/master.m3u8
-Invocação do Mal 4: O Último Ritual (2025)	dub=http://45.172.0.116:8085/hd6/2025/Invocacao.do..Mal.4.O.ultimo.Ritual.2025/master.m3u8,https://comprarebom.xyz/cdn/down/a8435a9da193b4189be4ab4a/index.m3u8
-Io capitano	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1826478.mp4
-Ip Man O Mestre Do Kung Fu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4303.mp4
-Ip Man: Nasce uma Lenda	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6250597.mp4
-Ip Man: O Mestre do Kung Fu (2019)	dub=http://45.172.0.116:8085/hd4/2019/Ip.Man.O.Mestre.do.Kung.Fu.2019/master.m3u8
-Ip Man: The Awakening (2021)	leg=https://embedplayer2.xyz/cdn/hls/9b59a1cd1e73c917b73fac65a3f336a7/master.txt
-Iracema	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313401.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313417.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313369.mp4
-Iracema: Uma Transa Amazônica	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97154.mp4
-Irma la Douce	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15672.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75516.mp4
-Irmao Urso (2003)	dub=http://45.172.0.116:8085/hd3/2003/irmao-ursos-2003-1080/master.m3u8
+Invisíveis (2022)	dub=18:665899
+Invitation to a Murder	dub=18:989473
+Invocacao do Mal 2 (2016)	dub=18:259693,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759018.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249269.mp4
+Invocacao do Mal 3: A Ordem do Demonio (2021)	dub=18:423108,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56362.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758445.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249270.mp4	leg=18:423108.mp4?lang=leg
+Invocacao do Mal 4 O Ultimo Ritual (2025)	dub=https://embedplayer2.xyz/cdn/hls/9b23cb4fa7d862cb829dd3138d32bb8a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256452.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752482.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249271.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75501.mp4
+Invocação do Mal	dub=18:138843,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759156.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249272.mp4
+Invocação do Mal - O Último Ritual/Invocação do Mal 4	dub=18:1038392
+Io capitano	dub=18:937746	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75511.mp4
+Ip Man: A Batalha Final	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764707.mp4
+Ip Man: Nasce uma Lenda	dub=18:44249,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764764.mp4
+Ip Man: O Mestre do Kung Fu (2019)	dub=18:658009,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764846.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4303.mp4
+Ip Man: The Awakening (2021)	dub=18:875104	leg=18:875104.mp4?lang=leg,https://embedplayer2.xyz/cdn/hls/9b59a1cd1e73c917b73fac65a3f336a7/master.txt
+Iracema	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750628.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313401.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313417.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313369.mp4
+Iracema Uma Transa Amazônica	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97154.mp4
+Iris (2016)	dub=18:11889
+Irma la Douce	dub=18:2690,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768009.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15672.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75516.mp4
+Irmandade	dub=18:610774
+Irmandade de Sangue	dub=18:28933
+Irmao Escoteiro (2010)	dub=18:46064
+Irmao Urso (2003)	dub=18:10009,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766097.mp4
 Irmao Urso 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9692.mp4
-Irmao Urso 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9697.mp4
-Irmao Urso 2 (2006)	dub=http://45.172.0.116:8085/hd1/2006/Irmao.Urso.2.2006/master.m3u8
-Irmaos De Fe	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38361.mp4
-Irmaos de Guerra (2022)	dub=https://embedplayer2.xyz/cdn/hls/ced33fe2d4e50b700e073bca3fd49e88/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36961.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75536.mp4
-Irmaos de Orfanato (2025)	dub=https://embedplayer2.xyz/cdn/hls/a359adbb82aeb12161efc6697877be24/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98342.mp4
-Irmas de Sorte (2024)	dub=http://45.172.0.116:8085/hd1/2024/irmas-de-sorte-2024/master.m3u8
-Irmã Dulce (2014)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1876628.mp4
-Irmã Morte (2023)	dub=https://embedplayer2.xyz/cdn/hls/afe5e3542cf6f86878b0a261f6fe23b9/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26956.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75521.mp4
-Irmã de Neve	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34025.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75526.mp4
-Irmã do Pecado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4307.mp4
-Irmão Escoteiro (2010)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249858.mp4
-Irmão de Espião (2016)	dub=http://45.172.0.116:8085/hd4/2016/Irmao.de.Espiao.2016/master.m3u8,http://aponteiecair.lat:80/movie/65689527/29278256/1858931.mp4
-Irmão do Jorel Especial de Natal: Irmão do Noel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9693.mp4
-Irmãos	dub=http://45.172.0.116:8085/hd1/2008/Quase-Irmaos/master.m3u8,https://embedplayer2.xyz/cdn/hls/2e9216fda9a8f3d1d6d51eeb4c88e4cc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56363.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4311.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75531.mp4
-Irmãos Gêmeos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15685.mp4
-Irmãos Implacáveis	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75560.mp4
-Irmãos Inimigos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255373.mp4
-Irmãos de Honra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56373.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36966.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75546.mp4
-Irmãos de Honra (2022)	dub=http://45.172.0.116:8085/hd8/2022/Irmaos.De.Honra.2022/master.m3u8
-Irmãos de Orfanato	dub=http://45.172.0.116:8085/hd8/2025/Irmaos-de-Orfanato.2025.1080p/master.m3u8
-Irmãos de Sangue	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38375.mp4
-Irmãos de Sangue: Muhammad Ali e Malcolm X	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75541.mp4
-Irmãos do Crime	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21470.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75556.mp4
-Irmãos em Fuga (2023)	dub=https://embedplayer2.xyz/cdn/hls/03ee7c0a0681f18d7ee5f76a89b82273/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251428.mp4
-Irmãos em Tempos de Guerra	dub=https://embedplayer2.xyz/cdn/hls/db9af2c91921dd55cbd7f39f10929b3d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/596.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75551.mp4
-Irmãos por Acidente	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75566.mp4
-Irmãos por escolha	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1864194.mp4
-Irmãs Por Acaso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15690.mp4
-Irmãs Sheppard: Das Ruas ao Pódio	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1866369.mp4
-Irmãs de Sorte	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15694.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75575.mp4
-Iron Lung: Oceano de Sangue	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301116.mp4,https://embedplayer2.xyz/cdn/hls/c31bab006751f329a462c6ba95fcea1f/master.txt
-Iron Maiden: Burning Ambition	leg=https://embedplayer2.xyz/cdn/hls/b38f4283c0b0510eb99b8c4cabb49adc/master.txt
-Irresistible	dub=https://embedplayer2.xyz/cdn/hls/21adf89952e631580ed29f1414ca239f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4315.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75571.mp4
-Irresistível (2020)	dub=https://embedplayer2.xyz/cdn/hls/21adf89952e631580ed29f1414ca239f/master.txt
-Irreversível	dub=https://embedplayer2.xyz/cdn/hls/4b07cb41f9e72488a899af12fba5ebb5/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26965.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38366.mp4
-Is God Is	leg=http://aponteiecair.lat:80/movie/65689527/29278256/2361222.mp4
-Is This Goodbye, Charlie Brown?	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1820449.mp4
-Isabella o Caso Nardoni (2023)	dub=https://embedplayer2.xyz/cdn/hls/ad05c8477a9abb19dcbeb1989d538b22/master.txt
-Isca	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49323.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75581.mp4
-Isi & Ossi	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56378.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42072.mp4
-Island Escape (2023)	dub=https://embedplayer2.xyz/cdn/hls/c55a1c3da2d9dffc8e5a6b2abdbae0a3/master.txt	leg=https://embedplayer2.xyz/cdn/hls/845cc9c761c769d0b7c2ba429ea96a3b/master.txt
-Isolado Na Pandemia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49324.mp4
-Isolados	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49339.mp4
-Isolados (2014)	dub=https://embedplayer2.xyz/cdn/hls/2c644738bc981759f78c0771fab0019a/master.txt
-Isolados (2018)	dub=http://45.172.0.116:8085/hd8/2018/Isolados.2018/master.m3u8
-Isolados: Medo Invisível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35971.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75596.mp4
-Isolamento Mortal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49345.mp4
-Isolamento Mortal (2022)	dub=http://45.172.0.116:8085/hd8/2022/01/Sick.2022/master.m3u8
-Isso Ainda Está de Pé?	dub=https://embedplayer2.xyz/cdn/hls/f5dd060262139af1aa1143d9993d0066/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313907.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251698.mp4
-Isto Não é Berlin	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27011.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75591.mp4
-Isto Não é um Teste	dub=http://45.172.0.116:8085/hd8/2025/01/Isto-Nao-e-um-Teste.2025/master.m3u8
-Isto Não é um Teste (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313733.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313739.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313721.mp4
-Isto é Spinal Tap	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15703.mp4
-It	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49329.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75586.mp4
-It Blooms in June	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75612.mp4
-It Came from Outer Space II (1995)	dub=http://45.172.0.116:8085/hd6/1996/A.Ameaca.que.Veio.do.Espaco.II.1996/master.m3u8
-It Ends	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307291.mp4
-It a Coisa	dub=http://45.172.0.116:8085/hd1/2017/it-a-coisa-2017/master.m3u8,http://aponteiecair.lat:80/movie/65689527/29278256/1870429.mp4
-It&#039;s Spring Training, Charlie Brown! (1996)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1820399.mp4
-It&#039;s a Mystery, Charlie Brown (1974)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1821250.mp4
-It&#039;s an Adventure, Charlie Brown (1983)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1820840.mp4
-It: A Coisa (2017)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49334.mp4
-Ivan, O TerrirVel (2020)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2053322.mp4
-Ivy e Bean	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53101.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75607.mp4
-Ivy e Bean Entram na Dança	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53106.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75601.mp4
-Ivy e Bean: O Fantasma do Banheiro (2022)	dub=https://embedplayer2.xyz/cdn/hls/3dd29546b8706308fe065852ac1bf8a3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53113.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75617.mp4
-Iwájú: Um Novo Dia	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97268.mp4
-Izzy Lyon - O Rei do Giro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15699.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75627.mp4
-iBoy (2017)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1881646.mp4
-iHostage	dub=https://embedplayer2.xyz/cdn/hls/99dd17284339755fb8bed27c0bc0accb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56272.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21442.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74933.mp4
-iNumber Number O Ouro de Joanesburgo (2023)	dub=http://45.172.0.116:8085/hd1/2023/inumber-number-o-ouro-de-joanesburgo-2023/master.m3u8
-iNumber Number: O Ouro de Joanesburgo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75419.mp4
-Íntimo & Pessoal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313924.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313962.mp4
-壹獄壹世界II：劫數難逃 (2023)	dub=https://embedplayer2.xyz/cdn/hls/bc133d6bc17254708928adb358581577/master.txt
+Irmao Urso 2 (2006)	dub=18:10010,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766057.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9697.mp4
+Irmao de Espiao (2016)	dub=18:267193
+Irmaos Por Escolha (2023)	dub=18:1139162,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759967.mp4
+Irmaos de Guerra (2022)	dub=18:965571,https://embedplayer2.xyz/cdn/hls/ced33fe2d4e50b700e073bca3fd49e88/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757486.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36961.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757470.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75536.mp4
+Irmaos de Orfanato (2025)	dub=18:1244975,https://embedplayer2.xyz/cdn/hls/a359adbb82aeb12161efc6697877be24/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751321.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98342.mp4
+Irmas de Sorte (2024)	dub=18:1106052,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755481.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767437.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15694.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75575.mp4
+Irmã Dulce	dub=18:228167
+Irmã Morte (2023)	dub=18:955531,https://embedplayer2.xyz/cdn/hls/afe5e3542cf6f86878b0a261f6fe23b9/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26956.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75521.mp4
+Irmã de Neve	dub=18:1365044,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756299.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34025.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75526.mp4
+Irmã do Pecado	dub=18:375846,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752734.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760820.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4307.mp4
+Irmão do Jorel - Especial Carnaval Bruttal (2022)	dub=18:942118,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766418.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255737.mp4
+Irmão do Jorel Especial de Natal: Irmão do Noel	dub=18:1056212,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765323.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9693.mp4
+Irmãos	dub=18:616446,18:542491,18:12133,https://embedplayer2.xyz/cdn/hls/2e9216fda9a8f3d1d6d51eeb4c88e4cc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56363.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753919.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761843.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4311.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75531.mp4
+Irmãos Gêmeos	dub=18:9493,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764739.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767959.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15685.mp4
+Irmãos Implacáveis	dub=18:936622	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75560.mp4
+Irmãos Inimigos	dub=18:43348,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255373.mp4
+Irmãos Urso: Uma Viagem de Volta para Casa	dub=18:304941
+Irmãos de Fé (2004)	dub=18:84763,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758403.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38361.mp4
+Irmãos de Honra (2022)	dub=18:653851,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56373.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757229.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36966.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75546.mp4
+Irmãos de Sangue	dub=18:1393539,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758128.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38375.mp4
+Irmãos de Sangue: Muhammad Ali e Malcolm X	dub=18:861604,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759940.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75541.mp4
+Irmãos do Crime	dub=18:431582,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21470.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75556.mp4
+Irmãos em Fuga (2023)	dub=18:567610,https://embedplayer2.xyz/cdn/hls/03ee7c0a0681f18d7ee5f76a89b82273/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251428.mp4
+Irmãos em Tempos de Guerra	dub=18:896319,https://embedplayer2.xyz/cdn/hls/db9af2c91921dd55cbd7f39f10929b3d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764899.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/596.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75551.mp4
+Irmãos por Acidente	dub=18:1304206,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759783.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757242.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75566.mp4
+Irmãos à Luta	dub=18:1074641
+Irmãs Por Acaso	dub=18:521092,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767988.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15690.mp4
+Irmãs Sheppard: Das Ruas ao Pódio	dub=18:816518,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759942.mp4
+Iron Brothers	dub=18:719981	leg=18:719981.mp4?lang=leg
+Iron Lung: Oceano de Sangue	leg=18:1116201.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750964.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301116.mp4
+Iron Maiden: Burning Ambition	dub=18:1642859	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750651.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301115.mp4
+Iron Will: O Grande Desafio (1994)	dub=18:24767
+Ironias do Amor (2008)	dub=18:14197
+Irresistible	dub=18:766938,18:420759,18:583312,https://embedplayer2.xyz/cdn/hls/21adf89952e631580ed29f1414ca239f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761417.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4315.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75571.mp4
+Irresistible Force	dub=18:170388
+Irresistível (2020)	dub=18:595148,https://embedplayer2.xyz/cdn/hls/21adf89952e631580ed29f1414ca239f/master.txt
+Irresistível Paixão	dub=18:1389
+Irreversível	dub=18:979,https://embedplayer2.xyz/cdn/hls/4b07cb41f9e72488a899af12fba5ebb5/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26965.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38366.mp4
+Is God Is	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750717.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306383.mp4
+Is This Goodbye, Charlie Brown?	dub=18:40375
+Isabella o Caso Nardoni (2023)	dub=18:1158959,https://embedplayer2.xyz/cdn/hls/ad05c8477a9abb19dcbeb1989d538b22/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759583.mp4
+Isca	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754118.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758250.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49323.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75581.mp4
+Isi & Ossi	dub=18:658760,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56378.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753511.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42072.mp4
+Isis: Terrorismo Extremo	dub=18:468912
+Island Escape (2023)	dub=18:1151703,https://embedplayer2.xyz/cdn/hls/c55a1c3da2d9dffc8e5a6b2abdbae0a3/master.txt	leg=https://embedplayer2.xyz/cdn/hls/845cc9c761c769d0b7c2ba429ea96a3b/master.txt
+Isolado na Pandemia (2020)	dub=18:661950,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759290.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49324.mp4
+Isolados	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759086.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49339.mp4
+Isolados (2014)	dub=18:228172,18:552670,https://embedplayer2.xyz/cdn/hls/2c644738bc981759f78c0771fab0019a/master.txt
+Isolados Medo Invisível	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752541.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754711.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765690.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35971.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75596.mp4
+Isolados do Mundo	dub=18:201066
+Isolamento Mortal (2022)	dub=18:829410,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758447.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49345.mp4
+Isso Ainda Está de Pé	dub=18:1140498,https://embedplayer2.xyz/cdn/hls/f5dd060262139af1aa1143d9993d0066/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313907.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251698.mp4
+Isso Muda Tudo	dub=18:541577
+Isto Não é Berlin	dub=18:555795,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27011.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75591.mp4
+Isto Não é um Teste (2026)	dub=18:1428990,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750595.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313733.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313739.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313721.mp4
+Isto não é Berlim	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762161.mp4
+Isto é Pelé	dub=18:230741
+Isto é Spinal Tap	dub=18:11031,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766834.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15703.mp4
+Isto é um Assalto (2018)	dub=18:563769,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759775.mp4
+It	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754554.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758948.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49329.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75586.mp4
+It Blooms in June	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756622.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75612.mp4
+It Capítulo 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49342.mp4
+It Ends	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750732.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307291.mp4
+It's Spring Training, Charlie Brown	dub=18:54920
+It's a Mystery, Charlie Brown	dub=18:52956
+It's an Adventure, Charlie Brown	dub=18:117314
+It: A Coisa (2017)	dub=18:346364,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758885.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49334.mp4
+Ivan, O TerrirVel (2020)	dub=18:734364
+Ivete Sangalo: The Town (2025)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751647.mp4
+Ivy e Bean	dub=18:862558,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754091.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53101.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75607.mp4
+Ivy e Bean Entram na Dança	dub=18:1014530,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753970.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53106.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75601.mp4
+Ivy e Bean: O Fantasma do Banheiro (2022)	dub=18:1014676,https://embedplayer2.xyz/cdn/hls/3dd29546b8706308fe065852ac1bf8a3/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753892.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53113.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75617.mp4
+Iwájú Um Novo Dia	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97268.mp4
+Iz sve snage	dub=18:1107511
+Izzy Lyon - O Rei do Giro	dub=18:832755,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755104.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767176.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15699.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75627.mp4
+iBoy	dub=18:414190
+iHostage	dub=18:1371202,https://embedplayer2.xyz/cdn/hls/99dd17284339755fb8bed27c0bc0accb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56272.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757000.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21442.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74933.mp4
+iNumber Number O Ouro de Joanesburgo (2023)	dub=18:1129956,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760171.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75419.mp4
+Íntimo & Pessoal	dub=18:9302,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313924.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313962.mp4
+壹獄壹世界II：劫數難逃 (2023)	dub=18:1026380,https://embedplayer2.xyz/cdn/hls/bc133d6bc17254708928adb358581577/master.txt

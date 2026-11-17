@@ -1340,9 +1340,6 @@ final class PlayerModel: NSObject, ObservableObject {
             Log.shared.write("desisti após 8 tentativas")
             return
         }
-        // Backoff reduzido: máximo 8s em vez de 20s.
-        // Esperas longas deixam a tela preta por quase 1 minuto antes de desistir.
-        // 8s é suficiente para CDNs oscilantes se recuperarem sem travar a UI.
         let delay = min(pow(1.5, Double(reconnectAttempt)), 8)
         status = "reconectando (\(reconnectAttempt))…"
         Log.shared.write("reconectando em \(String(format: "%.1f", delay))s — \(reason)")

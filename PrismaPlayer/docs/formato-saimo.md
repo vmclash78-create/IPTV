@@ -1,10 +1,10 @@
-# Formato de lista do Prisma TV
+# Formato de lista do Saimo
 
 Este documento descreve, arquivo por arquivo, como montar **a sua própria lista de
-canais e de filmes e séries** para o Prisma TV reconhecer. É o mesmo formato que os
+canais e de filmes e séries** para o Saimo reconhecer. É o mesmo formato que os
 apps (Mac, Windows, Linux, Android, TV Box, Roku, Samsung e LG) e o site leem.
 
-> O Prisma TV é um reprodutor. Ele não traz nem hospeda conteúdo: só abre o que está
+> O Saimo é um reprodutor. Ele não traz nem hospeda conteúdo: só abre o que está
 > na lista que **você** informa. Use apenas endereços de conteúdo que você tem
 > direito de acessar.
 

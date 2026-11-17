@@ -1,550 +1,994 @@
-S.M.A.S.H. Acampamento de Super herois		0	13
-S.W.A.T.: Força de Intervenção		0	163
+S&X		0	7
+S.M.A.S.H.! Acampamento de Super-Heróis		0	13
+S.O.Z: Soldados ou Zumbis		0	8
+S.W.A.T. Exiles		0	12
+S.W.A.T.: Força de Intervenção		0	241
+SAF3		0	1
+SAF3: Força de Resgate		0	18
 SAKAMOTO DAYS	2025	0	22
-SANDA		0	11
-SEAL Team: Soldados de Elite	2017	0	54
-SEC Sabados de Futebol Americano Universitario		0	7
-SHIBOYUGI Jogos Mortais para Colocar Comida na Mesa		0	5
-SHY		0	12
-SK8 the Infinity		0	12
+SAND LAND A SERIE		0	26
+SAND LAND: THE SERIES		0	13
+SANDA		0	12
+SAS Rogue Heroes		0	24
+SEAL Team		0	226
+SEAL Team: Soldados de Elite	2017	0	183
+SEC Sabados de Futebol Americano Universitário		0	7
+SEVENTEEN OUR CHAPTER		0	4
+SHIBOYUGI Jogos Mortais para Colocar Comida na Mesa		0	12
+SHIMONETA A Boring World Where the Concept of Dirty Jokes Doesnt Exist		0	1
+SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life		0	1
+SHOSHIMIN: How to Become Ordinary		0	9
+SHY		0	47
+SI VIS The Sound of Heroes		0	19
+SING \"YESTERDAY\" FOR ME		0	12
+SIX		0	18
+SIX Esquadrao Antiterrorista		0	18
+SK8 the Infinity		0	25
+SKAM		0	36
+SKAM Italia		0	11
+SMILF		0	8
+SNL50: Além da Noite de Sábado		0	4
 SNOWBALL EARTH		0	13
 SOS Cachorrinhos		0	16
+SOS Cobra		0	6
 SOS Restaurante		0	137
 SPRIGGAN		0	6
 SPRINT		0	6
-SPY x FAMILY	2022	0	50
+SPY×FAMILY		0	37
 SS GB		0	6
+STEEL BALL RUN JoJos Bizarre Adventure		0	4
+STEVE documentario em 2 partes		0	2
 STM Seja Voce Mesma		0	15
 SU da Vida Selvagem		0	6
-SWAT	2017	0	87
+SUITS		0	134
+SWAT	2017	0	6
+SWORDGAI: The Animation		0	24
+SYNDUALITY Noir		0	24
 Sabadou com Virginia		0	28
 Saber Marionette J		0	25
+Sabiiro no Armor Reimei		0	12
 Sabikui Bisco		0	12
+Sablja		0	7
 Sabor Caseiro com Antoni Porowski		0	6
+Sabores Extremos com Gordon Ramsay		0	29
 Sabores Extremos com Gordon Ramsay: Aventuras Extremas		0	3
 Sabores da Fazenda com Molly		0	77
+Sabrina, Série de Desenhos		0	44
+Sabrina, a Aprendiz de Feiticeira		0	163
+Sacha		0	3
+Saco de Ossos		0	2
+Sacred Seven		0	12
 Sacrificio - Fedakar		0	50
+Sacrifício		0	19
 Sacrifício de Sangue	2026	0	5
 Safe	2018	0	8
-Safir		0	89
-Saga of Tanya the Evil		0	19
-Sagrada Família		0	16
+Safe Harbor		0	8
+Safe Harbour		0	4
+Safir		0	113
+Safira - Safir		0	26
+Saga of Tanya the Evil		0	26
+Sagrada FamIlia		0	16
+Sagrada Reset		0	24
+Sai		0	6
+Sai da Minha Vida! Meu Primeiro Amor Acabou		0	1
 Sai de Baixo		0	245
+Sai, Madrasta! Você Não Sabe de Nada!		0	1
+Saia da Frente: Eu Sou o Chefe Final		0	37
 Saideira		0	26
+Saihate no Paladin		0	12
+Saiki Kusuo no Psi nan		0	48
 Saiki Kusuo no Psi nan Reativado		0	6
-Sailor Moon		0	200
-Saindo do Armario com Colton Underwood		0	6
+Saikyou Onmyouji no Isekai Tenseiki		0	13
+Saikyoushu no Nekomimi Shoujo to Deau		0	13
+Sailor Moon		0	366
+Saindo do Armário com Colton Underwood		0	6
+Saint Love Survivors		0	12
+Saint Seiya: Os Cavaleiros Do Zodíaco		0	30
 Saint X		0	8
+Saint-Pierre		0	8
+Saints & Strangers		0	2
+Saiyuki		0	26
+Saiyuki Reload: Burial		0	25
+Sakho & Mangane		0	8
 Sakugan		0	1
-Sala de Aula dos Heróis		0	12
-Sala de Emergencia Casos Bizarros		0	3
+Sakuna: Of Rice and Ruin		0	13
+Sakura Quest		0	25
+Sakura Trick		0	12
+Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru		0	12
+Sal, Gordura, Acidez e Calor		0	4
+Sala de Aula dos Heróis		0	20
+Sala de Emergência: Casos Bizarros		0	9
 Saladin O Conquistador de Jerusale - Kudüs Fatihi Selahaddin Eyyubi		0	58
+Salaryman’s Club		0	12
 Salem	2014	0	36
-Salish e Jordan Matter		0	7
+Salish e Jordan Matter		0	13
+Sally4Ever		0	7
 Sally: Fisiculturismo e Assassinato		0	3
+Salomé		0	150
+Salsa e Merengue		0	176
 Salsicha e Scooby Atras das Pistas		0	26
 Salvador	2026	0	8
+Salvando Minha Família Através do Tempo		0	1
 Salvando Reformas com Jasmine Roth		0	24
-Salvation		0	25
-Salve Jorge		0	179
+Salvation		0	26
+Salve Jorge		0	181
 Salve Meu Restaurante!		0	10
 Salve-se Quem Puder		0	107
-Sam e Cat		0	36
-Samurai Jack		0	62
-Samurai X	1996	0	95
-Samurai de Olhos Azuis		0	8
-Sanditon	2019	0	20
-Sandman	2022	0	8
-Sandokan	2025	0	8
-Sandy & Junior: A História		0	7
-Sangue Azul	2010	0	293
-Sangue Bom		0	160
-Sangue e Tesouro	2019	0	26
-Sangue e Água	2020	0	25
-Sansão e Dalila		0	18
-Santa Clarita Diet		0	20
-Santa Evita		0	7
-Santiago dos Mares		0	20
-Santita		0	7
-Santo		0	6
-Santo Forte	2015	0	13
-Santo Maldito		0	8
-Santos Dumont		0	5
-Santuário do Sumô		0	8
-Sara A Mulher nas Sombras		0	6
-Saturdays: Pista de Patinação		1	14
+Salvo por um Sexy Cowboy		0	1
+Salário Mínimo		0	14
+Sam e Cat		0	53
+Samantha!		0	14
+Sammys Childrens Day		1	9
+Samurai 7		1	26
+Samurai Girls		1	18
+Samurai Jack		1	62
+Samurai Warriors		1	1
+Samurai Warriors - Sengoku Musou		1	12
+Samurai X	1996	1	163
+Samurai de Olhos Azuis		1	8
+Sanctuary: A Witch's Tale		1	7
+Sanditon	2019	1	20
+Sandman	2022	1	22
+Sandokan	2025	1	8
+Sandokan - O Tigre da Malasia		1	16
+Sandy & Junior		1	312
+Sandy & Junior: A História		1	7
+Sandy e Junior		1	174
+Sangue & Realeza		1	3
+Sangue Azul	2010	1	293
+Sangue Bom		1	160
+Sangue e Tesouro	2019	1	25
+Sangue e Água	2020	1	25
+Sankarea		1	14
+Sanrio Boys		1	12
+Sansão e Dalila		1	18
+Santa Cecilia e Padre Lawrence		1	12
+Santa Clarita Diet		1	30
+Santa Evita		1	7
+Santiago dos Mares		1	20
+Santita		1	7
+Santo		1	6
+Santo Forte	2015	1	13
+Santo Maldito		1	8
+Santos Dumont		1	5
+Santuário do Sumô		1	8
+Sara A Mulher nas Sombras		1	6
+Saramandaia		1	56
+Sarazanmai		1	10
+Sasaki and Miyano		1	1
+Sasaki and Peeps		1	15
+Sasameki Koto		1	13
+Sasayaku You ni Koi wo Utau		1	12
+Sassaricando		1	185
+Saturdays: Pista de Patinação		1	15
 Saudade de Voce		1	14
-Scandal		1	123
-Scandal Love		1	6
-Scandal Os Bastidores do Poder	2012	1	27
+Saudades Depois do Adeus		1	1
+Savage River		1	6
+Saving 80,000 Gold in Another World for My Retirement		1	12
+Saving Grace		1	16
+Say \"I love you.\"		1	13
+Sayonara Zetsubou Sensei		1	12
+Saúdem Todos o Rei Julien		1	65
+Scandal		1	124
+Scandal Love		1	10
+Scandal Os Bastidores do Poder	2012	1	33
 Scarpetta Medica Legista	2026	1	8
-Scenes from a Marriage		1	5
-Schitt's Creek		1	66
+Scenes From A Marriage		1	5
+Schitt's Creek		1	80
+Schloss Einstein		1	33
 Schmigadoon!		1	12
+School Days		1	13
 School of Chocolate		1	8
-Schooled		1	34
+Schooled		1	66
+Science Fell in Love, So I Tried to Prove it		1	12
 Scooby Doo Cade Voce	1969	1	25
-Scooby-Doo e Scooby-Loo		1	141
+Scooby-Doo e Convidados		1	52
+Scooby-Doo e Scooby-Loo		1	144
 Scooby-Doo! Mistério S/A		1	52
-Scooped Up by an S-Rank Adventurer!	2025	0	1
+Scooby-Doo! Mistério SA		1	52
+Scooped Up by an S-Rank Adventurer!		1	11
 Scorpion Servico de Inteligencia		1	94
 Scott Pilgrim A Serie		1	8
-Scream	2015	1	13
+Scrapped Princess		1	15
+Scream	2015	1	30
 Scream Queens		1	23
+Screw		1	8
 Scripting Your Destiny		1	10
-Scrubs	2026	1	24
-Se Avexe Nao		1	10
+Scrubs	2026	1	37
+Scum of the Brave		1	6
+Se Avexe Não		1	10
+Se Der um Biscoito a um Rato		1	32
 Se Desejos Matassem…	2026	1	8
 Se E Terca Feira... E Assassinato		1	7
+Se Eu Não Tivesse Te Conhecido		1	10
 Se Eu Soubesse		1	8
-Se Vira Com Pouco A Batalha		1	6
+Se Sobreviver, Case		1	80
+Se Te Amar e Um Pecado Queimarei no Inferno		1	1
+Se Vira com Pouco - A Batalha		1	6
 Se Voce Amar Demais - Se O Destino Quiser - Ya Cok Seversen		1	40
 Se a Vida Te Der Tangerinas		1	16
 Se as Flores Falassem		1	6
+Se eu Fosse uma Nuvem - Bir Bulut Olsam		1	29
 Se eu fosse Luisa Sonza	2023	1	3
+Se joga, Charlie		1	8
 Se o Destino Quiser	2023	1	40
 Se os homens Amam - Erkek Severse		1	26
-Seal Team	2017	1	114
-Sean Combs O Acerto de Contas		1	4
+Sealook		1	10
+Sean Combs O Acerto de Contas		1	8
 Search Party	2016	1	30
 Search WWW		1	16
-Second Chance		1	6
-Seconds		1	12
-Section Zero		1	7
+Sebeke		1	10
+Second Chance		1	8
+Second Chance Romance		1	56
+Seconds		1	16
+Secret Service		1	1
+Secretos de Estado		1	13
+Secrets of the Hells Angels		1	1
+Secrets of the Silent Witch		1	11
+Section Zéro		1	7
+Seculo Magnifico Kosem - Muhteşem Yüzyıl Kösem		1	60
+Sed de Venganza		1	25
 Seducao Mortal		1	8
 Seduced: Inside the NXIVM Cult		1	4
-See	2019	1	24
+See	2019	1	40
+See You Tomorrow at the Food Court		1	6
+See Your Love		1	13
+Segredo Entre Amigas		1	6
+Segredo da Harmonia		1	6
 Segredos Aereos da Segunda Guerra Mundial		1	6
+Segredos Em Sulphur Springs		1	27
 Segredos Sordidos Dean Corll e John Wayne Gacy		1	2
-Segredos da NASA		1	54
-Segredos da Playboy		1	20
-Segredos das Abelhas		1	2
-Segredos das Bases Nazistas		1	6
-Segredos das Mumias		1	4
-Segredos de Familia		1	7
-Segredos de Guerra		1	4
-Segredos do Arsenal de Espionagem		1	5
-Segredos do Fundo do Mar	None	1	49
-Segredos do Miss America		1	4
-Segredos dos Elefantes		1	4
-Segredos dos Pinguins		1	3
-Segredos dos Polvos		1	3
-Segredos e Crimes de Fred e Rose West		1	3
-Segredos e Crimes de Jimmy Savile		1	2
-Segredos em Sulphur Springs		1	27
-Segredos que Mudaram o Mundo		1	4
-Seguidores		1	9
-Segunda Chamada		1	16
-Segunda Chance no Amor		1	12
-Segunda Chance: Academia de Ginástica		1	10
-Segunda Guerra Mundial Com Tom Hanks		1	16
-Segunda Guerra em Cores: Caminho para a Vitória		1	10
-Segundas Intencoes	2024	1	8
-Segundo Sol		1	155
-Segurança em Jogo		1	6
-Seguro para Divorciados		1	12
-Seinfeld		1	159
-Seirei Gensouki Spirit Chronicles		1	23
-Seis Manos		1	8
-Seis Nacoes Acesso Total		1	8
-Seis Nao E Demais	2024	1	8
-Seis irmaos Esquizofrenicos	2024	1	2
-Seja Meu Superastro		1	12
-Seja Nosso Chef		1	11
-Seja Seu Cavaleiro		1	29
-Selecao Artificial		1	4
-Selecao Final		1	8
-Selena Restaurante	2024	1	6
-Selena e Yolanda Os Segredos Entre Elas		1	2
-Selena: A Série		1	9
+Segredos da Gravidez: Meu Marido é Perigoso e Irresistível		2	1
+Segredos da NASA		2	54
+Segredos da Orquídea		2	59
+Segredos da Playboy		2	20
+Segredos da Vida - Hayat Sirlari		2	11
+Segredos das Abelhas		2	2
+Segredos das Bases Nazistas		2	6
+Segredos das Múmias		2	4
+Segredos de Familia		2	189
+Segredos de Guerra		2	4
+Segredos de Natal		2	3
+Segredos do Arsenal de Espionagem		2	5
+Segredos do Coracao		2	1
+Segredos do Fundo do Mar	None	2	49
+Segredos do Miss America		2	4
+Segredos do Paraíso		2	38
+Segredos dos Elefantes		2	4
+Segredos dos Pinguins		2	3
+Segredos dos Polvos		2	3
+Segredos e Crimes de Fred e Rose West		2	3
+Segredos e Crimes de Jimmy Savile		2	2
+Segredos e Mentiras		2	10
+Segredos em Família		2	12
+Segredos que Mudaram o Mundo		2	4
+Seguidores		2	9
+Segunda Chamada		2	16
+Segunda Chance no Amor		2	12
+Segunda Chance: Academia de Ginástica		2	10
+Segunda Guerra Mundial Com Tom Hanks		2	20
+Segunda Guerra em Cores: Caminho para a Vitória		2	10
+Segundas Intencoes	2024	2	8
+Segundo Sol		2	155
+Segura a Onda		2	98
+Segurança em Jogo		2	6
+Segure meu Coração - Dayan Yuregim		2	13
+Seguro para Divorciados		2	12
+Seijo no Maryoku wa Bannou Desu		2	24
+Seiken Gakuin no Makentsukai		2	9
+Seikon no Qwaser		2	25
+Seinfeld		2	178
+Seirei Gensouki: Spirit Chronicles		2	24
+Seiren		2	12
+Seis Manos		2	8
+Seis Nacoes Acesso Total		2	8
+Seis Nao E Demais	2024	2	8
+Seis Punhos		2	8
+Seis Zeros		2	8
+Seis irmaos Esquizofrenicos	2024	2	4
+Seita Perigosa		2	3
+Seitokai no Ichizon		2	12
+Seja Meu Anjo		2	14
+Seja Meu Superastro		2	12
+Seja Minha Princesa		2	30
+Seja Nosso Chef		2	11
+Seja Seu Cavaleiro		2	29
+Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru		2	12
+Sekai de Ichiban Tsuyoku Naritai!		2	12
+Sekaiichi Hatsukoi		2	11
+Sekirei		2	12
+Selecao Artificial		2	4
+Selection Project		2	1
+Selena + Chef		2	56
+Selena Restaurante	2024	2	6
+Selena e Yolanda Os Segredos Entre Elas		2	2
+Selena: A Série		2	15
+Selenkay		2	16
 Seleção Argentina: A Série - Rumo a Catar		2	6
+Seleção Final		2	8
+Selfie		2	13
 Selling Tampa		2	8
-Selva de Pedra		2	158
+Selva de Pedra		2	160
+Selvagem - Yabani		2	51
+Selvagens por Natureza		2	1
+Sem Asas Para Voar		2	12
+Sem Atividade Italia		2	6
 Sem Bloqueio		2	5
 Sem Corte e Sem Censura		2	26
-Sem Escapatoria	2023	2	7
+Sem Dor Sem Ganho		2	7
+Sem Escapatoria	2023	2	14
 Sem Filtro		2	10
 Sem Filtro: Flamengo		2	7
 Sem Folego - Nefes Nefese		2	10
-Sem Limites	2022	2	22
+Sem Freios		2	1
+Sem Limites		2	22
 Sem Limites com Chris Hemsworth		2	6
-Sem Maturidade Para Isso		2	8
+Sem Limites com Chris Hemsworth: Vivendo Melhor		2	5
+Sem Maturidade para Isso		2	8
 Sem Medo da Verdade		2	81
+Sem Misericordia		2	16
 Sem Piedade	2025	2	14
 Sem Rastros		2	8
+Sem Resquícios		2	8
 Sem Salvacao	2026	2	6
-Sem Sangue		2	10
-Sem Saída		2	18
+Sem Sangue		2	20
+Sem Saída		2	24
+Sem Sentido		2	26
+Sem lar		2	4
 Sem teu Olhar - Sin tu Mirada		2	110
 Semantic Error		2	8
+Semideuses e Semidemonios		2	50
 Sempre Bruxa		2	18
 Sempre Fui Eu		2	18
-Senhor dos Céus		2	337
+Sempre Rir: A História do Palhaço Mais Famoso do Mundo		2	2
+Sendo Mary Jane		2	50
+Sengoku Basara		2	12
+Sengoku Otome: Momoiro Paradox		2	13
+Sengoku Youko		2	35
+Senhor dos Céus		2	736
 Senhora Camponesa - Hanım Köylü		2	13
 Senhora Secretária		2	120
-Senhora do Destino		2	195
+Senhora do Destino		2	221
+Senhora do Mar		2	215
+Senhorita Pólvora		2	70
+Senjou no Valkyria		2	26
+Senjuushi		2	12
+Senki Zesshou Symphogear		2	13
 Senna		2	6
 Senna por Ayrton	2024	2	3
-Sentenced to Be a Hero		2	12
-Sentença		2	6
-Senzo: Murder of a Soccer Star		2	5
-Separacao		2	24
-Sequestro no Ar	2023	2	15
-Sereias	2025	2	5
-Serendipidade		2	40
-Sereno: O Panda Zen		2	12
-Series | TV Quack Pack O Pato Donald e Seus Sobrinhos		2	39
-Servant	2019	2	40
-Será Isso Amor (versão internacional novo)		2	161
-Será Isso Amor?		2	161
-Sessão de Terapia		2	220
-Sete Mundos Um Planeta		2	7
-Sete Segundos		2	10
-Seu Amigao da Vizinhanca Homem Aranha	2025	2	10
-Seu Homem		2	11
-Seus Amigos e Vizinhos	2025	2	19
-Sex Appeal		2	19
-Sex Atracao Secreta		2	6
-Sex Education	2019	2	32
-Sex and the City		2	94
-Sexify		2	16
-Sexta Feira 13 Assassinatos Reais		2	6
-Sexy Beast	2024	2	8
-Señorita 89		2	8
-Shadow Love		2	38
-Shadowhunters: Instrumentos Mortais	2016	2	55
-Shadows House		2	25
-Shakespeare Ascensao de um Genio		2	3
-Shaking the Bar		2	10
-Shaman King		2	52
-Shaman King Flowers		2	13
-Shameless	2011	2	134
-Shangri-La Frontier	2023	2	50
-Shantaram		2	12
-Shark Academy Cancoes Para Criancas		2	25
-Shasha e Milo		2	13
-She Would Never Know		2	16
-She the People		2	8
-She-Ra e as Princesas do Poder		2	52
-Sheriff Country	2025	2	20
-Sherlock	2010	2	13
-Shine or Go Crazy		2	24
-Shining Vale		2	8
-Shinobi no Ittoki		2	12
-Shippados		2	12
+Senpai This Cant be Love		2	8
+Senpai is an Otokonoko		2	11
+Senryuu Shoujo		3	12
+Sense 8		3	25
+Sense8	2015	3	25
+Sente-se, seja humilde		3	2
+Sentenced to Be a Hero		3	12
+Sentença		3	6
+Sentouin, Hakenshimasu!		3	11
+Senzo- Murder of a Soccer Star		3	5
+Senzo: O Assassinato de um Craque		3	5
+Separacao		3	24
+Sequestro no Ar	2023	3	15
+Sera Que Era o Amor		3	10
+Seraph of the End		3	24
+Sereias	2025	3	5
+Serendipidade		3	40
+Serendipitys Embrace		3	8
+Sereno: O Panda Zen		3	34
+Seria Cômico Se Não Fosse Trágico		3	32
+Serial Experiments Lain		3	13
+Series TV Quack Pack O Pato Donald e Seus Sobrinhos		3	39
+Servant	2019	3	40
+Servant x Service		3	13
+Servente Adoravel de um Cego Implacavel		3	1
+Servico Secreto		3	24
+Será Isso Amor (versão internacional novo)		3	161
+Será Isso Amor?		3	213
+Sessão de Terapia		3	220
+Sete Mundos Um Planeta		3	7
+Sete Pecados		3	174
+Sete Segundos		3	10
+Sete Vidas		3	106
+Seto no Hanayome		3	25
+Seu Amigao da Vizinhanca Homem Aranha	2025	3	10
+Seu Amor Invencível		3	3
+Seu Homem		3	11
+Seu Verbolino		3	9
+Seus Amigos e Vizinhos	2025	3	28
+Seven Types of Ambiguity		3	3
+Seviyor Sevmiyor		3	28
+Sex Appeal		3	19
+Sex Atracao Secreta		3	6
+Sex Education	2019	3	32
+Sex and the City		3	94
+Sex/Life		3	22
+SexLife		3	14
+Sexify		3	16
+Sexo e a Cidade		3	94
+Sexo, Sangue & Realeza		3	3
+Sexta Feira 13 Assassinatos Reais		3	6
+Sexy Beast	2024	3	8
+Sexy Beasts: Amor Desmascarado		3	7
+Señora Acero		3	100
+Señorita 89		3	15
+Señorita Pólvora		3	20
+Shades		3	6
+Shades of Blue: Segredos Policiais		3	36
+Shadow		3	8
+Shadow Love		3	38
+Shadowhunters: Instrumentos Mortais	2016	3	55
+Shadows House		3	25
+Shadowverse Flame		3	77
+Shakespeare & Hathaway - Private Investigators		3	37
+Shakespeare Ascensao de um Genio		3	3
+Shaking the Bar		3	10
+Shakugan No Shana		3	24
+Shaman King		3	52
+Shaman King Flowers		3	25
+Shameless	2011	3	252
+Shangri-La Frontier	2023	3	150
+Shantaram		3	12
+Shardlake		3	4
+Sharivan, O Guardião do Espaço		3	51
+Shark Academy Cancoes Para Criancas		3	44
+Shark Tank Brasil		3	128
+Shark Tank Brasil - Negociando Com Tubarões		3	131
+Shasha e Milo		3	13
+Shaun, o Carneiro		3	150
+She Professed Herself Pupil of the Wise Man		3	12
+She Would Never Know		3	16
+She the People		3	8
+She-Ra e as Princesas do Poder		3	52
+Sheriff Country	2025	3	42
+Sheriff Labrador		3	11
+Sherlock	2010	3	13
+Sherlock Holmes		3	26
+Sherlock e Daughter		3	8
+Sherwood		3	10
+Shigurui		3	12
+Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru		3	12
+Shikimori's Not Just a Cutie		3	12
+Shikkakumon no Saikyou Kenja		3	12
+Shin Ikki Tousen		3	3
+Shin Sakura Taisen the Animation		3	11
+Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita		3	23
+Shine		3	8
+Shine Post		3	12
+Shine or Go Crazy		3	24
+Shining Tears X Wind		3	13
+Shining Vale		3	8
+Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei		3	12
+Shinkon Gattai Godannar		3	11
+Shinkyoku Soukai Polyphonica		3	12
+Shinmai Renkinjutsushi no Tenpo Keiei		3	12
+Shinobi no Ittoki		3	12
+Shinrei Tantei Yakumo		3	13
+Shippados		3	12
+Shiranai Uchi ni Level Max ni Nattemashita		3	14
 Shogun		3	3
-Show Do Milhao		3	30
+Shooting Stars		3	16
+Shoujo Kakumei Utena		3	39
+Shoujo-tachi wa Kouya wo Mezasu		3	12
+Shoukoku no Altair		3	24
+Shoumetsu Toshi		3	12
+Shounen Maid		3	8
+Show By Rock		3	12
+Show Do Milhao		3	33
 Show da Virada		3	2
 Show do Elmo		3	29
-Shting Stars		3	16
-Shurato	1989	3	38
-Siberia		3	12
-Side Hustle: Uma Tarefa Complicada		3	46
-Side Quest		3	4
-Sierra Madre Passagem Proibida	2024	3	9
-Sigmund e os Monstros Marinhos		3	7
-Sila Prisioneira do Amor		3	39
-Silent Truth		3	6
-Silicon Valley		3	53
-Silly Sundays		3	78
-Silo	2023	3	30
-Silêncio		3	6
-Silêncio na Floresta		3	6
-Simba O Rei Leao		3	52
-Simon Cowell O Proximo Sucesso		3	6
-Simplemente Maria		3	127
-Simplesmente Alicia		3	19
-Sin City Tow		3	10
-Sinais de um Psicopata	2020	0	9
-Single Drunk Female		3	20
-Single Parents		3	6
-Sinhá Moça		3	183
-Sinistro - Gaddar		3	16
-Sintonia	2019	3	32
-Siren		3	36
-Siren: A Lenda das Sereias	2018	3	12
-Sissi		3	12
-Sitiados Mexico		3	8
-Six		3	18
-Sket Dance		3	77
-Skip Beat		3	25
-Skip and Loafer		3	12
-Sky Rojo	2021	3	24
-Sky in Your Heart		3	8
-SkyMed	2022	3	35
-Slasher	2016	3	24
-Sleepers O Crime Nunca Dorme		3	6
-Slip		3	7
-Slow Horses	2022	3	30
-Small Axe		3	5
-Smallville As Aventuras do Superboy	2001	3	216
-Smartless: Na Estrada		3	6
-Smiley		3	8
-Smiling Friends		3	27
-Smother		3	6
-Sneakerheads		3	6
-Sneaky Pete		3	30
-Snoopy Vai Acampar		3	13
-Snoopy e sua turma		3	12
-Snowdrop		3	16
-Snowfall		3	60
-So Eu e Ela		3	7
-So a Terra Permanece	2024	3	6
-So para Membros Palm Beach		3	8
-Sob Nova Direcao		3	125
-Sob O Mar		3	52
-Sob Pressao Plantao COVID		3	2
-Sob Pressão		3	57
-Sob a Escuridao do Sol	2025	3	6
-Sob a Mesma Chuva - Ayni Yagmur Altinda		3	7
-Sobe Na Minha Moto		3	15
-Sobre Essa Pele		3	17
-Sobre Juventude		3	8
-Sobre Nós Dois		3	20
-Sobre Viver		3	6
-Sobrenatural	2005	3	27
-Sobrepostas		3	13
-Sobrevivencia Extrema		3	8
-Sobrevivendo a Amazonia		3	5
-Sobrevivendo a Jeffrey Epstein		3	4
-Sobrevivendo a Queda dos Black Hawks		3	3
-Sobrevivendo ao Paraiso		3	9
-Sobrevivendo as Tentacoes		3	14
-Sobrevivendo em Grande Estilo		3	24
-Sobrevivente Primitivo Os Andes		3	6
-Sobrevivente Primitivo com Hazen Audel		4	26
-Sobreviventes	2023	4	16
-Sobreviventes Na Selva		4	6
-Sobreviventes do Gelo		4	19
-Sobrevivi por Sorte		4	14
-Sobrevoando		4	8
-Sociedade da Virtude		4	8
-Sociedade da Virtude A Serie		4	10
-Sociedade do Cansaço		4	10
-Soco no Estômago		4	4
-Socorro Imediato		4	15
-Sol de Verao		4	8
-Sol do Mestre		4	17
-Solar Opposites		4	63
-Solo Camping for Two		4	24
-Solo Leveling	2024	4	51
-Solos		4	7
-Solte o Ar Bem Devagar		4	12
-Solteiros Nunca Mais		4	20
-Soltos	2020	4	41
-Som na Faixa		4	6
-Sombra e Ossos	2021	4	16
-Sombras da Guerra		4	8
-Sombras do Passado		4	88
-Sombras do Passado - Kimse Bilmez		4	27
-Somebody		4	8
-Somebody Feed Phil		4	49
-Somente VIP		4	10
-Something In The Rain		4	16
-Somewhere Between		4	6
-Somos os Que Tiveram Sorte	2024	4	9
-Son of Zorn		4	13
-Son of a Donkey		4	6
-Sonata de Inverno		4	20
-Song of the Bandits		4	9
-Sonhadores		4	8
-Sonhe Alto		4	16
-Sonho Meu		4	197
-Sonhos de Concreto		4	10
-Sonhos de Liberdade		4	40
-Sonhos e Vida - Hayaller ve Hayatlar - Dreams and Lives		4	26
-Sonic Boom		4	104
-Sonic Prime	2022	4	23
-Sonic X	2003	4	77
-Sono Bisque Doll wa Koi wo Suru	2022	4	12
-Sons do Planeta		4	12
-Sophie: Assassinato em West Cork		4	3
-Sorriso Real	2023	4	16
-Sorry Not Sorry		4	12
-Sortilégio		4	88
-Sou Corinthians		4	4
-Sou Luna		4	220
-Sou Luna: De Volta à Pista		4	12
-Sou de Virgem	2023	4	7
-Sou um Assassino Em Liberdade		4	3
-Soul Eater	2008	4	51
-Soulmates		4	6
-Soundtrack #1		4	4
-South Park		4	18
-South Side		4	28
-Southland Cidade do Crime		4	43
-Sovrevivendo Em Grande Estilo		4	8
-Soy Georgina		4	18
-Sozinhos Habilidades de Sobrevivencia		4	12
-Space Force		4	17
-Space Ghost de Costa a Costa		4	89
-Space Nova: Uma Família Espacial		4	26
-Spare Me Your Mercy		4	8
-SparkShorts		4	11
-Spartacus	None	4	43
-Spartacus House of Ashur	2025	4	10
-Spartacus: House of Ashur	2025	0	10
-Special	None	4	546
-Special Labor Inspector Mr Jo		4	32
-Speed Racer: Nova Geração		4	26
-Spider Noir	2026	4	8
-Spider-Noir	2026	0	8
-Spidey e Seus Amigos Espetaculares		4	103
-Spinners Vivendo no Limite	2023	4	8
-Spinning Out		4	10
-Spirit Cavalgando Livre		4	45
-Splinter Cell Deathwatch		4	8
-Spooksville		4	22
-Spy City		4	6
-Spy in the Wild		4	4
-Spy x Family	2022	4	74
-Squid Girl		4	24
-Sr Rainha		4	20
-Sr. Crocodilo		4	13
-Sr. Errado	2020	5	43
-Sr. Meia-Noite: Cuidado com os Monstros		5	13
-Sra. Wilson		5	3
-Sri Lanka Selvagem	2015	0	3
-St Denis Medical	2024	5	36
-Stags		5	6
-Stan Against Evil		5	23
-Stand My Heroes Piece of Truth		5	12
-Star Search		5	8
-Star Trek Academia da Frota Estelar	2026	5	10
-Star Trek: Discovery	2017	5	63
-Star Trek: Enterprise	2001	0	95
-Star Trek: Prodigy	2021	5	38
-Star Trek: Strange New Worlds	2022	5	40
-Star Wars Andor	2022	5	24
-Star Wars Historias do Imperio		5	6
-Star Wars Historias do Submundo	2025	5	6
-Star Wars Maul Lorde das Sombras	2026	5	10
-Star Wars Skeleton Crew	2024	5	8
-Star Wars: Aventuras dos Jovens Jedi		5	43
-Star Wars: Ewoks		5	26
-Star Wars: Histórias dos Jedi		5	6
-Star Wars: Rebels		5	72
-Star Wars: The Bad Batch	2021	5	47
-Star Wars: Visions		5	27
-Star Wars: Visions Apresenta — A Nona Jedi	2026	5	8
-Star and Sky Star in My Mind		5	8
-Star vs. As Forças do Mal		5	77
-Stargate Atlantis	None	5	99
-Stargate Infinity		5	26
-Stargate SG-1		5	213
-Stargate SG1	1997	0	214
-Stargirl		5	39
-Starstruck		5	18
-StartUp		5	30
-Stay With Me		5	24
-Steel Angel Kurumi		5	24
-Steins;Gate		5	25
-Stella Models	2020	5	10
-Sterling Point	2026	5	8
-Steven Universo		5	178
-Stick	2025	5	13
-Stories Da Mansao		5	16
-StoryBots: Hora da Resposta		5	22
-Strange Angel		5	10
-Stranger		5	32
-Stranger Things	2016	5	84
-Stranger Things Historias de 85	2026	0	18
-Stranger Things: Histórias de 85	2026	5	10
-Street Fighter II Victory	1995	5	29
-Street Food: América Latina		5	6
-Street Food: Ásia		5	9
-Strike		5	23
-Strike Back		5	70
-Strip Law		5	10
-Strong Girl Nam soon		5	16
-StuGo Acampamento de Verao		5	20
-Stuart Não Consegue Salvar o Universo	2026	5	10
-Stuart Não Consegue Salvar o Universo Podcast	2026	0	10
-Stumptown: Investigadora Sem Limite		5	18
-Su Ji and U Ri		5	128
-Sua Mãe Te Conhece		5	7
-Sua alma não ouve - Ruhun Duymaz		5	18
-Suave Veneno		5	209
-Subir o mais alto possível		5	126
-Submarinos Perdidos da Segunda Guerra		5	3
-Submersa: O Desaparecimento de Kim Wall		5	2
-Submersos		5	5
-Submundo - Yeralti -Underground		5	16
-Submundo das Gangues		5	12
-Submundo do Crime		5	6
-Subteran		5	6
-Suburra Eterna		5	8
-Suburra: Sangue em Roma		5	24
-Succession	2018	5	39
-Sugar	2024	5	16
-Sugar Rush		5	20
-Sugar Rush: The Baking Point		5	11
-Suite Magnolia		5	8
-Suits		5	134
-Suits - Homens de Terno	2011	5	16
-Suits LA	2025	5	13
-Sule Sua Historia - Sule Senin Hikayen		5	10
-Sullivan e Massadas: Retratos e Canções		5	2
-Sullivan's Crossing: Um Lugar para Recomeçar		5	1
-Sullivans Crossing Um Lugar para Recomecar	2023	5	1
-Sultão do meu Coração - Kalbimin Sultanı		5	11
-Summer Memories		5	40
-Sunderland Até Morrer		5	17
-Sunny	2024	5	10
-Sunny entre Estrelas		5	47
-Sunset Milha de Ouro		5	68
-Supa Strikas Rookie Season		5	12
-Supacell	2024	5	6
-Super Amigos		5	16
-Super Campeoes		5	46
-Super Campeoes Road To	2002	6	12
-Super Campeões: Rumo ao Sonho	2001	6	12
-Super Choque		6	52
-Super Crooks		6	13
-Super Cubo		6	12
-Super Dragon Ball Heroes		6	45
-Super Fofos Aventura na Cidade		6	13
-Super Heroinas da Equipe 4		6	16
-Super Mega Cakes		6	6
-Super Natural		6	6
-Super Onze: Ares no Tenbin	2018	6	26
-Super Pumped: A Guerra Pela Uber		6	7
-Super Street Garage		6	13
-Super Subbu		6	7
-Superbook	None	6	39
-Supercães		6	9
-Superfície	2022	6	16
-Supergatinhos		6	26
-Supergirl	2015	6	126
-Supermachos		6	6
-Superman e Lois	2021	6	53
-Superman: A Série Animada		6	54
-Supermansion		6	46
-Supermax		6	12
-Supermães		6	83
-Supernatural	2005	6	328
-Supernatural Academy		6	16
-Supernormal		6	6
-Supernova		6	4
-Supersex	2024	6	7
-Superstar		6	6
-Superstore: Uma Loja de Inconveniências		6	113
-Supervalentes		6	6
-Superzoo		6	12
-Suplicium		6	6
-SurrealEstate	2021	6	30
-Survivor's Remorse		6	36
-Suspicion		6	8
-Sutura	2024	6	1
-Sutura A Vida por um Fio		6	1
-Suzhal Vortice		6	8
-Swagger	2021	6	18
-Sweet Home	2020	6	26
-Sweet Tooth	2021	6	24
-Sweetpea		6	6
-Swimming with Sharks		6	6
-Sword Art Online	2012	6	49
-SÓ VOCÊ: Uma Coleção de Curtas de Animação		6	8
-Série Saúde		6	9
-Sítio do Picapau Amarelo		6	388
-Só Se For Por Amor		6	6
+Show do Milhao PicPay		3	3
+Showtrial		3	4
+Shrill		4	31
+Shrink		4	8
+Shting Stars		4	16
+Shuffle!		4	24
+Shurato	1989	4	38
+Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?		4	12
+Siberia		4	12
+Sid o Cientista		4	37
+Side Hustle: Uma Tarefa Complicada		4	46
+Side Quest		4	4
+Sideswiped		4	8
+Sierra Madre Passagem Proibida	2024	4	9
+Siesta Key		4	54
+Siga seu coração		4	40
+Sigmund e os Monstros Marinhos		4	7
+Signal		4	16
+Signed, Sealed, Delivered		4	10
+Sigo te Amando - Te Sigo Amando		4	97
+Sila: Prisioneira do Amor		4	716
+Silence		4	6
+Silencio Do Coracao		4	1
+Silent Truth		4	9
+Silicon Valley		4	53
+Silk		4	15
+Silly Sundays		4	78
+Silo	2023	4	30
+Silver Spoon		4	11
+SilverHawks		4	62
+Silvio Santos Vale Mais Que Dinheiro		4	8
+Silvio Santos: Vale Mais do que Dinheiro!		4	8
+Silêncio		4	6
+Silêncio Mortal		4	30
+Silêncio na Floresta		4	6
+Simba O Rei Leao		4	52
+Simon		4	52
+Simon Cowell O Proximo Sucesso		4	6
+Simplemente Maria		4	127
+Simplesmente Alicia		4	19
+Sin City Tow		4	10
+Sin Nanatsu no Taizai		4	96
+Sinais de um Psicopata		4	103
+Sindrome do Amor		4	12
+Single Drunk Female		4	20
+Single Parents		4	38
+Sinhá Moça		4	185
+Sinistro - Gaddar		4	16
+Sintonia	2019	4	32
+Sipahi		4	8
+Sir Ranulph Fiennes: Volta à Natureza		4	3
+Siren		4	36
+Siren: A Lenda das Sereias	2018	4	30
+Sirens		4	6
+Sisi		4	6
+Sissi		4	12
+Sister Boniface Mysteries		4	10
+Sitiados		4	8
+Sitiados: México		4	8
+Skeleton Knight in Another World		4	12
+Sket Dance		4	77
+Skins - Juventude à flor da pele		4	61
+Skins UK		4	6
+Skip Beat		4	25
+Skip and Loafer		4	12
+Skip to Loafer		4	12
+Sky Rojo	2021	4	24
+Sky in Your Heart		4	8
+SkyMed	2022	4	35
+Slam Dunk		4	101
+Slasher	2016	4	32
+Slayers		4	26
+Sleepers O Crime Nunca Dorme		4	6
+Slime Taoshite 300-nen, Shiranai Uchi Ni Level Max Ni Nattemashita		4	14
+Slip		4	7
+Slow Horses	2022	4	37
+Slugterrâneo		4	65
+Sløborn		4	13
+Small Axe		4	10
+Smallville As Aventuras do Superboy	2001	4	432
+Smartless: Na Estrada		4	6
+Smile After Tears		4	12
+Smile Precure		4	48
+Smiley		4	8
+Smiling Friends		4	27
+Smoking Behind the Supermarket with You		4	12
+Smother		4	22
+Snack Basue		4	13
+Snack vs Chef		4	8
+Snatch: Um Novo Golpe		4	20
+Sneakerheads		4	6
+Sneaky Pete		4	30
+Sniper Americano: A Última Rodada		4	1
+Snoopy E Sua Turma		4	48
+Snoopy Vai Acampar		4	13
+Snoopy no Espaço: À Procura de Vida		4	12
+Snow White with the Red Hair		4	12
+Snowdrop		4	16
+Snowfall		4	60
+So Acontece na Florida		4	6
+So Eu e Ela		4	7
+So Help Me Todd		4	30
+So Ra No Wo To		4	12
+So a Terra Permanece	2024	4	12
+So para Membros Palm Beach		4	8
+Sob Medida		4	78
+Sob Nova Direcao		4	125
+Sob O Mar		4	52
+Sob Pressao Plantao Covid		4	2
+Sob Pressão		4	57
+Sob a Escuridao do Sol	2025	4	6
+Sob a Mesma Chuva - Ayni Yagmur Altinda		4	7
+Sob o Cair da Neve		4	48
+Sobe Na Minha Moto		4	15
+Sobre Essa Pele		4	22
+Sobre Juventude		4	8
+Sobre Nós Dois		4	20
+Sobre Viver		4	6
+Sobrenatural	2005	4	328
+Sobrepostas		4	13
+Sobreviva, se Puder		4	7
+Sobrevivendo a Amazonia		4	5
+Sobrevivendo a Escobar		5	60
+Sobrevivendo a Escobar, Alias JJ		5	60
+Sobrevivendo a Jeffrey Epstein		5	4
+Sobrevivendo ao Paraiso		5	9
+Sobrevivendo em Grande Estilo		5	24
+Sobrevivendo à Queda dos Black Hawks		5	3
+Sobrevivendo às Tentações		5	14
+Sobrevivente Primitivo Os Andes		5	6
+Sobrevivente Primitivo com Hazen Audel		5	32
+Sobreviventes	2023	5	8
+Sobreviventes Na Selva		5	8
+Sobreviventes do Gelo		5	19
+Sobrevivi a R. Kelly		5	6
+Sobrevivi por Sorte		5	14
+Sobrevivência Extrema		5	8
+Sobrevoando		5	8
+Sociedade da Virtude		5	8
+Sociedade da Virtude A Serie		5	10
+Sociedade do Cansaço		5	10
+Soco no Estômago		5	4
+Socorro		5	8
+Socorro Imediato		5	15
+Sol Nascente		5	175
+Sol Yanım - Meu Lado Esquerdo		5	40
+Sol da Minha Vida		5	117
+Sol de Inverno		5	17
+Sol de Verão		5	8
+Sol do Mestre		5	17
+Sola		5	13
+Solar Opposites		5	71
+Solo Camping for Two		5	36
+Solo Leveling	2024	5	64
+Solos		5	7
+Solte o Ar Bem Devagar		5	12
+Solteira Astuta		5	16
+Solteiros Nunca Mais		5	20
+Solteiros, Ilhados e Desesperados		5	53
+Soltos	2020	5	41
+Som na Faixa		5	6
+Sombra do Ceu		5	26
+Sombra e Ossos	2021	5	16
+Sombras da Guerra		5	16
+Sombras do Passado		5	115
+Sombras do Passado - Kimse Bilmez		5	88
+Somebody		5	8
+Somebody Feed Phil		5	49
+Somente VIP		5	10
+Somente por Amor		5	72
+Something In The Rain		5	26
+Somewhere Between		5	8
+Somos as Lalaloopsy		5	13
+Somos os Que Tiveram Sorte	2024	5	13
+Son of Zorn		5	13
+Son of a Donkey		5	6
+Sonata de Inverno		5	20
+Soneto de Sangue		5	7
+Song of the Bandits		5	9
+Sonhadores		5	8
+Sonhando Com Um Maldito Conto De Fadas		5	10
+Sonhe Alto		5	16
+Sonho - Ruya - Dream		5	10
+Sonho Dos Anos Dourados		5	42
+Sonho Meu		5	197
+Sonho de Esref - Esref Ruya		5	47
+Sonhos de Concreto		5	24
+Sonhos de Liberdade		5	77
+Sonhos e Caramelos		5	123
+Sonhos e Vida - Hayaller ve Hayatlar - Dreams and Lives		5	26
+Sonic Boom		5	104
+Sonic Prime	2022	5	23
+Sonic X	2003	5	78
+Sono Bisque Doll wa Koi wo Suru	2022	5	12
+Sons Of Anarchy		5	92
+Sons do Planeta		5	24
+Sophie: Assassinato em West Cork		5	3
+Sora no Method		5	13
+Sora to Umi no Aida		5	5
+Soredemo Machi Wa Mawatteiru		5	12
+Sorgu		5	18
+Sorria Para o seu Destino - Gülümse Kaderine		5	5
+Sorriso Maroto DVDs & Shows		5	37
+Sorriso Real	2023	5	16
+Sorry Not Sorry		5	12
+Sortilégio		5	88
+Sos Mi Vida		5	22
+Sou Corinthians		5	4
+Sou Luna		5	220
+Sou Luna: De Volta à Pista		5	12
+Sou Nada Mais que um Mortal		5	39
+Sou Seu Fa. A Festa Continua		5	8
+Sou de Virgem	2023	5	7
+Sou um Assassino		5	10
+Sou um Assassino: Em Liberdade		5	3
+Soukyuu no Fafner: Dead Aggressor		5	26
+Soul Eater	2008	5	51
+Soul Eater Not!		5	12
+Soulmates		5	6
+Sound! Euphonium		5	40
+Soundtrack #1		5	4
+Soundtrack #2		5	12
+Soushin Shoujo Matoi		5	12
+South Park		5	351
+South Side		5	28
+South of Hell - Caçadores de Demônios		5	8
+Southland Cidade do Crime		5	43
+Sovrevivendo Em Grande Estilo		5	8
+Soy Georgina		5	18
+Sozinhos Habilidades de Sobrevivencia		5	12
+Space Battleship Yamato 2199		5	26
+Space Dandy		5	13
+Space Force		5	17
+Space Ghost		5	20
+Space Ghost & Dino Boy		5	20
+Space Ghost de Costa a Costa		5	89
+Space Nova: Uma Família Espacial		5	26
+Spare Me Your Mercy		5	8
+SparkShorts		5	11
+Spartacus	None	5	43
+Spartacus: Gods of the Arena		5	6
+Spartacus: House of Ashur	2025	5	10
+Spawn - O Soldado Do Inferno		6	18
+Special	None	6	16
+Special A		6	24
+Special Labor Inspector Mr Jo		6	32
+Spectros		6	7
+Speed Grapher		6	24
+Speed Racer: Nova Geração		6	26
+Spice and Wolf: MERCHANT MEETS THE WISE WOLF		6	25
+Spicy Girl		6	24
+Spider Noir	2026	6	8
+Spider-Noir (Versão Preto e Branco)		6	8
+Spider-Noir version black and white		6	8
+Spides		6	8
+Spidey e Seus Amigos Espetaculares		6	103
+Spin Out		6	10
+Spinners Vivendo no Limite	2023	6	8
+Spinning Out		6	10
+Spiral Suiri No Kizuna		6	25
+Spirit - Cavalgando Livre: Academia de Equitação		6	10
+Spirit - Cavalgando Livre: Pequenas Grandes Aventuras		6	10
+Spirit Cavalgando Livre		6	52
+Spirit Realm - Ling Yu		6	10
+Splinter Cell: Deathwatch		6	8
+Splitting Up Together		6	8
+Spooksville		6	22
+Springfloden		6	11
+Spy City		6	12
+Spy in the Wild		6	4
+Spy x Family	2022	6	100
+Spyders		6	20
+Squatters Get The F Out Of My House		6	12
+Squid Girl		6	24
+Sr Mercedes		6	30
+Sr e Sra Assassinato		6	8
+Sr. & Sra. Smith		6	8
+Sr. Crocodilo		6	13
+Sr. Errado	2020	6	43
+Sr. Meia-Noite: Cuidado com os Monstros		6	13
+Sr. Oliveira, Seja Meu Obediente		6	39
+Sr. Rainha		6	20
+Sr. e Sra. Smith		6	8
+Sr. Ávila		6	43
+Sra Fazilet e suas Filhas - Fazilet Hanım ve Kızları		6	50
+Sra Wilson		6	3
+Sra. Incógnita		6	24
+Sra. Playmen		6	7
+Sri Lanka Selvagem	2015	6	3
+St Denis Medical	2024	6	36
+Staged		6	19
+Stags		6	6
+Stalkeando Samantha: 13 Anos de Terror		6	6
+Stalker: Obsessão		6	37
+Stan Against Evil		6	23
+Stan,o Cão Blogueiro		6	54
+Stand My Heroes Piece of Truth		6	12
+Stanley Tucci: Searching for Italy		6	6
+Star		6	47
+Star Detective Precure!		6	35
+Star Driver: Kagayaki No Takuto		6	24
+Star Search		6	9
+Star Trek A Nova Geracao		6	177
+Star Trek Academia da Frota Estelar	2026	6	10
+Star Trek: Discovery	2017	6	65
+Star Trek: Lower Decks		6	37
+Star Trek: Picard		6	30
+Star Trek: Prodigy	2021	6	38
+Star Trek: Strange New Worlds	2022	6	40
+Star Wars A Guerra dos Clones		6	133
+Star Wars Andor	2022	6	24
+Star Wars Historias do Imperio		6	6
+Star Wars Historias do Submundo	2025	6	6
+Star Wars Maul Lorde das Sombras	2026	6	20
+Star Wars O Lote Estragado		6	16
+Star Wars Skeleton Crew	2024	6	8
+Star Wars: A Resistência		6	39
+Star Wars: Aventuras dos Jovens Jedi		6	43
+Star Wars: Droids		6	13
+Star Wars: Ewoks		6	26
+Star Wars: Guerras Clônicas		6	2
+Star Wars: Histórias dos Jedi		6	6
+Star Wars: Rebels		6	72
+Star Wars: The Bad Batch	2021	6	48
+Star Wars: The Clone Wars		6	133
+Star Wars: Visions		6	27
+Star Wars: Visions Apresenta — A Nona Jedi	2026	6	8
+Star and Sky Star in My Mind		6	8
+Star vs. As Forças do Mal		6	93
+Star-Crossed		6	13
+Stardust Telepath		6	12
+Stargate Atlantis	None	6	100
+Stargate Infinity		6	26
+Stargate SG-1		6	213
+Stargate Universe		6	40
+Stargirl		6	65
+Starstruck		6	18
+StartUp		6	30
+Stay With Me		6	24
+Steel Angel Kurumi		6	24
+Steel Ball Run - JoJo's Bizarre Adventure		6	3
+Steins;Gate		6	25
+Stella Blomkvist Investigacao Sem Limites		6	12
+Stella Models		6	10
+Stephen		6	3
+Sterling Point	2026	6	8
+Steven Universo		6	178
+Steven Universo: Futuro		6	20
+Sthlm Rekviem		6	10
+Stick	2025	6	13
+Stop!! Hibari-kun!		6	35
+Stories Da Mansao		6	16
+StoryBots: Hora da Resposta		6	22
+Strange Angel		6	10
+Stranger		6	73
+Stranger Things	2016	6	84
+Stranger Things: Histórias de 85	2026	6	18
+Strangers		6	8
+Strawberry Panic		6	12
+Street Fighter II Victory	1995	6	29
+Street Food: América Latina		6	9
+Street Food: EUA		6	6
+Street Food: Ásia		7	9
+Strike		7	23
+Strike Back		7	155
+Strike Witches		7	12
+Strike the Blood		7	24
+Striking Out		7	8
+Strip Law		7	10
+Strobe Edge		7	22
+Strong Girl Nam soon		7	16
+Strong Will		7	49
+StuGo Acampamento de Verao		7	20
+Stuart Não Consegue Salvar o Universo	2026	7	10
+Studio Apartment, Good Lighting, Angel Included		7	12
+Study Group		7	10
+Stumptown: Investigadora Sem Limite		7	36
+Style Wars		7	4
+Styx		7	8
+Su Ji and U Ri		7	128
+Sua Alma Não Escuta		7	23
+Sua Esposa e a Canoa		7	4
+Sua Mãe Te Conhece		7	8
+Sua Parte do Trato		7	8
+Sua alma não ouve - Ruhun Duymaz		7	18
+Suave Veneno		7	209
+Subir o mais alto possível		7	126
+Submarinos Perdidos da Segunda Guerra		7	3
+Submersa: O Desaparecimento de Kim Wall		7	2
+Submersos		7	7
+Submissão		7	20
+Submundo - Yeralti -Underground		7	16
+Submundo das Gangues		7	12
+Submundo do Crime		7	12
+Substituindo o Chef Chico		7	8
+Substituta Acidental para Alfa		7	1
+Substituta Errada para o Bilionário Implacável		7	1
+Subteran		7	6
+Suburgatório		7	45
+Suburra Eterna		7	8
+Suburra: Sangue em Roma		7	24
+Succession	2018	7	39
+Sucessão: A Bela e o Bilionário		7	2
+Sue Perkins: Tudo Dentro da Lei		7	3
+Sugar	2024	7	16
+Sugar Apple Fairy Tale		7	18
+Sugar Rush		7	20
+Sugar Rush- The Baking Point		7	12
+Sugar Rush: Confeitando Contra o Tempo		7	12
+Sugar Sugar Rune		7	49
+Suisei no Gargantia		7	15
+Suite Precure♪		7	48
+Suits - Homens de Terno	2011	7	150
+Suits LA	2025	7	24
+Sule Sua Historia - Sule Senin Hikayen		7	10
+Sullivan e Massadas: Retratos e Canções		7	2
+Sullivan's Crossing: Um Lugar para Recomeçar		7	31
+Sullivans Crossing Um Lugar para Recomecar	2023	7	30
+Sultão do meu Coração		7	7
+Sultão do meu Coração - Kalbimin Sultanı		7	11
+Summer Guys		7	10
+Summer Job		7	17
+Summer Memories		7	40
+Summertime		7	20
+Sumomomo Momomo: Chijou Saikyou no Yome		7	24
+Sunderland Até Morrer		7	17
+Sunny	2024	7	10
+Sunny entre Estrelas		7	47
+Sunnyside		7	11
+Sunset - Milha de Ouro		7	90
+Sunset in Winter		7	12
+Supa Strikas		7	12
+Supa Strikas Rookie Season		7	12
+Supacell	2024	7	6
+Super Amigos		7	16
+Super Campeoes Road To	2002	7	52
+Super Campeões		7	46
+Super Campeões: Rumo ao Sonho	2001	7	52
+Super Choque		7	53
+Super Crooks		7	13
+Super Cubo		7	24
+Super Dragon Ball Heroes		7	45
+Super Drags		7	5
+Super Família		7	26
+Super Fofos Aventura na Cidade		7	13
+Super Gatinhos: Miauvilhosamente Recarregados		7	20
+Super Junior: The Last Man Standing		7	4
+Super Lovers		7	10
+Super Mega Cakes		7	6
+Super Natural		7	6
+Super Onze		7	78
+Super Onze: Ares no Tenbin	2018	7	26
+Super Patrulhas		7	40
+Super Pumped: A Guerra Pela Uber		7	7
+Super Street Garage		7	13
+Super Subbu		7	7
+Super Vicky		7	42
+Super Wings		7	40
+Super-Heroinas da Equipe 4		7	16
+SuperMansion		7	46
+Superbook	None	7	39
+Supercães		7	9
+Superdetetives		7	20
+Superfície	2022	7	16
+Supergatinhos		7	26
+Supergirl	2015	7	126
+Supermachos		7	6
+Superman e Lois	2021	7	53
+Superman: A Série Animada		7	54
+Supermax		7	12
+Supermães		7	83
+Supernatural		7	656
+Supernatural / Sobrenatural		7	323
+Supernatural Academy		7	16
+Supernatural: The Animation		7	22
+Supernormal		7	6
+Supernova		7	4
+Superpoderosos: A História da DC		7	3
+Supersex	2024	7	7
+Superstar		7	6
+Superstition		7	12
+Superstore: Uma Loja De Inconveniências		7	113
+Supervalentes		8	6
+Superzoo		8	12
+Suplicium		8	6
+SurrealEstate	2021	8	32
+Survivor's Remorse		8	36
+Suspect		8	16
+Suspicion		8	8
+Sustalı Ceylan		8	6
+Sutura	2024	8	8
+Sutura A Vida por um Fio		8	8
+Suzhal Vortice		8	8
+Suzuka		8	24
+Suzumiya Haruhi-chan no Yuuutsu		8	28
+Suíte Magnólia		8	8
+Swagger	2021	8	18
+Swat Kats: O Esquadrão Radical		8	26
+Swedish Dicks		8	20
+Sweet Home	2020	8	32
+Sweet Tooth	2021	8	24
+Sweetpea		8	12
+Swimming with Sharks		8	10
+Sword Art Online	2012	8	99
+Sword of the Demon Hunter: Kijin Gentosho		8	21
+Synanon Reabilitacao e Culto		8	4
+SÓ VOCÊ: Uma Coleção de Curtas de Animação		8	8
+Série Saúde		8	9
+Sétimo Céu		8	74
+Sítio do Pica-Pau Amarelo		8	46
+Sítio do Picapau Amarelo		8	758
+Só Se For Por Amor		8	6
+se Puder		8	7
+só você se conectou a mim		8	12
+Śleboda		8	1
+Şahane Damat		8	8

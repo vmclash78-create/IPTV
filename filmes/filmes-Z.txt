@@ -1,94 +1,112 @@
-Z	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49029.mp4
-Z-O-M-B-I-E-S	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20966.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96323.mp4
-Z-O-M-B-I-E-S 2	dub=https://embedplayer2.xyz/cdn/hls/5901cd58a8ba3c6105c683e37e452610/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34844.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96314.mp4
-Z-O-M-B-I-E-S 3	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59391.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34854.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96333.mp4
-Z: A Cidade Perdida (2017)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1876562.mp4
-ZOMBIES 4: A Era dos Vampiros	dub=https://embedplayer2.xyz/cdn/hls/fdbc67a9060c5563e6f7576889882c9c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59396.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20985.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96356.mp4
-ZUMBI-Tona com Os Vizinhos Green (2022)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1861942.mp4
-Zabumba, Orquestra Popular do Nordeste	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1864448.mp4
-Zack e Cody: O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20964.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96319.mp4
-Zara Larsson - Up Close	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289952.mp4
-Zarna Garg: One in a Billion	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96326.mp4
-Zathura: Uma Aventura Espacial	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36743.mp4
-Zaytoun	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33272.mp4
-Zaytoun (2012)	dub=http://45.172.0.116:8085/hd6/2012/Zaytoun.2012/master.m3u8
-Ze Colmeia - O Filme	dub=http://45.172.0.116:8085/hd1/2010/Ze.Colmeia.O.Filme.2010/master.m3u8
-Ze Colmeia : O Filme (2010)	dub=https://embedplayer2.xyz/cdn/hls/d47fcfe6396d4ac77a4ca431806f4214/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37464.mp4
-Zebra Girl	leg=http://aponteiecair.lat:80/movie/65689527/29278256/1886441.mp4
+Z	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96308.mp4
+Z-O-M-B-I-E-S	dub=18:483980,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765508.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768640.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20966.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96323.mp4
+Z-O-M-B-I-E-S 2	dub=18:599521,https://embedplayer2.xyz/cdn/hls/5901cd58a8ba3c6105c683e37e452610/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753231.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765537.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34844.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96314.mp4
+Z-O-M-B-I-E-S 3	dub=18:809107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59391.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765303.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34854.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96333.mp4
+Z: A Cidade Perdida	dub=18:314095
+ZOMBIES 4: A Era dos Vampiros	dub=https://embedplayer2.xyz/cdn/hls/fdbc67a9060c5563e6f7576889882c9c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59396.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767428.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756022.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20985.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96356.mp4
+ZUMBI-Tona com Os Vizinhos Green	dub=18:1030192
+Zabumba, Orquestra Popular do Nordeste	dub=18:558070,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759941.mp4
+Zack e Cody: O Filme	dub=18:60803,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754202.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20964.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96319.mp4
+Zambezia	dub=18:133931
+Zapped (2014)	dub=18:278774
+Zara Larsson Up Close	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751055.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289952.mp4
+Zarafa (2012)	dub=18:94196,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11820.mp4
+Zarna Garg: One in a Billion	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754514.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96326.mp4
+Zathura: Uma Aventura Espacial	dub=18:6795,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766003.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36743.mp4
+Zatoichi	dub=18:246
+Zaytoun (2012)	dub=18:121640,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33272.mp4
+Ze Colmeia : O Filme (2010)	dub=18:41515,https://embedplayer2.xyz/cdn/hls/d47fcfe6396d4ac77a4ca431806f4214/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757797.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37464.mp4
+Zebra Girl	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96329.mp4
+Zeca Pagodinho - Ao Vivo	dub=18:158563
+Zeitgeist Addendum	dub=18:13180
+Zeitgeist: O Filme	dub=18:13016
 Zelador de Condomínio	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314447.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314607.mp4
-Zerando a Vida (2016)	dub=https://embedplayer2.xyz/cdn/hls/937a9fc6f1c4c74e39f871ed22fd1833/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20971.mp4
-Zero	dub=https://embedplayer2.xyz/cdn/hls/0a7dea15a7109fb3c65f3d188a0b9e54/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97557.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97600.mp4
-Zero (2025)	dub=http://45.172.0.116:8085/hd8/2025/Zero.2025.1080p/master.m3u8
-Zero Contact (2022)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1881604.mp4
+Zenon A Corrida para a Lua (2004)	dub=18:34765
+Zenon A Garota do Seculo 21 (1999)	dub=18:34766
+Zenon A Zequencia (2001)	dub=18:29742
+Zerando a Vida (2016)	dub=18:389053,https://embedplayer2.xyz/cdn/hls/937a9fc6f1c4c74e39f871ed22fd1833/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768022.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20971.mp4
+Zero (2025)	dub=18:891644,https://embedplayer2.xyz/cdn/hls/0a7dea15a7109fb3c65f3d188a0b9e54/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751770.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97557.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97600.mp4
+Zero Avenue	dub=18:990266
+Zero Contact	dub=18:872170
+Zero D.C.	dub=18:1408207
 Zero e Uns	dub=https://embedplayer2.xyz/cdn/hls/2f219098885d0ec34029f6731d2f3446/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8239.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96338.mp4
-Zeros e Uns	dub=http://45.172.0.116:8085/hd4/2021/Zeros.e.Uns.2021/master.m3u8
-Zeros e Uns (2021)	dub=https://embedplayer2.xyz/cdn/hls/2f219098885d0ec34029f6731d2f3446/master.txt
-Zeroville	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20975.mp4
-Zeroville: A Vida em Hollywood	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20975.mp4
-Zeus & Roxanne	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43407.mp4
+Zeros e Uns (2021)	dub=18:762433,https://embedplayer2.xyz/cdn/hls/2f219098885d0ec34029f6731d2f3446/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761267.mp4
+Zeroville	dub=18:291867,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20975.mp4
+Zeroville: A Vida em Hollywood	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768615.mp4
+Zeus & Roxanne	dub=18:42424,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753627.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43407.mp4
+Zhang: O Bárbaro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764674.mp4
 Zico	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301343.mp4
-Zico: O Samurai de Quintino	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301342.mp4
-Zinder (2021)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1867487.mp4
-Ziraldo - Uma obra que pede socorro (2021)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1865298.mp4
-Ziraldo: Era Uma Vez Um Menino	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310051.mp4
-Zoando na TV (1999)	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6387409.mp4
-Zodiaco (2007)	dub=https://embedplayer2.xyz/cdn/hls/3b55f97c9388f8fb88cd56d0a0a7dcb6/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46475.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96362.mp4
-Zoe	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34850.mp4
-Zoe e Raven - Os doze presentes de Natal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40492.mp4
-Zoe e Tempestade	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96340.mp4
-Zoe, Minha Amiga Morta	dub=http://45.172.0.116:8085/hd1/2025/Zoe.Minha.Amiga.Morta.2025/master.m3u8,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16775.mp4
-Zoey 102 O Casamento (2023)	dub=http://45.172.0.116:8085/hd1/2023/zoey-102-o-casamento-2023-720/master.m3u8,http://45.172.0.116:8085/hd8/2023/Zoey.102.O.Casamento.2023.1080p/master.m3u8
-Zoey 102: O Casamento	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43412.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96344.mp4
-Zog e os Doutores Voadores	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11822.mp4
-Zohan - Um Agente Bom de Corte	dub=http://45.172.0.116:8085/hd1/2008/Zohan.O.Agente.Bom.de.Corte.2008/master.m3u8
-Zohan - Um Agente Bom de Corte (2008)	dub=https://embedplayer2.xyz/cdn/hls/c0eea519b85fd34cbf414252a4e00739/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20980.mp4
-Zola	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20990.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96350.mp4
+Zico: O Samurai de Quintino (2026)	dub=18:1479498,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750966.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301342.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301421.mp4
+Zinder	dub=18:814931
+Zion	dub=18:507389
+Ziraldo - Uma obra que pede socorro	dub=18:834075
+Ziraldo Era Uma Vez Um Menino	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310051.mp4
+Zoando na TV	dub=18:129679
+Zodiaco (2007)	dub=18:1949,https://embedplayer2.xyz/cdn/hls/3b55f97c9388f8fb88cd56d0a0a7dcb6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752723.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46475.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755861.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96362.mp4
+Zoe	dub=18:458005,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765568.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34850.mp4
+Zoe e Raven: Os Doze Presentes de Natal (2018)	dub=18:567145,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764923.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40492.mp4
+Zoe e Raven: Valentines Day (2019)	dub=18:579450
+Zoe e Tempestade	dub=18:894246,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762903.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96340.mp4
+Zoe, Minha Amiga Morta	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768207.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755857.mp4
+Zoey 102 O Casamento (2023)	dub=18:1073170,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753360.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43412.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96344.mp4
+Zog e os Doutores Voadores	dub=18:779611,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11822.mp4
+Zohan - Um Agente Bom de Corte (2008)	dub=18:10661,https://embedplayer2.xyz/cdn/hls/c0eea519b85fd34cbf414252a4e00739/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768171.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20980.mp4
+Zola	dub=18:539565,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766850.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20990.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96350.mp4
+Zolang we nog kunnen	dub=18:1108700
+Zoltan - O Cão Vampiro de Drácula	dub=18:26703
+Zombie Land Saga: Paraíso da Galáxia dos Sonhos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750869.mp4
+Zombie Massacre	dub=18:153509
+Zombie Repellent	dub=18:1405712
 Zombieland Double Tap	dub=https://embedplayer2.xyz/cdn/hls/14e63599c887edcc122574db816aac8a/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96352.mp4
+Zombieland Saga Movie Yumeginga Paradise	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308731.mp4
 Zombies 2 (2020)	dub=https://embedplayer2.xyz/cdn/hls/5901cd58a8ba3c6105c683e37e452610/master.txt
-Zombies 4 (2025)	dub=https://embedplayer2.xyz/cdn/hls/fdbc67a9060c5563e6f7576889882c9c/master.txt
-Zombio 2: Chimarrão Zombies	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53379.mp4
-Zona De Quarentena	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1883459.mp4
+Zombies 4 (2025)	dub=18:1243341,https://embedplayer2.xyz/cdn/hls/fdbc67a9060c5563e6f7576889882c9c/master.txt
+Zombies of the Third Reich	dub=18:1301310,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764517.mp4
+Zombio 2 Chimarrão Zombies	dub=18:279969,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53379.mp4
+Zona 414	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765784.mp4
+Zona De Desastre - Um Vulcão em Nova York	dub=18:47318	leg=18:47318.mp4?lang=leg
+Zona De Quarentena	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752237.mp4
 Zona De Tubarões	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8265.mp4
-Zona Desmilitarizada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8256.mp4
-Zona Desmilitarizada (2018)	dub=http://45.172.0.116:8085/hd4/2018/Zona.Desmilitarizada.2018/master.m3u8
-Zona Fria	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8260.mp4
-Zona Fria (2017)	dub=http://45.172.0.116:8085/hd6/2017/01/Zona.Fria.2017/master.m3u8
-Zona Verde (2010)	dub=https://embedplayer2.xyz/cdn/hls/a2fc6b8c4104bb9bcbabf364b2e262db/master.txt
-Zona Z	dub=http://45.172.0.116:8085/hd6/2024/Zona.Z.2024.1080p/master.m3u8,https://embedplayer2.xyz/cdn/hls/f9f3d274472ffc428eee4f10f0facff6/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53781.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96379.mp4
-Zona Zero (2025)	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6250050.mp4
-Zona Zero (2026)	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6250050.mp4,https://embedplayer2.xyz/cdn/hls/0a7dea15a7109fb3c65f3d188a0b9e54/master.txt
-Zona de Caça	dub=http://45.172.0.116:8085/hd8/2025/Zona.De.Caca.2025.1080p/master.m3u8,https://embedplayer2.xyz/cdn/hls/02d6e6f8c32e4a4345833f9f1f345725/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96650.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96805.mp4
-Zona de Combate	dub=http://45.172.0.116:8085/hd4/2021/Zona.de.Combate.2021/master.m3u8
-Zona de Combate (2021)	dub=https://embedplayer2.xyz/cdn/hls/529baaf2f862dfdbaf3137d1a11a8f2e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256172.mp4
-Zona de Confronto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8248.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96365.mp4
-Zona de Exclusão	dub=https://embedplayer2.xyz/cdn/hls/69e3fa61e10b08fbbbc377797576d640/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33280.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96369.mp4
-Zona de Interesse	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37224.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40523.mp4
-Zona de Perigo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8252.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310043.mp4
-Zona de Risco	dub=https://embedplayer2.xyz/cdn/hls/8dcb0edf2f539a09d8d8756dbae9b19f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59416.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37229.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96373.mp4
-Zona de Risco (2024)	dub=https://embedplayer2.xyz/cdn/hls/8dcb0edf2f539a09d8d8756dbae9b19f/master.txt
-Zona de Silêncio	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33277.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96376.mp4
-Zone 414	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36747.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96382.mp4
-Zone 414 (2021)	dub=http://45.172.0.116:8085/hd4/2021/Zone.414.2021/master.m3u8
-Zoo - Uma Amizade Maior que a Vida	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1889083.mp4
-Zoolander	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20983.mp4
-Zoolander 2	dub=http://45.172.0.116:8085/hd6/2016/zoolander-2-2016/master.m3u8
-Zoolander: Super Modelo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11829.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96404.mp4
-Zoom (2015)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20995.mp4
-Zoom: Academia de Super-Heróis	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21000.mp4
-Zoopocalipse - Uma Aventura Animal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1330.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96388.mp4
-Zoopocalipse Uma Aventura Animal (2025)	dub=http://45.172.0.116:8085/hd6/2025/Zoopocalipse.Uma.Aventura.Animal.2025/master.m3u8
-Zootopia 2	dub=http://45.172.0.116:8085/hd8/2025/Zootopia-2-2025/master.m3u8
-Zootopia 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/59a70b9747b11631351a53c880dbff6e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99877.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99817.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96799.mp4
-Zootopia Essa Cidade e o Bicho	dub=http://45.172.0.116:8085/hd4/2016/Zootopia.Essa.Cidade.E.o.Bicho.2016/master.m3u8
-Zootopia: Essa Cidade e o Bicho (2016)	dub=https://embedplayer2.xyz/cdn/hls/4f53cef1f16758544a82482b07e73466/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11833.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99860.mp4
-Zoya (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33283.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301286.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96399.mp4
-Zoya - A Guerreira (2021)	dub=http://45.172.0.116:8085/hd4/2022/ZOYA%20.A.Guerreira.2021/master.m3u8
-Zumbilandia (2009)	dub=https://embedplayer2.xyz/cdn/hls/372d434d88df5f0d95f2bdde036ee378/master.txt,https://embedplayer2.xyz/cdn/hls/14e63599c887edcc122574db816aac8a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52739.mp4
-Zumbilandia: Atire Duas Vezes (2019)	dub=https://embedplayer2.xyz/cdn/hls/14e63599c887edcc122574db816aac8a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59401.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59421.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52744.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308661.mp4
-Zumbilenio: O Parque dos Monstros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11847.mp4
-Zumbilênio: O Parque dos Monstros (2017)	dub=http://45.172.0.116:8085/hd4/2017/Zumbilenio.O.Parque.dos.Monstros.2017/master.m3u8
-Zumbis e Robôs	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96423.mp4
-Zuzu Angel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39638.mp4
-Zé	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253359.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254857.mp4
-Zé do Periquito (1961)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16557.mp4
-Zélia - Memórias de Amor	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1864200.mp4
+Zona Desmilitarizada (2018)	dub=18:557972,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760776.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8256.mp4
+Zona Fria (2017)	dub=18:437463,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761461.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8260.mp4
+Zona Mortal	dub=18:436274,18:4954	leg=18:436274.mp4?lang=leg
+Zona Verde (2010)	dub=18:22972,https://embedplayer2.xyz/cdn/hls/a2fc6b8c4104bb9bcbabf364b2e262db/master.txt
+Zona Z	dub=18:1301650,https://embedplayer2.xyz/cdn/hls/f9f3d274472ffc428eee4f10f0facff6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751682.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53781.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96379.mp4
+Zona Zero (2026)	dub=https://embedplayer2.xyz/cdn/hls/0a7dea15a7109fb3c65f3d188a0b9e54/master.txt	leg=18:1375646.mp4?lang=leg
+Zona de Caça	dub=https://embedplayer2.xyz/cdn/hls/02d6e6f8c32e4a4345833f9f1f345725/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768673.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96650.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96805.mp4
+Zona de Caça / Hunting Grounds	dub=18:1305717
+Zona de Combate (2021)	dub=18:775996,https://embedplayer2.xyz/cdn/hls/529baaf2f862dfdbaf3137d1a11a8f2e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256172.mp4
+Zona de Confronto	dub=18:711017,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761299.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8248.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96365.mp4
+Zona de Exclusão	dub=18:1121956,https://embedplayer2.xyz/cdn/hls/69e3fa61e10b08fbbbc377797576d640/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755326.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763948.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33280.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96369.mp4
+Zona de Interesse	dub=18:467244,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59405.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756821.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757556.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37224.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40523.mp4
+Zona de Perigo	dub=18:11074,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760536.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764892.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8252.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310043.mp4
+Zona de Risco	dub=https://embedplayer2.xyz/cdn/hls/8dcb0edf2f539a09d8d8756dbae9b19f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59416.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752385.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757523.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37229.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755981.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96373.mp4
+Zona de Risco (2021)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251450.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301285.mp4
+Zona de Risco (2024)	dub=18:969492,18:808969,https://embedplayer2.xyz/cdn/hls/8dcb0edf2f539a09d8d8756dbae9b19f/master.txt
+Zona de Silêncio	dub=18:543749,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754246.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762628.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33277.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96376.mp4
+Zona Árida	dub=18:643762
+Zone 414 (2021)	dub=18:675319,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36747.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96382.mp4
+Zoo - Uma Amizade Maior que a Vida	dub=18:472553,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11825.mp4
+Zoolander	dub=18:9398,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767396.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20983.mp4
+Zoolander 2	dub=18:329833
+Zoolander: Super Modelo	dub=18:458777,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756928.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11829.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96404.mp4
+Zoom (2015)	dub=18:351065,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766171.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768585.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20995.mp4
+Zoom: Academia de Super-Heróis	dub=18:14113,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768372.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21000.mp4
+Zoombies	dub=18:385320
+Zoombies 2	dub=18:592485
+Zoopocalipse Uma Aventura Animal (2025)	dub=18:1205229,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768677.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1330.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96388.mp4
+Zootopia 2 (2025)	dub=18:1084242,https://embedplayer2.xyz/cdn/hls/59a70b9747b11631351a53c880dbff6e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99877.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769006.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99817.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96799.mp4
+Zootopia: Essa Cidade e o Bicho (2016)	dub=18:269149,https://embedplayer2.xyz/cdn/hls/4f53cef1f16758544a82482b07e73466/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766177.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11833.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99860.mp4
+Zoya (2024)	dub=18:1378884,18:713115,18:1205430,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756581.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758093.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764622.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33283.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301286.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96399.mp4
+Zulu	dub=18:185567
+Zumbilandia (2009)	dub=18:19908,https://embedplayer2.xyz/cdn/hls/372d434d88df5f0d95f2bdde036ee378/master.txt,https://embedplayer2.xyz/cdn/hls/14e63599c887edcc122574db816aac8a/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758711.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52739.mp4
+Zumbilandia: Atire Duas Vezes (2019)	dub=18:338967,https://embedplayer2.xyz/cdn/hls/14e63599c887edcc122574db816aac8a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59401.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59421.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759144.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52744.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308661.mp4
+Zumbilênio: O Parque dos Monstros (2017)	dub=18:454549,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766278.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11847.mp4
+Zumbiologia: Aproveite Essa Noite	dub=18:455650
+Zumbis e Robôs	dub=18:185471,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756062.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760264.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8269.mp4	leg=18:185471.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96423.mp4
+Zumbis na Neve 2	dub=18:241842
+Zuzu Angel	dub=18:73169,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39638.mp4
+Zuzubalândia - O Filme	dub=18:1321476,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11836.mp4
+Zé	dub=18:1136607,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769069.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253359.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254857.mp4
+Zé do Periquito	dub=18:232534
+Zélia - Memórias de Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760143.mp4

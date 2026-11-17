@@ -49,8 +49,6 @@ final class ProxyServer: @unchecked Sendable {
     /// parar de oferecer ao player o que já se sabe que trava. Foi o que
     /// segurava os canais adultos do megatv, que sorteiam host por segmento.
     private var hostsRuins: [String: Date] = [:]
-    /// Reduzido de 300s → 60s: CDNs recuperam rápido; penalizar 5 min causava
-    /// telas congeladas desnecessariamente quando o host voltava em segundos.
     private static let penalidadeDeHost: TimeInterval = 60
 
     /// A última playlist que a fonte em uso entregou boa, e quando.
@@ -66,10 +64,9 @@ final class ProxyServer: @unchecked Sendable {
     private var ultimaBoa: [UUID: (corpo: Payload, quando: Date, fonte: Int)] = [:]
     /// Recusas seguidas da fonte em uso, por canal. Zera a cada lista boa.
     private var recusasSeguidas: [UUID: Int] = [:]
-    /// Reduzido de 3 → 2: troca de fonte mais rápida reduz tempo de tela preta.
+    /// Quantas recusas seguidas antes de aceitar que a fonte caiu mesmo.
     private static let recusasParaTrocar = 2
-    /// Reduzido de 20s → 10s: playlist guardada expira mais rápido, forçando
-    /// troca de fonte antes que o buffer do player esgote (~12–24s).
+    /// Por quanto tempo a lista guardada ainda serve no lugar de uma troca.
     private static let validadeDaGuardada: TimeInterval = 10
 
     func variantIndex(_ channel: Channel) -> Int {

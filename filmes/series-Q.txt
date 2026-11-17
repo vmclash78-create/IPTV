@@ -1,70 +1,125 @@
-Q: No Olho da Tempestade		0	6
+Q: No Olho Da Tempestade		0	6
 QUINTUPLICOU		0	6
 Quadra de Ouro		0	6
 Quadro Negro - Kara Tahta		0	20
+Quality Assurance in Another World		0	13
 Quando As Luzes Se Apagam		0	6
-Quando Chama o Coração	2014	0	90
+Quando Chama o Coração	2014	0	150
+Quando Eu Encontrar a Lua		0	20
+Quando Fazemos História		0	8
 Quando Me Apaixono		0	182
-Quando Ninguem Nos Ve		0	8
+Quando Meus Gêmeos Encontraram Seu Pai		0	1
 Quando Ninguem Ve	2024	0	8
-Quando Se Tem Mais Uma Chance		0	32
+Quando Ninguém Nos Vê		0	9
+Quando Se Tem Mais Uma Chance		0	64
+Quando Toca o Sino		0	106
+Quando Um Homem se Apaixona		0	20
+Quando Voce For Eu		0	26
+Quando Voo em Sua Direção		0	24
+Quando as Cigarras Choram		0	25
+Quando o Amor Chega Tarde		0	1
+Quando o Amor Se Foi		0	1
+Quando o Amor se Torna em Vão		0	1
+Quando o Rei Perde - Kral Kaybederse		0	30
 Quando o Telefone Toca		0	12
 Quando os Tubarões Atacam 360°		0	6
 Quantico	2015	0	57
-Quanto Vale Esse Doce		0	10
+Quanto Mais Vida, Melhor!		0	161
+Quanto Vale Esse Doce?		0	10
 Quantum Leap: Contratempos	2022	0	31
-Quarentoes em Crise		0	6
-Quarterback		0	8
+Quarentões em Crise		0	14
+Quarterback		0	22
+Quarteto Fantástico		0	26
+Quarto 2806: A Acusação		0	4
+Quarto de Casal - Çift Kişilik Oda		0	8
 Quase Feliz		0	18
+Quase Nunca		0	26
+Quase uma Família		0	13
 Quatro Casamentos e um Funeral		0	10
-Quatro por Quatro		0	232
+Quatro Historias de Pecado		0	1
+Quatro Mãos, Duas Sonatas		0	12
+Quatro por Quatro		0	233
 Que Bicho te Mordeu?		0	12
-Que Chegue a Você: Kimi ni Todoke		0	12
+Que Chegue a Você: Kimi ni Todoke		0	44
 Que Cilada!		0	12
 Que Falta Voce Me Faz	2025	0	5
-Que Legal Scooby Doo		0	50
-Que Mundo e Esse?		0	45
+Que Historia E Essa Porchat		0	280
+Que Legal Scooby Doo		0	52
+Que Mundo e Esse		0	45
+Que Pobres Tao Ricos - Que Pobres Tan Ricos		0	167
 Que Rei Sou Eu		0	185
-Que Seja Doce		0	404
+Que Seja Doce		0	419
+Que a Deusa te Abençoe da Morte		0	13
 Que a Justiça Seja Feita		0	6
 Quebra Cabeca Criminal		0	16
 Quebra de Juramento		0	3
+Quebra-Cabeça Mortal		0	2
+Quebrando o Gelo		0	10
+Quebrando o acordo com o Bad Boy do Hóquei		0	1
 Queen Loretta		0	4
 Queen Sono		0	6
 Queen Stars Brasil		0	8
+Queen Sugar		0	84
+Queen of Darkness		0	24
 Queen of the Universe		0	6
+Queen's Blade		0	23
+Queendom		0	15
 Queenmaker		0	11
 Queens		0	13
-Queer Eye		0	65
+Queer Eye		0	92
 Queer Eye: Brasil		0	6
-Queer as Folk		0	8
-Quem Ama Cuida		0	101
+Queer as Folk		0	90
+Queer for Fear: The History of Queer Horror		0	4
+Quem Ama Cuida		0	147
+Quem Casa Quer Casa		0	10
 Quem Contratou o Assassino		0	6
+Quem E Que Manda		0	24
 Quem Era Ela		0	4
+Quem Está a Teu Lado		0	20
 Quem Financiou Hitler?		0	4
-Quem Matou Malcolm X		0	6
+Quem Matou Malcolm X?		0	6
+Quem Matou María Marta?		0	4
+Quem Matou Nossa Filha		0	1
+Quem Matou Otto Mueller?		0	1
 Quem Matou Sara?		0	25
-Quem Somos Nós? Edição de Colecionador		0	25
+Quem Segura a Minha Família?		0	102
+Quem Somos Nós Edição de Colecionador		0	25
+Quem Somos Nós? Uma nova Evolução		0	25
 Quem Vai Comprar Minha Casa?		0	6
 Quem Ve Casa	2024	0	7
+Quem Viu o Pavão Dançando na Floresta?		0	10
+Quem e Sakamoto		0	13
 Quem e o assassino	2024	0	6
-Quem e voce Alaska		0	8
 Quem é Erin Carter?		0	7
+Quem é Você, Alaska?		0	8
 Quem é a Loba?		0	12
 Quer Brincar de Gracie Darling	2025	0	6
+Queremos o Divórcio!		0	9
+Queria que Você Fosse Minha Esposa		0	1
+Querida Enemiga		0	98
 Querida Mae - Canım Annem		0	24
+Querida Mamãe		0	5
 Querida Sa chan		0	12
+Querida, por favor, não case com ele		0	1
 Querido Edward		0	10
 Querido Hongrang		0	11
 Querido Inimigo		0	24
+Querido Marido, Apague Meu Número		0	1
 Querido Passado - Sevgili Geçmiş		0	8
+Querido X Que Nao Me Ama		0	10
+Querido, apenas diga sim!		0	1
+Querido, por favor, volte para casa		0	1
+Querido, você merecia		0	1
 Queridos Amigos		0	25
+Queridos X		0	24
 Quero Ter Um Milhao de Amigos		0	13
 Questao de Tempo		0	16
-Quilos Mortais		0	142
+Quilos Mortais		0	161
 Quilos Mortais Adolescentes		0	5
 Quilos Mortais Brasil	2024	0	12
 Quilos Mortais Italia		0	20
-Quilos Mortais Mexico	2024	0	7
-Quilos Mortais: Como Eles Estão Agora?		0	47
-Quiz		0	3
+Quilos Mortais Mexico	2024	1	7
+Quilos Mortais: Como Eles Estão Agora?		1	47
+Quite the Girl		1	58
+Quiz		1	3
+Quiz: Quem Quer Ser um Milionário?		1	3

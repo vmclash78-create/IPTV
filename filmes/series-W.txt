@@ -1,71 +1,155 @@
 W - Dois Mundos	2016	0	16
-WANDANCE		0	12
-WITCH WATCH		0	25
-WWE Surreal		0	5
+W: Wish		0	13
+WANDANCE		0	22
+WITCH WATCH		0	48
+WONDER EGG PRIORITY		0	13
+WUKONG		0	12
+WWE: Surreal		0	5
 WWII Corrida para a Vitoria		0	6
+WWW.WAGNARIA!!		0	13
+Waco		0	6
 Waco The Aftermath		0	6
 Waffles + Mochi		0	10
+Wake Up, Girl Zoo!		0	10
+Wake Up, Girls!		0	24
 Wakefield		0	8
+Wakfu		0	65
 Walker	2021	0	69
+Walker Independence		0	26
+Wallander		0	12
 WandaVision	2021	0	9
 Wandee Goodday		0	12
 Wandinha	2022	0	16
+Wangan Midnight		0	26
+Wanneng Lian Ai Zahuo Dian		0	7
 Wanted		0	18
+War of the Worlds: A Arte da Guerra		0	24
 Warped!		0	13
-Warrior	2019	0	30
+Warrior	2019	0	36
 Warrior Nun		0	18
+Warrior: A Batalha de Todos os Dias		0	12
 Washington		0	3
 Washington Black	2025	0	8
-Watashi no Yuri wa Oshigoto desu!		0	12
+Wassup Man GO!		0	10
+Watari-kun's ****** Is about to Collapse		0	11
+Watashi no Ashinaga Ojisan		0	40
+Watashi no Yuri wa Oshigoto desu		0	12
 Watchmen		0	9
-Way Back Love		0	4
-Wayne		0	10
-Wayward Pines	2015	0	19
+Watson		0	26
+Way Back Love		0	6
+Wayne		0	20
+Wayne Shorter: Zero Gravity		0	3
+Wayward Pines	2015	0	20
 We Are		0	16
-We Are Who We Are		0	8
+We Are Who We Are		0	16
+We Call It Imagineering		0	8
+We Hunt Together		0	10
+We Never Learn: BOKUBEN		0	12
 WeCrashed	2022	0	8
-Weak Hero Class 1		0	7
-Welcome to Demon School Iruma kun		0	87
+Weak Hero Class 1		0	15
+Wedding Peach		0	50
+Weeds		0	102
+Weird City		0	6
+Welcome to Demon School! Iruma-kun		0	89
 Welcome to Flatch	2022	0	27
+Welcome to Japan, Ms. Elf!		0	11
 Welcome to Utmark		0	8
 Welcome to the Family		0	8
+Welcome to the Family: The Murder of Dan Markel		0	8
+Welcome to the Outcast's Restaurant!		0	11
+Wellington Paranormal		0	15
 Wellmania		0	8
-West Wing: Nos Bastidores do Poder		0	132
-Westworld	2016	0	36
+Welt am Draht		0	2
+Wentworth		0	45
+Wesley Safadão DVDs & Shows		0	34
+West Wing: Nos Bastidores do Poder		0	240
+Westworld		0	36
+Wet Hot American Summer: First Day of Camp		0	8
 What If...?	2021	0	26
+What Ships I've Burnt		0	7
+What Will You Do,Ieyasu? (2023)		0	1
 When My Love Blooms		0	16
 When Sharks Attack... and Why		0	8
 When The Camellia Blooms		0	20
 When a Snail Falls in Love		0	20
+When the Dust Settles		0	6
+When the Streetlights Go On		0	10
+Where the Sun Rises		0	6
+Whether or Not		0	10
 Whindersson Verso	2024	0	8
+Whiskey Cavalier: Jogo de Espioes		0	13
+Whiskey on the Rocks		0	6
+White Album		0	13
 White Collar	2009	0	12
+White Gold		0	10
+White House Farm		0	6
 White Lines		0	10
+White Wall		0	8
+Whited Nighttime		0	25
+Whitstable Pearl		0	18
 Who Is She		0	12
 Who Killed Jeffrey Epstein		0	3
+Who Saw the Peacock Dance in the Jungle		0	10
+Why Didn't They Ask Evans?		0	3
+Why Does Nobody Remember Me in This World?		0	12
 Why R U?		0	17
-Wild Cards	2024	0	21
+Why the hell are you here,Teacher!?		0	12
+Wild Cards	2024	0	42
+Wild Isles		0	5
 Wild Wild Country		0	6
 Wilfred		0	49
-Will Trent: Agente Especial	2023	0	59
+Will Trent		0	59
+Will Trent: Agente Especial	2023	0	98
+Will You Be My Manager		0	6
+Will e Grace		0	226
+William Tyrrell, O Menino Que Desapareceu		0	4
 Willow		0	8
-Wind Breaker	2024	0	37
+Wind Breaker	2024	0	61
+Wingman		0	10
+Winx Club The Magic is Back		0	13
+Wireless		0	10
+Wise Man&#039;s Grandchild		0	12
 Wish You Sua Melodia Em Meu Coracao		0	8
-Wistoria Wand and Sword		0	23
+Wishing Upon the Shooting Stars		0	12
+Wisting		0	50
+Wistoria Wand and Sword		0	24
 Witch Hat Atelier		0	13
+Witch Hunter Robin		0	26
 With You Our Love Will Make It Through		0	12
-Without Sin Sem Pecado		0	4
-Wolf	2011	0	100
-Wolf Creek		0	6
-Wolf Pack	2023	0	8
-Wolfblood		0	62
-Wolfblood Familia Lobo	2012	0	62
-WondLa A Trilogia		0	20
-World Dice Tour		0	14
-Wreck		0	6
-Wrecked	2016	0	30
-Wu Assassins		0	10
-Wu-Tang: An American Saga	2019	0	30
-Wyatt Earp and the Cowboy War		0	2
-Wylde Pak		0	13
-Wynonna Earp		0	37
-Wynonna Earp: A Maldicao dos Renascidos	2016	0	17
+With You and the Rain		0	11
+Without Sin		0	4
+Without Sin Sem Pecado		1	4
+Witness Number 3		1	4
+Wizard Barristers: Benmashi Cecil		1	12
+Wo De Ni Tian Shen Qi		1	14
+Woke		1	8
+Wolf	2011	1	12
+Wolf Creek		1	10
+Wolf Hall		1	6
+Wolf Pack		1	8
+Wolfblood		1	62
+Wolfblood Familia Lobo	2012	1	62
+Wolverine e os X-Men		1	26
+Woman of 9 9 Billion		1	64
+WondLa A Trilogia		1	20
+Wonderful Precure!		1	26
+Wonka: O Bilhete Dourado		1	9
+Woori The Virgin		1	9
+Work Later Drink Now		1	12
+Work in Progress		1	8
+Workin Moms		1	26
+Working		1	13
+World Dice Tour		1	14
+World Trigger		1	169
+World of Immortals		1	26
+Wotakoi: O Amor é Difícil para Otaku		1	11
+Wreck		1	6
+Wrecked	2016	1	30
+Wu Assassins		1	10
+Wu Thai Drama 2026	2026	1	1
+Wu-Tang: An American Saga	2019	1	30
+Wyatt Earp and the Cowboy War		1	6
+Wylde Pak		1	13
+Wynonna Earp		1	49
+Wynonna Earp: A Maldicao dos Renascidos	2016	1	39
+wtFOCK		1	52

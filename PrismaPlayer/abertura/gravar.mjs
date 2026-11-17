@@ -16,7 +16,7 @@ ws.onmessage = e => { const m = JSON.parse(e.data); if (m.id && pend.has(m.id)) 
 const cdp = (method, params = {}) => new Promise(r => { const i = ++id; pend.set(i, r); ws.send(JSON.stringify({ id: i, method, params })); });
 await cdp('Page.enable');
 await cdp('Emulation.setDeviceMetricsOverride', { width: W, height: H, deviceScaleFactor: 1, mobile: false });
-await cdp('Page.navigate', { url: 'file://' + process.cwd() + '/abertura-prisma.html?gravar' });
+await cdp('Page.navigate', { url: 'file://' + process.cwd() + '/abertura-saimo.html?gravar' });
 await espera(2500);
 const DUR = 4.6, N = Math.round(DUR * FPS);
 for (let f = 0; f <= N; f++) {

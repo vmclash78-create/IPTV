@@ -1,13 +1,16 @@
-X Men		0	26
-X Men 97		0	19
+X-Men		0	152
+X-Men '97		0	19
+X-Men Serie Animada		0	76
 X-Men: Evolution		0	52
 XIII: The Series		0	26
 XMen 97	2024	0	19
-XMen A Serie Animada	1992	0	76
+Xand Avião DVDs & Shows		0	31
 Xena: A Princesa Guerreira		0	134
-Xica da Silva		0	187
+Xeque Mate		0	6
+Xiao Fang		0	18
+Xica da Silva		0	231
 Xilindró		0	75
-Xogum A Gloriosa Saga do Japao	2024	0	10
+Xogum A Gloriosa Saga do Japao	2024	0	13
 Xou da Xuxa - Edição Especial		0	17
 Xuxa, O Documentário	2023	0	5
-Xógum: A Gloriosa Saga do Japão	2024	0	10
+xxxHOLiC		0	24

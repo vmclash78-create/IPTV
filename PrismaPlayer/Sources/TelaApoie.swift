@@ -2,17 +2,17 @@ import SwiftUI
 import AppKit
 import CoreImage.CIFilterBuiltins
 
-/// Apoie o Prisma TV: por que doar, o botão que abre a página de doação, o QR
+/// Apoie o Saimo TV: por que doar, o botão que abre a página de doação, o QR
 /// code (para doar pelo celular) e o link escrito.
 struct TelaApoie: View {
-    static let link = URL(string: "https://github.com/vmclash78-create/IPTV")!
+    static let link = URL(string: "https://deflow.exchange/pt/qr/saimo-tv")!
     private let turquesa = Color(red: 0.31, green: 0.89, blue: 0.82)
 
     var body: some View {
         ScrollView {
             HStack(alignment: .center, spacing: 56) {
                 VStack(alignment: .leading, spacing: 14) {
-                    Label("Comunidade Prisma TV", systemImage: "heart.fill")
+                    Label("Comunidade Saimo TV", systemImage: "heart.fill")
                         .font(.system(size: 13, weight: .semibold))
                         .foregroundStyle(turquesa)
                         .padding(.horizontal, 12).padding(.vertical, 6)
@@ -21,7 +21,7 @@ struct TelaApoie: View {
                         .font(.system(size: 40, weight: .heavy))
                     Text("Sem anúncios, sem mensalidade e livre para todo mundo.")
                         .font(.system(size: 18)).foregroundStyle(.white.opacity(0.8))
-                    Text("Manter servidores rápidos, a transmissão e as atualizações de todo dia custa dinheiro todo mês. Quem puder ajudar com qualquer valor faz uma diferença enorme para o Prisma TV continuar no ar para todos.")
+                    Text("Manter servidores rápidos, a transmissão e as atualizações de todo dia custa dinheiro todo mês. Quem puder ajudar com qualquer valor faz uma diferença enorme para o Saimo TV continuar no ar para todos.")
                         .font(.system(size: 15)).foregroundStyle(.white.opacity(0.62))
                         .fixedSize(horizontal: false, vertical: true)
                     HStack(spacing: 12) {

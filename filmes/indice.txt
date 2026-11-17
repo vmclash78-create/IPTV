@@ -16,32 +16,32 @@ base: 14 http://vivlar.me:80/movie/497238/KK8Kdy/
 base: 15 http://vivlar.me:80/series/497238/KK8Kdy/
 base: 16 http://corruptx.org:80/movie/hfp5ejnrey/zq0u3kzads/
 base: 17 http://corruptx.org:80/series/hfp5ejnrey/zq0u3kzads/
-base: 18 http://desativado.invalid/hubby-dmca.com/movie/
-base: 19 http://desativado.invalid/hubby-dmca.com/series/
-#	447	116	11
-A	4532	1352	117
-B	1050	453	579
-C	1859	756	135
-D	1406	541	411
-E	1200	340	21
-F	806	297	17
-G	553	263	19
-H	568	283	39
-I	505	227	25
-J	533	151	45
-K	221	129	44
-L	760	291	82
-M	1876	754	327
-N	828	273	55
-O	4051	957	45
-P	1436	471	252
-Q	330	90	0
-R	838	356	94
-S	1704	725	195
-T	1530	745	551
-U	1229	197	2
-V	662	224	16
-W	172	98	20
-X	37	15	425
-Y	42	71	15
-Z	110	26	4
+base: 18 https://nixplay.lat/movie/saimo-vods/221097/
+base: 19 https://nixplay.lat/series/saimo-vods/221097/
+#	427	149	11
+A	4779	1679	117
+B	1126	578	579
+C	1941	941	135
+D	1441	680	411
+E	1196	425	21
+F	815	369	17
+G	562	352	19
+H	578	370	39
+I	525	305	25
+J	533	196	45
+K	238	222	44
+L	773	398	82
+M	1898	983	327
+N	862	349	55
+O	4018	1155	45
+P	1425	607	252
+Q	314	125	0
+R	831	458	94
+S	1714	994	195
+T	1577	993	551
+U	1230	246	2
+V	640	268	16
+W	175	155	20
+X	250	16	425
+Y	44	94	15
+Z	112	40	4
