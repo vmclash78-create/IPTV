@@ -121,9 +121,10 @@ def validate_hls(url: str, depth: int = 0) -> tuple[bool, str, str]:
         return validate_hls(resolve_url(final_url, variant), depth + 1)
 
     segment = next(
-        (line for line in lines if not line.startswith("#") and
-         urllib.parse.urlparse(line).scheme in ("http", "https") or
-         (not line.startswith("#") and not line.lower().startswith("data:"))),
+        (
+            line for line in lines
+            if not line.startswith("#") and not line.lower().startswith("data:")
+        ),
         None,
     )
     if not segment:
@@ -136,8 +137,12 @@ def validate_hls(url: str, depth: int = 0) -> tuple[bool, str, str]:
         return False, f"segment_error:{type(exc).__name__}", segment_url
     if segment_status < 200 or segment_status >= 300:
         return False, f"segment_http_{segment_status}", segment_final
-    if len(segment_data) < 188:
-        return False, "segment_too_small", segment_final
+    # TS segment: pacote MPEG-TS tem sync byte a cada 188 bytes.
+    # fMP4: fragmentos ISO-BMFF normalmente começam com tamanho + 'styp'/'moof'.
+    ts_ok = len(segment_data) >= 376 and segment_data[0] == 0x47 and segment_data[188] == 0x47
+    mp4_ok = len(segment_data) >= 8 and segment_data[4:8] in (b"styp", b"moof", b"ftyp")
+    if not (ts_ok or mp4_ok):
+        return False, "segment_format_unrecognized", segment_final
     return True, "hls_manifest_and_segment_ok", segment_final
 
 
@@ -252,13 +257,17 @@ def main() -> int:
     for item in all_entries:
         by_url.setdefault(item["url"], item)
     candidates = list(by_url.values())
+    if not candidates:
+        raise RuntimeError("Nenhuma playlist forneceu canais; mantendo a ultima lista auditada.")
     print(f"Auditoria de {len(candidates)} URLs unicas...")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
         results = list(pool.map(audit_one, candidates))
 
-    write_outputs(results, source_stats)
     approved = sum(1 for item in results if item["online"])
+    if approved == 0:
+        raise RuntimeError("Nenhuma transmissao passou na auditoria; lista anterior preservada.")
+    write_outputs(results, source_stats)
     print(f"Concluido: {approved}/{len(results)} aprovadas.")
     print(f"Arquivos: {OUT_M3U}, {OUT_JSON}, {OUT_MD}")
     # Nao falhar o workflow quando uma fonte externa estiver temporariamente fora.
