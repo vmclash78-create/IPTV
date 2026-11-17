@@ -169,6 +169,7 @@ Lendas do Amanha	2016	1	109
 Lenox Hill		1	17
 Leo Batista A Voz Marcante		1	4
 Leoa		1	20
+Leonardo		1	16
 Leonardo Da Vinci		1	16
 Leopard Skin		1	16
 Les Miserables		1	8
@@ -191,8 +192,8 @@ Leyla: Sombras do Passado		1	127
 Leylifer		1	111
 Leão: A Alcateia Marsh de Masai Mara		1	4
 Lia		1	11
-Liar, Liar		1	7
-Liar: Rede de Mentiras	2017	1	24
+Liar, Liar		1	25
+Liar: Rede de Mentiras	2017	1	3
 Liberdade		1	5
 Liberdade, Liberdade		1	67
 Libere a Maldicao do Taekwondo		1	8
@@ -237,7 +238,7 @@ Linha Direta		1	40
 Linha S		1	12
 Linha de Tensão		1	4
 Linha do Dever		1	65
-Linha do Tempo		1	22
+Linha do Tempo		2	22
 Link Click		2	63
 Lino: Meu Pai É Fera		2	39
 Lioness		2	24
@@ -357,7 +358,7 @@ Lu e Seus Amigos		2	26
 Lua Cheia - Dolunay		2	81
 Lua Negra		2	6
 Lua de Mel Mortal		2	4
-Lucas, a Aranha		2	26
+Lucas, a Aranha		3	26
 Lucifer	2016	3	93
 Lucky	2026	3	7
 Lucky Fred		3	52
@@ -374,7 +375,7 @@ Luluzinha		3	78
 Luna Nera		3	6
 Luna Park		3	6
 Lupi e Baduki		3	13
-Lupin	2021	3	25
+Lupin	2021	3	33
 Lupin III		3	23
 Lupin da Politica		3	4
 Lupin the 3rd Part 6		3	78

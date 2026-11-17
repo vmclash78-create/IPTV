@@ -95,7 +95,7 @@ Padrinhos Ltda. (2015)	dub=18:252838,http://dbonline.tech-cdn.top:80/movie/ke-vi
 Padrões de Morte	dub=18:1288246
 Pagando Bem, Que Mal Tem? (2008)	dub=18:10358
 Pagemaster - O Mestre da Fantasia	dub=18:15139,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765469.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34536.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753920.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85632.mp4
-Pague para Entrar, Reze para Sair	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758997.mp4
+Pague para Entrar, Reze para Sair	dub=18:13555,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758997.mp4
 Pai A Gente Só Tem Um 3	dub=18:975120,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768643.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18483.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85641.mp4
 Pai Mãe Irmã Irmão (2025)	dub=18:1159206,https://embedplayer2.xyz/cdn/hls/2517ad701e212f919a2ecb19eb59780e/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250097.mp4
 Pai Nosso? (2022)	dub=18:1106065,18:962697,https://embedplayer2.xyz/cdn/hls/3e3abb9d15e921b81416151f3e720576/master.txt
@@ -136,7 +136,7 @@ Paixão de Cristo - 55 Anos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q3
 Paixão de Ocasião	dub=18:9413,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753547.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42566.mp4
 Paixão de Outono	dub=18:544594
 Paixão e Acaso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308414.mp4
-Paixão e Razão	dub=18:466673,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30384.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85675.mp4
+Paixão e Razão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30384.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85675.mp4
 Paixão à Flor da Pele	dub=18:11208
 Paixões Entrelaçadas (2021)	dub=18:776586,https://embedplayer2.xyz/cdn/hls/1bad5c12393ad37e369fe8171eded934/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753830.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42576.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85697.mp4
 Paixões Paralelas	dub=18:19214,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762677.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30402.mp4
@@ -350,7 +350,7 @@ Patolino em Os Caça Fantasmas	dub=18:23521
 Patolino: A Ilha Fantástica	dub=18:80607
 Patos! (2023)	dub=18:940551,https://embedplayer2.xyz/cdn/hls/2482fb15ebbf516d9bfa9f289f0cf274/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58003.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754339.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10735.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85926.mp4
 Patriarca Criador: Meu Sangue Invencível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98502.mp4
-Patricia, Uma Paixão Escondida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763489.mp4
+Patricia, Uma Paixão Escondida	dub=18:690846,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763489.mp4
 Patrick	dub=18:17212
 Patrick, Aprendendo a Amar (2018)	dub=18:478159,https://embedplayer2.xyz/cdn/hls/8d9d10a84ae708739382b9b431540667/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754470.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767279.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18599.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85932.mp4
 Patrikas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765868.mp4
@@ -378,7 +378,7 @@ Paul McCartney: Got Back	dub=18:1219045
 Paul: O Alien Fugitivo	dub=18:39513,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768503.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18586.mp4
 Paula	dub=18:1079968,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751913.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97175.mp4
 Paulie - O Papagaio Bom de Papo	dub=18:36568
-Paulinho Gogó em Top Love - Só e Bem Acompanhado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85962.mp4
+Paulinho Gogó em Top Love - Só e Bem Acompanhado	dub=18:1283655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85962.mp4
 Paulo - O Apostolo de Cristo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40988.mp4
 Paulo de Tarso e A História do Cristianismo Primitivo	dub=18:636484,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757731.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40991.mp4
 Paulo, Apostolo de Cristo (2018)	dub=18:476968,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757590.mp4
@@ -474,7 +474,7 @@ Peppa Pig: The Easter Bunny	dub=18:744804
 Pequena Grande Vida (2017)	dub=18:301337,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767408.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18646.mp4
 Pequena Mamãe	dub=18:749004,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58038.mp4
 Pequena Miss Sunshine	dub=18:773,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290730.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290783.mp4
-Pequena Mulher	dub=18:14926,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18663.mp4
+Pequena Mulher	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18663.mp4
 Pequena Mãe	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764542.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30556.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86048.mp4
 Pequena Sibéria (2025)	dub=18:1362608,https://embedplayer2.xyz/cdn/hls/5be1f061912b2226754df2cb0b1bb058/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767507.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756594.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18658.mp4	leg=18:1362608.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86052.mp4
 Pequena Solange (2022)	dub=18:749107,https://embedplayer2.xyz/cdn/hls/36b3764febc6c922c592890b37cb4863/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754733.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86060.mp4
@@ -715,8 +715,8 @@ Pinoquio por Guillermo Del Toro (2022)	dub=18:555604,http://dbonline.tech-cdn.to
 Pintando Amor No Natal (2023)	dub=18:1180660,https://embedplayer2.xyz/cdn/hls/bbe7f84c67283f814de5357f1d6ca4b6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752167.mp4
 Pintou Sujeira	dub=18:20197
 Pinóquio (1940)	dub=18:10895,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37444.mp4
-Pinóquio (2022)	dub=18:532639,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34579.mp4
-Pinóquio (2026)	dub=18:1248723
+Pinóquio (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34579.mp4
+Pinóquio (2026)	dub=18:532639,18:1248723
 Pinóquio 3000	dub=18:23056,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10819.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86393.mp4
 Pinóquio por Guillermo Del Toro: Cinema Feito à Mão	dub=18:1059301
 Pinóquio, O Perverso	leg=18:30926.mp4?lang=leg
@@ -860,7 +860,7 @@ Pokémon o Filme: O Poder de Todos (2018)	dub=18:494407,https://embedplayer2.xyz
 Pokémon o Filme: Preto - Victini e Reshiram (2011)	dub=18:115223,https://embedplayer2.xyz/cdn/hls/f30844359ac9cc817352d74220a472c7/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766496.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10934.mp4
 Pokémon o Filme: Volcanion e a Maravilha Mecânica (2016)	dub=18:382190,https://embedplayer2.xyz/cdn/hls/aa9c373caa48b159c62066778f05d19e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766624.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10931.mp4
 Pokémon, o Filme: Mewtwo Contra-Ataca - Evolução	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760178.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766710.mp4
-Pokémon, o Filme: Segredos da Selva (2020)	dub=https://embedplayer2.xyz/cdn/hls/1822116a12d08898d9f280fc058e2c10/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766424.mp4
+Pokémon, o Filme: Segredos da Selva (2020)	dub=18:662708,https://embedplayer2.xyz/cdn/hls/1822116a12d08898d9f280fc058e2c10/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766424.mp4
 Pokémon: Arceus e a Jóia da Vida (2009)	dub=18:39057,https://embedplayer2.xyz/cdn/hls/fd1241970a46932322d1cef062a61884/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766683.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10872.mp4
 Pokémon: Giratina e o Cavaleiro do Céu (2008)	dub=18:47292,https://embedplayer2.xyz/cdn/hls/0c8cefd31de5d2c32a488a089b4c6d9d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766351.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10887.mp4
 Pokémon: Lucario e o Mistério de Mew	dub=18:34067,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766712.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10883.mp4
@@ -899,7 +899,7 @@ Poltergeist (2015)	dub=18:243688
 Poltergeist II: O Outro Lado	dub=18:11133,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759202.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51356.mp4
 Poltergeist III: O Capítulo Final	dub=18:10306,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759033.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51357.mp4
 Poltergeist: O Fenômeno (1982)	dub=18:609,https://embedplayer2.xyz/cdn/hls/a36ce2480bcd2e470774bd8b4859aae0/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758051.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758574.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51362.mp4
-Polêmico e Fugitivo	dub=18:1005342	leg=18:1005342.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86621.mp4
+Polêmico e Fugitivo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86621.mp4
 Polícia Federal: A Lei é Para Todos - Os Bastidores da Operação Lava Jato	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758292.mp4
 Pompeia (2014)	dub=18:1257455,https://embedplayer2.xyz/cdn/hls/2707f30eca0b78410569891bbbfd56ba/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760804.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6613.mp4
 Pompeia Sob As Nuvens	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250497.mp4
@@ -1144,7 +1144,7 @@ Primeiro Domingo	dub=18:14423
 Primeiro Encontro	dub=18:1312157
 Primeiro Impacto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6635.mp4
 Primeiro Mataram Meu Pai	dub=18:433247
-Primeiro as Damas (2026)	dub=18:1368881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256453.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751135.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256187.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256255.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750919.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256225.mp4
+Primeiro as Damas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256453.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751135.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256187.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256255.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750919.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256225.mp4
 Primeiro da Classe (2008)	dub=18:63193,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762630.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30794.mp4
 Primer	dub=18:14337
 Primetime	leg=18:1375441.mp4?lang=leg
@@ -1163,7 +1163,7 @@ Principe da Persia As Areias do Tempo (2010)	dub=18:9543,http://acaidopt.org:80/
 Prisao Estelar (2018)	dub=18:522964,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765228.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34607.mp4
 Prisao Infernal (2003)	dub=18:19277
 Priscilla	dub=18:1020006,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753401.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755368.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42694.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86906.mp4
-Priscilla, a Rainha do Deserto	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763809.mp4
+Priscilla, a Rainha do Deserto	dub=18:2759,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763809.mp4
 Prisioneira do Terror	dub=18:1264966,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751662.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99748.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751766.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99627.mp4
 Prisioneiras Nunca Mais	dub=18:364160
 Prisioneiro Espacial (2020)	dub=18:725273	leg=18:725273.mp4?lang=leg
@@ -1269,7 +1269,7 @@ Promising Young Woman	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Promocao do Seculo (2022)	dub=18:931925,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768004.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18895.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87042.mp4
 Pronta para Amar	dub=18:45156
 Pronto pra Corrida	dub=18:77576
-Pronto, Falei (2022)	dub=18:467181,https://embedplayer2.xyz/cdn/hls/6c600a017be7a02023862c153e5904b6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768629.mp4
+Pronto, Falei (2022)	dub=18:1046011,18:467181,https://embedplayer2.xyz/cdn/hls/6c600a017be7a02023862c153e5904b6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768629.mp4
 Propeller One Way Night Coach (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289527.mp4
 Proposta Indecente (1993)	dub=18:4478,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764178.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30818.mp4
 Propriedade (2023)	dub=18:1030571,https://embedplayer2.xyz/cdn/hls/565f4b79b3272e003de14a19ee7e9bfb/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758083.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766576.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39143.mp4
@@ -1409,7 +1409,7 @@ Pânico no Lago: Projeto Anaconda (2015)	dub=18:336560,http://acaidopt.org:80/mo
 Pânico no Shopping	dub=18:121829
 Pânico no metrô	dub=18:174733
 Pé Grande vs. Papai Noel	dub=18:550373
-PéPequeno	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10995.mp4
+PéPequeno	dub=18:676627,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10995.mp4
 Pégaso (2019)	dub=18:575219
 Pépi e Limão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312568.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312577.mp4
 Pérdida total	dub=18:1372586
@@ -1422,4 +1422,4 @@ Pódio para Todos	dub=18:726887	leg=18:726887.mp4?lang=leg
 Pókháló	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763100.mp4
 Póstumo (2014)	dub=18:296178,18:1324099,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768241.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18926.mp4
 Přání k narozeninám	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313382.mp4
-por Tyler Perry	dub=18:1213742,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58162.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30713.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86654.mp4
+por Tyler Perry	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58162.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30713.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86654.mp4

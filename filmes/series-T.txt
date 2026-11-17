@@ -113,12 +113,11 @@ Templarios		0	18
 Tempo Para Amar		0	4
 Tempo de Amar		0	148
 Tempo de Amar - Sevmek Zamani		0	5
-Temporada de Cerejas		0	21
-Temporada de Cerejas - Kiraz Mevsimi		0	59
+Temporada de Cerejas - Kiraz Mevsimi		0	80
 Temporada de Verão		0	8
 Tempos De Crise		0	12
 Tempos de Guerra		0	13
-Tempted		1	64
+Tempted		0	64
 Ten Days in the Valley		1	10
 TenPuru		1	14
 Tenchi Muyo!	1995	1	26
@@ -236,9 +235,9 @@ The Boy and I Who Will Break Up in 100 Days		1	6
 The Boys	2019	1	40
 The Boys Apresenta: Diabólicos		1	8
 The Brave		1	13
-The Brilliant Healer's New Life in the Shadows		1	12
+The Brilliant Healer's New Life in the Shadows		1	24
 The Brilliant Healers New Life in the Shadows		1	12
-The Café Terraceand Its Goddesses		2	8
+The Café Terraceand Its Goddesses		1	8
 The Cage		2	8
 The Calling	2022	2	16
 The Captain		2	7
@@ -311,7 +310,7 @@ The Early Spring		2	24
 The Eddy		2	16
 The Edge of Horizon		2	1
 The Elusive Samurai		2	12
-The Eminence in Shadow		2	52
+The Eminence in Shadow		2	20
 The End		2	18
 The End of the F***ing World		2	16
 The End of the Fing World		2	16
@@ -358,7 +357,7 @@ The Founder of Diabolism Q		2	30
 The Fox's Summer		2	88
 The Fragrant Flower Blooms With Dignity		2	23
 The Frontier Lord Begins with Zero Subjects		2	6
-The Fruit of Evolution: Before I Knew It, My Life Had It Made		3	12
+The Fruit of Evolution: Before I Knew It, My Life Had It Made		2	12
 The Future Diary		3	26
 The Game		3	24
 The Game Towards Zero		3	32
@@ -369,7 +368,7 @@ The Gifted		3	29
 The Gifted: Os Mutantes	2017	3	8
 The Girl from Plainville		3	14
 The Girlfriend Experience		3	37
-The Girls: Um Projeto de Khloé Kardashian		3	12
+The Girls: A Khloé Kardashian Project		3	12
 The Gloaming		3	8
 The Globe: Batalha de Chefs		3	5
 The Globe: Batalha dos Chefes		3	5
@@ -444,12 +443,12 @@ The L Word- Generation Q		3	8
 The L Word: Geração Q		3	30
 The Lady And The Dale		3	4
 The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life		3	12
-The Land Of Warriors		3	38
+The Land Of Warriors		3	76
 The Larkins		3	12
 The Last Dance		3	4
 The Last Kingdom	2015	3	46
 The Last O.G.		3	21
-The Last Oath		3	24
+The Last Oath		3	48
 The Last Woodsmen		3	9
 The Last of Us	2023	3	17
 The Lazarus Project	2022	3	4
@@ -478,7 +477,7 @@ The Magicians: Escola de Magia		3	65
 The Mallorca Files		3	18
 The Man Who Fell to Earth		3	10
 The Mandalorian	2019	3	24
-The Masked Singer Brasil		4	61
+The Masked Singer Brasil		3	61
 The Master of Diabolism		4	35
 The Master of Ragnarok & Blesser of Einherjar		4	12
 The Matchmakers		4	12
@@ -514,7 +513,7 @@ The Oath	2018	4	15
 The Oath: O Juramento		4	10
 The Oblivious Saint Can't Contain Her Power		4	4
 The Oblongs		4	18
-The Odd Couple		4	37
+The Odd Couple		4	45
 The Office		4	206
 The Ogre's Bride		4	1
 The Old Man	2022	4	15
@@ -598,7 +597,7 @@ The Strongest Magician in the Demon Lord's Army Was a Human		4	12
 The Strongest Sage With the Weakest Crest		4	12
 The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-		4	12
 The Swarm		4	13
-The Taste Brasil		5	70
+The Taste Brasil		4	70
 The Tasty Florida		5	8
 The Teacher		5	4
 The Tech Bro Murders		5	6
@@ -625,7 +624,7 @@ The Unusual Suspects		5	4
 The Unwanted Undead Adventurer		5	12
 The Vampire Diaries	2009	5	22
 The Vanishing Triangle		5	5
-The Vermilion Mask		5	12
+The Vermilion Mask (2026)		5	12
 The Villager of Level 999		5	7
 The Villainess Is Adored by the Prince of the Neighbor Kingdom		5	6
 The Vince Staples Show		5	5
@@ -718,11 +717,11 @@ Tis Time for Torture Princess		5	1
 Titanic		5	4
 Titans	2018	5	4
 Titio Avô		5	24
-Titã Simbiônico		6	20
+Titã Simbiônico		5	20
 Titãs		6	49
 To Lose - Ayrilik da Sevdaya Dahil		6	16
 To Love & Cherish		6	4
-To My Beloved Thief		6	14
+To My Beloved Thief		6	32
 To My Star		6	20
 To Nessa		6	4
 To Your Eternity		6	82
@@ -814,7 +813,6 @@ Tour de France: No Coração do Pelotão		6	16
 Towards Zero		6	3
 Tower of God	2020	6	78
 Toy Boy		6	21
-Trabalhar Mais Tarde, Beber Agora		6	24
 Trabalho		6	4
 Trabalho Honesto		6	12
 Trabalho Sujo		6	18
@@ -838,8 +836,8 @@ Train to the End of the World		6	12
 Traição		6	16
 Transamazônica: Uma Estrada para o Passado		6	6
 Transatlântico		6	7
-Transformers Cyberverse		7	62
-Transformers: A Centelha da Terra	2022	7	39
+Transformers Cyberverse		6	62
+Transformers: A Centelha da Terra	2022	6	39
 Transformers: Prime		7	65
 Transformers: War for Cybertron: O Cerco		7	18
 Transformers: War for Cybertron: O Nascer da Terra		7	6
@@ -914,8 +912,7 @@ Três Vidas		7	8
 Três vezes Paixão		7	5
 Três é Demais		7	192
 Tsubasa Chronicle		7	26
-Tsugu Tsugumomo		7	12
-Tsugumomo		7	23
+Tsugu Tsugumomo		7	23
 Tsukigakirei		7	13
 Tsukiuta: The Animation		7	13
 Tsukumogami Kashimasu		7	51
@@ -958,9 +955,9 @@ Turismo Macabro		7	8
 Turismo Selvagem	2023	7	6
 Turkey! Time to Strike		7	10
 Turma CoComelon		7	9
-Turma da Monica		8	224
-Turma da Monica Jovem		8	26
-Turma da Monica Origens		8	8
+Turma da Monica		7	224
+Turma da Monica Jovem		7	26
+Turma da Monica Origens		7	8
 Turma da Mônica - A Série		8	8
 Turma do Barulho		8	46
 Turner E Hooch		8	12
@@ -971,7 +968,8 @@ Twilight Out of Focus		8	11
 Twin Peaks	1990	8	48
 Twin Star Exorcists		8	100
 Twisted Metal	2023	8	44
-Twisted Tie		8	10
+Twisted Tie		8	5
+Twisted Tie (2026)		8	10
 Two Weeks to Live		8	12
 Twogether		8	8
 Tying the Knot with an Amagami Sister		8	48
@@ -988,6 +986,5 @@ Tá Tudo Certo		8	4
 Tá Tudo uma M&rd@!		8	10
 Tão Frágil, Tão Cor de rosa		8	1
 Tóquio 2020 no SporTV		8	3
-Tóquio P.D. Relações Públicas 2		8	10
 Tô De Graça		8	225
 Túnel do Amor		8	73

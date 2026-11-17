@@ -89,9 +89,8 @@ Tangled	dub=18:924307
 Tango	dub=18:66447,18:65749,18:9618,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753427.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757353.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43001.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90652.mp4
 Tango & Cash: Os Vingadores	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757185.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7433.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90641.mp4
 Tango One, O Mais Procurado (2018)	dub=18:479198,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752789.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46114.mp4
-Tangos, Tequilas e Algumas Mentiras	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767715.mp4
-Tanhaji The Unsung Warrior	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90663.mp4
-Tanhaji, O Guerreiro Desconhecido (2020)	dub=18:584850
+Tangos, Tequilas e Algumas Mentiras	dub=18:1098239,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767715.mp4
+Tanhaji The Unsung Warrior	dub=18:584850	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90663.mp4
 Tank Girl - Detonando o Futuro	dub=18:9067
 Tanner Hall	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764422.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31915.mp4
 Tapete Vermelho (2005)	dub=18:24510,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757665.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39351.mp4
@@ -174,7 +173,7 @@ Temos Vagas (2007)	dub=18:10294,18:1242291,http://acaidopt.org:80/movie/3llohwk4
 Temos Vagas 2: A Primeira Diária (2008)	dub=18:15641,https://embedplayer2.xyz/cdn/hls/5a2b7672d7f3cdaa3a46a9f6f1ecc9ab/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759077.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52162.mp4
 Tempero Fatal: Um Mistério de Hannah Swensen (2023)	dub=18:1151579,https://embedplayer2.xyz/cdn/hls/fadcfc04cf90f2d534640edeaa3c6ea1/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752491.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754831.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46124.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90757.mp4
 Tempestade	dub=18:11258,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753259.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765296.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12094.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90758.mp4
-Tempestade (2022)	dub=18:1132079,18:595132
+Tempestade (2022)	dub=18:595132
 Tempestade Branca	dub=18:233112,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764362.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31949.mp4
 Tempestade Infinita	dub=18:811631,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763216.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31963.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90778.mp4
 Tempestade Mortal (2021)	dub=18:844537,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753011.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46137.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90779.mp4
@@ -240,7 +239,7 @@ Teoria da Conspiração (1997)	dub=18:8834,http://dbonline.tech-cdn.top:80/movie
 Teoria de Tudo	dub=18:268021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250828.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250498.mp4
 Teoria do Caos	dub=18:12912,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768301.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19785.mp4
 Tequila Repasado	dub=18:736554,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754033.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767886.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19789.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90861.mp4
-Tequilas e Algumas Mentiras	dub=18:1098239,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58734.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19781.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90872.mp4
+Tequilas e Algumas Mentiras	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58734.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19781.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90872.mp4
 Terapia Intensiva	dub=18:160768,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311845.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311894.mp4
 Terapia da Dança	dub=18:1036172,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762734.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31997.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90867.mp4
 Terapia de Casais para Amantes (2017)	dub=18:464586,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767717.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19793.mp4
@@ -286,7 +285,7 @@ Terra de Maria	dub=18:238710,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Terra de Minas (2015)	dub=18:335578,https://embedplayer2.xyz/cdn/hls/1575c60d477ec813d273e9d44171c01f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764545.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32023.mp4
 Terra de Ninguém	dub=18:15414,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756173.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764159.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32027.mp4	leg=18:15414.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90913.mp4
 Terra de Pistoleiros (2025)	dub=18:1293286,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768818.mp4
-Terra do Ouro	dub=18:20237,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7471.mp4
+Terra do Ouro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7471.mp4
 Terra dos Bravos (2019)	dub=18:634524,https://embedplayer2.xyz/cdn/hls/785eef59719e9ebce5798a1d7604fe3d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754140.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35288.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254274.mp4
 Terra dos Lobos	dub=18:70059
 Terra dos Mortos	dub=18:11683,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758713.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52194.mp4
@@ -374,7 +373,7 @@ Testemunha Fatal	dub=18:31679,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o
 Testemunha de Acusação	dub=18:37257,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250829.mp4
 Testemunha de Assassinato: Um Mistério Em Família	dub=18:628493
 Testemunhas Silenciosas (2019)	dub=18:174102,18:531368,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256170.mp4
-Tetra Acreditar de Novo (2026)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751094.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301335.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301415.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301259.mp4
+Tetra Acreditar de Novo (2026)	dub=18:1667493,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751094.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301335.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301415.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301259.mp4
 Tetris	dub=18:726759,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58820.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763746.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32065.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91043.mp4
 Teu Mundo Não Cabe Nos Meus Olhos (2018)	dub=18:479703,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763463.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32080.mp4
 Teu Tua	dub=18:243861,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763887.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32074.mp4
@@ -421,7 +420,7 @@ The Astronaut	dub=18:1435035
 The Axiom (2019)	dub=18:517166
 The Axiom Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91126.mp4
 The Babadook	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46152.mp4
-The Ballad of Wallis Island	dub=18:1122099,https://embedplayer2.xyz/cdn/hls/be04d9bac0e1c21040371f0c51bdc433/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91131.mp4
+The Ballad of Wallis Island	dub=https://embedplayer2.xyz/cdn/hls/be04d9bac0e1c21040371f0c51bdc433/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91131.mp4
 The Banana Splits Movie	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19839.mp4
 The Bay	dub=18:123105
 The Bayou	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756249.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91136.mp4
@@ -745,7 +744,7 @@ The Post	dub=18:525828
 The Post: A Guerra Secreta (2017)	dub=18:446354,https://embedplayer2.xyz/cdn/hls/34c11203cdf5993f9a5d0ac04de8dad1/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762544.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32132.mp4
 The Postcard Killings	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764640.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32142.mp4
 The Power: Horror na Escuridão	dub=18:760919,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758349.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52279.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91823.mp4
-The President's Cake	dub=18:1464883	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253662.mp4
+The President's Cake	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253662.mp4
 The Price for Silence Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91828.mp4
 The Prince	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91839.mp4
 The Prize Winner of Defiance, Ohio	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764360.mp4
@@ -787,7 +786,6 @@ The Secrets We Keep	dub=https://embedplayer2.xyz/cdn/hls/238783b2fb7a64f29eed113
 The Seed	dub=18:831438
 The Seeding (2024)	dub=https://embedplayer2.xyz/cdn/hls/98c635de4e2af802884d7aae8b611cdf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754543.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91927.mp4
 The Serpent's Skin	dub=18:1407278.m3u8
-The Seven Deadly Sins: Cursed by Light	dub=18:843241
 The Seven Deadly Sins: Fúria de Edimburgo – Parte 1	dub=18:1064835,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766813.mp4	leg=18:1064835.mp4?lang=leg
 The Seven Deadly Sins: Fúria de Edimburgo – Parte 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755374.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766689.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11494.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91922.mp4
 The Seven Deadly Sins: Prisioneiros do Céu	dub=18:507569
@@ -1061,7 +1059,7 @@ Todos Os Caminhos Até Pearla	dub=18:576727,http://acaidopt.org:80/movie/3llohwk
 Todos a Bordo (1996)	dub=18:49471
 Todos a Bordo (2021)	dub=18:606440
 Todos a Bordo: Cruzeiro da Família Rosie	dub=18:54294
-Todos me Amam	dub=18:1429750,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311081.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46185.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92355.mp4
+Todos me Amam	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311081.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46185.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92355.mp4
 Todos os Caminhos Levam a Roma	dub=18:298583,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301265.mp4
 Todos os Corações do Mundo	dub=18:494881
 Todos os Cães Merecem o Céu (1989)	dub=18:11497,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766095.mp4
@@ -1127,7 +1125,7 @@ Top Gun - Ases Indomáveis	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 Top Gun: Maverick	dub=18:361743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58862.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761169.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7635.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92430.mp4
 Top Gunner	dub=18:714351	leg=18:714351.mp4?lang=leg
 Top Gunner: Zona de Perigo	dub=18:980083,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58876.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756187.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761604.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7639.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92424.mp4
-Top Love - Só e Bem Acompanhado!	dub=18:1283655,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758024.mp4
+Top Love - Só e Bem Acompanhado!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758024.mp4
 Top Secret! Superconfidencial	dub=18:8764,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19995.mp4
 Topuria Matador	dub=18:1312215,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750969.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301417.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301267.mp4
 Topázio	dub=18:2370

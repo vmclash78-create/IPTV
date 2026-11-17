@@ -18,8 +18,8 @@ Jaku Chara Tomozaki kun		0	27
 James		0	3
 James May - O Mestre-Cuca!		0	14
 James May - O Mestre-Cueca!		0	7
-James May Nosso Homem no Japao		0	15
-James May: Nosso Homem no...		0	16
+James May Nosso Homem no Japao		0	16
+James May: Nosso Homem no...		0	15
 Jamestown		0	23
 Jamie Vs Britney: O Julgamento da Família Spears		0	2
 Jane		0	100
@@ -84,7 +84,7 @@ Jogando com o Amor - Dunyayla Benim Aramda		0	8
 Jogo Comprado		0	6
 Jogo Cruzado		0	8
 Jogo Mortal		0	76
-Jogo Perigoso		0	26
+Jogo Perigoso		0	15
 Jogo da Lava		0	20
 Jogo de Amor e Fantasia		0	32
 Jogo de Espiões: Histórias da Guerra Fria		0	3
@@ -173,14 +173,14 @@ Just Because!		1	12
 Just a Little Game: Os Bastidores da LOUD		1	4
 Justica Criminal Estados Unidos		1	6
 Justica Tardia		1	20
-Justica Verdadeira		1	26
+Justica Verdadeira		1	36
 Justica em Julgamento		1	8
 Justificado		1	156
 Justified		1	78
 Justified: Cidade Primitiva	2023	1	8
 Justiça	2016	1	37
 Justiça 2		1	28
-Justiça Implacável		1	36
+Justiça Implacável		1	26
 Justiça Jovem		1	98
 Justiça Sem Limites		1	100
 Justiça por Malik Oussekine		1	4

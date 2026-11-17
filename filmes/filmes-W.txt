@@ -96,7 +96,7 @@ White Boy Rick	dub=18:438808,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 White Lie	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96031.mp4
 Whitney	dub=18:507256,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752764.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46466.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96036.mp4
 Whitney Brown	dub=18:73563
-Who Are You Charlie Brown	dub=18:836919,https://embedplayer2.xyz/cdn/hls/105080c9a62e61589af2b06026380a83/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96047.mp4
+Who Are You Charlie Brown	dub=https://embedplayer2.xyz/cdn/hls/105080c9a62e61589af2b06026380a83/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96047.mp4
 Why	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754128.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11816.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96053.mp4
 WiFi Ralph: Quebrando a Internet (2018)	dub=18:404368,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59323.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766299.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11813.mp4
 Wicked (2024)	dub=18:402431,https://embedplayer2.xyz/cdn/hls/d2f93c93a207b0a1e0edc4a91726847d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40620.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765602.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756461.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34841.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40625.mp4
@@ -130,8 +130,8 @@ Wings Over Everest	dub=18:233669
 Winner (2024)	dub=18:1039659,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754664.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96100.mp4
 Winter Thaw	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314463.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314127.mp4
 Winter on Fire: Ukraine's Fight for Freedom	dub=18:355020,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759799.mp4
-Winter, o Golfinho	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762916.mp4
-Winter, o Golfinho 2 (2014)	dub=https://embedplayer2.xyz/cdn/hls/11fda433e8bb3859b054001093512e80/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764126.mp4
+Winter, o Golfinho	dub=18:62837,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762916.mp4
+Winter, o Golfinho 2 (2014)	dub=18:227735,https://embedplayer2.xyz/cdn/hls/11fda433e8bb3859b054001093512e80/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764126.mp4
 Wintertide (2023)	dub=https://embedplayer2.xyz/cdn/hls/7187a1677eb90ca7e223d22bda496d40/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756179.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96122.mp4
 Wish You Were Here	dub=https://embedplayer2.xyz/cdn/hls/1e344d0d8a67bbb1c5b05976e2bd50eb/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96110.mp4
 Wish: O Poder dos Desejos (2023)	dub=18:1022796,https://embedplayer2.xyz/cdn/hls/db9229e827166394422a5fb1a4e2e226/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59328.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756048.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11811.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96105.mp4

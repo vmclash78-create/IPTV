@@ -6,7 +6,7 @@ A Agente	2025	0	6
 A Agência	2024	0	159
 A Alma Não Tem Cor		0	87
 A Amiga Genial	2018	0	22
-A Anatomia de Grey		0	2
+A Anatomia de Grey		0	464
 A Antartida		0	10
 A Arena		0	10
 A Armadilha		0	6
@@ -68,7 +68,6 @@ A Caminho do Céu		0	10
 A Cancao do Samurai		0	8
 A Candidata		0	62
 A Cançao de Ninar de Balkan - Balkan Ninnisi		0	12
-A Canção de Apolo		0	14
 A Canção do Samurai: Confronto Decisivo em Kyoto		0	8
 A Cara do Pai		0	15
 A Casa Coruja		0	43
@@ -79,7 +78,6 @@ A Casa da Rainha		0	150
 A Casa da Raven	2017	0	123
 A Casa das Sete Mulheres		0	55
 A Casa de Moda	2024	0	10
-A Casa de Stassi Schroeder		0	11
 A Casa do Disney Junior		0	81
 A Casa do Dragão	2022	0	36
 A Casa do Mickey Mouse		0	132
@@ -93,7 +91,7 @@ A Caça ao Tesouro de Fenn		0	3
 A Caçada	2026	0	6
 A Caçadora de Cobras		0	10
 A Caçadora de Pedófilos		0	6
-A Certain Dark Item		0	12
+A Certain Dark Item (2026)		0	12
 A Certain Magical Index		0	24
 A Certain Scientific Accelerator		0	24
 A Certain Scientific Railgun		0	25
@@ -118,8 +116,8 @@ A Confidente		0	9
 A Confissão		0	6
 A Copa do Mundo de Messi A Ascensao da Lenda		0	4
 A Cor Do Poder		0	16
-A Cor da Paixao - El Color de la Pasion		1	122
-A Cor da Paixão		1	122
+A Cor da Paixao - El Color de la Pasion		0	122
+A Cor da Paixão		0	122
 A Coreia em um Prato		1	2
 A Coroa Além do Túmulo		1	1
 A Coroa Perfeita		1	24
@@ -182,7 +180,7 @@ A Escola de Susto do Gasparzinho		1	52
 A Escolha		1	31
 A Escolha - Babil		1	51
 A Escolhida - Elkızı		1	13
-A Escolhida - O Canto do Passaro - Yali Capkini		1	433
+A Escolhida - O Canto do Passaro - Yali Capkini		1	647
 A Escolinha do Golias		1	43
 A Escrava Isaura		1	167
 A Escrava Sexual		1	5
@@ -238,9 +236,8 @@ A Força do Amor - Kizilcik Serbeti		1	340
 A Força do Destino		1	102
 A Força do Querer		1	173
 A Fragilidade dos Corpos		1	8
-A Fragância Eterna		2	33
-A Franquia	2024	2	8
-A Fraude do Século		2	13
+A Franquia	2024	1	8
+A Fraude do Século		1	13
 A Friend of the Family	2022	2	18
 A Fronteira Oriental		2	6
 A Fuga		2	8
@@ -358,9 +355,9 @@ A Killer Paradox	2024	2	8
 A Ladeira Tingida de Rubro		2	12
 A Lavagem de Carros do Tom,O Caminhão do Reboque		2	27
 A Lei Secreta		2	120
-A Lei de Alicia		3	10
-A Lei de Ueki		3	51
-A Lei do Amor		3	155
+A Lei de Alicia		2	10
+A Lei de Ueki		2	51
+A Lei do Amor		2	155
 A Lei e o Crime		3	21
 A Lenda da Generala		3	36
 A Lenda de El Cid - El Cid		3	10
@@ -372,7 +369,8 @@ A Lenda de Sleepy Hollow	2013	3	61
 A Lenda de Vox Machina	2022	3	48
 A Lenda de Zhuohua		3	40
 A Lenda do Lider Fili		3	39
-A Lenda do Soldado Cozinheiro		3	24
+A Lenda do Soldado Cozinheiro		3	12
+A Lenda do Soldado Cozinheiro (2026)		3	24
 A Lenda do Tesouro Perdido: No Limiar da História		3	10
 A Lenda: Um Luxo de Sonhar		3	41
 A Leste do Palácio		3	8
@@ -408,9 +406,9 @@ A Maldição de Oak Island		3	28
 A Man Who Defies The World of BL		3	7
 A Maneira Correta de Escrever Amor		3	1
 A Mangakas Weirdly Wonderful Workplace		3	11
-A Mansao Foster para Amigos Imaginários		3	76
+A Mansao Foster para Amigos Imaginários		3	78
 A Mao do Eurico	2023	3	5
-A Maquina		3	6
+A Maquina		3	47
 A Matilha		3	9
 A Melhor Amiga da Noiva		3	36
 A Melhor Irma	2025	3	8
@@ -465,12 +463,13 @@ A Ninja and an Assassin Under One Roof		3	12
 A Nobody's Way Up to an Exploration Hero		3	12
 A Nobreza do Amor		3	193
 A Noite Chegou		3	24
-A Noiva - Gelin		3	477
+A Noiva - Gelin		3	528
 A Noiva Indesejada		3	1
 A Noiva Indesejada do Alfa		3	1
 A Noiva Muda do Alfa Amaldicoado		3	1
 A Noiva Predestinada do Rei Alpha		3	1
 A Noiva da Presilha Dourada		3	30
+A Noiva da Presilha Dourada (2026)		3	30
 A Noiva de Beirute - Bride of Beirut		3	219
 A Noiva de Habaek		3	16
 A Noiva de Istambul		3	384
@@ -478,7 +477,7 @@ A Noiva de Istambul (Para Sempre no Meu Coração)		3	296
 A Noiva de Istambul - Para Sempre no Meu Coracao - Istanbullu Gelin		3	296
 A Noiva do Antigo Mago: O Menino do Oeste e o Cavaleiro da Tempestade Azul		3	15
 A Noiva do Demônio		3	1
-A Nova Escola do Imperador		4	20
+A Nova Escola do Imperador		3	20
 A Nova Força		4	6
 A Nova Super Máquina	2008	4	18
 A Nova Vida de Ana		4	91
@@ -498,7 +497,7 @@ A Padroeira		4	215
 A Paixão		4	6
 A Paixão Turca		4	6
 A Paranormal		4	130
-A Parasite's Heart		4	29
+A Parasite's Heart		4	56
 A Partitura Secreta	2024	4	8
 A Pedra dos Sonhos		4	13
 A Penúltima Palavra		4	6
@@ -598,8 +597,8 @@ A Sonhadora		4	161
 A Sonhadora - Passaro Madrugador - Erkenci Kus		4	161
 A Sorte de Loli		4	103
 A Splendid Match		4	40
-A Sucessora		5	126
-A Super Máquina		5	79
+A Sucessora		4	126
+A Super Máquina		5	76
 A Superfantástica História do Balão	2023	5	3
 A Surda Absurda		5	3
 A Série Pokémon: Horizontes	2023	5	101
@@ -610,9 +609,8 @@ A Teia		5	10
 A Tempestade		5	122
 A Tempestade dentro de Mim - İçimdeki Fırtına		5	6
 A Terapia por Sebastian Fitzek		5	6
-A Terra Permanece		5	3
+A Terra Permanece		5	9
 A Terra Prometida		5	180
-A Terra dos Guerreiros		5	76
 A Terra dos Meninos Pelados		5	4
 A Terra à Noite		5	6
 A Terra à Noite Visão Noturna		5	6
@@ -718,11 +716,10 @@ A justiceira		5	24
 A pequena espiã		5	10
 A Árvore Familiar dos Croods	2021	5	64
 A Ótica do Cinema		5	6
-A Última Coisa Que Ele Me Falou	2023	6	15
-A Última Jornada dos Vikings		6	4
+A Última Coisa Que Ele Me Falou	2023	5	15
+A Última Jornada dos Vikings		5	4
 A Última Onda		6	6
 A Última Rodada: Um Assassino Serial na NY Queer		6	4
-A.mar		6	15
 A.mar Donde el Amor Teje sus Redes		6	81
 AARO All domain Anomaly Resolution Office		6	10
 AHO-GIRL		6	12
@@ -743,7 +740,7 @@ ARK: The Animated Series		6	6
 ATRI -My Dear Moments-		6	13
 AYAKA		6	12
 AZUR LANE		6	12
-Aaahh!!! Monstros		6	52
+Aaahh!!! Monstros		6	78
 Aaron Stone		6	18
 Ab Dekh Khuda Kya Karta Hai		6	11
 Abandono de Evento		6	4
@@ -777,7 +774,6 @@ Acampamento de Verão		6	119
 Acapulco	2021	6	40
 Acapulco Shore		6	13
 Ace Attorney		6	47
-Ace of the Diamond		6	319
 Aceleradas		6	10
 Acelerados no Amor		6	15
 Acerto de Contas		6	157
@@ -825,11 +821,11 @@ Aeroporto Area Restrita Estados Unidos		6	24
 Aeroporto Miami		6	19
 Aeroporto: Estados Unidos		6	67
 Aeroporto: Área Restrita	2017	6	87
-Affair		6	8
+Affair		6	47
 Afinal, O Que Querem As Mulheres?		6	4
 Africa		6	6
 Africa Garras e Mandibulas		6	4
-After Life		6	12
+After Life		6	18
 After Life: Vocês Vão Ter de Me Engolir		6	18
 After Moving Seats, The Boy Behind Me Has A Crush On Me		6	8
 After Moving Seats,The Boy Behind Me Has A Crush On Me (2026)		6	16
@@ -838,10 +834,10 @@ After War Gundam X		6	39
 After the Rain		6	12
 Afterglow		6	7
 Aftermath		6	8
-Afterschool Hanakokun		7	8
-Against the Current		7	47
-Agarre Seu Amor		7	24
-Agate		7	30
+Afterschool Hanakokun		6	15
+Against the Current		6	94
+Agarre Seu Amor		6	24
+Agate		6	30
 Agatha Christie's Poirot		7	69
 Agatha Desde Sempre	2024	7	9
 Agency		7	16
@@ -958,10 +954,10 @@ All In The Family		7	5
 All Rise		7	21
 All Star Shore		7	23
 All That We Loved		7	16
-All The Way Up: Caminho para A Fama		8	10
-All of Us Are Dead		8	12
-All the Liquors		8	8
-All the Queen's Men		8	75
+All The Way Up: Caminho para A Fama		7	10
+All of Us Are Dead		7	12
+All the Liquors		7	8
+All the Queen's Men		7	75
 Allen Iv3rson		8	3
 Allen v. Farrow	2021	8	4
 Alma		8	9
@@ -1041,7 +1037,7 @@ American Crime Story	2016	8	37
 American Dad!		8	427
 American Gladiators		8	10
 American Gods	2017	8	23
-American Gothic		8	12
+American Gothic		8	13
 American Horror Stories	2021	8	31
 American Horror Story	2011	8	174
 American Hostage	2026	8	8
@@ -1078,9 +1074,10 @@ Amor Com Falhas		8	32
 Amor Complexo Amor		8	4
 Amor Comum - Adı Sevgi		8	11
 Amor Contra o Tempo		8	1
-Amor Destinado, Case Comigo Novamente		9	10
-Amor Disfarçado		9	8
-Amor Doce Amor		9	5
+Amor Destinado, Case Comigo Novamente		8	10
+Amor Disfarçado		8	6
+Amor Disfarçado (2026)		8	8
+Amor Doce Amor		8	5
 Amor Entre Estranhos		9	52
 Amor Entre Linhas		9	62
 Amor Entre Línguas		9	13
@@ -1095,7 +1092,7 @@ Amor Fora das Grades		9	80
 Amor Fora das Grades: Como Eles Estão Agora?		9	12
 Amor Fora das Linhas		9	39
 Amor Imenso		9	53
-Amor Inesquecivel		9	24
+Amor Inesquecivel		9	49
 Amor Moderno	2019	9	16
 Amor Moderno Tóquio		9	7
 Amor Mortal Amor		9	8
@@ -1198,9 +1195,9 @@ Amores Mortais	2024	9	6
 Amores Roubados		9	10
 Amores Verdadeiros		9	1133
 Amores com Trapacas - Amores con Trampa		9	123
-Amores que Enganam		10	10
-Amorteamo	2015	10	5
-Amphibia		10	58
+Amores que Enganam		9	10
+Amorteamo	2015	9	5
+Amphibia		9	78
 Amsterdam		10	81
 Amsterdam Central 24 7		10	6
 Amy e Tammy Irmas Contra o Peso		10	66
@@ -1318,9 +1315,9 @@ Apaixone Se Intensamente		10	48
 Apaixone se novamente		10	42
 Aparente Maldade		10	6
 Apartamento 404		10	8
-Apartamento 6/9	2023	11	6
-Apartamento 69		11	6
-Apenas Amigos - Sadece Arkadasiz		11	20
+Apartamento 6/9	2023	10	6
+Apartamento 69		10	6
+Apenas Amigos - Sadece Arkadasiz		10	20
 Apenas Cães		11	6
 Apenas um Olhar		11	6
 Apenas um Show		11	247
@@ -1332,7 +1329,7 @@ Apocalipse V		11	10
 Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin		11	11
 Apocalypse Hotel		11	12
 Apollo: Reconstruindo A Jornada Espacial		11	2
-Apollos Song		11	7
+Apollos Song		11	14
 Aposta de Outro Mundo		11	8
 Aposta de Outro Mundo - Bir Ihtimal Daha Var		11	16
 Apostando Alto		11	16
@@ -1370,6 +1367,7 @@ Arcanjo Renegado	2020	11	40
 Archer		11	142
 Arctic Ascent with Alex Honnold		11	3
 Arde Madrid		11	8
+Are You Afraid of the Dark?		11	16
 Are You Sure		11	16
 Are You The One? Brasil		11	42
 Are You The One? UK		11	10
@@ -1392,7 +1390,7 @@ Armas de Mulher	2022	11	8
 Armas e Amores		11	7
 Armazem 13	2009	11	64
 Armorsaurs		11	13
-Arnold		11	105
+Arnold		11	114
 Aroma de Morango		11	23
 Arqueiro		11	170
 Arqueologias em Busca dos Primeiros Brasileiros		11	6
@@ -1438,8 +1436,8 @@ As Aventuras de Gortimer Gibbon na Rua Normal		11	13
 As Aventuras de Gudetama		11	10
 As Aventuras de Horton		11	7
 As Aventuras de Jackie Chan	2000	11	95
-As Aventuras de Jimmy Neutron,O Menino Gênio		12	73
-As Aventuras de José e Durval	2023	12	8
+As Aventuras de Jimmy Neutron,O Menino Gênio		11	73
+As Aventuras de José e Durval	2023	11	8
 As Aventuras de Kid Danger		12	10
 As Aventuras de Merlin	2008	12	65
 As Aventuras de Minuano Kid		12	4
@@ -1546,7 +1544,7 @@ As Épicas Aventuras do Capitão Cueca		12	39
 As Últimas Horas de Mario Biondo		12	3
 As Últimas Horas do Titanic	2025	12	4
 Asaf	2024	12	6
-Asas da Ambicao - Kus Ucusu		12	23
+Asas da Ambicao - Kus Ucusu		12	29
 Asas da Ambiçao		12	48
 Asas do amor		12	91
 Ascendance of a Bookworm		12	38
@@ -1558,10 +1556,10 @@ Ashita No Nadja		12	50
 Ashley Garcia: A de Amor		12	8
 Ashley Madison Sexo Mentiras e Escandalo		12	3
 Asim, O Vigarista		12	8
-Asla Vazgeçmem		13	159
-Asobi Asobase - workshop of fun -		13	12
+Asla Vazgeçmem		12	159
+Asobi Asobase - workshop of fun -		12	12
 Asobi ni Iku yo!		13	12
-Assassinas		13	6
+Assassinas		13	26
 Assassination Classroom	2015	13	47
 Assassinato Em Middle Beach		13	4
 Assassinato Tem Duas Caras		13	3
@@ -1628,7 +1626,6 @@ Até o Céu: A Série		13	7
 Até o Fim - Flamengo Campeão da Libertadores		13	5
 Até o Fim - Flamengo Campeão da Libertadores	2019	13	5
 Até o Último Samurai		13	6
-Até que o Dinheiro nos Separe		13	60
 Até que se Prove o Contrário		13	29
 Aula de Amor		13	30
 Aula de Assassinato		13	6
@@ -1659,7 +1656,7 @@ Aziz		13	28
 Azize		13	12
 AzurLane: Slow Ahead!		13	15
 Aí Eu Vi Vantagem		13	18
-a Aprendiz de Feiticeira		13	325
+a Aprendiz de Feiticeira		13	163
 a Aranha		13	78
 a Menina das Estrelas		13	13
 a Vó e a Boi		13	6
@@ -1669,7 +1666,6 @@ amor ilimitado - amor ilimitado		13	70
 À Beira do Caos		13	12
 À Beira do Precipício		13	12
 À Espera de Perséfone		13	4
-À Minha Ladra Querida		13	32
 À Procura do Amor		13	6
 À Procura do Assassino: Aqueles Que Matam	2019	13	32
 À Prova de Risco		13	6

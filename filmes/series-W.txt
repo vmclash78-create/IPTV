@@ -55,7 +55,6 @@ Welcome to Flatch	2022	0	27
 Welcome to Japan, Ms. Elf!		0	11
 Welcome to Utmark		0	8
 Welcome to the Family		0	8
-Welcome to the Family: The Murder of Dan Markel		0	8
 Welcome to the Outcast's Restaurant!		0	11
 Wellington Paranormal		0	15
 Wellmania		0	8
@@ -89,7 +88,7 @@ Whited Nighttime		0	25
 Whitstable Pearl		0	18
 Who Is She		0	12
 Who Killed Jeffrey Epstein		0	3
-Who Saw the Peacock Dance in the Jungle		0	10
+Who Saw the Peacock Dance in the Jungle		0	20
 Why Didn't They Ask Evans?		0	3
 Why Does Nobody Remember Me in This World?		0	12
 Why R U?		0	17
@@ -118,7 +117,7 @@ Witch Hunter Robin		0	26
 With You Our Love Will Make It Through		0	12
 With You and the Rain		0	11
 Without Sin		0	4
-Without Sin Sem Pecado		1	4
+Without Sin Sem Pecado		0	4
 Witness Number 3		1	4
 Wizard Barristers: Benmashi Cecil		1	12
 Wo De Ni Tian Shen Qi		1	14
@@ -135,7 +134,7 @@ WondLa A Trilogia		1	20
 Wonderful Precure!		1	26
 Wonka: O Bilhete Dourado		1	9
 Woori The Virgin		1	9
-Work Later Drink Now		1	12
+Work Later Drink Now		1	24
 Work in Progress		1	8
 Workin Moms		1	26
 Working		1	13

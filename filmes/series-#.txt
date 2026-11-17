@@ -1,5 +1,5 @@
 #COMPASS2.0 ANIMATION PROJECT		0	12
-#I&#039;m Looking for a Zombie		0	2
+#I'm Looking for a Zombie		0	2
 #blackAF		0	8
 'Til Death		0	22
 007 Estrada para o Milhao		0	16
@@ -11,7 +11,7 @@
 100 Code		0	12
 100 Coisas para Fazer Antes de Virar Zumbi		0	24
 100 Days Wild		0	8
-100 Dias de Mentiras		0	10
+100 Dias de Mentiras		0	12
 100 Dias para Morar: Começando do Zero		0	58
 100 Humanos		0	8
 100 Memorias		0	24
@@ -143,7 +143,5 @@
 99 9 Advogado Criminal		1	19
 9JKL		1	16
 9mm: São Paulo		1	20
-Звоните ДиКаприо!		1	140
-大空港～GATE24～		1	1
-도깨비 10주년 여행		1	2
+Звоните ДиКаприо!		1	120
 ＜JUNG KOOK: I AM STILL＞ THE ORIGINAL		1	6

@@ -104,7 +104,7 @@ Garota da Moto	dub=18:876262,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Garota do Século 20	dub=18:851644,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56028.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753309.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42022.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73385.mp4
 Garota em Chamas: Rebeliao (2018)	dub=18:530254	leg=18:530254.mp4?lang=leg
 Garota vs. Monstro	dub=18:138038,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754248.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765835.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35863.mp4	leg=18:138038.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73415.mp4
-Garota, Interrompida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762639.mp4
+Garota, Interrompida	dub=18:3558,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762639.mp4	leg=18:3558.mp4?lang=leg
 Garotas Inocentes (2013)	dub=18:70706
 Garotas Paranoicas	dub=18:371081
 Garotas SA (2008)	dub=18:34482
@@ -141,7 +141,7 @@ Garçonete	dub=18:10758,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27684
 Gasoline Rainbow	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754577.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73456.mp4
 Gasparzinho - Especial do Dia das Bruxas	dub=18:392410
 Gasparzinho, Como Tudo Começou	dub=18:39346
-Gasparzinho, o Fantasminha Camarada	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765174.mp4
+Gasparzinho, o Fantasminha Camarada	dub=18:8839,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765174.mp4
 Gata em Fuga	dub=18:57353.m3u8,18:57353
 Gata em Fuga 2	dub=18:273621
 Gatao: Tal Pai, Tal Filho	leg=18:1303236.mp4?lang=leg
@@ -195,7 +195,7 @@ George Washington - O Primeiro Presidente da América	dub=18:926016,http://acaid
 George o Rei da Floresta (1997)	dub=18:10603,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767783.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15369.mp4
 George o Rei da Floresta 2 (2003)	dub=18:26264
 George, o Curioso	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766060.mp4
-George, o Curioso: Aventuras no Mar (2021)	dub=https://embedplayer2.xyz/cdn/hls/7ee9c46e5cec22e3a265faf8534ad159/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756469.mp4
+George, o Curioso: Aventuras no Mar (2021)	dub=18:918832,https://embedplayer2.xyz/cdn/hls/7ee9c46e5cec22e3a265faf8534ad159/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756469.mp4
 George,o Curioso - Uma Aventura na Primavera	dub=18:270029
 Geração Marte	dub=18:433878
 Geração X	dub=18:26623
@@ -243,7 +243,7 @@ Gigolô Europeu por Acidente	dub=18:11453,http://dbonline.tech-cdn.top:80/movie/
 Gilbert Grape: Aprendiz de Sonhador (1993)	dub=18:1587
 Gilberto Gil Tempo Rei	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256501.mp4
 Gilberto Gil: Um Deus em seu Jardim	dub=18:865125,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757646.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38293.mp4
-Gilda, Lúcia e o Bode	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767645.mp4
+Gilda, Lúcia e o Bode	dub=18:779918,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767645.mp4
 Gilda: Não Me Arrependo Desse Amor	dub=18:416680,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763768.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26442.mp4
 Ginger e Rosa	dub=18:121872
 Gintama: Yoshiwara em Chamas (2026)	dub=18:1530941,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750785.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314109.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314128.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314118.mp4
@@ -342,7 +342,7 @@ Gonzaga De Pai pra Filho (2012)	dub=18:129705,http://acaidopt.org:80/movie/3lloh
 Good Bad Ugly	dub=18:1259024,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754841.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73754.mp4
 Good Boys Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73738.mp4
 Good News	dub=18:1296404,18:783516,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752434.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26488.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73758.mp4
-Goodbye Butterfly	dub=18:786193	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73752.mp4
+Goodbye Butterfly	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73752.mp4
 Goodbye Fairyland	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313366.mp4
 Goodbye Horses As Várias Vidas de Q Lazzarus	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314120.mp4
 Goodbye Stranger	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253822.mp4
@@ -372,15 +372,15 @@ Gran Turismo De Jogador a Corredor (2023)	dub=18:980489,https://embedplayer2.xyz
 Grand Canyon ao Extremo	dub=18:584765,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759969.mp4
 Grand Finale	dub=18:1237099,18:368187,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755616.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15410.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73784.mp4
 Grand Prix	dub=18:20379
-Grand Prix of Europe (2025)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289525.mp4
-Grand Prix: A Toda Velocidade	dub=18:1316147,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750935.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289927.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289962.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289941.mp4
+Grand Prix of Europe (2025)	dub=18:1316147,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289525.mp4
+Grand Prix: A Toda Velocidade	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750935.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289927.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289962.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289941.mp4
 Grand Theft Auto VI: Um Olhar Estendido (2026)	dub=18:1744462,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313698.mp4	leg=18:1744462.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313720.mp4
 Grand Theft Hamlet	dub=18:1234397,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756975.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73794.mp4
 Grand Tour	dub=18:1098709
 Grande Albert	dub=18:15045
 Grande Hotel (1995)	dub=18:5,18:33680,18:231488,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767208.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15415.mp4
 Grande Marido Malvado por Favor Acorde 2	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302943.mp4
-Grande Menina, Pequena Mulher	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768479.mp4
+Grande Menina, Pequena Mulher	dub=18:14926,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768479.mp4
 Grande Problema (2002)	dub=18:2185,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251425.mp4
 Grande Saída	dub=18:407719,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96715.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99991.mp4
 Grande Sertao (2024)	dub=18:1097175,https://embedplayer2.xyz/cdn/hls/7ece2ca7a86dea297ccd9212b09c8316/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758006.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38298.mp4
@@ -451,8 +451,7 @@ Gritos Mortais (2007)	dub=18:14001,https://embedplayer2.xyz/cdn/hls/7b9c2a309e8f
 Gritos da Noite	dub=18:464880
 Gritos de Horror: O Renascimento	dub=18:75623
 Gritos do Além	dub=18:60950
-Grizzly Night	dub=18:1249508
-Grizzly Night (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289524.mp4
+Grizzly Night (2026)	dub=18:1249508,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289524.mp4
 Groenlândia O Eldorado do Gelo	dub=18:1608797	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99997.mp4
 Groomed: Uma História de Abusos	dub=18:800329
 Grávida e Perseguida	dub=18:764853,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53543.mp4

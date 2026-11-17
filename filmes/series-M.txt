@@ -1,12 +1,12 @@
 M - À Caça de um Assassino		0	6
 M O Filho do Seculo		0	16
-M*A*S*H		0	244
 M.I.A.		0	9
 MAD		0	102
 MAO		0	14
 MARIA OLHA POR NOS		0	13
 MARINES		0	4
 MARRIAGETOXIN		0	4
+MASH		0	244
 MATICES		0	6
 MAYDAY Desastres Aereos		0	30
 MAYONAKA PUNCH		0	11
@@ -405,7 +405,6 @@ Memórias de Alhambra		3	16
 Memórias de Idhún		3	5
 Memórias de Um Carcereiro		3	7
 Men in Kilts: A Roadtrip with Sam and Graham		3	8
-Menaces		3	47
 Mendirman Jaloliddin - Bozkır Arslanı Celaleddin		3	30
 Menem: El show del Presidente		3	6
 Menendez e Menudo Boys Betrayed		3	3
@@ -447,7 +446,8 @@ Mestres da Sobrevivência - O Desafio		3	6
 Mestres das Lembranças		3	5
 Mestres de Ferro		3	6
 Mestres do Ar	2024	3	9
-Mestres do Terror		3	21
+Mestres do Terror		3	13
+Mestres do Terror (2005)		3	19
 Mestres do Universo A Revolucao		3	5
 Mestres do Universo: Histórias de Eternia		3	10
 Mestres do Universo: Salvando Eternia		3	15
@@ -491,7 +491,7 @@ Meu Homem e um Cupido		4	32
 Meu Idol é Meu Chefe		4	4
 Meu Idolo		4	12
 Meu Irmao o Minotauro		4	10
-Meu Lar Meu Destino - Dogdugun Ev Kaderindir		4	43
+Meu Lar Meu Destino - Dogdugun Ev Kaderindir		4	94
 Meu Lar, Meu Destino		4	237
 Meu Mafioso Predileto		4	32
 Meu Marido		4	8
@@ -561,7 +561,7 @@ Migi to Dali		4	13
 Mikakunin De Shinkoukei		4	12
 Mike & Molly		4	131
 Mike & Molly: Um Casal de Peso		4	127
-Mike Judge's Beavis and Butt-Head		4	36
+Mike Judge's Beavis and Butt-Head		4	48
 Mike: Além de Tyson		4	8
 Mil Colmilhos		4	7
 Mil Golpes		4	12
@@ -788,6 +788,7 @@ Morte no Vale do Silício		6	3
 Mortel		6	12
 Mortos S.A.		6	26
 Moshidora		6	5
+Most Dangerous Game		6	26
 Motel Bates		6	50
 Motel California		6	12
 Motel Melati		6	7
@@ -808,7 +809,7 @@ Mr Corman		6	10
 Mr Heart		6	9
 Mr Inbetween		6	35
 Mr McMahon		6	6
-Mr Mikamis Classroom		6	10
+Mr Mikamis Classroom		6	20
 Mr Selfridge		6	28
 Mr Unlucky Has No Choice but to Kiss		6	8
 Mr. Bean		6	14
@@ -817,7 +818,6 @@ Mr. Bean: A Série Animada		6	127
 Mr. Iglesias		6	12
 Mr. Mayor		6	5
 Mr. Mercedes		6	30
-Mr. Mikami's Classroom		6	10
 Mr. Osomatsu		6	92
 Mr. Pickles		6	32
 Mr. Plankton		6	10
@@ -827,7 +827,7 @@ Mrs America		6	18
 Mrs Cop		6	16
 Mrs. Fletcher		6	7
 Ms Fisher's Modern Murder Mysteries		6	4
-Ms Incognito		6	12
+Ms Incognito		6	24
 Ms Ma Nemesis		6	32
 Ms. Marvel		6	6
 Mucha Lucha		6	51
@@ -854,7 +854,6 @@ Mulher-Aranha		7	16
 Mulher-Hulk: Defensora de Heróis		7	18
 Mulheres Apaixonadas		7	203
 Mulheres Asiáticas		7	6
-Mulheres Assassinas		7	26
 Mulheres Imperfeitas	2026	7	8
 Mulheres Incríveis de Bollywood		7	24
 Mulheres com Ombreiras		7	8
@@ -912,8 +911,7 @@ My Dear Donavan		7	16
 My Dress Up Darling		7	36
 My Fellow Citizens!		7	36
 My Friends Little Sister Has It In for Me		7	1
-My Gift Lvl 9999 Unlimited Gacha		7	1
-My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I&#039;m Out for Revenge!		7	20
+My Gift Lvl 9999 Unlimited Gacha		7	20
 My Happy End		7	16
 My Hero Academia		7	30
 My Hero Academia Vigilantes		7	39
@@ -930,7 +928,6 @@ My Lovely Boxer		7	12
 My Lovely Liar		7	16
 My Mad Fat Diary		7	12
 My Melody & Kuromi		7	12
-My Melody &amp; Kuromi		7	12
 My Melody e Kuromi		7	12
 My Name		7	8
 My Name is Kim Sam Soon		7	16
@@ -958,20 +955,20 @@ Mysterious Disappearances		7	12
 Mystery Road: Origin		7	6
 Mystic Nine		7	23
 Mystic Pop Up Bar		7	24
-Mythic Quest	2020	8	40
-Mythic Quest Raven's Banquet		8	37
-Mytho		8	6
+Mythic Quest	2020	7	40
+Mythic Quest Raven's Banquet		7	37
+Mytho		7	6
 Mythomaniac		8	24
 Má Fortuna		8	8
 Má Influencer		8	7
 Má Influência: O Lado Sombrio dos Influencers Infantis		8	3
-Máfia: O Reality		8	14
+Máfia: O Reality		8	16
 Mágica Mortal		8	8
 Mágica para a Humanidade		8	12
 Mágica para a Humanidade: Espanha		8	6
 Máscaras		8	125
 Máscaras de Oxigênio Não Cairão Automaticamente	2025	8	5
-Mãe		8	159
+Mãe		8	86
 Mãe Só Tem Duas		8	27
 Mãe solteira em fuga, segura em seus braços		8	1
 Mães A madas		8	13

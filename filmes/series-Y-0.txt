@@ -2543,13 +2543,6 @@
 1	48	leg	http://64.31.23.207:80/series/96795792/50165825/5514095.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/92231.mp4
 1	49	leg	http://64.31.23.207:80/series/96795792/50165825/5514096.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/92232.mp4
 1	50	leg	http://64.31.23.207:80/series/96795792/50165825/5514097.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/92234.mp4
-@You're Killing Me
-1	1	dub	19:320430/1/1
-1	1	leg	19:320430/1/1.mp4?lang=leg
-1	2	leg	19:320430/1/2.mp4?lang=leg
-1	3	leg	19:320430/1/3.mp4?lang=leg
-1	4	leg	19:320430/1/4.mp4?lang=leg
-1	5	leg	19:320430/1/5.mp4?lang=leg
 @You're The Worst
 1	1	dub	19:61118/1/1,http://64.31.23.207:80/series/96795792/50165825/5526968.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2587328.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34545.mp4
 1	2	dub	19:61118/1/2,http://64.31.23.207:80/series/96795792/50165825/5526969.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2587329.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34546.mp4
@@ -2613,33 +2606,6 @@
 5	11	dub	http://64.31.23.207:80/series/96795792/50165825/5527027.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2587387.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34621.mp4
 5	12	dub	19:61118/5/12,http://64.31.23.207:80/series/96795792/50165825/5527028.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2587388.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34622.mp4
 5	13	dub	19:61118/5/13,http://64.31.23.207:80/series/96795792/50165825/5527029.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2587389.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34623.mp4
-@Youkai Apartment no Yuuga na Nichijou
-1	1	dub	19:72514/1/1.m3u8
-1	2	dub	19:72514/1/2.m3u8
-1	3	dub	19:72514/1/3.m3u8
-1	4	dub	19:72514/1/4.m3u8
-1	5	dub	19:72514/1/5.m3u8
-1	6	dub	19:72514/1/6.m3u8
-1	7	dub	19:72514/1/7.m3u8
-1	8	dub	19:72514/1/8.m3u8
-1	9	dub	19:72514/1/9.m3u8
-1	10	dub	19:72514/1/10.m3u8
-1	11	dub	19:72514/1/11.m3u8
-1	12	dub	19:72514/1/12.m3u8
-1	13	dub	19:72514/1/13.m3u8
-1	14	dub	19:72514/1/14.m3u8
-1	15	dub	19:72514/1/15.m3u8
-1	16	dub	19:72514/1/16.m3u8
-1	17	dub	19:72514/1/17.m3u8
-1	18	dub	19:72514/1/18.m3u8
-1	19	dub	19:72514/1/19.m3u8
-1	20	dub	19:72514/1/20.m3u8
-1	21	dub	19:72514/1/21.m3u8
-1	22	dub	19:72514/1/22.m3u8
-1	23	dub	19:72514/1/23.m3u8
-1	24	dub	19:72514/1/24.m3u8
-1	25	dub	19:72514/1/25.m3u8
-1	26	dub	19:72514/1/26.m3u8
 @Young David
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2689352.mp4
 1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2689353.mp4
@@ -2989,9 +2955,9 @@
 2	10	dub	http://64.31.23.207:80/series/96795792/50165825/5594073.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2594789.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233337.mp4
 2	10	leg	19:86430/2/10.mp4?lang=leg
 @Your Love So Invincible
-1	1	leg	http://64.31.23.207:80/series/96795792/50165825/5664936.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310807.mp4
-1	2	leg	http://64.31.23.207:80/series/96795792/50165825/5664937.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310808.mp4
-1	3	leg	http://64.31.23.207:80/series/96795792/50165825/5664938.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/311155.mp4
+1	1	leg	19:326064/1/1.mp4?lang=leg,http://64.31.23.207:80/series/96795792/50165825/5664936.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310807.mp4
+1	2	leg	19:326064/1/2.mp4?lang=leg,http://64.31.23.207:80/series/96795792/50165825/5664937.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310808.mp4
+1	3	leg	19:326064/1/3.mp4?lang=leg,http://64.31.23.207:80/series/96795792/50165825/5664938.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/311155.mp4
 1	4	leg	http://64.31.23.207:80/series/96795792/50165825/5664939.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312236.mp4
 @Your Pretty Face Is Going to Hell
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2689448.mp4
@@ -3078,6 +3044,13 @@
 1	9	leg	19:323563/1/9.mp4?lang=leg
 1	10	dub	19:323563/1/10
 1	10	leg	19:323563/1/10.mp4?lang=leg
+@Youre Killing Me
+1	1	dub	19:320430/1/1
+1	1	leg	19:320430/1/1.mp4?lang=leg
+1	2	leg	19:320430/1/2.mp4?lang=leg
+1	3	leg	19:320430/1/3.mp4?lang=leg
+1	4	leg	19:320430/1/4.mp4?lang=leg
+1	5	leg	19:320430/1/5.mp4?lang=leg
 @Youth	2026
 1	1	dub	19:285418/1/1,https://embedplayer2.xyz/cdn/hls/be0f55e22ed6e4d7e9c341d140a490a3/master.txt,http://64.31.23.207:80/series/96795792/50165825/5566870.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2476543.mp4
 1	2	dub	19:285418/1/2,https://embedplayer2.xyz/cdn/hls/16a9d683f08255f84f6dd0f953d433c7/master.txt,http://64.31.23.207:80/series/96795792/50165825/5566871.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2476544.mp4

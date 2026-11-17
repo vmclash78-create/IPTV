@@ -18,7 +18,6 @@
 #Sem_Filtro - Noite Sangrenta	dub=18:991291,https://embedplayer2.xyz/cdn/hls/d82d0dd99b25264a91f44d5b699c18cb/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752368.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12143.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59474.mp4
 #UberXTáxis	dub=18:493610,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308402.mp4
 #eagoraoque	dub=18:752652,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757991.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37469.mp4
-(Des)controle	dub=18:1369243
 (Des)encontro Perfeito (2015)	dub=18:332340
 (In) Seguros	dub=18:706857
 (Re)Nascer	dub=https://embedplayer2.xyz/cdn/hls/e8c531295e7f43d06baefd6f691324e5/master.txt
@@ -153,7 +152,7 @@
 14 Dias	dub=18:842479,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764244.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59652.mp4
 14 Dias, 12 Noites	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762325.mp4
 14 Lâminas	dub=18:34179
-14 Montanhas, 8 Mil Metros e 7 Meses (2021)	dub=https://embedplayer2.xyz/cdn/hls/adab971bef6caef42b609152836ae770/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760068.mp4
+14 Montanhas, 8 Mil Metros e 7 Meses (2021)	dub=18:890825,https://embedplayer2.xyz/cdn/hls/adab971bef6caef42b609152836ae770/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760068.mp4
 1408 (2007)	dub=18:3021,https://embedplayer2.xyz/cdn/hls/0aa50d7574eaf68159c70099f576f338/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309834.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309815.mp4
 1492 - A Conquista do Paraíso	dub=18:1492
 15 Anos em Silêncio	dub=18:1182222,https://embedplayer2.xyz/cdn/hls/3810cffefab86607eaeb7b045c1b53bf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755547.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762091.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22076.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59671.mp4
@@ -250,7 +249,7 @@
 2: Possuídos	dub=https://embedplayer2.xyz/cdn/hls/aa12902f4cca0ee8c911b51909465165/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759407.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290814.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290747.mp4
 2:22 - Encontro Marcado	dub=https://embedplayer2.xyz/cdn/hls/5d1fd1c9dd621da6393d512ba6663ed9/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756626.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765907.mp4
 2DIE4: 24 Horas no Limite	dub=18:1595223
-3 - Harry Potter E O Prisioneiro De Azkaban	dub=https://embedplayer2.xyz/cdn/hls/b9d01bf713fc1d4384d63c4647eabc88/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53837.mp4
+3 - Harry Potter E O Prisioneiro De Azkaban	dub=18:673,https://embedplayer2.xyz/cdn/hls/b9d01bf713fc1d4384d63c4647eabc88/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53837.mp4
 3 Corações	dub=18:283701
 3 Desculpas Para Matar	dub=18:13569
 3 Dias com Meu Pai	dub=18:629442,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767554.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12196.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59757.mp4
@@ -387,7 +386,7 @@
 7etenta e 5inco	dub=18:15476
 7th & Union	dub=18:845887,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22188.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59925.mp4
 8 - Harry Potter e as Reliquias da Morte - Parte 2	dub=https://embedplayer2.xyz/cdn/hls/cd2c24fb76872fc337cfee90589c00b4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53909.mp4
-8 Mil Metros e 7 Meses	dub=18:890825	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59920.mp4
+8 Mil Metros e 7 Meses	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59920.mp4
 8 Mile: Rua das Ilusões	dub=18:65,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762444.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22190.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59930.mp4
 8 Mulheres e 1 Segredo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12243.mp4
 8 Presidentes 1 Juramento: A História de um Tempo Presente	dub=18:896559,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760013.mp4
@@ -423,5 +422,5 @@
 შაშვი შაშვი მაყვალი (2023)	dub=https://embedplayer2.xyz/cdn/hls/1f9907d3c1e221bf6134b362771d1832/master.txt	leg=https://embedplayer2.xyz/cdn/hls/1fc6f6a6a9baa604159e1814aa19a4ef/master.txt
 シャンティ デイズ 365日、幸せな呼吸	dub=18:428219
 东极岛 (2025)	dub=18:1305653,https://embedplayer2.xyz/cdn/hls/85d3c8782b3e02a7ff9e61fea6f48690/master.txt,https://embedplayer2.xyz/cdn/hls/a51ca286b93bac098f625e028bd0de7f/master.txt
-通天拍檔 (1984)	dub=18:1520326,18:135210,18:1308217,18:264652,18:799258,18:836250,18:296492,18:1111867,18:1186819,18:819910,18:1410193,18:338380,18:338382,18:1110082,18:1046572,18:104524,18:654871,18:334118,18:661269,18:987546,18:1298727,18:694228,18:923150,18:799073,18:881544,18:1305715,18:570587,18:580287,18:62637	leg=18:1150478.mp4?lang=leg,18:654871.mp4?lang=leg
+深海獣雷牙 対 溶岩獣王牙 (2020)	dub=18:1520326,18:135210,18:1308217,18:264652,18:799258,18:836250,18:296492,18:1111867,18:1186819,18:819910,18:1410193,18:338380,18:338382,18:1110082,18:1046572,18:104524,18:654871,18:334118,18:661269,18:987546,18:1298727,18:694228,18:923150,18:799073,18:881544,18:1305715,18:570587,18:580287,18:62637	leg=18:1150478.mp4?lang=leg,18:654871.mp4?lang=leg
 重装机甲4巨兽来袭 (2022)	dub=18:1182190

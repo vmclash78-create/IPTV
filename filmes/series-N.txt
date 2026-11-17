@@ -7,7 +7,7 @@ NCIS Sydney	2023	0	56
 NCIS Tony e Ziva		0	10
 NCIS: Investigação Naval	2003	0	551
 NCIS: Los Angeles	2009	0	322
-NCIS: New York		0	6
+NCIS: New York (2026)		0	6
 NCIS: Tony &amp; Ziva		0	10
 NEEDY GIRL OVERDOSE		0	14
 NIPPON SANGOKU A Guerra das Tres Nacoes		0	12
@@ -316,7 +316,7 @@ Nua e Crua		2	8
 Nua e Crua - Ciplak		2	8
 Nuances		2	6
 Nudes		2	10
-Nukitashi the Animation		2	11
+Nukitashi the Animation		2	10
 Numero 309		2	266
 Numero 309 - Versão Prolongada		2	65
 Nunca		2	4

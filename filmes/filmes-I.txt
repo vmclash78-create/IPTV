@@ -152,7 +152,7 @@ Impuros: O Filme	dub=18:871932,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 Império	dub=18:741236
 Império da Luz	dub=18:814757,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56296.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764302.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75062.mp4
 Império do Sol	dub=18:10110,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764312.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26840.mp4
-Império dos Discos, Uma Loja Muito Louca	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768631.mp4
+Império dos Discos, Uma Loja Muito Louca	dub=18:13531,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768631.mp4
 Império dos Lobos	dub=18:10799
 Império dos Tubarões	dub=18:457710
 Imunidade Diplomática	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306345.mp4
@@ -313,8 +313,7 @@ Inspetor Bugiganga 2	dub=18:19766,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Inspetor Faustão e o Mallandro	dub=18:84743
 Inspetor Zende	dub=18:1404864,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751243.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75341.mp4
 Inspiração de Natal	dub=18:1032591,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755277.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39849.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75346.mp4
-Instadocs Alex Murdaugh Unconvicted (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289963.mp4
-Instadocs: Alex Murdaugh, Unconvicted	dub=18:1704846,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750573.mp4
+Instadocs Alex Murdaugh Unconvicted (2026)	dub=18:1704846,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289963.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750573.mp4
 Instadocs: IA Rebelde	dub=18:1790935,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750342.mp4
 Instadocs: O Jogo dos Palpites	dub=18:1736916,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310009.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750728.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310057.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310030.mp4
 Instadocs: The Decoy Plane (2026)	dub=18:1760262,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750206.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314658.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314513.mp4
@@ -351,7 +350,7 @@ Intermediário.com	dub=18:38842,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q3
 Internet - O Filme (2017)	dub=18:430128,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768325.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15681.mp4
 Interreflections	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75393.mp4
 Interrompemos a Programação	dub=18:745078,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762242.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26914.mp4
-Interrompida	dub=18:3558,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26924.mp4	leg=18:3558.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75404.mp4
+Interrompida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26924.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75404.mp4
 Intervencao (2021)	dub=18:651915,18:526307,https://embedplayer2.xyz/cdn/hls/e35310cf4ea54df3f36455634190cc4a/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761527.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4266.mp4
 Intimidade Entre Estranhos	dub=18:555794
 Into The Dark	dub=18:385928,18:951959
@@ -429,7 +428,7 @@ Invocacao do Mal 3: A Ordem do Demonio (2021)	dub=18:423108,http://dbonline.tech
 Invocacao do Mal 4 O Ultimo Ritual (2025)	dub=https://embedplayer2.xyz/cdn/hls/9b23cb4fa7d862cb829dd3138d32bb8a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256452.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752482.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249271.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75501.mp4
 Invocação do Mal	dub=18:138843,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759156.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249272.mp4
 Invocação do Mal - O Último Ritual/Invocação do Mal 4	dub=18:1038392
-Io capitano	dub=18:937746	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75511.mp4
+Io capitano	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75511.mp4
 Ip Man: A Batalha Final	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764707.mp4
 Ip Man: Nasce uma Lenda	dub=18:44249,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764764.mp4
 Ip Man: O Mestre do Kung Fu (2019)	dub=18:658009,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764846.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4303.mp4

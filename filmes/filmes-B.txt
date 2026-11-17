@@ -119,7 +119,7 @@ Bakhita - A Santa	dub=18:233805
 Baki Hanma x Kengan Ashura (2024)	dub=18:1263421,https://embedplayer2.xyz/cdn/hls/555e5184f0a12798acebeef3add6163e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8818.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65700.mp4
 Bakuage Sentai Boonboomger VS King-Ohger	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65695.mp4
 Bala Perdida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761582.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2331.mp4
-Bala Perdida (2014)	dub=18:706503
+Bala Perdida (2020)	dub=18:706503
 Bala Perdida 2	dub=18:948276,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54802.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760242.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2339.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65689.mp4
 Bala Perdida 3 (2025)	dub=18:1144430,https://embedplayer2.xyz/cdn/hls/da5f4403e27c97364f8fab49ddf1d7d2/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761940.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2347.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755109.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65705.mp4
 Bala Sem Nome	dub=18:1165832,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758226.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37783.mp4
@@ -148,7 +148,7 @@ Bambi 2 (2006)	dub=18:13205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Bambi 2: O Grande Príncipe da Floresta	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766498.mp4
 Bambi, Uma Aventura na Floresta (2024)	dub=18:1094473,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750189.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309804.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309790.mp4
 Banana Joe	dub=18:11340
-Banana Split	dub=18:549989,18:493058,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767992.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13442.mp4	leg=18:549989.mp4?lang=leg
+Banana Split (2018)	dub=18:493058,18:549989,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767992.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13442.mp4	leg=18:549989.mp4?lang=leg
 Banana Splits - O Filme	dub=18:608654,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54803.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768535.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53413.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65721.mp4
 Bancários	dub=18:759331
 Band of Brothers Legacy (2026)	dub=18:1762506	leg=18:1762506.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750226.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314481.mp4
@@ -240,12 +240,12 @@ Barbie: Super Princesa (2015)	dub=18:316322,http://acaidopt.org:80/movie/3llohwk
 Barbie: Vida de Sereia (2010)	dub=18:34134,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757717.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766191.mp4
 Barbie: Vida de Sereia 2	dub=18:91342,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766592.mp4
 Barbosa	dub=18:240774,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765916.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53320.mp4
-Bares, Bolos e Amizades	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753536.mp4
+Bares, Bolos e Amizades	dub=18:936952,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753536.mp4
 Bark (2024)	dub=18:421724,18:1324381,18:1146892,https://embedplayer2.xyz/cdn/hls/c97bdde70cff891230f68f3d92849daf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752037.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65785.mp4
 Barra Nova	dub=18:1170081,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751357.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253623.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254708.mp4
 Barra Pesada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307374.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307390.mp4
-Barrabás	dub=18:202643,18:213386,18:575882,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757700.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24157.mp4
-Barrabás (2019)	dub=18:24248
+Barrabás	dub=18:202643,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757700.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24157.mp4
+Barrabás (2019)	dub=18:213386,18:24248,18:575882
 Barraco de Família (2023)	dub=18:1000146,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757725.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37787.mp4
 Barravento	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301294.mp4
 Barreda	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313714.mp4
@@ -422,7 +422,7 @@ Beleza Oculta (2016)	dub=18:345920,http://acaidopt.org:80/movie/3llohwk4g9/kwf09
 Belfast (2021)	dub=18:777270,https://embedplayer2.xyz/cdn/hls/4fd6691fc1f71edbe9173f57ad688425/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763628.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24215.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66026.mp4
 Believer	dub=18:490001,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310016.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310025.mp4
 Believer 2	dub=18:958263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312528.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757084.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21197.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66006.mp4
-Belinda	dub=18:994751,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24218.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66011.mp4
+Belinda	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24218.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66011.mp4
 Bellatrix	dub=18:614595,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759732.mp4
 Belle	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764570.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766023.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8939.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66016.mp4
 Belle (2013)	dub=18:205601
@@ -443,6 +443,7 @@ Belén: Uma História de Injustiça	dub=18:1301844,http://acaidopt.org:80/movie/
 Bem Longe de Casa	dub=18:27984
 Bem a Tempo para o Natal	dub=18:363486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33650.mp4
 Bem vinda Estranha (2018)	dub=18:413852,https://embedplayer2.xyz/cdn/hls/e6c7afc6f41e6e8254d1ca8baf9accad/master.txt
+Bem vindo a Selva (2003)	dub=18:10159
 Bem-Vinda a Manhattan	dub=18:407335
 Bem-Vinda a Quixeramobim	dub=18:945805,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767786.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13502.mp4
 Bem-Vinda, Violeta (2023)	dub=18:976740
@@ -463,7 +464,7 @@ Bem-Vindos de Novo	dub=18:928979,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q
 Bem-vindo ao Mundo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24223.mp4
 Bem-vindo à Chechênia	dub=18:653579
 Bem-vindo à Selva	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765211.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2411.mp4
-Bem-vindo à Selva (2013)	dub=18:10159,18:205724
+Bem-vindo à Selva (2013)	dub=18:205724
 Bem-vindo à Tarzana	dub=18:787738,https://embedplayer2.xyz/cdn/hls/a067e0a606fee960a8a9936d5ad12b2d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751564.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249179.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249209.mp4
 Bem-vindos a Marwen	dub=18:351044,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768445.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13511.mp4
 Bem-vindos ao Meu Mundo	dub=18:284537,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764250.mp4
@@ -635,7 +636,7 @@ Blackbird	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ
 Blackbird Blackbird Blackberry	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66283.mp4
 Blackfish: Fúria Animal	dub=18:158999
 Blackjack The Jackie Ryan Story	dub=18:748341	leg=18:748341.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66284.mp4
-Blackout (2022)	dub=18:759507,18:1248965,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761915.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2457.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66294.mp4
+Blackout	dub=18:759507,18:1248965,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761915.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2457.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66294.mp4
 Blackout - Sentiu a Minha Falta?	dub=18:25690
 Blackout: A Batalha Final	dub=18:574982,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752945.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44034.mp4
 Blackpink Light Up The Sky	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66295.mp4
@@ -758,7 +759,7 @@ Boleiros Era uma Vez o Futebol	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-
 Bolero A Melodia Eterna	dub=18:1004348,https://embedplayer2.xyz/cdn/hls/0147a84d74015d5daf33882e49f2f676/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66442.mp4
 Boliche do Terror	dub=18:1225977,https://embedplayer2.xyz/cdn/hls/a425a7d84cf506ea809c88bda5f5efbf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758354.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47990.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754023.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66467.mp4
 Bolo de Limão com Sementes de Papoula	dub=18:793157,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756458.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762761.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24337.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66452.mp4
-Bolos e Amizades	dub=18:936952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54984.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41631.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66457.mp4
+Bolos e Amizades	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54984.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41631.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66457.mp4
 Bolsista de Ouro: Tudo é Negócio, Menos a Beleza	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98433.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302737.mp4
 Bolt: Supercao (2008)	dub=18:13053,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9055.mp4
 Bom Caminho	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751281.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253715.mp4
@@ -1050,15 +1051,15 @@ Bud 4: É Uma Jogada Perfeita!	dub=18:21518
 Bud: O Cão Amigo	dub=18:20737
 Bud: Uma Nova Cãofusão (2006)	dub=18:9973
 Budapest	dub=18:672406
-Buddy (2024)	dub=18:15177,18:1230407,18:457620,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757055.mp4	leg=18:15177.mp4?lang=leg,18:1514026.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66734.mp4
+Buddy (2024)	dub=18:1230407,18:15177,18:457620,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757055.mp4	leg=18:15177.mp4?lang=leg,18:1514026.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66734.mp4
 Buddy Games	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66744.mp4
 Buffalo 66	dub=18:9464
 Buffalo Bill	dub=18:43499
 Buffalo Boys (2018)	dub=18:493488,https://embedplayer2.xyz/cdn/hls/2d6fb9ec0e4c7ba947ad3510078c701e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762850.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24407.mp4
 Buffalo Kids	dub=18:1154304,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754979.mp4	leg=18:1154304.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66749.mp4
 Buffalo Soldiers: O Exército Negro	dub=18:976695,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760268.mp4
-Buffaloed	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66754.mp4
-Buffy, a Caça Vampiros	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758224.mp4
+Buffaloed	dub=18:547012	leg=18:547012.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66754.mp4
+Buffy, a Caça Vampiros	dub=18:10206,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758224.mp4
 Bug Diner	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755783.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66759.mp4
 BugiGangue no Espaço	dub=18:441601
 Bugonia (2025)	dub=18:701387,https://embedplayer2.xyz/cdn/hls/f76269acd13531ef66f5876c27a85638/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55028.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751979.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765982.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/357.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66764.mp4

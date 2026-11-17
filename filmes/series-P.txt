@@ -28,7 +28,7 @@ Painkiller Jane		0	22
 Paint with Love		0	12
 Pais Por Acidente		0	17
 Pais em Campo		0	6
-Paixao - Pasion		0	95
+Paixao - Pasion		0	162
 Paixao Explosiva - Senhorita Polvora - Senorita Polvora		0	70
 Paixao Secreta por Voce		0	14
 Paixao Sem Idade		0	8
@@ -93,7 +93,7 @@ Parceiras no Crime	2026	0	8
 Pardon the Intrusion Im Home		0	1
 Parede de Gelo		0	20
 Parenthood Minha Família		0	103
-Paris Has Fallen		0	24
+Paris Has Fallen		0	3
 Parish	2024	0	6
 Parot		0	10
 Parques Nacionais dos Estados Unidos		0	5
@@ -129,7 +129,7 @@ Paul Hollywood - Uma Grande Viagem pela Europa		1	3
 Paul Hollywoods Big Continental Road Trip		1	3
 Paulo Gustavo em 3 Atos		1	1
 Paulo O Apostolo		1	51
-Paw & Palaces		1	6
+Paw & Palaces (2025)		1	6
 Payback		1	6
 Peach Girl		1	25
 Peaky Blinders	2013	1	36
@@ -191,7 +191,7 @@ Pequeno Problema		1	26
 Pequeno Príncipe e Seus Amigos		1	39
 Pequenos Desastres	2025	1	6
 Pequenos Espiões: Missão Crítica		1	10
-Pequenos Gigantes da Natureza		1	20
+Pequenos Gigantes da Natureza		1	34
 Pequenos Incendios por Toda Parte		1	8
 Pequenos Profetas	2026	1	6
 Perception: Truques da Mente		1	39
@@ -201,7 +201,7 @@ Perdida		1	22
 Perdida no Tempo		1	961
 Perdido nas Estrelas		1	13
 Perdido pela Fama		1	10
-Perdidos em Oz		1	26
+Perdidos em Oz		1	31
 Perdidos no Espaço		1	85
 Perdiendo el juicio		1	10
 Perfect Propose		1	6
@@ -264,7 +264,7 @@ Pica Pau e Seus Amigos		2	113
 Pico da Neblina		2	20
 Pico dos Marins O Caso do Escoteiro Marco Aurelio		2	8
 Pictoline A Vida Secreta da sua Mente		2	5
-Pierre		2	4
+Pierre (2026)		2	4
 Pig Royalty		2	8
 Pijama Party		2	26
 Piloto de Oito Anos: Rumo ao Céu		2	1
@@ -278,7 +278,7 @@ Pinguim	2024	2	8
 Pinha e Pony		2	14
 Pinheiro Verde - Yesilcam		2	20
 Pink Lie: O Jogo da Mentira		2	12
-Pink Um Amor de Verao		2	12
+Pink Um Amor de Verao		2	20
 Pinky e o Cérebro		2	71
 Pintando com John		2	12
 Pinóquio		2	20
@@ -288,9 +288,8 @@ Pipoca da Ivete		2	25
 Pisando Fundo		2	10
 Piscinas Incríveis		2	16
 Pistol		2	6
-Pit Babe		2	13
+Pit Babe		2	52
 Pit Stop		2	10
-Pit Stop do Coração		2	52
 Pitch		2	10
 Pivoting: Rodando Na Vida		2	10
 Planet With		2	12
@@ -358,7 +357,7 @@ Polos Opostos		2	10
 Polowanie na cmy		2	1
 Polvo		2	2
 Pombo		2	20
-Pombo - Guvercin		3	16
+Pombo - Guvercin		2	16
 Pompeia: Além do Tempo com Tom Hiddleston		3	3
 Pon no Michi		3	12
 Ponto Cego	2015	3	109
@@ -478,7 +477,7 @@ Primeira-dama		3	24
 Primeiro Amor		3	8
 Primeiro Amor, a Mil Por Hora		3	100
 Primeiro Homem		3	131
-Primeiro as Damas: Mulheres no Hip-Hop	2023	4	4
+Primeiro as Damas: Mulheres no Hip-Hop	2023	3	4
 Primeiros Amores	2023	4	6
 Primeiros Anos		4	6
 Primo		4	8
@@ -598,7 +597,7 @@ Pátria		4	8
 Pátria Educadora		4	3
 Pânico: A Série		4	29
 Pão-Pão, Beijo-Beijo		4	167
-Pé na Cova		5	71
+Pé na Cova		4	71
 Pé na Jaca		5	179
 Pé-Grande do Alasca: O Assassino		5	8
 Pérola Negra		5	205

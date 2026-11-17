@@ -6,8 +6,7 @@ U311: Guerra em Alto Mar (2020)	dub=18:617499,http://acaidopt.org:80/movie/3lloh
 UFC 246: McGregor vs. Cowboy	dub=18:661416
 UFC 324: Gaethje vs. Pimblett	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751532.mp4
 UFC 325: Volkanovski vs. Lopes 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751314.mp4
-UFC 326 Holloway vs Oliveira 2 (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99325.mp4
-UFC 326: Holloway vs. Oliveira 2	dub=18:1600728,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751345.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751975.mp4
+UFC 326 Holloway vs Oliveira 2 (2026)	dub=18:1600728,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99325.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751345.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751975.mp4
 UFC 327: Procházka vs. Ulberg	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751493.mp4
 UFC Fight Night 258: Imavov vs. Borralho	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754682.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93111.mp4	leg=18:1534264.mp4?lang=leg
 UFC Fight Night 266: Bautista vs. Oliveira	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751283.mp4
@@ -19,8 +18,7 @@ UFC Fight Night 272: Moicano vs. Duncan	dub=http://acaidopt.org:80/movie/3llohwk
 UFC Fight Night 275 Della Maddalena vs Prates (2026)	dub=18:1683090
 UFC Fight Night 276 Allen vs Costa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256257.mp4
 UFC Fight Night 276 Allen vs Costa (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256171.mp4
-UFC Fight Night 278 Muhammad vs Bonfim (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306290.mp4
-UFC Fight Night 278: Muhammad vs. Bonfim	dub=18:1705930,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750985.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301418.mp4
+UFC Fight Night 278 Muhammad vs Bonfim (2026)	dub=18:1705930,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306290.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750985.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301418.mp4
 UFC Freedom 250 Topuria vs Gaethje	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306445.mp4
 UFC on ESPN 71: Taira vs. Park	dub=18:1511752
 UFO (2022)	dub=18:933357	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93122.mp4
@@ -198,8 +196,8 @@ Um Conto de Batman - Gotham City 1889 (2018)	dub=18:471474,https://embedplayer2.
 Um Conto de Fadas nas Montanhas	dub=18:566039,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762616.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32472.mp4
 Um Conto de Fadas nas Montanhas: Entrando para a Realeza	dub=18:642964,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753326.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43145.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93261.mp4
 Um Conto de Natal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755840.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762436.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1216.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93275.mp4
-Um Conto de Natal (2001)	dub=18:13189,18:1028548	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301273.mp4
-Um Conto de Natal (2022)	dub=18:1001865	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301272.mp4
+Um Conto de Natal (2001)	dub=18:13189	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301273.mp4
+Um Conto de Natal (2022)	dub=18:1001865,18:1028548	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301272.mp4
 Um Conto de Sereia (2017)	dub=18:455546
 Um Conto do Destino (2014)	dub=18:137321,https://embedplayer2.xyz/cdn/hls/e09d6d1aa7e10ec2722310dd1b3067d6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762422.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32462.mp4
 Um Contratempo (2017)	dub=18:411088,https://embedplayer2.xyz/cdn/hls/4eb9ee0f92166f86066294f9e7a5efc1/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752735.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46273.mp4
@@ -347,7 +345,7 @@ Um Heroi (2021)	dub=18:672208
 Um Heroi de Brinquedo (1996)	dub=18:9279,https://embedplayer2.xyz/cdn/hls/7d64696821588d8ee7c725da6a6c26c0/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764633.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767700.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20289.mp4
 Um Heroi de Brinquedo 2 (2014)	dub=18:289728
 Um Herói de Quatro Patas	dub=18:323130
-Um Herói em Ação	dub=18:825657,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7833.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93489.mp4
+Um Herói em Ação	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7833.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93489.mp4
 Um História de Amor no Campo (2023)	dub=18:1215717,https://embedplayer2.xyz/cdn/hls/87ca54c3664545339e4bcb214dad6bae/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43181.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93505.mp4
 Um Homem Abandonado (2025)	dub=18:1495723,https://embedplayer2.xyz/cdn/hls/593ba2a6d1b93bd36379a042c6a36625/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768767.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32514.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93500.mp4
 Um Homem Amaldiçoado	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750645.mp4
@@ -603,7 +601,7 @@ Um Por Todos (2020)	dub=18:651391,http://acaidopt.org:80/movie/3llohwk4g9/kwf099
 Um Porto Seguro	dub=18:112949,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753602.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43220.mp4
 Um Pouco de Caos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256196.mp4
 Um Pouco de Luz (2022)	dub=18:952869,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310663.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310702.mp4
-Um Pouco de Mim, um Pouco de Nós	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757661.mp4
+Um Pouco de Mim, um Pouco de Nós	dub=18:1165377,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757661.mp4
 Um Presente Perfeito	dub=18:227655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43225.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93951.mp4
 Um Presente da Tiffany	dub=18:916053,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767780.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20477.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93967.mp4
 Um Presente de Grego	dub=18:45715
@@ -896,7 +894,7 @@ Uma Lição de Vida (2001)	dub=18:26976
 Uma Lição do Passado (2023)	dub=18:1012173,https://embedplayer2.xyz/cdn/hls/0cd917a8e625eb16e5728301f2addabe/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754688.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763087.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32843.mp4	leg=18:1012173.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94437.mp4
 Uma Loira Em Apuros (1994)	dub=18:24405
 Uma Loira de Verdade	dub=18:29825,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253292.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253310.mp4
-Uma Loja Muito Louca	dub=18:13531,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20590.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94442.mp4
+Uma Loja Muito Louca	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20590.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94442.mp4
 Uma Longa Jornada (2015)	dub=18:228205,https://embedplayer2.xyz/cdn/hls/032e514834287a16d71c27ff3aa90757/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763724.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32848.mp4
 Uma Longa Queda	dub=18:141043
 Uma Longa Viagem (2013)	dub=18:127560,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762970.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32852.mp4
@@ -989,7 +987,7 @@ Uma Odisséia Chinesa: Parte Um – A Caixa de Pandora	dub=18:13345
 Uma Onda no Ar	dub=18:70748,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762871.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32892.mp4
 Uma Paixão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43287.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94617.mp4
 Uma Paixão Ardente (2022)	dub=https://embedplayer2.xyz/cdn/hls/7f1e734fc9f9d709860cfd04fe5486d3/master.txt
-Uma Paixão Escondida	dub=18:690846,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32896.mp4
+Uma Paixão Escondida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32896.mp4
 Uma Paixão Inesperada (2022)	dub=18:1102243,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763937.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32901.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94633.mp4
 Uma Paixão Roubada	dub=18:533550,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768487.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20657.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94627.mp4
 Uma Paixão em Nova York	dub=18:150641
@@ -1031,10 +1029,10 @@ Uma Saida de Mestre (2003)	dub=18:9654,https://embedplayer2.xyz/cdn/hls/e8cbcd30
 Uma Secretária de Futuro	dub=18:3525,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754858.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767492.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20682.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94693.mp4
 Uma Secretária de Morte	dub=18:51875
 Uma Segunda Chance	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253655.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751248.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753260.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43296.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254846.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751289.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754629.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94721.mp4
-Uma Segunda Chance (1991)	dub=18:397992,18:11364
+Uma Segunda Chance (1991)	dub=18:11364
 Uma Segunda Chance (2013)	dub=18:180787	leg=https://embedplayer2.xyz/cdn/hls/9cdd52118315c8285bf0f7000847ea0d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301277.mp4
-Uma Segunda Chance (2023)	dub=18:1094062	leg=https://embedplayer2.xyz/cdn/hls/9cdd52118315c8285bf0f7000847ea0d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301278.mp4
-Uma Segunda Chance (2026)	dub=https://embedplayer2.xyz/cdn/hls/9cdd52118315c8285bf0f7000847ea0d/master.txt
+Uma Segunda Chance (2023)	dub=18:1094062,18:397992	leg=https://embedplayer2.xyz/cdn/hls/9cdd52118315c8285bf0f7000847ea0d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301278.mp4
+Uma Segunda Chance (2026)	dub=18:1367642,https://embedplayer2.xyz/cdn/hls/9cdd52118315c8285bf0f7000847ea0d/master.txt
 Uma Segunda Chance Para Amar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59145.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768074.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20691.mp4
 Uma Segunda Chance: Rivais!	dub=18:588730,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763488.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32925.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94699.mp4
 Uma Sereia em Paris (2020)	dub=18:600479,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753186.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43310.mp4
@@ -1073,7 +1071,7 @@ Uma Vida Inteira (2023)	dub=18:1161680,https://embedplayer2.xyz/cdn/hls/6e7b7981
 Uma Vida Oculta (2019)	dub=18:403300,https://embedplayer2.xyz/cdn/hls/3e8d57243585e6d94382f49b50cd9297/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761942.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32968.mp4
 Uma Vida Quase Normal	dub=18:949087,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752242.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20709.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94795.mp4
 Uma Vida Sem Limites	dub=18:6478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99451.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99688.mp4
-Uma Vida Sem Roteiro	dub=https://embedplayer2.xyz/cdn/hls/b6815670ac65f5f620d1f22ac925cf9b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43315.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94799.mp4
+Uma Vida Sem Roteiro	dub=18:1060281,https://embedplayer2.xyz/cdn/hls/b6815670ac65f5f620d1f22ac925cf9b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43315.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94799.mp4
 Uma Vida de Esperança	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59175.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764305.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32954.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289970.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756031.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94782.mp4
 Uma Vida em Sete Dias (2002)	dub=18:16643,https://embedplayer2.xyz/cdn/hls/507d480466483c7b3186ef2e32294117/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757165.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767726.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20696.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94777.mp4
 Uma Vida: A História de Nicholas Winton (2023)	dub=18:760774,https://embedplayer2.xyz/cdn/hls/ffca63e0998d8cfddbbf2333d83ae8a8/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755801.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757381.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37211.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94771.mp4
@@ -1206,10 +1204,10 @@ Utopia Tropical	dub=18:1174816,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 Utopía	dub=18:1485122
 Utøya - 22 de Julho	dub=18:500006
 Uýra - A Retomada da Floresta	dub=18:967831,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759570.mp4
-um Agente Nada Discreto	dub=18:816,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20166.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93160.mp4
-um Espírito Circulante	dub=18:1361303,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255748.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255757.mp4
+um Agente Nada Discreto	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20166.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93160.mp4
+um Espírito Circulante	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255748.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255757.mp4
 um Pintor de Brodósqui	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314637.mp4
-um Pouco de Nós	dub=18:1165377,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39522.mp4
+um Pouco de Nós	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39522.mp4
 un lémur en fuga	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309879.mp4
 undertone (2026)	dub=18:1480387,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750795.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306433.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306447.mp4	leg=18:1480387.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289948.mp4
 Última Chamada para Istambul	dub=18:1044302,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753238.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756813.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43421.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96558.mp4

@@ -12,9 +12,7 @@ GNOSIA		0	21
 GOLPE ROMANTICO Quem e Jason Porter Porra		0	2
 GRANBELM		0	13
 GUlizar		0	10
-Ga-Rei Zero		0	12
-GaReiZero		0	1
-Gabby Duran: Baba de Aliens	2019	0	28
+GaReiZero		0	12
 Gabriel Monteiro – Herói Fake		0	4
 Gabriela		0	77
 Gachiakuta	2025	0	48
@@ -56,7 +54,7 @@ Garavito O Monstro Serial		0	4
 García!	2022	0	6
 Garfield e Seus Amigos		0	57
 Garfinho Pergunta		0	10
-Gargantia on the Verdurous Planet		0	1
+Gargantia on the Verdurous Planet		0	15
 Gargulas		0	78
 Garo Higashi no Kairou		0	1
 Garota Conhece o Mundo		0	72
@@ -118,8 +116,8 @@ Get Millie Black	2024	0	5
 Get Shorty: A Máfia do Cinema	2017	0	27
 Getsuyoubi no Tawawa		0	14
 Ghost Doctor		0	32
-Ghost Force		1	52
-Ghost Hound		1	22
+Ghost Force		0	52
+Ghost Hound		0	22
 Ghost Whisperer	2005	1	151
 Ghost in the Shell SAC		1	24
 Ghost in the Shell: SAC_	2045	1	24
@@ -238,8 +236,8 @@ Grag Hearts Drag		1	2
 Granblue Fantasy The Animation		1	14
 Grand Army		1	9
 Grand Hotel		1	13
-Grande Dragao		2	8
-Grande Hotel		2	42
+Grande Dragao		1	8
+Grande Hotel		1	42
 Grandes Animais		2	10
 Grandes Chefs Torneio dos Campeoes		2	35
 Grandes Expectativas		2	6
@@ -272,7 +270,7 @@ Greenleaf		2	61
 Gremlins: Segredos dos Mogwai		2	20
 Greta Thunberg: Um Ano para Mudar O Mundo		2	3
 Gretel e o Hamster		2	30
-Grey's Anatomy	2005	2	467
+Grey's Anatomy	2005	2	466
 Greys Anatomy	2005	2	919
 Grid		2	10
 Grimm	2011	2	123
@@ -291,7 +289,7 @@ Grávida do Pai do Meu Ex		2	10
 Grávida dos Gêmeos do Bilionário, O Amor Começa		2	1
 Gto		2	1
 Guarda costas Privado		2	12
-Guardian: The Lonely and Great God 10th Anniversary		2	1
+Guardian: The Lonely and Great God 10th Anniversary		2	3
 Guardiões da Floresta		2	20
 Guardiões da Justiça		2	7
 Guardiões da Mansão do Terror		2	20

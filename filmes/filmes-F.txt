@@ -66,7 +66,7 @@ Falcão: O Campeão dos Campeões	dub=http://acaidopt.org:80/movie/3llohwk4g9/kw
 Falcões da Noite	dub=18:21610,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755419.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21375.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72286.mp4
 Fale Comigo (2023)	dub=18:1008042,18:6535,https://embedplayer2.xyz/cdn/hls/c5140466a51b14a3f30b25fe2292d017/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55850.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758953.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26032.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290817.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301098.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72293.mp4
 Fale com as Abelhas	dub=18:475888	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72288.mp4
-Falei	dub=18:1046011,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15106.mp4
+Falei	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15106.mp4
 Fall & Order	dub=18:631049,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53076.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72296.mp4
 Fallen	dub=18:918356,18:283378
 Fallen II: The Journey	dub=18:1441859
@@ -203,7 +203,7 @@ Faça Ela Voltar (2025)	dub=18:1151031,https://embedplayer2.xyz/cdn/hls/4d89d4c2
 Faça Sua Jogada	dub=18:490017,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760821.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3681.mp4
 Faça Um Desejo!	dub=18:555457,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753881.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53086.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72439.mp4
 Faça a Coisa Certa (1989)	dub=18:925
-Faça o Que Eu Digo, Não Faça o Que Eu Faço	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768888.mp4
+Faça o Que Eu Digo, Não Faça o Que Eu Faço	dub=18:15373,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768888.mp4
 Fe nas Alturas (2023)	dub=18:878375,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55987.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762904.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26349.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73254.mp4
 Fear 2 - Uma Noite de Halloween	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308149.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308121.mp4
 Febre Espacial	dub=18:1283214,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754110.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72444.mp4
@@ -361,7 +361,9 @@ Fim da Estrada	dub=18:773975,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Fim da Linha (2021)	dub=18:761534,18:411632,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758952.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48921.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72612.mp4
 Fim da Sentenca (2019)	dub=18:472500,https://embedplayer2.xyz/cdn/hls/db27f8781d0d60f78323355b62e7b6bf/master.txt	leg=18:472500.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72628.mp4
 Fim de Caso	dub=18:20024,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753131.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754980.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42000.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72620.mp4
-Fim de Festa (2019)	dub=18:650040,18:441849,18:1206816,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750434.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763315.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26135.mp4
+Fim de Festa	dub=18:441849,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750434.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763315.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26135.mp4
+Fim de Festa (2019)	dub=18:650040
+Fim de Festa (2023)	dub=18:1206816
 Fim do Mundo (2019)	dub=18:531306,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765546.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33900.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254262.mp4
 Fim dos Dias	dub=18:9946,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760878.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764804.mp4
 Fim dos Tempos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761483.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3701.mp4
@@ -572,8 +574,8 @@ Foster: Adotados Pelo Sistema	dub=18:523997,http://acaidopt.org:80/movie/3llohwk
 Fotografia de um Assassinato	dub=18:333620
 Four Good Days	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764686.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26255.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72921.mp4
 Foxcatcher: Uma História Que Chocou o Mundo	dub=18:87492,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757223.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44567.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72916.mp4
-Foxter & Max: Um Cachorro de Outro Mundo	dub=18:611014,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765295.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11974.mp4
-Foxter e Max: Um Cachorro de Outro Mundo (2019)	dub=https://embedplayer2.xyz/cdn/hls/58ac6059dfbefc95f1a1d983e8c30e64/master.txt
+Foxter & Max: Um Cachorro de Outro Mundo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765295.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11974.mp4
+Foxter e Max: Um Cachorro de Outro Mundo (2019)	dub=18:611014,https://embedplayer2.xyz/cdn/hls/58ac6059dfbefc95f1a1d983e8c30e64/master.txt
 Foxy Brown	dub=18:22048
 Fragmentada (2025)	dub=18:1607773,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750422.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750520.mp4
 Fragmentado	dub=18:381288,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758943.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44573.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757433.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72931.mp4
@@ -582,8 +584,7 @@ Fragmentos para Vênus	dub=18:1523096	leg=http://dbonline.tech-cdn.top:80/movie/
 Framed	dub=18:821668
 Framing Britney Spears: A Vida de uma Estrela (2021)	dub=18:801528
 France: Sob Os Holofotes	dub=18:602334,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768172.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15261.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72937.mp4
-Francesco (2020)	dub=18:390271,18:1191710,18:749446,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759792.mp4
-Francesco - A História de São Francisco de Assis	dub=18:84981
+Francesco (2020)	dub=18:749446,18:390271,18:1191710,18:84981,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759792.mp4
 Francisco Brennand	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760123.mp4
 Francisco: O Papa do Povo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751205.mp4
 Frango Frito Casamento de Repente	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303215.mp4
@@ -604,7 +605,7 @@ Frankenweenie	dub=18:62214,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27
 Frankie (2019)	dub=18:505941,18:767964,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762252.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26264.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72952.mp4
 Frankie Freako (2024)	dub=18:1127407,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751788.mp4	leg=https://embedplayer2.xyz/cdn/hls/c658f7abbfc268c2e80930f8e41aed5d/master.txt
 Frankie e os Monstros (2025)	dub=18:1214130,https://embedplayer2.xyz/cdn/hls/075ba8268afadd965f8543873c29525d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751846.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/539.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72964.mp4
-Franklin	dub=18:1128606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250905.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754474.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9537.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72969.mp4
+Franklin	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250905.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754474.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9537.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72969.mp4
 Franz	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750899.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308642.mp4
 Franz Klammer - A Lenda do Esqui (2021)	dub=18:860712,https://embedplayer2.xyz/cdn/hls/16b7092e66bbc95e283cab5229b12409/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755921.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764197.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26260.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72957.mp4
 Fratura (2019)	dub=18:568091,https://embedplayer2.xyz/cdn/hls/8adc17ce37e5be1e81077c105676341e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752706.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44582.mp4

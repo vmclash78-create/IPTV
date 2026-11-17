@@ -28,7 +28,7 @@ Cacadores de Fugitivos		0	9
 Cacau - Cacau		0	142
 Cachito do Ceu		0	110
 Cachorrinhos do Outro Mundo		0	10
-Cachorro. Vai!		0	26
+Cachorro. Vai!		0	27
 Cachorros Grandes		0	8
 Cada Batida do Coração é para Você		0	1
 Cada Minuto Conta	2024	0	10
@@ -70,7 +70,7 @@ Caminhos dos Orixas		0	16
 Camp CrunchLabs		0	8
 Campeões do Barbecue		0	24
 Campeões do Sendokai		0	52
-Campfire Cooking in Another World with My Absurd Skill		0	24
+Campfire Cooking in Another World with My Absurd Skill		0	36
 Campus Drivers		0	6
 Can You Hear My Heart		0	16
 Can a Boy-Girl Friendship Survive?		0	12
@@ -78,7 +78,7 @@ Canaan		0	14
 Canada Shore		0	10
 Canada's Drag Race		0	10
 Canavial de Paixões		0	116
-Cancao de Verao - Yaz Sarkisi		0	9
+Cancao de Verao - Yaz Sarkisi		0	17
 Cancoes da Noite		0	13
 Cancoes de Halloween do Mickey e da Minnie		0	3
 Candice Renoir		0	94
@@ -98,7 +98,6 @@ Canto ao Tempo		0	5
 Canção de Amor Para Ilusão		0	16
 Canção de Amor no Inverno		0	36
 Canção de Luta		0	3
-Canção de Verão		0	8
 Capadocia		0	39
 Capital		0	4
 Capitalismo Americano O Culto a Riqueza		0	3
@@ -118,7 +117,7 @@ Captivated, by You		0	4
 Captive: Histórias sobre Reféns		0	8
 Capturando seu Assassino As Garotas da Ponte		0	3
 Capture Lover		0	10
-Cara & Coroa		1	211
+Cara & Coroa		0	211
 Cara Gente Branca		1	40
 Cara a Cara		1	10
 Cara a Cara - Yuz Yuze		1	9
@@ -180,7 +179,7 @@ Casa das Facas A Batalha		1	8
 Casa de Davi	2025	1	32
 Casa de Estudante - Ogrenci Evi - Student House		1	10
 Casa de Papel - Kağıt Ev		1	8
-Casa de Stassi Schroeder		1	1
+Casa de Stassi Schroeder		1	11
 Casa do Patrao		1	80
 Casa dos Sonhos da Barbie: O Desafio		1	1
 Casa em Obra do Pesadelo ao Sonho		1	8
@@ -238,7 +237,7 @@ Caso Arquivado Quem Matou JonBenét Ramsey?		1	3
 Caso Arquivado: Os Assassinatos do Tylenol		1	3
 Caso Jean Charles Um Brasileiro Morto Por Engano	2025	1	4
 Caso Roswell: O Veredito Final		1	6
-Casos Arquivados Mortes No Velho Oeste		2	6
+Casos Arquivados Mortes No Velho Oeste		1	6
 Casos Arquivados Os Assassinatos de Rifkin		2	2
 Casos Bizarros		2	9
 Casos Chocantes da Historia		2	8
@@ -256,8 +255,9 @@ Casual		2	13
 Casão: Num Jogo Sem Regras	2022	2	4
 Cat e Keet		2	78
 Cat's Eye		2	12
-CatDog		2	69
+CatDog		2	90
 Catalendas		2	86
+Catarina A Grande		2	4
 Catastrofes da Engenharia		2	6
 Catastrophe		2	16
 Catch Me at the Ballpark!		2	11
@@ -413,7 +413,6 @@ Chiikawa		3	24
 Chillin in Another World with Level 2 Super Cheat Powers		3	12
 Chimerica		3	4
 Chimp Crazy		3	4
-Chio's School Road		3	12
 Chios School Road		3	12
 Chip e Potato		3	10
 Chips		3	44
@@ -478,7 +477,7 @@ Cidade dos Homens		3	19
 Cidade dos Homens T		3	27
 Cidade dos Mortos	2019	3	8
 Cidade dos Pinguins	None	3	8
-Cidade em Chamas		4	8
+Cidade em Chamas		3	8
 Cidades Assombradas		4	16
 Cidades Desvendadas com Albert Lin		4	6
 Cilada	2025	4	20
@@ -598,7 +597,7 @@ Comer Correr Amar		4	28
 Cometerra	2025	4	7
 Começar de Novo		4	191
 Comidas Cheias De História		4	20
-Community		5	110
+Community		4	110
 Como Acabar Com o Natal: O Casamento		5	11
 Como Acabar com o Amor	2024	5	4
 Como Acabar com o Diwali		5	3
@@ -641,8 +640,7 @@ Como uma Onda		5	179
 Como Água para Chocolate		5	12
 Como é Possível?		5	18
 Companheiros de Viagem	2023	5	8
-Complexo de Salvador		5	3
-Complexo do Salvador		5	3
+Complexo do Salvador		5	6
 Compramos, Vendemos e Trocamos		5	12
 Compro Likes		5	5
 Compulsion		5	7
@@ -691,7 +689,6 @@ Conspiração Americana: Os Crimes da Octopus	2024	5	4
 Constantine	2014	5	13
 Constelacao	2024	5	8
 Construcoes que Mudaram o Mundo		5	8
-Construindo a Justiça		5	66
 Construindo no Alasca		5	99
 Construindo no Alaska		5	99
 Construções Remotas		5	74
@@ -710,19 +707,17 @@ Conto de Cinzas - Kül Masalı		5	10
 Contos		5	123
 Contos Do Loop		5	8
 Contos Futurísticos		5	7
-Contos da Noite		5	18
 Contos de The Walking Dead		5	12
-Contra a Correnteza		5	94
 Contra o Destino - Kadere Karsi		5	29
 Contracapa		5	13
 Contraste		5	8
 Contratempos		5	55
 Contrato de Casamento		5	16
-Control Z	2020	6	24
-Conturbado		6	19
-Conversa com Bial		6	189
-Conversando com um Serial Killer: O Canibal de Milwaukee		6	3
-Conversando com um serial killer O Filho de Sam		6	3
+Control Z	2020	5	24
+Conturbado		5	19
+Conversa com Bial		5	189
+Conversando com um Serial Killer: O Canibal de Milwaukee		5	3
+Conversando com um serial killer O Filho de Sam		5	3
 Conversando com um serial killer: A Mente de Charles Manson		6	3
 Conversando com um serial killer: Ted Bundy		6	4
 Conversando com um serial killer: o Palhaço Assassino		6	3
@@ -754,7 +749,7 @@ Coracao que Mente - Corazon que Miente		6	51
 Coracoes Destinados		6	38
 Coracoes Solitarios - Yalniz Kalpler		6	100
 Coragem Irmao		6	6
-Coragem, o Cão Covarde		6	53
+Coragem, o Cão Covarde		6	78
 Coração Alado		6	6
 Coração Escarlate		6	35
 Coração Esmeralda		6	105
@@ -763,7 +758,6 @@ Coração Indomável		6	225
 Coração Inimigo		6	16
 Coração Marcado	2022	6	24
 Coração Negro		6	107
-Coração Parasita		6	56
 Coração Que Mente		6	51
 Coração Selvagem - Corazón salvaje		6	119
 Coração Suburbano		6	6
@@ -838,12 +832,12 @@ Crepusculo dos Deuses	2024	6	8
 Crepúsculo de Um Crime		6	6
 Crescendo		6	10
 Crescidinhos		6	19
-Criadas E Malvadas		7	26
-Criadas Malignas - Hizmetçiler		7	3
-Criadores de Diversão		7	8
-Criadores de Supercarros		7	15
-Criadores do Futuro		7	3
-Criando Delicias		7	16
+Criadas E Malvadas		6	26
+Criadas Malignas - Hizmetçiler		6	3
+Criadores de Diversão		6	8
+Criadores de Supercarros		6	15
+Criadores do Futuro		6	3
+Criando Delicias		6	16
 Criando Dion		7	17
 Criando o Filho da Amante		7	1
 Criança		7	79

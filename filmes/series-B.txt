@@ -11,9 +11,8 @@ BBB Tá On		0	10
 BBK/BRNK		0	12
 BE@RBRICK		0	13
 BEARBRICK		0	13
-BEASTARS - O Lobo Bom		0	48
 BIA		0	180
-BLACK TRICK: The Lawyer Who Controls Justice		0	11
+BLACK TRICK: The Lawyer Who Controls Justice		0	22
 BMF	2021	0	38
 BO	2023	0	1
 BOCCHI THE ROCK!		0	12
@@ -67,7 +66,6 @@ Bakumatsu		0	12
 Bakumatsu Kikansetsu Irohanihoheto		0	3
 Bakumatsu Rock		0	22
 Bakuretsu Hunters		0	29
-Bakuten!!		0	12
 Balacobaco		0	163
 Ballard Crimes Sem Resposta	2025	0	10
 Ballers	2015	0	73
@@ -116,10 +114,10 @@ Barra Bravas		0	8
 Barrabrava		0	16
 Barracuda Queens		0	12
 Barrados No Baile - Nova Geração		0	114
-Barrados no Baile	1990	0	461
+Barrados no Baile	1990	0	463
 Barras Invisiveis		0	16
-Barriga de Aluguel		1	386
-Barry	2018	1	32
+Barriga de Aluguel		0	386
+Barry	2018	0	32
 Barão 40		1	4
 Barão da Pisadinha DVDs & Shows		1	31
 Baseado Numa Historia Real	2023	1	24
@@ -171,7 +169,7 @@ Beakman's World: O Mundo de Beakman		1	26
 Beartown		1	5
 Beast Games		1	20
 Beast Tamer		1	13
-Beastars		1	36
+Beastars		1	48
 Beat		1	7
 Beat Bugs		1	52
 Beat Runners		1	1
@@ -228,7 +226,7 @@ Bem-Vindos ao Clube da Sedução		1	8
 Bem-Vindos à Vizinhança		1	7
 Bem-vindo ao consultório de Irabu		1	11
 Bem-vindo à Família Plath		1	79
-Bem-vindo à Família: O Assassinato de Dan Markel		1	4
+Bem-vindo à Família: O Assassinato de Dan Markel		1	8
 Bem-vindos ao Wrexham		1	46
 Bem-vindos ao Éden	2022	1	16
 Bem-vindos à Familia		1	13
@@ -238,8 +236,8 @@ Ben 10: Força Alienígena		1	46
 Ben 10: Omniverse		1	80
 Ben 10: Supremacia Alienígena		1	52
 Ben Bu Cihana Sığmazam		1	33
-Ben Hur		2	2
-Ben Leman		2	13
+Ben Hur		1	2
+Ben Leman		1	13
 Ben-Hur: A Série	2026	2	23
 Ben-To		2	12
 Benjaman Kyle O Homem Sem Identidade		2	4
@@ -251,6 +249,7 @@ Bergerac		2	6
 Berlim	1945	2	8
 Berlim e a Dama com Arminho	2026	2	8
 Berlim e as Joias de Paris		2	8
+Berlim: 1945	1945	2	3
 Bernard-jou Iwaku.		2	12
 Bernie Madoff O Golpista de Wall Street		2	9
 Berserk		2	25
@@ -311,7 +310,6 @@ Billy the Kid	2022	2	39
 Binbou Shimai Monogatari		2	10
 Binbougami Ga!		2	13
 Binchou-tan		2	6
-Bingo e Rolly		2	2
 Biohackers		2	12
 Biologia Avançada		2	34
 Bipolar		2	12
@@ -331,7 +329,7 @@ Black Blood Brothers		2	6
 Black Box		2	13
 Black Butler		2	71
 Black Cat	2024	2	23
-Black Clover	2017	2	194
+Black Clover	2017	2	297
 Black Doves	2024	2	12
 Black Dynamite		2	19
 Black Earth Rising		2	8
@@ -348,7 +346,6 @@ Black Space		2	8
 Black Summer	2019	2	16
 Black Summoner		2	12
 Black Torch		2	12
-Black Trick		2	22
 Black ish		2	173
 Blackout: Tarde Demais		2	6
 Blackshore		2	6
@@ -358,9 +355,9 @@ Blade of the Immortal		2	13
 Bladedance of Elementalers		2	12
 Blades of the Guardians		2	15
 Blanca		2	18
-Blaze E Os Monster Machines		3	20
-Blaze and the Monster Machines		3	113
-Bleach	2004	3	1449
+Blaze E Os Monster Machines		2	20
+Blaze and the Monster Machines		2	113
+Bleach	2004	2	1449
 Bleach: Thousand-Year Blood War		3	49
 Blend S		3	14
 Bless This Mess		3	9
@@ -373,7 +370,7 @@ Blippi e As Profissões		3	12
 Blockbuster		3	10
 Blogueirinha Entrevista		3	6
 Blood		3	20
-Blood & Treasure		3	1
+Blood & Treasure		3	25
 Blood Blockade Battlefront		3	23
 Blood Drive		3	13
 Blood Lad		3	22
@@ -387,6 +384,7 @@ Bloom		3	11
 Bloom Life		3	15
 Blossom		3	113
 Blossoms Shanghai		3	30
+Blossoms Shanghai (2023)		3	30
 Blue Archive The Animation		3	11
 Blue Bloods	2010	3	342
 Blue Box		3	61
@@ -478,8 +476,8 @@ Botched: Desastres do Bisturi		3	155
 Botões Vermelhos - Kızıl Goncalar		3	25
 Bounen No Xamdou		3	26
 Boybands O Lado Sombrio da Fama		3	2
-Boys II Planet		4	3
-Boys Prazer Sem Limites		4	7
+Boys II Planet		3	3
+Boys Prazer Sem Limites		3	7
 Bozo Show		4	100
 Božena		4	4
 BrainDead		4	13

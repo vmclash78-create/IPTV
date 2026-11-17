@@ -53,9 +53,7 @@ You Should Be The One To Come Kiss Me		0	1
 You and I Are Polar Opposites		0	37
 You are Ms Servant		0	24
 You re the Best Lee Soon Shin		0	50
-You're Killing Me		0	6
 You're The Worst		0	62
-Youkai Apartment no Yuuga na Nichijou		0	26
 Young David		0	5
 Young Famous e African		0	24
 Young Farts Trailer Parts		0	5
@@ -72,6 +70,7 @@ Your Pretty Face Is Going to Hell		0	42
 Your Sky: Hare Nochi Koi		0	9
 Your Summer, My Storm		0	10
 Your Summer,My Storm (2026)		0	20
+Youre Killing Me		0	6
 Youth	2026	0	8
 Youth Water Polo		0	12
 Yowamushi Pedal		0	25

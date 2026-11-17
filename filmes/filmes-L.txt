@@ -101,7 +101,7 @@ Labirinto do Terror	dub=18:523936
 Labirinto: A Magia do Tempo	dub=18:13597,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765651.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34124.mp4
 Lacos Desfeitos	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302925.mp4
 Lacuna (2021)	dub=18:811782,18:602155,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762454.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27244.mp4
-Ladies First (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289526.mp4
+Ladies First (2026)	dub=18:1368881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289526.mp4
 Lado a Lado (1998)	dub=18:9441
 Lado a Lado com o Amor	dub=18:10324,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767061.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15930.mp4
 Lado a Lado com o Inimigo	dub=18:14180
@@ -258,8 +258,8 @@ Lego DC Super Hero Girls: Escola de Super Vilãs (2018)	dub=18:506734,https://em
 Lego Disney Frozen Operacao Papagaios do Mar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752173.mp4
 Lego Disney Princesa: Bagunça Mágica (2026)	dub=18:1732625,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750270.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313334.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313418.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313370.mp4
 Lego Friends - Para Sempre Amigas	dub=18:378858
-Lego Jurassic World A Exposicao Secreta Parte 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9799.mp4
-Lego Jurassic World A Exposicao Secreta Parte 2	dub=18:584088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9810.mp4
+Lego Jurassic World A Exposicao Secreta Parte 1	dub=18:584088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9799.mp4
+Lego Jurassic World A Exposicao Secreta Parte 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9810.mp4
 Lego Jurassic World: A Fuga do Indominus Rex	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766555.mp4
 Lego Scooby-Doo! Hollywood Assombrada	dub=18:392536,https://embedplayer2.xyz/cdn/hls/2ef2ad5f55b7583de07c7b3ad4fa5cbf/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9828.mp4
 Lego Scooby-Doo! O Golpe da Praia	dub=18:461054
@@ -301,6 +301,7 @@ Lendas da Vida	dub=18:4958,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27
 Lendas do Crime	dub=18:276907,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21509.mp4
 Lendas dos Herois do Condor Os Valentes (2025)	dub=18:1185528,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751272.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4658.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76853.mp4
 Lendo Lolita em Teera (2024)	dub=18:1096846,https://embedplayer2.xyz/cdn/hls/b5f6c7862d7a0a4345291acc7a138a0d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752605.mp4
+Lendo o Mundo	dub=18:1515487
 Leningrad	dub=18:2325
 Lenita	dub=18:1188596,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751813.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53576.mp4
 Leo (2023)	dub=18:758330,18:1075794,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750278.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9854.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755113.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76862.mp4
@@ -407,10 +408,10 @@ Lilo e Stitch	dub=https://embedplayer2.xyz/cdn/hls/35e556752717d78a474e6bd4d576a
 Lilo e Stitch (2025)	dub=https://embedplayer2.xyz/cdn/hls/35e556752717d78a474e6bd4d576a7eb/master.txt
 Lilo, Lilo, Crocodilo (2022)	dub=18:830784,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773388.mp4
 Lima Barreto ao Terceiro Dia	dub=18:900706,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762385.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27356.mp4
-Limbo (2020)	dub=18:554371,18:610908,18:818694,18:870691,18:1072963,18:583755,18:1077670,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764480.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27367.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77052.mp4
+Limbo (2020)	dub=18:583755,18:554371,18:610908,18:818694,18:870691,18:1077670,18:1072963,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764480.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27367.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77052.mp4
 Limbo - Entre o Céu e o Inferno	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767077.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16014.mp4
 Limerence	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77062.mp4
-Limiar	dub=18:1606458,18:763237,18:1608686,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759568.mp4
+Limiar	dub=18:763237,18:1608686,18:1606458,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759568.mp4
 Limite Tóxico	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256216.mp4
 Limite Vertical (2000)	dub=18:11678
 Limite da Honra (2017)	dub=18:458257,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753365.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44790.mp4
@@ -459,11 +460,10 @@ Little Jaffna	dub=18:1193692	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Little Necro Red	dub=18:588446
 Little Nick - Um Diabo Diferente	dub=18:9678,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768633.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250807.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250480.mp4
 Little Wing	dub=18:1170000,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56671.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754462.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762909.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27391.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77113.mp4
-Liuben	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313371.mp4
+Liuben	dub=18:1120607	leg=18:1120607.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313371.mp4
 Live Is Life (2022)	dub=18:800855,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16023.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77118.mp4
-Live dos Infernos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750249.mp4
+Live dos Infernos	dub=18:1437195,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750249.mp4
 Lively vs Baldoni: Escândalo em Hollywood (2025)	dub=18:1457986,18:1518193,https://embedplayer2.xyz/cdn/hls/0a0670a101bdb4c10cf9377bf8bb74a7/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751728.mp4
-Livestream from Hell	dub=18:1437195
 Living	dub=18:928329
 Living the Land	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751016.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256482.mp4
 Livrai-nos de Todo o Mal	dub=18:481367
@@ -539,6 +539,7 @@ Looney Tunes: Fuga dos Coelhos (2015)	dub=18:349045,https://embedplayer2.xyz/cdn
 Loop	dub=18:610203,18:820520,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765799.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36018.mp4
 Loop Infinito (2024)	dub=18:1143128,https://embedplayer2.xyz/cdn/hls/890b6ce982b3845385877a8a81d0ad8b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756389.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765917.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36037.mp4	leg=https://embedplayer2.xyz/cdn/hls/b3d6324e8c16727b22be0b40755eb74a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77216.mp4
 Looper: Assassinos do Futuro	dub=18:59967,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760933.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4730.mp4
+Looping	dub=18:1652393
 Lord - A lenda da Dinastia (2016)	dub=18:369552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9906.mp4
 Lord of Wolves (2024)	dub=18:1340571,https://embedplayer2.xyz/cdn/hls/23d4ffecd940cb4a41e12fabd171c4c9/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b4d4a93f1c94a7f44fab09f0bf558823/master.txt
 Lorelei	dub=18:906237
@@ -571,7 +572,7 @@ Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)	dub=18:11895,https:/
 Loucademia de Polícia 7: Missão Moscou (1994)	dub=18:11546,https://embedplayer2.xyz/cdn/hls/2fcae901938c4979ed7c07c7bf25d31f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764794.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767840.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16091.mp4
 Loucamente Por Você	dub=18:1489187
 Loucas Aventuras em Punjab	dub=18:1252455,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754027.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767394.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16095.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77263.mp4
-Loucas Por Amor, Viciadas em Dinheiro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761713.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769026.mp4
+Loucas Por Amor, Viciadas em Dinheiro	dub=18:12085,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761713.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769026.mp4
 Loucas em Apuros (2023)	dub=18:864168,https://embedplayer2.xyz/cdn/hls/b72abd30e671cd68f70a099c10bd3ba8/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766886.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16109.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77273.mp4
 Loucas pra Casar (2015)	dub=18:261461,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768531.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16099.mp4
 Louco Não, Doido	dub=18:682589,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759553.mp4
@@ -640,7 +641,7 @@ Lua Negra (1996)	dub=18:49763,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Lua Negra O Super Carro	dub=18:36349
 Lua de Cristal	dub=18:45179
 Lua de Fel	dub=18:10497,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762153.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27451.mp4
-Lua de Júpiter (2017)	dub=18:444395,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34134.mp4
+Lua de Júpiter (2017)	dub=18:444395,18:174772,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34134.mp4
 Lua de Mel	dub=18:254191
 Lua de Mel Inusitada	dub=18:1257750,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753113.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757071.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42136.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77359.mp4
 Lua de Mel com a Minha Mãe	dub=18:955971,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767689.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16145.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77355.mp4
@@ -648,7 +649,6 @@ Lua de Mel por Acidente (2017)	dub=18:460627
 Lua de Sangue (2021)	dub=18:794960,18:1056237,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755870.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767720.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16149.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77364.mp4
 Lua-de-Mel a Três	dub=18:12518
 Luar Sobre Parador	dub=18:34014
-Luben	dub=18:1120607	leg=18:1120607.mp4?lang=leg
 Luca	dub=18:508943,18:251877,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56692.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766493.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9933.mp4
 Lucas, um Intruso no Formigueiro (2006)	dub=18:9906,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765617.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34149.mp4
 Luccas Neto em Duas Babás Muito Esquisitas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4750.mp4
@@ -696,7 +696,7 @@ Luiz Melodia - No Coração do Brasil	dub=18:1262155,http://acaidopt.org:80/movi
 Lukas (2018)	dub=18:525554,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765136.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4754.mp4
 Lula, o Filho do Brasil (2010)	dub=18:43615
 Lulli (2021)	dub=18:700127,https://embedplayer2.xyz/cdn/hls/ae5b9ee83588277375ac63ce2df4c7fc/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758060.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38473.mp4
-Lulu, a Rinoceronte	dub=https://embedplayer2.xyz/cdn/hls/db663902b18f3685c5e29dcca07f7080/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97400.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751538.mp4
+Lulu, a Rinoceronte	dub=18:1465476,https://embedplayer2.xyz/cdn/hls/db663902b18f3685c5e29dcca07f7080/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97400.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751538.mp4
 Lumberjack the Monster	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755102.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77401.mp4
 Lumina (2024)	dub=18:1113231,https://embedplayer2.xyz/cdn/hls/54728a75fb918d179a53e19df28950c2/master.txt	leg=https://embedplayer2.xyz/cdn/hls/9344ebd311651148091b4cd554fb9d5e/master.txt
 Lumière! A Aventura Continua	dub=18:639590	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250635.mp4
@@ -765,7 +765,7 @@ Lâmina dos 47 Ronins (2022)	dub=18:732459,http://acaidopt.org:80/movie/3llohwk4
 Lâminas da Morte - A Maldição de Jack, o Estripador	dub=18:418808
 Lênin!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27506.mp4
 Lírios Não São Para Mim	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751113.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256483.mp4
-Lúcia e o Bode	dub=18:779918,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16183.mp4
+Lúcia e o Bode	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16183.mp4
 Lúcia e o Sexo	dub=18:1364,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310020.mp4	leg=18:1364.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310031.mp4
 Lúcio Flávio o Passageiro da Agonia (1977)	dub=18:178032
 L’été dernier	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77483.mp4

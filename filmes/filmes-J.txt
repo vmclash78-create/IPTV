@@ -33,7 +33,7 @@ Jack Osbourne: Em Busca dos Ovnis (2022)	dub=18:1020191,https://embedplayer2.xyz
 Jack Reacher o Ultimo Tiro (2012)	dub=18:75780,https://embedplayer2.xyz/cdn/hls/bff5e0f70391c2d7c8b64717fcdc889b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760404.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4320.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315686.mp4
 Jack Reacher: Sem Retorno (2016)	dub=18:343611,https://embedplayer2.xyz/cdn/hls/6cefeb5d364ee2df026cfa2036c2f0c5/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761346.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4319.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306280.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301117.mp4
 Jack Ryan de Tom Clancy: Guerra Fantasma (2026)	dub=18:1380291,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300825.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256148.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256149.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256150.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750957.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290824.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314397.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751059.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314515.mp4
-Jack Walker, Um Herói em Ação	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760969.mp4
+Jack Walker, Um Herói em Ação	dub=18:825657,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760969.mp4
 Jack e Jill Nos Passos do Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/87d47a8e956b82d75b7d45dc9c7a0dba/master.txt
 Jack e a Mecanica do Coracao (2014)	dub=18:204436
 Jack the Giant Killer	dub=18:177566
@@ -218,9 +218,9 @@ Jogo Perigoso (2022)	dub=18:1027385,https://embedplayer2.xyz/cdn/hls/12460429e4e
 Jogo Perigoso Vitimas da Heranca (2022)	dub=https://embedplayer2.xyz/cdn/hls/7f0e905430e8e70dd5e6f3293185a2c6/master.txt
 Jogo Perigoso Vítimas da Legado	dub=https://embedplayer2.xyz/cdn/hls/7f0e905430e8e70dd5e6f3293185a2c6/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75921.mp4
 Jogo Perigoso Vítimas do Legado	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759505.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49394.mp4
-Jogo Sujo	dub=18:941109,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253564.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764840.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21492.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75930.mp4
+Jogo Sujo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253564.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764840.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21492.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75930.mp4
 Jogo Sujo (1973)	dub=18:26202,18:256687	leg=https://embedplayer2.xyz/cdn/hls/aafa34357f091897d27ee0216095bdd5/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301119.mp4
-Jogo Sujo (2025)	dub=https://embedplayer2.xyz/cdn/hls/aafa34357f091897d27ee0216095bdd5/master.txt
+Jogo Sujo (2025)	dub=18:941109,https://embedplayer2.xyz/cdn/hls/aafa34357f091897d27ee0216095bdd5/master.txt
 Jogo Tabu Taboo Match	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303208.mp4
 Jogo da Morte (1978)	dub=18:13333,https://embedplayer2.xyz/cdn/hls/8566b1ae6389e737aaa8db12747c6596/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761874.mp4
 Jogo da Morte 2	dub=18:48773,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760412.mp4
@@ -293,7 +293,7 @@ Johatsu - Die sich in Luft auflösen	leg=http://dbonline.tech-cdn.top:80/movie/k
 John Candy Eu Me Amo	dub=18:1492608	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75978.mp4
 John Carter: Entre Dois Mundos (2012)	dub=18:49529,https://embedplayer2.xyz/cdn/hls/ba53b62f0e7a37e5bafdccd65cc6d289/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760590.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4402.mp4
 John Farnham: Finding the Voice	dub=18:1071647,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753952.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75988.mp4
-John McAfee: Gênio, Polêmico e Fugitivo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759484.mp4
+John McAfee: Gênio, Polêmico e Fugitivo	dub=18:1005342,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759484.mp4	leg=18:1005342.mp4?lang=leg
 John Wick - De Volta ao Jogo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761832.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311990.mp4
 John Wick 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4410.mp4
 John Wick 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4406.mp4

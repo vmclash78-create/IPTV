@@ -202,7 +202,7 @@ Calibre (2018)	dub=18:474051
 Calibre 9	dub=18:660598,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2575.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66847.mp4
 Califórnia	dub=18:362876,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758054.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37895.mp4
 Califórnia (1947)	dub=18:111459
-Califórnia, Terra do Ouro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761890.mp4
+Califórnia, Terra do Ouro	dub=18:20237,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761890.mp4
 Call Me Mother	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313717.mp4
 Call Me by Your Name	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66868.mp4
 Call in the Cheapskates	dub=18:858213,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754166.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760073.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764510.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66858.mp4
@@ -441,7 +441,7 @@ Cartões de Natal	dub=18:626319,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q3
 Carvao (2022)	dub=18:872989,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758068.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37914.mp4
 Carved (2024)	dub=18:551737,https://embedplayer2.xyz/cdn/hls/e45fc6b008141bdb8a8c15f218a12ec4/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754448.mp4	leg=18:551737.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67107.mp4
 Carver's Gate	dub=18:87744
-Casa Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768756.mp4
+Casa Amor	dub=18:1278666,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768756.mp4
 Casa Amor Exclusive for Ladies	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13769.mp4
 Casa Comigo, Cara	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97853.mp4
 Casa Comigo?	dub=18:25195,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753646.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41665.mp4
@@ -502,7 +502,7 @@ Casamento em Família	dub=18:972230,http://acaidopt.org:80/movie/3llohwk4g9/kwf0
 Casamento no Paraíso	dub=18:459828
 Casamento às Cegas Brasil: Depois do Altar	dub=18:1220450,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760135.mp4
 Casamentos Cruzados (2025)	dub=18:996821,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55132.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751424.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768485.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13807.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754680.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67152.mp4
-Casamentos e Outros Desastres	dub=18:627103,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13821.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67170.mp4
+Casamentos e Outros Desastres	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13821.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67170.mp4
 Casanova (2005)	dub=18:9681
 Casar Denovo De Jeito Nenhum Ex Bilionário!	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303474.mp4
 Cascavel	dub=18:560362,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753289.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44107.mp4
@@ -543,7 +543,7 @@ Castigos da Traição (2023)	dub=18:1142414,https://embedplayer2.xyz/cdn/hls/305
 Castle Falls (2021)	dub=18:683311
 Castores Zumbis	dub=18:254474
 Catacumbas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256510.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256473.mp4
-Catarina, a Menina Chamada Passarinha	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765382.mp4
+Catarina, a Menina Chamada Passarinha	dub=18:795109,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765382.mp4
 Catch .44	dub=18:75736
 Categoria 5	dub=18:316359
 Caterpillar	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751122.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253816.mp4
@@ -611,7 +611,7 @@ Caçador de Pesadelos	dub=18:43713
 Caçador do Espaço: Aventura na Zona Proibida (1983)	dub=18:26978
 Caçadora de Gigantes	dub=18:419831,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754992.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764421.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765728.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33679.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67295.mp4
 Caçadoras de Aventuras (1995)	dub=18:35645,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763580.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24592.mp4
-Caçadores (2022)	dub=18:848526,18:85,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752566.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756192.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44116.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67310.mp4
+Caçadores (2022)	dub=18:85,18:848526,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752566.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756192.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44116.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67310.mp4
 Caçadores De Homens	dub=18:372782,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760901.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2736.mp4
 Caçadores das Almas Perdidas	dub=18:541099,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767044.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13843.mp4
 Caçadores de Aventuras (2023)	dub=18:1123210,https://embedplayer2.xyz/cdn/hls/5b83b92f74e5f574d6dcf606482d7779/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251408.mp4
@@ -637,7 +637,7 @@ Caçula	dub=18:1158915,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Caída libre (2024)	dub=18:1243650	leg=https://embedplayer2.xyz/cdn/hls/be4d7a48d4abc53686d5494e6f65af9f/master.txt
 Cedo Demais (2024)	dub=18:1123050,https://embedplayer2.xyz/cdn/hls/02c991f3658a8006feda834f46c3e455/master.txt
 Cegonhas A História Que Não Te Contaram (2016)	dub=18:332210,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9123.mp4
-Cegos, Surdos e Loucos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768215.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13851.mp4
+Cegos, Surdos e Loucos	dub=18:11185,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768215.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13851.mp4
 Ceia Macabra	dub=18:686003,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757212.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759322.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48187.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67357.mp4
 Cela 211	dub=18:33273,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761754.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2752.mp4
 Cela 213: Bem-vindo ao Inferno	dub=18:289097
@@ -741,7 +741,7 @@ Charlie O Super Cao (2025)	dub=18:1276521,http://acaidopt.org:80/movie/3llohwk4g
 Charlie Says Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67473.mp4
 Charlie Um Cachorro Especial (2022)	dub=18:634120,https://embedplayer2.xyz/cdn/hls/9393a9ca96fbbfe1baa70c807e8138b9/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756075.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11943.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67477.mp4
 Charlie em Ação (2023)	dub=18:945937,https://embedplayer2.xyz/cdn/hls/832f74116f979e08d3e5cfe5b6367b9f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55185.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754485.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760615.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2783.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67468.mp4
-Charlie, Você Está Aí?	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759147.mp4
+Charlie, Você Está Aí?	dub=18:433989,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759147.mp4
 Charlies Angels	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67488.mp4
 Charm City Kings	dub=18:552532,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764669.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24610.mp4
 Charro!	dub=18:18688
@@ -754,7 +754,7 @@ Cheetah	dub=18:65157
 Cheetah - Uma Aventura na África	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762306.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24605.mp4
 Chef	dub=18:212778,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755873.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767493.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13864.mp4	leg=18:212778.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67491.mp4
 Chef Jack O Cozinheiro Aventureiro (2023)	dub=18:1061617,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9140.mp4
-Chef! É Natal!	dub=18:1132189,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753170.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39742.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67494.mp4
+Chef! É Natal!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753170.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39742.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67494.mp4
 Chefe de Estação	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67504.mp4
 Chefes de Estado (2025)	dub=18:749170,https://embedplayer2.xyz/cdn/hls/944b1924a34c7aa8b3721279d4bb68b0/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55190.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761365.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2789.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755799.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67499.mp4
 Chefão Por Acaso (1989)	dub=18:25074,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761118.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2785.mp4
@@ -1193,7 +1193,7 @@ Como Pétalas que Caem	dub=18:890322,http://acaidopt.org:80/movie/3llohwk4g9/kwf
 Como Roubar um Banco	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55283.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755396.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759376.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68077.mp4
 Como Roubar um Banco (2024)	dub=18:1291143
 Como Roubar um Banco (2026)	dub=18:1437511
-Como Sair de Buffalo	dub=18:547012,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767709.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14050.mp4	leg=18:547012.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68082.mp4
+Como Sair de Buffalo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767709.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14050.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68082.mp4
 Como Salvar o Papai Noel	dub=18:238302,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9153.mp4
 Como Se Fosse a Primeira Vez	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766773.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14045.mp4
 Como Se Fosse a Primeira Vez (2019)	dub=18:1824,18:555790
@@ -1373,9 +1373,9 @@ Consumed (2024)	dub=18:1280990,18:333665,https://embedplayer2.xyz/cdn/hls/d2896e
 Conta Comigo (1986)	dub=18:235,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763904.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24844.mp4	leg=18:235.mp4?lang=leg
 Contagem	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314611.mp4
 Contagem Regressiva	dub=18:388862
-Contagem Regressiva (1994)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773382.mp4
-Contagem Regressiva (2013)	dub=18:89593,18:178,18:172803
-Contagem Regressiva (2016)	dub=18:472760,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773404.mp4
+Contagem Regressiva (1994)	dub=18:178,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773382.mp4
+Contagem Regressiva (2013)	dub=18:172803
+Contagem Regressiva (2016)	dub=18:472760,18:89593,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773404.mp4
 Contagem regressiva: Katie Taylor vs. Amanda Serrano	dub=18:1507699,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760189.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756338.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68286.mp4
 Contaminados Pelo Medo	dub=18:1223272,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755466.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765882.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35642.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68281.mp4
 Contaminação	dub=18:23410,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758437.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48282.mp4
@@ -1636,6 +1636,7 @@ Cosmion: A Guerra do Tempo	dub=18:732698,http://acaidopt.org:80/movie/3llohwk4g9
 Cosmoball	dub=18:517096	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68571.mp4
 Cosmoball: Os Guardiões do Universo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765833.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35661.mp4
 Cosmópolis	dub=18:49014,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764102.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24968.mp4
+Costa Partida	dub=18:254559
 Costura Rasgada	dub=https://embedplayer2.xyz/cdn/hls/0040e1780644ea90bcaafc5f6aae918b/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250463.mp4
 Countdown	dub=18:599975,18:82477	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68581.mp4
 Countdown to Death: Pablo Escobar	dub=18:500552
@@ -1708,7 +1709,8 @@ Criatura Maligna	dub=18:741592,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 Criatura Misteriosa	dub=18:695452
 Criatura Voraz (2025)	dub=18:1145221,https://embedplayer2.xyz/cdn/hls/f0e152ef227ed66f8bd4ce121fe06bfd/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55358.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758606.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48365.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756945.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68678.mp4
 Criaturas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757032.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758032.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48370.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68676.mp4
-Criaturas (1986)	dub=18:1561737,18:3980
+Criaturas (1986)	dub=18:3980
+Criaturas (2021)	dub=18:1561737
 Criaturas 2	dub=18:10127
 Criaturas 3	dub=18:12702
 Criaturas 4	dub=18:12525
@@ -1936,6 +1938,6 @@ Cúmplices	dub=18:507470
 Cúmplices de um Segredo	dub=18:206192
 Cúpula do Caos	dub=18:1187417,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758378.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48411.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757291.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69053.mp4
 Cœur de Pirate aux Francofolies de La Rochelle	dub=18:291318,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758127.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38069.mp4
-como você é babaca!	dub=18:717637,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41756.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68138.mp4
-controle (2026)	dub=https://embedplayer2.xyz/cdn/hls/873706fea6d7ef00d57b9929edda1f6a/master.txt
-¡Casa Bonita Mi Amor!	dub=18:1278666,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755049.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96393.mp4
+como você é babaca!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41756.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68138.mp4
+controle (2026)	dub=18:1369243,https://embedplayer2.xyz/cdn/hls/873706fea6d7ef00d57b9929edda1f6a/master.txt
+¡Casa Bonita Mi Amor!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755049.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96393.mp4

@@ -13,7 +13,7 @@ Vai Processar		0	20
 Vai Que Cola		0	520
 Vai na Fé		0	179
 Vai!		0	12
-Vai, Cachorro. Vai!		0	30
+Vai, Cachorro. Vai!		0	29
 Vai,Cara de Lula!		0	2
 Vale Tudo		0	204
 Vale Tudo com Tim Maia		0	3
@@ -32,7 +32,6 @@ Vamos Curtir		0	4
 Vamos Ficar Bem	2026	0	8
 Vamos Rodar com Otis		0	18
 Vamos Tchecar!		0	8
-Vamos Terminar Nossa Amizade Agora		0	5
 Vamos Volei de Praia Feminino		0	36
 Vamp		0	179
 Vampire Dormitory		0	12
@@ -118,7 +117,7 @@ Victoria Beckham		0	3
 Vida		0	187
 Vida Após a Morte		0	6
 Vida Após a Morte com Tyler Henry		0	9
-Vida Hoje - Hayat Bugün		1	8
+Vida Hoje - Hayat Bugün		0	8
 Vida Imoral		1	11
 Vida Inesperada		1	26
 Vida Interrompida: O Caso Natalee Holloway		1	3
@@ -182,7 +181,7 @@ Violetta Momentos Favoritos		1	72
 Vira Lata		1	101
 Viral Hit		1	18
 Virando O Jogo Dos Campeões		1	30
-Virei Vampira	2023	1	16
+Virei Vampira	2023	1	24
 Virgens		1	6
 Virgin River	2019	1	74
 Vis A Vis	2015	1	40
@@ -238,7 +237,7 @@ Você é Meu Tesouro		1	2
 Você é Minha Glória		1	32
 Você é Minha Primavera		1	16
 Você é a Melhor, Lee Soon Shin		1	50
-Vocês Não Me Conhecem		2	4
+Vocês Não Me Conhecem		1	4
 Voepass 2283: A Queda	2026	2	3
 Volta Pra Mim		2	95
 Volta Priscila	2024	2	4

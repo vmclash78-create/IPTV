@@ -8,16 +8,16 @@ KEVIN CAN FK HIMSELF		0	8
 KILL BLUE		0	13
 KING OF PRISM -Shiny Seven Stars-		0	4
 KLASS 95 O Poder da Beleza	2024	0	45
-KND A Turma do Bairro		0	66
+KND A Turma do Bairro		0	93
 KOKKOKU		0	12
 KONOSUBA -An Explosion on This Wonderful World!		0	12
-KONOSUBA -God's blessing on this wonderful world!		0	33
+KONOSUBA -God's blessing on this wonderful world!		0	35
 KOWLOON GENERIC ROMANCE		0	13
 KPOPPED Sem Fronteiras		0	8
 Kabe Koji		0	8
 Kacis Fuga Terrorista		0	16
 Kafka		0	6
-Kage no Jitsuryokusha ni Naritakute!		0	32
+Kage no Jitsuryokusha ni Naritakute!		0	64
 Kageki Shojo!!		0	13
 Kaiba		0	12
 Kaibutsu Oujo		0	25
@@ -32,7 +32,7 @@ Kakushigoto		0	12
 Kakushite Makina san		0	19
 Kalahari Land of Secret Alliances		0	3
 Kally's Mashup		0	120
-Kallys Mashup		0	125
+Kallys Mashup		0	80
 Kamen Rider Black RX		0	47
 Kamen Rider Blade		0	98
 Kamen Rider Build		0	49
@@ -68,7 +68,6 @@ Kaulitz and Kaulitz		0	16
 Kawaii dake ja Nai Shikimori-san		0	12
 Kaya chan Isnt Scary		0	5
 Kaze No Stigma		0	24
-Kaçış: Fuga Terrorista		0	16
 Kdabra		0	13
 Keep Your Hands Off Eizouken		0	12
 Keeping Up With the Kardashians		0	27
@@ -118,7 +117,7 @@ Kim Possible		0	86
 Kimberley O Oeste Selvagem da Australia		0	3
 Kimi Ga Aruji De Shitsuji Ga Ore De		0	13
 Kimi wa Houkago Insomnia		0	13
-KimiKiss Pure Rouge		1	24
+KimiKiss Pure Rouge		0	24
 Kimse Bilmez		1	88
 Kin		1	30
 Kindaichi: O Jovem Detetive		1	10
@@ -156,7 +155,7 @@ Kleo	2022	1	14
 Klondike		1	6
 Knightfall		1	18
 Knightfall: A Guerra do Santo Graal		1	10
-Knot		1	12
+Knot		1	44
 Knuckles	2024	1	6
 Koala Man		1	8
 Kobato.		1	24
@@ -173,7 +172,7 @@ Komi-san wa, Comyushou desu. – Live Action		1	24
 Komori-san Wa Kotowarenai!		1	13
 Kong: O Rei dos Macacos		1	23
 Kono Minikuku Mo Utsukushii Sekai		1	12
-Konosuba	2016	1	33
+Konosuba	2016	1	5
 Konosuba As Bencaos de Deus Neste Mundo Maravilhoso		1	33
 Konosuba Uma Explosao Neste Mundo Maravilhoso		1	12
 Koodinimi: Annika		1	6

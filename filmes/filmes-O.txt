@@ -87,7 +87,7 @@ O Alvo 2 (2016)	dub=18:402331,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o
 O Alvo Final	dub=18:32845
 O Alvo: Bem-Vindo ao Inferno (2009)	dub=18:17577,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761977.mp4
 O Amadurecer de Andy	dub=18:735667,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755563.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763347.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28516.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80961.mp4
-O Amanhecer (2020)	dub=18:736818,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758555.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50110.mp4
+O Amanhecer	dub=18:736818,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758555.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50110.mp4
 O Amanhecer Mais Escuro	dub=18:423733
 O Amanhecer da Guerra	dub=18:592371
 O Amanhecer do Quarto Reich	dub=18:412467
@@ -330,7 +330,7 @@ O Bicho Vai Pegar 4	dub=18:382517,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 O Bilionario Realiza Minha Lista De Desejos	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303087.mp4
 O Bingo Macabro	dub=18:802226,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57330.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761168.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5419.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81209.mp4
 O Bloqueio	dub=18:772371,18:999138,https://embedplayer2.xyz/cdn/hls/be97fb1bcee5e03b748c12d83f9d09f3/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762243.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28593.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757367.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81214.mp4
-O Bolo do Presidente	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750347.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750311.mp4
+O Bolo do Presidente	dub=18:1464883,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750347.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750311.mp4
 O Bom Bandido (2025)	dub=18:1242419,https://embedplayer2.xyz/cdn/hls/cd7b5f645d8433a6c753d05f471c0ffa/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768973.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/796.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81219.mp4
 O Bom Dinossauro (2015)	dub=18:105864,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768681.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10260.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313946.mp4
 O Bom Doutor	dub=18:613349,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767045.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17388.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81225.mp4
@@ -475,6 +475,7 @@ O Caso Richard Jewell	dub=18:292011,http://acaidopt.org:80/movie/3llohwk4g9/kwf0
 O Caso Rosa Peral	dub=18:1167520,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759683.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81365.mp4
 O Caso Roswell	dub=18:43275
 O Caso Susie	dub=18:842948,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766816.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17427.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757270.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81369.mp4
+O Caso Villa Caprice	dub=18:745589
 O Caso do Policial Canibal	dub=18:333382
 O Caso dos Estrangeiros (2025)	dub=18:1193128,https://embedplayer2.xyz/cdn/hls/d468fb4c8777628955f54c6704d83c81/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751431.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253613.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254787.mp4	leg=18:1193128.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751320.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250934.mp4
 O Caso dos Irmãos Menendez	dub=18:1360610,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756995.mp4	leg=18:1360610.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81343.mp4
@@ -598,10 +599,10 @@ O Começo do Natal	dub=18:613080,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q
 O Comite da Vida (2021)	dub=18:653024,https://embedplayer2.xyz/cdn/hls/3d14ad235187cc61d7a2ed45cbacfd70/master.txt
 O Comitê de Deus	dub=https://embedplayer2.xyz/cdn/hls/3d14ad235187cc61d7a2ed45cbacfd70/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764486.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28718.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81499.mp4
 O Companheiro Fatidico do Alfa Arrogante	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302949.mp4
-O Compositor (2020)	dub=18:1315992,18:575157,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762946.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28728.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81511.mp4
+O Compositor (2020)	dub=18:575157,18:1315992,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762946.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28728.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81511.mp4
 O Compromisso de Hasan	dub=18:835963
 O Computador de Tênis	dub=18:177229,18:29228,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28724.mp4
-O Concerto Maldito, Sinfonia do Mal (2023)	dub=https://embedplayer2.xyz/cdn/hls/c47915d92643a20b651076b049640bfa/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758577.mp4
+O Concerto Maldito, Sinfonia do Mal (2023)	dub=18:845643,https://embedplayer2.xyz/cdn/hls/c47915d92643a20b651076b049640bfa/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758577.mp4
 O Concurso (2013)	dub=18:210802
 O Conde (2023)	dub=18:991708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57350.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759020.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50270.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81516.mp4
 O Conde de Monte Cristo	dub=18:11362,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57356.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760302.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5485.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756954.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81521.mp4
@@ -905,7 +906,7 @@ O Elo Perdido (2009)	dub=18:18162,http://acaidopt.org:80/movie/3llohwk4g9/kwf099
 O Empregado do Mês	dub=18:745608,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756421.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17581.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81945.mp4
 O Encantador de Cavalos	dub=18:547,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764693.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28876.mp4
 O Encanto da Sereia	dub=18:1279596,https://embedplayer2.xyz/cdn/hls/d47835f59cf8000ff3fffa366bfffd79/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769076.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81950.mp4
-O Encontro (2015)	dub=18:477084,18:10943,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98106.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99057.mp4
+O Encontro (2015)	dub=18:10943,18:477084,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98106.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99057.mp4
 O Encontro Mais Longo de Todos	dub=18:1103576,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759977.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81956.mp4
 O Encontro Perfeito	dub=18:46003,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757588.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40923.mp4
 O Encontro de Carl	dub=18:1076364,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251517.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766223.mp4
@@ -942,11 +943,11 @@ O Esconderijo	dub=18:27303
 O Escondido	dub=18:12476
 O Escorpiao Rei (2002)	dub=18:9334,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760475.mp4
 O Escorpiao Rei 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5592.mp4
-O Escorpiao Rei 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5608.mp4
+O Escorpiao Rei 2	dub=18:13486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5608.mp4
 O Escorpiao Rei 3 (2012)	dub=18:78049,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5596.mp4
 O Escorpiao Rei 4	dub=18:297291,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5600.mp4
 O Escorpiao Rei 5	dub=18:522417,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5612.mp4
-O Escorpião Rei 2: A Saga de um Guerreiro	dub=18:13486,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761904.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5610.mp4
+O Escorpião Rei 2: A Saga de um Guerreiro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761904.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5610.mp4
 O Escorpião Rei 3: Batalha Pela Redenção	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762000.mp4
 O Escorpião Rei 4: Na Busca Pelo Poder	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761736.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5604.mp4
 O Escorpião Rei 5: O Livro das Almas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761986.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5616.mp4
@@ -1181,7 +1182,7 @@ O Gigante da Montanha	dub=18:159621
 O Gigante de Ferro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765785.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10377.mp4
 O Gladiador de Roma	dub=18:158093
 O Golfinho - A História de Um Sonhador	dub=18:51800,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52969.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751823.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82301.mp4
-O Golfinho 2	dub=18:227735,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17645.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82296.mp4
+O Golfinho 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17645.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82296.mp4
 O Golfinho Kick	dub=18:582902
 O Golpe (2019)	dub=18:607822,18:519382,https://embedplayer2.xyz/cdn/hls/e396bdd021c0466f2de9c5cd0d716207/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21663.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82289.mp4
 O Golpe Final	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750843.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750671.mp4
@@ -1399,7 +1400,7 @@ O Hóspede	dub=18:241848,18:1231958,http://acaidopt.org:80/movie/3llohwk4g9/kwf0
 O Hóspede Oculto	dub=18:1058588	leg=18:1058588.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313378.mp4
 O INVENCIVEL TARDIO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301464.mp4
 O IRMAO DELES PERDIDO NO ESPACO - SEU IRMAO PERDIDO NO ESPACO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301586.mp4
-O Idoso (2025)	dub=https://embedplayer2.xyz/cdn/hls/a9699ac95cd6f54192206bbd40649122/master.txt
+O Idoso (2025)	dub=18:1135303,https://embedplayer2.xyz/cdn/hls/a9699ac95cd6f54192206bbd40649122/master.txt
 O Iluminado	dub=18:694,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755039.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759014.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249275.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82526.mp4
 O Ilusionista (2006)	dub=18:1491,https://embedplayer2.xyz/cdn/hls/bdd0dda7955e04cb2e54147b4f7cd3e0/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34353.mp4
 O Imaginário	dub=18:913001,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754449.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10385.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82531.mp4
@@ -1770,7 +1771,7 @@ O Metrô da Morte	dub=18:3581.m3u8
 O Meu Nome é Bill	dub=18:13243,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314428.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314541.mp4
 O Meu Pequeno Eu	leg=18:1278101.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249230.mp4
 O Meu Pé de Laranja Lima	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301320.mp4
-O Meu, O Seu, O Nosso Natal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750629.mp4
+O Meu, O Seu, O Nosso Natal	dub=18:1401044,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750629.mp4
 O Milagre (2022)	dub=18:727490,18:321050,18:823766,https://embedplayer2.xyz/cdn/hls/6acad3cb18d7abfc13c58c63a6e454bc/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752639.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45312.mp4	leg=18:727490.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82943.mp4
 O Milagre Veio do Espaço	dub=18:11548,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17815.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82958.mp4
 O Milagre da Vida	dub=18:655087
@@ -1871,14 +1872,14 @@ O Mundo Assombrado de El Superbeasto	dub=http://dbonline.tech-cdn.top:80/movie/k
 O Mundo Depois de Nos (2023)	dub=18:726209,https://embedplayer2.xyz/cdn/hls/ba79b93292649b874160cf50a51abf35/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57582.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756850.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763316.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29367.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83070.mp4
 O Mundo Fantastico de Oz (1985)	dub=18:13155
 O Mundo Imaginário do Dr. Parnassus	dub=18:8054,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311993.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312022.mp4
-O Mundo Ira Tremer (2025)	dub=https://embedplayer2.xyz/cdn/hls/fe234f404144bad54e876f39a929949a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250084.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250095.mp4
+O Mundo Ira Tremer (2025)	dub=18:1419826,https://embedplayer2.xyz/cdn/hls/fe234f404144bad54e876f39a929949a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250084.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250095.mp4
 O Mundo Mágico da Bela	dub=18:20235,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253419.mp4
 O Mundo Mágico de Andrew Bennett	dub=18:1103508,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765476.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34383.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83076.mp4
 O Mundo Mágico de Rufus (2021)	dub=18:698410,https://embedplayer2.xyz/cdn/hls/9e698efbcca1f396e096fcf6839aa064/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10411.mp4
 O Mundo Mágico dos Trapalhões	dub=18:334179,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757697.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38852.mp4
 O Mundo Perdido: Jurassic Park (1997)	dub=18:330,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765029.mp4
 O Mundo Se Suaviza Com Você	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302798.mp4
-O Mundo Vai Tremer	dub=18:1419826,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768788.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98301.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98365.mp4
+O Mundo Vai Tremer	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768788.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98301.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98365.mp4
 O Mundo a Seus Pés	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764626.mp4
 O Mundo de Andy	dub=18:1850
 O Mundo de Jack e Rose	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255435.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255458.mp4
@@ -1952,7 +1953,7 @@ O Nome da Rosa	dub=18:192,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/276
 O Nome do Jogo (1995)	dub=18:8012
 O Nono Passageiro	dub=18:434520,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758861.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50719.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83150.mp4
 O Nosso Amor Vai Embora	dub=18:735554
-O Nosso Natal	dub=18:1401044,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309065.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309068.mp4
+O Nosso Natal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309065.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309068.mp4
 O Nosso Pai	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757952.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38853.mp4
 O Novato	dub=18:1647,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311994.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312023.mp4
 O Novelo	dub=18:853667,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761973.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29390.mp4
@@ -2065,7 +2066,7 @@ O Paraíso é Logo Aqui	dub=18:13107,http://dbonline.tech-cdn.top:80/movie/ke-vi
 O Parque	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750489.mp4	leg=18:1084225.mp4?lang=leg
 O Parque Macabro	dub=18:40341
 O Parque dos Sonhos (2019)	dub=18:400157,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756488.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10434.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83226.mp4
-O Passado (2019)	dub=18:382475,18:519674,18:66461,18:152780,18:471507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21708.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83237.mp4
+O Passado (2019)	dub=18:471507,18:382475,18:519674,18:66461,18:152780,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21708.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83237.mp4
 O Passado Bate à Porta (2024)	dub=18:1252342,https://embedplayer2.xyz/cdn/hls/215a28d8b30bd204526eca6569c527a1/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752109.mp4
 O Passado Nunca Morre (2026)	dub=18:1215919,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307257.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307352.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307300.mp4
 O Passado Não Perdoa	dub=18:6643,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753743.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35107.mp4
@@ -2097,7 +2098,6 @@ O Pequeno Nemo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765897.mp
 O Pequeno Nicolau (2009)	dub=18:31203
 O Pequeno Orfao (2018)	dub=18:458302,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753564.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42455.mp4
 O Pequeno Principe (2015)	dub=18:309809,18:37627,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756826.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765694.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34393.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83258.mp4
-O Pequeno Pé Grande	dub=18:676627
 O Pequeno Roubo do Grande Nunu (2023)	dub=18:1147049,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766741.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17861.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83253.mp4
 O Pequeno Spirou (2017)	dub=18:398947,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767373.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17869.mp4
 O Pequeno Stuart Little	dub=18:10137,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10435.mp4
@@ -2326,7 +2326,7 @@ O Que Deixamos Pelo Caminho	dub=18:1333087,http://acaidopt.org:80/movie/3llohwk4
 O Que Esperar Quando Você Está Esperando	dub=18:76494,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42480.mp4
 O Que Eu Mais Desejo	dub=18:79382
 O Que Eu Vi, O Que Nós Veremos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760371.mp4
-O Que Faria Jesus	dub=18:58913,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53211.mp4
+O Que Faria Jesus	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53211.mp4
 O Que Fazemos nas Sombras	dub=18:246741
 O Que Fica por Dizer	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750255.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750721.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750194.mp4
 O Que Ficou Para Tras (2020)	dub=18:575774,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763898.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29649.mp4
@@ -2874,8 +2874,8 @@ O Truque do Amor (2025)	dub=18:1397854,https://embedplayer2.xyz/cdn/hls/794ebc0d
 O Tubarão Fantasma	dub=18:216539
 O Tubarão do Pântano	dub=18:63749
 O Tubarão: À Deriva (2022)	dub=18:803114,https://embedplayer2.xyz/cdn/hls/8e97f89adc0a20f844f394391ca2e54b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758295.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50946.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84213.mp4
-O Tunel (2016)	dub=18:390497,18:3577,18:46221
-O Tunel (2019)	dub=18:606154	leg=https://embedplayer2.xyz/cdn/hls/3a3e116d1d3d412a0667d8db7f75d8b7/master.txt
+O Tunel (2016)	dub=18:390497
+O Tunel (2019)	dub=18:606154,18:3577,18:46221	leg=https://embedplayer2.xyz/cdn/hls/3a3e116d1d3d412a0667d8db7f75d8b7/master.txt
 O Turista	dub=18:37710,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761885.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6093.mp4
 O Turista Acidental	dub=18:31052,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756347.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768557.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18051.mp4	leg=18:31052.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84220.mp4
 O Tutor	dub=18:995012,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753311.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45439.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84230.mp4
@@ -2951,7 +2951,7 @@ O Verão de Adam	dub=18:486233,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 O Verão de Sam	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314552.mp4
 O Verão que Mudou Tudo	dub=18:928480,https://embedplayer2.xyz/cdn/hls/f7559d9fcc08a287d0ed1895563705f6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751295.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251679.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254802.mp4	leg=18:928480.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751438.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251706.mp4
 O Vestido	dub=18:77708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38931.mp4
-O Veterano	dub=18:1135303,18:346646,https://embedplayer2.xyz/cdn/hls/a9699ac95cd6f54192206bbd40649122/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752181.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/945.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84287.mp4
+O Veterano	dub=18:346646,https://embedplayer2.xyz/cdn/hls/a9699ac95cd6f54192206bbd40649122/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752181.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/945.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84287.mp4
 O Viajante	dub=18:699676,18:32612,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756433.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758486.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50958.mp4	leg=18:699676.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84301.mp4
 O Viajante do Tempo (2021)	dub=18:598011,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36267.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84281.mp4
 O Vice (2018)	dub=18:429662
@@ -3043,7 +3043,6 @@ O Último Guerrilheiro	dub=18:814791
 O Último Herege	dub=18:790409,https://embedplayer2.xyz/cdn/hls/4630297dd1a8557e57dbd953c9962baa/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751563.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249277.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249232.mp4
 O Último Homem Negro em San Francisco (2019)	dub=18:522039
 O Último Hotel (2016)	dub=18:413727,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766669.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18060.mp4
-O Último Imperador	dub=18:746
 O Último Lutador (2023)	dub=18:1179269,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251438.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752183.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6179.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84429.mp4
 O Último Matador	dub=18:9333,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760647.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764863.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6105.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255461.mp4
 O Último Mestre do Ar	dub=18:10196
@@ -3133,8 +3132,8 @@ Obrigado Por Fumar	dub=18:9388,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 Obrigado Por Ligar	dub=18:369772,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767681.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18131.mp4
 Observador (2022)	dub=18:807356,https://embedplayer2.xyz/cdn/hls/2e0c8089672f0006e4e155d37134ec63/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57788.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752711.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45477.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84524.mp4
 Observadores	dub=18:645710,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57798.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760803.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6203.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84529.mp4
-Obsessao (2019)	dub=18:1107551,18:479490,18:82390,18:332672,18:571622	leg=18:1107551.mp4?lang=leg
-Obsessao (2026)	dub=18:1339713
+Obsessao (2019)	dub=18:571622
+Obsessao (2026)	dub=18:1107551,18:1339713,18:479490,18:82390,18:332672	leg=18:1107551.mp4?lang=leg
 Obsessiva	dub=18:17335,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307379.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307410.mp4
 Obsessão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307692.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308089.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751005.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752529.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752863.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45478.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307698.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307695.mp4
 Obsessão Fatal	dub=18:17494
@@ -3368,7 +3367,7 @@ Operação Sombra (2025)	dub=18:1419406,http://acaidopt.org:80/movie/3llohwk4g9/
 Operação Sombra: Jack Ryan (2014)	dub=18:137094,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761280.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6261.mp4
 Operação Supletivo: Agora Vai!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768617.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18167.mp4
 Operação Tempestade (2023)	dub=18:1076291,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756146.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757554.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37106.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84915.mp4
-Operação Terra	dub=18:10640,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6303.mp4	leg=18:10640.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84900.mp4
+Operação Terra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6303.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84900.mp4
 Operação Zodíaco (2012)	dub=18:98567,https://embedplayer2.xyz/cdn/hls/fd09e30ad8dd2bd9dd3d6c1cd322c924/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6311.mp4
 Operação de Espionagem	dub=18:1406491,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759396.mp4
 Operação de Risco (2023)	dub=18:1145491,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755430.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760340.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6282.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84811.mp4
@@ -3438,7 +3437,7 @@ Os Aldeoes	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751217.mp4,ht
 Os Alegres Vigaristas	dub=18:714947
 Os Aloprados	dub=18:13260,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767434.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18195.mp4
 Os Altos e Baixos do Amor (2025)	dub=18:1214481,https://embedplayer2.xyz/cdn/hls/8871aa5ac54629f958ce2ed78581f9fc/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767191.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757326.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18199.mp4	leg=18:1214481.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85051.mp4
-Os Amantes (2017)	dub=18:2574,18:426253,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767426.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18204.mp4
+Os Amantes (2017)	dub=18:426253,18:2574,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767426.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18204.mp4
 Os Animais Somos Nós	dub=18:490000,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762249.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30189.mp4
 Os Aniquiladores	dub=18:129302
 Os Anjos do Sexo	dub=18:450847
@@ -3487,12 +3486,12 @@ Os Caubois Do Apocalipse (2016)	dub=18:532125,http://acaidopt.org:80/movie/3lloh
 Os Cavaleiros do Apocalipse	dub=18:18476,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763438.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30208.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253837.mp4
 Os Cavaleiros do Zodiaco Saint Seiya O Comeco (2023)	dub=18:455476,https://embedplayer2.xyz/cdn/hls/79598b412b5aa51286e6fcdc3c458c2a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57853.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57863.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764617.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765502.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766469.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34491.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85097.mp4
 Os Cavaleiros do Zodíaco O Prólogo do Céu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10612.mp4
-Os Cavaleiros do Zodíaco Os Guerreiros do Armageddon	dub=18:83088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10629.mp4
+Os Cavaleiros do Zodíaco Os Guerreiros do Armageddon	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10629.mp4
 Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses	dub=18:83091,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764915.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10608.mp4
 Os Cavaleiros do Zodíaco: A Lenda do Santuário	dub=18:287590,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765033.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10617.mp4
 Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena	dub=18:66105,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764973.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10621.mp4
 Os Cavaleiros do Zodíaco: O Santo Guerreiro	dub=18:83090,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764945.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10625.mp4	leg=18:83090.mp4?lang=leg
-Os Cavaleiros do Zodíaco: Os Guerreiros do Armagedon	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765002.mp4
+Os Cavaleiros do Zodíaco: Os Guerreiros do Armagedon	dub=18:83088,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765002.mp4
 Os Cavaleiros do Zodíaco: Prólogo do Céu	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764855.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764888.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766206.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766300.mp4
 Os Caça-Noivas	dub=18:316023,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306323.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301206.mp4
 Os Caçadores da Biblioteca Perdida	dub=18:732684,https://embedplayer2.xyz/cdn/hls/b9e62e5da0106f0ffcba70f8aa05d851/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756754.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761494.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6335.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85102.mp4
@@ -3824,7 +3823,7 @@ Os Selvagens da Noite	dub=18:11474,http://acaidopt.org:80/movie/3llohwk4g9/kwf09
 Os Sem Floresta	dub=18:7518,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10691.mp4
 Os Sete Corvos	dub=18:322796
 Os Sete Gatinhos	dub=18:186411,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256233.mp4
-Os Sete Pecados Capitais - Amaldiçoado pela Luz	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766891.mp4
+Os Sete Pecados Capitais - Amaldiçoado pela Luz	dub=18:843241,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766891.mp4
 Os Sete Pecados Capitais Fúria de Edimburgo – Parte 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10696.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85446.mp4
 Os Sete Samurais	dub=18:346,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761722.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6438.mp4	leg=18:346.mp4?lang=leg
 Os Seus, Os Meus, Os Nossos	dub=18:13499,18:27983,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768641.mp4	leg=18:13499.mp4?lang=leg
@@ -3976,34 +3975,34 @@ Oz: Mágico e Poderoso (2013)	dub=18:68728,http://acaidopt.org:80/movie/3llohwk4
 Ozzy No Escape from Now	dub=18:1508191	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85603.mp4
 o Amante	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96703.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96891.mp4
 o Assassino (2001)	leg=https://embedplayer2.xyz/cdn/hls/76e1d41d5d4541fe17c0849031030f2b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307297.mp4
-o Assassino BTK	dub=18:1550785	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81083.mp4
+o Assassino BTK	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81083.mp4
 o Bart e o Loki	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10238.mp4
 o Bárbaro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5427.mp4
 o Carneiro - O Filme A Fazenda Contra-Ataca	dub=18:422803,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53673.mp4
 o Coelho de Brinquedo e a Máquina do Tempo	dub=18:168875,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10270.mp4
-o Cupido Trapalhão	dub=18:243664,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38749.mp4
-o Curioso Aventuras no Mar	dub=18:918832,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10289.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81625.mp4
+o Cupido Trapalhão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38749.mp4
+o Curioso Aventuras no Mar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10289.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81625.mp4
 o Cyborg do Futuro	dub=18:10134,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34300.mp4
 o Dilúvio (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251502.mp4
 o Exterminador de Aço	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254245.mp4
 o Fantasma Trapalhão (1998)	dub=18:128449,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38778.mp4
-o Fantasminha Camarada	dub=18:8839,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34328.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308650.mp4
+o Fantasminha Camarada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34328.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308650.mp4
 o Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10340.mp4
-o Filme Segredos da Selva	dub=18:662708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10357.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82204.mp4
+o Filme Segredos da Selva	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10357.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82204.mp4
 o Gigante Cão Vermelho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10373.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82291.mp4
-o Golfinho	dub=18:62837,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5678.mp4
+o Golfinho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5678.mp4
 o Homem-Ideia	dub=18:1273196	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82524.mp4
 o Impulso e a Razão	dub=18:1588155,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251736.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254790.mp4
 o Menino Jacaré	dub=18:763568,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10416.mp4
-o Milionário Irresistível	dub=18:49012,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17827.mp4
+o Milionário Irresistível	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17827.mp4
 o Piloto Sumiu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17891.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83308.mp4
-o Pimentinha Ataca Novamente	dub=18:45242,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17909.mp4
+o Pimentinha Ataca Novamente	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17909.mp4
 o Pistoleir‪o‬	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35121.mp4
 o Policial e o Diabo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307660.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307682.mp4
-o Repórter	dub=18:95753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17998.mp4
+o Repórter	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17998.mp4
 o Super Sayajin	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10525.mp4
 o Vagabundo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38921.mp4
-os Guerreiros do Futuro	dub=18:39324,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10638.mp4
+os Guerreiros do Futuro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10638.mp4
 Ó	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39642.mp4
 Ó 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39647.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96580.mp4
 Ó Paí, Ó	dub=18:37817,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757948.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758461.mp4

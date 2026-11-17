@@ -56,7 +56,7 @@ O Astro		0	145
 O Ataque de Ciragan - Çırağan Baskını		0	4
 O Atentado ao Voo Pan Am 103	2025	0	6
 O Atirador		0	31
-O Ato		0	8
+O Ato		0	16
 O Auto da Compadecida		0	4
 O Auto da Compadecida 2		0	4
 O Avanço da Fênix		0	70
@@ -90,7 +90,7 @@ O Cangaceiro do Futuro		0	7
 O Canto Livre de Nara Leão		0	5
 O Canto da Sereia		0	4
 O Canto do Pássaro		0	427
-O Canto do Pássaro / A Escolhida		0	332
+O Canto do Pássaro / A Escolhida		0	85
 O Caozinho Esperto		0	13
 O Capa		0	10
 O Capelão do Aeroporto		0	1
@@ -253,7 +253,7 @@ O Garoto de Cada Dia		2	7
 O Gato Félix		2	98
 O Gato Prendado está Deprimido Hoje de Novo		2	13
 O Genio - Deha		2	96
-O Gerente Noturno		2	6
+O Gerente Noturno		2	12
 O Gerente da Noite	2016	2	12
 O Golpe do Amor		2	6
 O Grande Clerigo		2	12
@@ -335,10 +335,9 @@ O Jovem Papa		2	10
 O Jovem Wallander		2	12
 O Juiz do Diabo		2	32
 O Juiz do Inferno		2	14
-O Julgamento		2	15
 O Julgamento de Nuremberg		2	1
 O Lab da Emily		2	10
-O Laboratório de Dexter		2	51
+O Laboratório de Dexter		2	78
 O Lado Obscuro da Fama		2	22
 O Lado Obscuro de Gangnam		2	14
 O Lado Obscuro dos Anos 80		2	16
@@ -358,7 +357,7 @@ O Livro de Boba Fett	2021	2	7
 O Lobista		2	10
 O Lobo		2	49
 O Maestro e o Mar	2022	2	19
-O Maior Assalto		3	6
+O Maior Assalto		2	6
 O Maior Roubo de Arte de Todos os Tempos		3	4
 O Mal na sua Essencia A Historia de Hadden Clark		3	5
 O Manipulado		3	12
@@ -478,7 +477,7 @@ O Piloto Invisível		3	3
 O Pior do Mal		3	24
 O Plano de Ressurreicao	2025	3	9
 O Plano é Esse		3	6
-O Poder		4	9
+O Poder		3	9
 O Poder de Hitler		4	3
 O Poder e a Lei	2022	4	40
 O Point do Mickey		4	58
@@ -598,7 +597,7 @@ O Segredo dos Animais A Serie		4	51
 O Segundo Melhor Hospital da Galáxia		4	16
 O Senhor das Moscas	2026	4	4
 O Senhor dos Anéis: Os Anéis de Poder	2022	4	28
-O Senhor e a Serva		5	10
+O Senhor e a Serva		4	10
 O Sequestro do Voo 601		5	6
 O Servente Supremo		5	1
 O Sexo dos Anjos		5	142
@@ -666,9 +665,7 @@ O Valor Absoluto do Amor		5	16
 O Vazio		5	20
 O Velho Oeste com Kevin Costner		5	8
 O Verão Que Mudou Minha Vida	2022	5	30
-O Verão de		5	6
 O Verão de	1936	5	6
-O Verão de 1936	1936	5	6
 O Verão em que Hikaru Morreu		5	22
 O Vestido Ideal		5	103
 O Veu		5	11
@@ -690,7 +687,6 @@ O ÚLTIMO REINO		5	46
 O Último Cara da Terra		5	67
 O Último Grande Peixe		5	8
 O Último Imortal		5	40
-O Último Juramento		5	48
 O Último Narc		5	4
 O Último Verão		5	93
 O Último Verão - Son Yas		5	80
@@ -702,7 +698,6 @@ O.J. Simpson: Verdades Nunca Vistas		5	4
 O.J.: Made in America		5	5
 O11ZE		5	220
 OBSOLETE		5	6
-OC Um Estranho no Paraiso		5	90
 OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying		5	11
 ONE PIECE A Serie Conteudo Extra		5	5
 ONE PIECE: A Série	2023	5	16
@@ -718,11 +713,11 @@ Oasis		5	8
 Obama Em busca de uma Uniao mais Perfeita		5	1
 Oban Star Racers		5	26
 Obi-Wan Kenobi		5	6
-Obituary		6	6
-Objecao - Sakincali		6	5
-Objetos Amaldicoados		6	8
-Objetos Cortantes		6	8
-Oblivion Battery		6	12
+Obituary		5	6
+Objecao - Sakincali		5	5
+Objetos Amaldicoados		5	8
+Objetos Cortantes		5	8
+Oblivion Battery		5	12
 Observando Elena Evoy		6	1
 Obsess		6	4
 Obsession The Murder of a Beauty Queen		6	1
@@ -832,19 +827,19 @@ Ookami Shoujo to Kuro Ouji		6	13
 Ookami-san to Shichinin no Nakama-tachi		6	12
 Ookiku Furikabutte		6	26
 Oops! Mysterious Sounds		6	18
-Operacao Big Hero		6	46
+Operacao Big Hero		6	60
 Operacao Encontre Meu Bebe		6	1
 Operacao FBI		6	6
 Operacao Fronteira Espanha		6	116
 Operacao Fronteira Italia		6	14
 Operacao Fronteira Suecia		6	14
-Operacao Guerra Verde		7	10
-Operacao Policial		7	55
-Operación triunfo		7	2
-Operation Buffalo		7	6
-Operação Alto Mar: Estados Unidos		7	12
+Operacao Guerra Verde		6	10
+Operacao Policial		6	55
+Operación triunfo		6	2
+Operation Buffalo		6	6
+Operação Alto Mar: Estados Unidos		6	12
 Operação Berlim	2016	7	29
-Operação Big Hero: A Série		7	60
+Operação Big Hero: A Série		7	46
 Operação Ecstasy		7	28
 Operação Fronteira Brasil		7	108
 Operação Fronteira: América do Sul		7	20
@@ -958,11 +953,11 @@ Os Envenenamentos de Salisbury		7	3
 Os Enviados		7	16
 Os Escolhidos à Prova De Tudo Com Bear Grylls		7	6
 Os Experientes		7	7
-Os Fantasmas de Devil Perch		8	1
-Os Farad		8	8
-Os Feiticeiros Alem de Waverly Place	2024	8	35
-Os Feiticeiros De Waverly Place		8	106
-Os Filhos da Guerra		8	2
+Os Fantasmas de Devil Perch		7	1
+Os Farad		7	8
+Os Feiticeiros Alem de Waverly Place	2024	7	35
+Os Feiticeiros De Waverly Place		7	106
+Os Filhos da Guerra		7	2
 Os Filhos de Sam: Loucura e Conspiração		8	4
 Os Fios do Passado - Los Hilos del Pasado		8	60
 Os Flintstones	None	8	134
@@ -1038,7 +1033,7 @@ Os Protetores		8	15
 Os Quatro da Candelaria	2024	8	4
 Os Quebradores da Banca		8	6
 Os Queridinhos de Byron Bay		8	8
-Os Refens do Professor Hiiragi		8	10
+Os Refens do Professor Hiiragi		8	20
 Os Reinos da Ruina		8	12
 Os Reis da Noite		8	6
 Os Reis da Selva		8	5
@@ -1078,11 +1073,11 @@ Os Testamentos Das Filhas de Gilead	2026	8	10
 Os Thundermans		8	101
 Os Thundermans Disfarcados		8	26
 Os Top Dez dos Anos 80		8	6
-Os Trapalhoes		9	203
-Os Ursinhos Gummi		9	65
-Os Vingadores A Serie		9	13
-Os Vingadores Unidos		9	127
-Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		9	52
+Os Trapalhoes		8	203
+Os Ursinhos Gummi		8	65
+Os Vingadores A Serie		8	13
+Os Vingadores Unidos		8	127
+Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		8	52
 Os Vivos e os Mortos		9	6
 Os Vizinhos Green		9	109
 Os Westies: Donos do Oeste	2026	9	8

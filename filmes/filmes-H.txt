@@ -131,7 +131,7 @@ Harry Potter e as Relíquias da Morte - Parte 1	dub=18:12444,http://acaidopt.org
 Harry Potter e as Relíquias da Morte - Parte 2	dub=18:12445,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764735.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765646.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33975.mp4	leg=18:12445.mp4?lang=leg
 Harry Potter e o Cálice de Fogo (2005)	dub=18:674,https://embedplayer2.xyz/cdn/hls/2249bf682dd046b7d44afcd8e1145f81/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764708.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33972.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754270.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74190.mp4
 Harry Potter e o Enigma do Príncipe	dub=18:767,https://embedplayer2.xyz/cdn/hls/0ef49ca3037f377a5148a43e0315b08a/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764763.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765678.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33979.mp4
-Harry Potter e o Prisioneiro de Azkaban	dub=18:673,https://embedplayer2.xyz/cdn/hls/b9d01bf713fc1d4384d63c4647eabc88/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764618.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765774.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33988.mp4
+Harry Potter e o Prisioneiro de Azkaban	dub=https://embedplayer2.xyz/cdn/hls/b9d01bf713fc1d4384d63c4647eabc88/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764618.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765774.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33988.mp4
 Harry Styles: Uma Noite em Manchester	dub=18:1644807,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751516.mp4
 Harry: O Príncipe Que Sobrou (2023)	dub=18:1112096,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759982.mp4
 Hasan Minhaj: Off With His Head	dub=18:1352149,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755581.mp4	leg=18:1352149.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74206.mp4
@@ -321,7 +321,7 @@ Hirokin O Último Samurai	dub=18:103551
 Hiruk-pikuk si Al-kisah	leg=18:616217.mp4?lang=leg
 His & Hers (2024)	dub=18:1325847,https://embedplayer2.xyz/cdn/hls/8c0a0b43c14f8a0b111c1792235bff32/master.txt	leg=https://embedplayer2.xyz/cdn/hls/5f9a331674c8933896db9e7af4cd69f4/master.txt
 His Deadly Affair	dub=18:655602	leg=18:655602.mp4?lang=leg
-Histeria (2011)	dub=18:469686,18:75802,18:41797,18:4226,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768382.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15533.mp4	leg=18:75802.mp4?lang=leg
+Histeria (2011)	dub=18:75802,18:469686,18:41797,18:4226,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768382.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15533.mp4	leg=18:75802.mp4?lang=leg
 Historia de um Assassino	dub=18:1427,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26671.mp4	leg=18:1427.mp4?lang=leg
 Historias Assustadoras para Contar no Escuro (2019)	dub=18:417384,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759190.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49178.mp4
 Historias Cruzadas (2011)	dub=18:50014,https://embedplayer2.xyz/cdn/hls/d5841560613af669ec1895d787c5d7fd/master.txt
@@ -423,7 +423,7 @@ Homens de Ouro (2019)	dub=18:605278,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Homens e Deuses (2010)	dub=18:46332,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757839.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40814.mp4
 Homens em Furia (2010)	dub=18:44113
 Homens à beira de um ataque de nervos	dub=18:783556,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767875.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15569.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74608.mp4
-Homens, Mulheres e Filhos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763485.mp4
+Homens, Mulheres e Filhos	dub=18:243684,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763485.mp4
 Homestead	dub=18:1015957
 Homicídio	dub=18:22828
 Homo Argentum (2025)	dub=18:1471345,https://embedplayer2.xyz/cdn/hls/24cb96f774386f2d698eee5010642c94/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74623.mp4

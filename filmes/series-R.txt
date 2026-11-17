@@ -24,14 +24,14 @@ Radioactive Emergency		0	5
 Rafa		0	4
 Ragdoll		0	12
 Ragna Crimson		0	24
-Ragnarok	2020	0	64
-Ragnarok The Animation		0	1
+Ragnarok	2020	0	44
+Ragnarok The Animation		0	35
 Rah-E-Junoon		0	28
 Rail Romanesque		0	11
 Rain Dogs	2023	0	8
 Rainbow High		0	1
 Rainbow: Nisha Rokubou No Shichinin		0	26
-Rainha - Kraliçe		0	11
+Rainha - Kraliçe		0	18
 Rainha Charlotte: Uma História Bridgerton		0	6
 Rainha Cleópatra		0	4
 Rainha Mãe Manda		0	1
@@ -142,7 +142,7 @@ Reencarnado pelo Amor		1	1
 Reencarne		1	9
 Reencontro do Amor		1	1
 Refem	2025	1	5
-Refens		1	32
+Refens		1	12
 Refletidas		1	16
 Refollow		1	8
 Reforma Inspirada		1	7
@@ -237,7 +237,7 @@ Resistir		1	4
 Resistência Negra		1	5
 Respira	2024	1	16
 Respire!		1	6
-Ressurreição		1	23
+Ressurreição		1	21
 Ressuscite Meu Coracao		2	7
 Restauradores de Rust Valley		2	20
 Restaurando Casas com Dave e Jenny		2	66
@@ -290,7 +290,7 @@ Rick e Morty: The Anime	2024	2	2
 Ricos		2	6
 Ricos e Pobres - Zengin ve Yoksul		2	8
 Rider Gavv		2	49
-Ridley Jones		2	11
+Ridley Jones		2	16
 Ridley Jones: A Guardiã do Museu		2	11
 Ridley Road		2	4
 Rig 45		2	9
@@ -383,8 +383,7 @@ Roosevelt Um Capitulo na Historia Americana		3	3
 Rooster	2026	3	10
 Rooster Fighter	2026	3	12
 Roque Santeiro		3	319
-Rosa Elettrica		3	1
-Rosa Elettrica - In fuga con il nemico		3	1
+Rosa Elettrica		3	2
 Rosa Negra - Rosa Preta - Karagul		3	331
 Rosalinda		3	81
 Rosario Tijeras Mexico		3	446

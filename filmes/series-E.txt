@@ -10,6 +10,7 @@ ER Plantão Médico	1994	0	410
 ESPN Jeopardy!		0	10
 EU LOVE ARLO		0	19
 EUA: A Luta pela Liberdade		0	6
+Earth At Night In Color		0	6
 East New York: Uma Nova Lei	2022	0	21
 Easy		0	26
 Easygoing Territory Defense by the Optimistic Lord		0	1
@@ -29,7 +30,7 @@ Ed Sheeran: A Soma de Tudo		0	8
 Ed Stafford Contra Todos		0	19
 Ed Stafford Rituais Extremos		0	6
 Ed Stafford Vida de Cigano		0	2
-Ed Stafford o Sobrevivente		0	23
+Ed Stafford o Sobrevivente		0	26
 Ed Stafford: Rumo ao Desconhecido		0	6
 Eden		0	8
 Eden of the East		0	1
@@ -54,7 +55,7 @@ El Presidente		0	22
 El Turco		0	6
 El corazón de Sergio Ramos		0	8
 El final del paraíso		0	15
-El juicio		0	1
+El juicio		0	15
 Ela Caminha Sozinha		0	10
 Ela Dança, Eu Danço		0	30
 Ela Era Bonita		0	16
@@ -67,7 +68,7 @@ Eldorado Em Busca da Cidade de Ouro		0	2
 Ele Insiste Em Mimar		0	1
 Ele Não		0	12
 Electric Bloom A Melhor Banda do Mundo		0	17
-Elegant Yokai Apartment Life		0	1
+Elegant Yokai Apartment Life		0	26
 Eleita		0	7
 Elementarissimo		0	150
 Elementary	2012	0	154
@@ -117,7 +118,7 @@ Em Tempos Bons e Ruins - Ivi Gunde Kotu Gunde		0	6
 Em que lugar da Terra esta Carmen Sandiego		0	39
 Emagreci e Agora?		0	33
 Emanet		0	785
-Emergence		0	13
+Emergence		1	13
 Emergencia Berlim	2025	1	8
 Emergencia Radioativa	2026	1	5
 Emergência 53		1	10
@@ -237,7 +238,7 @@ Espada e Amores		1	42
 Espada e Fada		1	36
 Espartanos Uma Historia Real		1	8
 Especial Papado		1	5
-Especies Raras		1	6
+Especies Raras		2	6
 Espelho da Vida		2	160
 Esperando o Sol - Gunesi Beklerken		2	54
 Esperando pelo sol		2	9
@@ -357,7 +358,7 @@ Eureka		2	86
 Eva Longoria Em busca do Mexico		2	1
 Eva a Coruja		2	9
 Even Given the Worthless		2	1
-Even a Replica Can Fall in Love		2	1
+Even a Replica Can Fall in Love		3	1
 Even the Student Council Has Its Holes!		3	12
 Ever After High		3	17
 Everlasting Longing		3	30
@@ -394,7 +395,7 @@ Express		3	16
 Expresso Sicilia		3	5
 Expresso do Amanhã	None	3	30
 Expurgo		3	6
-Extant		3	1
+Extant		3	47
 Exterminadores do Além		3	10
 Extinct		3	10
 Extinto ou Nao		3	8

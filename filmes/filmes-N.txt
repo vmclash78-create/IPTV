@@ -309,11 +309,11 @@ Natal no Restaurante Chinês	dub=18:1028186,http://acaidopt.org:80/movie/3llohwk
 Natal no Riacho	dub=18:554279,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754012.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53149.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80131.mp4
 Natal por Escrito (2020)	dub=18:746048,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753587.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40070.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80145.mp4
 Natal sem Filtro	dub=18:1032454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40080.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80148.mp4
-Natal, Reforma e Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/c63fc7eb06c98f1cce1dabf4941dc7c8/master.txt	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757195.mp4
-Natal, mas Pouco	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765227.mp4
+Natal, Reforma e Amor (2022)	dub=18:1015169,https://embedplayer2.xyz/cdn/hls/c63fc7eb06c98f1cce1dabf4941dc7c8/master.txt	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757195.mp4
+Natal, mas Pouco	dub=18:882098,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765227.mp4
 Natal, é Amor	dub=18:550020
 Natale senza Babbo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80165.mp4
-Nate	dub=18:826953,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53157.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80170.mp4
+Nate	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53157.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80170.mp4
 Nation's Fire	dub=18:663804
 Natureza Assassina (2018)	dub=18:506353,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752936.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45040.mp4
 Natureza Humana (2022)	dub=18:762895
@@ -564,7 +564,7 @@ Nocebo	dub=18:782936,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758770.
 Nocturnal Burger	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314121.mp4
 Noe (2014)	dub=18:86834,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757722.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40908.mp4
 Noel Frankenstein	dub=18:1015539,https://embedplayer2.xyz/cdn/hls/5b2c1a9a173cceb30fb390fd087aee2d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752040.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/760.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80466.mp4
-Noel Rosa, um Espírito Circulante	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751284.mp4
+Noel Rosa, um Espírito Circulante	dub=18:1361303,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751284.mp4
 Noelle	dub=18:454467,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766950.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17190.mp4
 Noite Brutal (2026)	dub=18:1453407,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769255.mp4
 Noite Escura da Alma	dub=18:606833,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53428.mp4
@@ -780,7 +780,7 @@ Não Estamos Sós (2016)	dub=18:408268,18:1023751,https://embedplayer2.xyz/cdn/h
 Não Estou Sozinha	dub=18:1137205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50034.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80753.mp4
 Não Fale com Estranhos	dub=18:1015261,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757031.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758663.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50027.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80758.mp4
 Não Faça Tempestade em Copo D'Água: A Vida de Kristine	dub=18:885658
-Não Faça o Que Eu Faço	dub=18:15373,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17294.mp4
+Não Faça o Que Eu Faço	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17294.mp4
 Não Feche os Olhos (2020)	dub=18:515454,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754506.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765524.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36161.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80774.mp4
 Não Haverá Mais História sem Nós	dub=18:1394275
 Não Há Mal Algum	dub=18:667935
@@ -811,7 +811,7 @@ Não Sai	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/
 Não Saia de Casa	dub=18:502167,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752828.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45084.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80811.mp4
 Não Se Apaixone	dub=18:43923,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28465.mp4
 Não Se Mexa	dub=18:1063877,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57253.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755970.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758932.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50054.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80817.mp4
-Não Se Preocupe, Querida	dub=18:619730,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768972.mp4
+Não Se Preocupe, Querida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768972.mp4
 Não Sei Como Ela Consegue	dub=18:70868,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753268.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753316.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755698.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42353.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80830.mp4
 Não Sei o Que Fizemos na Noite Passada (2023)	dub=18:1030049,https://embedplayer2.xyz/cdn/hls/d9f9a6b9009eca0dfd112dd28d68a118/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768030.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755691.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17313.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80833.mp4
 Não Solte! (2024)	dub=18:814889,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57256.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756106.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758928.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50063.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80822.mp4

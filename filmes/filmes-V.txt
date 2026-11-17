@@ -265,7 +265,7 @@ Viagem de Risco	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751175.m
 Viagem de Volta à Vida	dub=18:555261,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756255.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764237.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33067.mp4	leg=18:555261.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95287.mp4
 Viagem do Medo	dub=18:33107
 Viagem para Agartha (2011)	dub=18:79707,https://embedplayer2.xyz/cdn/hls/8d1ddc48e12bab8d9ac4c540f021756c/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752039.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1308.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95296.mp4
-Viagem à Lua de Júpiter	dub=18:174772,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765387.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34834.mp4
+Viagem à Lua de Júpiter	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765387.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34834.mp4
 Viagens Alucinantes	dub=18:11542
 Viajando com a Vovó	dub=18:1173490
 Viajando com a Vovó (2023)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773698.mp4
@@ -281,7 +281,7 @@ Vice	dub=18:542591,18:429197,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Vice Is Broke	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757060.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95321.mp4
 Vice-Versa	dub=18:732310
 Viciada Em Namorado de Aluguel	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303347.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303348.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303350.mp4
-Viciadas em Dinheiro	dub=18:12085,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8053.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306410.mp4
+Viciadas em Dinheiro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8053.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306410.mp4
 Viciado em Sexo	dub=18:61185
 Viciados em Amor	dub=18:503417,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753153.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756842.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43363.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95332.mp4
 Vicky Cristina Barcelona	dub=18:5038,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753432.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43367.mp4
@@ -302,7 +302,7 @@ Vida Nova em Mitford	dub=18:469777
 Vida Privada (2025)	dub=18:1290432,https://embedplayer2.xyz/cdn/hls/0ef7e66ad8977b3b698c4239f3e24f92/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750679.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311749.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311753.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311747.mp4
 Vida Real	dub=18:416987
 Vida Selvagem	dub=18:417812,https://embedplayer2.xyz/cdn/hls/4c3ba5ee433a95ade06c300117308b62/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33083.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95380.mp4
-Vida Sem Roteiro	dub=18:1060281,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752944.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754310.mp4
+Vida Sem Roteiro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752944.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754310.mp4
 Vida de Adulto	dub=18:143049
 Vida de Cabra	dub=18:472221,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755292.mp4	leg=18:472221.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95351.mp4
 Vida de Cachorro	dub=18:36208,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767935.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20831.mp4
@@ -443,7 +443,7 @@ Virgem em Apuros (2009)	dub=18:23568
 Virgin Forest	dub=18:985932	leg=18:985932.mp4?lang=leg
 Virgínia e Adelaide	dub=18:1212113,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752505.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768960.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39599.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95601.mp4
 Viriato	dub=18:631739
-Virus (1996)	dub=18:915311,18:119292,18:25769
+Virus (1996)	dub=18:119292
 Virus X	dub=18:55662
 Visita ao Inferno	dub=18:360029
 Visitantes Alienígenas	dub=18:1099656,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756260.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759474.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95612.mp4
@@ -453,12 +453,12 @@ Visoes (2023)	dub=18:818721
 Vista Perigosa (2021)	dub=18:691417,https://embedplayer2.xyz/cdn/hls/afd61f05b99307ac29e4ecd3140c0bdf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763808.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33154.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95607.mp4
 Visão do Crime	dub=18:77874
 Visão: Estendida	dub=18:835459,https://embedplayer2.xyz/cdn/hls/d943d052b9cdc420bccdc8ed12a5a950/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757122.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766047.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36719.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95621.mp4
-Visões	dub=18:1550338,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752851.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46461.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95613.mp4
+Visões	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752851.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46461.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95613.mp4
 Visões - Você Pode Me Ajudar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251255.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251247.mp4
 Visões 2: A Vingança dos Fantasmas	dub=18:33723
 Visões Mortais	dub=18:1031516,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757236.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759107.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52673.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95628.mp4
 Visões da Mente	dub=18:820748,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754779.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758041.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52668.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95624.mp4
-Visões de um Amor (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313901.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750588.mp4
+Visões de um Amor (2026)	dub=18:1550338,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313901.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750588.mp4
 Visões de um Crime (2011)	dub=18:70577,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752990.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46456.mp4
 Visões do Império	dub=18:833986
 Visões do Passado (2015)	dub=18:332704,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758745.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52662.mp4
@@ -525,9 +525,9 @@ Voce e meu Tesouro (1967)	dub=18:47263	leg=http://dbonline.tech-cdn.top:80/movie
 Voce e o Proximo (2013)	dub=18:83899,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759504.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52678.mp4
 Voce tem um Homem	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303161.mp4
 Você Deveria Ter Partido	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758939.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52688.mp4
-Você Dorme Comigo	dub=18:1081313,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314394.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43382.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95683.mp4
-Você Está Aí	dub=18:433989,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52683.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95715.mp4
-Você Está Sendo Filmado	dub=18:328263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39609.mp4
+Você Dorme Comigo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314394.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43382.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95683.mp4
+Você Está Aí	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52683.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95715.mp4
+Você Está Sendo Filmado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39609.mp4
 Você Me Deixa Louca	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750535.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314446.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314684.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750201.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314603.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314604.mp4
 Você Nem Imagina (2020)	dub=18:597219,https://embedplayer2.xyz/cdn/hls/92b79147ca129c356471dadfc1110dbe/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300948.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767146.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20899.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253644.mp4
 Você Nunca Esteve Realmente Aqui	dub=18:398181,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752389.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754218.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763248.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33168.mp4	leg=18:398181.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95693.mp4
@@ -624,7 +624,7 @@ Vício Frenético (2009)	dub=18:11699
 Vício Inerente (2014)	dub=18:171274,https://embedplayer2.xyz/cdn/hls/0ceac6ae8deb93b800bbcdd8b7f83ae7/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768653.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20936.mp4
 Vício Perfeito (2023)	dub=18:845659,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59292.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764497.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33194.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95847.mp4
 Vírus	dub=https://embedplayer2.xyz/cdn/hls/98e0189dce4c3420fa7eb9bbb1ba23ef/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763038.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33210.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306412.mp4
-Vírus (2009)	dub=18:9423,https://embedplayer2.xyz/cdn/hls/98e0189dce4c3420fa7eb9bbb1ba23ef/master.txt
+Vírus (2009)	dub=18:9423,18:915311,18:25769,https://embedplayer2.xyz/cdn/hls/98e0189dce4c3420fa7eb9bbb1ba23ef/master.txt
 Vítima 3/19	dub=18:828264,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763773.mp4
 Vítima 319	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33200.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95855.mp4
 Vítima X Suspeita	dub=18:1058671,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760346.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95866.mp4

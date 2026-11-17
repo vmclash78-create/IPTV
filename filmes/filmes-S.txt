@@ -307,7 +307,7 @@ Scooby-Doo! & Batman: Os Bravos e Destemidos (2018)	dub=18:484862.m3u8,18:484862
 Scooby-Doo! - O Misterio Começa	dub=18:22620,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11180.mp4
 Scooby-Doo! A Lenda do Fantasmossauro	dub=18:67900,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11176.mp4
 Scooby-Doo! A Máscara do Falcão Azul	dub=18:151535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11194.mp4
-Scooby-Doo! Abracadabra-Doo	dub=18:32916
+Scooby-Doo! Abracadabra-Doo (2010)	dub=18:32916
 Scooby-Doo! Acampamento Assustador (2010)	dub=18:45752
 Scooby-Doo! De Volta à Ilha dos Zumbis (2019)	dub=18:615774,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766161.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11193.mp4
 Scooby-Doo! E a Bruxa Fantasma	dub=18:17681
@@ -323,7 +323,7 @@ Scooby-Doo! Halloween (2020)	dub=18:721656,http://acaidopt.org:80/movie/3llohwk4
 Scooby-Doo! Jogos Assombrados	dub=18:284908
 Scooby-Doo! Loucura do Monstro da Lua	dub=18:302960
 Scooby-Doo! Medo Do Palco (2013)	dub=18:203696
-Scooby-Doo! Música de Vampiro	dub=18:81900
+Scooby-Doo! Música de Vampiro (2012)	dub=18:81900
 Scooby-Doo! Natal Assombrado	dub=18:245881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45961.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88910.mp4
 Scooby-Doo! Piratas a Bordo (2006)	dub=18:13355
 Scooby-Doo! e WWE: Maldição do Demônio Veloz (2016)	dub=18:409122
@@ -456,7 +456,7 @@ Segredos na Noite	dub=18:9782
 Segredos nas Paredes	dub=18:895001,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758305.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51795.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89046.mp4
 Seguindo as Pistas	dub=18:26189
 Seguindo em Frente	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767943.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19296.mp4
-Segunda Chance	dub=18:254200,18:1367642,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752291.mp4
+Segunda Chance	dub=18:254200,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752291.mp4
 Segunda Chance para o Primeiro Amor (2020)	dub=18:746051,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753485.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42880.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89074.mp4
 Segunda Guerra: O Tuskegee Airmen (2024)	dub=18:1294359,https://embedplayer2.xyz/cdn/hls/4d0cc5ece27f965f0e4ec79f56c849b6/master.txt
 Segunda-Feira (2020)	dub=18:550524,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763909.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31472.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89067.mp4
@@ -467,7 +467,7 @@ Segundo em Comando	dub=18:19167,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q3
 Segura a Onda	dub=18:19489,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19301.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89084.mp4
 Seguranca Maxima (2022)	dub=18:826396,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755268.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766648.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21873.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89095.mp4
 Segurando as Pontas (2008)	dub=18:10189,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766832.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19311.mp4
-Segurança (2021)	dub=18:666624,18:45060,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762334.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31477.mp4
+Segurança	dub=18:666624,18:45060,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762334.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31477.mp4
 Segurança Nacional	dub=18:11078,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765212.mp4
 Segurança de Shopping	dub=18:14560,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768036.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768465.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19306.mp4
 Segurança de Shopping 2	dub=18:256961,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767766.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19307.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311891.mp4
@@ -526,7 +526,7 @@ Sem Deixar Vestigios (2024)	dub=18:1114738,http://dbonline.tech-cdn.top:80/movie
 Sem Desistir (2026)	dub=18:1616687
 Sem Destino (2012)	dub=18:624,18:124972
 Sem Direito a Resgate	dub=18:209189,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768253.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19329.mp4
-Sem Dor, Sem Ganho (2013)	dub=https://embedplayer2.xyz/cdn/hls/6d78f6e35cbd01c1715e852f63453cb6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768562.mp4
+Sem Dor, Sem Ganho (2013)	dub=18:134374,https://embedplayer2.xyz/cdn/hls/6d78f6e35cbd01c1715e852f63453cb6/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768562.mp4
 Sem Dormir Até o Natal	dub=18:550097,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40273.mp4
 Sem Endereço	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89153.mp4
 Sem Escalas (2014)	dub=18:225574,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761733.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7167.mp4
@@ -534,7 +534,7 @@ Sem Escape	dub=18:552660,https://embedplayer2.xyz/cdn/hls/55c63413658c218557cd3e
 Sem Evidências	dub=18:152792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21882.mp4
 Sem Filhos (2020)	dub=18:767479,18:342163,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753105.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754822.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761643.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7171.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89155.mp4
 Sem Filtro: Flamengo	dub=18:680639
-Sem Ganho	dub=18:134374,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19341.mp4
+Sem Ganho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19341.mp4
 Sem Gravidade... Sem Cérebro (2014)	dub=18:253312
 Sem Gêmeos	dub=https://embedplayer2.xyz/cdn/hls/48920387ea452085ffcd2d88a2debc60/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89160.mp4
 Sem Lei	dub=18:70586
@@ -578,10 +578,10 @@ Sem Retrato e Sem Bilhete	dub=18:864946,http://dbonline.tech-cdn.top:80/movie/ke
 Sem Risco Aparente	dub=18:2017
 Sem Rumo	dub=18:424651
 Sem Saída	dub=18:13510,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58460.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752273.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752852.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758261.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759157.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761062.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7207.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89199.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89204.mp4
-Sem Saída (1987)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7210.mp4
+Sem Saída (1987)	dub=18:10083,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7210.mp4
 Sem Saída (2011)	dub=18:59965,https://embedplayer2.xyz/cdn/hls/db8c17b39096a8f4983e743066016458/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45994.mp4
 Sem Saída (2022)	dub=18:833425,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51815.mp4
-Sem Saída (2025)	dub=18:10083,18:1371291,18:1149953	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301244.mp4
+Sem Saída (2025)	dub=18:1371291,18:1149953	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301244.mp4
 Sem Segurança Nenhuma (2012)	dub=18:84332,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767093.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19352.mp4
 Sem Sentido	dub=18:12538,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766494.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19361.mp4
 Sem Seu Sangue	dub=18:597107,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762398.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31537.mp4
@@ -717,7 +717,7 @@ Seven - 7 Pecados Capitais (1995)	dub=18:807
 Seven - Os Sete Crimes Capitais	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752845.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46023.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301246.mp4
 Seven Cemeteries (2024)	dub=18:901060,https://embedplayer2.xyz/cdn/hls/e28228eee9170e8dbd69b94082c4a7bc/master.txt	leg=https://embedplayer2.xyz/cdn/hls/3e4791f56a71cc4a66fbe1e41450de9c/master.txt
 Seven Veils	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764628.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31597.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89319.mp4
-Sex	dub=18:1240889	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757288.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89329.mp4
+Sex	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757288.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89329.mp4
 Sex And The City - O Filme (2008)	dub=18:4564,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766569.mp4
 Sex Appeal	dub=18:803104,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767332.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19395.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89334.mp4
 Sex Drive (2026)	dub=18:1756943
@@ -727,11 +727,11 @@ Sex Tape: Perdido na Nuvem	dub=18:225886,http://acaidopt.org:80/movie/3llohwk4g9
 Sex and the City 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19385.mp4
 Sex and the City 2	dub=18:37786,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767297.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19387.mp4
 Sexa	dub=18:1401339,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751003.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301332.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301409.mp4
-Sexo & Pandemia	dub=18:926771,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31592.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89351.mp4
+Sexo & Pandemia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31592.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89351.mp4
 Sexo Com Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769123.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39293.mp4
 Sexo Sem Compromisso	dub=18:41630,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768366.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19413.mp4
 Sexo a Três	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306324.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301247.mp4
-Sexo e 30 Velinhas	dub=18:1162172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31601.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89345.mp4
+Sexo e 30 Velinhas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31601.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89345.mp4
 Sexo no Banheiro 4 Cena 01	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768724.mp4
 Sexo no Banheiro 4 Cena 02	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768734.mp4
 Sexo no Banheiro 4 Cena 03	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768744.mp4
@@ -916,7 +916,7 @@ Silvio (2024)	dub=18:760147,https://embedplayer2.xyz/cdn/hls/9d8ff4402aedc6607ea
 Silvio Santos Vem Aí	dub=18:1386865,https://embedplayer2.xyz/cdn/hls/d4ca4dd272863b9e495a5355b0b96025/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311987.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751739.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53619.mp4
 Silvio Santos: Especial 40 Anos SBT	dub=18:862162
 Sim Senhor (2008)	dub=18:10201,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767506.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19445.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306401.mp4
-Sim, Chef! É Natal! (2023)	dub=https://embedplayer2.xyz/cdn/hls/6d6cc9d39ef52b816baab30a2c93d134/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755713.mp4
+Sim, Chef! É Natal! (2023)	dub=18:1132189,https://embedplayer2.xyz/cdn/hls/6d6cc9d39ef52b816baab30a2c93d134/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755713.mp4
 Sim, Eu Aceito (2018)	dub=18:529250,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753359.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42924.mp4
 Simba, the King Lion: The Final Battle	dub=18:716233
 Simbad e a Princesa	dub=18:15515,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7301.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89548.mp4
@@ -947,7 +947,7 @@ Sindicato de Ladrões	dub=18:654,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q
 Sinfonia da Necrópole	dub=18:288436,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753519.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42929.mp4
 Sinfonia da Sobrevivência	dub=18:1370678,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751571.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99800.mp4
 Sinfonia de Guerra (2025)	dub=18:1262815,https://embedplayer2.xyz/cdn/hls/89d38c1623588dc0efddeb390b346b04/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97685.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751784.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53701.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89583.mp4
-Sinfonia do Mal	dub=18:845643,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58587.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51994.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89578.mp4
+Sinfonia do Mal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58587.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51994.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89578.mp4
 Sing - Quem Canta Seus Males Espanta (2016)	dub=18:335797,https://embedplayer2.xyz/cdn/hls/0d5c74e55b8a67cf0ce6facd938aee82/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766119.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11278.mp4
 Sing 2 (2021)	dub=18:438695,https://embedplayer2.xyz/cdn/hls/e234a9f100f41637302766536c0c99c8/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766144.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768597.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19473.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89584.mp4
 Sing Geetham	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750240.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310629.mp4
@@ -1033,7 +1033,7 @@ Snoopy Apresenta: 12 Dias do Beagle	dub=18:1780407
 Snoopy Apresenta: A Escola da Lucy	dub=18:975490,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58536.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754061.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756637.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89735.mp4
 Snoopy Apresenta: A Inigualável Marcie (2023)	dub=18:1128604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58541.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11273.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89739.mp4
 Snoopy Apresenta: Feliz Ano Novo Lucy! (2021)	dub=18:881211,https://embedplayer2.xyz/cdn/hls/865a7b21892fe6c580682a0d51422725/master.txt
-Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)	dub=https://embedplayer2.xyz/cdn/hls/fac794ff00f633c88c1fc1a02b12a9cc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97434.mp4
+Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)	dub=18:1128606,https://embedplayer2.xyz/cdn/hls/fac794ff00f633c88c1fc1a02b12a9cc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97434.mp4
 Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown	dub=18:949580,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766213.mp4
 Snoopy apresenta: para mamãe com amor (2022)	dub=18:949581,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11281.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89741.mp4
 Snoopy's Reunion	dub=18:69770,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11287.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89761.mp4
@@ -1066,8 +1066,8 @@ Sob a Sombra do Mal	dub=18:24249
 Sob a Torre Eiffel	dub=18:486269,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753191.mp4
 Sob as Aguas do Sena (2024)	dub=18:1001311,https://embedplayer2.xyz/cdn/hls/571a14abb917d1b92c32b9ed2b9c2b75/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58546.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755098.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758802.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52013.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89786.mp4
 Sob as Escadas de Paris	dub=18:575293,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762283.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31682.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89784.mp4
-Sob as Estrelas (2023)	dub=18:653797,18:975762,https://embedplayer2.xyz/cdn/hls/9368187a32bd552e672d4185ef5f0b7b/master.txt
-Sob as Estrelas (2025)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301250.mp4
+Sob as Estrelas (2023)	dub=18:975762,https://embedplayer2.xyz/cdn/hls/9368187a32bd552e672d4185ef5f0b7b/master.txt
+Sob as Estrelas (2025)	dub=18:653797	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301250.mp4
 Sob as Sombras da Guerra	dub=18:677054
 Sob o Código da Honra (2025)	dub=18:1426968,https://embedplayer2.xyz/cdn/hls/50ebd87d62701023177b536e7d3d4b98/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751064.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308270.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308279.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750709.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308275.mp4
 Sob o Dominio do Mal (2022)	dub=18:860135	leg=https://embedplayer2.xyz/cdn/hls/9035d6051af4f7d0f18823f7540c41c9/master.txt
@@ -1118,8 +1118,7 @@ Sobreviventes (2025)	dub=18:1255730,https://embedplayer2.xyz/cdn/hls/f355da5c684
 Sobreviventes - Depois do Terremoto (2023)	dub=18:729854,https://embedplayer2.xyz/cdn/hls/d634dad476d3b7bc100e2fde53721d7b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756037.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765727.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36517.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89869.mp4
 Sobreviventes em Alto-Mar	dub=18:614817
 Sobreviver a Noite (2020)	dub=18:686245,https://embedplayer2.xyz/cdn/hls/b8c3e6750ff695caf892f5002ee55923/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761205.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7335.mp4
-Sobrevivência	dub=18:1236045,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750328.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750575.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750396.mp4
-Sobrevivência (2026)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773701.mp4
+Sobrevivência (2026)	dub=18:1236045,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773701.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750328.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750575.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750396.mp4
 Sobrou Pra Você (2000)	dub=18:1831
 Sociedade Feroz	dub=18:19583
 Sociedade Secreta	dub=18:11478
@@ -1167,6 +1166,7 @@ Soldados de Gelo	dub=18:255692
 Soldados do Araguaia	dub=18:480706,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759730.mp4
 Soledad	dub=18:549871
 Soledade - A Bagaceira	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97182.mp4
+Solidão: Uma Linda História de Amor	dub=18:252108
 Solo	dub=18:518880
 Solo de Todos	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89914.mp4
 Solo un padre (2008)	dub=18:58400,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768663.mp4
@@ -1258,7 +1258,7 @@ Sooryavanshi (2021)	dub=18:592508,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Soror	dub=18:831134,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21910.mp4
 Sorria (2022)	dub=18:882598,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758004.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52063.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90021.mp4
 Sorria 2 (2024)	dub=18:1100782,https://embedplayer2.xyz/cdn/hls/e957515414dfcb4e99865189cbad11d8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58619.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756565.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759004.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52077.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90010.mp4
-Sorria, Você Está Sendo Filmado (2015)	dub=https://embedplayer2.xyz/cdn/hls/57e77d94cd2f4a1a1b4a25d8e00bdc9e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758184.mp4
+Sorria, Você Está Sendo Filmado (2015)	dub=18:328263,https://embedplayer2.xyz/cdn/hls/57e77d94cd2f4a1a1b4a25d8e00bdc9e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758184.mp4
 Sorry, Baby (2025)	dub=https://embedplayer2.xyz/cdn/hls/a178f8cce9f083e969250c92959c413b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773390.mp4
 Sorte	dub=18:585511,https://embedplayer2.xyz/cdn/hls/0928c743880da2464ca1a5e736ff7500/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58604.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11302.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90026.mp4
 Sorte de Quem? (2022)	dub=18:850018,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760757.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7370.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90032.mp4
@@ -1507,7 +1507,7 @@ Suando Frio	dub=18:564140,https://embedplayer2.xyz/cdn/hls/c420ad8e52282fa737f4a
 Suas Lagrimas Sao Minhas	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303351.mp4
 Subconsciente	dub=18:1482926,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759656.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52116.mp4
 Sublime	dub=18:9783,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759271.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52117.mp4
-Sublime Amor	dub=18:1725,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90382.mp4
+Sublime Amor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90382.mp4
 Submarino	dub=18:49020
 Submersos	dub=18:12590
 Submersão	dub=18:375327
@@ -1533,8 +1533,9 @@ Sucker Punch: Mundo Surreal (2011)	dub=18:23629,https://embedplayer2.xyz/cdn/hls
 Sueño Florianópolis	dub=18:534366,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764484.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31854.mp4
 Sugar Baby	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753378.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763381.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31863.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755223.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90410.mp4
 Sugar Baby (2018)	dub=18:513919	leg=https://embedplayer2.xyz/cdn/hls/a22e9ea95aab7bf2c7ca9358313d37b4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301257.mp4
-Sugar Baby (2022)	dub=18:1196656,18:1101401
+Sugar Baby (2022)	dub=18:1101401
 Sugar Baby (2024)	dub=18:1267217,https://embedplayer2.xyz/cdn/hls/a22e9ea95aab7bf2c7ca9358313d37b4/master.txt
+Sugar Baby (2025)	dub=18:1196656
 Sugar Daddy - Na Busca de um patrocínio	dub=18:763240
 Sugar Dead	dub=18:913031,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39330.mp4
 Sugar Dead - A Baby teve um Baby!	dub=18:1428752,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768662.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52122.mp4
@@ -1631,7 +1632,7 @@ Suprema	dub=18:1394439,18:339380,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q
 Supremo Mestre Demonio - Queimando de Raiva	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302969.mp4
 Surdina	dub=18:637645,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19636.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90552.mp4
 Surdo	dub=18:542444,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752775.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46105.mp4
-Surdos e Loucos	dub=18:11185,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249182.mp4
+Surdos e Loucos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249182.mp4
 Surf Adventures: O Filme	dub=18:67984
 Surf Surf	dub=18:28346,18:347917,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42991.mp4
 Surf no Hawaí	dub=18:22915,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753638.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42982.mp4
@@ -1645,7 +1646,7 @@ Surpresa! Fiquei Noiva	dub=18:778873,18:514222
 Surpresas da Vida	dub=18:2319,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249190.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249236.mp4
 Surpresas do Amor	dub=18:12193,18:194062,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768620.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19654.mp4
 Surto (2020)	dub=18:653584,https://embedplayer2.xyz/cdn/hls/e7bd1b5461caebec9a7321147a477311/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762190.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31897.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90541.mp4
-Survive	dub=18:845398,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753785.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756882.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46110.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90547.mp4
+Survive	dub=18:845398,18:1132079,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753785.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756882.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46110.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90547.mp4
 Survive The Night	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90566.mp4
 Survivre (2024)	dub=18:1196470,https://embedplayer2.xyz/cdn/hls/59324c5d1fafb52b86e629b90d8f2e70/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754453.mp4	leg=18:1196470.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90562.mp4
 Susan Hill's Ghost Story	dub=18:655219	leg=18:655219.mp4?lang=leg
@@ -1710,5 +1711,5 @@ Só por Uma Noite (2026)	dub=18:1433367,http://acaidopt.org:80/movie/3llohwk4g9/
 Sócias em Guerra	dub=18:526019,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768397.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19668.mp4
 Sócrates (2018)	dub=18:544355,https://embedplayer2.xyz/cdn/hls/3c4537a65ae734dfd8880dcea34cbc78/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762843.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31707.mp4
 scorched earth	dub=18:433183
-se Conseguir	dub=18:989872,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1095.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88926.mp4
+se Conseguir	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1095.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88926.mp4
 seine Freundin und ich	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311982.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312001.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311971.mp4

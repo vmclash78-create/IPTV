@@ -298,7 +298,7 @@ Refem do Medo (2016)	dub=18:329981,http://acaidopt.org:80/movie/3llohwk4g9/kwf09
 Reflexões de um Liquidificador	dub=18:158921,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39194.mp4
 Reflexões no Espelho	dub=18:929449
 Reforma com Romance	dub=18:1380983,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752234.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1065.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87877.mp4
-Reforma e Amor	dub=18:1015169,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40254.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87898.mp4
+Reforma e Amor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40254.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87898.mp4
 Refugiado	dub=18:603651	leg=18:603651.mp4?lang=leg
 Refugiado Americano	dub=18:827315,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758260.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51627.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87889.mp4
 Refugio (2021)	dub=18:807443,18:1098537,18:1581924,18:760873,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765724.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36462.mp4	leg=https://embedplayer2.xyz/cdn/hls/fa600dd894f348b553c60e4000edcf98/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87938.mp4
@@ -535,7 +535,7 @@ Rewind (2019)	dub=18:597615,18:4953,http://acaidopt.org:80/movie/3llohwk4g9/kwf0
 Reza a Lenda (2016)	dub=18:359787
 Rezando por uma SEGUNDA CHANCE	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303365.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303372.mp4
 Reze Depois de Ler	dub=18:1002258,https://embedplayer2.xyz/cdn/hls/34f9c59c15242e46961a2de8d69f0581/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755381.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758687.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51675.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88255.mp4
-Reze para Sair	dub=18:13555,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51682.mp4
+Reze para Sair	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51682.mp4
 Rheingold: O Roubo do Sucesso (2022)	dub=18:912726
 Rick and Morty Summer Meets God	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11054.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88236.mp4
 Rick and Morty The Great Yokai Battle of Akihabara	dub=18:1625890,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11064.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88248.mp4

@@ -527,7 +527,7 @@ Mariya - O Simbolo de Uma Guerra (2022)	dub=18:610349,http://acaidopt.org:80/mov
 Marjorie Prime	dub=18:426254,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765813.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34186.mp4
 Mark Cavendish, Pedalando Até O Fim	dub=18:1148445,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760003.mp4
 Mark Felt: O Homem Que Derrubou a Casa Branca (2017)	dub=18:390061,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763476.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27671.mp4
-Mark, Mary & Outras Pessoas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768432.mp4
+Mark, Mary & Outras Pessoas	dub=18:820923,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768432.mp4
 Marlene	dub=18:484664	leg=18:748346.mp4?lang=leg,18:951317.mp4?lang=leg
 Marley & Eu (2008)	dub=18:14306,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766827.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16355.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308367.mp4
 Marley & Eu 2 - Filhote Encrenqueiro (2011)	dub=18:72391,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766954.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16350.mp4
@@ -559,7 +559,7 @@ Marvel Rising: Brincando com Fogo (2019)	dub=18:592689,http://dbonline.tech-cdn.
 Marvel Rising: Coração de Ferro (2019)	dub=18:583209,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764935.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766553.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9984.mp4
 Marvel Rising: Guerreiros Secretos (2018)	dub=18:491633,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764962.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9976.mp4
 Marvel Studios' The Fantastic Four: First Steps - World Premiere	dub=18:1516738,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751118.mp4
-Mary + Some Other People	dub=18:820923,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16364.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77947.mp4
+Mary + Some Other People	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16364.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77947.mp4
 Mary J. Blige: Minha Vida	dub=18:835860,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754083.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759848.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77962.mp4
 Mary Kay Letourneau: Faces de Um Escândalo	dub=18:1024572,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760958.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766518.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4874.mp4
 Mary Poppins (1964)	dub=18:433,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300922.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751920.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52876.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77958.mp4
@@ -579,7 +579,7 @@ Maré: Nossa História de Amor	dub=18:235459,http://acaidopt.org:80/movie/3llohw
 María Soledad: O Fim do Silêncio	dub=18:1362480,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755129.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760115.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77984.mp4
 María, ¡Me muero! (2024)	dub=18:1360170,https://embedplayer2.xyz/cdn/hls/82c82e44cc1e9183622cc36decb4fce4/master.txt	leg=https://embedplayer2.xyz/cdn/hls/92609d0630f41489fa00fcc710d66385/master.txt
 Mas Tourette Não Me Tem	dub=18:277472	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78000.mp4
-Mas Vou Te Matar	dub=18:763820,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49658.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77995.mp4
+Mas Vou Te Matar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49658.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77995.mp4
 Masameer Junior	dub=18:1238307,https://embedplayer2.xyz/cdn/hls/9fe7c2a6c20f81c100140b7f5483fd7f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751484.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756241.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9980.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78005.mp4
 Mash SF	dub=18:38431
 Masha e o Urso	dub=18:427515,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766298.mp4
@@ -627,7 +627,7 @@ Match de Natal	dub=18:744939,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Match do Amor	dub=18:784992,https://embedplayer2.xyz/cdn/hls/0244384acde462147023102feb42b2d4/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751922.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53624.mp4
 Matchbox - O Filme (2026)	dub=18:1148365,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750491.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750420.mp4
 Mate ou Morra	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760542.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4895.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78072.mp4
-Mate-a, se Conseguir	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752246.mp4
+Mate-a, se Conseguir	dub=18:989872,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752246.mp4
 Mate-me Mais uma Vez	dub=18:237756
 Mate-me Por Favor	dub=18:359429
 Mate-me se Puder (2023)	dub=18:1179664,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56801.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766524.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16421.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78083.mp4
@@ -756,8 +756,8 @@ Medidas Extremas	dub=18:11306,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o
 Medidas Extremas (2022)	dub=18:942047
 Medieval (2022)	dub=18:551271,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56835.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762648.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27729.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78207.mp4
 Medo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751814.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754627.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759295.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761981.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/662.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78212.mp4
-Medo (1996)	dub=18:725675,18:1305906,18:10543,18:880100
-Medo (2023)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301141.mp4
+Medo (1996)	dub=18:10543
+Medo (2023)	dub=18:725675,18:1305906,18:880100	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301141.mp4
 Medo Ponto Com Br	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49689.mp4
 Medo Profundo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758215.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764536.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27743.mp4
 Medo Profundo (2008)	dub=18:14138
@@ -1060,7 +1060,7 @@ Meu Pai Trabalha Como Seguranca	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin
 Meu Pai e um Perigo (2023)	dub=18:829051,https://embedplayer2.xyz/cdn/hls/98386a06ef67f27b3f18a0c3d1aa4dec/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767734.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16706.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78649.mp4
 Meu Pai É o Lendário Titã	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98466.mp4
 Meu Pai é o Magnata Misterioso	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303419.mp4
-Meu Pai, o Assassino BTK	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768901.mp4
+Meu Pai, o Assassino BTK	dub=18:1550785,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768901.mp4
 Meu Papai é Noel (1994)	dub=18:11395
 Meu Papai é Noel 2 (2002)	dub=18:9021
 Meu Papai é Noel 3 A Fuga do Papai Noel (2006)	dub=18:13767
@@ -1081,7 +1081,7 @@ Meu Primeiro Amor de Verão	dub=18:1256724,https://embedplayer2.xyz/cdn/hls/b788
 Meu Primeiro Verão na Califórnia	dub=18:545957,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754107.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767480.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16716.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78664.mp4
 Meu Primo (2020)	dub=18:601297,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767463.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16665.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78504.mp4
 Meu Primo Vinny (1992)	dub=18:10377
-Meu Professor, Minha Obsessão	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762852.mp4
+Meu Professor, Minha Obsessão	dub=18:530442,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762852.mp4
 Meu Próprio Filho (2026)	dub=18:1616131,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768984.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311951.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311942.mp4
 Meu Psicólogo Imaginário	dub=18:533705,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767410.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16721.mp4
 Meu Pé de Laranja Lima	dub=18:191185,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38579.mp4
@@ -1268,7 +1268,7 @@ Minha Namorada é uma Vampira	dub=18:399747
 Minha Noiva de Mentira	dub=18:37269
 Minha Noiva é de Matar	dub=18:728235,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768302.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16807.mp4
 Minha Obra-Prima	dub=18:535692,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754390.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767802.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16803.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78896.mp4
-Minha Obsessão	dub=18:530442,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27999.mp4
+Minha Obsessão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27999.mp4
 Minha Patricinha Selvagem	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303061.mp4
 Minha Prima Raquel	dub=18:413998,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313920.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313944.mp4
 Minha Primeira Luta	dub=18:502122,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762918.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28003.mp4
@@ -1599,7 +1599,7 @@ Morte Antes do Casamento (2025)	dub=18:1325482,https://embedplayer2.xyz/cdn/hls/
 Morte Imediata (2017)	dub=18:375343
 Morte Instantânea	dub=18:431075,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758182.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49798.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79391.mp4
 Morte Negra	dub=18:41215
-Morte Nova	dub=18:365651,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5149.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79415.mp4
+Morte Nova	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5149.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79415.mp4
 Morte Sobre o Nilo	dub=18:4192
 Morte Subita (1995)	dub=18:9091,https://embedplayer2.xyz/cdn/hls/2ffb96f431aa7dddb72fb2363e9fb0c2/master.txt
 Morte Súbita	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760702.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5146.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253327.mp4
@@ -1648,8 +1648,7 @@ Motoqueiro Fantasma 2 (2011)	dub=18:71676,http://acaidopt.org:80/movie/3llohwk4g
 Motoqueiros Selvagens (2007)	dub=18:11199,18:42533,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760790.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5163.mp4
 Motoqueiros Sem Rumo	dub=18:68995
 Motor City	dub=18:87513,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750207.mp4	leg=18:87513.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313722.mp4
-Motorista de Fuga	dub=18:1151334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57091.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751170.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249255.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249228.mp4
-Motorista de Fuga (2025)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300782.mp4
+Motorista de Fuga (2025)	dub=18:1151334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300782.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57091.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751170.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249255.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249228.mp4
 Motorrad	dub=18:471445,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49822.mp4
 Motståndaren	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311745.mp4
 Moulin Rouge: Amor em Vermelho (2001)	dub=18:824,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28110.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79445.mp4
@@ -1744,7 +1743,7 @@ Mulheres ao Ataque (2014)	dub=18:193610,http://acaidopt.org:80/movie/3llohwk4g9/
 Mulheres da Máfia 2	dub=18:569133
 Mulheres de Verdade Têm Curvas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53689.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79543.mp4
 Mulheres do Século 20	dub=18:342737
-Mulheres e Filhos	dub=18:243684,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28156.mp4
+Mulheres e Filhos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28156.mp4
 Mulheres no Poder	dub=18:337709
 Mulheres à Beira de um Ataque de Nervos	dub=18:4203
 Mulheres: Jogar para Ganhar	dub=18:576547,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755265.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766933.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17009.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79559.mp4
@@ -1756,7 +1755,7 @@ Mundo Cão (2021)	dub=18:744278,18:360142,https://embedplayer2.xyz/cdn/hls/58c7e
 Mundo Duplo (2020)	dub=https://embedplayer2.xyz/cdn/hls/94922bbe89810632e92ca91775f7d6b4/master.txt
 Mundo Escondido	dub=18:1399270,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760030.mp4
 Mundo Estranho (2022)	dub=18:877269,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57118.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10164.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79563.mp4
-Mundo Futuro: Ano 2003, Operação Terra	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762261.mp4
+Mundo Futuro: Ano 2003, Operação Terra	dub=18:10640,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762261.mp4	leg=18:10640.mp4?lang=leg
 Mundo Novo	dub=18:883011,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301315.mp4
 Mundo Ordinário	dub=18:390777
 Mundo Proibido (1992)	dub=18:14239
@@ -1764,8 +1763,7 @@ Mundo Sombrio Equilibrium	dub=18:248223,http://dbonline.tech-cdn.top:80/movie/ke
 Mundo dos Zumbis 2	dub=18:539064
 Mundo em Caos (2021)	dub=18:412656,https://embedplayer2.xyz/cdn/hls/8413f0e83eb63176d763999dd17a1616/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57113.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765981.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36127.mp4	leg=18:412656.mp4?lang=leg
 Mundo em Chamas	dub=18:944306,https://embedplayer2.xyz/cdn/hls/62c196b20a354744d853d82bd3834b2a/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752520.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755634.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44972.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79557.mp4
-Mundos Opostos	dub=18:350845,18:58244
-Mundos Opostos (2012)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773415.mp4
+Mundos Opostos (2012)	dub=18:350845,18:58244,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773415.mp4
 Mundos Paralelos	dub=18:553833,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762025.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766677.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28165.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79570.mp4
 Mune, O Guardião da Lua (2015)	dub=18:323661
 Munique	dub=18:612
@@ -1793,7 +1791,7 @@ Musica (2024)	dub=18:968441,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Musk	leg=18:1096228.mp4?lang=leg
 Mussum O Filmis (2023)	dub=18:937949,https://embedplayer2.xyz/cdn/hls/002774959925659e9907b7c79248ac30/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757840.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38646.mp4
 Mussum: Um Filme do Cacildis (2019)	dub=18:565955,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759973.mp4
-Mutano: Lobo Solitário	dub=18:1796991,18:1431120,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755253.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10199.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79617.mp4
+Mutano: Lobo Solitário	dub=18:1431120,18:1796991,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755253.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10199.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79617.mp4
 Mutante: Destino Sombrio (2024)	dub=18:1295415
 Mutação (2021)	dub=18:672437,18:1417469,18:4961,https://embedplayer2.xyz/cdn/hls/57345a66444f04398e96482550000956/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750419.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755728.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759168.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49852.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79602.mp4
 Mutação 2	dub=18:10706
@@ -1892,7 +1890,7 @@ Música para Quando as Luzes Se Apagam	dub=18:469950
 Música, Amigos e Festa	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762948.mp4
 Mārama	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750806.mp4
 maboroshi (2023)	dub=18:333401,18:845387,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756640.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9937.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77499.mp4
-mas Feliz	dub=18:12110,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49654.mp4
-mas Pouco	dub=18:882098,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39863.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77990.mp4
+mas Feliz	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49654.mp4
+mas Pouco	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39863.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77990.mp4
 mentiras e o FBI	dub=18:1390788	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251702.mp4
 meu amor	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97751.mp4

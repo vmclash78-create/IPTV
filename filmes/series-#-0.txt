@@ -11,7 +11,7 @@
 1	10	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2664112.mp4
 1	11	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2664113.mp4
 1	12	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2664114.mp4
-@#I&#039;m Looking for a Zombie
+@#I'm Looking for a Zombie
 1	1	dub	19:301139/1/1
 1	1	leg	19:301139/1/1.mp4?lang=leg
 @#blackAF
@@ -427,6 +427,8 @@
 1	8	dub	19:293607/1/8,http://64.31.23.207:80/series/96795792/50165825/5723102.mp4
 1	9	dub	19:293607/1/9,http://64.31.23.207:80/series/96795792/50165825/5728053.mp4
 1	10	dub	19:293607/1/10,http://64.31.23.207:80/series/96795792/50165825/5728054.mp4
+1	11	dub	19:293607/1/11
+1	12	dub	19:293607/1/12
 @100 Dias para Morar: Começando do Zero
 1	1	dub	19:115064/1/1,http://64.31.23.207:80/series/96795792/50165825/5583392.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2651987.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/114567.mp4
 1	2	dub	19:115064/1/2,http://64.31.23.207:80/series/96795792/50165825/5583393.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2651988.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/114568.mp4

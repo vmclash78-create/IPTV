@@ -81,12 +81,11 @@ Fatal Crossing As Garotas da Balsa		0	8
 Fatal Injections		0	8
 Fate Chooses You		0	41
 Fate/Apocrypha		0	25
-Fate/kaleid liner Prisma☆Illya		0	16
 Fate/stay night	2006	0	24
 Fate/strange Fake		0	8
 Fate: A Saga Winx		0	13
 Fated to Love You		0	20
-Fatekaleid liner Prisma Illya		0	1
+Fatekaleid liner Prisma Illya		0	16
 Fatih		0	5
 Fatih Terim: Lenda do Futebol		0	4
 Fatma		0	6
@@ -115,10 +114,10 @@ Febre do Ouro: Freddy Dodge ao Resgate		0	52
 Feed the Beast		0	10
 Feel Good		0	12
 Feel What You Feel		0	8
-Feia - Cirkin		0	8
+Feia - Cirkin		0	81
 Feijão Maravilha		0	119
 Feiticos em Silencio		0	1
-Feito com Amor		1	8
+Feito com Amor		0	8
 Felicidade		1	203
 Felicidade em Família - Aile Saadeti		1	13
 Felicity		1	84
@@ -185,7 +184,8 @@ Fire Force	2019	1	73
 Fired on Mars		1	8
 Firefighter Daigo: Rescuer in Orange		1	23
 Fireflies		1	8
-Firefly Wedding		1	12
+Firefly Wedding		1	1
+Firefly Wedding (2026)		1	12
 Fires		1	6
 First Love		1	9
 First Note of Love		1	12
@@ -241,7 +241,6 @@ Fogos de Artifício do Meu Coração		1	80
 Foi Amor?		2	16
 Folclore		2	22
 Folha Magica		2	52
-Fome de Loba	2014	2	20
 Fome de Respostas		2	4
 Fontes Termais de Outro Mundo Diarios de um entusiasta de termas que foi transportado para um paraiso		2	15
 Food Truck A Batalha		2	30
@@ -269,7 +268,7 @@ Forever		2	20
 Forever Love		2	28
 Forever O Imortal		2	22
 Forever: Uma Vida Eterna		2	22
-Forging Justice		2	33
+Forging Justice		2	66
 Formula 1 Dirigir para Viver		2	78
 Formula Dreams		2	10
 Formula E DRIVER		2	8
@@ -332,7 +331,7 @@ Fugitivos, da Marvel	2017	2	33
 Fui um Objeto Sexual A Mulher na TV Espanhola		2	2
 Fukuyadou Honpo – Kyoto love story		2	11
 Fulfill		2	8
-Full Clearing Another World under a Goddess with Zero Believers		2	12
+Full Clearing Another World under a Goddess with Zero Believers (2026)		2	12
 Full Count: Beisebol Coreano		2	20
 Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!		2	12
 Full Metal Panic		2	24
@@ -340,7 +339,7 @@ Full Moon		2	26
 Fuller House		2	75
 Fullmetal Alchemist		2	51
 Fullmetal Alchemist: Brotherhood	2009	2	64
-Fumetsu no Anata e		2	43
+Fumetsu no Anata e		2	62
 Fundacao	2021	2	30
 Fundamentos do Prazer	2022	2	3
 Funk Doc Popular e Proibido		2	6
@@ -358,12 +357,12 @@ Futurama		2	217
 Future Man		2	34
 Futuro Deserto		2	6
 Fuufu Ijou, Koibito Miman		2	12
-Fuuto Tantei		3	12
+Fuuto Tantei		2	12
 Fuzue		3	173
 Fábrica de Casamentos		3	55
 Fé na Vida		3	3
-Férias Mortais: O Assassinato Selvagem		3	4
-Férias Mortais: O Assassino Selvagem		3	7
+Férias Mortais: O Assassinato Selvagem		3	7
+Férias Mortais: O Assassino Selvagem		3	4
 Férias em Família		3	20
 Fúria	2026	3	22
 Fúria no Trânsito		3	20

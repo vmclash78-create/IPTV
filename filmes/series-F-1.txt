@@ -1,12 +1,3 @@
-@Feito com Amor
-1	1	dub	19:315595/1/1,http://64.31.23.207:80/series/96795792/50165825/5662699.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694091.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252994.mp4
-1	2	dub	19:315595/1/2,http://64.31.23.207:80/series/96795792/50165825/5662700.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694092.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252995.mp4
-1	3	dub	19:315595/1/3,http://64.31.23.207:80/series/96795792/50165825/5662701.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694093.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252996.mp4
-1	4	dub	19:315595/1/4,http://64.31.23.207:80/series/96795792/50165825/5662702.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694094.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252997.mp4
-1	5	dub	19:315595/1/5,http://64.31.23.207:80/series/96795792/50165825/5662703.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694095.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252998.mp4
-1	6	dub	19:315595/1/6,http://64.31.23.207:80/series/96795792/50165825/5662704.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694096.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252999.mp4
-1	7	dub	19:315595/1/7,http://64.31.23.207:80/series/96795792/50165825/5662705.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694097.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/253000.mp4
-1	8	dub	19:315595/1/8,http://64.31.23.207:80/series/96795792/50165825/5662706.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2694098.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/253001.mp4
 @Felicidade
 1	1	dub	19:135340/1/1,http://64.31.23.207:80/series/96795792/50165825/5411197.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2725326.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/177670.mp4
 1	2	dub	19:135340/1/2,http://64.31.23.207:80/series/96795792/50165825/5411198.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2725327.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/177671.mp4
@@ -943,14 +934,14 @@
 1	7	dub	https://embedplayer2.xyz/cdn/hls/6077957802e2678f5163a12ff7b3298b/master.txt,http://64.31.23.207:80/series/96795792/50165825/5635881.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2513091.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/140111.mp4
 1	8	dub	https://embedplayer2.xyz/cdn/hls/120b78713f4a4b7d5e11c979c318fbd2/master.txt,http://64.31.23.207:80/series/96795792/50165825/5635882.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2513092.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/140112.mp4
 @Festa da Salsicha: Comilândia
-1	1	dub	19:213249/1/1,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538698.mp4
+1	1	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538698.mp4
 1	2	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538699.mp4
-1	3	dub	19:213249/1/3,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538700.mp4
+1	3	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538700.mp4
 1	4	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538701.mp4
-1	5	dub	19:213249/1/5,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538702.mp4
-1	6	dub	19:213249/1/6,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538703.mp4
-1	7	dub	19:213249/1/7,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538704.mp4
-1	8	dub	19:213249/1/8,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538705.mp4
+1	5	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538702.mp4
+1	6	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538703.mp4
+1	7	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538704.mp4
+1	8	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538705.mp4
 2	1	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538706.mp4
 2	2	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538707.mp4
 2	3	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2538708.mp4
@@ -2191,7 +2182,9 @@
 1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5653613.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2657039.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/9638.mp4
 1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5653614.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2657040.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/9640.mp4
 @Firefly Wedding
-1	1	dub	19:320909/1/1,http://64.31.23.207:80/series/96795792/50165825/5722981.mp4
+1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5722981.mp4
+@Firefly Wedding (2026)
+1	1	dub	19:320909/1/1
 1	1	leg	19:320909/1/1.mp4?lang=leg
 1	2	dub	19:320909/1/2
 1	2	leg	19:320909/1/2.mp4?lang=leg
