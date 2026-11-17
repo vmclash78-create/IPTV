@@ -12,7 +12,7 @@ SPEC.loader.exec_module(auditor)
 class PlaylistParserTests(unittest.TestCase):
     def test_parse_m3u_keeps_name_and_metadata(self):
         text = """#EXTM3U
-#EXTINF:-1 tvg-id="canal-1" tvg-logo="https://img.test/logo.png" group-title="Noticias",Canal Teste
+#EXTINF:-1 tvg-id="canal-1" tvg-logo="https://img.test/logo.png" tvg-country="BR" group-title="Noticias",Canal Teste
 https://stream.test/live.m3u8
 """
         parsed = auditor.parse_playlist(text, "fonte-teste")
@@ -20,6 +20,55 @@ https://stream.test/live.m3u8
         self.assertEqual(parsed[0]["name"], "Canal Teste")
         self.assertEqual(parsed[0]["tvg_id"], "canal-1")
         self.assertEqual(parsed[0]["group"], "Noticias")
+        self.assertEqual(parsed[0]["tvg_country"], "BR")
+
+
+class SourcePolicyTests(unittest.TestCase):
+    def test_official_filter_excludes_community_and_other_countries(self):
+        playlist = """#EXTM3U
+#EXTINF:-1 tvg-country="BR",Canal Oficial
+https://official.test/live.m3u8
+#EXTINF:-1 tvg-country="BR" x-tier="community",Canal Comunitario
+https://community.test/live.m3u8
+#EXTINF:-1 tvg-country="US",Canal Estrangeiro
+https://us.test/live.m3u8
+"""
+        parsed = auditor.parse_playlist(playlist, "Nexonic")
+        kept, excluded = auditor.filter_source_entries(
+            parsed,
+            {"country": "BR", "tier_policy": "official_only", "publish": True, "role": "official_curated"},
+        )
+        self.assertEqual([item["name"] for item in kept], ["Canal Oficial"])
+        self.assertTrue(kept[0]["publishable_source"])
+        self.assertEqual(excluded["non_official_tier"], 1)
+        self.assertEqual(excluded["wrong_country"], 1)
+
+    def test_rejects_signed_urls_from_publishable_feed(self):
+        entry = {
+            "name": "Canal Tokenizado",
+            "url": "https://cdn.test/live.m3u8?jwt=temporary&includeExtendedEvents=true",
+            "tvg_country": "BR",
+            "tier": "",
+        }
+        kept, excluded = auditor.filter_source_entries(
+            [entry],
+            {"country": "BR", "publish": True, "role": "official_curated"},
+        )
+        self.assertEqual(kept, [])
+        self.assertEqual(excluded["signed_or_credential_url"], 1)
+
+    def test_discovery_source_is_never_publishable(self):
+        entry = {
+            "name": "Candidato",
+            "url": "https://candidate.test/live.m3u8",
+            "tvg_country": "BR",
+            "tier": "",
+        }
+        kept, _ = auditor.filter_source_entries(
+            [entry],
+            {"publish": False, "role": "discovery_only"},
+        )
+        self.assertFalse(kept[0]["publishable_source"])
 
 
 class StreamValidationTests(unittest.TestCase):

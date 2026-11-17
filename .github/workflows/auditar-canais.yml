@@ -5,7 +5,7 @@ on:
     branches:
       - feature/auditoria-publica-canais
   schedule:
-    - cron: "30 4 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
