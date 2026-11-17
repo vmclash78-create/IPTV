@@ -343,8 +343,11 @@ enum Legendas {
             Range(m.range(at: i), in: texto).map { String(texto[$0]) } ?? "0"
         }
         let milis = campo(4).padding(toLength: 3, withPad: "0", startingAt: 0)
-        return (Double(campo(1)) ?? 0) * 3600 + (Double(campo(2)) ?? 0) * 60
-            + (Double(campo(3)) ?? 0) + (Double(milis) ?? 0) / 1000
+        let horas = Double(campo(1)) ?? 0
+        let minutos = Double(campo(2)) ?? 0
+        let segundosInteiros = Double(campo(3)) ?? 0
+        let fracaoMillis = Double(milis) ?? 0
+        return horas * 3600 + minutos * 60 + segundosInteiros + fracaoMillis / 1000
     }
 
     /// SRT em falas; marcação de estilo sai, porque o texto é desenhado à parte.

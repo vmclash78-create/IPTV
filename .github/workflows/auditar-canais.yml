@@ -1,0 +1,64 @@
+name: Auditoria publica de canais
+
+on:
+  push:
+    branches:
+      - feature/auditoria-publica-canais
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prisma-auditoria-canais
+  cancel-in-progress: false
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verificar sintaxe e executar testes
+        run: |
+          python3 -m compileall -q scripts tests
+          python3 -m unittest discover -s tests -v
+
+      - name: Agregar e auditar fontes publicas
+        run: python3 scripts/auditar_canais.py
+
+      - name: Publicar lista e relatorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add canais/auditada.m3u canais/auditoria.json relatorio_auditoria.md
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao na auditoria."
+            exit 0
+          fi
+          git commit -m "chore(iptv): atualizar canais aprovados na auditoria [skip ci]"
+          # Rebaseia sobre commits que possam ter chegado enquanto a auditoria rodava.
+          git fetch origin "${GITHUB_REF_NAME}"
+          git rebase "origin/${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+
+  validar-app-macos:
+    runs-on: macos-15
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Compilar Prisma TV
+        run: |
+          cd PrismaPlayer
+          bash build.sh

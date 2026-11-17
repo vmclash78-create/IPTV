@@ -32,6 +32,12 @@ python testar_canais.py
 
 O relatório detalhado com tempo de resposta e canais online/offline é gerado em `relatorio_canais.md`.
 
+## Fontes e auditoria de canais
+
+O catalogo automatico separa disponibilidade tecnica de procedencia/autorizacao. Somente listas com politica oficial de inclusao revisada alimentam o arquivo canais/auditada.m3u; listas comunitarias ou sem evidencia individual ficam em canais/auditoria.json como candidatos para revisao.
+
+Consulte canais/fontes.md para criterios, fontes aprovadas, fontes em observacao e atribuicoes. A auditoria e executada a cada seis horas pelo GitHub Actions.
+
 ## 🔒 Segurança
 
 Mantenha este repositório privado para preservar os endpoints e configurações.

@@ -22,6 +22,12 @@ enum RemoteCatalog {
         guard Enderecos.canaisAtivos else { return nil }
         return URL(string: base + "canais.txt")
     }
+    /// Lista pública validada automaticamente. Entra como fonte reserva,
+    /// sem substituir o catálogo principal nem suas credenciais/cabeçalhos.
+    static var auditadaURL: URL? {
+        guard Enderecos.canaisAtivos else { return nil }
+        return URL(string: base + "auditada.m3u")
+    }
     /// Os canais que só aparecem depois do código. Publicados à parte para
     /// renomear, tirar ou trocar link sem recompilar — a lista de fábrica
     /// (`restrictedChannels`) fica só de reserva para a primeira abertura sem rede.
@@ -57,7 +63,7 @@ enum RemoteCatalog {
     static func cached() -> [Channel] {
         guard Enderecos.canaisAtivos else { return [] }
         let base = read("catalogo.txt")
-        let extras = read("canais.txt")
+        let extras = read("canais.txt") + read("auditada.m3u")
         guard !base.isEmpty || !extras.isEmpty else { return defaultChannels }
         return merge(base: base, published: extras)
     }
@@ -80,22 +86,45 @@ enum RemoteCatalog {
     /// end as a new channel.
     static func merge(base: [Channel], published: [Channel]) -> [Channel] {
         let principal = base.isEmpty ? defaultChannels : base
-        var extra: [String: Channel] = [:]
-        for channel in published { extra[chaveDeCanal(channel.name)] = channel }
+
+        // Agrupa todas as listas publicadas pela chave do canal. Assim duas
+        // fontes auditadas do mesmo canal viram variantes, nao canais repetidos.
+        var extrasPorChave: [String: Channel] = [:]
+        var ordemExtras: [String] = []
+        for channel in published {
+            let key = chaveDeCanal(channel.name)
+            if var existing = extrasPorChave[key] {
+                var known = Set(existing.variants.map(\.url))
+                for variant in channel.variants where known.insert(variant.url).inserted {
+                    existing.variants.append(variant)
+                }
+                if existing.logo == nil { existing.logo = channel.logo }
+                if existing.categoria == nil { existing.categoria = channel.categoria }
+                extrasPorChave[key] = existing
+            } else {
+                extrasPorChave[key] = channel
+                ordemExtras.append(key)
+            }
+        }
 
         var used: Set<String> = []
         let merged = principal.map { channel -> Channel in
             let key = chaveDeCanal(channel.name)
-            guard let incoming = extra[key] else { return channel }
+            guard let incoming = extrasPorChave[key] else { return channel }
             used.insert(key)
-            let known = Set(channel.variants.map(\.url))
-            let novos = incoming.variants.filter { !known.contains($0.url) }
-            guard !novos.isEmpty else { return channel }
             var copy = channel
-            copy.variants += novos
+            var known = Set(channel.variants.map(\.url))
+            for variant in incoming.variants where known.insert(variant.url).inserted {
+                copy.variants.append(variant)
+            }
+            if copy.logo == nil { copy.logo = incoming.logo }
             return copy
         }
-        return merged + published.filter { !used.contains(chaveDeCanal($0.name)) }
+        let novos = ordemExtras.compactMap { key -> Channel? in
+            guard !used.contains(key) else { return nil }
+            return extrasPorChave[key]
+        }
+        return merged + novos
     }
 
     /// Nome reduzido ao que identifica o canal, para casar as duas listas.
@@ -128,10 +157,19 @@ enum RemoteCatalog {
         async let baixado = download(url, into: "catalogo.txt")
         async let extras = download(extrasURL, into: "canais.txt")
         let (base, publicados) = await (baixado, extras)
-        guard !base.isEmpty || !publicados.isEmpty else { return nil }
 
+        let canaisAuditados: [Channel]
+        if let auditadaURL {
+            canaisAuditados = await download(auditadaURL, into: "auditada.m3u")
+        } else {
+            canaisAuditados = []
+        }
+        guard !base.isEmpty || !publicados.isEmpty || !canaisAuditados.isEmpty else { return nil }
+
+        let extrasEmCache = publicados.isEmpty ? read("canais.txt") : publicados
+        let auditadosEmCache = canaisAuditados.isEmpty ? read("auditada.m3u") : canaisAuditados
         let merged = merge(base: base.isEmpty ? read("catalogo.txt") : base,
-                           published: publicados.isEmpty ? read("canais.txt") : publicados)
+                           published: extrasEmCache + auditadosEmCache)
         return merged.isEmpty ? nil : merged
     }
 

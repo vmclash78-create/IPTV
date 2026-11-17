@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Canal Gov (720p)" group-title="Legislative" tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-name="Canal Sete" group-title="General" tvg-id="CanalSete.br@SD" tvg-logo="https://i.imgur.com/0cq0BPp.png",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal UOL (1080p)" group-title="General" tvg-id="CanalUOL.br@SD" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg",Canal UOL (1080p)
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-name="Catve FM (720p) [Not 24/7]" group-title="General" tvg-id="CatveFM.br@SD" tvg-logo="https://i.imgur.com/w89yw36.png",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Catve Master TV (720p) [Not 24/7]" group-title="General" tvg-id="CatveMasterTV.br@SD" tvg-logo="https://i.imgur.com/4m7Iazm.png",Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Catve2 (720p)" group-title="General" tvg-id="Catve2.br@SD" tvg-logo="https://i.imgur.com/qiVfsfB.png",Catve2 (720p)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 tvg-name="Chroma TV (480p)" group-title="Entertainment" tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png",Chroma TV (480p)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-name="CINDIE TV (1080p)" group-title="Movies" tvg-id="CINDIETV.br@HD" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-name="CNN Brasil (1080p)" group-title="News" tvg-id="CNNBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",CNN Brasil (1080p)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-name="COM Brasil (720p)" group-title="General" tvg-id="COMBrasil.br@SD" tvg-logo="https://i.imgur.com/GrjGwKM.png",COM Brasil (720p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-name="Conexão TV (720p)" group-title="General" tvg-id="ConexaoTV.br@SD" tvg-logo="https://i.imgur.com/CJ9SPsZ.png",Conexão TV (720p)
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Fala Litoral (480p)" group-title="General" tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png",Fala Litoral (480p)
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fonte TV" group-title="Religious" tvg-id="FonteTV.br@SD" tvg-logo="https://i.imgur.com/7q2BmNc.png",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+#EXTINF:-1 tvg-name="MyTime Movie Network Brazil (720p)" group-title="Movies" tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png",MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="O Dia TV (450p)" group-title="General" tvg-id="ODiaTV.br@SD" tvg-logo="https://i.imgur.com/1LUbAVP.png",O Dia TV (450p)
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-name="SBT Nacional (720p)" group-title="Undefined" tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png",SBT Nacional (720p)
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-name="Terra Viva (720p)" group-title="Outdoor" tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png",Terra Viva (720p)
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Brasil (720p)" group-title="Undefined" tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png",TV Brasil (720p)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-name="TV Clube (720p)" group-title="Undefined" tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Undefined" tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-name="TV Mais Maricá (1080p)" group-title="General" tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png",TV Mais Maricá (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Pantanal MS (360p) [Not 24/7]" group-title="Undefined" tvg-id="TVPantanalMS.br@SD" tvg-logo="https://i.imgur.com/0FOmktl.png",TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Passo Fundo (720p)" group-title="General" tvg-id="TVPassoFundo.br@SD" tvg-logo="https://i.imgur.com/QFE6TiV.png",TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TVLatinaSat (720p)" group-title="General" tvg-id="TVLatinaSat.br@HD" tvg-logo="https://latinasat.com.br/logo.png",TVLatinaSat (720p)
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-name="TV Câmara" group-title="Legislative" tvg-id="TVCamara.br@SD",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-name="TV UFOP" group-title="Education" tvg-id="TVUFOP.br@HD",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-name="TVE RS" group-title="Culture" tvg-id="TVERS.br@SD",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
