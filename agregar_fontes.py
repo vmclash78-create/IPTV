@@ -186,7 +186,53 @@ def executar_agregacao() -> int:
     CATALOGO_FILE.write_text("\n".join(novas_linhas), encoding="utf-8")
     print(f"  OK! {fontes_adicionadas} fontes de backup injetadas em canais existentes.")
     print(f"  OK! {novos_canais_count} novos canais adicionados do repositório iptv-org.")
+    gerar_m3u()
     return novos_canais_count
+
+def gerar_m3u():
+    """Gera arquivos lista.m3u e canais.m3u padrão para players web e compatibilidade total."""
+    texto = CATALOGO_FILE.read_text(encoding="utf-8", errors="replace")
+    linhas = texto.splitlines()
+    
+    m3u_linhas = ["#EXTM3U"]
+    canal_atual = ""
+    logo_atual = ""
+    cat_atual = "Geral"
+    fontes = []
+    
+    def salvar_canal():
+        nonlocal canal_atual, logo_atual, cat_atual, fontes
+        if canal_atual and fontes:
+            for idx, f in enumerate(fontes):
+                sufixo = f" (Fonte {idx+1})" if len(fontes) > 1 and idx > 0 else ""
+                nome_fmt = f"{canal_atual}{sufixo}"
+                m3u_linhas.append(f'#EXTINF:-1 tvg-id="{canal_atual}" tvg-name="{nome_fmt}" tvg-logo="{logo_atual}" group-title="{cat_atual}",{nome_fmt}')
+                m3u_linhas.append(f)
+        canal_atual = ""
+        logo_atual = ""
+        cat_atual = "Geral"
+        fontes = []
+
+    for l in linhas:
+        l = l.strip()
+        if not l or l.startswith("#"):
+            continue
+        if l.startswith("canal:"):
+            salvar_canal()
+            canal_atual = l[6:].strip()
+        elif l.startswith("logo:"):
+            logo_atual = l[5:].strip()
+        elif l.startswith("categoria:"):
+            cat_atual = l[10:].strip()
+        elif l.startswith("fonte:"):
+            fontes.append(l[6:].strip())
+            
+    salvar_canal()
+    
+    m3u_text = "\n".join(m3u_linhas)
+    (ROOT / "canais" / "lista.m3u").write_text(m3u_text, encoding="utf-8")
+    (ROOT / "canais" / "canais.m3u").write_text(m3u_text, encoding="utf-8")
+    print(f"  OK! Playlist M3U gerada em canais/lista.m3u ({len(m3u_linhas)//2} canais/fontes).")
 
 if __name__ == "__main__":
     executar_agregacao()
