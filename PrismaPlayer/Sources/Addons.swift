@@ -462,15 +462,16 @@ struct StreamBehaviorHints: Codable, Hashable, Sendable {
 
 struct StremioStream: Codable, Hashable, Sendable, Identifiable {
     var id: String {
-        [
+        let stableParts: [String] = [
             url ?? "",
             infoHash ?? "",
-            fileIdx.map(String.init) ?? "",
+            fileIdx.map { String($0) } ?? "",
             ytId ?? "",
             externalUrl ?? "",
             name ?? "",
             title ?? description ?? "",
-        ].joined(separator: "|")
+        ]
+        return stableParts.joined(separator: "|")
     }
 
     let name: String?
