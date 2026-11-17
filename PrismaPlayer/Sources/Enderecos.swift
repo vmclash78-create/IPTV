@@ -19,8 +19,6 @@ enum Enderecos {
         let valor = (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
         return valor.isEmpty ? padrao : valor
     }
-        (guardado ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
-    }
 
     /// Endereço-base da lista de canais. Vazio quando desligada.
     static var canais: String {
