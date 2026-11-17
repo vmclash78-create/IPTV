@@ -172,13 +172,48 @@ def apply_custom_patches() -> None:
     plist = ROOT / "PrismaPlayer" / "Info.plist"
     if plist.exists():
         txt = plist.read_text(encoding="utf-8")
-        if "Saimo TV" in txt:
+        if "Saimo TV" in txt or "dev.saimo.player" in txt:
             txt = txt.replace("Saimo TV", "Prisma TV")
             txt = txt.replace("SaimoTV", "PrismaTV")
             txt = txt.replace("dev.saimo.player", "dev.prismatv.player")
             txt = txt.replace("_saimotv._tcp", "_prismatv._tcp")
             plist.write_text(txt, encoding="utf-8")
             print("  Patch de marca aplicado em Info.plist", flush=True)
+
+    # 6. Anti-lag / Otimização de Performance no ProxyServer.swift
+    proxy = sources / "ProxyServer.swift"
+    if proxy.exists():
+        txt = proxy.read_text(encoding="utf-8")
+        if "penalidadeDeHost: TimeInterval = 300" in txt:
+            txt = txt.replace("penalidadeDeHost: TimeInterval = 300", "penalidadeDeHost: TimeInterval = 60")
+        if "recusasParaTrocar = 3" in txt:
+            txt = txt.replace("recusasParaTrocar = 3", "recusasParaTrocar = 2")
+        if "validadeDaGuardada: TimeInterval = 20" in txt:
+            txt = txt.replace("validadeDaGuardada: TimeInterval = 20", "validadeDaGuardada: TimeInterval = 10")
+        proxy.write_text(txt, encoding="utf-8")
+        print("  Otimização anti-lag aplicada em ProxyServer.swift", flush=True)
+
+    # 7. Redução de atraso na reconexão em PlayerModel.swift
+    model = sources / "PlayerModel.swift"
+    if model.exists():
+        txt = model.read_text(encoding="utf-8")
+        if "let delay = min(pow(1.6, Double(reconnectAttempt)), 20)" in txt:
+            txt = txt.replace(
+                "let delay = min(pow(1.6, Double(reconnectAttempt)), 20)",
+                "let delay = min(pow(1.5, Double(reconnectAttempt)), 8)"
+            )
+            model.write_text(txt, encoding="utf-8")
+            print("  Otimização de reconexão rápida aplicada em PlayerModel.swift", flush=True)
+
+    # 8. Renomeações de arquivos Swift de marca
+    saimo_app = sources / "SaimoApp.swift"
+    prisma_app = sources / "PrismaApp.swift"
+    if saimo_app.exists() and not prisma_app.exists():
+        saimo_app.rename(prisma_app)
+    saimo_connect = sources / "SaimoConnect.swift"
+    prisma_connect = sources / "PrismaConnect.swift"
+    if saimo_connect.exists() and not prisma_connect.exists():
+        saimo_connect.rename(prisma_connect)
 
 
 def mirror_git_source() -> None:
@@ -211,6 +246,62 @@ def mirror_channels() -> None:
         download_file(EXTRA_URL, name, target / name)
     if successes == 0:
         raise RuntimeError("Nenhum arquivo de canais foi baixado; confira a origem.")
+    injetar_fontes_confiaveis()
+
+
+def injetar_fontes_confiaveis() -> None:
+    """Garante que canais essenciais (Record, SBT, Band, etc.) tenham fontes oficiais e ativas."""
+    catalogo_path = ROOT / "canais" / "catalogo.txt"
+    manuais_path = ROOT / "canais" / "manuais.txt"
+    if not catalogo_path.exists() or not manuais_path.exists():
+        return
+
+    manuais: dict[str, dict[str, str]] = {}
+    for line in manuais_path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split("|")
+        if len(parts) >= 4:
+            nome, logo, cat, url = parts[0].strip(), parts[1].strip(), parts[2].strip(), parts[3].strip()
+            manuais[nome.lower()] = {"nome": nome, "logo": logo, "cat": cat, "url": url}
+
+    texto = catalogo_path.read_text(encoding="utf-8", errors="replace")
+    linhas = texto.splitlines()
+    novas_linhas: list[str] = []
+    injetados = 0
+
+    i = 0
+    while i < len(linhas):
+        l = linhas[i]
+        if l.startswith("canal:"):
+            canal_nome = l[6:].strip()
+            canal_lower = canal_nome.lower()
+            novas_linhas.append(l)
+            if canal_lower in manuais:
+                m = manuais[canal_lower]
+                tem_fonte = False
+                j = i + 1
+                while j < len(linhas) and not linhas[j].startswith("canal:"):
+                    if m["url"] in linhas[j]:
+                        tem_fonte = True
+                        break
+                    j += 1
+                if not tem_fonte:
+                    k = i + 1
+                    while k < len(linhas) and (linhas[k].startswith("categoria:") or linhas[k].startswith("logo:") or not linhas[k].strip()):
+                        novas_linhas.append(linhas[k])
+                        k += 1
+                    novas_linhas.append(f"fonte: {m['url']}")
+                    novas_linhas.append("qualidade: FHD · Stream Direto Oficial")
+                    injetados += 1
+                    i = k
+                    continue
+        novas_linhas.append(l)
+        i += 1
+
+    catalogo_path.write_text("\n".join(novas_linhas), encoding="utf-8")
+    print(f"  Injetadas fontes oficiais e ativas em {injetados} canais essenciais.", flush=True)
 
 
 def parse_index_letters(index_text: str) -> list[str]:

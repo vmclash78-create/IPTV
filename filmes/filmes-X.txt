@@ -1,33 +1,33 @@
-X-Men 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59344.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8201.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36658&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36658&versao=leg
-X-Men Origens: Wolverine	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8222.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2080&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=2080&versao=leg
-X-Men: Apocalipse	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59354.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8218.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=246655&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=246655&versao=leg
-X-Men: Dias de um Futuro Esquecido	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59358.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8209.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=127585&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=127585&versao=leg
-X-Men: Fênix Negra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59363.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8205.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=320288&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=320288&versao=leg
-X-Men: O Confronto Final	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59367.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8213.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36668&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36668&versao=leg
-X-Men: O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59369.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8219.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36657&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36657&versao=leg
-X-Men: Primeira Classe	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59374.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8226.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49538&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49538&versao=leg
-X: A Marca da Morte	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52734.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=760104&versao=dub	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96208.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=760104&versao=leg
-XENO Amizade do Além (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ad1d933a18a52d1bb9964ec78e034cc/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1119377&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1119377&versao=leg
-XMen 2 (2003)	dub=http://45.172.0.116:8085/hd3/2003/x-men-2/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36658&versao=dub
-XMen Apocalipse (2016)	dub=http://45.172.0.116:8085/hd3/2016/X.Men.Apocalipse.2016/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=246655&versao=dub
-XMen Dias de um Futuro Esquecido (2014)	dub=http://45.172.0.116:8085/hd6/2014/x-men-dias-de-um-futuro-esquecido-2014/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=127585&versao=dub
-XMen O Confronto Final (2006)	dub=http://45.172.0.116:8085/hd1/2006/X-Men.O.Confronto.Final.2006/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36668&versao=dub
-XMen O Filme (2000)	dub=http://45.172.0.116:8085/hd1/2000/X-Men.O.Filme/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=36657&versao=dub
-XMen Primeira Classe (2011)	dub=http://45.172.0.116:8085/hd1/2011/x-men-primeira-classe-2011/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=49538&versao=dub
-XOXO A Vida e Uma Festa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33257.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=352492&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=352492&versao=leg
-Xama O Exorcista Pagao (2025)	dub=https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1326.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339166&versao=dub	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1339166&versao=leg
-Xenophobia (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1881403.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620014&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=620014&versao=leg
-Xeque Mate (2024)	dub=https://embedplayer2.xyz/cdn/hls/0d7e7f555a23a173d8b040cc17bdfbd8/master.txt,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1433824&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1433824&versao=leg
-Xeque-Mate	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59379.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8235.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=186&versao=dub	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96214.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=186&versao=leg
-Xeque-Mate: O Jogo da Vida	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2383754.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175075&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=1175075&versao=leg
-Xerife do Oeste	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1890473.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=30708&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=30708&versao=leg
-Xica da Silva (1976)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1876455.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=238334&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=238334&versao=leg
-Xico, O Cachorro Mágico	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1824062.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749618&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=749618&versao=leg
-Xingu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39628.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=107203&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=107203&versao=leg
-Xtremo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59386.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8230.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=726429&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=726429&versao=leg
-Xuxa Popstar (2000)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1863944.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84748&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84748&versao=leg
-Xuxa e o Tesouro da Cidade Perdida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310717.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298298&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=298298&versao=leg
-Xuxa e os Duendes (2001)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1827681.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84751&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84751&versao=leg
-Xuxa e os Duendes 2: No Caminho das Fadas (2002)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1863676.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84756&versao=dub	leg=https://saimo-tv.pages.dev/api/stream?tipo=movie&id=84756&versao=leg
-xXx Reativado (2017)	dub=https://embedplayer2.xyz/cdn/hls/3c97a5470a961f22f95c68e37c496c5e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8231.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=dub	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308399.mp4,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=leg
-xXx: Reativado	dub=http://45.172.0.116:8085/hd1/2017/xXx.Reativado.2017/master.m3u8,https://saimo-tv.pages.dev/api/stream?tipo=movie&id=47971&versao=dub
+X-Men 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59344.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8201.mp4
+X-Men Origens: Wolverine	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8222.mp4
+X-Men: Apocalipse	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59354.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8218.mp4
+X-Men: Dias de um Futuro Esquecido	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59358.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8209.mp4
+X-Men: Fênix Negra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59363.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8205.mp4
+X-Men: O Confronto Final	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59367.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8213.mp4
+X-Men: O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59369.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8219.mp4
+X-Men: Primeira Classe	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59374.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8226.mp4
+X: A Marca da Morte	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52734.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96208.mp4
+XENO Amizade do Além (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ad1d933a18a52d1bb9964ec78e034cc/master.txt
+XMen 2 (2003)	dub=http://45.172.0.116:8085/hd3/2003/x-men-2/master.m3u8
+XMen Apocalipse (2016)	dub=http://45.172.0.116:8085/hd3/2016/X.Men.Apocalipse.2016/master.m3u8
+XMen Dias de um Futuro Esquecido (2014)	dub=http://45.172.0.116:8085/hd6/2014/x-men-dias-de-um-futuro-esquecido-2014/master.m3u8
+XMen O Confronto Final (2006)	dub=http://45.172.0.116:8085/hd1/2006/X-Men.O.Confronto.Final.2006/master.m3u8
+XMen O Filme (2000)	dub=http://45.172.0.116:8085/hd1/2000/X-Men.O.Filme/master.m3u8
+XMen Primeira Classe (2011)	dub=http://45.172.0.116:8085/hd1/2011/x-men-primeira-classe-2011/master.m3u8
+XOXO A Vida e Uma Festa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33257.mp4
+Xama O Exorcista Pagao (2025)	dub=https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1326.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4
+Xenophobia (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1881403.mp4
+Xeque Mate (2024)	dub=https://embedplayer2.xyz/cdn/hls/0d7e7f555a23a173d8b040cc17bdfbd8/master.txt
+Xeque-Mate	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59379.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8235.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96214.mp4
+Xeque-Mate: O Jogo da Vida	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2383754.mp4
+Xerife do Oeste	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1890473.mp4
+Xica da Silva (1976)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1876455.mp4
+Xico, O Cachorro Mágico	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1824062.mp4
+Xingu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39628.mp4
+Xtremo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59386.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8230.mp4
+Xuxa Popstar (2000)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1863944.mp4
+Xuxa e o Tesouro da Cidade Perdida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310717.mp4
+Xuxa e os Duendes (2001)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1827681.mp4
+Xuxa e os Duendes 2: No Caminho das Fadas (2002)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1863676.mp4
+xXx Reativado (2017)	dub=https://embedplayer2.xyz/cdn/hls/3c97a5470a961f22f95c68e37c496c5e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8231.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308399.mp4
+xXx: Reativado	dub=http://45.172.0.116:8085/hd1/2017/xXx.Reativado.2017/master.m3u8
