@@ -156,8 +156,14 @@ enum RemoteCatalog {
         guard let url = self.url, let extrasURL = self.extrasURL else { return [] }
         async let baixado = download(url, into: "catalogo.txt")
         async let extras = download(extrasURL, into: "canais.txt")
-        async let auditada = auditadaURL.map { download($0, into: "auditada.m3u") } ?? []
-        let (base, publicados, canaisAuditados) = await (baixado, extras, auditada)
+        let (base, publicados) = await (baixado, extras)
+
+        let canaisAuditados: [Channel]
+        if let auditadaURL {
+            canaisAuditados = await download(auditadaURL, into: "auditada.m3u")
+        } else {
+            canaisAuditados = []
+        }
         guard !base.isEmpty || !publicados.isEmpty || !canaisAuditados.isEmpty else { return nil }
 
         let extrasEmCache = publicados.isEmpty ? read("canais.txt") : publicados
