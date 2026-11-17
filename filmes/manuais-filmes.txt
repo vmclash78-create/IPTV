@@ -1,0 +1,6 @@
+# Filmes e Séries Manuais Prisma TV
+# Formato: Título TAB dub=url_dublado TAB leg=url_legendado
+# Exemplo:
+# Meu Filme	dub=https://link-dublado.m3u8	leg=https://link-legendado.m3u8
+# Apenas dub:
+# Meu Outro Filme	dub=https://link.mp4
