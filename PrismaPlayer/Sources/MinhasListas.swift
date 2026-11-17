@@ -37,7 +37,11 @@ final class MinhasListas: ObservableObject {
 
     private var pasta: URL {
         let base = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
-        let dir = base.appendingPathComponent("SaimoTV/minhas_listas", isDirectory: true)
+        let legada = base.appendingPathComponent("SaimoTV/minhas_listas", isDirectory: true)
+        let dir = base.appendingPathComponent("PrismaTV/minhas_listas", isDirectory: true)
+        if FileManager.default.fileExists(atPath: legada.path) && !FileManager.default.fileExists(atPath: dir.path) {
+            try? FileManager.default.moveItem(at: legada, to: dir)
+        }
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
         return dir
     }

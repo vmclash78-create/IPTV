@@ -154,7 +154,7 @@ final class Atualizacao: ObservableObject {
         baixandoTag = versao.tag
         let gerente = FileManager.default
         try? gerente.createDirectory(at: pasta, withIntermediateDirectories: true)
-        let destino = pasta.appendingPathComponent("SaimoTV-\(versao.numero).dmg")
+        let destino = pasta.appendingPathComponent("PrismaTV-\(versao.numero).dmg")
 
         // O que sobrou de versões anteriores sai; o .part desta fica, para retomar.
         for item in (try? gerente.contentsOfDirectory(at: pasta, includingPropertiesForKeys: nil)) ?? []

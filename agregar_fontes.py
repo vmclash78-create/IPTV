@@ -23,7 +23,6 @@ USER_AGENT = "Mozilla/5.0 (compatible; PrismaTV-Aggregator/2.0)"
 
 IPTV_ORG_URLS = [
     ("https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u", "Brasil"),
-    ("https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u", "Portugal"),
 ]
 
 def normalizar(s: str) -> str:
@@ -93,6 +92,17 @@ def executar_agregacao() -> int:
 
     # 3. Processa catalogo.txt existente
     texto = CATALOGO_FILE.read_text(encoding="utf-8", errors="replace")
+    texto = texto.replace("# SAIMO TV — LISTA DE CANAIS", "# PRISMA TV — LISTA DE CANAIS")
+    # Limpa adições anteriores do iptv-org para re-agregar de forma limpa
+    marcador = "# CANAIS REGIONAIS E ADICIONAIS"
+    if marcador in texto:
+        idx_marcador = texto.find(marcador)
+        # retrocede até o delimitador anterior se existir
+        limite = texto.rfind("# ───", 0, idx_marcador)
+        if limite != -1:
+            texto = texto[:limite].rstrip()
+        else:
+            texto = texto[:idx_marcador].rstrip()
     linhas = texto.splitlines()
 
     novas_linhas: list[str] = []

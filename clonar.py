@@ -215,6 +215,40 @@ def apply_custom_patches() -> None:
     if saimo_connect.exists() and not prisma_connect.exists():
         saimo_connect.rename(prisma_connect)
 
+    # 9. Invalidação de cache e nova versão VOD em Vod.swift
+    vod_file = sources / "Vod.swift"
+    if vod_file.exists():
+        txt = vod_file.read_text(encoding="utf-8")
+        if 'versaoCache = "8"' in txt:
+            txt = txt.replace('versaoCache = "8"', 'versaoCache = "9"')
+        if "SaimoTV/vod" in txt:
+            txt = txt.replace("SaimoTV/vod", "PrismaTV/vod")
+        vod_file.write_text(txt, encoding="utf-8")
+        print("  Patch aplicado em Vod.swift (versão de cache 9)", flush=True)
+
+    # 10. Pasta temporária de remux em Remuxer.swift
+    remux_file = sources / "Remuxer.swift"
+    if remux_file.exists():
+        txt = remux_file.read_text(encoding="utf-8")
+        if "saimo-remux/" in txt:
+            txt = txt.replace("saimo-remux/", "prisma-remux/")
+            remux_file.write_text(txt, encoding="utf-8")
+            print("  Patch aplicado em Remuxer.swift (prisma-remux)", flush=True)
+
+    # 11. Limpeza geral de referências residuais a Saimo em todos os fontes Swift
+    for sf in sources.glob("*.swift"):
+        txt = sf.read_text(encoding="utf-8")
+        original = txt
+        if "SaimoTV" in txt:
+            txt = txt.replace("SaimoTV", "PrismaTV")
+        if "_saimotv._tcp" in txt:
+            txt = txt.replace("_saimotv._tcp", "_prismatv._tcp")
+        if "SaimoUpscalingMudou" in txt:
+            txt = txt.replace("SaimoUpscalingMudou", "PrismaUpscalingMudou")
+        if txt != original:
+            sf.write_text(txt, encoding="utf-8")
+    print("  Limpeza geral de marcas Prisma TV concluída nos fontes Swift", flush=True)
+
 
 def mirror_git_source() -> None:
     target = ROOT / "PrismaPlayer"

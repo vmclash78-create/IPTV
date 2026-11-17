@@ -1,7 +1,7 @@
 import SwiftUI
 import AppKit
 
-/// Preferências do app gravadas em disco (Application Support/SaimoTV/ajustes.json)
+/// Preferências do app gravadas em disco (Application Support/PrismaTV/ajustes.json)
 /// e no UserDefaults, garantindo que sobreviva a fechamento e atualização do app.
 enum Preferencias {
     private static let chaveAbrirNoCanal = "ajustes.abrirNoCanal"
@@ -14,14 +14,20 @@ enum Preferencias {
     private static let chaveAudioInteligente = "ajustes.audioInteligente"
     private static let chaveZeroDelay        = "ajustes.zeroDelay"
 
-    static let upscalingMudou = Notification.Name("SaimoUpscalingMudou")
+    static let upscalingMudou = Notification.Name("PrismaUpscalingMudou")
 
     private static var arquivoURL: URL {
         let base = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first
             ?? URL(fileURLWithPath: NSHomeDirectory()).appendingPathComponent("Library/Application Support")
-        let dir = base.appendingPathComponent("SaimoTV", isDirectory: true)
+        let legada = base.appendingPathComponent("SaimoTV/ajustes.json")
+        let dir = base.appendingPathComponent("PrismaTV", isDirectory: true)
+        let nova = dir.appendingPathComponent("ajustes.json")
+        if FileManager.default.fileExists(atPath: legada.path) && !FileManager.default.fileExists(atPath: nova.path) {
+            try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
+            try? FileManager.default.copyItem(at: legada, to: nova)
+        }
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
-        return dir.appendingPathComponent("ajustes.json")
+        return nova
     }
 
     private static func lerMapa() -> [String: Any] {

@@ -292,7 +292,7 @@ final class Remuxer: @unchecked Sendable {
         }
 
         let dir = FileManager.default.temporaryDirectory
-            .appendingPathComponent("saimo-remux/\(channelID.uuidString)", isDirectory: true)
+            .appendingPathComponent("prisma-remux/\(channelID.uuidString)", isDirectory: true)
         try? FileManager.default.removeItem(at: dir)
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
 

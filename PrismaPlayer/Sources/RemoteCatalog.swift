@@ -321,7 +321,7 @@ enum RemoteCatalog {
 
     private static func cacheFile(_ name: String) -> URL {
         let folder = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
-            .appendingPathComponent("SaimoTV", isDirectory: true)
+            .appendingPathComponent("PrismaTV", isDirectory: true)
         try? FileManager.default.createDirectory(at: folder, withIntermediateDirectories: true)
         return folder.appendingPathComponent(name)
     }

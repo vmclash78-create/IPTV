@@ -94,7 +94,7 @@ enum Vod {
     /// índice sem as linhas `base:` deixou todo filme com endereço quebrado.
     /// Guardar a versão junto e limpar a pasta quando ela muda evita que o
     /// formato velho envenene o novo.
-    private static let versaoCache = "8"
+    private static let versaoCache = "9"
 
     /// Validade do cache local das fatias antes de buscar da rede (3 horas).
     private static let cacheTTL: TimeInterval = 3 * 3600
@@ -426,8 +426,12 @@ enum Vod {
 
     private static var pasta: URL {
         let base = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
-            .appendingPathComponent("SaimoTV/vod", isDirectory: true)
-        try? FileManager.default.createDirectory(at: base, withIntermediateDirectories: true)
-        return base
+        let legada = base.appendingPathComponent("SaimoTV/vod", isDirectory: true)
+        if FileManager.default.fileExists(atPath: legada.path) {
+            try? FileManager.default.removeItem(at: legada)
+        }
+        let dir = base.appendingPathComponent("PrismaTV/vod", isDirectory: true)
+        try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
+        return dir
     }
 }

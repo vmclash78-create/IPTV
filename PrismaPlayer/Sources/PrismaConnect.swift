@@ -12,7 +12,7 @@ import dnssd
 /// 2. `GET /hls` — a lista do canal na régua do Mac (`ConnectHls`);
 /// 3. `GET /ws` — WebSocket com o controle remoto, o estado do que está no ar
 ///    e a posição de cada tela para o som no celular tocar junto;
-/// 4. anúncio Bonjour `_saimotv._tcp`.
+/// 4. anúncio Bonjour `_prismatv._tcp`.
 ///
 /// Celular novo só entra depois de alguém permitir na tela do Mac; aprovado
 /// uma vez, fica lembrado até "Esquecer todos os celulares" nos Ajustes.
@@ -104,12 +104,12 @@ final class SaimoConnect: ObservableObject {
 
     private func anunciar() {
         var ref: DNSServiceRef?
-        let erro = DNSServiceRegister(&ref, 0, 0, nome, "_saimotv._tcp", nil, nil,
+        let erro = DNSServiceRegister(&ref, 0, 0, nome, "_prismatv._tcp", nil, nil,
                                       Self.porta.bigEndian, 0, nil, nil, nil)
         if erro == kDNSServiceErr_NoError {
             anuncio = ref
         } else {
-            Log.shared.write("Saimo Connect: anúncio Bonjour falhou (\(erro))")
+            Log.shared.write("Prisma Connect: anúncio Bonjour falhou (\(erro))")
         }
     }
 

@@ -28,7 +28,7 @@ final class MotorTorrent {
         if let p = processo, p.isRunning, porta > 0 { return porta }
         guard let bin = binario else { throw DebridErro.respostaInvalida("Torrent", "Motor de torrent ausente.") }
         let cache = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
-            .appendingPathComponent("SaimoTV/torrent")
+            .appendingPathComponent("PrismaTV/torrent")
         try? FileManager.default.createDirectory(at: cache, withIntermediateDirectories: true)
 
         let p = Process()
