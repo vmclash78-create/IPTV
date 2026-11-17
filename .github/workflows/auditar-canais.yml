@@ -25,6 +25,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Verificar sintaxe e executar testes
+        run: |
+          python3 -m compileall -q scripts tests
+          python3 -m unittest discover -s tests -v
+
       - name: Agregar e auditar fontes publicas
         run: python3 scripts/auditar_canais.py
 
