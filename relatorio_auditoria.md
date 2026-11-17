@@ -1,12 +1,12 @@
 # Auditoria de canais — Prisma TV
 
-Gerado em: 2026-11-17T04:20:22.569442+00:00
+Gerado em: 2026-11-17T04:26:05.155709+00:00
 
 ## Resumo
 
-- Entradas encontradas: **424**
-- URLs unicas aprovadas: **181**
-- Entradas reprovadas/nao verificadas: **243**
+- Entradas encontradas: **530**
+- URLs unicas aprovadas: **250**
+- Entradas reprovadas/nao verificadas: **280**
 
 > A aprovacao confirma acesso ao manifesto e a um segmento (ou assinatura MPEG-TS). Nao garante disponibilidade continua nem decodificacao em todos os dispositivos.
 
@@ -15,17 +15,19 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 - iptv-org Brasil: 397 canais; baixada
 - CatTV Playlist Brasil: 168 canais; baixada
 - IPTV-com Brasil: 23 canais; baixada
+- FreeCastHub — canais publicos oficiais: 108 canais; baixada
 
 ## Falhas e motivos
 
 | Canal | Fonte | Motivo |
 |---|---|---|
-| Adesso TV (720p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | Adrenalina Pura TV Brazil | iptv-org Brasil | segment_format_unrecognized |
 | AgroBrasil TV (720p) [Not 24/7] | iptv-org Brasil | request_error |
 | AgroMais (720p) | iptv-org Brasil | request_error |
 | Alpha Channel (720p) | iptv-org Brasil | request_error |
+| AMC Latin America Brazil (720p) | iptv-org Brasil | segment_error:HTTPError |
 | Angel TV Portuguese (720p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
+| Aratu On (1080p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | Arte 1 (720p) | iptv-org Brasil | request_error |
 | Auge TV (720p) | iptv-org Brasil | request_error |
 | Avatar: A lenda de Aang | iptv-org Brasil | segment_format_unrecognized |
@@ -122,6 +124,7 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | Pluto TV Anime Acao | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Bang Bang | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Canal UOL (720p) | iptv-org Brasil | segment_format_unrecognized |
+| Pluto TV Cine Classicos | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Cine Comedia (United States) BR | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Cine Comedia Romantica | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Cine Crime | iptv-org Brasil | segment_format_unrecognized |
@@ -135,7 +138,6 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | Pluto TV Esportes | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Ficcao Cientifica | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Filmes Acao | iptv-org Brasil | segment_format_unrecognized |
-| Pluto TV Filmes Aventura | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Filmes de Luta | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Filmes Nacionais | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Historia (United States) | iptv-org Brasil | segment_format_unrecognized |
@@ -159,14 +161,12 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | Pluto TV Series Comedia | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Series Criminais | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Series Drama | iptv-org Brasil | segment_format_unrecognized |
-| Pluto TV Series Novelescas | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Series Sci-Fi | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Shows por Stingray (720p) | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Terror Trash | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Turbo | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Viagens | iptv-org Brasil | segment_format_unrecognized |
 | Pluto TV Vida Real | iptv-org Brasil | segment_format_unrecognized |
-| Primer TV (1080p) | iptv-org Brasil | segment_error:HTTPError |
 | Pronto-socorro: Historias De Emergencia | iptv-org Brasil | segment_format_unrecognized |
 | RBATV (720p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | RCTV Brasil | iptv-org Brasil | http_403 |
@@ -181,13 +181,17 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | RecordTV Sao Paulo (720p) [Geo-blocked] | iptv-org Brasil | http_403 |
 | Rede CNT Salvador (576i) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | Rede Globo (1080p) | iptv-org Brasil | http_403 |
+| Rede Gospel (1080p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | Rede Metropole (720p) | iptv-org Brasil | request_error |
 | Rede Premium TV (720p) | iptv-org Brasil | request_error |
 | Rede RC (720p) [Not 24/7] | iptv-org Brasil | request_error |
+| Rede TV! SD (720p) | iptv-org Brasil | segment_error:HTTPError |
+| Rede TV! Mais (720p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | Santa Cecilia TV (1080p) | iptv-org Brasil | request_error |
 | SBT Cuiaba (818p) | iptv-org Brasil | http_403 |
+| SBT Interior (720p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | SBT Kids (1080p) [Geo-blocked] | iptv-org Brasil | http_504 |
-| SBT Nova Mutum (818p) | iptv-org Brasil | segment_error:HTTPError |
+| SBT Nacional (1080p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | SBT Rondonopolis (720p) | iptv-org Brasil | http_403 |
 | Series Classic (720p) | iptv-org Brasil | request_error |
 | Sertao TV (720p) | iptv-org Brasil | request_error |
@@ -202,16 +206,13 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | SporTV 2 (1080p) | iptv-org Brasil | http_403 |
 | SporTV 3 (1080p) | iptv-org Brasil | http_403 |
 | Star Trek | iptv-org Brasil | segment_format_unrecognized |
-| Tastemade Brasil (720p) | iptv-org Brasil | segment_format_unrecognized |
 | TELE 6 (720p) | iptv-org Brasil | http_502 |
 | Terra Viva (720p) | iptv-org Brasil | request_error |
 | The Pet Collective Brazil (720p) | iptv-org Brasil | segment_format_unrecognized |
 | TikTok Radio Brasil (1080p) | iptv-org Brasil | http_400 |
 | Tokusato | iptv-org Brasil | segment_format_unrecognized |
-| Travel Box Brazil (720p) | iptv-org Brasil | segment_error:HTTPError |
 | Turma da Monica (720p) | iptv-org Brasil | segment_format_unrecognized |
 | TV 3 Curitiba (720p) | iptv-org Brasil | http_403 |
-| TV A Critica (1080p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | TV A Folha (720p) | iptv-org Brasil | http_404 |
 | TV Adorar (720p) | iptv-org Brasil | request_error |
 | TV Aparecida (720p) | iptv-org Brasil | request_error |
@@ -244,6 +245,7 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | TV Meio (720p) | iptv-org Brasil | request_error |
 | TV Mon (720p) | iptv-org Brasil | request_error |
 | TV Natal (1080p) | iptv-org Brasil | request_error |
+| TV Pai Eterno (720p) | iptv-org Brasil | segment_error:HTTPError |
 | TV Paraense (720p) | iptv-org Brasil | http_404 |
 | TV Profissao | iptv-org Brasil | http_403 |
 | TV Ra Tim Bum (720p) | iptv-org Brasil | request_error |
@@ -259,7 +261,43 @@ Gerado em: 2026-11-17T04:20:22.569442+00:00
 | TVMatic Fight (720p) | iptv-org Brasil | request_error |
 | TVMatic Funny (720p) | iptv-org Brasil | request_error |
 | TVMatic TikTok (720p) | iptv-org Brasil | request_error |
+| TVNBN (720p) | iptv-org Brasil | http_ok_but_not_hls_or_ts |
 | UniTV Porto Alegre (480p) | iptv-org Brasil | request_error |
 | VRT Channel (720p) | iptv-org Brasil | request_error |
-| Band Sports | CatTV Playlist Brasil | segment_error:HTTPError |
 | TikTok Radio Brasil | CatTV Playlist Brasil | segment_format_unrecognized |
+| BBC Arabic | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| BBC Persian | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| ABC News Live | FreeCastHub — canais publicos oficiais | http_404 |
+| Alhurra | FreeCastHub — canais publicos oficiais | request_error |
+| Al Jazeera English | FreeCastHub — canais publicos oficiais | request_error |
+| NHK World-Japan | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| CNA International | FreeCastHub — canais publicos oficiais | http_503 |
+| 24 Horas | FreeCastHub — canais publicos oficiais | request_error |
+| Press TV English | FreeCastHub — canais publicos oficiais | request_error |
+| Motorsport.tv | FreeCastHub — canais publicos oficiais | request_error |
+| Teledeporte | FreeCastHub — canais publicos oficiais | request_error |
+| Esport3 | FreeCastHub — canais publicos oficiais | segment_error:HTTPError |
+| L'Équipe | FreeCastHub — canais publicos oficiais | request_error |
+| ERT Sports 1 | FreeCastHub — canais publicos oficiais | http_403 |
+| ERT Sports 2 | FreeCastHub — canais publicos oficiais | http_403 |
+| San Marino RTV Sport | FreeCastHub — canais publicos oficiais | http_404 |
+| RTSH Sport | FreeCastHub — canais publicos oficiais | request_error |
+| TDM Sports | FreeCastHub — canais publicos oficiais | request_error |
+| MNB Sport | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| Varzesh TV | FreeCastHub — canais publicos oficiais | http_404 |
+| RTA Sport | FreeCastHub — canais publicos oficiais | http_404 |
+| EDGESport | FreeCastHub — canais publicos oficiais | request_error |
+| Sky News Weather | FreeCastHub — canais publicos oficiais | http_404 |
+| NHK Kishou Saigai | FreeCastHub — canais publicos oficiais | http_404 |
+| Weathernews | FreeCastHub — canais publicos oficiais | http_503 |
+| 中国气象频道 | FreeCastHub — canais publicos oficiais | request_error |
+| ALTV | FreeCastHub — canais publicos oficiais | http_403 |
+| Canal Saúde | FreeCastHub — canais publicos oficiais | http_503 |
+| Create | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| Kan Kids | FreeCastHub — canais publicos oficiais | request_error |
+| PBS Honolulu | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| Télé-Québec | FreeCastHub — canais publicos oficiais | http_400 |
+| TRT EBA Ilkokul | FreeCastHub — canais publicos oficiais | segment_error:HTTPError |
+| TRT EBA Lise | FreeCastHub — canais publicos oficiais | segment_error:HTTPError |
+| World Channel | FreeCastHub — canais publicos oficiais | http_ok_but_not_hls_or_ts |
+| МосОбрТВ | FreeCastHub — canais publicos oficiais | request_error |
