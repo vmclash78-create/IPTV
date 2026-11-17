@@ -38,4 +38,4 @@ jobs:
             exit 0
           fi
           git commit -m "chore(iptv): atualizar canais aprovados na auditoria [skip ci]"
-          git push
+          git push origin "HEAD:${GITHUB_REF_NAME}"
