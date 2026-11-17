@@ -1,6 +1,9 @@
 name: Auditoria publica de canais
 
 on:
+  push:
+    branches:
+      - feature/auditoria-publica-canais
   schedule:
     - cron: "30 4 * * *"
   workflow_dispatch:
