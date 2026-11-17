@@ -190,7 +190,7 @@ def executar_agregacao() -> int:
     return novos_canais_count
 
 def gerar_m3u():
-    """Gera arquivos lista.m3u e canais.m3u padrão para players web e compatibilidade total."""
+    """Gera arquivos lista.m3u, canais.m3u e lista-web.m3u (HTTPS-only para navegador)."""
     texto = CATALOGO_FILE.read_text(encoding="utf-8", errors="replace")
     linhas = texto.splitlines()
     
@@ -199,6 +199,9 @@ def gerar_m3u():
     logo_atual = ""
     cat_atual = "Geral"
     fontes = []
+    
+    # Domínios que exigem Referer e não funcionam direto no navegador
+    DOMINIOS_BLOQUEADOS_WEB = ["cdn8embed.xyz"]
     
     def salvar_canal():
         nonlocal canal_atual, logo_atual, cat_atual, fontes
@@ -233,6 +236,22 @@ def gerar_m3u():
     (ROOT / "canais" / "lista.m3u").write_text(m3u_text, encoding="utf-8")
     (ROOT / "canais" / "canais.m3u").write_text(m3u_text, encoding="utf-8")
     print(f"  OK! Playlist M3U gerada em canais/lista.m3u ({len(m3u_linhas)//2} canais/fontes).")
+    
+    # --- Gerar lista-web.m3u (somente HTTPS, sem domínios que exigem Referer) ---
+    web_linhas = ["#EXTM3U"]
+    for i in range(1, len(m3u_linhas)):
+        if m3u_linhas[i].startswith("#EXTINF:") and i + 1 < len(m3u_linhas):
+            url = m3u_linhas[i + 1]
+            if url.startswith("https://"):
+                bloqueado = any(d in url for d in DOMINIOS_BLOQUEADOS_WEB)
+                if not bloqueado:
+                    web_linhas.append(m3u_linhas[i])
+                    web_linhas.append(url)
+    
+    web_text = "\n".join(web_linhas)
+    (ROOT / "canais" / "lista-web.m3u").write_text(web_text, encoding="utf-8")
+    web_count = sum(1 for l in web_linhas if l.startswith("#EXTINF:"))
+    print(f"  OK! Playlist WEB (HTTPS-only) gerada em canais/lista-web.m3u ({web_count} canais).")
 
 if __name__ == "__main__":
     executar_agregacao()
