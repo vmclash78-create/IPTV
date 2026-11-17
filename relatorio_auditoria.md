@@ -1,21 +1,21 @@
 # Auditoria de canais — Prisma TV
 
-Gerado em: 2026-11-17T10:14:56.639965+00:00
+Gerado em: 2026-11-17T10:20:23.619641+00:00
 
 ## Resumo
 
 - Candidatos analisados tecnicamente: **533**
-- Streams que passaram no teste tecnico: **250**
-- Canais publicados de fontes oficiais curadas: **27**
-- Streams online retidos para revisao de procedencia: **223**
-- Falhas tecnicas: **283**
+- Streams que passaram no teste tecnico: **252**
+- Canais publicados de fontes oficiais curadas: **28**
+- Streams online retidos para revisao de procedencia: **224**
+- Falhas tecnicas: **281**
 
 > Um stream responder tecnicamente nao prova autorizacao de distribuicao. Somente fontes com politica de inclusao oficial revisada entram em auditada.m3u.
 > A checagem confirma manifesto e um segmento (ou assinatura MPEG-TS), nao reprodução prolongada.
 
 ## Fontes
 
-- Doubo Public Channel Directory — Brasil: 40 encontrados; 36 elegiveis; 23 publicados; publicavel; baixada
+- Doubo Public Channel Directory — Brasil: 40 encontrados; 36 elegiveis; 24 publicados; publicavel; baixada
 - Nexonic IPTV — Brasil (somente tier oficial): 80 encontrados; 9 elegiveis; 4 publicados; publicavel; baixada
 - iptv-org Brasil — descoberta, nao publicar automaticamente: 397 encontrados; 395 elegiveis; 0 publicados; somente descoberta/revisao; baixada
 - CatTV Playlist Brasil — descoberta, nao publicar automaticamente: 168 encontrados; 167 elegiveis; 0 publicados; somente descoberta/revisao; baixada
@@ -26,7 +26,6 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 
 | Canal | Fonte | Motivo |
 |---|---|---|
-| Canal Sete | Doubo Public Channel Directory — Brasil | request_error |
 | Record News (720p) [Geo-blocked] | Doubo Public Channel Directory — Brasil | http_403 |
 | Record TV Belem (720p) [Geo-blocked] | Doubo Public Channel Directory — Brasil | http_403 |
 | Record TV Brasilia (720p) [Geo-blocked] | Doubo Public Channel Directory — Brasil | http_403 |
@@ -57,12 +56,13 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | BET Pluto TV BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Blitstv | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | BM&C News (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
+| Boas Novas (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | Bob Esponja Calca Quadrada (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Box Kids TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
 | BR8 TV | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
 | Cabo Frio TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Canal 25 Jundiai (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
-| Canal 38 (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
+| Canal 38 (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | Canal do Criador (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Canal do Inter (720p) [Not 24/7] | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Canal Educacao (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
@@ -72,10 +72,10 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Canal Ricos (480p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Canal Saude | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | Canal START (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
-| Cine Terror BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Cinturao Verde | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | Combate (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Comedy Central Pluto TV BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
+| Comedy Central South Park | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | CSI: Miami BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Cultura Para (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | Demais TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
@@ -83,6 +83,7 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Diff'rent Strokes Arnold | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Elemental Channel (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | ESPN 3 (Brazil) (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
+| FailArmy Brazil | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Filmes Suspense | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Fish TV (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
 | Fora Tedio TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
@@ -97,7 +98,6 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Jornada nas Estrelas: A Nova Geracao | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Jornada nas Estrelas: Deep Space Nine | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Jornada nas Estrelas: Voyager | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
-| Jovem Pan News (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
 | Kenan & Kel BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | KpopTV Play (576p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Laboral TV (360p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
@@ -120,7 +120,6 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | MTV Rocks | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | MTV Shore | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | N Sports (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
-| Naruto Brazil | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | NCIS (United States) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Nick Jr. Club (United States) BR (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Nickelodeon Classico (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
@@ -133,6 +132,7 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Oggy e as Baratas Tontas | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | One Piece BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Play TV (Brazil) (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
+| Plena TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | Pluto TV Aliens | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Animais | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Anime BR | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
@@ -148,12 +148,14 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Pluto TV Cine Inspiracao | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Cine Romance | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Cine Sucessos | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
+| Pluto TV Cozinha | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Desenhos Classicos | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Esportes | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Ficcao Cientifica | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Filmes Acao | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Filmes Aventura | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Filmes de Luta | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
+| Pluto TV Filmes Nacionais | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Historia (United States) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Investigacao | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Junior | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
@@ -172,7 +174,6 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Pluto TV Record News (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Retro | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Series Acao | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
-| Pluto TV Series Comedia | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Series Criminais | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Series Drama | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Series Novelescas | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
@@ -183,6 +184,7 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Pluto TV Viagens | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pluto TV Vida Real | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
 | Pronto-socorro: Historias De Emergencia | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
+| RBATV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | RCTV Brasil | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | Record (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | Record News (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
@@ -192,11 +194,11 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | Rede Premium TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Rede RC (720p) [Not 24/7] | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Rede TV! Mais (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
+| RIT TV (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
 | Santa Cecilia TV (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | SBT Cuiaba (818p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | SBT Interior (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | SBT Nacional (1080p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
-| SBT Nova Mutum (818p) | iptv-org Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
 | SBT Rondonopolis (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_403 |
 | Series Classic (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | Sertao TV (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
@@ -260,6 +262,7 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | TV Sul de Minas (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
 | TV Thathi (720p) [Not 24/7] | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | TV UFG (720p) [Not 24/7] | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
+| TV Zoom (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | TVC-Rio | iptv-org Brasil — descoberta, nao publicar automaticamente | http_404 |
 | TVMatic Comedy (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | TVMatic Crafts (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
@@ -267,14 +270,9 @@ Gerado em: 2026-11-17T10:14:56.639965+00:00
 | TVMatic Fight (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | TVMatic Funny (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | TVMatic TikTok (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
-| TVNBN (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | UniTV Porto Alegre (480p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
 | VRT Channel (720p) | iptv-org Brasil — descoberta, nao publicar automaticamente | request_error |
-| Band Sports | CatTV Playlist Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
-| SESC TV | CatTV Playlist Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
-| TV Brasil | CatTV Playlist Brasil — descoberta, nao publicar automaticamente | segment_error:HTTPError |
 | TikTok Radio Brasil | CatTV Playlist Brasil — descoberta, nao publicar automaticamente | segment_format_unrecognized |
-| TV Aparecida | CatTV Playlist Brasil — descoberta, nao publicar automaticamente | http_ok_but_not_hls_or_ts |
 | BBC Arabic | FreeCastHub — descoberta, requer evidencia individual | http_ok_but_not_hls_or_ts |
 | BBC Persian | FreeCastHub — descoberta, requer evidencia individual | http_ok_but_not_hls_or_ts |
 | ABC News Live | FreeCastHub — descoberta, requer evidencia individual | http_404 |
