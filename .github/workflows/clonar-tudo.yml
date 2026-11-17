@@ -42,6 +42,9 @@ jobs:
       - name: Run complete mirror (Saimo -> Prisma TV)
         run: python3 clonar.py
 
+      - name: Aggregate multiple repositories (iptv-org + official streams)
+        run: python3 agregar_fontes.py || true
+
       - name: Clean dead Saimo API URLs from movies and series
         run: python3 limpar_saimo_filmes.py --aplicar || true
 
