@@ -1,9 +1,9 @@
-name: Clonar tudo
+name: Sincronizar Prisma TV
 
 on:
   schedule:
-    - cron: '0 4 * * *'   # Execução automática diária às 04:00 UTC
-  workflow_dispatch:
+    - cron: '0 4 * * *'   # Diariamente às 04:00 UTC
+  workflow_dispatch:        # Permite rodar manualmente no GitHub
   push:
     branches:
       - main
@@ -17,43 +17,44 @@ permissions:
   contents: write
 
 concurrency:
-  group: prisma-mirror
+  group: prisma-sync
   cancel-in-progress: false
 
 jobs:
-  mirror:
+  sincronizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Configure Git
+      - name: Configurar Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Install Python
+      - name: Instalar Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Run complete mirror
-        run: python3 clonar.py
+      - name: Sincronizar canais (iptv-org + manuais)
+        run: python3 sincronizar.py
 
-      - name: Commit mirrored content
+      - name: Commitar canais atualizados
         run: |
-          git add PrismaPlayer canais filmes
+          git add canais/ filmes/
           if git diff --cached --quiet; then
-            echo "Sem alterações para commitar."
-            exit 0
+            echo "Sem alterações nos canais."
+          else
+            git commit -m "chore(sync): atualiza catálogo de canais Prisma TV [skip ci]"
           fi
-          git commit -m "chore(sync): mirror Prisma source and catalogs [skip ci]"
-          git push origin HEAD:main
 
-      - name: Notify on failure
+      - name: Publicar
+        run: git push origin HEAD:main
+
+      - name: Notificar falha
         if: failure()
-        run: |
-          echo "::error::Sincronização falhou — verifique o log do Actions para detalhes."
+        run: echo "::error::Sincronização falhou — verifique o log do Actions."
