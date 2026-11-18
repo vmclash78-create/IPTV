@@ -71,7 +71,7 @@ Lanternas	2026	0	8
 Lar Sombrio Lar		0	6
 Lara com Z		0	14
 Largados Pelados e Ilhados		0	8
-Largados e Pelados		0	206
+Largados e Pelados		0	195
 Largados e Pelados Apocalipse		0	8
 Largados e Pelados Brasil		0	26
 Largados e Pelados Brasil: A Tribo		0	13
@@ -267,7 +267,7 @@ Locker Diaries Phineas And Ferb		2	4
 Lockerbie Em Busca da Verdade		2	3
 Lockerbie Uma Busca pela Verdade	2025	2	5
 Lockwood & Co		2	8
-Lockwood and Co	2023	2	1
+Lockwood and Co	2023	2	6
 Locomotivas		2	168
 Log Horizon		2	62
 Lois & Clark: As Novas Aventuras Do Superman		2	87
@@ -393,7 +393,7 @@ Luz para a Noite		3	28
 Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		3	4
 Lycoris Recoil	2022	3	13
 Lynch		3	22
-Lá na Minha Terra		3	6
+Lá na Minha Terra		3	7
 Lágrimas de amor		3	111
 Líderes de Torcida		3	28
 Línguas da nossa língua		3	4

@@ -2870,7 +2870,6 @@ f	Alucinações do Passado	Drama,Mistério,Terror
 f	Alucinações do Passado 2	Terror,Mistério,Suspense
 f	Aluga-se para o Verão	Comédia
 f	Aluguel de Pesadelo	Suspense,TV
-f	Aluna Exemplar e Estrela Pornô (2017)	Drama,TV
 f	Alunos Muito Loucos	Comédia,Drama
 f	Alvin e os Esquilos (2007)	Comédia,Família,Fantasia,Animação
 f	Alvin e os Esquilos 2 (2009)	Comédia,Família,Animação,Fantasia,Música
@@ -3654,7 +3653,6 @@ f	As Bonecas do Crime	Drama,Crime
 f	As Branquelas	Comédia,Crime
 f	As Bruxas Amish	Terror,TV
 f	As Bruxas de Eastwick (1987)	Comédia,Fantasia,Terror
-f	As Cangaceiras Eróticas	Ação
 f	As Canções	Documentário,Música
 f	As Cariocas	Comédia
 f	As Coisas Impossíveis do Amor	Drama
@@ -7992,6 +7990,7 @@ f	Em Busca do Vale Encantado 2	Animação,Aventura,Família
 f	Em Busca do Vale Encantado 3	Animação,Aventura,Família
 f	Em Busca do Vale Encantado 4	Aventura,Animação,Comédia,Família
 f	Em Busca do Vale Encantado 5	Animação,Família,Aventura
+f	Em Busca do Vale Encantado 6 (1998)	Animação,Aventura,Família
 f	Em Busca dos Seus Sonhos	Comédia
 f	Em Campo Minado (2014)	Suspense,Guerra,Aventura,Drama
 f	Em Casa para o Dia de Natal	Romance,Drama,TV
@@ -10042,7 +10041,6 @@ f	Help	Drama
 f	Helter Skelter	Ação,Crime,Drama,TV
 f	Henry & Klauss: Mestres da Mágica	Documentário
 f	Henry Danger: O Filme	Ação,Comédia,Família,Ficção científica
-f	Henry e June - Delírios Eróticos	Romance
 f	Heranca (2020)	Drama,Mistério,Suspense
 f	Heranca de Sangue (2016)	Ação,Suspense,Drama
 f	Herança Maldita	Drama,Terror,Suspense
@@ -15033,7 +15031,6 @@ f	O Envelope Vermelho	Comédia
 f	O Enviado	Ação,Ficção científica
 f	O Enviado Do Mal (2018)	Terror
 f	O Enxame	Ficção científica,Terror
-f	O Erótico Virgem	Comédia
 f	O Escafandro e a Borboleta	Drama,História
 f	O Escandalo (2019)	Drama
 f	O Escaravelho do Diabo	Aventura,Mistério
@@ -15878,7 +15875,6 @@ f	O My Darling	Crime,Comédia,Drama,Mistério,Suspense
 f	O Mágico Inesquecível	Fantasia,Família,Aventura
 f	O Mágico de Oz	Aventura,Fantasia,Família
 f	O Mágico e o Delegado	Comédia,Fantasia
-f	O Médico Erótico	Comédia,Ficção científica,Romance
 f	O Método	Documentário
 f	O Método de Stutz	Documentário
 f	O Namorado da Minha Prima	Drama,Comédia
@@ -16024,7 +16020,6 @@ f	O Patins	Drama
 f	O Patriota	Drama,História,Guerra,Ação
 f	O Patrulheiro 777	Comédia
 f	O Pavão	Comédia
-f	O País da Pornochanchada	Documentário
 f	O País de São Saruê	Documentário
 f	O Pecado Mora ao Lado	Comédia,Romance
 f	O Pecado da Fé	Drama,História,Romance,Guerra
@@ -18428,8 +18423,6 @@ f	Porco Rosso: O Último Herói Romântico	Animação,Aventura,Fantasia
 f	Porky's 2: O Dia Seguinte	Comédia
 f	Porky's Contra-Ataca	Comédia
 f	Porky's: A Casa do Amor e do Riso	Comédia
-f	Pornhub: Sexo Bilionário	Documentário
-f	Pornô: Sedutora e Fatal	Comédia,Terror
 f	Poropopó	Família,Comédia
 f	Pororo - Aventuras no Castelo do Dragão	Animação,Família,Aventura,Fantasia
 f	Porque Eu Te Amo	Drama,Fantasia,Romance
@@ -20070,7 +20063,6 @@ f	Segurança de Shopping	Ação,Aventura,Comédia,Família
 f	Segurança de Shopping 2	Ação,Comédia,Família
 f	Segurança em Risco	Ação,Suspense,Crime
 f	Seguros	Drama,Terror
-f	Seis Gostosas num Galpão	Ação,Comédia,Terror
 f	Seis Graus de Papai Noel	TV,Romance,Comédia
 f	Seis Graus de Separação	Mistério,Drama,Comédia
 f	Seis Minutos para Meia-Noite	Suspense,Drama,História,Guerra
@@ -20704,7 +20696,6 @@ f	Sonho de Verão	Comédia,Drama,Música,Família
 f	Sonho de uma Noite de Verão (1999)	Fantasia,Comédia,Romance
 f	Sonhos (2025)	Romance,Suspense,Drama
 f	Sonhos Alucinantes de Cheech e Chong	Comédia
-f	Sonhos Eróticos de Uma Noite de Verão	Comédia,Romance
 f	Sonhos Lúcidos	Ficção científica,Suspense
 f	Sonhos Rebeldes (2020)	Comédia,Romance,Música
 f	Sonhos Roubados	Drama
@@ -22063,6 +22054,7 @@ f	Tora! Tora! Tora! (1970)	Guerra,História,Drama
 f	Tormenta (1996)	Drama,Aventura
 f	Tormento (2021)	Suspense
 f	Torn (2021)	Documentário
+f	Torn Apart: Separados na Fronteira (2019)	Documentário
 f	Torn: Dark Bullets	Suspense
 f	Tornado	Drama,Ação,Faroeste
 f	Tornado: Joplin em Ruínas (2025)	Documentário
@@ -22942,7 +22934,6 @@ f	Um Plano Perfeito (2020)	Ação,Aventura,Crime,Mistério,Suspense
 f	Um Plano Por Água Abaixo (2020)	Drama
 f	Um Plano Sem Saida (2018)	Suspense
 f	Um Plano em Família (2021)	Comédia,Crime
-f	Um Playboy em Apuros	Romance,Comédia
 f	Um Pobretão na Casa Branca	Comédia,Drama
 f	Um Por Todos (2020)	Drama
 f	Um Porto Seguro	Romance,Suspense
@@ -24401,7 +24392,6 @@ f	um Pouco de Nós	Drama
 f	un lémur en fuga	Animação
 f	undertone (2026)	Terror,Mistério
 f	xXx 2: Estado de Emergência	Ação,Aventura,Crime,Suspense
-f	xXx Reativado (2017)	Ação,Aventura,Crime
 f	¡Casa Bonita Mi Amor!	Documentário,Comédia
 f	¡Viva Maestro!	Documentário,Música
 f	À Altura	Comédia,Drama,Romance
@@ -25428,7 +25418,6 @@ s	American Horror Stories	Drama,Mistério,Ficção e fantasia
 s	American Horror Story	Drama,Mistério,Ficção e fantasia
 s	American Hostage	Crime,Drama
 s	American Housewife	Comédia
-s	American Playboy A historia de Hugh Hefner	Documentário,Drama
 s	American Rust	Drama,Crime
 s	American Sports Story	Drama
 s	American Vandal	Comédia,Crime
@@ -29761,7 +29750,6 @@ s	Manifest	Ficção e fantasia,Mistério,Drama
 s	Mann Mast Malang	Ação e aventura,Família,Drama
 s	Mansoes em Frente ao Lago	Reality
 s	Mansão Hype	Reality
-s	Mansão das MILFs	Reality
 s	Mantendo a Esperanca	Ficção e fantasia,Drama
 s	Manto e Adaga	Ação e aventura,Drama,Ficção e fantasia
 s	Manual de Assassinato para Boas Garotas	Drama,Crime,Mistério
@@ -31790,7 +31778,6 @@ s	Platinum End	Animação,Drama,Mistério
 s	Play It Cool,Guys	Animação,Comédia
 s	Play Park	Drama
 s	Playback Juntas Somos Uma	Infantil,Comédia,Família
-s	Playboy: Fama e Morte	Crime,Documentário
 s	Players	Ação e aventura,Comédia,Animação,Infantil
 s	Please Excuse My Younger Brothers	Animação,Comédia
 s	Please Like Me	Drama,Comédia
@@ -31850,8 +31837,6 @@ s	Por que Diacho Comprei Essa Casa	Reality
 s	Por que Odiamos?	Documentário
 s	Por que Waldemar Eis a questao do futebol brasileiro	Documentário
 s	Porchat	Talk show
-s	Porni	Drama,Comédia
-s	PornoXploracao	Documentário
 s	Porque Me Visto Elegantemente Para o Amor	Drama
 s	Porto Papel	Animação,Infantil,Comédia,Família
 s	Porto dos Milagres	Novela,Drama
@@ -32618,7 +32603,6 @@ s	Segredo Entre Amigas	Drama
 s	Segredo da Harmonia	Drama
 s	Segredos Aereos da Segunda Guerra Mundial	Guerra e política,Documentário
 s	Segredos da NASA	Documentário,Talk show,Mistério
-s	Segredos da Playboy	Documentário,Reality
 s	Segredos das Abelhas	Documentário
 s	Segredos das Bases Nazistas	Documentário
 s	Segredos de Familia	Família,Drama,Crime
@@ -36392,7 +36376,6 @@ f	Altos Negócios	Comédia,Drama
 f	Alucinação Fatal (2019)	Terror,Mistério
 f	Alucinações do Passado 2 (2019)	Terror,Mistério,Suspense
 f	Aluguel de Pesadelo (2020)	Suspense,TV
-f	Aluna Exemplar e Estrela Pornô	Drama,TV
 f	Alvin e os Esquilos	Comédia,Família,Fantasia,Animação
 f	Alvin e os Esquilos 2	Comédia,Família,Animação,Fantasia,Música
 f	Alvin e os Esquilos 3 (2011)	Comédia,Fantasia,Família,Música,Animação
@@ -39644,7 +39627,6 @@ f	Em Busca do Portal Mágico (2018)	Família,Aventura,Fantasia
 f	Em Busca do Vale Encantado 2 (1994)	Animação,Aventura,Família
 f	Em Busca do Vale Encantado 3 (1995)	Animação,Aventura,Família
 f	Em Busca do Vale Encantado 4 (1996)	Aventura,Animação,Comédia,Família
-f	Em Busca do Vale Encantado 6 (1998)	Animação,Aventura,Família
 f	Em Busca do Vale Encantado II: A Grande Aventura do Vale	Animação,Aventura,Família
 f	Em Busca do Vale Encantado IX: Viagem à Água Grande	Animação,Aventura,Família
 f	Em Busca do Vale Encantado V: A Ilha Misteriosa (1997)	Animação,Família,Aventura
@@ -40673,7 +40655,6 @@ f	Goosebumps 2: Halloween Assombrado	Comédia,Fantasia,Terror,Família
 f	Gordelicia Marido ao Resgate (2015)	Comédia,Ação
 f	Gospel (2022)	Música,Comédia
 f	Gosto de Cereja (1997)	Drama
-f	Gostosas,Lindas e Sexies	Comédia
 f	Gotti - O Chefe da Máfia	Crime,Drama,História,Suspense
 f	Goyo	Drama,Romance,Comédia
 f	Graca e Coragem (2021)	Drama,Comédia,Romance
@@ -46109,9 +46090,6 @@ f	Porky's - A Casa do Amor e do Riso (1981)	Comédia
 f	Porky's 2: O Dia Seguinte (1983)	Comédia
 f	Porky's 3: Porky's Contra-Ataca	Comédia
 f	Porky's Contra-Ataca (1985)	Comédia
-f	Pornhub: Sexo Bilionário (2023)	Documentário
-f	Porno para principiantes (2019)	Comédia
-f	Pornô: Sedutora e Fatal (2019)	Comédia,Terror
 f	Porta Amarela: O Cineclube dos Anos 90	Documentário
 f	Porta dos Fundos: Te Prego Lá Fora	Animação,Comédia
 f	Porta-malas: Trancada	Suspense,Ação,Drama
@@ -48259,7 +48237,6 @@ f	Toque de Recolher (1981)	Drama
 f	Tormenta	Ficção científica,Drama,Romance
 f	Tormento	Terror
 f	Torn	Suspense
-f	Torn Apart: Separados na Fronteira (2019)	Documentário
 f	Tornado: Joplin em Ruínas	Documentário
 f	Torneio de Natal: De Volta ao Lar	TV,Comédia,Romance
 f	Torpedo: U-235	Ação,Guerra,Aventura
@@ -49070,7 +49047,6 @@ f	Uma Quedinha de Natal	Romance,Comédia,Família
 f	Uma Questao de Fe	Drama
 f	Uma Questão de Escolha (2025)	Drama,Romance
 f	Uma Relação Delicada	Drama
-f	Uma Relação Pornográfica (1999)	Romance,Drama
 f	Uma Ressaca de 9 Meses	Comédia,Romance
 f	Uma Rosa para o Natal (2017)	Drama,TV,Romance
 f	Uma Rua Chamada Pecado (1951)	Drama,Suspense
@@ -49660,7 +49636,6 @@ f	retrospect. (2022)	Drama,Comédia
 f	tick, tick... BOOM!	Drama,Música
 f	tick,tick... BOOM!	Drama,Música
 f	undertone	Terror,Mistério
-f	xXx Reativado	Ação,Aventura,Crime
 f	xXx: Reativado	Ação,Aventura,Crime
 f	¡Viva Maestro! (2022)	Documentário,Música
 f	« Le Chevalier au dragon »,le roman disparu de la Table ronde	Documentário,TV,História

@@ -232,9 +232,18 @@ grupo ou nome adulto ficam de fora (o parental não é tocado). O menu "Importar
 lista .m3u…" agora cria uma lista por aqui. Teste do leitor contra o gabarito:
 `./scripts/testar_minhas_listas.sh` (os .m3u de teste ficam fora do git).
 
+**Filmes e séries das listas** (`Classificar.swift`, `AcervoLista.swift`): cada item de uma
+lista M3U ou conta Xtream é classificado em canal, filme ou episódio pelas regras de
+[`docs/listas-m3u.md`](docs/listas-m3u.md) (referência `scripts/classificar_m3u.py`, gabarito em
+`docs/exemplos/listas/`, teste `scripts/testar_classificar.sh`). Os canais ficam no
+`<id>.m3u` da lista; filmes e séries viram um acervo no formato Saimo em
+`minhas_listas/<id>-acervo/` (capa pelo `tvg-logo`, grupo como gênero) que o `Vod` lê junto
+do publicado. Conta Xtream: canais pela API, filmes e séries pelo M3U completo da conta.
+
 Sincronia pelo Saimo Connect (`{"t":"dados"}`, mesmo formato na TV Box, Mac, Windows e celular): ao conectar e a cada mudança vão onde parou em filmes e episódios, títulos favoritos, canais favoritos, os dois endereços das listas (vale o escolhido por último; quem nunca escolheu fica com o do outro aparelho) e as listas adicionadas por link (união; a que veio de arquivo fica só no aparelho). Código em `SincroniaConnect.swift`. **Minhas listas** (`MinhasListas.swift`, Ajustes > Minhas listas): listas .m3u por link, canais na seção "Minhas listas" do Ao vivo; os de adulto só com o restrito desbloqueado.
 
-Saimo Connect (`SaimoConnect.swift`, `ConnectHls.swift`, `Historico.swift`): o
+Saimo Connect (`SaimoConnect.swift`, `ConnectHls.swift`, `Historico.swift`; Connect 2: a
+lista de fontes do canal e o favorito, com `recursos: [fontes, favorito]`): o
 celular com o app Saimo acha e controla o Mac do mesmo jeito que a TV Box, pelo
 mesmo protocolo, na porta 8999. O Mac aparece na varredura da rede (`GET /info`)
 e no Bonjour (`_saimotv._tcp`) como "Saimo TV - Mac (nome do computador)".
@@ -375,3 +384,20 @@ Pré-requisitos: repositórios irmãos em `../SaimoTV-Android`, `../SaimoWin` e
   por isso.
 - Respeite direitos autorais e de distribuição do conteúdo.
 - Não coloque tokens, credenciais ou dados pessoais em catálogos e scripts.
+
+## Perfis, Kids e controle parental (3.2.0)
+
+Contrato comum dos apps: `SaimoPlayer/docs/perfis.md`. Até 10 perfis, cada um com avatar (21, de
+`SaimoPlayer/docs/avatares`), os seus favoritos, onde parou e recentes; listas, fontes e ajustes valem
+para o aparelho todo. O perfil principal usa os dados de antes (ninguém perde nada ao atualizar).
+Com 2 ou mais perfis o app abre em "Quem está assistindo?". Perfil Kids: só filmes e séries com
+classificação até 12 anos (sem classificação, escondido), nada adulto, sem addons; sair dele,
+gerenciar perfis e abrir os Ajustes pedem um código de 4 dígitos (guardado como SHA-256). Controle
+parental visível no fim dos Ajustes, discreto: senha padrão 0000, trocável; no Kids nunca libera.
+
+No Mac: `Perfis.swift` (uma suíte do UserDefaults por perfil; trocar de perfil reabre o app com `--perfil-escolhido`), `TelaPerfis.swift`, `Kids.swift`; o avatar fica na barra do topo.
+
+## Brilho do app
+
+`Sources/Brilho.swift` (Ajustes > Tela e Saimo Connect): véu preto por cima da janela, 0 a 100. Em
+até 5% qualquer tecla ou clique traz o brilho de volta, devagar (o evento não chega ao app).

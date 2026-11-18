@@ -316,6 +316,7 @@ final class SaimoConnect: ObservableObject {
             "phoneAudio": somNoCelular.map { ["cid": $0.key, "name": $0.value.nome, "src": $0.value.src] },
             "multi": false,
             "active": 0,
+            "brilho": Brilho.shared.valor,
         ]
         let secao = VodEstado.shared.secao
 
@@ -381,6 +382,15 @@ final class SaimoConnect: ObservableObject {
             telas.append(tela(1, canal, fonte: model.segunda.fonte, player: model.segunda.player))
         }
         e["screens"] = telas
+        // Saimo Connect 2: a lista de fontes do canal ativo e o favorito.
+        if let canal = model.canalAtivo {
+            e["versaoConnect"] = 2
+            e["recursos"] = ["fontes", "favorito", "brilho"]
+            e["fontes"] = canal.variants.indices.map { i in ["rotulo": "Fonte \(i + 1)", "detalhe": ""] }
+            e["fonteAtual"] = model.multiTela && model.segundaAtiva
+                ? model.segunda.fonte : ProxyServer.shared.variantIndex(canal)
+            e["favorito"] = model.isFavorite(canal)
+        }
         return e
     }
 
@@ -487,7 +497,11 @@ final class SaimoConnect: ObservableObject {
                 model.seek(to: ms / 1000)
             }
         case "fonte":
-            trocarFonte(inteiro(j["delta"]) ?? 1)
+            if let indice = inteiro(j["indice"]) { escolherFonte(indice) } else { trocarFonte(inteiro(j["delta"]) ?? 1) }
+        case "brilho":
+            if let v = inteiro(j["valor"]) { Brilho.shared.valor = v }
+        case "favorito":
+            if let canal = model.canalAtivo { model.toggleFavorite(canal) }
         case "key":
             if let codigo = j["code"] as? String { tecla(codigo) }
         case "volume":
@@ -571,6 +585,17 @@ final class SaimoConnect: ObservableObject {
         for o in ouvindo {
             let qual = !model.multiTela ? "o Mac" : o.src == "0" ? "a tela 1" : o.src == "1" ? "a tela 2" : "as duas telas"
             Log.shared.write("Saimo Connect: \(o.nome) ouvindo \(qual) no celular")
+        }
+    }
+
+    /// Connect 2: a fonte escolhida na lista do celular (canal ao vivo).
+    private func escolherFonte(_ indice: Int) {
+        guard model.playingFile == nil, let canal = model.canalAtivo, canal.variants.indices.contains(indice) else { return }
+        if model.multiTela && model.segundaAtiva {
+            ProxyServer.shared.forceVariant(canal, indice)
+            model.segunda.tocar(canal)
+        } else {
+            model.playVariant(canal, index: indice)
         }
     }
 

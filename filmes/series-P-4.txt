@@ -924,9 +924,9 @@
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5612203.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2622956.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238215.mp4
 1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5612204.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2622957.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238216.mp4
 @Procurados - EUA: O Atentado à Maratona de Boston
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5628419.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525353.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153186.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5628420.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525354.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153187.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5628421.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525355.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153188.mp4
+1	1	dub	19:222314/1/1,http://64.31.23.207:80/series/96795792/50165825/5628419.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525353.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153186.mp4
+1	2	dub	19:222314/1/2,http://64.31.23.207:80/series/96795792/50165825/5628420.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525354.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153187.mp4
+1	3	dub	19:222314/1/3,http://64.31.23.207:80/series/96795792/50165825/5628421.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525355.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153188.mp4
 @Procurados - EUA: Osama Bin Laden
 1	1	dub	19:283367/1/1,http://64.31.23.207:80/series/96795792/50165825/5653161.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525360.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153193.mp4
 1	2	dub	19:283367/1/2,http://64.31.23.207:80/series/96795792/50165825/5653162.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525361.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153194.mp4

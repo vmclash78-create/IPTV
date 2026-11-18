@@ -863,17 +863,17 @@
 @Rainha, Não Amante
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5674424.mp4
 @Rainhas Africanas: Nzinga
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5626128.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525802.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153481.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5626129.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525803.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153482.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5626130.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525804.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153483.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5626131.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525805.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153484.mp4
+1	1	dub	19:218804/1/1,http://64.31.23.207:80/series/96795792/50165825/5626128.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525802.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153481.mp4
+1	2	dub	19:218804/1/2,http://64.31.23.207:80/series/96795792/50165825/5626129.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525803.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153482.mp4
+1	3	dub	19:218804/1/3,http://64.31.23.207:80/series/96795792/50165825/5626130.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525804.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153483.mp4
+1	4	dub	19:218804/1/4,http://64.31.23.207:80/series/96795792/50165825/5626131.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525805.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153484.mp4
 @Rainhas da Bolsa
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5625883.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525824.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153485.mp4
+1	1	dub	19:218184/1/1,http://64.31.23.207:80/series/96795792/50165825/5625883.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525824.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153485.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5625884.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525825.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153486.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5625885.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525826.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153487.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5625886.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525827.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153488.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5625887.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525828.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153489.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5625888.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525829.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153490.mp4
+1	3	dub	19:218184/1/3,http://64.31.23.207:80/series/96795792/50165825/5625885.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525826.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153487.mp4
+1	4	dub	19:218184/1/4,http://64.31.23.207:80/series/96795792/50165825/5625886.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525827.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153488.mp4
+1	5	dub	19:218184/1/5,http://64.31.23.207:80/series/96795792/50165825/5625887.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525828.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153489.mp4
+1	6	dub	19:218184/1/6,http://64.31.23.207:80/series/96795792/50165825/5625888.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525829.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153490.mp4
 2	1	dub	http://64.31.23.207:80/series/96795792/50165825/5625889.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525830.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153491.mp4
 2	2	dub	http://64.31.23.207:80/series/96795792/50165825/5625890.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525831.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153492.mp4
 2	3	dub	http://64.31.23.207:80/series/96795792/50165825/5625891.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525832.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153493.mp4

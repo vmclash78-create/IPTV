@@ -733,7 +733,7 @@ McFarland USA	dub=18:228203
 McFarland dos EUA	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762416.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27715.mp4
 McQuade: O Lobo Solitário	dub=18:14854,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764887.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306281.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301140.mp4
 McVeigh	dub=18:1275892
-Me Ame Com Ternura	dub=18:1290450	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250482.mp4
+Me Ame Com Ternura	dub=18:1290450	leg=18:1290450.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250482.mp4
 Me Assuste	dub=18:653643,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768206.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16574.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78183.mp4
 Me Chama Que Eu Vou	dub=18:739472,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53740.mp4
 Me Chame Pelo Seu Nome (2017)	dub=18:398818,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753741.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42171.mp4
@@ -1741,7 +1741,7 @@ Mulheres Rebeldes (2022)	dub=18:790519,http://acaidopt.org:80/movie/3llohwk4g9/k
 Mulheres Uma Outra História	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249249.mp4
 Mulheres ao Ataque (2014)	dub=18:193610,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767924.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17013.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301149.mp4
 Mulheres da Máfia 2	dub=18:569133
-Mulheres de Verdade Têm Curvas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53689.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79543.mp4
+Mulheres de Verdade Têm Curvas	dub=18:30309,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53689.mp4	leg=18:30309.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79543.mp4
 Mulheres do Século 20	dub=18:342737
 Mulheres e Filhos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28156.mp4
 Mulheres no Poder	dub=18:337709
@@ -1799,7 +1799,7 @@ Mutação 3 - O Sentinela	dub=18:33005
 Mutações	dub=18:17886
 Muti Crime e Poder (2023)	dub=18:862552,https://embedplayer2.xyz/cdn/hls/48e74aa9c5eb7dfd79cab42bf2aa76ea/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752558.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44977.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79623.mp4
 Mutilados	dub=18:5072
-Mutt	dub=18:1042216,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750847.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307377.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307431.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307402.mp4
+Mutt	dub=18:1042216,18:913449,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750847.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307377.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307431.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307402.mp4
 Mutum	dub=18:82409,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307330.mp4
 Muzzle City of Wolves	dub=https://embedplayer2.xyz/cdn/hls/8dd00bf725b913af41cbb23bd301f5a4/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79607.mp4
 Mv Loser Husband Financial Tycoon	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303241.mp4
@@ -1831,7 +1831,7 @@ My Nanny Stole My Life (2024)	dub=18:1291571,https://embedplayer2.xyz/cdn/hls/8d
 My Next Life as a Villainess: All Routes Lead to Doom! O Filme	dub=18:997086,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755301.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766533.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79653.mp4
 My Partner	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311238.mp4
 My Professor's Guide to Murder	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752609.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44987.mp4
-My Salinger Year	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79662.mp4
+My Salinger Year	leg=18:619594.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79662.mp4
 My Son	dub=18:833282
 My Son's Deception (2024)	dub=18:1266392,https://embedplayer2.xyz/cdn/hls/8b9085a3d73f2ceada260a7592725ca3/master.txt	leg=https://embedplayer2.xyz/cdn/hls/a778e0c234332025c2798580edb02b31/master.txt
 My Special One	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98349.mp4

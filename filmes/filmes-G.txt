@@ -98,6 +98,7 @@ Garota Mimada	dub=18:13971,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27
 Garota Motocross	dub=18:71885	leg=18:71885.mp4?lang=leg
 Garota Rebelde	dub=18:945916,https://embedplayer2.xyz/cdn/hls/80c764e768143199ed7fa457aad4f3a1/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751503.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250520.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254749.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250471.mp4
 Garota Roubada (2025)	dub=18:1280450,https://embedplayer2.xyz/cdn/hls/60317d097eb3e9b9c540e2db41586318/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752533.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44621.mp4	leg=https://embedplayer2.xyz/cdn/hls/6929dbe9d4a36ea6cade62af8f76eb43/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73405.mp4
+Garota Sinal Verde	dub=18:8992
 Garota Sombria Caminha pela Noite	dub=18:252171
 Garota Veneno	dub=18:11852,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768099.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15343.mp4
 Garota da Moto	dub=18:876262,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760749.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3869.mp4
@@ -257,7 +258,7 @@ Girls Just Wanna Have Blood	dub=18:549703
 Girls Like Girls	dub=18:1397485	leg=18:1397485.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750462.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311922.mp4
 Girls Like Girls: Uma História de Amor Entre Garotas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750529.mp4
 Girls State	dub=18:986355	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73595.mp4
-Girls Will Be Girls	dub=18:21059,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754466.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73600.mp4
+Girls Will Be Girls	dub=18:21059,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754466.mp4	leg=18:21059.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73600.mp4
 Girls!	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73605.mp4
 Girls! Beyond the Bottom	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73615.mp4
 Girls! Shin Shou	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73626.mp4
@@ -356,7 +357,6 @@ Gospel de Natal	dub=18:1559980
 Gosto Infernal	dub=18:1365149,https://embedplayer2.xyz/cdn/hls/39d67339b0e9148092a09ddbf95d3822/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751347.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251117.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254752.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251111.mp4
 Gosto de Sangue	dub=18:11368
 Gosto se Discute (2017)	dub=18:482016
-Gostosas, Lindas e Sexies (2017)	dub=18:440460
 Gota D'Água	dub=18:1113638
 Gotcha!: Uma Arma do Barulho	dub=18:27590
 Gotti	dub=18:14786
@@ -484,7 +484,7 @@ Guerra Fria (2018)	dub=18:440298,18:416249	leg=18:440298.mp4?lang=leg
 Guerra Interior	dub=18:302626
 Guerra Mundial Z	dub=18:72190,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759229.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49029.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301107.mp4
 Guerra Oculta (2022)	dub=18:848123,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751344.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761489.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3972.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301108.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73966.mp4
-Guerra Primitiva (2025)	dub=18:1257009,https://embedplayer2.xyz/cdn/hls/8d21cb07d22eb4fc2ecada6e21842f6f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750500.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315662.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315719.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315684.mp4
+Guerra Primitiva (2025)	dub=18:1257009,https://embedplayer2.xyz/cdn/hls/8d21cb07d22eb4fc2ecada6e21842f6f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750500.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315662.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315719.mp4	leg=18:1257009.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315684.mp4
 Guerra Sem Fim: A Espada é a Lei	dub=18:763484,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760563.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3980.mp4
 Guerra Sem Regras	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56115.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754933.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757296.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36948.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73977.mp4
 Guerra Sob a Terra (2021)	dub=18:810413,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762309.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26545.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73982.mp4

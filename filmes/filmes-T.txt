@@ -442,7 +442,7 @@ The Blackening (2023)	dub=18:1008392,https://embedplayer2.xyz/cdn/hls/8851a57f46
 The Blackening: Jogo Mortal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759423.mp4
 The Blackmist Group	dub=18:811229
 The Blackout	dub=18:25170,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99352.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91176.mp4
-The Blackwell Ghost 3	dub=18:604228
+The Blackwell Ghost 3	dub=18:604228	leg=18:604228.mp4?lang=leg
 The Bloodhound	dub=18:548511
 The Blue Angels	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756210.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91187.mp4
 The Blue Lightning	dub=18:281264
@@ -750,6 +750,7 @@ The Prince	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATT
 The Prize Winner of Defiance, Ohio	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764360.mp4
 The Professor And The Madman Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91844.mp4
 The Professor Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91833.mp4
+The Promise	dub=18:1080873
 The Promised Neverland	dub=18:634521
 The Quintessential Quintuplets: O Filme (2022)	dub=18:820067
 The Raven (2025)	dub=18:1552525	leg=https://embedplayer2.xyz/cdn/hls/79538083435fa32e2234811cbcf14718/master.txt
@@ -1137,6 +1138,7 @@ Tora! Tora! Tora! (1970)	dub=18:11165
 Tormenta (1996)	dub=18:10534,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313347.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313389.mp4
 Tormento (2021)	dub=18:846258,18:1000801,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761360.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7644.mp4
 Torn (2021)	dub=18:730057,18:5780,18:257763,18:224282,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759861.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92456.mp4
+Torn Apart: Separados na Fronteira (2019)	dub=18:625323
 Torn: Dark Bullets	dub=18:696610
 Tornado	dub=https://embedplayer2.xyz/cdn/hls/d39de0dbf27dfdc615687e09a03ef45b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754599.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92445.mp4
 Tornado: A Missão Continua	dub=18:122832

@@ -475,7 +475,6 @@ Segurança em Risco	dub=18:460846,http://acaidopt.org:80/movie/3llohwk4g9/kwf099
 Segurem Essas Crianças	dub=18:20483
 Seguros	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759128.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46545.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59484.mp4
 Seis Dias, Sete Noites (1998)	dub=18:6068
-Seis Gostosas num Galpão	dub=18:631790
 Seis Graus de Papai Noel	dub=18:1008366,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753641.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42885.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89086.mp4
 Seis Graus de Separação	dub=18:23210,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301354.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301242.mp4
 Seis Minutos para Meia-Noite	dub=18:670439,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763756.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31482.mp4
@@ -702,6 +701,7 @@ Setembro 5 (2024)	dub=18:1211472,https://embedplayer2.xyz/cdn/hls/730a6a9f976a59
 Setembro em Shiraz (2015)	dub=18:352179,https://embedplayer2.xyz/cdn/hls/dc5ee1e3e9a14f475a4372bbf742dddd/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762944.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31582.mp4
 Setenta	dub=18:284349,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759873.mp4
 Setor 36	dub=18:1245700,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58475.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755456.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21896.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89312.mp4
+Seu Amor, Meu Destino	dub=18:13539
 Seu Desejo é uma Ordem	dub=18:317116
 Seu Filho (2018)	dub=18:534939,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752962.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31586.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89303.mp4
 Seu Florindo e Suas Duas Mulheres	dub=18:372173
@@ -1232,7 +1232,6 @@ Sonho de Verão	dub=18:71724,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Sonho de uma Noite de Verão (1999)	dub=18:10210,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300941.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753806.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19553.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253308.mp4
 Sonhos (2025)	dub=18:1134463,18:1455278,https://embedplayer2.xyz/cdn/hls/1e3217ce4be87cc58fb50374ce4f73da/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752034.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1151.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89976.mp4
 Sonhos Alucinantes de Cheech e Chong	dub=18:12695
-Sonhos Eróticos de Uma Noite de Verão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253787.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253843.mp4
 Sonhos Imperiais	dub=18:253154
 Sonhos Lúcidos	dub=18:436994
 Sonhos Rebeldes (2020)	dub=18:482273

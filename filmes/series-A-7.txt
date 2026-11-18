@@ -836,8 +836,8 @@
 3	11	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/308551.mp4
 3	12	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/309237.mp4
 @Agora Morra O Caso de Michelle Carter
-1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203648.mp4
-1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203649.mp4
+1	1	dub	19:87518/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203648.mp4
+1	2	dub	19:87518/1/2,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203649.mp4
 @Agora Muppets
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5590090.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2568939.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/58169.mp4
 1	1	leg	19:92824/1/1.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2666158.mp4

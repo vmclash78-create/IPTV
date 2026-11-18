@@ -3114,8 +3114,8 @@
 1	37	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2713140.mp4
 1	38	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2713141.mp4
 @Bill Russell: Lenda da NBA
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5625918.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2508550.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/135093.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5625919.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2508551.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/135094.mp4
+1	1	dub	19:220030/1/1,http://64.31.23.207:80/series/96795792/50165825/5625918.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2508550.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/135093.mp4
+1	2	dub	19:220030/1/2,http://64.31.23.207:80/series/96795792/50165825/5625919.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2508551.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/135094.mp4
 @Billions	2016
 1	1	dub	19:62852/1/1,http://64.31.23.207:80/series/96795792/50165825/5541474.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2508788.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/135095.mp4
 1	2	dub	19:62852/1/2,http://64.31.23.207:80/series/96795792/50165825/5541475.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2508789.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/135096.mp4

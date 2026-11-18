@@ -137,18 +137,49 @@ struct TelaAjustes: View {
     @State private var urlCanais: String = Enderecos.canais
     @State private var urlFilmes: String = Enderecos.filmes
     @State private var statusListas: String? = nil
+    /// No perfil Kids os Ajustes pedem o código (a criança não mexe nas listas nem nos ajustes).
+    @State private var liberado = false
+    /// Controle parental: "liberar" ou "trocar" com o formulário aberto.
+    @State private var parental: String?
+    @State private var senha = ""
+    @State private var senhaNova = ""
+    @State private var avisoParental = ""
 
     private var versao: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "?"
     }
 
     var body: some View {
+        if Perfis.pedeCodigo(Perfis.ativo) && !liberado {
+            PedirCodigoView(perfil: Perfis.ativo, motivo: "Os Ajustes ficam trancados no perfil Kids. Digite o código para abrir.") {
+                liberado = true
+            } aoCancelar: {
+                NotificationCenter.default.post(name: .abrirPerfis, object: nil)
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+        } else {
+            conteudo
+        }
+    }
+
+    private var conteudo: some View {
         ZStack(alignment: .top) {
             ScrollView {
                 VStack(alignment: .leading, spacing: 26) {
                     Text("Ajustes")
                         .font(.system(size: 34, weight: .bold))
                         .foregroundStyle(.white)
+
+                    secao("Perfis") {
+                        linha("Trocar de perfil", "\(Perfis.ativo.nome)\(Perfis.ativo.ehKids ? " (Kids)" : "") · \(Perfis.todos.count) perfil(is)",
+                              icone: "person.crop.circle") {
+                            NotificationCenter.default.post(name: .abrirPerfis, object: nil)
+                        }
+                        linha("Gerenciar perfis", "Criar, editar, avatares e perfil Kids (até \(Perfis.maximo))",
+                              icone: "person.2.fill") {
+                            NotificationCenter.default.post(name: .abrirPerfis, object: "gerenciar")
+                        }
+                    }
 
                     secao("Reprodução") {
                         linha("Super Resolução (Upscaling)", Preferencias.rotuloUpscaling(model.upscaling),
@@ -167,6 +198,10 @@ struct TelaAjustes: View {
                                    icone: "chart.bar.xaxis", valor: $model.showStats)
                         alternador("Sem som", "Silencia o vídeo e o ao vivo",
                                    icone: "speaker.slash.fill", valor: $model.isMuted)
+                    }
+
+                    secao("Tela") {
+                        BrilhoDoApp()
                     }
 
                     secao("Geral") {
@@ -384,6 +419,35 @@ struct TelaAjustes: View {
                         }
                     }
 
+                    // Controle parental: no fim, separado e discreto. No Kids não aparece.
+                    if !Perfis.kidsAtivo {
+                        secao("Controle parental") {
+                            linha("Conteúdo adulto",
+                                  model.restrictedUnlocked ? "Liberado · clique para bloquear" : "Bloqueado · clique para liberar com a senha",
+                                  icone: model.restrictedUnlocked ? "lock.open" : "lock") {
+                                if model.restrictedUnlocked { model.bloquearAdulto() } else { abrirParental("liberar") }
+                            }
+                            linha("Trocar a senha", Parental.ehPadrao ? "Ainda com a senha de fábrica" : "Senha própria",
+                                  icone: "key") { abrirParental("trocar") }
+                            if let modo = parental {
+                                HStack(spacing: 10) {
+                                    SecureField(modo == "trocar" ? "Senha atual" : "Senha", text: $senha)
+                                        .textFieldStyle(.roundedBorder).frame(width: 140)
+                                        .onSubmit { confirmarParental() }
+                                    if modo == "trocar" {
+                                        SecureField("Senha nova", text: $senhaNova).textFieldStyle(.roundedBorder).frame(width: 140)
+                                            .onSubmit { confirmarParental() }
+                                    }
+                                    Button(modo == "trocar" ? "Trocar" : "Liberar") { confirmarParental() }
+                                    Button("Cancelar") { parental = nil }
+                                    Text(avisoParental).font(.system(size: 12)).foregroundStyle(Color(red: 1, green: 0.7, blue: 0.7))
+                                }
+                                .padding(.horizontal, 18).padding(.vertical, 10)
+                            }
+                        }
+                        .opacity(0.72)
+                    }
+
                     Text("Saimo TV \(versao) para Mac")
                         .font(.system(size: 12))
                         .foregroundStyle(Tema.textoApagado)
@@ -399,6 +463,22 @@ struct TelaAjustes: View {
                 urlCanais = Enderecos.canais
                 urlFilmes = Enderecos.filmes
             }
+        }
+    }
+
+    private func abrirParental(_ modo: String) {
+        parental = modo
+        senha = ""
+        senhaNova = ""
+        avisoParental = ""
+    }
+
+    private func confirmarParental() {
+        if parental == "liberar" {
+            if model.liberarAdulto(senha: senha) { parental = nil } else { avisoParental = "Senha errada."; senha = "" }
+        } else {
+            guard Parental.conferir(senha) else { avisoParental = "Senha atual errada."; senha = ""; return }
+            if Parental.trocar(atual: senha, nova: senhaNova) { parental = nil } else { avisoParental = "A senha nova tem 4 números." }
         }
     }
 
@@ -535,5 +615,28 @@ private struct LinhaSobMouse: ButtonStyle {
                     .fill(.white.opacity(configuration.isPressed ? 0.14 : sobre ? 0.07 : 0)))
                 .onHover { sobre = $0 }
         }
+    }
+}
+
+
+/// Brilho do app (não o da tela do Mac): 0 apaga a janela; qualquer tecla ou clique volta.
+private struct BrilhoDoApp: View {
+    @ObservedObject private var brilho = Brilho.shared
+    @State private var valor: Double = Double(Brilho.shared.valor)
+    var body: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            HStack {
+                Label("Brilho do app", systemImage: "sun.max.fill")
+                Spacer()
+                Text("\(Int(valor))%").monospacedDigit().foregroundStyle(.secondary)
+            }
+            Slider(value: $valor, in: 0...100, step: 5) { editando in
+                if !editando { Brilho.shared.valor = Int(valor) }
+            }
+            Text("Em 0% a janela fica preta: qualquer tecla ou clique volta ao normal.")
+                .font(.caption).foregroundStyle(.secondary)
+        }
+        .padding(.vertical, 6)
+        .onChange(of: brilho.exibido) { _, novo in if novo >= 100 { valor = 100 } }
     }
 }

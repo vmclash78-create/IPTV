@@ -580,7 +580,7 @@ Cazuza: O Tempo Nao Para (2004)	dub=18:59474,http://acaidopt.org:80/movie/3llohw
 Caça Explosiva	dub=18:797501,https://embedplayer2.xyz/cdn/hls/e62e3f0da1f9a9dae832538862cbbfaf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751367.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251181.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254716.mp4
 Caça Implacável (2022)	dub=18:961484,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761358.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2703.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67234.mp4
 Caça Invisível	dub=18:853588,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2704.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67239.mp4
-Caça Jurássica	dub=18:848278
+Caça Jurássica	dub=18:848278	leg=18:848278.mp4?lang=leg
 Caça Mortal (2020)	dub=18:603119,18:352917,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761768.mp4	leg=18:603119.mp4?lang=leg,https://embedplayer2.xyz/cdn/hls/1bae26a9360cbaf03343a01b1344c816/master.txt
 Caça a Testemunha	dub=18:498849
 Caça ao Terrorista	dub=18:18355,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315711.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315679.mp4
@@ -884,7 +884,7 @@ Cidadão X	dub=18:12554,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27627
 Cigarros Mortais	dub=18:1314912,https://embedplayer2.xyz/cdn/hls/5e4f77b9f548c2c41cedafb470f6392d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751433.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253391.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254719.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253372.mp4
 Cilada.com	dub=18:69938,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768031.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13903.mp4
 Cinco Anos de Noivado	dub=18:72207,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13907.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67631.mp4
-Cinco Centímetros por Segundo	leg=18:38142.mp4?lang=leg
+Cinco Centímetros por Segundo	dub=18:38142	leg=18:38142.mp4?lang=leg
 Cinco Chances Para Ser Feliz (2024)	dub=18:1231953,https://embedplayer2.xyz/cdn/hls/c6df7e651bd9f22bdac9b14f99dcd088/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55207.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752956.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754162.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41693.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67641.mp4
 Cinco Tipos de Medo (2026)	dub=18:1432241,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750519.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310634.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310636.mp4
 Cinderela	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55212.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753798.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757415.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765500.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766042.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33703.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757802.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67646.mp4
@@ -1223,9 +1223,6 @@ Como Vivem os Bravos	dub=18:719596,http://acaidopt.org:80/movie/3llohwk4g9/kwf09
 Como Você Me Vê?	dub=18:489273,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759693.mp4
 Como Você Quiser	dub=18:19103,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767330.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14077.mp4
 Como Você Sabe (2010)	dub=18:42888
-Como fazer pornô Cena 01	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768854.mp4
-Como fazer pornô Cena 02	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768873.mp4
-Como fazer pornô Cena 03	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768897.mp4
 Como o Grinch Roubou o Natal	dub=18:13377
 Como o Gringo Roubou o Natal	dub=18:1201640,https://embedplayer2.xyz/cdn/hls/fc79f7fd5d298e605af6141ad3d4eb02/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/400.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68061.mp4
 Como se Tornar um Conquistador (2017)	dub=18:425134,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767387.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14054.mp4

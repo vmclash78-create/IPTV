@@ -90,7 +90,7 @@ Um Lobo como Eu		0	26
 Um Lugar ao Sol		0	119
 Um Maluco No Pedaço		0	296
 Um Maluco na TV		0	138
-Um Milagre		0	261
+Um Milagre		0	267
 Um Milhao de Vezes Amor		0	10
 Um Milhão de Coisas	2018	0	97
 Um Monstro Como Nunca se Viu		0	6
@@ -107,7 +107,7 @@ Um Pouco Grande Demais		0	13
 Um Pouco de Luz do Sol		0	71
 Um Rapaz Adequado		0	12
 Um Refúgio para o Amor		0	127
-Um Romance Sem Igual		0	6
+Um Romance Sem Igual		0	8
 Um Sonho até Você		0	24
 Um Só Coração		0	53
 Um Tanto Familiar		0	8

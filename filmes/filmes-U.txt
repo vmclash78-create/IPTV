@@ -109,7 +109,7 @@ Um Amor de Tesouro	dub=18:8676,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 Um Amor de Verão	dub=18:19688
 Um Amor de Vizinha	dub=18:253235
 Um Amor do Passado (2018)	dub=18:557818
-Um Amor na Trincheira	dub=18:32526
+Um Amor na Trincheira	dub=18:32526	leg=18:32526.mp4?lang=leg
 Um Amor no Mar	dub=18:525455
 Um Amor para Duas (2023)	dub=18:1076955,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753521.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43116.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93174.mp4
 Um Amor para Recordar	dub=18:10229,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753249.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43121.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310700.mp4
@@ -593,7 +593,6 @@ Um Plano Por Água Abaixo (2020)	dub=18:750596,https://embedplayer2.xyz/cdn/hls/
 Um Plano Sem Saida (2018)	dub=18:628829,https://embedplayer2.xyz/cdn/hls/34b639684b6f625e27220e19e0c2b494/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752670.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755898.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46355.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93941.mp4
 Um Plano Simples	dub=18:10223	leg=18:10223.mp4?lang=leg
 Um Plano em Família (2021)	dub=18:793155,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754168.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768584.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20394.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93925.mp4
-Um Playboy em Apuros	dub=18:246967,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751958.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43215.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93946.mp4
 Um Pobretão na Casa Branca	dub=18:9776,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251198.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251246.mp4
 Um Poder Superior	dub=18:513324
 Um Poeta	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751573.mp4
@@ -641,6 +640,7 @@ Um Santo Plano	dub=18:647241,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Um Santo Vizinho (2014)	dub=18:239563,https://embedplayer2.xyz/cdn/hls/c3e757bc086810c0bb6f4db07b87eecf/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306326.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306408.mp4
 Um Sapato para o Natal	dub=18:535809
 Um Segredo Entre Nós	dub=18:7353
+Um Segredo de Natal na Escócia	dub=18:1145635
 Um Sem Juízo, Outro Sem Razão (1991)	dub=18:23303
 Um Semestre Épico para o Amor	leg=18:1408158.mp4?lang=leg
 Um Senhor Estagiário	dub=18:257211,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756962.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767706.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20434.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93988.mp4

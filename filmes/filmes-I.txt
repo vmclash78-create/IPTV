@@ -264,7 +264,7 @@ Ingresso Para o Paraíso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Ingrid Vai para o Oeste	dub=18:411741
 Inherit the Witch (2024)	dub=18:1352445,https://embedplayer2.xyz/cdn/hls/30a0f01d35a39a0e80a277201c26c4c5/master.txt
 Inheritance	dub=18:1297860,18:1489869,18:775284,https://embedplayer2.xyz/cdn/hls/30805c9904f8673742d68b629200f16b/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752552.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757350.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44711.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75269.mp4
-Iniciacao (2021)	dub=18:611489,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758288.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49287.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75276.mp4
+Iniciacao (2021)	dub=18:81774,18:611489,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758288.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49287.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75276.mp4
 Inimiga Perfeita (2021)	dub=18:655917,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760399.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4230.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75281.mp4
 Inimigo Desconhecido (2018)	dub=18:498945,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752881.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44721.mp4
 Inimigo Invisível (2019)	dub=18:717042,18:614202,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4234.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75287.mp4
@@ -413,6 +413,7 @@ Inverno da Alma	dub=18:39013,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Inverno de Paixao no Grande Hotel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302981.mp4
 Inverno de Sangue em Veneza	dub=18:931,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752276.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754306.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44749.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75476.mp4
 Inverno em Chamas	dub=18:895956,https://embedplayer2.xyz/cdn/hls/0a5a8ac531aa3292bb094f395c102bbe/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754532.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757269.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36952.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75491.mp4
+Inverno em Paris	leg=18:918044.mp4?lang=leg
 Inverno sem Fim	dub=18:1158986
 Inversão	dub=18:74835
 Investigando Lucy Letby	dub=18:1620991,https://embedplayer2.xyz/cdn/hls/6aaa62db3bef96b90ab4c958348a61fa/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311324.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751684.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100018.mp4

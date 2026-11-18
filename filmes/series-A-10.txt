@@ -3002,14 +3002,14 @@
 1	23	leg	http://64.31.23.207:80/series/96795792/50165825/5661959.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252783.mp4
 1	24	leg	http://64.31.23.207:80/series/96795792/50165825/5661960.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252784.mp4
 @Apaixonados Outra Vez
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5626048.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2506999.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133357.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5626049.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507000.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133358.mp4
+1	1	dub	19:218428/1/1,http://64.31.23.207:80/series/96795792/50165825/5626048.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2506999.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133357.mp4
+1	2	dub	19:218428/1/2,http://64.31.23.207:80/series/96795792/50165825/5626049.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507000.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133358.mp4
 1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5626050.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507001.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133359.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5626051.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507002.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133360.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5626052.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507003.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133361.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5626053.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507004.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133362.mp4
-1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5626054.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507005.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133363.mp4
-1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5626055.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507006.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133364.mp4
+1	4	dub	19:218428/1/4,http://64.31.23.207:80/series/96795792/50165825/5626051.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507002.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133360.mp4
+1	5	dub	19:218428/1/5,http://64.31.23.207:80/series/96795792/50165825/5626052.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507003.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133361.mp4
+1	6	dub	19:218428/1/6,http://64.31.23.207:80/series/96795792/50165825/5626053.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507004.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133362.mp4
+1	7	dub	19:218428/1/7,http://64.31.23.207:80/series/96795792/50165825/5626054.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507005.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133363.mp4
+1	8	dub	19:218428/1/8,http://64.31.23.207:80/series/96795792/50165825/5626055.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2507006.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/133364.mp4
 @Apaixonados na Cidade
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5594324.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558096.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/79572.mp4
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2666548.mp4

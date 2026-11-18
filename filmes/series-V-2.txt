@@ -465,9 +465,9 @@
 1	5	leg	19:241945/1/5.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2688888.mp4
 1	6	leg	19:241945/1/6.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2688889.mp4
 @Voo 370: O Avião que Desapareceu
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5627079.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532065.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160240.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5627080.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532066.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160241.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5627081.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532067.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160242.mp4
+1	1	dub	19:220499/1/1,http://64.31.23.207:80/series/96795792/50165825/5627079.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532065.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160240.mp4
+1	2	dub	19:220499/1/2,http://64.31.23.207:80/series/96795792/50165825/5627080.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532066.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160241.mp4
+1	3	dub	19:220499/1/3,http://64.31.23.207:80/series/96795792/50165825/5627081.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532067.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160242.mp4
 @Voo Criminoso
 1	1	dub	19:244207/1/1,http://64.31.23.207:80/series/96795792/50165825/5648432.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532124.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160243.mp4
 1	2	dub	19:244207/1/2,http://64.31.23.207:80/series/96795792/50165825/5648433.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2532125.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160244.mp4

@@ -819,7 +819,7 @@ Advogado Fantasma		6	32
 Aero Por Tras da Aviacao		6	52
 Aeroporto Area Restrita Estados Unidos		6	24
 Aeroporto Miami		6	19
-Aeroporto: Estados Unidos		6	67
+Aeroporto: Estados Unidos		6	66
 Aeroporto: Área Restrita	2017	6	87
 Affair		6	47
 Afinal, O Que Querem As Mulheres?		6	4
@@ -1042,7 +1042,6 @@ American Horror Stories	2021	8	31
 American Horror Story	2011	8	174
 American Hostage	2026	8	8
 American Housewife	2016	8	103
-American Playboy A historia de Hugh Hefner		8	10
 American Rust		8	19
 American Sports Story		8	10
 American Sports Story: Aaron Hernandez		8	10
@@ -1390,7 +1389,7 @@ Armas de Mulher	2022	11	8
 Armas e Amores		11	7
 Armazem 13	2009	11	64
 Armorsaurs		11	13
-Arnold		11	97
+Arnold		11	178
 Aroma de Morango		11	23
 Arqueiro		11	170
 Arqueologias em Busca dos Primeiros Brasileiros		11	6

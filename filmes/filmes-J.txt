@@ -474,7 +474,7 @@ Jurassic Park 3	dub=18:331,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27
 Jurassic Park: O Parque dos Dinossauros (1993)	dub=18:329,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765000.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765953.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35990.mp4
 Jurassic Predator	dub=18:502308
 Jurassic Shark 3: Seavenge (2024)	dub=18:1098335,https://embedplayer2.xyz/cdn/hls/0bc194cb4982fb651e01e861ce7a2e2e/master.txt	leg=https://embedplayer2.xyz/cdn/hls/32933d5a7a1d8c28e022ddec8f10a69d/master.txt
-Jurassic Triangle	dub=18:1032448
+Jurassic Triangle	dub=18:1032448	leg=18:1032448.mp4?lang=leg
 Jurassic World	dub=18:1234821,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4459.mp4
 Jurassic World - A Batalha de Big Rock	dub=18:630322	leg=18:630322.mp4?lang=leg
 Jurassic World 2 - Reino Ameacado	dub=https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34110.mp4

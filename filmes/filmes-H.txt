@@ -223,7 +223,6 @@ Helter Skelter	dub=18:45759
 Helvetica	dub=18:13348
 Henry & Klauss: Mestres da Mágica	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751430.mp4
 Henry Danger: O Filme	dub=18:926670,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56165.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754536.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761275.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4024.mp4	leg=18:926670.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74295.mp4
-Henry e June - Delírios Eróticos	dub=18:17993,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42057.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74296.mp4
 Heranca (2020)	dub=18:602147,18:1234902,18:1388238,https://embedplayer2.xyz/cdn/hls/cd36d0d191ff2a467f02614ddc0e965f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752593.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755816.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44665.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74301.mp4
 Heranca de Sangue (2016)	dub=18:309886
 Herança Maldita	dub=18:14795,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758088.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758484.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759302.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74310.mp4
@@ -530,7 +529,7 @@ How to Blow Up a Pipeline	dub=18:1008048
 How to Have Sex (2023)	dub=18:1075175,https://embedplayer2.xyz/cdn/hls/929ef51ac8169db1db8b3267e2dca747/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56258.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756023.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764441.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26792.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74760.mp4
 How to Make a Werewolf	dub=18:1304567
 How to Train Your Dragon The Hidden World Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74755.mp4
-Howard Sons de um Gênio	dub=18:512191	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74765.mp4
+Howard Sons de um Gênio	dub=18:512191	leg=18:512191.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74765.mp4
 Howard, o Super-Herói (1986)	dub=18:10658
 Huck e Zelensky - Não Está Tudo Bem (2024)	dub=18:1357069,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759773.mp4
 Hudson Hawk, o Falcão Está à Solta (1991)	dub=18:9292,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761575.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4124.mp4

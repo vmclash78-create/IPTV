@@ -326,16 +326,18 @@ Em Busca do Prazer	dub=18:59897
 Em Busca do Vale Encantado (1988)	dub=18:12144
 Em Busca do Vale Encantado 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9419.mp4
 Em Busca do Vale Encantado 13 (2006)	dub=18:39961
-Em Busca do Vale Encantado 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9423.mp4
-Em Busca do Vale Encantado 3	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9427.mp4
-Em Busca do Vale Encantado 4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9431.mp4
+Em Busca do Vale Encantado 2	dub=18:15997,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9423.mp4
+Em Busca do Vale Encantado 3	dub=18:19004,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9427.mp4
+Em Busca do Vale Encantado 4	dub=18:19164,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9431.mp4
 Em Busca do Vale Encantado 5	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9436.mp4
+Em Busca do Vale Encantado 6 (1998)	dub=18:17337
 Em Busca do Vale Encantado II A Grande Aventura do Vale	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253412.mp4
 Em Busca do Vale Encantado IX Viagem à Água Grande	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253414.mp4
+Em Busca do Vale Encantado V: A Ilha Misteriosa	dub=18:19165
 Em Busca do Vale Encantado VI O Segredo do Rochedo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253416.mp4
 Em Busca do Vale Encantado VII A Pedra do Fogo Gelado	dub=18:24102,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9449.mp4
 Em Busca do Vale Encantado VIII A Grande Nevasca	dub=18:25587,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253703.mp4
-Em Busca do Vale Encantado X A Grande Migração	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253418.mp4
+Em Busca do Vale Encantado X A Grande Migração	dub=18:24554,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253418.mp4
 Em Busca do Vale Encantado XI A Invasão dos Minissauros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253413.mp4
 Em Busca do Vale Encantado XII O Grande Dia dos Voadores	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253417.mp4
 Em Busca do Vale Encantado XIII A União dos Amigos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253415.mp4
@@ -549,7 +551,7 @@ Enrolados para Sempre	dub=18:82881,http://acaidopt.org:80/movie/3llohwk4g9/kwf09
 Enron: Os Mais Espertos da Sala	dub=18:13020,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759938.mp4
 Ensaio Fatal (2026)	dub=18:1199193,https://embedplayer2.xyz/cdn/hls/5689dd79eefbfb38904a086fa3e926b9/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751688.mp4
 Ensaio Sobre a Cegueira	dub=18:8338,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762971.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25735.mp4
-Ensina-me a Viver (1996)	dub=18:46732
+Ensina-me a Viver (1996)	dub=18:46732,18:343
 Ensina-me o Amor	dub=18:253344
 Ensinando Como Apreciar Vinhos	dub=18:1360065,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755736.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759723.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71493.mp4
 Entao Eu Te Conheci (2018)	dub=18:514186
@@ -644,7 +646,7 @@ Então é Natal	dub=18:878417,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o
 Enviado do Céu	dub=18:412524
 Envolvidos com o Perigo	dub=18:20859
 Enxame (2020)	dub=18:760484,18:1402293,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766855.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14942.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71654.mp4
-Enzo	dub=18:1277872,18:522924	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71669.mp4
+Enzo	dub=18:1277872,18:522924	leg=18:1277872.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71669.mp4
 Epa! Cade o Noe? (2015)	dub=18:326215,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9470.mp4
 Epa! Cade o Noe? 2 (2020)	dub=18:587562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9474.mp4
 Epidemia	dub=18:6950,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763501.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25792.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249874.mp4

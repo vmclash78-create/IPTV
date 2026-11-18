@@ -71,7 +71,7 @@ A Assassina das Redes Sociais	dub=18:604092
 A Assediadora	dub=18:934207	leg=18:934207.mp4?lang=leg
 A Assistente	dub=18:627463,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763110.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22238.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60081.mp4
 A Assistente Perfeita	dub=18:60664
-A Assombração de La Llorona	dub=18:610394
+A Assombração de La Llorona	dub=18:610394	leg=18:610394.mp4?lang=leg
 A Astronauta (2025)	dub=18:1086260,https://embedplayer2.xyz/cdn/hls/145c42ef5fa35c4c2de64a29b1fda06d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765718.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98296.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60076.mp4
 A Autópsia	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758565.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46588.mp4
 A Avaliação (2025)	dub=18:1317088,https://embedplayer2.xyz/cdn/hls/0605afd828b834d333bc37dae2f80189/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53882.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765756.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35375.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753788.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60086.mp4
@@ -831,7 +831,7 @@ A Gangue: Uma Noite de Terror (2020)	dub=18:746180,http://acaidopt.org:80/movie/
 A Ganha-Pão	dub=18:435129,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8416.mp4
 A Ganhadora de Defiance, Ohio (2005)	dub=18:27176
 A Garota Artificial	dub=18:983282,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765841.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/173.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60930.mp4
-A Garota Canhota	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60936.mp4
+A Garota Canhota	leg=18:999075.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60936.mp4
 A Garota Dinamarquesa	dub=18:306819,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762434.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22565.mp4
 A Garota Final	dub=18:277558
 A Garota Francesa	dub=18:1024452,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54078.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753152.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756646.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41179.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60956.mp4
@@ -1974,7 +1974,7 @@ A Sala da Frente	dub=18:1016848,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 A Sala da Frentre	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47374.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62298.mp4
 A Sala dos Professores (2023)	dub=18:998022,https://embedplayer2.xyz/cdn/hls/2d2e4fd4ac5ffca2951dec380952aa45/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756737.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762131.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23019.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62318.mp4
 A Salinha	dub=18:812630,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768444.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12730.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62323.mp4
-A Sapatona Galáctica	dub=18:1333141	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250453.mp4
+A Sapatona Galáctica	dub=18:1333141	leg=18:1333141.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250453.mp4
 A Saudade Que Fica (2024)	dub=18:1238127,https://embedplayer2.xyz/cdn/hls/2139b4e228178c146e7c619d241ca6e0/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756108.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764176.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23024.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62313.mp4
 A Scam Called Love	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754942.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62334.mp4
 A Secret Love	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62328.mp4
@@ -2064,6 +2064,7 @@ A Tabacaria (2018)	dub=18:538061,18:1203222,http://acaidopt.org:80/movie/3llohwk
 A Taberna do Inferno	dub=18:23916
 A Tale of Two Guns	leg=18:940175.mp4?lang=leg
 A Tartaruga Manuelita	dub=18:65931
+A Tartaruga Vermelha	dub=18:337703
 A Tartaruga e a Lebre: A Revanche do Século	dub=18:13017
 A Tecnologia Social	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97117.mp4
 A Teia	dub=18:978592,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54295.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21101.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757238.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62432.mp4
@@ -2737,128 +2738,6 @@ Adriana Varejão: Entre Carnes e Mares	dub=18:1193638,http://acaidopt.org:80/mov
 Adrienne (2021)	dub=18:887171
 Adu (2020)	dub=18:588009,https://embedplayer2.xyz/cdn/hls/f5dc865142308a5f614acb63df2508bf/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763235.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23374.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99486.mp4
 Adult Swim's The Elephant	dub=18:1497017,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751914.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63145.mp4
-Adulto - Agirlknows - Rebecca Volpetti Emily Cutie And Kinuski	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772115.mp4
-Adulto - Blacked - Emily Cutie - Working Abroad	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770804.mp4
-Adulto - Blackedraw - Emily Cutie - Late Transit	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769823.mp4
-Adulto - Hornyhostel - Emily Cutie - Find Me	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769417.mp4
-Adulto - Immorallive - Emily Cutie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770132.mp4
-Adulto - Immorallive Anal - Emily Cutie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772413.mp4
-Adulto - Isabelle Star - New Star	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771027.mp4
-Adulto - O Porteiro do Dia	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769146.mp4
-Adulto - Thewhiteboxxx - Emily Cutie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770295.mp4
-Adulto - Thewhiteboxxx - Emily Cutie - Sensual Morning	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772295.mp4
-Adulto - Tushy - Emily Cutie - Art And Anal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769052.mp4
-Adulto - Winter Jade 01	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772565.mp4
-Adulto - Winter Jade 02	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770774.mp4
-Adulto - Winter Jade 03	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769790.mp4
-Adulto - Winter Jade 04	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772404.mp4
-Adulto - Winter Jade 05	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771784.mp4
-Adulto - Winter Jade 06	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769099.mp4
-Adulto - Winter Jade 07	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770006.mp4
-Adulto - Winter Jade 08	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772900.mp4
-Adulto - Winter Jade 09	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771184.mp4
-Adulto - Winter Jade 10	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771169.mp4
-Adulto - Winter Jade 11	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771392.mp4
-Adulto - Winter Jade 12	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771405.mp4
-Adulto - Winter Jade 13	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771896.mp4
-Adulto - Winter Jade 14	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772179.mp4
-Adulto - Winter Jade 15	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772473.mp4
-Adulto - Winter Jade 16	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770675.mp4
-Adulto - Winter Jade 17	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772166.mp4
-Adulto A Very Merry Bareback Christmas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770008.mp4
-Adulto BCM Busty Babe Loves Black Cock	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770351.mp4
-Adulto Bangbros Mia Khalifa - Is Back And Ready For Black Dick	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771136.mp4
-Adulto Bangbros Mia Khalifa - Mia K Gives The Girlfriend Experience	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769949.mp4
-Adulto Bangbros Mia Khalifa - Mia Khalifa Gets Her Pussy Stretched	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771790.mp4
-Adulto Bareback Leather Fuck Fest	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770533.mp4
-Adulto Buttman - Carnaval Folia (2005)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769961.mp4
-Adulto Buttman - Puro Prazer 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770703.mp4
-Adulto Buttman - Tour Porto Alegre	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770356.mp4
-Adulto Festa da Salsicha	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768809.mp4
-Adulto GloryHole Stella Cox and Jade Jantzen	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772237.mp4
-Adulto HarmonyVision Bentley And Stella Cox	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769726.mp4
-Adulto His Sons Best Friend	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769910.mp4
-Adulto Joshstonexxx - Mia Khalifa - Tony Rubinos Lets Make A Sex Tape	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769487.mp4
-Adulto Little Caprice Gaping For My Husband s Boss	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772251.mp4
-Adulto LittleCaprice Dreams Caprice	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769619.mp4
-Adulto LittleCaprice Dreams Little Caprice	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770382.mp4
-Adulto LittleCapriceDreams School Girl Webcam Show	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772734.mp4
-Adulto Maru Karv - Amateur Girlfriend Teen Sucking My Dick To Get Cum	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772533.mp4
-Adulto Maru Karv - Asmr Blowjob Banana Whispering And Moan - Sussurando E Gemendo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769631.mp4
-Adulto Maru Karv - Asmr Porn Instagram Girl Talking Dirty And Teasing Her Body	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772308.mp4
-Adulto Maru Karv - Big Ass Teen Dances Funk And Gives A Blowjob For Facial	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772541.mp4
-Adulto Maru Karv - Big Booty Redhead Girlfriend In Yoga Pants Get Anal Fuck Awesome Girl	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770819.mp4
-Adulto Maru Karv - Blowjob And Asmr Ocean In The Background. Sound Good	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771662.mp4
-Adulto Maru Karv - Cat Blowjob Yammyyy Cosplay Cat Giving A Sloppy Blowjob In Huge Dildo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770247.mp4
-Adulto Maru Karv - Cum In Mouth I Just Cant See A Big Cock And Not To Suck It. Morning Blowjob	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769687.mp4
-Adulto Maru Karv - Cute Redhead Girl Sucking A Big Dick And Swallowing All The Cumshot. - 1080P-1	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772790.mp4
-Adulto Maru Karv - Doing A Footjob For Him To Cum On My Feets. Our First Footjob Here. Enjoy	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771379.mp4
-Adulto Maru Karv - Every Time He Look At Me He Want To Fuck Me. Blue Dress	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772480.mp4
-Adulto Maru Karv - Fuck My Ass Hard And Cum On My Strings - Amateur Maru Karv Redhead Teen	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771145.mp4
-Adulto Maru Karv - Fun With My Hot Big Boobs Friend Emanuelly Raquel In Public Butt And Boobs	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769508.mp4
-Adulto Maru Karv - Girlfriend Best Friend Sucking My Cock In Our Garden With Facial	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772845.mp4
-Adulto Maru Karv - Girlfriend Makes The Best Sloppy Blowjob And Let Me Cum All Over Her Face	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771835.mp4
-Adulto Maru Karv - Hardcore Blowjob And Anal Ends In Facial And Alot Of Makeup Tears	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770475.mp4
-Adulto Maru Karv - He Creampie My Pussy And I Eat It All. Amateur Stepsister Nerd Girl	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771917.mp4
-Adulto Maru Karv - He Lick All My Pussy So Good I Need To Let Him Fuck My Ass And Creampie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771579.mp4
-Adulto Maru Karv - Hot Redhead Instagram Teen Sucking Cock After Gym	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769238.mp4
-Adulto Maru Karv - I Just Love To Suck A Big Cock Omg And Feel All That Cum On My Face	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771461.mp4
-Adulto Maru Karv - I Suck Him So Good He Cummed 2 Times And Cummed Alot In My Mouth	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769554.mp4
-Adulto Maru Karv - I Suck Stranger's Cock In Shopping Center Bathrom And He Cum On My Face	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771477.mp4
-Adulto Maru Karv - Just A Huge Cumshot Tease Before Going To Bed	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771814.mp4
-Adulto Maru Karv - Just Some Public Pussy Fun And Blowjob I Love Publics Hahaha	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772418.mp4
-Adulto Maru Karv - Love To Masturbate In Every Public Place I Go	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769075.mp4
-Adulto Maru Karv - Love To Suck And Getting That Cum	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769551.mp4
-Adulto Maru Karv - Maru Redhead Teen Blowjob And Huge Facial Cumshot	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771742.mp4
-Adulto Maru Karv - Nutaku And Redhead Anal Blowjob Mouth Cumshot	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769980.mp4
-Adulto Maru Karv - Ohhh That Cum Creampie Look So Good Hardcore And Romantic Sex	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771222.mp4
-Adulto Maru Karv - Perfect Teen Redhead Sucking With Cum In Mouth	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770286.mp4
-Adulto Maru Karv - Playing At The Store Dresser With A Butt Plug	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772123.mp4
-Adulto Maru Karv - Redhead Girlfriend The Best Blowjob Ever And Then Swallow All My Cumshot	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771539.mp4
-Adulto Maru Karv - Redhead Teen Whore Wants To Test Her New Phone Sucking My Cock And Cum	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769377.mp4
-Adulto Maru Karv - She Aways Delivery The Best Blowjob Smartphone Video	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770585.mp4
-Adulto Maru Karv - She Made Twerk For Me And We Ended Up Fucking Perfect Redhead Twerk Ass	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769780.mp4
-Adulto Maru Karv - Snapchat Redhead Amateur Teen Get Ass Fucked And Anal Creampie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772787.mp4
-Adulto Maru Karv - Snapchat Teen Having Sex In The Pool	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771098.mp4
-Adulto Maru Karv - Step Sister Redhead Teen Ass Fucking And Cuming In That Beauty Pussy	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770657.mp4
-Adulto Maru Karv - Super Hot Naughty Teen Playing With Her New Huge Dildo And Toy	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772191.mp4
-Adulto Maru Karv - Teen Blowjob And Anal With That Big Cock Till Cum In Mouth At Night	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772979.mp4
-Adulto Maru Karv - Teen College Sucking A Bwc And Eating All The Cumshot Creampie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771851.mp4
-Adulto Maru Karv - Teen Girlfriend Masturbates In Shower And Post It On Snapchat Leaked	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770063.mp4
-Adulto Maru Karv - Teen Masturbate With A Big Dildo After Streaming	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771008.mp4
-Adulto Maru Karv - Teen Redhead Anal Sex With My Panties On I Dont Even Take My Lingerie Off	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770301.mp4
-Adulto Maru Karv - Teen Step Sister Writing Her Diary Ended Up In Blowjob And Anal At Morning	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771073.mp4
-Adulto Maru Karv - Tinder Teen Let Me Film Her Sucking And Swallow All The Cum	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770038.mp4
-Adulto Maru Karv - Using My New Toy While He Fucked Me 2 Orgasms And 2 Cumshots	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772017.mp4
-Adulto Maru Karv - We Fucked In The Fire Escape At The Mall Cumshot Facial And Keep Fucking	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772346.mp4
-Adulto Maru Karv - Wood Witch Blowjob For Halloween Witch Cosplay For Halloween Public Video	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770171.mp4
-Adulto Mia Khalifa - Anatomy	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771808.mp4
-Adulto Mia Khalifa - Anatomy - Clothes	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769383.mp4
-Adulto Mia Khalifa - Art Imitating Life	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769234.mp4
-Adulto Mia Khalifa - Bath Time Is The Best Time	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770248.mp4
-Adulto Mia Khalifa - Bj Lessons W Mia Khalifa	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771108.mp4
-Adulto Mia Khalifa - Black Vs White My Ultimate Dick Challenge	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769786.mp4
-Adulto Mia Khalifa - Here Is My Body I Hope You Like It	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769217.mp4
-Adulto Mia Khalifa - I Am A Sucker For A Qb	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772700.mp4
-Adulto Mia Khalifa - I Popped A Fans Cherry	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769826.mp4
-Adulto Mia Khalifa - Masturbation	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771445.mp4
-Adulto Mia Khalifa - Me Getting Extra Dick Behind The Scenes	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769196.mp4
-Adulto Mia Khalifa - My Big Black Threesome	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770305.mp4
-Adulto Mia Khalifa - My First Creampie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771547.mp4
-Adulto Mia Khalifa - My Porn Audition	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772148.mp4
-Adulto Mia Khalifa - Tries A Big Black Dick	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769975.mp4
-Adulto Mia Khalifa - Vagina	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770281.mp4
-Adulto Mike Colucci And Harry Louis	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769368.mp4
-Adulto Mofos Public Pick Ups Armenian Babe Gets Cum in Her Eye	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771537.mp4
-Adulto Ninfomaniaca Vol. 1	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771897.mp4
-Adulto Ninfomaniaca Vol. 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769401.mp4
-Adulto PornFidelity Stella Cox	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772107.mp4
-Adulto Scorehd Mia Khalifa - A Body Made For Sex	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771563.mp4
-Adulto Scorehd Mia Khalifa - Blow Job Mvp Award Winner	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769326.mp4
-Adulto Scorehd Mia Khalifa - Graduating Summa Cum Loud	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2770431.mp4
-Adulto Scorehd Mia Khalifa - Meet The Busty Girl Who Works At The Hamburger Joint	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772970.mp4
-Adulto Scorehd Mia Khalifa - She Is Lovin It And Havin It Her Way	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771967.mp4
-Adulto The Drae Axtell Collection	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771414.mp4
 Adults in the Room	dub=18:1316381
 Adultério Por Amor	dub=18:408372
 Adultério à Brasileira	dub=18:272145
@@ -3193,7 +3072,6 @@ Alucinações do Passado 2	dub=18:456529,http://acaidopt.org:80/movie/3llohwk4g9
 Aluga-se Moças 2	dub=18:375602
 Aluga-se para o Verão	dub=18:19357,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754252.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12986.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63525.mp4
 Aluguel de Pesadelo	dub=18:682583,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753319.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43827.mp4
-Aluna Exemplar e Estrela Pornô (2017)	dub=18:441168,https://embedplayer2.xyz/cdn/hls/22f75be28c7f66e1651d5de6b4a3fece/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313916.mp4
 Alunos Muito Loucos	dub=18:30963
 Alvin e os Esquilos (2007)	dub=18:6477,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766335.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8598.mp4
 Alvin e os Esquilos 2 (2009)	dub=18:23398,https://embedplayer2.xyz/cdn/hls/5cdd415724789b5f274ac51652265297/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766222.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768729.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12990.mp4
@@ -3309,7 +3187,7 @@ America	dub=18:1571988	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09283920
 America: The Motion Picture (2021)	dub=18:739542,https://embedplayer2.xyz/cdn/hls/01de910d53350e0ce44f13d86f6515f2/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761145.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1996.mp4
 American Cherry	dub=18:1089370,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315413.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315414.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315409.mp4
 American Dragons: Os Vingadores	dub=18:88297
-American Dream	leg=18:820151.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63662.mp4
+American Dream	leg=18:820151.mp4?lang=leg,18:777670.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63662.mp4
 American Dream - Um Reality Sangrento	dub=18:726507,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752228.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47634.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63677.mp4
 American Dresser	dub=18:548786,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764699.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23554.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63672.mp4
 American Girl Acampamento de Verão - Amigas Para Sempre	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307369.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307386.mp4
@@ -3618,7 +3496,6 @@ Anatomia de uma Queda (2023)	dub=18:915935,https://embedplayer2.xyz/cdn/hls/bba4
 Anavitória: Araguaína - Las Vegas	dub=18:584038
 Ancestral Visions of the Future	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312042.mp4
 Ancien e o Mundo Mágico	dub=18:428288,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754802.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8632.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64119.mp4
-And A Big Pussy Creampie	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2771554.mp4
 And Cum In Mouth	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772749.mp4
 And Mrs (2024)	dub=18:1036921,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754154.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766852.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13142.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64129.mp4
 Andança: Os Encontros e as Memórias de Beth Carvalho (2022)	dub=18:1030620,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759721.mp4
@@ -4124,7 +4001,6 @@ As Brumas de Avalon	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/27645
 As Bruxas Amish	dub=18:424996
 As Bruxas de Eastwick (1987)	dub=18:6069,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773416.mp4
 As Bruxas de Zugarramurdi	dub=18:179538
-As Cangaceiras Eróticas	dub=18:376889,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760337.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2123.mp4
 As Canções	dub=18:254527
 As Cariocas	dub=18:279609
 As Coisas Engraçadas do Amor	dub=18:39140
@@ -4635,7 +4511,7 @@ Ausência	dub=18:298013
 Ausência de Malícia (1981)	dub=18:19429
 Authentic Games O Filme - No Imperio Desconectado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311089.mp4
 Authentic Games: No Império Desconectado	dub=18:1662168,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750354.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311233.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311242.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311235.mp4
-Autobiografia di una Borsetta	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65456.mp4
+Autobiografia di una Borsetta	leg=18:1433914.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65456.mp4
 Autoconfiança (2024)	dub=18:1072876,https://embedplayer2.xyz/cdn/hls/694e8138bf4e8deb247b731ff2ee8cc2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54775.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756009.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767637.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13416.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65472.mp4
 Autodestruição	dub=18:423988
 Autoescola para Mulheres Sauditas (2019)	dub=18:642239,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759897.mp4

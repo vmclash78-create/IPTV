@@ -931,10 +931,10 @@
 1	6	dub	19:129398/1/6,https://embedplayer2.xyz/cdn/hls/3077792790071c285f8f6548a3e3f368/master.txt,http://64.31.23.207:80/series/96795792/50165825/5640813.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633049.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126014.mp4
 1	7	dub	19:129398/1/7,https://embedplayer2.xyz/cdn/hls/6626b31a86dde9d6a295892d3ffef261/master.txt,http://64.31.23.207:80/series/96795792/50165825/5640814.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633050.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126015.mp4
 @O Sinal	2024
-1	1	dub	https://embedplayer2.xyz/cdn/hls/da7a2070c5ccd25e02e648ce26af743f/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639501.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521738.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149547.mp4
-1	2	dub	https://embedplayer2.xyz/cdn/hls/495c5b8e4229add09517869eac99c13f/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639502.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521739.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149548.mp4
-1	3	dub	https://embedplayer2.xyz/cdn/hls/5388b7c67ffc24eb6dfa802fad33fca2/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639503.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521740.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149549.mp4
-1	4	dub	https://embedplayer2.xyz/cdn/hls/fd07acff8caf98cc3b616644f7a668a4/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639504.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521741.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149550.mp4
+1	1	dub	19:241473/1/1,https://embedplayer2.xyz/cdn/hls/da7a2070c5ccd25e02e648ce26af743f/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639501.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521738.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149547.mp4
+1	2	dub	19:241473/1/2,https://embedplayer2.xyz/cdn/hls/495c5b8e4229add09517869eac99c13f/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639502.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521739.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149548.mp4
+1	3	dub	19:241473/1/3,https://embedplayer2.xyz/cdn/hls/5388b7c67ffc24eb6dfa802fad33fca2/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639503.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521740.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149549.mp4
+1	4	dub	19:241473/1/4,https://embedplayer2.xyz/cdn/hls/fd07acff8caf98cc3b616644f7a668a4/master.txt,http://64.31.23.207:80/series/96795792/50165825/5639504.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521741.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149550.mp4
 @O Sistema
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5481911.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5481912.mp4
@@ -943,12 +943,12 @@
 1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5481915.mp4
 1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5481916.mp4
 @O Som da Magia
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5614127.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521752.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149541.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5614128.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521753.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149542.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5614129.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521754.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149543.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5614130.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521755.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149544.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5614131.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521756.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149545.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5614132.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521757.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149546.mp4
+1	1	dub	19:123349/1/1,http://64.31.23.207:80/series/96795792/50165825/5614127.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521752.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149541.mp4
+1	2	dub	19:123349/1/2,http://64.31.23.207:80/series/96795792/50165825/5614128.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521753.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149542.mp4
+1	3	dub	19:123349/1/3,http://64.31.23.207:80/series/96795792/50165825/5614129.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521754.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149543.mp4
+1	4	dub	19:123349/1/4,http://64.31.23.207:80/series/96795792/50165825/5614130.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521755.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149544.mp4
+1	5	dub	19:123349/1/5,http://64.31.23.207:80/series/96795792/50165825/5614131.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521756.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149545.mp4
+1	6	dub	19:123349/1/6,http://64.31.23.207:80/series/96795792/50165825/5614132.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521757.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149546.mp4
 @O Som e a Silaba
 1	1	dub	19:214217/1/1,http://64.31.23.207:80/series/96795792/50165825/5644493.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2576643.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70146.mp4
 1	2	dub	19:214217/1/2,http://64.31.23.207:80/series/96795792/50165825/5644494.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2576644.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70147.mp4

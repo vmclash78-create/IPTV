@@ -503,7 +503,7 @@ Pequenos Invasores (2009)	dub=18:20856,https://embedplayer2.xyz/cdn/hls/4cb151c3
 Pequenos Milagres	dub=18:59392
 Pequenos Monstros	dub=18:503125,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758151.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51256.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301219.mp4
 Pequenos Mágicos (2022)	dub=18:1035573,https://embedplayer2.xyz/cdn/hls/30be0155753eb1e2b0966b0902a3fb11/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753990.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53225.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86084.mp4
-Pequenos Pecados	dub=18:1019871,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750826.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309211.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751138.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255392.mp4
+Pequenos Pecados	dub=18:1019871,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750826.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309211.mp4	leg=18:1019871.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751138.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255392.mp4
 Pequenos Segredos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310661.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310691.mp4
 Per Aspera Ad Astra	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750909.mp4
 Per questa notte	dub=18:392442
@@ -621,6 +621,7 @@ Perseguição às Bruxas	dub=18:670429,http://acaidopt.org:80/movie/3llohwk4g9/k
 Personal Shopper (2016)	dub=18:340676
 Personal Vivator	dub=18:654628,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314629.mp4
 Persuasao (2022)	dub=18:820912,18:17015,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753683.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42642.mp4	leg=18:820912.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86243.mp4
+Persépolis	dub=18:2011
 Perto de Você (2024)	dub=18:1139467,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756887.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30605.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86246.mp4
 Perto do Sol é Mais Claro	dub=18:1541612,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750340.mp4
 Perturbado Pelo Passado	dub=18:1380279,https://embedplayer2.xyz/cdn/hls/ef0e96828eec347ffb3f50cfdc9a7f64/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255743.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255754.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751309.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255746.mp4
@@ -684,6 +685,7 @@ Pica-Pau,o Mata Gigante	dub=18:237160
 Picardias Estudantis	dub=18:13342
 Picasso Um Rebelde em Paris	dub=18:1193322	leg=18:1193322.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314561.mp4
 Pickings	dub=18:457312	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86338.mp4
+Picnic na Montanha Misteriosa	leg=18:11020.mp4?lang=leg
 Picture Perfect Lies	dub=18:785001,https://embedplayer2.xyz/cdn/hls/3eaa382c4611a8f232a8134bb59720d1/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751894.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53532.mp4
 Pieces of a Woman (2020)	dub=18:641662,https://embedplayer2.xyz/cdn/hls/8727c11c40ee4bfd409b1419bafc7621/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763331.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30624.mp4
 Piedade	dub=18:440844,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757739.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39111.mp4
@@ -968,8 +970,6 @@ Porky's 2: O Dia Seguinte	dub=18:19698,http://acaidopt.org:80/movie/3llohwk4g9/k
 Porky's 3 Porky's Contra-Ataca	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18818.mp4
 Porky's Contra-Ataca	dub=18:23919,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768540.mp4
 Porky's: A Casa do Amor e do Riso	dub=18:10246,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766819.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18822.mp4
-Pornhub: Sexo Bilionário	dub=18:1087040,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312539.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760034.mp4
-Pornô: Sedutora e Fatal	dub=18:576004,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758227.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51378.mp4
 Poropopó	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751092.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254285.mp4
 Pororo - Aventuras no Castelo do Dragão	dub=18:979688,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766577.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10963.mp4
 Porque Choram os Homens	dub=18:29572
@@ -1037,7 +1037,7 @@ Pranto Maldito	dub=18:775943	leg=18:775943.mp4?lang=leg
 Prata Maldita	dub=18:336495
 Prateados: A Vida em Tempos de Madureza	dub=18:840198,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759532.mp4
 Pray Away	dub=18:685264,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759578.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86751.mp4
-Prazer Sem Limites	dub=18:4995,18:1078920,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756732.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762281.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30741.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86755.mp4
+Prazer Sem Limites	dub=18:4995,18:1078920,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756732.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762281.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30741.mp4	leg=18:4995.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86755.mp4
 Prazer em Conhecer	dub=18:763268,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315709.mp4
 Prazer, Kalinda	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764548.mp4
 Prazeres Mortais	dub=18:72784,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752672.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45718.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307414.mp4
@@ -1282,7 +1282,7 @@ Protegendo o Paraíso: A História de Niue (2024)	dub=18:1300132,https://embedpl
 Protegida Por um Anjo	dub=18:9756,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255482.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255463.mp4
 Proteção à Testemunha	dub=18:98431,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762103.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30826.mp4
 Protocolo de Extermínio	dub=18:1284046
-Protocolo de Fuga	dub=18:1293167.m3u8
+Protocolo de Fuga	dub=18:1293167.m3u8,18:1293167
 Proud Mary - A Profissional (2018)	dub=18:442064
 Prova Final	dub=18:9276,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759371.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51496.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87059.mp4
 Prova de Coragem	dub=18:352996,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253349.mp4

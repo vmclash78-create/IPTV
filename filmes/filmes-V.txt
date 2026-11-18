@@ -409,7 +409,7 @@ Vingança em Duas Rodas	dub=18:847738,http://acaidopt.org:80/movie/3llohwk4g9/kw
 Vingança no Deserto	dub=18:1292906,https://embedplayer2.xyz/cdn/hls/5c490d08e01c98690ee0d4f06312bb8c/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752068.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1311.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95529.mp4
 Vingança no Oeste	dub=18:540977,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753858.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755966.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35334.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95534.mp4
 Vingança à Queima-Roupa	dub=18:56125,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760966.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8122.mp4
-Vingt Dieux	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95539.mp4
+Vingt Dieux	leg=18:1079310.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95539.mp4
 Vinho De Verão	dub=18:357110
 Vini	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95561.mp4
 Vinicius	dub=18:74482,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759932.mp4

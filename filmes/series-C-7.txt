@@ -1,3 +1,32 @@
+@Criadores de Diversão
+1	1	dub	19:157429/1/1,http://64.31.23.207:80/series/96795792/50165825/5611043.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510917.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137624.mp4
+1	2	dub	19:157429/1/2,http://64.31.23.207:80/series/96795792/50165825/5611044.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510918.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137625.mp4
+1	3	dub	19:157429/1/3,http://64.31.23.207:80/series/96795792/50165825/5611045.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510919.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137626.mp4
+1	4	dub	19:157429/1/4,http://64.31.23.207:80/series/96795792/50165825/5611046.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510920.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137627.mp4
+1	5	dub	19:157429/1/5,http://64.31.23.207:80/series/96795792/50165825/5611047.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510921.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137628.mp4
+1	6	dub	19:157429/1/6,http://64.31.23.207:80/series/96795792/50165825/5611048.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510922.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137629.mp4
+1	7	dub	19:157429/1/7,http://64.31.23.207:80/series/96795792/50165825/5611049.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510923.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137630.mp4
+1	8	dub	19:157429/1/8,http://64.31.23.207:80/series/96795792/50165825/5611050.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2510924.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/137631.mp4
+@Criadores de Supercarros
+1	1	dub	19:84751/1/1,http://64.31.23.207:80/series/96795792/50165825/5542444.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570938.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61780.mp4
+1	2	dub	19:84751/1/2,http://64.31.23.207:80/series/96795792/50165825/5542445.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570939.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61781.mp4
+1	3	dub	19:84751/1/3,http://64.31.23.207:80/series/96795792/50165825/5542446.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570940.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61783.mp4
+1	4	dub	19:84751/1/4,http://64.31.23.207:80/series/96795792/50165825/5542447.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570941.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61784.mp4
+1	5	dub	19:84751/1/5,http://64.31.23.207:80/series/96795792/50165825/5542448.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570942.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61785.mp4
+1	6	dub	19:84751/1/6,http://64.31.23.207:80/series/96795792/50165825/5542449.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570943.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61786.mp4
+1	7	dub	19:84751/1/7,http://64.31.23.207:80/series/96795792/50165825/5542450.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570944.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61787.mp4
+1	8	dub	19:84751/1/8,http://64.31.23.207:80/series/96795792/50165825/5542451.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570945.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61789.mp4
+1	9	dub	19:84751/1/9,http://64.31.23.207:80/series/96795792/50165825/5542452.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570946.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61790.mp4
+1	10	dub	19:84751/1/10,http://64.31.23.207:80/series/96795792/50165825/5542453.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2570947.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61791.mp4
+2	1	dub	19:84751/2/1
+2	2	dub	19:84751/2/2
+2	3	dub	19:84751/2/3
+2	4	dub	19:84751/2/4
+2	5	dub	19:84751/2/5
+@Criadores do Futuro
+1	1	dub	19:136710/1/1,http://64.31.23.207:80/series/96795792/50165825/5559134.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2656331.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61793.mp4
+1	2	dub	19:136710/1/2,http://64.31.23.207:80/series/96795792/50165825/5559135.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2656332.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61795.mp4
+1	3	dub	19:136710/1/3,http://64.31.23.207:80/series/96795792/50165825/5559136.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2656333.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/61796.mp4
 @Criando Delicias
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670152.mp4
 1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670153.mp4

@@ -239,7 +239,6 @@ Segredos Sordidos Dean Corll e John Wayne Gacy		1	2
 Segredos da Gravidez: Meu Marido é Perigoso e Irresistível		1	1
 Segredos da NASA		1	54
 Segredos da Orquídea		2	59
-Segredos da Playboy		2	20
 Segredos da Vida - Hayat Sirlari		2	11
 Segredos das Abelhas		2	2
 Segredos das Bases Nazistas		2	6
@@ -694,7 +693,7 @@ Sound! Euphonium		5	40
 Soundtrack #1		5	4
 Soundtrack #2		5	12
 Soushin Shoujo Matoi		5	12
-South Park		5	351
+South Park		5	352
 South Side		5	28
 South of Hell - Caçadores de Demônios		5	8
 Southland Cidade do Crime		5	43

@@ -1777,12 +1777,12 @@
 1	2	dub	19:84534/1/2,http://64.31.23.207:80/series/96795792/50165825/5571493.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2608108.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/215051.mp4
 1	3	dub	19:84534/1/3,http://64.31.23.207:80/series/96795792/50165825/5571494.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2608109.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/215052.mp4
 @Morte e Mentiras
-1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147493.mp4
-1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147494.mp4
-1	3	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147495.mp4
-1	4	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147496.mp4
-1	5	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147497.mp4
-1	6	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147498.mp4
+1	1	dub	19:202886/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147493.mp4
+1	2	dub	19:202886/1/2,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147494.mp4
+1	3	dub	19:202886/1/3,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147495.mp4
+1	4	dub	19:202886/1/4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147496.mp4
+1	5	dub	19:202886/1/5,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147497.mp4
+1	6	dub	19:202886/1/6,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147498.mp4
 @Morte e Mistério na Amazônia
 1	1	dub	19:334011/1/1,http://64.31.23.207:80/series/96795792/50165825/5666009.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2476059.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316277.mp4
 1	2	dub	19:334011/1/2,http://64.31.23.207:80/series/96795792/50165825/5666010.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2476060.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316278.mp4

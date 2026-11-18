@@ -331,7 +331,7 @@ O Jogo da Piramide		2	19
 O Jogo da Vida - Tozluyaka		2	18
 O Jogo da Vitima		2	16
 O Jogo das Chaves		2	27
-O Jogo do Diabo		2	24
+O Jogo do Diabo		2	34
 O Jovem Papa		2	10
 O Jovem Wallander		2	12
 O Juiz do Diabo		2	32
