@@ -1,3 +1,7 @@
+@O Cerco de Waco
+1	1	dub	19:220229/1/1,http://64.31.23.207:80/series/96795792/50165825/5627630.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2520893.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148382.mp4
+1	2	dub	19:220229/1/2,http://64.31.23.207:80/series/96795792/50165825/5627631.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2520894.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148383.mp4
+1	3	dub	19:220229/1/3,http://64.31.23.207:80/series/96795792/50165825/5627632.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2520895.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148384.mp4
 @O Chefe da Casa	2016
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5548824.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/230281.mp4
 1	2	dub	https://embedplayer2.xyz/cdn/hls/5cce8fd467bea2c0a9bdc1a8d1225c96/master.txt,http://64.31.23.207:80/series/96795792/50165825/5548825.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/230282.mp4
@@ -301,12 +305,18 @@
 1	21	dub	19:37664/1/21,http://64.31.23.207:80/series/96795792/50165825/5502312.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696983.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/255009.mp4
 1	22	dub	19:37664/1/22,http://64.31.23.207:80/series/96795792/50165825/5502313.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696984.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/255010.mp4
 @O Cla Olimpia Uma Historia de Redencao
-1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680457.mp4
-1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680458.mp4
-1	3	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680459.mp4
-1	4	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680460.mp4
-1	5	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680461.mp4
-1	6	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680462.mp4
+1	1	dub	19:280878/1/1
+1	1	leg	19:280878/1/1.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680457.mp4
+1	2	dub	19:280878/1/2
+1	2	leg	19:280878/1/2.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680458.mp4
+1	3	dub	19:280878/1/3
+1	3	leg	19:280878/1/3.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680459.mp4
+1	4	dub	19:280878/1/4
+1	4	leg	19:280878/1/4.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680460.mp4
+1	5	dub	19:280878/1/5
+1	5	leg	19:280878/1/5.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680461.mp4
+1	6	dub	19:280878/1/6
+1	6	leg	19:280878/1/6.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680462.mp4
 @O Clandestino
 1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 @O Clone
@@ -3241,7 +3251,3 @@
 1	6	dub	19:210235/1/6,http://64.31.23.207:80/series/96795792/50165825/5621156.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521207.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148717.mp4
 1	7	dub	19:210235/1/7,http://64.31.23.207:80/series/96795792/50165825/5621157.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521208.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148718.mp4
 1	8	dub	19:210235/1/8,http://64.31.23.207:80/series/96795792/50165825/5621158.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521209.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148719.mp4
-@O Fim da Beleza
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5610485.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2480333.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35005.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5610486.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2480334.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35007.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5610487.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2480335.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35008.mp4

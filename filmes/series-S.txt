@@ -1,7 +1,7 @@
 S&X		0	7
 S.M.A.S.H.! Acampamento de Super-Heróis		0	13
 S.O.Z: Soldados ou Zumbis		0	8
-S.W.A.T. Exiles		0	12
+S.W.A.T. Exiles		0	16
 S.W.A.T.: Força de Intervenção		0	241
 SAF3		0	18
 SAKAMOTO DAYS	2025	0	22
@@ -58,7 +58,7 @@ Sacha		0	3
 Saco de Ossos		0	2
 Sacred Seven		0	12
 Sacrificio - Fedakar		0	50
-Sacrifício		0	19
+Sacrifício		0	20
 Sacrifício de Sangue	2026	0	5
 Safe	2018	0	8
 Safe Harbor		0	8
@@ -434,7 +434,7 @@ She Professed Herself Pupil of the Wise Man		3	12
 She Would Never Know		3	16
 She the People		3	8
 She-Ra e as Princesas do Poder		3	52
-Sheriff Country	2025	3	42
+Sheriff Country	2025	3	44
 Sheriff Labrador		3	11
 Sherlock	2010	3	13
 Sherlock Holmes		3	26
@@ -533,7 +533,7 @@ Sitiados: México		4	8
 Skeleton Knight in Another World		4	12
 Sket Dance		4	77
 Skins - Juventude à flor da pele		4	61
-Skins UK		4	6
+Skins UK		4	25
 Skip Beat		4	25
 Skip and Loafer		4	12
 Skip to Loafer		4	12

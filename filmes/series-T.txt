@@ -271,6 +271,7 @@ The Comey Rule		2	4
 The Confession Tapes		2	7
 The Conners		2	18
 The Control Room		2	3
+The Cool Kids		2	9
 The Copenhagen Test		2	16
 The Crazy Ones		2	22
 The Creep Tapes		2	6
@@ -357,7 +358,7 @@ The Founder of Diabolism Q		2	30
 The Fox's Summer		2	88
 The Fragrant Flower Blooms With Dignity		2	23
 The Frontier Lord Begins with Zero Subjects		2	6
-The Fruit of Evolution: Before I Knew It, My Life Had It Made		2	12
+The Fruit of Evolution: Before I Knew It, My Life Had It Made		3	12
 The Future Diary		3	26
 The Game		3	24
 The Game Towards Zero		3	32
@@ -442,7 +443,7 @@ The L Word		3	125
 The L Word- Generation Q		3	8
 The L Word: Geração Q		3	30
 The Lady And The Dale		3	4
-The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life		3	12
+The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life		3	14
 The Land Of Warriors		3	76
 The Larkins		3	12
 The Last Dance		3	4
@@ -477,7 +478,7 @@ The Magicians: Escola de Magia		3	65
 The Mallorca Files		3	18
 The Man Who Fell to Earth		3	10
 The Mandalorian	2019	3	24
-The Masked Singer Brasil		3	61
+The Masked Singer Brasil		4	61
 The Master of Diabolism		4	35
 The Master of Ragnarok & Blesser of Einherjar		4	12
 The Matchmakers		4	12
@@ -597,7 +598,7 @@ The Strongest Magician in the Demon Lord's Army Was a Human		4	12
 The Strongest Sage With the Weakest Crest		4	12
 The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-		4	12
 The Swarm		4	13
-The Taste Brasil		4	70
+The Taste Brasil		5	70
 The Tasty Florida		5	8
 The Teacher		5	4
 The Tech Bro Murders		5	6
@@ -717,7 +718,7 @@ Tis Time for Torture Princess		5	1
 Titanic		5	4
 Titans	2018	5	4
 Titio Avô		5	24
-Titã Simbiônico		5	20
+Titã Simbiônico		6	20
 Titãs		6	49
 To Lose - Ayrilik da Sevdaya Dahil		6	16
 To Love & Cherish		6	4
@@ -837,7 +838,7 @@ Traição		6	16
 Transamazônica: Uma Estrada para o Passado		6	6
 Transatlântico		6	7
 Transformers Cyberverse		6	62
-Transformers: A Centelha da Terra	2022	6	39
+Transformers: A Centelha da Terra	2022	7	39
 Transformers: Prime		7	65
 Transformers: War for Cybertron: O Cerco		7	18
 Transformers: War for Cybertron: O Nascer da Terra		7	6
@@ -957,7 +958,7 @@ Turkey! Time to Strike		7	10
 Turma CoComelon		7	9
 Turma da Monica		7	224
 Turma da Monica Jovem		7	26
-Turma da Monica Origens		7	8
+Turma da Monica Origens		8	8
 Turma da Mônica - A Série		8	8
 Turma do Barulho		8	46
 Turner E Hooch		8	12

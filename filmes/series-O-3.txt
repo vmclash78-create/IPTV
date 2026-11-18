@@ -1,3 +1,23 @@
+@O Maestro e o Mar	2022
+1	1	dub	19:209504/1/1,https://embedplayer2.xyz/cdn/hls/e64f494a3bc8461740c425a06acab64d/master.txt,http://64.31.23.207:80/series/96795792/50165825/5620321.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521331.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148846.mp4
+1	2	dub	19:209504/1/2,http://64.31.23.207:80/series/96795792/50165825/5620322.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521332.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148847.mp4
+1	3	dub	19:209504/1/3,http://64.31.23.207:80/series/96795792/50165825/5620323.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521333.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148848.mp4
+1	4	dub	19:209504/1/4,http://64.31.23.207:80/series/96795792/50165825/5620324.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521334.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148849.mp4
+1	5	dub	19:209504/1/5,http://64.31.23.207:80/series/96795792/50165825/5620325.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521335.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148850.mp4
+1	6	dub	19:209504/1/6,https://embedplayer2.xyz/cdn/hls/0397d78d541a16037e874c5575143ef6/master.txt,http://64.31.23.207:80/series/96795792/50165825/5620326.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521336.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148851.mp4
+1	7	dub	19:209504/1/7,http://64.31.23.207:80/series/96795792/50165825/5620327.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521337.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148852.mp4
+1	8	dub	19:209504/1/8,http://64.31.23.207:80/series/96795792/50165825/5620328.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521338.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148853.mp4
+1	9	dub	19:209504/1/9,http://64.31.23.207:80/series/96795792/50165825/5620329.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521339.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148854.mp4
+2	1	dub	http://64.31.23.207:80/series/96795792/50165825/5620330.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521340.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148855.mp4
+2	2	dub	http://64.31.23.207:80/series/96795792/50165825/5620331.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521341.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148856.mp4
+2	3	dub	http://64.31.23.207:80/series/96795792/50165825/5620332.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521342.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148857.mp4
+2	4	dub	http://64.31.23.207:80/series/96795792/50165825/5620333.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521343.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148858.mp4
+2	5	dub	http://64.31.23.207:80/series/96795792/50165825/5620334.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521344.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148859.mp4
+2	6	dub	http://64.31.23.207:80/series/96795792/50165825/5620335.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521345.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148860.mp4
+3	1	dub	http://64.31.23.207:80/series/96795792/50165825/5620336.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521346.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148861.mp4
+3	2	dub	http://64.31.23.207:80/series/96795792/50165825/5620337.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521347.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148862.mp4
+3	3	dub	http://64.31.23.207:80/series/96795792/50165825/5620338.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521348.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148863.mp4
+3	4	dub	http://64.31.23.207:80/series/96795792/50165825/5620339.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521349.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148864.mp4
 @O Maior Assalto
 1	1	leg	19:104555/1/1.mp4?lang=leg
 1	2	leg	19:104555/1/2.mp4?lang=leg
@@ -1298,8 +1318,10 @@
 1	2	dub	19:309693/1/2,http://64.31.23.207:80/series/96795792/50165825/5659575.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2659706.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/245974.mp4
 1	3	dub	19:309693/1/3,http://64.31.23.207:80/series/96795792/50165825/5659576.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2659707.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/245975.mp4
 @O Misterioso Caso do Homem sem Coracao
-1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680663.mp4
-1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680664.mp4
+1	1	dub	19:202674/1/1
+1	1	leg	19:202674/1/1.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680663.mp4
+1	2	dub	19:202674/1/2
+1	2	leg	19:202674/1/2.mp4?lang=leg,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2680664.mp4
 @O Misterioso Mundo dos Sons com David Attenborough	2024
 1	1	dub	https://embedplayer2.xyz/cdn/hls/67af2ca1e7710c4f30437bdb4c882bf2/master.txt,http://64.31.23.207:80/series/96795792/50165825/5668381.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521866.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148997.mp4
 1	2	dub	https://embedplayer2.xyz/cdn/hls/67ad7b0272d80c4591919f19139f812d/master.txt,http://64.31.23.207:80/series/96795792/50165825/5668382.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2521867.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148998.mp4
@@ -4323,10 +4345,3 @@
 1	7	dub	19:252135/1/7,http://64.31.23.207:80/series/96795792/50165825/5657147.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2653192.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149130.mp4
 1	8	dub	19:252135/1/8,http://64.31.23.207:80/series/96795792/50165825/5657148.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2653193.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149131.mp4
 1	9	dub	19:252135/1/9,https://embedplayer2.xyz/cdn/hls/99cabb8b37eef0b21b9aae74149b6571/master.txt,http://64.31.23.207:80/series/96795792/50165825/5657149.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2653194.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149132.mp4
-@O Plano é Esse
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5605057.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2490644.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107910.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5605058.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2490645.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107911.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5605059.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2490646.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107912.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5605060.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2490647.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107913.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5605061.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2490648.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107914.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5605062.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2490649.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107915.mp4

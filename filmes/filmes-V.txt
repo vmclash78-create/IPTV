@@ -602,7 +602,7 @@ Vovó... Zona 3: Tal Pai, Tal Filho	dub=18:38322,http://acaidopt.org:80/movie/3l
 Vox Lux: O Preço da Fama	dub=18:429202,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763060.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33214.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310704.mp4
 Voyagers	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95812.mp4
 Voz Interior do Bebê: Agarra-se às Abas do Papai!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98173.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302621.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302631.mp4
-Vozes	dub=18:726208,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52719.mp4
+Vozes (2020)	dub=18:726208,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52719.mp4
 Vozes da Escuridão	dub=18:409297,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758414.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52706.mp4
 Vozes do Além	dub=18:11804
 Vozes do Passado (2020)	dub=18:719033,18:74027,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52708.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95823.mp4

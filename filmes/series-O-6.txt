@@ -1,3 +1,12 @@
+@Objetos Cortantes
+1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5566697.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633088.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126125.mp4
+1	2	dub	19:70453/1/2,http://64.31.23.207:80/series/96795792/50165825/5566698.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633089.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126126.mp4
+1	3	dub	19:70453/1/3,http://64.31.23.207:80/series/96795792/50165825/5566699.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633090.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126127.mp4
+1	4	dub	19:70453/1/4,http://64.31.23.207:80/series/96795792/50165825/5566700.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633091.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126128.mp4
+1	5	dub	19:70453/1/5,http://64.31.23.207:80/series/96795792/50165825/5566701.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633092.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126129.mp4
+1	6	dub	19:70453/1/6,http://64.31.23.207:80/series/96795792/50165825/5566702.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633093.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126130.mp4
+1	7	dub	19:70453/1/7,http://64.31.23.207:80/series/96795792/50165825/5566703.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633094.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126131.mp4
+1	8	dub	19:70453/1/8,http://64.31.23.207:80/series/96795792/50165825/5566704.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2633095.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126132.mp4
 @Oblivion Battery
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681111.mp4
 1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2681112.mp4
@@ -1485,6 +1494,8 @@
 1	14	leg	19:319938/1/14.mp4?lang=leg
 1	15	dub	19:319938/1/15
 1	15	leg	19:319938/1/15.mp4?lang=leg
+1	16	dub	19:319938/1/16
+1	16	leg	19:319938/1/16.mp4?lang=leg
 @On My Block	2018
 1	1	dub	19:76747/1/1,http://64.31.23.207:80/series/96795792/50165825/5563469.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2522335.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149869.mp4
 1	2	dub	19:76747/1/2,http://64.31.23.207:80/series/96795792/50165825/5563470.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2522336.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149870.mp4
@@ -4822,10 +4833,3 @@
 @Operación triunfo
 1	1	dub	19:12513/1/1
 1	2	dub	19:12513/1/2
-@Operation Buffalo
-1	1	leg	19:99940/1/1.mp4?lang=leg
-1	2	leg	19:99940/1/2.mp4?lang=leg
-1	3	leg	19:99940/1/3.mp4?lang=leg
-1	4	leg	19:99940/1/4.mp4?lang=leg
-1	5	leg	19:99940/1/5.mp4?lang=leg
-1	6	leg	19:99940/1/6.mp4?lang=leg

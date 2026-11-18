@@ -39,7 +39,7 @@ Kamen Rider Build		0	49
 Kamen Rider Gavv		0	100
 Kamen Rider Gotchard		0	100
 Kamen Rider Greats		0	49
-Kamen Rider MY-TH		0	9
+Kamen Rider MY-TH		0	10
 Kamen Rider ZEZTZ		0	50
 Kamen Rider Zero-One		0	92
 Kami Kuzu Idol		0	10

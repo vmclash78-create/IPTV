@@ -33,6 +33,7 @@ O Anjo do Amor		0	16
 O Anjo do Mar		0	8
 O Ano Em Que A Música Mudou O Mundo		0	8
 O Anti Heroi		0	10
+O Anuário de Darwin		0	6
 O Aquario		0	20
 O Aristocrata Decadente		0	6
 O Aroma do Tempo		0	60
@@ -117,7 +118,7 @@ O Cativeiro - Esaret		0	557
 O Cavaleiro dos Sete Reinos	2026	0	6
 O Cavalheiro - Delikanli		0	7
 O Cavalo Amarelo		0	5
-O Cerco de Waco		0	3
+O Cerco de Waco		1	3
 O Chefe da Casa	2016	1	56
 O Chefinho: De Volta ao Berço		1	28
 O Chefinho: De Volta aos Negócios	2018	1	47
@@ -127,7 +128,7 @@ O Circo da Paixão		1	15
 O Circulo		1	80
 O Circulo - Halka		1	19
 O Circulo Secreto		1	22
-O Cla Olimpia Uma Historia de Redencao		1	6
+O Cla Olimpia Uma Historia de Redencao		1	12
 O Clandestino		1	1
 O Clone		1	252
 O Clube - The Club		1	29
@@ -237,7 +238,7 @@ O Fantástico Mundo de Bobby		1	78
 O Farejador		1	32
 O Faz Nada		1	5
 O Filho Bastardo do Diabo		1	8
-O Fim da Beleza		1	3
+O Fim da Beleza		2	3
 O Fim da Infância		2	3
 O Fim do Amor		2	10
 O Fim do Mundo		2	35
@@ -357,7 +358,7 @@ O Livro de Amigos de Natsume		2	13
 O Livro de Boba Fett	2021	2	7
 O Lobista		2	10
 O Lobo		2	49
-O Maestro e o Mar	2022	2	19
+O Maestro e o Mar	2022	3	19
 O Maior Assalto		3	6
 O Maior Roubo de Arte de Todos os Tempos		3	4
 O Mal na sua Essencia A Historia de Hadden Clark		3	5
@@ -391,7 +392,7 @@ O Ministério do Tempo	2015	3	25
 O Misteio da Rota 20		3	3
 O Misterio de Midwich	2022	3	14
 O Misterio de Varginha		3	3
-O Misterioso Caso do Homem sem Coracao		3	2
+O Misterioso Caso do Homem sem Coracao		3	4
 O Misterioso Mundo dos Sons com David Attenborough	2024	3	3
 O Misterioso Triângulo do Alasca		3	20
 O Mistério da Cidade do Dragão		3	24
@@ -477,7 +478,7 @@ O Picapau Amarelo		3	49
 O Piloto Invisível		3	3
 O Pior do Mal		3	24
 O Plano de Ressurreicao	2025	3	9
-O Plano é Esse		3	6
+O Plano é Esse		4	6
 O Poder		4	9
 O Poder de Hitler		4	3
 O Poder e a Lei	2022	4	40
@@ -597,7 +598,7 @@ O Segredo do Templo - Atiye		4	24
 O Segredo dos Animais A Serie		4	51
 O Segundo Melhor Hospital da Galáxia		4	16
 O Senhor das Moscas	2026	4	4
-O Senhor dos Anéis: Os Anéis de Poder	2022	4	28
+O Senhor dos Anéis: Os Anéis de Poder	2022	5	28
 O Senhor e a Serva		5	10
 O Sequestro do Voo 601		5	6
 O Servente Supremo		5	1
@@ -717,7 +718,7 @@ Obi-Wan Kenobi		5	6
 Obituary		5	6
 Objecao - Sakincali		5	5
 Objetos Amaldicoados		5	8
-Objetos Cortantes		5	8
+Objetos Cortantes		6	8
 Oblivion Battery		6	12
 Observando Elena Evoy		6	1
 Obsess		6	4
@@ -785,7 +786,7 @@ Omae wa Mada Gunma wo Shiranai		6	12
 Omamori Himari		6	11
 Omar - Omer		6	54
 Omar ‎		6	30
-Omegahorn		6	30
+Omegahorn		6	32
 On My Block	2018	6	38
 On the Edge: World Cup Ski Racing		6	5
 Once Again		6	8
@@ -837,7 +838,7 @@ Operacao Fronteira Suecia		6	14
 Operacao Guerra Verde		6	10
 Operacao Policial		6	55
 Operación triunfo		6	2
-Operation Buffalo		6	6
+Operation Buffalo		7	6
 Operação Alto Mar: Estados Unidos		7	12
 Operação Berlim	2016	7	29
 Operação Big Hero: A Série		7	46
@@ -881,6 +882,7 @@ Orphan Black: Echoes		7	9
 Os		7	45
 Os 100		7	112
 Os 12 Macacos	2015	7	46
+Os 12 Signos de Valentina		7	8
 Os 13 Fantasmas do Scooby-Doo		7	13
 Os 20 dias de Lazaro		7	6
 Os 24 Estratagemas de Changan		7	1
@@ -956,8 +958,8 @@ Os Escolhidos à Prova De Tudo Com Bear Grylls		7	6
 Os Experientes		7	7
 Os Fantasmas de Devil Perch		7	1
 Os Farad		7	8
-Os Feiticeiros Alem de Waverly Place	2024	7	35
-Os Feiticeiros De Waverly Place		7	106
+Os Feiticeiros Alem de Waverly Place	2024	8	35
+Os Feiticeiros De Waverly Place		8	106
 Os Filhos da Guerra		8	2
 Os Filhos de Sam: Loucura e Conspiração		8	4
 Os Fios do Passado - Los Hilos del Pasado		8	60
@@ -1076,8 +1078,8 @@ Os Thundermans Disfarcados		8	26
 Os Top Dez dos Anos 80		8	6
 Os Trapalhoes		8	203
 Os Ursinhos Gummi		8	65
-Os Vingadores A Serie		8	13
-Os Vingadores Unidos		8	127
+Os Vingadores A Serie		9	13
+Os Vingadores Unidos		9	127
 Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		9	52
 Os Vivos e os Mortos		9	6
 Os Vizinhos Green		9	109

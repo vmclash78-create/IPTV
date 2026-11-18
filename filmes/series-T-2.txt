@@ -854,6 +854,16 @@
 1	1	leg	19:194637/1/1.mp4?lang=leg
 1	2	leg	19:194637/1/2.mp4?lang=leg
 1	3	leg	19:194637/1/3.mp4?lang=leg
+@The Cool Kids
+1	1	dub	19:79723/1/1
+1	2	dub	19:79723/1/2
+1	3	dub	19:79723/1/3
+1	4	dub	19:79723/1/4
+1	5	dub	19:79723/1/5
+1	6	dub	19:79723/1/6
+1	7	dub	19:79723/1/7
+1	8	dub	19:79723/1/8
+1	9	dub	19:79723/1/9
 @The Copenhagen Test
 1	1	dub	19:246412/1/1
 1	1	leg	19:246412/1/1.mp4?lang=leg
@@ -2709,16 +2719,3 @@
 1	4	leg	19:296437/1/4.mp4?lang=leg
 1	5	leg	19:296437/1/5.mp4?lang=leg
 1	6	leg	19:296437/1/6.mp4?lang=leg
-@The Fruit of Evolution: Before I Knew It, My Life Had It Made
-1	1	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545884.mp4
-1	2	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545885.mp4
-1	3	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545886.mp4
-1	4	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545887.mp4
-1	5	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545888.mp4
-1	6	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545889.mp4
-1	7	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545890.mp4
-1	8	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545891.mp4
-1	9	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545892.mp4
-1	10	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545893.mp4
-1	11	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545894.mp4
-1	12	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2545895.mp4

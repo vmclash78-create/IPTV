@@ -217,6 +217,7 @@ Goodbye, Lara		1	24
 Goop: Muito Além do Prazer		1	6
 Goosebumps	2023	1	18
 Goosebumps: O Desaparecimento		1	8
+Gordon		1	7
 Gordon Ramsay Do Inferno ao Paraiso em 24h		1	21
 Gordon Ramsay Servico Secreto		1	14
 Gordon Ramsay's Food Stars		1	15
@@ -237,7 +238,7 @@ Granblue Fantasy The Animation		1	14
 Grand Army		1	9
 Grand Hotel		1	13
 Grande Dragao		1	8
-Grande Hotel		1	42
+Grande Hotel		2	42
 Grandes Animais		2	10
 Grandes Chefs Torneio dos Campeoes		2	35
 Grandes Expectativas		2	6

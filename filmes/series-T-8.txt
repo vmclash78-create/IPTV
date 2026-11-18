@@ -1,3 +1,12 @@
+@Turma da Monica Origens
+1	1	dub	19:241818/1/1,http://64.31.23.207:80/series/96795792/50165825/5647143.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496343.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113021.mp4
+1	2	dub	19:241818/1/2,http://64.31.23.207:80/series/96795792/50165825/5647144.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496344.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113022.mp4
+1	3	dub	19:241818/1/3,http://64.31.23.207:80/series/96795792/50165825/5647145.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496345.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113023.mp4
+1	4	dub	19:241818/1/4,http://64.31.23.207:80/series/96795792/50165825/5647146.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496346.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113024.mp4
+1	5	dub	19:241818/1/5,http://64.31.23.207:80/series/96795792/50165825/5647147.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496347.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113025.mp4
+1	6	dub	19:241818/1/6,http://64.31.23.207:80/series/96795792/50165825/5647148.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496348.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113026.mp4
+1	7	dub	19:241818/1/7,http://64.31.23.207:80/series/96795792/50165825/5647149.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496349.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113027.mp4
+1	8	dub	19:241818/1/8,http://64.31.23.207:80/series/96795792/50165825/5647150.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496350.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113028.mp4
 @Turma da Mônica - A Série
 1	1	dub	19:157485/1/1,http://64.31.23.207:80/series/96795792/50165825/5616092.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496377.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113029.mp4
 1	2	dub	19:157485/1/2,http://64.31.23.207:80/series/96795792/50165825/5616093.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2496378.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/113030.mp4

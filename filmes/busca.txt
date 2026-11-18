@@ -610,7 +610,7 @@ A Arca	f	A
 A Arca das Girafas	f	A
 A Arena	s	A
 A Arma de Lizzie Borden (2014)	f	A
-A Arma Perfeita (2020)	f	A
+A Arma Perfeita	f	A
 A Arma Secreta	f	A
 A Armadilha	f	A
 A Armadilha	s	A
@@ -1618,7 +1618,6 @@ A Funeraria Dinheiro e Cinzas	s	A
 A Furia (2019)	f	A
 A Furia de Becky (2023)	f	A
 A FURIA DO VINGADOR	f	A
-A Fúria (2022)	f	A
 A Fábrica	s	A
 A Fábrica de Fake News	f	A
 A Fábrica de Humanos (2020)	f	A
@@ -1749,7 +1748,7 @@ A Grande Fraude	f	A
 A Grande Fuga	f	A
 A Grande Guerra (2019)	f	A
 A Grande Ilusao	s	A	2024
-A Grande Ilusão (2006)	f	A
+A Grande Ilusão	f	A
 A Grande Inundação (2025)	f	A
 A Grande Invasão do Balão Bomba	f	A
 A Grande Jogada (2017)	f	A
@@ -2201,7 +2200,7 @@ A Linha Vermelha do Destino	f	A
 A Lira do Delírio	f	A
 A Lista	f	A
 A Lista (2011)	f	A
-A Lista (2014)	f	A
+A Lista (2023)	f	A
 A Lista da Minha Vida (2025)	f	A
 A Lista da Vingança	f	A
 A Lista de Assassinatos	f	A
@@ -2837,7 +2836,7 @@ A Pior Pessoa do Mundo	f	A
 A Pior Vizinhança	s	A
 A PIROLISE DE UM CORACAO	f	A
 A Pirâmide	f	A
-A Piscina (2018)	f	A
+A Piscina	f	A
 A Pistola E Minha Biblia	f	A
 A Place Further Than the Universe	s	A
 A Place to Call Home	s	A
@@ -2975,7 +2974,7 @@ A Prova de Morte (2007)	f	A
 A Prova Final	f	A
 A PROXIMA REELSTAR	f	A
 A Própria Carne	f	A
-A Próxima (2019)	f	A
+A Próxima	f	A
 A Próxima Aposta	s	A
 A Próxima Pele	f	A
 A Próxima Vítima	s	A
@@ -3254,7 +3253,7 @@ A Sétima Arte	s	A
 A Sétima Vítima	f	A
 A Síndrome (2023)	f	A
 A Síndrome de Berlin	f	A
-A Tabacaria (2018)	f	A
+A tabacaria	f	A
 A Taberna do Inferno	f	A
 A Tale of Two Guns	f	A
 A Tartaruga e a Lebre: A Revanche do Século	f	A
@@ -3404,7 +3403,6 @@ A Veterana Pitica da Firma	s	A
 A Via Láctea	f	A
 A Viagem	f	A
 A Viagem	s	A
-A Viagem (1999)	f	A
 A Viagem (2012)	f	A
 A Viagem de Chihiro (2001)	f	A
 A Viagem de Ernesto e Celestine	f	A
@@ -3756,7 +3754,6 @@ Abbott Elementary	s	A	2021
 Abby's	s	A
 ABC do Amor	f	A
 Abdelmassih- Do Milagre ao Crime	s	A
-Abducao (2014)	f	A
 Abducao em Manhattan	s	A
 Abducted	f	A
 Abdução	f	A
@@ -4245,10 +4242,10 @@ Alasca Extremo	s	A
 Alasca Reabilitacao Selvagem	s	A
 Alasca: Em Busca da Notícia	s	A
 Alasca: Sabedoria Nativa	s	A
-Alaska (2015)	f	A
+Alaska	f	A
 Alavancada no Jogo: A Patroa de Cozinha do CEO	f	A
 Alba	s	A
-Albatroz	f	A
+Albatroz (2019)	f	A
 Albert (2016)	f	A
 Albert Brooks: Defending My Life	f	A
 Albert Nobbs	f	A
@@ -4266,7 +4263,6 @@ Alef	s	A
 Alegorias do Brasil	s	A
 Alegria	f	A
 Alegrifes e Rabujos	s	A
-Alem da Escuridao (2012)	f	A
 Alem da Escuridao - Star Trek (2013)	f	A
 Alem da Forca Alem da Fe (2024)	f	A
 Alem da Morte (2017)	f	A
@@ -4493,11 +4489,11 @@ Alone Together	s	A
 Along With the Gods: The Last 49 Days	f	A
 Along with the Gods: The Two Worlds	f	A
 Alp Arslan Grande Seljucida - Alparslan Büyük Selçuklu	s	A
-Alpha (2025)	f	A
 Alpha Dog (2006)	f	A
 ALPHA MATE UNCHAINED	f	A
 ALPHA ME MARCA	f	A
 ALPHA NAO E O MEU TIPO - ALPHA NOT IS MY TYPE	f	A
+Alpha.	f	A
 AlphaGo	f	A
 Alphonse	s	A
 Alpinistas Sociais	f	A
@@ -4778,7 +4774,7 @@ Amigas Sem Filtro	f	A
 Amigas Unidas Contra o Peso	s	A
 Amigo de Ninguém	f	A
 Amigo Imaginário	f	A
-Amigo Secreto (2022)	f	A
+Amigo Secreto	f	A
 Amigos	f	A
 Amigos Alienigenas (2018)	f	A
 Amigos Amigos Mulheres a Parte (2008)	f	A
@@ -5321,8 +5317,8 @@ Animais Fantásticos: Os Segredos de Dumbledore (2022)	f	A
 Animais Noturnos	f	A
 Animais Perigosos (2025)	f	A
 Animais Unidos Jamais Serao Vencidos (2010)	f	A
+Animal	f	A
 Animal	s	A
-Animal (2001)	f	A
 Animal Kingdom	s	A	2016
 Animalia	f	A
 Animals.	f	A
@@ -5765,7 +5761,7 @@ Are You Afraid of the Dark?	s	A
 Are You Sure	s	A
 Are You The One? Brasil	s	A
 Are You The One? UK	s	A
-Area 51 (2015)	f	A
+Area 51 (2011)	f	A
 Area no Kishi	s	A
 Areia Movedica	s	A
 Arena (2011)	f	A
@@ -5808,9 +5804,7 @@ Armadilha do Amor - Afili Ask	s	A
 Armadilha do Caçador	f	A
 Armadilha em Alto Mar (2024)	f	A
 Armadilha Explosiva	f	A
-Armadilha Mortal	f	A
 Armadilha Mortal (2016)	f	A
-Armadilha Mortal (2025)	f	A
 Armadilhas do Amor (2022)	f	A
 Armadilhas do Passado (2023)	f	A
 Armadilhas Mortais	f	A
@@ -6963,7 +6957,7 @@ Bakuretsu Hunters	s	B
 Bala de Prata	f	B
 Bala na Cabeça	f	B
 Bala Perdida	f	B
-Bala Perdida (2014)	f	B
+Bala Perdida (2020)	f	B
 Bala Perdida 2	f	B
 Bala Perdida 3 (2025)	f	B
 Bala Sem Nome	f	B
@@ -6998,7 +6992,7 @@ Bambolê	s	B
 Bamboo Blade	s	B
 Banana Fish	s	B
 Banana Joe	f	B
-Banana Split	f	B
+Banana Split (2018)	f	B
 Banana Splits - O Filme	f	B
 Bananya	s	B
 Banco Central sob Ataque	s	B
@@ -7458,6 +7452,7 @@ Bem a Tempo para o Natal	f	B
 Bem Juntinhos	s	B
 Bem Longe de Casa	f	B
 Bem vinda Estranha (2018)	f	B
+Bem vindo a Selva (2003)	f	B
 Bem Vindos a Australia	s	B
 Bem-Vinda a Manhattan	f	B
 Bem-Vinda a Quixeramobim	f	B
@@ -7788,7 +7783,7 @@ Blackfish: Fúria Animal	f	B
 Blackjack The Jackie Ryan Story	f	B
 BlackJacks	f	B
 BlacKkKlansman - O Infiltrado	f	B
-Blackout (2022)	f	B
+Blackout	f	B
 Blackout - Sentiu a Minha Falta?	f	B
 Blackout: A Batalha Final	f	B
 Blackout: Tarde Demais	s	B
@@ -8094,6 +8089,7 @@ Bordertown	s	B
 Bordertown: A Eliminacao (2021)	f	B
 Borgen	s	B
 Borges	s	B
+Boris	s	B
 Born Innocent	f	B
 Born Racer	f	B
 Born To Ball	f	B
@@ -10530,7 +10526,6 @@ Contos da Babilônia (2023)	f	C
 Contos da Escuridão	f	C
 Contos da Meia-Noite	f	C
 Contos da Noite	f	C
-Contos da Noite	s	C
 Contos de Guerra	f	C
 Contos de Halloween	f	C
 Contos de Nazaré	f	C
@@ -11825,8 +11820,8 @@ Deixa	f	D
 Deixa Acontecer (2026)	f	D
 Deixa Ela Entrar	s	D
 Deixa Na Régua	f	D
-Deixa Rolar	f	D
 Deixa Rolar	s	D
+Deixa Rolar (1999)	f	D
 Deixa, Amorzinho... Deixa (1975)	f	D
 Deixados para Tras 2: Comando Tribulacao (2002)	f	D
 Deixados para Tras 3: Mundo em Guerra (2005)	f	D
@@ -12467,6 +12462,7 @@ Diario das Fadas	s	D
 Diario de um Banana A Gota dAgua (2025)	f	D
 Diario de um Jovem Medico	s	D
 Diario de uma Adolescente (2006)	f	D
+Diario de uma Louca (2005)	f	D
 Diario de uma Paixao (2004)	f	D
 Diario Proibido (2008)	f	D
 Diarios de Motociclista	f	D
@@ -12737,7 +12733,6 @@ Diário de um Gigolô	s	D
 Diário de um Jornalista Bêbado	f	D
 Diário De Uma Futura Presidente	s	D
 Diário de uma Garota que Coleciona Foras	s	D
-Diário de uma Louca	f	D
 Diário de uma onça	f	D
 Diário dos Mortos	f	D
 Diário Íntimo	f	D
@@ -12795,7 +12790,7 @@ Do luto à luta	f	D
 DO MARGINAL AO CENTRAL NO PODER E NO AMOR	f	D
 Do Mundo Nada Se Leva	f	D
 Do Nada Gravida	s	D
-Do Not Disturb (2023)	f	D
+Do Not Disturb	f	D
 DO ODIO AO AMOR A FALSA PRINCESA DO TIRANO	f	D
 Do Outro Lado da Dor	f	D
 Do Outro Lado da Fronteira (2019)	f	D
@@ -13000,7 +12995,6 @@ Don't Give Up!	s	D
 Don't Go	f	D
 Don't Let Go	f	D
 Don't Let Him Find You (2024)	f	D
-Don't Let Them In (2020)	f	D
 Don't Look Deeper	s	D
 Don't Look: A Morte te Aguarda	f	D
 Don't Tell a Soul	f	D
@@ -13814,7 +13808,7 @@ Em Busca do Castelo Dourado (2019)	f	E
 Em Busca do Coração de David	f	E
 Em Busca do Cálice Sagrado	f	E
 Em Busca do Enfermeiro da Noite	f	E
-Em busca do ouro	f	E
+Em Busca do Ouro (1925)	f	E
 Em Busca do Ouro Perdido	f	E
 Em Busca do Paraíso	f	E
 Em Busca do Portal Mágico	f	E
@@ -13924,7 +13918,6 @@ Embattled	f	E
 Emblema da Fe	f	E
 Emblema de Fé	f	E
 Emboscada	f	E
-Emboscada (2009)	f	E
 Emboscada (2022)	f	E
 Emboscada (2023)	f	E
 Embriagado de Amor (2002)	f	E
@@ -15798,7 +15791,6 @@ Fora de Alcance	f	F
 Fora de Combate (2018)	f	F
 Fora de Controle	f	F
 Fora de Controle	s	F
-Fora de Controle (2002)	f	F
 Fora de Controle (2008)	f	F
 Fora de Controle (2023)	f	F
 Fora de Controle (2024)	f	F
@@ -16779,6 +16771,7 @@ Goosebumps 2 Halloween Assombrado	f	G
 Goosebumps 2: Arrepios no Halloween (2018)	f	G
 Goosebumps: Monstros e Arrepios (2015)	f	G
 Goosebumps: O Desaparecimento	s	G
+Gordon	s	G
 Gordon Ramsay Do Inferno ao Paraiso em 24h	s	G
 Gordon Ramsay Servico Secreto	s	G
 Gordon Ramsay's Food Stars	s	G
@@ -16802,8 +16795,8 @@ Gotti - O Chefe da Máfia (2018)	f	G
 Goulag Uma Historia dos Campos de Concentracao Sovieticos	s	G
 Goyo (2024)	f	G
 GPK: The Kill Room	f	G
-Grace	f	G
 Grace	s	G
+Grace (2018)	f	G
 Grace And Frankie	s	G
 Grace by Night	f	G
 Grace: Entre a Fé e a Fama (2013)	f	G
@@ -18754,7 +18747,7 @@ Ip Man: The Awakening (2021)	f	I
 Iracema	f	I
 Iracema Uma Transa Amazônica	f	I
 Iria: Zeiram The Animation	s	I
-Iris (2016)	f	I
+Iris (2001)	f	I
 Irish Blood	s	I
 Irma ao Quadrado	s	I
 IRMA EU PREPAREI UM NAMORADO BILIONARIO PARA VOCE.	f	I
@@ -19587,7 +19580,6 @@ Justin Bieber Never Say Never	f	J
 Justin Bieber: Nosso Mundo (2021)	f	J
 Justin e a Espada da Coragem	f	J
 Justin Timberlake: [2013] Rock in Rio	f	J
-Justin Timberlake: Rock in Rio	f	J
 Justiça	s	J	2016
 Justiça (2004)	f	J
 Justiça - Entre a Lei e a Vingança	f	J
@@ -20186,7 +20178,6 @@ Lados Opostos (2021)	f	L
 Ladra de Coracao	f	L
 LADRAO A LENDA DO IMPERIO	f	L
 Ladrar	f	L
-Ladroes (2010)	f	L
 Ladroes (2025)	f	L
 Ladroes A Tiara de Santa Agueda	s	L
 Ladroes de Drogas	s	L	2025
@@ -21325,6 +21316,7 @@ Madame Durocher	f	M
 Madame Satã	f	M
 Madame Teia (2024)	f	M
 Madame X	f	M
+Madden: O Homem e o Jogo	f	M
 Maddie's Secret	f	M
 Made For Love	s	M
 Made in Abyss	s	M
@@ -22032,7 +22024,7 @@ Matando Salazar	f	M
 Matança (2020)	f	M
 Matança Necessária	f	M
 Matar Jesus	f	M
-Matar ou Morrer (2016)	f	M
+Matar ou Morrer	f	M
 Matar um Homem	f	M
 Matar um Tigre (2023)	f	M
 Matar. Vingar. Repetir	f	M
@@ -23443,7 +23435,7 @@ Mogli: O Menino Lobo (2016)	f	M
 Mogli: O Menino Lobo 2 (2003)	f	M
 Mogul Mowgli	f	M
 Mohi El Deen Ibn Arabi	s	M
-Moises (1995)	f	M
+Moisés	f	M
 Moisés O Maior Príncipe Do Egito	f	M
 Mojin - A Lenda Perdida	f	M
 Molang	s	M
@@ -23609,6 +23601,7 @@ Mortadelo E Salaminho - Agentes Quase Secretos	f	M
 Mortadelo e Salaminho Missao Inacreditavel (2014)	f	M
 Mortal (2020)	f	M
 Mortal Kombat	f	M
+Mortal Kombat (1995)	f	M
 Mortal Kombat (2021)	f	M
 Mortal Kombat 1	f	M
 Mortal Kombat 2 (2026)	f	M
@@ -25540,6 +25533,7 @@ O Ano em que Meus Pais Saíram de Férias (2006)	f	O
 O Ano Mais Violento	f	O
 O Ano que Vivemos em Perigo	f	O
 O Anti Heroi	s	O
+O Anuário de Darwin	s	O
 O Apanhador de Almas (2025)	f	O
 O Apanhador de Sonhos	f	O
 O Apanhador de Sonhos (2021)	f	O
@@ -25564,7 +25558,7 @@ O Armário do Diabo	f	O
 O Armário Mágico	f	O
 O Aroma do Tempo	s	O
 O Arquivo de Berlim	f	O
-O Arrebatamento (1999)	f	O
+O ARREBATAMENTO	f	O
 O Arrebatamento 2	f	O
 O Arrependimento no Espelho	f	O
 O Arrependimento no Espelho	s	O
@@ -25722,7 +25716,9 @@ O Beco do Pesadelo	f	O
 O Beco Sangrento	f	O
 O Beijo	f	O
 O Beijo da Morte (2018)	f	O
+O Beijo da Mulher Aranha	f	O
 O Beijo da Mulher Aranha (1985)	f	O
+O Beijo da Mulher Aranha (2025)	f	O
 O Beijo da Sereia	s	O
 O Beijo da Tarântula	f	O
 O Beijo da Traição	f	O
@@ -26463,7 +26459,7 @@ O Elo Perdido (2009)	f	O
 O Empregado do Mês	f	O
 O Encantador de Cavalos	f	O
 O Encanto da Sereia	f	O
-O Encontro (2015)	f	O
+O Encontro	f	O
 O Encontro com Dragao	s	O
 O Encontro de Carl	f	O
 O Encontro dos Noéis	f	O
@@ -26558,7 +26554,7 @@ O Estranho Mundo de Jack (1993)	f	O
 O Estranho Mundo de Ze do Caixao (1968)	f	O
 O Estranho na Minha Casa (2025)	f	O
 O Estranho Noivo de Maya	f	O
-O Estranho que Nós Amamos (2017)	f	O
+O Estranho Que Nos Amamos (1971)	f	O
 O Estranho Retorno de Diana Salazar	s	O	2024
 O Estranho Sem Nome (1973)	f	O
 O Estranho Thomas (2013)	f	O
@@ -27702,7 +27698,7 @@ O Método Kominsky	s	O
 O Namorado	s	O	2024
 O Namorado da Minha Prima	f	O
 O Nascer da Lua	s	O
-O Nascimento de Uma Nação (2016)	f	O
+O Nascimento de Uma Nação	f	O
 O Nascimento do Mal (2023)	f	O
 O Natal assombrado do Gasparzinho	f	O
 O natal caubói da Sandy e Bob Esponja	f	O
@@ -28532,6 +28528,7 @@ O Salvador da Pátria	s	O
 O Salvador de Almas	f	O
 O Salário do Medo	f	O
 O Salão de Huda	f	O
+O Samurai e o Prisioneiro	f	O
 O Sangue de Romeu	f	O
 O Sangue de Zeus	s	O
 O SANGUE ERRADO QUE CORRE EM MIM	f	O
@@ -28711,7 +28708,6 @@ O Sistema (2022)	f	O
 O Skate Me Levou (2022)	f	O
 O Sniper de DC: Um Caso de Violência Doméstica	f	O
 O Sobrevivente	f	O
-O Sobrevivente (1987)	f	O
 O Sobrevivente (2015)	f	O
 O Sobrevivente (2021)	f	O
 O Sobrevivente (2025)	f	O
@@ -29028,7 +29024,7 @@ O Vigilante Mascarado	f	O
 O Vilarejo	f	O
 O Vilão	s	O
 O Vingador	f	O
-O Vingador (1986)	f	O
+O Vingador (2003)	f	O
 O Vingador da Iugoslavia (2017)	f	O
 O Vingador da Iugoslávia 2	f	O
 O Vingador da Noite	f	O
@@ -29039,8 +29035,8 @@ O Vingador Tóxico (2025)	f	O
 O Violino do Meu Pai	f	O
 O Virgem de 40 Anos (2005)	f	O
 O Visitante	f	O
+O vizinho	f	O
 O Vizinho	s	O
-O Vizinho (2008)	f	O
 O Viúvo: Até Que a Morte nos Separe	f	O
 O Voo	f	O
 O Voo da Fenix (2004)	f	O
@@ -29186,13 +29182,13 @@ Observando Elena Evoy	s	O
 Obsess	s	O
 Obsessao (2019)	f	O
 Obsessao (2026)	f	O
+Obsessao Perigosa (2014)	f	O
 OBSESSAO SECRETA DO MEU CHEFE	f	O
 Obsession The Murder of a Beauty Queen	s	O
 Obsessiva	f	O
 Obsessão	f	O
 Obsessão Fatal	f	O
 Obsessão Não-Escrita	f	O
-Obsessão Perigosa	f	O
 Obsessão Sanguinária	f	O
 Obsessão Secreta	f	O
 OBSOLETE	s	O
@@ -29657,6 +29653,7 @@ Os	s	O
 Os 100	s	O
 Os 12 Macacos	f	O
 Os 12 Macacos	s	O	2015
+Os 12 Signos de Valentina	s	O
 Os 13 Fantasmas do Scooby-Doo	s	O
 Os 13 Pecados	f	O
 Os 13 Sobreviventes da Caverna (2022)	f	O
@@ -29691,7 +29688,7 @@ Os Aldeoes	f	O
 Os Alegres Vigaristas	f	O
 Os Aloprados	f	O
 Os Altos e Baixos do Amor (2025)	f	O
-Os Amantes (2017)	f	O
+Os Amantes	f	O
 Os Amores de Anne	s	O
 Os Animais Somos Nós	f	O
 Os Aniquiladores	f	O
@@ -29816,7 +29813,7 @@ Os Croods 2: Uma Nova Era (2020)	f	O
 Os Curados	f	O
 Os Céus do Norte sobre o Vazio	f	O
 Os Defeituosos	s	O
-Os Delinquentes (2023)	f	O
+Os Delinquentes	f	O
 Os Delirios de Consumo	f	O
 Os Delírios de Consumo de Becky Bloom	f	O
 Os Dementes	f	O
@@ -29824,6 +29821,7 @@ Os Demônios (1971)	f	O
 Os Demônios da Noite	f	O
 Os Demônios de Dorothy Mills	f	O
 Os Desafios de Hailey	s	O
+Os Desajustados	f	O
 Os Desajustados (2018)	f	O
 Os Desajustados de Seul	s	O
 Os Desaparecidos	s	O
@@ -30272,7 +30270,7 @@ Os Smurfs e a Flauta Mágica	f	O
 Os Smurfs e a Vila Perdida (2017)	f	O
 Os Smurfs: O Conto de Halloween	f	O
 Os Sneetches (2025)	f	O
-Os Sobreviventes (2014)	f	O
+Os Sobreviventes	f	O
 Os Sonhadores (2003)	f	O
 Os Sonhos de Heaven (2019)	f	O
 Os Sonhos de Pepe	f	O
@@ -30367,7 +30365,7 @@ Os Últimos Sobreviventes	f	O
 Osama Sentai Kingu Oja	s	O
 Oscar	f	O
 Oscar (2021)	f	O
-Oscar (2023)	f	O
+Oscar (2022)	f	O
 Oscar - Minha Filha quer Casar (1991)	f	O
 Oscar no Oasis	s	O
 Oscar Shaw	f	O
@@ -31774,6 +31772,7 @@ Por Agua Abaixo (2006)	f	P
 Por Amor	s	P
 Por Amor (1999)	f	P
 Por Amor e Honra	f	P
+Por Amor ou Por Dinheiro (1993)	f	P
 Por Amor ou Por Dinheiro (2019)	f	P
 Por Amor ou Por Dinheiro?	f	P
 Por Baixo do Capacete: O Legado de Boba Fett	f	P
@@ -32316,6 +32315,7 @@ Prorok	f	P
 Prospect	f	P
 Protecao e Ordem O Capitulo de Bengala	s	P
 Protecao Infinita	s	P
+Protegendo Estrelas	f	P
 Protegendo o Inimigo	f	P
 Protegendo o Paraíso: A História de Niue (2024)	f	P
 Protegida Por um Anjo	f	P
@@ -32998,7 +32998,7 @@ Raia 4	f	R
 Rail Romanesque	s	R
 Rain Dogs	s	R	2023
 Rain Man	f	R
-Rainbow (2022)	f	R
+Rainbow	f	R
 Rainbow High	s	R
 Rainbow: Nisha Rokubou No Shichinin	s	R
 Rainha - Kraliçe	s	R
@@ -33988,6 +33988,7 @@ Roland Doe: A Verdadeira História de O Exorcista	f	R
 ROLL OVER AND DIE I Will Fight for an Ordinary Life with My Love and Cursed Sword	s	R
 Roller Coaster	s	R
 Rolling Kitchen Brasil	s	R
+Rolling Loud: Um Festival de Problemas	f	R
 Rolou Uma Química	f	R
 Rolê - Histórias dos Rolezinhos	f	R
 Roma	f	R
@@ -34545,7 +34546,7 @@ Sassaricando	s	S
 Satanico (2016)	f	S
 Saturday Night: A Noite que Mudou a Comédia	f	S
 Saturdays: Pista de Patinação	s	S
-Saudade (2024)	f	S
+Saudade	f	S
 Saudade de Voce	s	S
 Saudade fez Morada aqui Dentro	f	S
 Saudades Depois do Adeus	s	S
@@ -34772,7 +34773,7 @@ Section Zéro	s	S
 Seculo Magnifico Kosem - Muhteşem Yüzyıl Kösem	s	S
 Sed de Venganza	s	S
 Sede Assassina (2023)	f	S
-Sede de Sangue (2015)	f	S
+Sede de Sangue	f	S
 Sede de Vingança (2015)	f	S
 Sede Sem Fim (2023)	f	S
 Sedenta de Sangue	f	S
@@ -35364,6 +35365,7 @@ Shadows	f	S
 Shadows House	s	S
 Shadowverse Flame	s	S
 Shaft	f	S
+Shaft (2000)	f	S
 Shaft (2019)	f	S
 Shaitaan	f	S
 Shake Rattle and Roll Evil Origins	f	S
@@ -35552,7 +35554,7 @@ Siga o Mestre	f	S
 Siga Pela 10	f	S
 Siga Seu Coração	f	S
 Siga seu coração	s	S
-Sight (2024)	f	S
+Sight	f	S
 Sigmund e os Monstros Marinhos	s	S
 Signal	s	S
 Signal One	f	S
@@ -36650,7 +36652,6 @@ Sugar	s	S	2024
 Sugar Apple Fairy Tale	s	S
 Sugar Baby	f	S
 Sugar Baby (2018)	f	S
-Sugar Baby (2022)	f	S
 Sugar Baby (2024)	f	S
 Sugar Baby (2025)	f	S
 Sugar Daddy - Na Busca de um patrocínio	f	S
@@ -37649,6 +37650,7 @@ The Conjuring: Annabelle Turns 16	f	T
 The Conners	s	T
 The Control Room	s	T
 The Convert	f	T
+The Cool Kids	s	T
 The Copenhagen Test	s	T
 The Courier Legendado	f	T
 The Craft	f	T
@@ -38881,7 +38883,6 @@ Totalmente Selvagem	f	T
 Totalmente Sem Rumo (2004)	f	T
 Totalmente Sem Rumo 2: Defensores da Natureza	f	T
 Totalmente Trocados	f	T
-Totem (2017)	f	T
 Touch	f	T
 Touch	s	T
 Touch Visoes do Futuro	s	T
@@ -39315,7 +39316,6 @@ Tudo Comeca no Brooklyn (2018)	f	T
 Tudo de Novo (2020)	f	T
 Tudo de Novo, Mais Uma Vez	f	T
 Tudo e Justo	s	T	2025
-Tudo e Possivel (2022)	f	T
 Tudo e Todas as Coisas (2017)	f	T
 Tudo em Familia (2024)	f	T
 Tudo em Família	f	T
@@ -39349,7 +39349,6 @@ Tudo pela Noiva (2023)	f	T
 Tudo pela Vitória	f	T
 Tudo Pela Vitória	s	T
 Tudo pelo Divórcio	f	T
-Tudo pelo Meu Irmão	f	T
 Tudo Pelo Poder (2011)	f	T
 Tudo Pode dar Certo	f	T
 Tudo Por Amor (1991)	f	T
@@ -39391,6 +39390,7 @@ Tudo Sobre Sexo	f	T
 Tudo Sobre Você (2025)	f	T
 Tudo Vai dar Certo (2025)	f	T
 Tudo Vai Ficar Bem	f	T
+Tudo é Possível	f	T
 Tuesday: O Último Abraço	f	T
 Tuff Turf O Rebelde	f	T
 Tully (2018)	f	T
@@ -39427,6 +39427,7 @@ Turma da Mônica - A Série	s	T
 Turma da Mônica Apresenta: Cebolinha	f	T
 Turma da Mônica em Cine Gibi 3: Planos Infalíveis	f	T
 Turma da Mônica em Uma Aventura no Tempo	f	T
+Turma da Mônica Jovem: Incertezas	f	T
 Turma da Mônica Jovem: Reflexos do Medo	f	T
 Turma da Mônica: Lições	f	T
 Turma do Barulho	s	T
@@ -39496,6 +39497,7 @@ Tão Forte e Tão Perto	f	T
 Tão Frágil, Tão Cor de rosa	s	T
 Tão Legal Quanto Você (2020)	f	T
 Tóquio 2020 no SporTV	s	T
+Tótem	f	T
 Tô de Férias (2006)	f	T
 Tô De Graça	s	T
 Tô de Graça: O Filme	f	T
@@ -41823,7 +41825,7 @@ Vovô e Eu	s	V
 Vox Lux: O Preço da Fama	f	V
 Voyagers	f	V
 Voz Interior do Bebê: Agarra-se às Abas do Papai!	f	V
-Vozes	f	V
+Vozes (2020)	f	V
 Vozes da Escuridão	f	V
 Vozes da Segunda Guerra	s	V
 Vozes do Além	f	V
@@ -42704,6 +42706,6 @@ Zélia - Memórias de Amor	f	Z
 シャンティ デイズ 365日、幸せな呼吸	f	#
 东极岛 (2025)	f	#
 壹獄壹世界II：劫數難逃 (2023)	f	I
-通天拍檔 (1984)	f	#
+深海獣雷牙 対 溶岩獣王牙 (2020)	f	#
 重装机甲4巨兽来袭 (2022)	f	#
 ＜JUNG KOOK: I AM STILL＞ THE ORIGINAL	s	#

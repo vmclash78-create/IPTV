@@ -458,6 +458,7 @@ Borderliner		3	8
 Bordertown		3	33
 Borgen		3	30
 Borges		3	10
+Boris		3	11
 Born with Luck		3	24
 Boruto		3	293
 Boruto: Naruto Next Generations	2017	3	779
@@ -477,7 +478,7 @@ Botões Vermelhos - Kızıl Goncalar		3	25
 Bounen No Xamdou		3	26
 Boybands O Lado Sombrio da Fama		3	2
 Boys II Planet		3	3
-Boys Prazer Sem Limites		3	7
+Boys Prazer Sem Limites		4	7
 Bozo Show		4	100
 Božena		4	4
 BrainDead		4	13

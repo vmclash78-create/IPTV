@@ -415,7 +415,7 @@ Chillin in Another World with Level 2 Super Cheat Powers		3	12
 Chimerica		3	4
 Chimp Crazy		3	4
 Chios School Road		3	12
-Chip & Joanna: No Caminho do Sucesso		3	12
+Chip & Joanna: No Caminho do Sucesso		3	13
 Chip e Potato		3	10
 Chips		3	44
 Chiquinha Gonzaga		3	38
@@ -431,7 +431,7 @@ Choboraunyopomi Gekijou Ai Mai Mii		3	13
 Chocolate com Pimenta		3	209
 Choose Earth		3	1
 Chopped Nova Geracao		3	5
-Chopped: Doce Desafio		3	25
+Chopped: Doce Desafio		3	26
 Choque de Cultura		3	34
 Choque de Cultura A Serie		3	4
 Chore Agora, Saiba Quem Eu Sou		3	1
@@ -710,7 +710,6 @@ Conto de Cinzas - Kül Masalı		5	10
 Contos		5	123
 Contos Do Loop		5	8
 Contos Futurísticos		5	7
-Contos da Noite		5	18
 Contos de The Walking Dead		5	12
 Contra o Destino - Kadere Karsi		5	29
 Contracapa		5	13
@@ -718,7 +717,7 @@ Contraste		5	8
 Contratempos		5	55
 Contrato de Casamento		5	16
 Control Z	2020	5	24
-Conturbado		6	19
+Conturbado		5	19
 Conversa com Bial		6	189
 Conversando com um Serial Killer: O Canibal de Milwaukee		6	3
 Conversando com um serial killer O Filho de Sam		6	3
@@ -838,7 +837,7 @@ Crescendo		6	10
 Crescidinhos		6	19
 Criadas E Malvadas		6	26
 Criadas Malignas - Hizmetçiler		6	3
-Criadores de Diversão		7	8
+Criadores de Diversão		6	8
 Criadores de Supercarros		7	15
 Criadores do Futuro		7	3
 Criando Delicias		7	16

@@ -67,8 +67,6 @@ canal: A&E
 categoria: Documentários
 logo: https://img.faz-o-eli.online/ae.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/634fe3795b5c95c85897fc793d31a867/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/aee/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -80,8 +78,6 @@ logo: https://img.faz-o-eli.online/adultswim.png
 
 fonte: http://45.185.11.126:8000/play/a06m/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/01684f6be9e694e070a138aa9d788196/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/adultswim/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -94,8 +90,6 @@ fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_AMC/index.m3u8
 qualidade: FHD · Stream Direto Oficial
 fonte: http://45.185.11.126:8000/play/a06s/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/c25ba39fd5adae8713628335b0866ba7/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amc/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -106,8 +100,6 @@ logo: https://img.faz-o-eli.online/animalplanet.png
 
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_AnimalPlanet/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/f9a0ae3b770bedfe29c69f750f48fb83/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/animalplanet/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -130,8 +122,6 @@ logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_CartoonNetwork/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/eb544dbcd7884984018c606c9ac0cad6/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonnetwork/index.m3u8
@@ -147,8 +137,6 @@ logo: https://img.faz-o-eli.online/cnnbrasil.png
 
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 qualidade: Qualidade não informada
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/57c7d322045a8ac01a6d14f5188818e1/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/CNN_BRASIL/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cnnbrasil/index.m3u8
@@ -179,8 +167,6 @@ fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playl
 qualidade: FHD · 1920x1080
 fonte: http://45.185.11.126:8000/play/a08v/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4187ab98e0bee37213f14922f57cdea2/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/getv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -195,8 +181,6 @@ fonte: https://liverdvr.glob.com/live/h7mncq2a-h4jz-rghj-5bz6-globonews/index.m3
 qualidade: FHD · Stream Direto Oficial
 fonte: http://45.185.11.126:8000/play/a08d/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/6cda8d220b66920a0fccccb5558855b8/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -206,8 +190,6 @@ canal: Globoplay Novelas
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/globonovelas.prev.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5b461d58e230668ff16197f72b1637fe/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoplaynovelas/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -219,8 +201,6 @@ logo: https://img.faz-o-eli.online/gnt.png
 
 fonte: http://45.185.11.126:8000/play/a079/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/05193a583d37f339b0ed5b55fb26ed0c/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gnt/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -234,8 +214,6 @@ fonte: http://138.204.86.4:8080/HISTORY_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a0al/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/67d37a5e578f564f40f126b47ca1f175/error.txt
-qualidade: HD · 1280x720
 fonte: http://170.83.16.50/HISTORY/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history/index.m3u8
@@ -247,8 +225,6 @@ canal: History 2
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history2.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/c9c2f48a08ba5c37a379cab0e72363e1/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -274,8 +250,6 @@ logo: https://img.faz-o-eli.online/megapix.png
 
 fonte: http://45.185.11.126:8000/play/a057/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/282e52588ac0e1b1fc8a42303b601c2f/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -285,8 +259,6 @@ canal: Multishow
 categoria: Variedades
 logo: https://img.faz-o-eli.online/multishow.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/bcefc7386fec38b124abf6da19be98d4/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/multishow/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -296,8 +268,6 @@ canal: Premiere 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/584020e8a48a5d7287041759fa96a491/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -307,8 +277,6 @@ canal: Premiere 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/09aba4e3dcde4778c46419c59cdff314/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -318,8 +286,6 @@ canal: Premiere 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/254589fb898c1d79e3b72a745ca847e8/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere4/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -329,8 +295,6 @@ canal: Premiere 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5add8635829821b025a7c08c1beaf106/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere5/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -375,8 +339,6 @@ logo: https://img.faz-o-eli.online/premiere.png
 
 fonte: http://45.185.11.126:8000/play/a06g/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/2d2d21ade355470de26b314f92e62240/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -408,8 +370,6 @@ canal: Sony Channel
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/sonychannel.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/7de1a19cf8230d50e7d140ad21030104/error.txt
-qualidade: HD · 1280x720
 fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8
@@ -422,8 +382,6 @@ logo: https://img.faz-o-eli.online/sportv.png
 
 fonte: https://liverdvr.glob.com/live/sportv/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/2b67ad5df58e0293cf584f5477d6f0e4/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -435,8 +393,6 @@ logo: https://img.faz-o-eli.online/sportv2.png
 
 fonte: http://45.185.11.126:8000/play/a05f/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/064ca17606f1c7df1f34330039cc8acc/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -448,8 +404,6 @@ logo: https://img.faz-o-eli.online/sportv3.png
 
 fonte: http://45.185.11.126:8000/play/a06v/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/8661bd5140611ad4a54f853bc6c6f833/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -461,8 +415,6 @@ logo: https://img.faz-o-eli.online/off.png
 
 fonte: http://45.185.11.126:8000/play/a07t/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/00bb37de5c3902c3e5ee23e779184736/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canaloff/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -474,8 +426,6 @@ logo: https://img.faz-o-eli.online/telecineaction.png
 
 fonte: http://45.185.11.126:8000/play/a058/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/2ad6579eb47337f20a9bdd9c10ff6d47/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -487,8 +437,6 @@ logo: https://img.faz-o-eli.online/telecinepipoca.png
 
 fonte: http://45.185.11.126:8000/play/a08g/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/8efe8f06cbbcbe2203d483c304389f0b/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -498,8 +446,6 @@ canal: Telecine Premium
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinepremium.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5365b6556a8cd3956df675bbf975be9e/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -528,8 +474,6 @@ canal: Warner
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/warnerchannel.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/018b0f52413421d878dd79545cad1d2e/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -546,8 +490,6 @@ canal: Globo SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/c470b6d2f0b4ed4c97e0869fc5deb0ac/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globosp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -559,8 +501,6 @@ logo: https://img.faz-o-eli.online/cartoonito.png
 
 fonte: http://45.185.11.126:8000/play/a0ae/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/6697becf97eb526ab9535370b92d1597/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonito/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -574,8 +514,6 @@ fonte: http://138.204.86.4:8080/CINEMAX/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a081/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/e8213e28766990c8f8ac05613342cfbb/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -587,8 +525,6 @@ logo: https://img.faz-o-eli.online/discoverychannel.png
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Discovery/index.m3u8
 qualidade: FHD · Stream Direto Oficial
 fonte: http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9ff88dd8f956eb905b7827b302f3bfb6/error.txt
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8
 qualidade: FHD
@@ -604,8 +540,6 @@ fonte: http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a0ad/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/f7cb648e787d1258d547d0eff30f2434/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverykids/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -619,8 +553,6 @@ fonte: http://138.204.86.4:8080/DISCOVERY_THEATER_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a085/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5d031a8f5ca7d07e12be1062d478f565/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverytheater/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -634,8 +566,6 @@ fonte: http://138.204.86.4:8080/ESPN_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://181.78.197.59:8000/play/a07z/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/d442d1c53a5ca21d7c0b4cabade9ce68/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/ESPN_BRASIL/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8
@@ -648,8 +578,6 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/espn2.png
 
 fonte: http://138.204.86.4:8080/ESPN2_HD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5474672b213fb4e417982637b9876d0c/error.txt
 qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8
 qualidade: FHD
@@ -666,8 +594,6 @@ fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://45.185.11.126:8000/play/a05m/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/e4987805326f6111c4e4c1620970f468/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/ESPN_4/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8
@@ -681,8 +607,6 @@ logo: https://img.faz-o-eli.online/espn5.png
 
 fonte: http://45.185.11.126:8000/play/a05n/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/b48a6509c59ce47d94e24dbf60e8490b/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn5/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -694,8 +618,6 @@ logo: https://img.faz-o-eli.online/espn6.png
 
 fonte: http://45.185.11.126:8000/play/a084/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4eeb7c64728304899a49a715b0cae8b2/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -706,8 +628,6 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo.png
 
 fonte: http://138.204.86.4:8080/HBO/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/17d1540c882d06bbefc35dfd1e4d9b54/error.txt
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8
 qualidade: FHD
@@ -722,8 +642,6 @@ fonte: http://138.204.86.4:8080/HBO2/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a08o/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/30f960f85d578d00e27197e3479b3556/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -734,8 +652,6 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
 
 fonte: http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/a3e95b3c964fa1513d6e5abf0ad3e251/error.txt
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8
 qualidade: FHD
@@ -748,8 +664,6 @@ logo: https://img.faz-o-eli.online/hbomundi.png
 
 fonte: http://138.204.86.4:8080/HBO_MUNDI_HD/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/0cd3e668e65048ca9d6c34f10c48e32c/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -760,8 +674,6 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hboplus.png
 
 fonte: http://138.204.86.4:8080/HBO_PLUS/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/11ab6f8bca8c3ccf59a7f5828ca9e8da/error.txt
 qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
 qualidade: FHD
@@ -776,8 +688,6 @@ fonte: http://138.204.86.4:8080/HBO_POP_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a08s/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/1f0e4d3e5bc0c3db41a6642335dd379d/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -800,8 +710,6 @@ logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
 
 fonte: http://45.185.11.126:8000/play/a083/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/35b5a1b6d1f6478aa083cd93941cb3a9/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -814,16 +722,12 @@ fonte: https://hd.record.com.br/index.m3u8
 qualidade: FHD · Stream Direto Oficial
 fonte: http://138.204.86.4:8080/RECORD/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/0576464be0a1ea2936da58f635be1c38/error.txt
-qualidade: HD · 1280x720
 canal: Space
 canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
 
 fonte: http://138.204.86.4:8080/SPACE_HD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/f8e913382afb3ba9324363bd589fa064/error.txt
 qualidade: HD · 1280x720
 fonte: http://45.162.64.114/SPACE/index.m3u8
 qualidade: HD · 1280x720
@@ -839,8 +743,6 @@ fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_TNT/index.m3u8
 qualidade: FHD · Stream Direto Oficial
 fonte: http://138.204.86.4:8080/TNT_HD/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/1e437e8ff25834e32d8bac82d5ecadb7/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/TNT/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tnt/index.m3u8
@@ -852,8 +754,6 @@ canal: TNT Séries
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntseries.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5471895a0028ee43effc59a42b329e4b/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntseries/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -865,8 +765,6 @@ logo: https://img.faz-o-eli.online/universaltv.png
 
 fonte: http://45.185.11.126:8000/play/a0af/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/0264785b4882ab53e740143d6ce84a30/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -880,8 +778,6 @@ fonte: http://138.204.86.4:8080/DISCOVERY_TURBO_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a07z/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/a47d2b369a0e320685b738895bcaeaad/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryturbo/index.m3u8
@@ -904,8 +800,6 @@ logo: https://img.faz-o-eli.online/telecinefun.png
 
 fonte: http://45.185.11.126:8000/play/a059/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/3462629dde5f874e525c05efdde1d252/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -917,8 +811,6 @@ logo: https://img.faz-o-eli.online/telecinecult.png
 
 fonte: http://45.185.11.126:8000/play/a05a/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5ec1523562efda60c6932dc9b0fb3f5b/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -928,8 +820,6 @@ canal: Telecine Touch
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinetouch.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/ffee3b4d4130e5debf7a19190786fae9/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -965,8 +855,6 @@ canal: Arte 1
 categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/65d382369f43105947851b0fba03a181/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/ARTE1/index.m3u8
 qualidade: HD · 1280x720
 canal: TNT Novelas
@@ -974,8 +862,6 @@ canal: TNT Novelas
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntnovelas.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9dfaad57796a7fdaafbe6403c0d60df1/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntnovelas/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -986,8 +872,6 @@ categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryscience.png
 
 fonte: http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9a1c87f2102f38a1907b85b0a338e493/error.txt
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryscience/index.m3u8
 qualidade: FHD
@@ -1001,8 +885,6 @@ logo: https://img.faz-o-eli.online/axn.png
 fonte: http://138.204.86.4:8080/AXN_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.49.66:8083/AXNHD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/3b09a76125bad2cf0fbe7221313be888/error.txt
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/AXN/index.m3u8
 qualidade: HD · 1280x720
@@ -1019,8 +901,6 @@ logo: https://img.faz-o-eli.online/bandnews.png
 
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_BandNews/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/3859a28be897a005224c884fbfeccc71/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandnews/index.m3u8
@@ -1033,8 +913,6 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/bandsports.png
 
 fonte: http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/d0f0f93e2f99ee96844afe1549d2ed97/error.txt
 qualidade: HD · 1280x720
 fonte: http://45.162.64.114/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
@@ -1053,8 +931,6 @@ logo: https://www.tvlogo.org/brazil/rede-tv-br.png
 
 fonte: https://live.redetv.com.br/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/36d4faadcdbb6dda49712c43a21a8470/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
@@ -1071,8 +947,6 @@ logo: https://img.faz-o-eli.online/cultura.png
 
 fonte: https://livehls-tvcultura.tvcultura.com.br/livehls/tvcultura/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/e57ba60d72f41ad8f9adca3798a3e5c0/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvcultura/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1110,8 +984,6 @@ fonte: http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://181.78.197.59:8000/play/a081/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/aa17035adbd506245f1523564d69b1fb/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1134,8 +1006,6 @@ fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 qualidade: Backup (iptv-org)
 fonte: https://hd.record.com.br/news/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/2013494cf969335ebdad229d7c6e045c/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/RECORD_NEWS/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
@@ -1171,8 +1041,6 @@ canal: TV Aparecida
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/f73c734f99c8e9e3901689ea56d6204f/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/TV_APARECIDA/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -1186,8 +1054,6 @@ canal: Rede Vida
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/redevida.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/dafccae05fd3eaddbfdde12a90411a83/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redevida/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1204,8 +1070,6 @@ categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
 
 fonte: http://138.204.86.4:8080/ID_HD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/f522d664619403ca845532d15eab7c5f/error.txt
 qualidade: HD · 1280x720
 fonte: http://45.162.64.114/DISCOVERY_ID/index.m3u8
 qualidade: HD · 1280x720
@@ -1227,8 +1091,6 @@ canal: X Sports
 categoria: Esportes
 logo: https://img.faz-o-eli.online/xsports.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9d6ca613505f7ddd3a0dce40c26cde27/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/xsports/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1247,8 +1109,6 @@ canal: Band SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/band.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/0a7169de2f8754d0af9a2526e5935462/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1258,8 +1118,6 @@ canal: SBT SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/sbt.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4d29c07b8816152319608904617cbb63/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sbtsp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1269,8 +1127,6 @@ canal: Record SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/c4a4ce524e5e38a2b960ab952087301e/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordsp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1304,8 +1160,6 @@ canal: TV Pai Eterno
 categoria: Variedades
 logo: https://img.faz-o-eli.online/tvpaieterno.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/723ebf8ac91217a90955c58966cce01f/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paieterno/index.m3u8
@@ -1421,8 +1275,6 @@ canal: Discovery Home & Health
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryhh.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/cc1ecc57a018a809ee3cfd344c1bfae1/error.txt
-qualidade: HD · 1280x720
 fonte: http://45.162.64.114/DISCOVERY_H_H/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryhh/index.m3u8
@@ -1610,8 +1462,6 @@ canal: Amazon Prime Video 02
 categoria: Esportes
 logo: https://img.faz-o-eli.online/primevideo.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/90bb5fb6d6d2d9776cd2806d760e66d5/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amazonprimevideo02/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1631,8 +1481,6 @@ logo: https://img.faz-o-eli.online/combate.png
 
 fonte: https://liverdvr.glob.com/live/combate/index.m3u8
 qualidade: FHD · Stream Direto Oficial
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/7abf57620fc227ec60178b439b54aaac/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1669,8 +1517,6 @@ canal: Paramount+ (Jogo 1)
 categoria: Esportes
 logo: https://img.faz-o-eli.online/paramountplus.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4461bb85077f577081fa00513ce5cd93/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1698,8 +1544,6 @@ canal: MAX 02
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.gs/logos/canais/max.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/df2b456d3b6a344a369af2d059c33601/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max02/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1709,8 +1553,6 @@ canal: Studio Universal
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/studiouniversal.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/a3418770574f53a448b7623d5af94f04/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1720,8 +1562,6 @@ canal: Gloob
 categoria: Infantil
 logo: https://img.faz-o-eli.online/gloob.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/8ea9d1b472f20ad53ce39a525ac8776e/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1758,8 +1598,6 @@ logo: http://www.fontedecanais.me/logos/canais/bis.png
 
 fonte: http://45.185.11.126:8000/play/a07w/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/555240d0fdb37ea88a7a12c206b20ce3/error.txt
-qualidade: HD · 1280x720
 canal: Food Network
 canal: Food Network
 categoria: Variedades
@@ -1767,8 +1605,6 @@ logo: https://img.faz-o-eli.online/foodnetwork.png
 
 fonte: http://45.185.11.126:8000/play/a06j/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/97dc9efa332b4bf60cd123d8faf6c495/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/foodnetwork/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1780,16 +1616,12 @@ logo: https://img.faz-o-eli.online/24h.png
 
 fonte: https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/90dcda10218fea5bebcc6cb56f48268d/error.txt
-qualidade: HD · 1280x720
 canal: Discovery World
 canal: Discovery World
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
 
 fonte: http://138.204.86.4:8080/DISCOVERY_WORLD_HD/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/66bbbabd8aef69f262b26b95ebd62785/error.txt
 qualidade: HD · 1280x720
 fonte: http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
 qualidade: HD · 1280x720
@@ -1804,8 +1636,6 @@ logo: https://img.faz-o-eli.online/cazetv.png
 
 fonte: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/7c501b9a452236e757e0f3f7d44e2f09/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1815,8 +1645,6 @@ canal: CazeTV 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/57314a450893dca7448e3ca3eee252a8/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1826,8 +1654,6 @@ canal: SportyNet+ 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/e27665d74e59e006abe61dad8bce348a/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1837,8 +1663,6 @@ canal: SportyNet+ 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5dbff3564799b1c6eabb8b4e1fe6523e/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1848,8 +1672,6 @@ canal: SportyNet+ 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/507109517ee1b92086c8241e788ff7b9/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1859,8 +1681,6 @@ canal: Globo ES
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/6bd0065bfb92af6cf03333ff84300c56/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoes/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1870,8 +1690,6 @@ canal: Globo RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globorj.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9c4bfae37abe8493c27480649e913f32/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globorj/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1881,8 +1699,6 @@ canal: Globo RS
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5ef5f40a65b9bf41cc9d64ae2aa9a169/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globors/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1892,8 +1708,6 @@ canal: Record MG
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9302e4b75df37de824568de4d487700a/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordmg/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1903,8 +1717,6 @@ canal: Record RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/9bc58ef0395518f90f47ad3e7904020a/error.txt
-qualidade: HD · 1280x720
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordrj/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1923,8 +1735,6 @@ canal: Globo DF
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4271fd35a79f2fb8bd0197a0408e863d/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globodf/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1934,8 +1744,6 @@ canal: Globo MG
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/d01e74c1d33f11ab529cd0aa55461943/error.txt
-qualidade: HD · 1280x720
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globomg/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1945,8 +1753,6 @@ canal: MAX 03
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/max.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/84363900c605c94f2f4347fe783f25ae/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max03/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -1956,8 +1762,6 @@ canal: SportyNet
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/a903221748ec9c363451d524eb30afb2/error.txt
-qualidade: HD · 1280x720
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
@@ -2336,92 +2140,54 @@ logo: https://img.faz-o-eli.online/mtv.png
 
 fonte: https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 qualidade: HD · 1280x720
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/703864b5f857796acc1212282735c472/error.txt
-qualidade: HD · 1280x720
 canal: 24H Chaves
 canal: 24H Chaves
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/937a8915417447eee10a16ea56780ae8/error.txt
-qualidade: HD · 1280x720
 canal: 24H Dragon Ball Z
 canal: 24H Dragon Ball Z
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/29bbc3d10b8d58d492d24c2b66de7e31/error.txt
-qualidade: HD · 1280x720
 canal: 24H Friends
 canal: 24H Friends
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/eec4b019aa88895e14f636555429dcc3/error.txt
-qualidade: HD · 1280x720
 canal: 24H Os Simpsons
 canal: 24H Os Simpsons
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/238cbf379955e093c499b819cf2b8ac1/error.txt
-qualidade: HD · 1280x720
 canal: 24H Pica Pau
 canal: 24H Pica Pau
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/dab97790ee95a8a83087c250ecfc64db/error.txt
-qualidade: HD · 1280x720
 canal: 24H Todo Mundo Odeia o Cris
 canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/71b48bf3b6b4f7231dee815b097f351f/error.txt
-qualidade: HD · 1280x720
 canal: A Fazenda 18 1
 canal: A Fazenda 18 1
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/709250afe91589180c804806b427926b/error.txt
-qualidade: HD · 1280x720
 canal: A Fazenda 18 2
 canal: A Fazenda 18 2
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/28cf1a839e0e85dcce68aca2df7a820a/error.txt
-qualidade: HD · 1280x720
 canal: A Fazenda 18 3
 canal: A Fazenda 18 3
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/5359b32bd812230d6b880de9a8533876/error.txt
-qualidade: HD · 1280x720
 canal: A Fazenda 18 4
 canal: A Fazenda 18 4
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/e1949964ed41bfcf29491d7dd1fc0d47/error.txt
-qualidade: HD · 1280x720
 canal: A Fazenda 18 5
 canal: A Fazenda 18 5
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/1e5afc40ecf93bcb8c6ea849aafa8c5b/error.txt
-qualidade: HD · 1280x720
 canal: Band RJ
 canal: Band RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/band.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/e1427d4be6975ac73e40ddeb3a630e64/error.txt
-qualidade: HD · 1280x720
 canal: Curta
 canal: Curta
 categoria: Documentários
@@ -2430,191 +2196,110 @@ canal: Disney Plus 1
 canal: Disney Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/fc6b1680eb898e4046dbe44a9d686c90/error.txt
-qualidade: HD · 1280x720
 canal: Globo AM
 canal: Globo AM
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/ee5841fe3beb07bb9857f56f99a9800c/error.txt
-qualidade: HD · 1280x720
 canal: Globo CE
 canal: Globo CE
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/f829731c9998e6a949d2eb5fda857d8f/error.txt
-qualidade: HD · 1280x720
 canal: Globo GO
 canal: Globo GO
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/29e4169571e8cf43b076d42c3892e80d/error.txt
-qualidade: HD · 1280x720
 canal: Globo PB
 canal: Globo PB
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/97604c378abfa434e2ce4577376dcd5d/error.txt
-qualidade: HD · 1280x720
 canal: Globo PE
 canal: Globo PE
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/b8e984e334d77b617917558f56d29641/error.txt
-qualidade: HD · 1280x720
 canal: HGTV
 canal: HGTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/hgtv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/24ac1d8f4f1af8d7e2b702b29adb4cf1/error.txt
-qualidade: HD · 1280x720
 canal: MAX 01
 canal: MAX 01
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.gs/logos/canais/max.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/13302fb98bdbc84239ded98ad04efb56/error.txt
-qualidade: HD · 1280x720
 canal: PT - A Bola
 canal: PT - A Bola
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_abola.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4e3757a48f41a748b7fd4d634384e0b9/error.txt
-qualidade: HD · 1280x720
 canal: PT - Benfica TV
 canal: PT - Benfica TV
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_benficatv.prev.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/fc0c8484dbc8d5e006d258987d6b8575/error.txt
-qualidade: HD · 1280x720
 canal: PT - Canal 11
 canal: PT - Canal 11
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_canal11.prev.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/870e5751a4fa1b1434620b9aa4725ec6/error.txt
-qualidade: HD · 1280x720
 canal: PT - Eleven 1
 canal: PT - Eleven 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven1.prev.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/c1969832cc392f32b83bc4a9294b9766/error.txt
-qualidade: HD · 1280x720
 canal: PT - Eleven 2
 canal: PT - Eleven 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/bfc819042361185a5d2dda6bb1628aa1/error.txt
-qualidade: HD · 1280x720
 canal: PT - Eleven 3
 canal: PT - Eleven 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven3.prev.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/1bbd0440d1d6eba76ef84ab08cc910d6/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 1
 canal: PT - Sporttv 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/1eb4bf51f008294faec3710de5fdfc55/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 2
 canal: PT - Sporttv 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/d0efbfc44e4272e202ec84488c4d6c0b/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 3
 canal: PT - Sporttv 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/b579bdaca3738ec8003c0abc2516b184/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 4
 canal: PT - Sporttv 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/16fe900bb68e09d887d6135c1b3ce264/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 5
 canal: PT - Sporttv 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/7e26165bd7a63ab445fcc980d00486d1/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 6
 canal: PT - Sporttv 6
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/a8029c8f7673dac68607f2cfe99645ed/error.txt
-qualidade: HD · 1280x720
 canal: PT - Sporttv 7
 canal: PT - Sporttv 7
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/cf888a82f62f10cb12d7075b77817a1d/error.txt
-qualidade: HD · 1280x720
 canal: Paramount Plus 1
 canal: Paramount Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/4461bb85077f577081fa00513ce5cd93/error.txt
-qualidade: HD · 1280x720
 canal: Record GO
 canal: Record GO
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/982f7a8c407fa401bf5301829d2adcfb/error.txt
-qualidade: HD · 1280x720
 canal: SBT RJ
 canal: SBT RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/sbt.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/596b19925c3dfe6b2ab554cbdb4d4c29/error.txt
-qualidade: HD · 1280x720
 canal: TCM
 canal: TCM
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tcm.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/fea33ead64d4fa150a79e621d3871c18/error.txt
-qualidade: HD · 1280x720
 canal: TLC
 canal: TLC
 categoria: Variedades
 logo: https://img.faz-o-eli.online/tlc.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/673abd8bba795c8c14c315c569a62316/error.txt
-qualidade: HD · 1280x720
 canal: UFC Fight Pass
 canal: UFC Fight Pass
 categoria: PPV
 logo: https://img.faz-o-eli.online/ufcfightpass.png
-
-fonte: https://db6c4cade573fef1ca8123646522199f.s25-cloudfront-net.lat/stream/6aaa4b4b0420900a0772ff68f3c20c88/error.txt
-qualidade: HD · 1280x720
 
 # ──────────────────────────────────────────────────────────
 # CANAIS REGIONAIS E ADICIONAIS (iptv-org GitHub)
