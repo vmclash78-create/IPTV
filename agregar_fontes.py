@@ -200,8 +200,8 @@ def gerar_m3u():
     cat_atual = "Geral"
     fontes = []
     
-    # Domínios que exigem Referer e não funcionam direto no navegador
-    DOMINIOS_BLOQUEADOS_WEB = ["cdn8embed.xyz"]
+    # Manter todas as fontes HTTPS disponíveis para a web
+    DOMINIOS_BLOQUEADOS_WEB = []
     
     def salvar_canal():
         nonlocal canal_atual, logo_atual, cat_atual, fontes
