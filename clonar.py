@@ -8,6 +8,7 @@ The catalog layout is preserved:
 """
 from __future__ import annotations
 
+import json
 import re
 import shutil
 import subprocess
@@ -267,7 +268,67 @@ def mirror_git_source() -> None:
     apply_custom_patches()
 
 
+def apply_prisma_branding_json(json_path: Path) -> None:
+    """R1 — Aplica rebranding Prisma TV em arquivos JSON baixados da fonte Saimo.
+
+    Substitui referências a 'saimo-tv.pages.dev' por 'prismatv.pages.dev',
+    'https://saimo-tv/' por 'https://prisma-tv/' e 'saimo' por 'prisma' nos
+    campos identificadores, garantindo que o CI nunca reverta o rebranding.
+    """
+    if not json_path.exists():
+        return
+    content = json_path.read_text(encoding="utf-8")
+    patched = content
+    patched = patched.replace("saimo-tv.pages.dev", "prismatv.pages.dev")
+    patched = patched.replace("canais-saimo.pages.dev", "prismatv.pages.dev")
+    patched = patched.replace("https://saimo-tv/", "https://prisma-tv/")
+    patched = patched.replace("saimo-tv", "prisma-tv")
+    patched = patched.replace("saimo", "prisma")
+    patched = patched.replace("Saimo", "Prisma")
+    if patched != content:
+        json_path.write_text(patched, encoding="utf-8")
+        print(f"  Rebranding Prisma TV aplicado em {json_path.name}", flush=True)
+    else:
+        print(f"  Sem referências Saimo em {json_path.name} — sem alteração.", flush=True)
+
+
+def merge_fontes_desativadas(dest: Path, new_data: dict) -> dict:
+    """R2 — Mescla domínios desativados locais com os da fonte remota.
+
+    Preserva todos os domínios bloqueados localmente (resultado de auditorias)
+    em vez de sobrescrever com a versão menor da fonte. A chave 'historico'
+    local também é preservada integralmente.
+    """
+    if not dest.exists():
+        return new_data
+
+    try:
+        local_data = json.loads(dest.read_text(encoding="utf-8"))
+    except Exception:
+        return new_data  # arquivo local corrompido — usa versão remota
+
+    local_domains = set(local_data.get("desativados", []))
+    remote_domains = set(new_data.get("desativados", []))
+    merged_domains = sorted(local_domains | remote_domains)
+
+    merged = dict(new_data)
+    merged["desativados"] = merged_domains
+    merged["total_dominios_desativados"] = len(merged_domains)
+
+    # Preservar historico local (não presente na fonte remota)
+    if "historico" in local_data and "historico" not in new_data:
+        merged["historico"] = local_data["historico"]
+
+    added = len(merged_domains) - len(remote_domains)
+    if added > 0:
+        print(f"  Mesclagem: +{added} domínios locais preservados ({len(merged_domains)} total)", flush=True)
+
+    return merged
+
+
 def mirror_channels() -> None:
+    import json as _json
+
     print("\n== Canais ==", flush=True)
     target = ROOT / "canais"
     successes = 0
@@ -276,8 +337,42 @@ def mirror_channels() -> None:
             successes += 1
         else:
             print(f"  Ausente/indisponível: {name}", flush=True)
+
+    # R1 + R2: Download de EXTRA_FILES com tratamentos especiais por arquivo
     for name in EXTRA_FILES:
-        download_file(EXTRA_URL, name, target / name)
+        dest = target / name
+        url = EXTRA_URL.rstrip("/") + "/" + name
+        data = request_bytes(url)
+        if data is None or len(data) == 0:
+            print(f"  Ausente/vazio: {name}", flush=True)
+            continue
+
+        if dest.exists() and dest.read_bytes() == data:
+            print(f"  Sem mudança: {name}", flush=True)
+        else:
+            # R2: mesclar fontes-desativadas.json
+            if name == "fontes-desativadas.json":
+                try:
+                    new_data = _json.loads(data.decode("utf-8"))
+                    merged = merge_fontes_desativadas(dest, new_data)
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    dest.write_text(
+                        _json.dumps(merged, ensure_ascii=False, indent=2),
+                        encoding="utf-8",
+                    )
+                    print(f"  OK {name} (mesclado)", flush=True)
+                except Exception as exc:
+                    print(f"  AVISO: falha ao mesclar {name}: {exc} — gravando versão remota", flush=True)
+                    dest.write_bytes(data)
+            else:
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                dest.write_bytes(data)
+                print(f"  OK {name} ({len(data):,} bytes)", flush=True)
+
+        # R1: aplicar rebranding em todos os JSON extras
+        if name.endswith(".json"):
+            apply_prisma_branding_json(dest)
+
     if successes == 0:
         raise RuntimeError("Nenhum arquivo de canais foi baixado; confira a origem.")
     injetar_fontes_confiaveis()

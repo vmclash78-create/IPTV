@@ -268,7 +268,18 @@ def executar_agregacao() -> int:
                 canais_processados.add(norm)
                 novos_iptv_org += 1
 
-    # 7. Salvar catalogo.txt higienizado
+    # 7. Salvar catalogo.txt higienizado (com trava de segurança R4)
+    MIN_CANAIS = 100
+    if len(canais_existentes) < MIN_CANAIS:
+        print(
+            f"ERRO DE SEGURANÇA (R4): apenas {len(canais_existentes)} canais identificados "
+            f"(mínimo esperado: {MIN_CANAIS}). Abortando execução para evitar sobrescrever "
+            "playlists válidas em produção.",
+            file=sys.stderr,
+            flush=True,
+        )
+        sys.exit(1)
+
     novas_linhas_catalogo = [
         "# PRISMA TV — LISTA DE CANAIS",
         f"# Atualizado em: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}",
@@ -302,7 +313,19 @@ def executar_agregacao() -> int:
 
 def gerar_m3u(canais: list[dict]):
     """Gera lista.m3u (completo), canais.m3u (espelho) e lista-web.m3u (HTTPS + H.264 para Web/Safari)."""
-    # ── 1. Geração de lista.m3u (completo com failover organizado) ──
+    # Trava de segurança R4
+    MIN_CANAIS = 100
+    if len(canais) < MIN_CANAIS:
+        print(
+            f"ERRO DE SEGURANÇA (R4): apenas {len(canais)} canais para geração de M3U "
+            f"(mínimo: {MIN_CANAIS}). Abortando.",
+            file=sys.stderr,
+            flush=True,
+        )
+        sys.exit(1)
+
+    # ── 1. Geração de lista.m3u (completo com failover organizado e dedup por URL R3) ──
+    seen_urls_lista: set[str] = set()
     m3u_linhas = ["#EXTM3U"]
     for ch in canais:
         nome = ch["nome"]
@@ -310,9 +333,16 @@ def gerar_m3u(canais: list[dict]):
         cat = ch.get("categoria", "Geral")
         fontes = ch.get("fontes", [])
 
-        for idx, f in enumerate(fontes):
-            url = f["url"]
-            sufixo = f" (Fonte {idx+1})" if len(fontes) > 1 and idx > 0 else ""
+        idx_fonte = 0
+        for f in fontes:
+            url = f["url"].strip()
+            # R3: deduplicação por URL para evitar repetição de stream sob nomes variantes
+            if not url or url in seen_urls_lista:
+                continue
+            seen_urls_lista.add(url)
+            idx_fonte += 1
+
+            sufixo = f" (Fonte {idx_fonte})" if idx_fonte > 1 else ""
             if url in HEVC_STREAMS:
                 sufixo += " [HEVC]"
             nome_fmt = f"{nome}{sufixo}"
@@ -325,15 +355,17 @@ def gerar_m3u(canais: list[dict]):
     (CANAIS_DIR / "lista.m3u").write_text(m3u_text, encoding="utf-8")
     (CANAIS_DIR / "canais.m3u").write_text(m3u_text, encoding="utf-8")
     total_lista = len(m3u_linhas) // 2
-    print(f"  OK! canais/lista.m3u gerado ({total_lista} streams/fontes).")
+    print(f"  OK! canais/lista.m3u gerado ({total_lista} streams/fontes únicos — sem URLs duplicadas).")
     print(f"  OK! canais/canais.m3u sincronizado.")
 
-    # ── 2. Geração de lista-web.m3u (HTTPS + H.264 priorizado para Safari/iPhone) ──
+    # ── 2. Geração de lista-web.m3u (HTTPS + H.264 priorizado para Safari/iPhone e dedup R3) ──
     # Requisitos:
     # - Apenas HTTPS
     # - Sem /error.txt
     # - Priorizar fontes H.264
     # - Excluir streams HEVC MPEG-TS que causam tela preta no iOS/Safari quando houver alternativa ou incompatibilidade
+    # - R3: Deduplicação por URL de stream
+    seen_urls_web: set[str] = set()
     web_linhas = ["#EXTM3U"]
     canais_web_count = 0
 
@@ -355,9 +387,16 @@ def gerar_m3u(canais: list[dict]):
         # Prioridade total para H.264; só usa HEVC se for o único stream do canal
         fontes_selecionadas = fontes_h264 if fontes_h264 else fontes_hevc
 
-        for idx, f in enumerate(fontes_selecionadas):
-            url = f["url"]
-            sufixo = f" (Fonte {idx+1})" if len(fontes_selecionadas) > 1 and idx > 0 else ""
+        idx_web = 0
+        for f in fontes_selecionadas:
+            url = f["url"].strip()
+            # R3: deduplicação por URL
+            if not url or url in seen_urls_web:
+                continue
+            seen_urls_web.add(url)
+            idx_web += 1
+
+            sufixo = f" (Fonte {idx_web})" if idx_web > 1 else ""
             if url in HEVC_STREAMS:
                 sufixo += " [HEVC - Safari Incompativel]"
             nome_fmt = f"{nome}{sufixo}"
@@ -369,7 +408,7 @@ def gerar_m3u(canais: list[dict]):
 
     web_text = "\n".join(web_linhas)
     (CANAIS_DIR / "lista-web.m3u").write_text(web_text, encoding="utf-8")
-    print(f"  OK! canais/lista-web.m3u gerado ({canais_web_count} canais HTTPS/H.264 compatíveis).")
+    print(f"  OK! canais/lista-web.m3u gerado ({canais_web_count} canais HTTPS/H.264 únicos compatíveis).")
 
 
 if __name__ == "__main__":
