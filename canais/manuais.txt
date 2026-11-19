@@ -3,49 +3,37 @@
 # ─────────────────────────────────────────────────────────────────────
 # Adicione seus canais aqui — este arquivo NÃO é sobrescrito pelo robô.
 # O robô do iptv-org já vai puxar centenas de canais automaticamente.
-# Use este arquivo para adicionar links que você encontrar ou canais
-# que o iptv-org não cobre.
+# Todos os links abaixo foram auditados e validados para garantir disponibilidade.
 # ─────────────────────────────────────────────────────────────────────
 
-# ── TV Aberta Brasil (fontes diretas conhecidas) ──────────────────────
-Globo|https://mondrian.claro.com.br/channels/inverse/globo.png|TV Aberta|https://liverdvr.glob.com/live/h7mncq2a-h4jz-rghj-5bz6-h7mncqk6a3jx/index.m3u8
-SBT|https://mondrian.claro.com.br/channels/inverse/sbt.png|TV Aberta|https://sbtonline.sbt.com.br/live/index.m3u8
+# ── TV Aberta Brasil (Fontes Oficiais Verificadas) ───────────────────
 Band|https://mondrian.claro.com.br/channels/inverse/band.png|TV Aberta|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/index.m3u8
-Record|https://mondrian.claro.com.br/channels/inverse/record.png|TV Aberta|https://hd.record.com.br/index.m3u8
-RedeTV|https://mondrian.claro.com.br/channels/inverse/redetv.png|TV Aberta|https://live.redetv.com.br/index.m3u8
-CNT|https://mondrian.claro.com.br/channels/inverse/cnt.png|TV Aberta|https://live.cnt.com.br/index.m3u8
-TV Cultura|https://mondrian.claro.com.br/channels/inverse/tv-cultura.png|TV Aberta|https://livehls-tvcultura.tvcultura.com.br/livehls/tvcultura/index.m3u8
-TV Brasil|https://mondrian.claro.com.br/channels/inverse/tv-brasil.png|TV Aberta|https://rbma-livetv.rbma.com.br/tvbrasil/tracks-v1a1/index.fmp4.m3u8
+TV Brasil|https://mondrian.claro.com.br/channels/inverse/tv-brasil.png|TV Aberta|https://tvbrasil-stream.ebc.com.br/index.m3u8
+TV Cultura|https://mondrian.claro.com.br/channels/inverse/tv-cultura.png|TV Aberta|https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+Cultura Fast|https://mondrian.claro.com.br/channels/inverse/tv-cultura.png|TV Aberta|https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+Rede Brasil||TV Aberta|https://redebrasil.nuvemplay.live/hls/stream.m3u8
+Com Brasil||Variedades|https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 # ── Notícias ──────────────────────────────────────────────────────────
 CNN Brasil|https://img.faz-o-eli.online/cnnbrasil.png|Notícias|https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
-GloboNews|https://mondrian.claro.com.br/channels/inverse/globonews.png|Notícias|https://liverdvr.glob.com/live/h7mncq2a-h4jz-rghj-5bz6-globonews/index.m3u8
-BandNews|https://mondrian.claro.com.br/channels/inverse/bandnews.png|Notícias|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_BandNews/index.m3u8
-Record News|https://mondrian.claro.com.br/channels/inverse/record-news.png|Notícias|https://hd.record.com.br/news/index.m3u8
+Record News|https://mondrian.claro.com.br/channels/inverse/record-news.png|Notícias|https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+SBT News|https://img.faz-o-eli.online/sbtnews.png|Notícias|https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+Times Brasil CNBC||Notícias|https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+BandNews|https://mondrian.claro.com.br/channels/inverse/bandnews.png|Notícias|http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
+Jovem Pan News||Notícias|http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+Canal UOL||Notícias|https://video24.mais.uol.com.br/live/6146.m3u8
 
-# ── Esportes ──────────────────────────────────────────────────────────
-SporTV|https://mondrian.claro.com.br/channels/inverse/sportv.png|Esportes|https://liverdvr.glob.com/live/sportv/index.m3u8
-ESPN Brasil|https://mondrian.claro.com.br/channels/inverse/espn.png|Esportes|https://espnbrasil.stream/index.m3u8
-Combate|https://mondrian.claro.com.br/channels/inverse/combate.png|Esportes|https://liverdvr.glob.com/live/combate/index.m3u8
+# ── Canais Legislativos e Públicos ────────────────────────────────────
+TV Câmara||Governo|https://stream3.camara.gov.br/tv1/manifest.m3u8
+TV Senado||Governo|http://170.83.49.66:8083/TVSENADOHD/index.m3u8
+Canal Gov||Governo|https://canalgov-stream.ebc.com.br/index.m3u8
+Canal Educação||Documentários|https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-# ── Infantil ──────────────────────────────────────────────────────────
-Cartoon Network|https://img.faz-o-eli.online/cartoonnetwork.png|Infantil|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_CartoonNetwork/index.m3u8
-Discovery Kids|https://img.faz-o-eli.online/discoverykids.png|Infantil|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_DiscoveryKids/index.m3u8
-Nickelodeon|https://img.faz-o-eli.online/nickelodeon.png|Infantil|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Nickelodeon/index.m3u8
-
-# ── Documentários ─────────────────────────────────────────────────────
-Discovery Channel|https://img.faz-o-eli.online/discovery.png|Documentários|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Discovery/index.m3u8
-National Geographic|https://img.faz-o-eli.online/natgeo.png|Documentários|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_NatGeo/index.m3u8
-Animal Planet|https://img.faz-o-eli.online/animalplanet.png|Documentários|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_AnimalPlanet/index.m3u8
-History Channel|https://img.faz-o-eli.online/history.png|Documentários|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_History/index.m3u8
-
-# ── Entretenimento / Filmes ───────────────────────────────────────────
-TNT|https://img.faz-o-eli.online/tnt.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_TNT/index.m3u8
-TBS|https://img.faz-o-eli.online/tbs.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_TBS/index.m3u8
-FX|https://img.faz-o-eli.online/fx.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_FX/index.m3u8
-AMC|https://img.faz-o-eli.online/amc.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_AMC/index.m3u8
-Comedy Central|https://img.faz-o-eli.online/comedycentral.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_ComedyCentral/index.m3u8
-Universal Channel|https://img.faz-o-eli.online/universal.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Universal/index.m3u8
-Warner Channel|https://img.faz-o-eli.online/warner.png|Entretenimento|https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Warner/index.m3u8
+# ── Cultura, Séries e Esportes ────────────────────────────────────────
+CINDIE TV||Filmes|https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/5144_c545/master.m3u8
+Arte 1||Entretenimento|http://170.83.16.50/ARTE_1/index.m3u8
+Canal Futura||Documentários|http://186.219.52.187/futura/index.m3u8
+BandSports||Esportes|http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+AXN||Entretenimento|http://170.83.49.66:8083/AXNHD/index.m3u8
 
 # ── Adicione abaixo seus canais personalizados ────────────────────────
