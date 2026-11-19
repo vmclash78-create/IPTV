@@ -930,8 +930,7 @@ População 436	dub=18:1596
 Por Agua Abaixo (2006)	dub=18:11619,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766230.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10954.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86669.mp4
 Por Amor (1999)	dub=18:10390
 Por Amor e Honra	dub=18:140222,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762499.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30698.mp4
-Por Amor ou Por Dinheiro (1993)	dub=18:5070
-Por Amor ou Por Dinheiro (2019)	dub=18:542968
+Por Amor ou Por Dinheiro (2019)	dub=18:542968,18:5070
 Por Amor ou Por Dinheiro?	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767920.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18793.mp4
 Por Baixo do Capacete: O Legado de Boba Fett	dub=18:877181
 Por Cima do seu Cadaver (2026)	dub=18:1390300,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306266.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750834.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301404.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306287.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750862.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301225.mp4

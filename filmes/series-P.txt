@@ -88,7 +88,7 @@ Parasyte The Grey	None	0	6
 Parasyte The Maxim	2014	0	48
 Paraíso		0	250
 Paraíso Tropical		0	179
-Parceira Suspeita		0	40
+Parceira Suspeita		0	46
 Parceiras no Crime	2026	0	8
 Pardon the Intrusion Im Home		0	1
 Parede de Gelo		0	20

@@ -398,13 +398,13 @@ ChiaroScuro		3	8
 Chibi Tiny Tales		3	16
 Chibiverso		3	4
 Chica Vampiro		3	120
-Chicago Fire	2012	3	294
+Chicago Fire	2012	3	295
 Chicago Fire: Heróis Contra O Fogo		3	295
 Chicago Justice A Servico da Lei		3	13
-Chicago Med	2015	3	223
+Chicago Med	2015	3	224
 Chicago Med: Atendimento de Emergência	2015	3	219
 Chicago P D : Distrito 21		3	263
-Chicago PD	2014	3	266
+Chicago PD	2014	3	267
 Chicken Nugget		3	10
 Chico Anysio Um Homem a Procura de Um Personagem		3	5
 Chico Xavier: A Série		3	6
@@ -685,6 +685,7 @@ Conheca Homem de Ferro e seus Amigos Incriveis		5	10
 Conhecendo as Esculturas e Modelagens dos Filmes Disney		5	16
 Conheço Você		5	8
 Conor McGregor: Além do Octógono		5	4
+Conquistando o Shopping		5	8
 Consciencia		5	5
 Consciência³		5	5
 Conspiracao do Amor		5	24
@@ -710,14 +711,15 @@ Conto de Cinzas - Kül Masalı		5	10
 Contos		5	123
 Contos Do Loop		5	8
 Contos Futurísticos		5	7
+Contos da Noite		5	18
 Contos de The Walking Dead		5	12
 Contra o Destino - Kadere Karsi		5	29
 Contracapa		5	13
 Contraste		5	8
 Contratempos		5	55
 Contrato de Casamento		5	16
-Control Z	2020	5	24
-Conturbado		5	19
+Control Z	2020	6	24
+Conturbado		6	19
 Conversa com Bial		6	189
 Conversando com um Serial Killer: O Canibal de Milwaukee		6	3
 Conversando com um serial killer O Filho de Sam		6	3
@@ -836,8 +838,8 @@ Crepúsculo de Um Crime		6	6
 Crescendo		6	10
 Crescidinhos		6	19
 Criadas E Malvadas		6	26
-Criadas Malignas - Hizmetçiler		6	3
-Criadores de Diversão		6	8
+Criadas Malignas - Hizmetçiler		7	3
+Criadores de Diversão		7	8
 Criadores de Supercarros		7	15
 Criadores do Futuro		7	3
 Criando Delicias		7	16

@@ -496,7 +496,8 @@ Justiceiras	dub=18:762968,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/276
 Justiceiro por Elas	dub=18:855397
 Justin Bieber Never Say Never	dub=18:54518	leg=18:54518.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76175.mp4
 Justin Bieber: Nosso Mundo (2021)	dub=18:871858	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76178.mp4
-Justin Timberlake: [2013] Rock in Rio	dub=18:510582,18:242110
+Justin Timberlake: Rock in Rio	dub=18:510582
+Justin Timberlake: [2013] Rock in Rio	dub=18:242110
 Justin e a Espada da Coragem	dub=18:146381,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250798.mp4
 Justiça (2004)	dub=18:228398,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759712.mp4
 Justiça - Entre a Lei e a Vingança	dub=18:453807
@@ -529,4 +530,4 @@ Já Fui Famoso	dub=18:1013228,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Já Não Me Sinto em Casa Nesse Mundo (2017)	dub=18:425591,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767838.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15708.mp4
 Já que Ninguém me Tira Para Dançar	dub=18:773565,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760211.mp4
 j-hope IN THE BOX (2023)	dub=18:1076443
-jigra	dub=18:1184889,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21483.mp4
+jigra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21483.mp4

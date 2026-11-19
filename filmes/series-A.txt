@@ -358,6 +358,7 @@ A Lei Secreta		2	120
 A Lei de Alicia		2	10
 A Lei de Ueki		2	51
 A Lei do Amor		2	155
+A Lei dos Monstros		3	4
 A Lei e o Crime		3	21
 A Lenda da Generala		3	36
 A Lenda de El Cid - El Cid		3	10
@@ -477,7 +478,7 @@ A Noiva de Istambul (Para Sempre no Meu Coração)		3	296
 A Noiva de Istambul - Para Sempre no Meu Coracao - Istanbullu Gelin		3	296
 A Noiva do Antigo Mago: O Menino do Oeste e o Cavaleiro da Tempestade Azul		3	15
 A Noiva do Demônio		3	1
-A Nova Escola do Imperador		3	20
+A Nova Escola do Imperador		4	20
 A Nova Força		4	6
 A Nova Super Máquina	2008	4	18
 A Nova Vida de Ana		4	91
@@ -597,7 +598,7 @@ A Sonhadora		4	161
 A Sonhadora - Passaro Madrugador - Erkenci Kus		4	161
 A Sorte de Loli		4	103
 A Splendid Match		4	40
-A Sucessora		4	126
+A Sucessora		5	126
 A Super Máquina		5	76
 A Superfantástica História do Balão	2023	5	3
 A Surda Absurda		5	3
@@ -717,7 +718,7 @@ A pequena espiã		5	10
 A Árvore Familiar dos Croods	2021	5	64
 A Ótica do Cinema		5	6
 A Última Coisa Que Ele Me Falou	2023	5	15
-A Última Jornada dos Vikings		5	4
+A Última Jornada dos Vikings		6	4
 A Última Onda		6	6
 A Última Rodada: Um Assassino Serial na NY Queer		6	4
 A.mar Donde el Amor Teje sus Redes		6	81
@@ -820,7 +821,7 @@ Aero Por Tras da Aviacao		6	52
 Aeroporto Area Restrita Estados Unidos		6	24
 Aeroporto Miami		6	19
 Aeroporto: Estados Unidos		6	66
-Aeroporto: Área Restrita	2017	6	87
+Aeroporto: Área Restrita	2017	6	91
 Affair		6	47
 Afinal, O Que Querem As Mulheres?		6	4
 Africa		6	6
@@ -837,7 +838,7 @@ Aftermath		6	8
 Afterschool Hanakokun		6	15
 Against the Current		6	94
 Agarre Seu Amor		6	24
-Agate		6	30
+Agate		7	30
 Agatha Christie's Poirot		7	69
 Agatha Desde Sempre	2024	7	9
 Agency		7	16
@@ -957,7 +958,7 @@ All That We Loved		7	16
 All The Way Up: Caminho para A Fama		7	10
 All of Us Are Dead		7	12
 All the Liquors		7	8
-All the Queen's Men		7	75
+All the Queen's Men		8	75
 Allen Iv3rson		8	3
 Allen v. Farrow	2021	8	4
 Alma		8	9
@@ -1076,7 +1077,7 @@ Amor Contra o Tempo		8	1
 Amor Destinado, Case Comigo Novamente		8	10
 Amor Disfarçado		8	6
 Amor Disfarçado (2026)		8	9
-Amor Doce Amor		8	5
+Amor Doce Amor		9	5
 Amor Entre Estranhos		9	52
 Amor Entre Linhas		9	62
 Amor Entre Línguas		9	13
@@ -1196,7 +1197,7 @@ Amores Verdadeiros		9	1133
 Amores com Trapacas - Amores con Trampa		9	123
 Amores que Enganam		9	10
 Amorteamo	2015	9	5
-Amphibia		9	58
+Amphibia		10	58
 Amsterdam		10	81
 Amsterdam Central 24 7		10	6
 Amy e Tammy Irmas Contra o Peso		10	66
@@ -1316,7 +1317,7 @@ Aparente Maldade		10	6
 Apartamento 404		10	8
 Apartamento 6/9	2023	10	6
 Apartamento 69		10	6
-Apenas Amigos - Sadece Arkadasiz		10	20
+Apenas Amigos - Sadece Arkadasiz		11	20
 Apenas Cães		11	6
 Apenas um Olhar		11	6
 Apenas um Show		11	247
@@ -1436,7 +1437,7 @@ As Aventuras de Gudetama		11	10
 As Aventuras de Horton		11	7
 As Aventuras de Jackie Chan	2000	11	95
 As Aventuras de Jimmy Neutron,O Menino Gênio		11	73
-As Aventuras de José e Durval	2023	11	8
+As Aventuras de José e Durval	2023	12	8
 As Aventuras de Kid Danger		12	10
 As Aventuras de Merlin	2008	12	65
 As Aventuras de Minuano Kid		12	4
@@ -1556,7 +1557,7 @@ Ashley Garcia: A de Amor		12	8
 Ashley Madison Sexo Mentiras e Escandalo		12	3
 Asim, O Vigarista		12	8
 Asla Vazgeçmem		12	159
-Asobi Asobase - workshop of fun -		12	12
+Asobi Asobase - workshop of fun -		13	12
 Asobi ni Iku yo!		13	12
 Assassinas		13	26
 Assassination Classroom	2015	13	47

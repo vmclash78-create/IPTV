@@ -617,7 +617,7 @@ Matando Salazar	dub=18:412678
 Matança (2020)	dub=18:661067,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21553.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78062.mp4
 Matança Necessária	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313978.mp4
 Matar Jesus	dub=18:466175,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764050.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27706.mp4
-Matar ou Morrer	dub=18:288,18:385309,18:412431,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752616.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756385.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44874.mp4	leg=18:288.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78067.mp4
+Matar ou Morrer (2016)	dub=18:385309,18:412431,18:288,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752616.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756385.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44874.mp4	leg=18:288.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78067.mp4
 Matar um Homem	dub=18:250374
 Matar um Tigre (2023)	dub=18:1015356,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759758.mp4
 Matar. Vingar. Repetir	dub=18:1340110,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751689.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765941.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99462.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751761.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99573.mp4
@@ -1481,7 +1481,7 @@ Mogli: O Menino Lobo (1967)	dub=18:9325
 Mogli: O Menino Lobo (2016)	dub=18:278927
 Mogli: O Menino Lobo 2 (2003)	dub=18:14873
 Mogul Mowgli	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310021.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310034.mp4
-Moisés	dub=18:1317444,18:1076435,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757636.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40896.mp4
+Moises (1995)	dub=18:1317444,18:1076435,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757636.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40896.mp4
 Moisés O Maior Príncipe Do Egito	dub=18:229354
 Mojin - A Lenda Perdida	dub=18:299824
 Molli and Max in the Future	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750937.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308645.mp4
@@ -1582,8 +1582,7 @@ Mortadelo E Salaminho - Agentes Quase Secretos	dub=18:8980
 Mortadelo e Salaminho Missao Inacreditavel (2014)	dub=18:227738,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311740.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750250.mp4
 Mortal (2020)	dub=18:489326,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760533.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5133.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79329.mp4
 Mortal Kombat	dub=https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f19633c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57059.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57071.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761887.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765229.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255735.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79346.mp4
-Mortal Kombat (1995)	dub=18:9312,18:460465
-Mortal Kombat (2021)	dub=https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f19633c/master.txt
+Mortal Kombat (2021)	dub=18:9312,18:460465,https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f19633c/master.txt
 Mortal Kombat 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5129.mp4
 Mortal Kombat 2 (2026)	dub=18:931285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306262.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306263.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750923.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5137.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301387.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751090.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301147.mp4
 Mortal Kombat A Aniquilacao (1997)	dub=18:9823,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760708.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761969.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5138.mp4

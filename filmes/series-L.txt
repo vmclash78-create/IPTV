@@ -269,6 +269,7 @@ Lockerbie Uma Busca pela Verdade	2025	2	5
 Lockwood & Co		2	8
 Lockwood and Co	2023	2	6
 Locomotivas		2	168
+Log Cabin Living		2	13
 Log Horizon		2	62
 Lois & Clark: As Novas Aventuras Do Superman		2	87
 Loki	2021	2	18
@@ -357,7 +358,7 @@ Lu & the Bally Bunch		2	26
 Lu e Seus Amigos		2	26
 Lua Cheia - Dolunay		2	81
 Lua Negra		2	6
-Lua de Mel Mortal		2	4
+Lua de Mel Mortal		3	4
 Lucas, a Aranha		3	26
 Lucifer	2016	3	93
 Lucky	2026	3	7
