@@ -27,6 +27,8 @@ struct ContentView: View {
     @State private var abriu = false
     /// Tela de perfis por cima de tudo: (obrigatória, abrir já em gerenciar).
     @State private var perfisAberto: (obrigatoria: Bool, gerenciar: Bool)?
+    /// Boas-vindas (conta ou sem login) por cima de tudo, na primeira abertura sem conta.
+    @State private var boasVindas = false
 
     var body: some View {
         ZStack(alignment: .top) {
@@ -40,6 +42,14 @@ struct ContentView: View {
                 TelaPerfis(obrigatoria: p.obrigatoria, modo: p.gerenciar ? .gerenciar : .escolher) { perfisAberto = nil }
                     .transition(.opacity)
                     .zIndex(10)
+            }
+            if boasVindas {
+                TelaBoasVindas {
+                    boasVindas = false
+                    if Perfis.deveEscolherAoAbrir { perfisAberto = (true, false) }
+                }
+                .transition(.opacity)
+                .zIndex(20)
             }
             VeuDeBrilho().zIndex(100)
         }
@@ -55,7 +65,8 @@ struct ContentView: View {
                     abertura = false
                     // Com 2 ou mais perfis, pergunta quem está assistindo (não depois da troca de perfil).
                     if CommandLine.arguments.contains("--perfil-escolhido") { Perfis.escolhidoNestaSessao = true }
-                    if Perfis.deveEscolherAoAbrir { perfisAberto = (true, false) }
+                    if TelaBoasVindas.precisa { boasVindas = true }
+                    else if Perfis.deveEscolherAoAbrir { perfisAberto = (true, false) }
                     if model.detachedList { SidebarWindowController.shared.open(model: model) }
                 }
                 .frame(width: 0, height: 0)
@@ -616,6 +627,17 @@ private struct ControlBar: View {
                 .help("Episódios (E)")
             }
 
+            if !model.chaveDoArquivo.isEmpty {
+                let visto = Progresso.visto(model.chaveDoArquivo)
+                Button {
+                    Progresso.marcarVisto(model.chaveDoArquivo, !visto)
+                    model.objectWillChange.send()
+                } label: {
+                    Image(systemName: visto ? "checkmark.circle.fill" : "checkmark.circle")
+                }
+                .help(visto ? "Desmarcar como visto" : "Marcar como visto")
+            }
+
             Menu {
                 ForEach([0.5, 0.75, 1.0, 1.25, 1.5, 2.0], id: \.self) { r in
                     Button {
@@ -1004,16 +1026,16 @@ private struct LegendaNaTela: View {
                             .background(.black.opacity(0.6), in: Capsule())
                     } else if let fala = model.legendaExternaEm(model.player.currentTime().seconds) {
                         Text(fala)
-                            .font(.system(size: 26, weight: .medium))
+                            .font(.system(size: EstiloLegenda.tamanho, weight: .medium))
                             .multilineTextAlignment(.center)
-                            .foregroundStyle(.white)
+                            .foregroundStyle(EstiloLegenda.cor)
                             .shadow(color: .black, radius: 2, x: 0, y: 1)
                             .padding(.horizontal, 14).padding(.vertical, 6)
-                            .background(.black.opacity(0.55), in: RoundedRectangle(cornerRadius: 8, style: .continuous))
+                            .background(.black.opacity(EstiloLegenda.fundo ? 0.55 : 0), in: RoundedRectangle(cornerRadius: 8, style: .continuous))
                             .frame(maxWidth: 900)
                     }
                 }
-                .padding(.bottom, acimaDosControles ? 130 : 50)
+                .padding(.bottom, (acimaDosControles ? 130 : 50) + EstiloLegenda.elevacao)
                 .padding(.horizontal, 40)
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .allowsHitTesting(false)

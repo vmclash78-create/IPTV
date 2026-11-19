@@ -13494,6 +13494,7 @@ f	Madame Durocher	1285706	/9VDAfGC2JHKhOcBiOmqvH9o4jAj.jpg	Drama,História
 f	Madame Satã	46993	/qqo0UaR8f1EIZrAD2EiKm8liJge.jpg	Crime,Drama,Romance,História
 f	Madame Teia (2024)	634492	/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg	Ação,Fantasia
 f	Madame X	42723	/pF9m0GruyTuC4H4cBROEzEaf42C.jpg	Drama,Crime
+f	Madden: O Homem e o Jogo		/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg	
 f	Maddie's Secret	1517868	/vADal7sH7E9xFr4w2k4V3EPSzF6.jpg	Comédia,Drama
 f	Made in Abyss: Amanhecer da Jornada	526426	/9JKgRfaVuu6RRBPiTp2cmKWF8re.jpg	Animação,Aventura,Mistério,Fantasia,Ficção científica
 f	Made in Abyss: Crepúsculo Errante	526429	/hX6tJnwtzyAshnqcYlEpDKH9BFK.jpg	Animação,Aventura,Fantasia,Mistério,Ficção científica
@@ -18234,6 +18235,7 @@ f	O Salvador (2014)	303021	/i4iyR0AhCsOWkmyFgFjyWj0U3YI.jpg	Família,História,D
 f	O Salvador de Almas	925488	/zmoLngFlVqFHPbHBjfLZksuQBzp.jpg	Romance,Fantasia
 f	O Salário do Medo	204	/m1CwNYtoeAXmfmRXjYSoGbl6rVA.jpg	Drama,Suspense,Aventura
 f	O Salão de Huda	782648	/6WTbZcNj7fWmzYGQGlosInfZCLA.jpg	Suspense
+f	O Samurai e o Prisioneiro		/xcGs8iSlSHNCd6YhGs1Iwgv5OI5.jpg	
 f	O Sangue de Romeu	2088	/kaL98VGy4uqAqKWjb4OBfP6SFtC.jpg	Crime,Drama,Romance
 f	O Santo	10003	/lopzLpCiHTsbukmG73ZTjQoTMBn.jpg	Suspense,Ação,Romance,Ficção científica,Aventura
 f	O Santo de Todos - Claret	642751	/buoZ9K8Z7yZ4nATcv5SkFxcSrNz.jpg	História
@@ -20757,6 +20759,7 @@ f	Propriedade (2023)	1030571	/yrlKP6OIv2jsQz6qIfHn5dlsYJ6.jpg	Drama,Suspense
 f	Propriedade Privada	860860	/2qyX994JMYLrjsTPcig5NwcbmNh.jpg	Drama,Suspense,Crime
 f	Prorok	1029622	/ycsIWJ7bAc563TPRYMtjGVTDX2Q.jpg	História,Drama
 f	Prospect	506072	/1HpAwszXLsD8GeypDzK0me7fPFA.jpg	Ficção científica
+f	Protegendo Estrelas		/lcjabMgrRfWGs81vq9vGK0tERDo.jpg	
 f	Protegendo o Inimigo	59961	/A5rFBuNyH5LdZiR20FPYu6fJSfl.jpg	Ação,Suspense
 f	Protegendo o Paraíso: A História de Niue (2024)	1300132	/8QjT0rbicohkCUc5143yiStHssU.jpg	Documentário
 f	Protegida Por um Anjo	9756	/dP0MedlsqvSwbTqiEwWkk7h0hHc.jpg	Suspense,Terror,Drama
@@ -21768,6 +21771,7 @@ f	Rogue Warfare 3: A Morte de uma Nação (2020)	635780	/8GVpIEBqlRBvx28G0LfEX0U
 f	Rogue o Assassino (2007)	10431	/uD82pHlfi7qhNh1DFCTueMeXifP.jpg	Ação,Crime,Suspense
 f	Rojo	1563588	/4yZTw3bQ8jMWrlx5w3JWzkx8wls.jpg	Drama,História,Suspense
 f	Roland Doe: A Verdadeira História de O Exorcista	803381	/5dHeon4cc4PeDo2NXpgrTBgieMh.jpg	Documentário
+f	Rolling Loud: Um Festival de Problemas		/sZO7LHrza8exExg6hBqdCV5ePCA.jpg	
 f	Rolou Uma Química		/6DriWaJrWJai7Aq5H012kg8x7d5.jpg	
 f	Rolê - Histórias dos Rolezinhos	878376	/2REiuVZe1fdlIL3JrJVzZ8fCaVG.jpg	Documentário
 f	Roma	426426	/veWGVw33lnifG10fpkz3QmimVaI.jpg	Drama
@@ -24903,6 +24907,7 @@ f	Turma Reunida no Natal	1028537	/3hGT2qtlSPMj1smIFgNftQvs7pc.jpg	TV,Romance,Com
 f	Turma da Luta	233490	/8Yhe0miE0yOsOpnmKevqd8ZiBl0.jpg	Família,Ação
 f	Turma da Monica: Lacos (2019)	459670	/mZ9BeuuvvurtCcZpUtwmxUtNK0i.jpg	Família,Aventura,Comédia
 f	Turma da Mônica Apresenta: Cebolinha	897382	/gT5LyBtrwoIOQffnEuS0BGbg4yN.jpg	Animação,Comédia
+f	Turma da Mônica Jovem: Incertezas		/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg	
 f	Turma da Mônica Jovem: Reflexos do Medo	1056437	/zG1YYywzTRf791p146Ae5REh9h6.jpg	Aventura,Comédia,Fantasia
 f	Turma da Mônica em Cine Gibi 3: Planos Infalíveis	86138	/tgQH0Z2dFxgVN6l9mh94720J6ad.jpg	Animação,Família,Comédia
 f	Turma da Mônica em Uma Aventura no Tempo	51137	/4gtgUYAngSN6NlFX2ybJSDKCSVE.jpg	Animação,Comédia,Aventura,Família,Ficção científica
@@ -29320,6 +29325,7 @@ s	Borderliner		/pcuR3MoagTzoag2uOULf254w2sw.jpg
 s	Bordertown	554	/nesUYa5eGVbhdZJUD8UYh6ikXBL.jpg	Faroeste,Drama
 s	Borgen	42445	/3wB4R3Ac3lKSQWKpoU0zeRY8XqL.jpg	Drama
 s	Borges	156994	/cK4oajKVnciZV1v94CxzRYDoGaa.jpg	
+s	Boris		/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg	
 s	Born with Luck	272432	/e4JlZu0PAQ2Qpg4Tj4qDfD0ePO1.jpg	Drama,Mistério,Crime,Comédia
 s	Boruto	70881	/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg	Animação,Ação e aventura,Comédia
 s	Boruto: Naruto Next Generations	70881	/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg	Animação,Ação e aventura,Comédia
@@ -31820,6 +31826,7 @@ s	Goodbye, Lara	295071	/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg	Animação,Drama,Ficçã
 s	Goop: Muito Além do Prazer	134367	/rYDiYyEeP1zRIa2tBqIF1VVIkFy.jpg	Reality,Talk show,Documentário
 s	Goosebumps	5835	/km7uuxaU4mzp49Hpt5hxnLx7p6F.jpg	Ficção e fantasia,Mistério,Infantil,Comédia
 s	Goosebumps: O Desaparecimento	281666	/w5gAM9AjwLNljWh4DibprhfSG9U.jpg	Ação e aventura,Ficção e fantasia,Mistério
+s	Gordon		/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg	
 s	Gordon Ramsay Do Inferno ao Paraiso em 24h		/uUJlLoFjPQy2Z9TmJquntAOYEZu.jpg	
 s	Gordon Ramsay Servico Secreto	288712	/gtrCNNf7BAbi9gG5SKqQW8BEpnc.jpg	Reality
 s	Gordon Ramsay's Food Stars		/5zU1UWyoBglgwi8AHbCLVe23Bfm.jpg	
@@ -33731,6 +33738,7 @@ s	Meu Amor por Você	291392	/c2SqqmHDfjysKosPzLd460YHaeU.jpg	Drama
 s	Meu Amor: Seis Histórias De Amor Verdadeiro		/lzWNo5qRRvZ0SkmoFgnJ62EtMk.jpg	
 s	Meu Anjo de Vizinha Me Mima Demais	154743	/hXhtuSNOpOrLV734jPsTRhiuu2C.jpg	Animação,Comédia
 s	Meu Ayrton por Adriane Galisteu	304309	/g3F58RRJrhCX0Jgc7bctH05mAff.jpg	Documentário
+s	Meu Bem, Meu Mal		/whbHXp8H3cNTvJj6AQdv6v0yaPG.jpg	
 s	Meu Caminho e Te Amar	213852	/fb7VS43lRRM0jgkohzD0fDOmdVG.jpg	Novela,Drama
 s	Meu Casamento Feliz	196944	/aaxTlygMSwywNvJT9BaZ59yFNv2.jpg	Animação,Drama,Ficção e fantasia
 s	Meu Chefe	240437	/lPt0S6EmVAaGmqf5zcHHK6dYQ16.jpg	Comédia,Drama
@@ -35323,6 +35331,7 @@ s	Orphan Black: Echoes		/kJyVhgugJm8imqz9WGEqgAJJbWT.jpg
 s	Os	31581	/iGBVdCeI2hhWGhmlNckjZV3VRdq.jpg	Comédia
 s	Os 100	48866	/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg	Ficção e fantasia,Ação e aventura,Drama,Crime
 s	Os 12 Macacos	60948	/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg	Ficção e fantasia,Drama
+s	Os 12 Signos de Valentina		/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg	
 s	Os 13 Fantasmas do Scooby-Doo		/48o9m9rV3BEfltJnoGE3PEFo4cI.jpg	
 s	Os 20 dias de Lazaro	230273	/i6S0nnk0PuNhTAvfh7PlxE062ke.jpg	Documentário
 s	Os 24 Estratagemas de Changan	254482	/e0gnAULF6kMY4AEcnfNn3U3u2Mz.jpg	Drama,Mistério,Guerra e política
@@ -37790,6 +37799,7 @@ s	The Comey Rule	104954	/wftjHCpgqziAw42JZWdFWhro3km.jpg	Guerra e política,Dram
 s	The Confession Tapes	73792	/lIQuqN6E2ayR8NPflHHh5FX1YJ5.jpg	Documentário
 s	The Conners		/xUXN3E67qVyTiftGptfhcmfDasW.jpg	
 s	The Control Room		/mpHGWe5vnU20KU69Kq3OTVSDVRl.jpg	
+s	The Cool Kids		/m0EqmQqCQ5zkofwkVwoB5chodfa.jpg	
 s	The Copenhagen Test	246412	/iAjcpCceLixP5k9lRw1y4fhsLwV.jpg	Ação e aventura,Mistério,Ficção e fantasia
 s	The Crazy Ones	58932	/s2e7hTrdmNUaJDf0yDP5b4AHvrD.jpg	Comédia
 s	The Creep Tapes	256201	/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg	Mistério,Drama
@@ -38578,6 +38588,7 @@ s	Um Pesadelo de Casamento	196907	/8Ztnf95X7X1jyK6dA3W5uiuDJKM.jpg	Drama
 s	Um Planeta Perfeito	115194	/2kptTpwMIwikKsIV1HAIIReiEq5.jpg	Documentário
 s	Um Pouco Grande Demais	67657	/zxNXwnC70N9R6Z45fyZrNrukl4T.jpg	Comédia,Família,Animação,Ação e aventura,Faroeste
 s	Um Rapaz Adequado	105883	/41uoxs7ZbKCf9K2s2wRWb8meWny.jpg	Drama
+s	Um Refúgio para o Amor		/6XBkx9nu4pPumJZGXnH6SLimCEg.jpg	
 s	Um Romance Sem Igual		/6AsTEQ8w1En6mImS87YTLoQS7uD.jpg	
 s	Um Sonho até Você	301412	/wtdOlHpGDoMtAopJ6xmaKYwhxEp.jpg	Drama,Comédia
 s	Um Tanto Familiar	304869	/cJ198pjkfCzUdbNleYsJSBXDdbd.jpg	Documentário
@@ -57367,14 +57378,3 @@ s	何かおかしい	201887	/xfZjXJNX6wnEGkhdGtqUbKdhhKp.jpg	Crime,Mistério
 s	大空港～GATE24～		/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg	
 s	도깨비 10주년 여행		/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg	
 s	﻿Happy End: Por Trás da Webcam	122648	/lXPKh0zNxXvrKOyUZuUwl3wiGjX.jpg	Drama,Comédia
-f	Madden: O Homem e o Jogo		/hCJ93wcAb0zGFK3G4MgkWJKx6Lm.jpg	
-f	O Samurai e o Prisioneiro		/xcGs8iSlSHNCd6YhGs1Iwgv5OI5.jpg	
-f	Protegendo Estrelas		/lcjabMgrRfWGs81vq9vGK0tERDo.jpg	
-f	Rolling Loud: Um Festival de Problemas		/sZO7LHrza8exExg6hBqdCV5ePCA.jpg	
-f	Turma da Mônica Jovem: Incertezas		/zHV5MO3VZgjrL7KPa2h6w1aoDBJ.jpg	
-s	Boris		/jPZe3X3mfQdqtWMLlTg8VYB8y5N.jpg	
-s	Gordon		/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg	
-s	Meu Bem, Meu Mal		/whbHXp8H3cNTvJj6AQdv6v0yaPG.jpg	
-s	Os 12 Signos de Valentina		/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg	
-s	The Cool Kids		/m0EqmQqCQ5zkofwkVwoB5chodfa.jpg	
-s	Um Refúgio para o Amor		/6XBkx9nu4pPumJZGXnH6SLimCEg.jpg	

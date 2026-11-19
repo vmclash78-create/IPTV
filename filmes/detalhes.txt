@@ -348,7 +348,7 @@ f	2000 Metros até Andriivka	2025	8.2		1
 f	2001 Maníacos	2005	5.5		1
 f	2001: Uma Odisseia no Espaco (1968)	1968	8.0	L	18
 f	2001: Uma Odisséia no Espaço	1968	8.0	L	18
-f	2010: O Ano em que Faremos Contato	1984	6.7	L	5
+f	2010: O Ano em que Faremos Contato	1984	6.7	L	4
 f	2012	2009	5.9	12	15
 f	2019 O Ano da Extincao (2010)	2010	6.3	12	4
 f	2019: O Ano da Extinção	2010	6.3	12	4
@@ -569,7 +569,7 @@ f	7 Dias em Entebbe (2018)	2018	5.8	12	2
 f	7 Dias para Vegas	2019	5.2		1
 f	7 Dias para Vegas (2019)	2019	5.2		1
 f	7 Guardians of the Tomb	2018	5.3		2
-f	7 Minutos na Escuridão (2018)	2018	5.7	14	0
+f	7 Minutos na Escuridão (2018)	2018	5.7	14	1
 f	7 Mulheres e Um Mistério	2021	5.5	16	1
 f	7 Mulheres e Um Mistério (2021)	2021	5.5	16	1
 f	7 Múmias	2006	3.3		0
@@ -667,7 +667,7 @@ f	A Agenda Secreta do Meu Namorado	2004	5.4		2
 f	A Agenda Secreta do Meu Namorado (2004)	2004	5.4		2
 f	A Agente Polonesa	2025	5.9		1
 f	A Agente Polonesa (2025)	2025	5.9		1
-f	A Alcateia	2015	5.7	16	0
+f	A Alcateia	2015	5.7	16	1
 f	A Aldeia dos Amaldiçoados	1960	7.2		2
 f	A Alma da America (2020)	2020			0
 f	A Alma da América	2020			0
@@ -705,7 +705,7 @@ f	A Arte da Conquista	2011	6.6	12	2
 f	A Arte da Conquista (2011)	2011	6.6	12	2
 f	A Arte da Guerra (2000)	2000	5.7	14	2
 f	A Arte da Guerra 3 (2009)	2009	4.0		1
-f	A Arte da Guerra II (2008)	2008	4.7		2
+f	A Arte da Guerra II (2008)	2008	4.7		1
 f	A Arte da Paixão	2013	5.4		1
 f	A Arte da Sobrevivência	2023			0
 f	A Arte das Oito Armas	2024	6.8		1
@@ -983,7 +983,7 @@ f	A Casa da Colina	1960	6.9	14	1
 f	A Casa da Colina (1999)	1999	5.6		3
 f	A Casa da Morte	2000	4.8		0
 f	A Casa da Morte (2022)	2022	4.8		0
-f	A Casa da Rússia	1990	6.1	L	1
+f	A Casa da Rússia	1990	6.1	L	2
 f	A Casa da Árvore	2023			0
 f	A Casa das Coelhinhas (2008)	2008	5.7	12	3
 f	A Casa das Flores: O Filme	2021	7.9	16	1
@@ -1004,7 +1004,7 @@ f	A Casa de Vidro 2	2006	5.7		1
 f	A Casa do Engano	2024	6.0		1
 f	A Casa do Engano (2024)	2024	6.0		1
 f	A Casa do Espanto	1985	6.2		3
-f	A Casa do Espanto 2	1987	5.6		2
+f	A Casa do Espanto 2	1987	5.5		1
 f	A Casa do Espanto 3	1989	5.4		1
 f	A Casa do Espanto 4 - Decisão para a Loucura	1992	4.6		0
 f	A Casa do Fim dos Tempos	2013	6.8	14	1
@@ -1506,7 +1506,7 @@ f	A Face da Guerra (2018)	2018			0
 f	A Face da Morte	1997			0
 f	A Face da Morte - o Demônio Veste Sorriso (2012)	2012	4.3		1
 f	A Face da Verdade	1994	6.7		1
-f	A Face da Verdade (2019)	2019			1
+f	A Face da Verdade (2019)	2019			0
 f	A Face da Vingança	2023	6.7	16	0
 f	A Face do Mal	2014	5.3		0
 f	A Face do Predador	2007	4.1		0
@@ -1663,7 +1663,7 @@ f	A Força da Mulher	2023			0
 f	A Força da Mulher (2023)	2023			0
 f	A Força da Natureza	2020	5.1	16	1
 f	A Força de Um Sonho	2011			0
-f	A Força de um Amor	1983	5.9	16	1
+f	A Força de um Amor	1983	5.9	16	2
 f	A Força de um Campeão (2010)	2010			0
 f	A Força do Destino	1982	7.0	16	4
 f	A Força do Destino (1982)	1982	7.0	16	4
@@ -1695,8 +1695,8 @@ f	A Fuga de Hitler	2010			0
 f	A Fuga do Planeta Terra (2013)	2013	5.8	L	3
 f	A Fuga do Planeta dos Macacos	1971	6.4	L	3
 f	A Fuga do Prisioneiro 614	2018	4.9		1
-f	A Fuga dos Avós	2019	5.5		1
-f	A Fuga dos Avós (2019)	2019	5.5		1
+f	A Fuga dos Avós	2019	5.5		0
+f	A Fuga dos Avós (2019)	2019	5.5		0
 f	A Funcionária do Mês (2022)	2022		14	0
 f	A Furia (2019)	2019	5.5		1
 f	A Furia de Becky (2023)	2023	6.4		3
@@ -1737,7 +1737,7 @@ f	A Gangue da Pesada	1979	7.0		2
 f	A Gangue da Tortinha de Maça	1975	6.6		1
 f	A Gangue da Tortinha de Maçã Ataca Novamente	1979	6.4		1
 f	A Gangue de Paris	2022	5.9	14	0
-f	A Gangue dos Dobermans	1972	6.6		0
+f	A Gangue dos Dobermans	1972	6.6		1
 f	A Gangue está em Campo	2006	7.1		3
 f	A Gangue está em Campo (2006)	2006	7.1		3
 f	A Gangue: Uma Noite de Terror (2020)	2020			0
@@ -1854,7 +1854,7 @@ f	A Grande Muralha	2016	6.0	12	6
 f	A Grande Muralha (2016)	2016	6.0	12	6
 f	A Grande Muralha Verde	2020			0
 f	A Grande Praga	2008	4.3		0
-f	A Grande Sacada	2017			1
+f	A Grande Sacada	2017			0
 f	A Grande Viagem da Sua Vida	2025	6.1	12	4
 f	A Grande Viagem da Sua Vida (2025)	2025	6.1	12	4
 f	A Grande Viagem de Fernão de Magalhães	2020			0
@@ -1916,7 +1916,7 @@ f	A Herança (2020)	2020			0
 f	A Herança (2024)	2024		16	0
 f	A Herança (2025)	2024		16	0
 f	A Herança de Mr. Deeds	2002	5.9	L	4
-f	A Herança do Véu Encantado	2022	7.1	L	1
+f	A Herança do Véu Encantado	2022	7.1	L	0
 f	A Herança dos Devassos	1979			0
 f	A Herdeira	1972			0
 f	A Herdeira (2015)	2015	5.8	16	2
@@ -2128,14 +2128,14 @@ f	A Intérprete	2005	6.3	14	3
 f	A Inundação (2017)	2017	4.7		0
 f	A Invasao (2018)	2018	4.8		1
 f	A Invasao (2020)	2010	5.1	14	3
-f	A Invasao - Ocupacao Alienigena (2020)	2020	6.2		1
+f	A Invasao - Ocupacao Alienigena (2020)	2020	6.2		2
 f	A Invasao Zumbi (2012)	2012	4.2		1
 f	A Invasora	2007	6.8	18	2
 f	A Invasora (2007)	2007	6.8	18	2
 f	A Invasão	2016	6.2	16	6
 f	A Invasão (1996)	1996	6.0		3
 f	A Invasão (2019)	2016	6.2	16	6
-f	A Invasão - Ocupação Alienígena	2020	6.2		1
+f	A Invasão - Ocupação Alienígena	2020	6.2		2
 f	A Invasão 2	2020	6.9	12	4
 f	A Invasão Alienígena	2020	4.2		1
 f	A Invasão Alienígena (2020)	2020	4.2		1
@@ -2236,7 +2236,7 @@ f	A Lenda da Befana	2018	5.3		1
 f	A Lenda da Befana (2018)	2018	5.3		1
 f	A Lenda da Befana: O Inicio (2021)	2021	5.9		1
 f	A Lenda da Befana: O Início	2021	5.9		1
-f	A Lenda da Ilha do Pó	2018	6.1		0
+f	A Lenda da Ilha do Pó	2018	6.1		1
 f	A Lenda da Nahuala (2007)	2007	8.2	L	7
 f	A Lenda da Passagem Secreta	2010	5.7		1
 f	A Lenda da Serpente	2019	7.7	12	3
@@ -2714,7 +2714,7 @@ f	A Mulher de Preto (2012)	2012	6.2	14	3
 f	A Mulher de Preto 2: Anjo da Morte	2014	5.2		2
 f	A Mulher de Preto 2: Anjo da Morte (2014)	2014	5.2		2
 f	A Mulher de um Espião	2020	6.7		1
-f	A Mulher do Lago (2019)	2019	5.2	16	1
+f	A Mulher do Lago (2019)	2019	5.2	16	0
 f	A Mulher do Meu Irmão	2005	6.5		2
 f	A Mulher do Meu Marido	2019		14	0
 f	A Mulher do Meu Marido (2019)	2019		14	0
@@ -2935,14 +2935,14 @@ f	A Outra Filha (2018)	2018	5.5	12	0
 f	A Outra Historia Americana	1998	8.3	16	12
 f	A Outra Historia Americana (1998)	1998	8.3	16	12
 f	A Outra Mae	2017	6.8		0
-f	A Outra Mulher (2018)	2018	5.0	12	1
+f	A Outra Mulher (2018)	2018	5.0	12	2
 f	A Outra Mãe (2017)	2017	6.8		0
 f	A Outra Terra	2011	6.7		2
 f	A Outra Terra (2011)	2011	6.7		2
 f	A Outra Zoey	2023	6.9	14	3
 f	A Outra Zoey (2023)	2023	6.9	14	3
 f	A Ouvinte	2024	5.5	L	1
-f	A Ovelha Negra	2015	7.0	12	0
+f	A Ovelha Negra	2015	7.0	12	1
 f	A Paisana (2025)	2025	7.4	16	2
 f	A Paixao de Cristo	2004	7.5	14	11
 f	A Paixao de Cristo (2004)	2004	7.5	14	11
@@ -2984,7 +2984,7 @@ f	A Pedra da Serpente	2019		16	0
 f	A Pedra da Serpente (2019)	2019		16	0
 f	A Pedreira	2020	5.2		1
 f	A Pedreira (2020)	2020	5.2		1
-f	A Pele	2006	6.1		1
+f	A Pele	2006	6.1		2
 f	A Pele Fria (2017)	2017	6.4	16	2
 f	A Pele Que Habito	2011	7.5	16	5
 f	A Pele Que Habito (2011)	2011	7.5	16	5
@@ -3000,7 +3000,7 @@ f	A Pequena Grande Fazenda: O Retorno (2022)	2022	7.3	12	0
 f	A Pequena Indomável	2020			0
 f	A Pequena Indomável (2020)	2020			0
 f	A Pequena Locomotiva	2011			1
-f	A Pequena Loja dos Horrores (1986)	1986	7.0	12	6
+f	A Pequena Loja dos Horrores (1986)	1986	7.0	12	4
 f	A Pequena Morte	2014	6.7	16	2
 f	A Pequena Morte (2014)	2014	6.7	16	2
 f	A Pequena Sereia	2023	6.3	10	8
@@ -3054,7 +3054,7 @@ f	A Possessão de Mary	2019	5.0		1
 f	A Possessão de Piper Rose	2011	5.7		0
 f	A Possessão do Mal	2014	6.2		4
 f	A Poucos Passos de Paris	2018		16	0
-f	A Praga	2025	6.4		3
+f	A Praga	2025	6.4		2
 f	A Praga (2021)	2021		16	0
 f	A Praia	2000	6.5	16	4
 f	A Praia (2000)	2000	6.5	16	4
@@ -3096,7 +3096,7 @@ f	A Primeira Vez	2012	7.0		2
 f	A Primeira Vez do Cinema Brasileiro	2013			1
 f	A Primeira-Dama do Estado Islâmico	2022			0
 f	A Primeira-Dama do Estado Islâmico (2022)	2022			0
-f	A Prince in Paradise	2023	7.2		1
+f	A Prince in Paradise	2023	7.2		2
 f	A Princesa	1987	7.7		10
 f	A Princesa (2022)	2022	6.8		3
 f	A Princesa E A Plebeia Nova Aventura	2020	6.8	L	3
@@ -3264,7 +3264,7 @@ f	A Redenção – A História Real de Bonhoeffer (2024)	2024	6.8		2
 f	A Repartição do Tempo	2016		14	0
 f	A Repossuida (1990)	1990	5.3		2
 f	A Reputação	2024			0
-f	A Resistência	2010	7.1		1
+f	A Resistência	2010	7.1		2
 f	A Ressaca	2010	6.1	18	3
 f	A Ressaca (2010)	2010	6.1	18	3
 f	A Ressaca 2	2015	5.2	16	2
@@ -3298,7 +3298,7 @@ f	A Roda da Fortuna	1953	7.2	L	1
 f	A Roda da Fortuna (1953)	1953	7.2	L	1
 f	A Roleta da Morte	2023	6.4		0
 f	A Roleta da Morte (2023)	2023	6.4		0
-f	A Ronda da Vingança	1953			0
+f	A Ronda da Vingança	1953			1
 f	A Rosa Azul de Novalis	2018			0
 f	A Rosa Negra (1950)	1950	6.5		0
 f	A Rosa Púrpura do Cairo	1985	7.4	12	2
@@ -3681,7 +3681,7 @@ f	A Vida de Togo (2022)	2022	6.3	16	1
 f	A Vida de Tove Jansson	2020	6.5	16	1
 f	A Vida de Tove Jansson (2020)	2020	6.5	16	1
 f	A Vida de Um Campeão	2010	6.8		0
-f	A Vida de uma Mulher	2016	5.6		0
+f	A Vida de uma Mulher	2016	5.6		1
 f	A Vida do Livreiro A.J. Fikry	2022	6.6		1
 f	A Vida do Livreiro AJ Fikry (2022)	2022	6.6		1
 f	A Vida dos Leopardos	2024	7.6	10	0
@@ -3698,7 +3698,7 @@ f	A Vida em um Ano (2020)	2020	8.2	12	4
 f	A Vida em um Pote de Vidro	2022			0
 f	A Vida no Skate com Leo Baker	2022		16	0
 f	A Vida no Skate com Leo Baker (2022)	2022		16	0
-f	A Vida por Philomena Cunk (2024)	2024	7.4	16	1
+f	A Vida por Philomena Cunk (2024)	2024	7.4	16	3
 f	A Vida É Um Circo, Charlie Brown	1980	6.6		0
 f	A Vida É Um Circo,Charlie Brown	1980	6.6		0
 f	A Vida à Parte	2023		L	0
@@ -4074,7 +4074,7 @@ f	Abraço de Mãe	2024	6.2	16	0
 f	Abraço de Mãe (2024)	2024	6.2	16	0
 f	Abrigo Inocentes Sob Ataque	2022			0
 f	Abril Despedaçado	2001	7.4	12	0
-f	Abril e o Mundo Extraordinário	2015	7.1	L	1
+f	Abril e o Mundo Extraordinário	2015	7.1	L	2
 f	Absolutamente Impossível	2015	5.9	14	3
 f	Absolutamente Impossível (2015)	2015	5.9	14	3
 f	Absolutely Fabulous: O Filme	2016	5.3		2
@@ -4115,8 +4115,8 @@ f	Acampamento do Papai	2007	4.9	L	2
 f	Acampamento do Papai (2007)	2007	4.9	L	2
 f	Acampamento do Pecado	2020	6.3	16	2
 f	Acampamento do Pecado (2020)	2020	6.3	16	2
-f	Acampamento do Terror	2016	5.6		0
-f	Acampamento do Terror (2016)	2016	5.6		0
+f	Acampamento do Terror	2015	5.6		1
+f	Acampamento do Terror (2016)	2015	5.6		1
 f	Acampamento em Familia (2022)	2022	5.2	L	0
 f	Acampamento em Família	2022	5.2	L	0
 f	Acampamento no Inferno: Pesadelo Adolescente	2023	5.8		0
@@ -4163,7 +4163,7 @@ f	Acompanhante Perfeita (2025)	2025	7.0	16	11
 f	Acompanhante de Luxo	2023		18	1
 f	Aconteceu Naquela Noite	1934	7.8	L	3
 f	Aconteceu Naquela Noite (1934)	1934	7.8	L	3
-f	Aconteceu de Novo no Natal do Mickey	2004	7.0	L	4
+f	Aconteceu de Novo no Natal do Mickey	2004	7.0	L	5
 f	Aconteceu na Noite de Natal	2001	5.6		1
 f	Aconteceu no Natal do Mickey	1999	7.1	L	4
 f	Aconteceu no Natal do Mickey (1999)	1999	7.1	L	4
@@ -4224,21 +4224,21 @@ f	Adeus e Tudo Mais	2022	6.1	12	2
 f	Adeus à Inocência	1979	6.7		3
 f	Adeus, Borboleta	2021			0
 f	Adeus, Capitão	2022			0
-f	Adeus, Emmanuelle (1977)	1977	4.7		2
+f	Adeus, Emmanuelle (1977)	1977	4.6		2
 f	Adeus, Idiotas	2020	7.2	14	1
 f	Adeus, Lênin!	2003	7.5	14	3
-f	Adeus, Meninos (1987)	1987	7.5	L	1
+f	Adeus, Meninos (1987)	1987	7.5	L	2
 f	Adeus, Minha Rainha	2012	6.0		1
 f	Adeus,Amor (1963)	1963	5.9		1
 f	Adeus,Borboleta	2021			0
 f	Adeus,Capitão	2022			0
 f	Adeus,Capitão (2022)	2022			0
-f	Adeus,Emmanuelle	1977	4.7		2
+f	Adeus,Emmanuelle	1977	4.6		2
 f	Adeus,Idiotas	2020	7.2	14	1
 f	Adeus,Idiotas (2020)	2020	7.2	14	1
 f	Adeus,June	2025	6.5	14	2
 f	Adeus,Lênin!	2003	7.5	14	3
-f	Adeus,Meninos	1987	7.5	L	1
+f	Adeus,Meninos	1987	7.5	L	2
 f	Adeus,Minha Rainha	2012	6.0		1
 f	Adeus,Minha Rainha (2012)	2012	6.0		1
 f	Adeus,Paris	2022	4.7	16	0
@@ -4285,7 +4285,7 @@ f	Adão Negro	2022	6.7	14	11
 f	Adão Negro (2022)	2022	6.7	14	11
 f	Adão e Eva do Paraíso ao Consumismo	1972			0
 f	Adú	2020	6.9		0
-f	Aeon Flux (2005)	2005	5.6	14	4
+f	Aeon Flux (2005)	2005	5.6	14	5
 f	Aeroporto 79 - O Concorde	1979	4.7	12	2
 f	Aeroporto de Cabul	2021	6.8		0
 f	Aeroporto de Cabul (2021)	2021	6.8		0
@@ -4744,7 +4744,7 @@ f	Altamente Imperfeitos (2019)	2019	6.6	L	3
 f	Altas Expectativas	2017			0
 f	Altas Expectativas (2017)	2017			0
 f	Altered	2025	5.5		2
-f	Altered Carbon: Nova Capa (2020)	2020	6.5	16	2
+f	Altered Carbon: Nova Capa (2020)	2020	6.5	16	4
 f	Altered Reality	2024			0
 f	Alternativos	2024		L	0
 f	Altitude	2017	4.9		1
@@ -4799,7 +4799,7 @@ f	Além da Lenda - O Filme	2022		L	0
 f	Além da Liberdade	2017		L	0
 f	Além da Linha Vermelha	1998	7.4		6
 f	Além da Paixão	1985		18	0
-f	Além da Realidade	2016	5.9		2
+f	Além da Realidade	2016	5.8		2
 f	Além da Suspeita	2000	5.8		1
 f	Além da Vida	1998	7.3	14	4
 f	Além da Vida (2009)	2009	6.3		3
@@ -4825,9 +4825,9 @@ f	Além-mundo				0
 f	Alô, Amigos	1942	5.8	L	2
 f	Alô,Amigos	1942	5.8	L	2
 f	Alô,Amigos (1942)	1942	5.8	L	2
-f	Alô,privilégio? É a Chelsea.	2019	5.5		0
+f	Alô,privilégio? É a Chelsea.	2019	5.4		1
 f	Ama-me	2010			0
-f	Ama-me (2021)	2021	6.5		0
+f	Ama-me (2021)	2021	6.6		0
 f	Amada Amante	1978			0
 f	Amadas e Violentadas	1976			0
 f	Amadeus	1984	8.0	14	9
@@ -4857,7 +4857,7 @@ f	Amanhecer Violento	1984	6.3	14	3
 f	Amanhecer Violento (1984)	1984	6.3	14	3
 f	Amanhecer Violento (2012)	1984	6.3	14	3
 f	Amansız Yol	1985			0
-f	Amante Latino	1979		L	1
+f	Amante Latino	1979		L	0
 f	Amante Stalker e Mortal (2024)	2024	6.8		1
 f	Amante a Domicílio	2014	5.8	14	1
 f	Amante a Domicílio (2013)	2014	5.8	14	1
@@ -4865,7 +4865,7 @@ f	Amante sob Suspeita	2018			0
 f	Amante sob Suspeita (2018)	2018			0
 f	Amante,Stalker e Mortal	2024	6.8		1
 f	Amantes	2008	6.9	14	1
-f	Amantes & Infiéis	2002	5.8		1
+f	Amantes & Infiéis	2002	5.9		1
 f	Amantes Eternos (2013)	2013	7.2	14	3
 f	Amantes e Traições	2018	5.8		1
 f	Amantes e Traições (2018)	2018	5.8		1
@@ -5185,7 +5185,7 @@ f	Amor Zumbi	2011	5.1		0
 f	Amor a 39 Graus	2024	6.9	12	1
 f	Amor a 39 Graus (2024)	2024	6.9	12	1
 f	Amor a Distancia (2010)	2010	6.1		1
-f	Amor a Flor da Pele (2000)	2000	8.1	14	12
+f	Amor a Flor da Pele (2000)	2000	8.1	14	15
 f	Amor a Primeira Mordida (1979)	1979	6.1	16	1
 f	Amor a Primeira Vista (2023)	2023	7.2	12	2
 f	Amor a Prova de Balas	2007	5.7		1
@@ -5221,7 +5221,7 @@ f	Amor de Natal	2022		10	0
 f	Amor de Páscoa	2019	6.4		0
 f	Amor de Redencao (2022)	2022	7.9	16	5
 f	Amor de Redenção	2022	7.9	16	5
-f	Amor e Amizade	2016	6.1	10	1
+f	Amor e Amizade	2016	6.1	10	2
 f	Amor e Esperança	2019			0
 f	Amor e Esperança (2019)	2019			0
 f	Amor e Food Trucks	2020	6.7		1
@@ -5452,7 +5452,7 @@ f	Animais de Estimação	2025		12	0
 f	Animais de Estimação (2025)	2025		12	0
 f	Animais em Apuros	2018	6.0	L	0
 f	Animais em Apuros (2018)	2018	6.0	L	0
-f	Animal	2023	6.1		3
+f	Animal	2023	6.1		4
 f	Animal (2001)	2001	5.2	12	3
 f	Animales	2026	6.2		3
 f	Animales (2026)	2026	6.2		3
@@ -5681,7 +5681,7 @@ f	Apaches: Gangues de Paris	2023	6.0		1
 f	Apagar Histórico	2013	6.1		1
 f	Apaixonada	2024	6.5	14	0
 f	Apaixonada (2024)	2024	6.5	14	0
-f	Apaixonados em Nova York	2007			0
+f	Apaixonados em Nova York	2007			1
 f	Apaixonados: O Filme	2016		14	0
 f	Apanhador de Almas	2025		16	0
 f	Apanhador de Pesadelos	2020	5.2		0
@@ -5728,7 +5728,7 @@ f	Apex	2026	6.9	16	16
 f	Apex (2021)	2021	5.1	12	3
 f	Aplicativo da Morte	2017	3.7		0
 f	Aplicativo do Mal (2015)	2015	4.3		0
-f	Aplicativo para o Natal	2018	7.1		1
+f	Aplicativo para o Natal	2018	7.1		0
 f	Apneia	2005			0
 f	Apocalipse	2025		16	2
 f	Apocalipse (2015)	2015	6.4		3
@@ -5938,7 +5938,7 @@ f	Armadura de Deus	1986	7.0	16	5
 f	Armadura de Deus (1986)	1986	7.0	16	5
 f	Armageddon	1998	6.8	12	9
 f	Armageddon (1998)	1998	6.8	12	9
-f	Armageddon Tales	2021			1
+f	Armageddon Tales	2021			0
 f	Armageddon Time	2022	6.4	16	2
 f	Armageddon: Os Carros Mais Rápidos Do Brasil	2024			0
 f	Armand e os Limites das Famílias	2024	6.2		1
@@ -6124,7 +6124,7 @@ f	As Aventuras do Pequeno Colombo (2015)	2016		L	0
 f	As Aventuras do Pequeno Espião	2021			0
 f	As Aventuras do Pequeno Espião (2021)	2021			0
 f	As Aventuras do Pequeno Peregrino (2010)	2010			0
-f	As Aventuras dos 7 Anões	2014	5.5		1
+f	As Aventuras dos 7 Anões	2014	5.4		1
 f	As Aventuras dos Chipmunks	1987	7.0		1
 f	As Barreiras do Amor	2010	7.2		1
 f	As Bem-Armadas	2013	6.6	16	6
@@ -6211,7 +6211,7 @@ f	As Fantasias De Nicolas	2021			0
 f	As Fantasias de Nicolas (2021)	2021			0
 f	As Fantásticas Aventuras de Spirou e Fantasio	2018	4.5		1
 f	As Fantásticas Aventuras de Spirou e Fantasio (2018)	2018	4.5		1
-f	As Feras da Música	2003	6.1	L	1
+f	As Feras da Música	2003	6.1	L	2
 f	As Feras da Música 3: Um Mundo	2008	6.1	L	1
 f	As Feras da Música 3: Um Mundo (2008)	2008	6.1	L	1
 f	As Ferias Da Minha Vida	2006	7.3	14	3
@@ -6387,7 +6387,7 @@ f	As Tartarugas Ninja III	1993	5.5		3
 f	As Tartarugas Ninja: Caos Mutante	2023	7.2	10	5
 f	As Tartarugas Ninja: Fora das Sombras	2016	6.1	10	7
 f	As Tartarugas Ninja: O Retorno	2007	6.2	L	5
-f	As Testemunhas de Madea (2012)	2012	6.1		1
+f	As Testemunhas de Madea (2012)	2012	6.1		2
 f	As Tias	2024	6.9		0
 f	As Tias (2024)	2024	6.9		0
 f	As Torres Gemeas (2006)	2006	6.1	12	3
@@ -6435,7 +6435,7 @@ f	Asas	1927	7.2	12	1
 f	Asas da Coragem	1995	6.7		0
 f	Asas da Esperança	2021		16	0
 f	Asas da Esperança (2021)	2021		16	0
-f	Asas da Vida (2011)	2011	7.2		0
+f	Asas da Vida (2011)	2011	7.2		1
 f	Ascensão do Cisne Negro	2021	5.8	16	2
 f	Ascensão do Cisne Negro (2021)	2021	5.8	16	2
 f	Ascensão e Queda de um Império	2015	6.8		2
@@ -6652,7 +6652,7 @@ f	Ate a Morte: Sobreviver e a Melhor Vinganca (2021)	2021	6.7	16	3
 f	Ate a Proxima Vez (2022)	2022	7.1	12	1
 f	Ate a Ultima Gota (2025)	2025	7.7	14	7
 f	Ate o Fim (2013)	2013	6.6	12	2
-f	Ate o Fim (2016)	2016	6.7	14	1
+f	Ate o Fim (2016)	2016	6.7	14	2
 f	Ate o Fim (2021)	1992	6.7		1
 f	Ate o Limite (2022)	2022	6.1	16	2
 f	Ate o Ultimo Homem (2016)	2016	8.2	16	19
@@ -6763,7 +6763,7 @@ f	Através da Minha Janela: Além-mar	2023	6.6	16	3
 f	Através da Máscara (2015)	2015	5.5		1
 f	Através da Sombra	2015	5.4		0
 f	Através das Sombras	2024	7.3	18	4
-f	Através do Fogo	2018	7.3		0
+f	Através do Fogo	2018	7.3		1
 f	Através do Universo (2007)	2007	7.1	14	2
 f	Atração Explosiva (1995)	1995	5.2	14	2
 f	Atração Fatal	1987	6.8	18	4
@@ -6794,9 +6794,9 @@ f	Atrás das Linhas Inimigas (2001)	2001	6.5	14	3
 f	Atrás das Linhas Inimigas 2: O Eixo do Mal (2006)	2006	4.9	14	2
 f	Atrás das Linhas Inimigas 3: Operação Colômbia (2009)	2009	5.7	14	1
 f	Atsuko Oktsuka: Novas Descobertas	2025			0
-f	Attack on Titan - Parte 2: Asas da Liberadade	2015	8.2		3
+f	Attack on Titan - Parte 2: Asas da Liberadade	2015	8.2		4
 f	Attack on Titan Parte 1 Arco e Flecha Escarlate (2014)	2014	8.1	14	3
-f	Attack on Titan Parte 2 Asas da Liberadade (2015)	2015	8.2		3
+f	Attack on Titan Parte 2 Asas da Liberadade (2015)	2015	8.2		4
 f	Attack on Titan Parte 3 O Rugido do Despertar (2018)	2018	8.4		3
 f	Attack on Titan: O Arco e Flecha Escarlate	2014	8.1	14	3
 f	Attack on Titan: O ÚLTIMO ATAQUE	2024	8.7	18	6
@@ -6961,7 +6961,7 @@ f	Azrael	2024	5.8	18	3
 f	Azrael (2024)	2024	5.8	18	3
 f	Azul É A Cor Mais Quente	2013	7.1	18	5
 f	Azul É A Cor Mais Quente (2013)	2013	7.1	18	5
-f	Azumi	2003	6.9	18	1
+f	Azumi	2003	6.9	18	2
 f	Azumi 2	2005	6.7	18	1
 f	Ação	2025	3.8		4
 f	Ação Imediata	2009	4.4		1
@@ -6994,13 +6994,13 @@ f	BLUE LOCK O FILME -EPISÓDIO NAGI (2024)	2024	7.6	12	4
 f	BLUE LOCK O FILME -EPISÓDIO NAGI-	2024	7.6	12	4
 f	BR 716	2016			0
 f	BRO	2023			0
-f	BTS THE COMEBACK LIVE ARIRANG (2026)	2026	8.7	12	2
+f	BTS THE COMEBACK LIVE ARIRANG (2026)	2026	8.7	12	3
 f	BTS: Bring The Soul - O Filme (2019)	2019	8.3		3
 f	BTS: O Reencontro	2026		12	2
 f	Baahubali 2 The Conclusion	2017	7.5		4
 f	Baahubali 2: A Conclusão (2017)	2017	7.5		4
-f	Baahubali: O Início	2015	7.6	16	4
-f	Baahubali: O Início (2015)	2015	7.6	16	4
+f	Baahubali: O Início	2015	7.6	16	5
+f	Baahubali: O Início (2015)	2015	7.6	16	5
 f	Baba Fora de Controle Operacao	2015	6.3		2
 f	Baba Yaga Terror Of The Dark Forest	2020	6.4		2
 f	Babanba Banban Vampire	2025			1
@@ -7117,7 +7117,7 @@ f	Balança mas não Cai	1954			0
 f	Balas & Bolinhos: O Regresso	2004	6.7		0
 f	Balas Que Não Erram	1959	6.6		1
 f	Balas Voando	2012	6.4		1
-f	Balas em Fúria	2010	7.8		4
+f	Balas em Fúria	2010	7.8		6
 f	Balas para um Bandido (1964)	1964	6.3		1
 f	Baleia Assassina	2026	5.2		9
 f	Baleia Assassina (2026)	2026	5.2		9
@@ -7151,7 +7151,7 @@ f	Band of Brothers: Legacy (2026)	2026	8.6		4
 f	Bandida - A Número Um (2024)	2024	6.2	18	1
 f	Bandida: A Número Um	2024	6.2	18	1
 f	Bandida: A Número Um (2024)	2024	6.2	18	1
-f	Bandidas (2006)	2006	6.1	14	2
+f	Bandidas (2006)	2006	6.1	14	3
 f	Bandido	2021	6.7		2
 f	Bandido (2022)	2022	6.3		2
 f	Bandido a Muque	1946	7.6	14	0
@@ -7682,7 +7682,7 @@ f	Bernie,O Golfinho 2	2019			1
 f	Bernie,O Golfinho 2 (2019)	2019			1
 f	Bernie,o Golfinho	2018	5.8		1
 f	Bernie,o Golfinho (2018)	2018	5.8		1
-f	Bernie: Quase um Anjo (2012)	2012	6.6	12	1
+f	Bernie: Quase um Anjo (2012)	2012	6.6	12	2
 f	Bert Kreischer: Sem Vergonha	2023	6.9		0
 f	Bert Kreischer: Sem Vergonha (2023)	2023	6.9		0
 f	Bert Kreischer: Sortudo	2025	6.5	16	0
@@ -7764,7 +7764,7 @@ f	Bigbug (2022)	2022	5.3	16	2
 f	Bigger: O Maior do Mundo	2018	6.9		1
 f	Bihter	2023	5.1	16	1
 f	Bihter Uma Paixao Proibida (2023)	2023	5.1	16	1
-f	Bikes: Uma Aventura Sobre Rodas (2018)	2018		L	0
+f	Bikes: Uma Aventura Sobre Rodas (2018)	2018		L	1
 f	Bikini Car Wash	2015	4.5	16	1
 f	Bikram: Yogi,Guru,Predador	2019	6.3		1
 f	Bilhete Premiado	2000	5.2		1
@@ -7779,7 +7779,7 @@ f	Bill & Ted: Dois Loucos no Tempo (1991)	1991	6.3	L	3
 f	Bill & Ted: Encare a Música (2020)	2020	5.9	10	4
 f	Bill & Ted: Uma Aventura Fantástica	1989	6.8	10	4
 f	Bill Burr: Paper Tiger	2019	7.5		0
-f	Billie Eilish - Hit Me Hard and Soft The Tour in 3D (2026)	2026	8.4	L	3
+f	Billie Eilish - Hit Me Hard and Soft The Tour in 3D (2026)	2026	8.5	L	3
 f	Billie Eilish Unfiltered	2024			0
 f	Billion Dollar Heist	2023	7.5		0
 f	Billion Dollar Heist (2023)	2023	7.5		0
@@ -7938,7 +7938,7 @@ f	Blood Shed	2014	3.3		0
 f	Blood in the Water	2022			0
 f	Blood,White & Blue	2022			1
 f	Blood-C The Last Dark (2012)	2012	7.1		2
-f	BloodRayne	2006	4.1		2
+f	BloodRayne	2006	4.1		1
 f	Bloodline (2019)	2019	5.9		1
 f	Bloodshot	2020	6.7	14	5
 f	Bloodshot (2020)	2020	6.7	14	5
@@ -8387,8 +8387,8 @@ f	Buffy,a Caça Vampiros	1992	5.6		3
 f	Buffy,a Caça Vampiros (1992)	1992	5.6		3
 f	Bug Diner	2024		18	0
 f	Bugados Voce Bugou Meu Coração (2024)	2024		L	0
-f	Bugonia	2025	7.3	18	13
-f	Bugonia (2025)	2025	7.3	18	13
+f	Bugonia	2025	7.3	18	11
+f	Bugonia (2025)	2025	7.3	18	11
 f	Bulbbul	2020	6.6		1
 f	Bull	1980	7.9	16	6
 f	Bull (2020)	2020	6.1		0
@@ -8431,7 +8431,7 @@ f	Busca Explosiva 3	2013	6.2		2
 f	Busca Explosiva 4	2015	6.4		2
 f	Busca Explosiva 5: Campo de Batalha	2017	6.6		2
 f	Busca Explosiva 5: Campo de Batalha (2017)	2017	6.6		2
-f	Busca Explosiva 6: Sem Saída	2018	6.8	16	1
+f	Busca Explosiva 6: Sem Saída	2018	6.8	16	2
 f	Busca Frenética	1988	6.7	14	3
 f	Busca Frenética (1988)	1988	6.7	14	3
 f	Busca Implacavel (2008)	2008	7.4	14	15
@@ -8539,7 +8539,7 @@ f	Cacaso na Corda Bamba	2016			0
 f	Cachinhos Dourados e os Três Ursos: Morte e Mingau	2024			0
 f	Cactus Jack, o Vilão (1979)	1979	5.7	12	1
 f	Cactus Jack,o Vilão	1979	5.7	12	1
-f	Cada Um Vive Como Quer	1970	7.1	14	2
+f	Cada Um Vive Como Quer	1970	7.1	14	1
 f	Cada Um na Sua Casa	2015	6.8	L	8
 f	Cada Um na Sua Casa (2015)	2015	6.8	L	8
 f	Cada um Dá o Que Tem	1975			0
@@ -8594,7 +8594,7 @@ f	Caindo na Real (2024)	1994	6.5		2
 f	Caipira	2012	5.7	16	1
 f	Cair na Graca (2013)	2013			0
 f	Caiu do Céu	2005	6.4		1
-f	Caixa Postal 1142: O Campo Secreto para Nazistas nos EUA	2021	6.3	12	0
+f	Caixa Postal 1142: O Campo Secreto para Nazistas nos EUA	2021	6.2	12	1
 f	Caixa Preta	2021	7.3	14	3
 f	Caixa Preta (2020)	2020	6.4	14	1
 f	Caixa de Memorias (2021)	2021		L	0
@@ -8603,8 +8603,8 @@ f	Caixa de Pássaros (2018)	2023	5.9	16	2
 f	Caiçara	1950			0
 f	Caju, Meu Amigo	2026		12	0
 f	Caju,Meu Amigo	2026		12	0
-f	Cake: Uma Razao para Viver (2014)	2014	6.3	14	2
-f	Cake: Uma Razão para Viver (2014)	2014	6.3	14	2
+f	Cake: Uma Razao para Viver (2014)	2014	6.3	14	3
+f	Cake: Uma Razão para Viver (2014)	2014	6.3	14	3
 f	Calafrios	1975	6.4		2
 f	Caleuche: O Chamado do Mar	2012			0
 f	Calibre (2018)	2018	6.5	16	1
@@ -8713,8 +8713,8 @@ f	Camponeses (2023)	2023	7.5		2
 f	Campos de Esperança	2012			0
 f	Campos de Esperança (2012)	2012			0
 f	Camuflagem	2001	4.4	16	1
-f	Canadian, Sniper (2023)	2023			0
-f	Canadian,Sniper	2023			0
+f	Canadian, Sniper (2023)	2023			1
+f	Canadian,Sniper	2023			1
 f	Canadá	2024	5.7		1
 f	Canario Negro (2024)	2024	6.2	16	3
 f	Canastra Suja	2016	6.8		0
@@ -8831,7 +8831,7 @@ f	Capítulos Mortais (2018)	2018			0
 f	Cara	2026	7.4	18	72
 f	Cara Cade Meu Carro	2000	5.5	12	3
 f	Cara Cade Meu Carro? (2000)	2000	5.5	12	3
-f	Cara Gente Branca (2014)	2014	6.1	18	1
+f	Cara Gente Branca (2014)	2014	6.1	18	2
 f	Cara a Cara com o ETA	2023	7.0		0
 f	Cara a Cara com o ETA (2023)	2023	7.0		0
 f	Cara de Sapo	2011	6.6		1
@@ -8909,7 +8909,7 @@ f	Carniceiro	2023	5.8		1
 f	Carnivore: O Lobisomem de Londres (2017)	2017			0
 f	Carol	2015	7.5	14	6
 f	Carol (2015)	2015	7.5	14	6
-f	Carolina Caroline	2026	6.6		6
+f	Carolina Caroline	2026	6.7		6
 f	Carona Aterrorizante	2023	6.5		1
 f	Carona Aterrorizante (2023)	2023	6.5		1
 f	Caros Camaradas! Trabalhadores em Luta (2020)	2020	7.1	14	1
@@ -8965,8 +8965,8 @@ f	Carteiro Paulo - O Filme	2014	5.1		1
 f	Cartel Land	2015	7.2		0
 f	Carter	2005	7.6	14	5
 f	Carter (2022)	2005	7.6	14	5
-f	Carter, o Vingador (1971)	1971	6.9		1
-f	Carter,o Vingador	1971	6.9		1
+f	Carter, o Vingador (1971)	1971	7.0		2
+f	Carter,o Vingador	1971	7.0		2
 f	Cartoes de Natal (2019)	2019	6.9	L	1
 f	Cartão de Natal	2017	6.3	L	2
 f	Cartões de Natal	2019	6.9	L	1
@@ -9014,7 +9014,7 @@ f	Casa dos Sonhos	2015			0
 f	Casa vazia	2021			1
 f	Casablanca	1943	8.1	12	10
 f	Casablanca (1943)	1943	8.1	12	10
-f	Casados (mas nem tanto)	2019	6.0		0
+f	Casados (mas nem tanto)	2019	6.0		1
 f	Casal Improvavel	2019	6.7	16	3
 f	Casal Improvavel (2019)	2019	6.7	16	3
 f	Casal de Fachada	2022	7.4	12	2
@@ -9061,12 +9061,12 @@ f	Case Comigo	2022	6.6	12	3
 f	Case Comigo (2022)	2022	6.6	12	3
 f	Casei com Minha Chefe	1998			0
 f	Casei com Minha Chefe (1998)	1998			0
-f	Casei-Me com uma Feiticeira	1942	6.9	14	1
+f	Casei-Me com uma Feiticeira	1942	6.9	14	2
 f	Cash for Gold	2024			0
 f	Cashback Bem-vindo ao Turno da Noite (2007)	2007	7.0	14	2
 f	Casi Divas	2008	6.6		0
 f	Casinha Pequenina	1963		L	0
-f	Casino Jack and the United States of Money	2010	7.1		0
+f	Casino Jack and the United States of Money	2010	7.0		1
 f	Caso 39	2009	6.3	16	3
 f	Caso 39 (2009)	2009	6.3	16	3
 f	Caso Eloa Refem ao Vivo (2025)	2025	7.3	14	1
@@ -9077,12 +9077,12 @@ f	Casos e Casamentos (1995)	1995	5.3		1
 f	Cassandro	2023	6.7		1
 f	Cassandro (2023)	2023	6.7		1
 f	Casseta & Planeta: A Taça do Mundo é Nossa!	2003		12	0
-f	Casshern - Reencarnado do Inferno	2004	5.9		1
+f	Casshern - Reencarnado do Inferno	2004	5.9		2
 f	Cassino (1995)	1995	8.0	18	10
 f	Cassino em Ísquia	2024			0
 f	Cassino em Ísquia (2024)	2024			0
 f	Cassino in Ischia	2024			0
-f	Castanha	2014			1
+f	Castanha	2014			0
 f	Castelo Fantasma	2019	4.9	14	0
 f	Castelo Rá-Tim-Bum: O Filme	1999	6.2		0
 f	Castelo Rá-Tim-Bum: Reencontro	2023		L	0
@@ -9134,13 +9134,13 @@ f	Cavalo De Guerra	2011	7.3	12	5
 f	Cavalo de Guerra (2011)	2011	7.3	12	5
 f	Cavalo de Santo	2021			0
 f	Cavalo de Santo (2021)	2021			0
-f	Cavalos Domados (2015)	2015	5.7		0
+f	Cavalos Domados (2015)	2015	5.7		1
 f	Cavalos Selvagens	2010			0
 f	Cavalos Selvagens (2010)	2010			0
 f	Cavaram Uma Cova No Meu Coração	2024		14	0
 f	Cavaram Uma Cova No Meu Coração (2024)	2024		14	0
 f	Caveat (2021)	2021	6.4		2
-f	Caverna Maldita 2	2005	5.2		0
+f	Caverna Maldita 2	2005	5.3		0
 f	Cayetana La duquesa de todos (2026)	2026			0
 f	Cayetana: La duquesa de todos	2026			0
 f	Cazatesoros	2024			0
@@ -9205,7 +9205,7 @@ f	Caçadores de Aventuras (2023)	2026		12	0
 f	Caçadores de Aventuras (2026)	2026		12	0
 f	Caçadores de Bruxas	2010	4.0		0
 f	Caçadores de Dinossauros	2015	4.2		0
-f	Caçadores de Dragões	2008	6.5	L	1
+f	Caçadores de Dragões	2008	6.5	L	2
 f	Caçadores de Emocao (1991)	1991	7.2	16	7
 f	Caçadores de Emoção	1991	7.2	16	7
 f	Caçadores de Emoção: Além do Limite	2015	6.0	14	4
@@ -9260,7 +9260,7 @@ f	Cemiterio (2024)	2023	5.5	16	3
 f	Cemiterio Maldito	2019	5.8	16	4
 f	Cemiterio Maldito (1989)	1989	6.7	16	25
 f	Cemiterio Maldito (2019)	2019	5.8	16	4
-f	Cemiterio Maldito 2 (1992)	1992	5.5		3
+f	Cemiterio Maldito 2 (1992)	1992	5.5		2
 f	Cemiterio Maldito A Origem (2023)	2023	5.5	16	3
 f	Cemitério	2019	5.8	16	4
 f	Cemitério Maldito (1989)	1989	6.7	16	25
@@ -9288,7 +9288,7 @@ f	Cercados	2020		10	0
 f	Cercados (2023)	2023	6.2	16	1
 f	Cerco ao Terror: Ataque ao Templo	2025			1
 f	Cerco ao Terror: Ataque ao Templo (2025)	2025			1
-f	Certas Mulheres (2016)	2016	6.0		1
+f	Certas Mulheres (2016)	2016	6.0		2
 f	Certas Pessoas	2023	5.6	14	1
 f	Certas Pessoas (2023)	2023	5.6	14	1
 f	Cesium Fallout	2024	6.7		1
@@ -9698,10 +9698,10 @@ f	Clika	2026	8.3		1
 f	Clika (2026)	2026	8.3		1
 f	Clika: Sonho e Perigo	2026	8.3		1
 f	Climax	2018	7.0	18	3
-f	Clinical	2017	5.3		0
+f	Clinical	2017	5.3		1
 f	Clockstoppers - O Filme	2002	5.3		3
-f	Clonaram Tyrone (2023)	2023	6.6	16	2
-f	Clonaram Tyrone!	2023	6.6	16	2
+f	Clonaram Tyrone (2023)	2023	6.6	16	3
+f	Clonaram Tyrone!	2023	6.6	16	3
 f	Clonei Minha Mulher (2018)	2018	5.2		0
 f	Close	2019	6.0	14	2
 f	Close (2022)	2022	7.8	12	4
@@ -9783,7 +9783,7 @@ f	Codigo Preto (2025)	2025	6.4	14	5
 f	Codigo Terror (2022)	2022			0
 f	Codigo Vinganca (2026)	2026	7.6	16	75
 f	Codigo de Conduta (2009)	2009	7.4	16	7
-f	Codigo de Honra (2011)	2011	6.7		2
+f	Codigo de Honra (2011)	2011	6.7		1
 f	Codigos Ocultos (2019)	2019	5.7	16	1
 f	Codinome Banshee	2022	5.8		1
 f	Codinome Banshee (2022)	2022	5.8		1
@@ -9856,7 +9856,7 @@ f	Colombiana: Em Busca de Vinganca (2011)	2011	6.7		6
 f	Colonizadores (2021)	2021	5.0		2
 f	Colonização Espacial: A Última Esperança	2022			0
 f	Colonização Espacial: A Última Esperança (2022)	2022			0
-f	Colossal (2017)	2017	6.3	12	3
+f	Colossal (2017)	2017	6.3	12	4
 f	Colégio Girassol (2024)	2024		16	0
 f	Com 007 So Se Vive Duas Vezes (1967)	1967	6.6	14	6
 f	Com 007 Só Se Vive Duas Vezes	1967	6.6	14	6
@@ -9923,7 +9923,7 @@ f	Comando Final 3: Paradoxo	2017	6.8		1
 f	Comando Imbatível	1990	5.4		1
 f	Comando Imbatível (1990)	1990	5.4		1
 f	Comando Justiceiro (2019)	2019	3.9		0
-f	Comando Kill	2016	5.7		1
+f	Comando Kill	2016	5.7		2
 f	Comando Para Matar	1985	6.8	14	7
 f	Comando Ryan	1990	4.8		1
 f	Comando Tatico	1998	3.5		1
@@ -10140,7 +10140,7 @@ f	Conduzindo Madeleine (2022)	2022	7.1	16	1
 f	Conduzindo Miss Daisy	1989	7.2	L	3
 f	Conduzindo Miss Daisy (1989)	1989	7.2	L	3
 f	Condução Perigosa	2014	4.3		0
-f	Conectado	2008	6.4		2
+f	Conectado	2008	6.4		1
 f	Conectados Pelo Amor	2021			0
 f	Conectados Pelo Amor (2021)	2021			0
 f	Conexao Escobar	2016	6.7	14	3
@@ -10234,7 +10234,7 @@ f	Conor McGregor: Tudo Pelo Título	2017	6.9		1
 f	Conquista	1962	7.0	L	3
 f	Conquista (2021)	1972	6.2	12	3
 f	Conquista Sangrenta	1985	6.6		2
-f	Conquistando Londres	2001	6.0		0
+f	Conquistando Londres	2001	6.0		1
 f	Conquistas Perigosas	2013	6.3	16	1
 f	Conquistas Perigosas (2013)	2013	6.3	16	1
 f	Conrad e Michelle: Se Palavras Matassem	2018	5.7		1
@@ -10330,7 +10330,7 @@ f	Contos Sombrios (2022)	2022			0
 f	Contos da Babilonia (2023)	2023	6.2	16	0
 f	Contos da Babilônia	2023	6.2	16	0
 f	Contos da Babilônia (2023)	2023	6.2	16	0
-f	Contos da Escuridão	1990	6.2	16	1
+f	Contos da Escuridão	1990	6.2	16	2
 f	Contos da Noite	2011	7.3	L	1
 f	Contos de Guerra	2019			0
 f	Contos de Nazaré	2025			0
@@ -10351,7 +10351,7 @@ f	Contra Tudo e Contra Todos				0
 f	Contra Tudo e Contra Todos (2004)	2004	5.1		1
 f	Contra a Corrente	2017			0
 f	Contra a Maré	2023		L	0
-f	Contra a Maré (2013)	2013	6.2		0
+f	Contra a Maré (2013)	2013	6.2		1
 f	Contra o Furacão (2026)	2026	7.4	16	49
 f	Contra o Gelo	2022	6.8	12	2
 f	Contra o Gelo (2022)	2022	6.8	12	2
@@ -10439,8 +10439,8 @@ f	Coquetel Explosivo	2021	6.3	16	3
 f	Coquetel Explosivo (2021)	2021	6.3	16	3
 f	Cora	2024			0
 f	Cora Bora	2024			0
-f	Cora: O Ultimo Suspiro (2024)	2024	5.2		1
-f	Cora: O Último Suspiro	2024	5.2		1
+f	Cora: O Ultimo Suspiro (2024)	2024	5.2		0
+f	Cora: O Último Suspiro	2024	5.2		0
 f	Coracao Errante (2021)	2021	6.2	16	0
 f	Coracao Louco (2009)	2009	6.9	12	2
 f	Coracao Selvagem (1990)	1990	7.0	16	4
@@ -10461,7 +10461,7 @@ f	Coragem Sem Limites	2019			0
 f	Coragem Sem Limites (2019)	2019			0
 f	Coragem Sob Fogo	1996	6.6	16	2
 f	Coragem Sob Fogo (1996)	1996	6.6	16	2
-f	Coragem em Campo	2015	7.0	L	1
+f	Coragem em Campo	2015	7.0	L	0
 f	Coragem para Amar (2017)	2017			0
 f	Coragem para Mudar	2018	6.5		1
 f	Coragem para Vencer	2018	8.2		1
@@ -10525,7 +10525,7 @@ f	Corações em Chamas	2013	6.2		0
 f	Corações em Chamas (2025)	2025	7.3		0
 f	Corações em Conflito	2009	6.1		0
 f	Corações em Mudança	2012			0
-f	Cordeiros e Carrascos	2017	6.3		1
+f	Cordeiros e Carrascos	2016	6.3		0
 f	Cordel do Amor Sem Fim	2024			0
 f	Cordialmente Teus	2022		16	0
 f	Coreia do Norte: Segredos Obscuros	2018			0
@@ -10755,7 +10755,7 @@ f	Criancas de Deus Achados e Perdidos (2007)	2007			0
 f	Criando Verdades	2023		16	0
 f	Criando o Natal	2023			0
 f	Criança em Perigo	2013			0
-f	Crianças Lobo	2012	8.2		6
+f	Crianças Lobo	2012	8.2		9
 f	Crianças Malignas	2018	2.7		0
 f	Crianças Malignas (2018)	2018	2.7		0
 f	Crianças da Noite	1985			0
@@ -10778,7 +10778,7 @@ f	Criaturas Extraordinariamente Brilhantes (2026)	2026	8.3	14	9
 f	Criaturas Rastejantes	2022	3.5	14	0
 f	Criaturas ao Ataque	2020	5.9	14	1
 f	Criaturas ao Ataque (2020)	2020	5.9	14	1
-f	Criaturas das Profundezas	2005	6.1		3
+f	Criaturas das Profundezas	2005	6.0		1
 f	Criaturas do Farol	2024	6.6		0
 f	Criaturas do Farol (2024)	2024	6.6		0
 f	Criaturas do Senhor	2022	6.1		0
@@ -11060,7 +11060,7 @@ f	Código Terror	2022			0
 f	Código Vermelho	2012	5.4		1
 f	Código da Máfia	2014			1
 f	Código de Conduta	2009	7.4	16	7
-f	Código de Honra	2011	6.7		2
+f	Código de Honra	2011	6.7		1
 f	Código de Honra (1992)	1992	6.5	L	1
 f	Código de Honra (2016)	2016	4.1	16	1
 f	Código de Lei	2021	5.1		0
@@ -11559,7 +11559,7 @@ f	Del Otro Lado Del Jardín	2024	8.6		1
 f	Dela	2007	7.0	12	1
 f	Dela (2018)	2018			0
 f	Delegação	2023			0
-f	Delgo	2008	4.6		0
+f	Delgo	2008	4.6		1
 f	Delicious				0
 f	Delicious (2025)	2025	4.8	14	1
 f	Delivered A Tale of Three Letters	2024			0
@@ -11593,13 +11593,13 @@ f	Demonios	2017	5.2		1
 f	Demétrio, o Gladiador	1954	6.6		1
 f	Demétrio,o Gladiador	1954	6.6		1
 f	Demétrio,o Gladiador (1954)	1954	6.6		1
-f	Demência	2015	4.7		0
+f	Demência	2015	4.7		1
 f	Demônio	2026	7.6	18	21
 f	Demônio de Neon	2016	6.5	16	7
 f	Demônio do Espaço	1988	4.3		2
 f	Demônios do Passado	2023		12	0
 f	Demônios do Passado (2023)	2023		12	0
-f	Den Stærkeste	1912			1
+f	Den Stærkeste	1912			0
 f	Den hemmelige kvinde	2026	6.5		6
 f	Den sista resan	2024	6.4		0
 f	Dennis, O Pimentinha	1993	5.9	10	4
@@ -11688,7 +11688,7 @@ f	Derrapada	2023		16	0
 f	Derrapada (2023)	2023		16	0
 f	Derren Brown: Sacrifice	2018	7.2		0
 f	Des-Igualdade - O Filme	2022		L	0
-f	Desabrigados (2014)	2014	6.0		1
+f	Desabrigados (2014)	2014	6.0		0
 f	Desafiando Gigantes	2006	7.6	L	2
 f	Desafiando Gigantes (2006)	2006	7.6	L	2
 f	Desafiando a Arte (2016)	2016	5.9	12	1
@@ -11752,7 +11752,7 @@ f	Desastre Total: O Verdadeiro Projeto X (2025)	2025	5.8	14	1
 f	Desastre Total: Prefeito do Caos	2025	6.5	16	1
 f	Desastre Vulcânico	2020		10	0
 f	Desastre Vulcânico (2020)	2020		10	0
-f	Desastre da Terra (2016)	2016	4.6		1
+f	Desastre da Terra (2016)	2016	4.6		0
 f	Desastre no Voo US57	2018	5.3		1
 f	Desbravadores	2007	5.7		2
 f	Desbravando o Oeste	1967	6.1	12	2
@@ -11930,7 +11930,7 @@ f	Destino em Dose Dupla	1990	6.3	14	1
 f	Destino em Dose Dupla (1990)	1990	6.3	14	1
 f	Destino: Natal	2022	6.2		0
 f	Destinos Aterrorizantes no Caminho do Medo (2022)	2022			0
-f	Destinos Cruzados (1999)	1999	5.6		4
+f	Destinos Cruzados (1999)	1999	5.6		2
 f	Destinos Invertidos	2024			1
 f	Destinos Ligados	2009	6.6	12	1
 f	Destinos Opostos	2023			0
@@ -12059,7 +12059,7 @@ f	Devorador de Almas	2018	5.8		0
 f	Devoradores de Estrelas	2026	8.6	14	323
 f	Devoradores de Estrelas (2026)	2026	8.6	14	323
 f	Devorados Vivos	1980	5.2		1
-f	Devorar	2020	6.6		2
+f	Devorar	2020	6.5		2
 f	Devorar a Noite	2024	6.1		0
 f	Dez Minutos Para a Meia-Noite	2020	5.8		0
 f	Dez Minutos Para a Meia-Noite (2020)	2020	5.8		0
@@ -12256,7 +12256,7 @@ f	Dinossauro	2015	6.8	L	11
 f	Dinossauro (2000)	2000	6.6	L	6
 f	Dio,come ti amo!	1966			0
 f	Diorama	2026			0
-f	Diorama (2022)	2022	5.5		0
+f	Diorama (2022)	2022	5.2		0
 f	Direito de Amar (2009)	2009	7.3	14	2
 f	Direito à Vida	2015	7.5		0
 f	Direito à Vida (2015)	2015	7.5		0
@@ -12304,7 +12304,7 @@ f	Disgusting girls will be skeletons	2023			0
 f	Disney 100: Um Século de Sonhos	2023		12	1
 f	Disney Entre Laços Live	2023		10	0
 f	Disney Worldbuilders	2026			1
-f	Disney+ Day: O Especial da Marvel Studios 2021	2021	6.9	L	1
+f	Disney+ Day: O Especial da Marvel Studios 2021	2021	7.0	L	1
 f	Disneyland Handcrafted	2026	7.1		0
 f	Disputa Final	2025	6.1		1
 f	Disputa Final (2025)	2025	6.1		1
@@ -12385,7 +12385,7 @@ f	Diário de uma onça	2023			0
 f	Diário Íntimo	1992	4.9		1
 f	Diários de Intercâmbio	2021	6.5	10	0
 f	Diários de Motocicleta	2004	7.4		2
-f	Django (1966)	1966	7.2		4
+f	Django (1966)	1966	7.2		3
 f	Django - A Volta do Vingador	1987	5.0		1
 f	Django Desafia Sartana	1970			0
 f	Django Livre	2012	8.2	16	22
@@ -12464,7 +12464,7 @@ f	Doce Tentacao (2012)	2012	4.6		2
 f	Doce Tentação	2012	4.6		2
 f	Doce Trapaça	2001	6.2		3
 f	Doce Trapaça (2001)	2001	6.2		3
-f	Doce Veneno	2015	5.8		3
+f	Doce Veneno	2015	5.8		2
 f	Doce Vida	1960	8.0	14	4
 f	Doce Vinganca (2010)	2010	6.5	18	7
 f	Doce Vinganca 2	2013	6.3	18	5
@@ -12657,7 +12657,7 @@ f	Dorival Caymmi - Um Homem de Afetos	2024		10	0
 f	Dorivando Saravá, o Preto Que Virou Mar	2019		L	0
 f	Dorivando Saravá,o Preto Que Virou Mar	2019		L	0
 f	Dorivando Saravá,o Preto Que Virou Mar (2019)	2019		L	0
-f	Dorm: O Espírito	2006	6.6		0
+f	Dorm: O Espírito	2006	6.6		1
 f	Dormindo Fora de Casa	2004	6.1		2
 f	Dormindo Fora de Casa (2004)	2004	6.1		2
 f	Dormindo com as Outras Pessoas	2015	6.3		2
@@ -12946,7 +12946,7 @@ f	Duelo de Titãs (1959)	1959	7.1		2
 f	Duelo de Titãs (2000)	2000	7.7	L	6
 f	Duelo no Asfalto	2020	5.5	12	2
 f	Duelo no Asfalto (2020)	2020	5.5	12	2
-f	Duelo no Oeste	1966	6.5		0
+f	Duelo no Oeste	1966	6.5		1
 f	Duelos de Amor	1983			1
 f	Duendes e Dragões	2018			0
 f	Duets: Vem Cantar Comigo	2000	5.7	14	1
@@ -12968,7 +12968,7 @@ f	Duna Parte Dois (2024)	2024	8.1	14	41
 f	Duna: Parte Dois	2024	8.1	14	41
 f	Duna: Parte Dois (2024)	2024	8.1	14	41
 f	Dune Drifter	2020	4.6		0
-f	Dungeons & Dragons: A Aventura Começa Agora	2000	4.4		2
+f	Dungeons & Dragons: A Aventura Começa Agora	2000	4.4		3
 f	Dungeons & Dragons: Honra Entre Rebeldes	2023	7.4	12	10
 f	Dunki	1986			0
 f	Dunki (2023)	2023			0
@@ -13021,7 +13021,7 @@ f	Duvida (2008)	2008	7.2	12	3
 f	Duvide do que Ouve	2024		16	0
 f	Dynasty Warriors	2021	5.8	16	2
 f	Dziewczyna influencera	2024			0
-f	Dá-lhe Duro Trinity	1972	6.8		1
+f	Dá-lhe Duro Trinity	1972	6.8		2
 f	Déjà Vu	2006	6.9	14	8
 f	Déjà Vu - O Primeiro Ano do "Novo" Governo Lula	2023		14	0
 f	Dívida de Honra	2014	6.5	16	2
@@ -13190,10 +13190,10 @@ f	El Pepe,Uma Vida Suprema	2019	7.3		0
 f	El Robo Del Siglo	2020	7.7	16	3
 f	El Salvador - O dia em que o medo mudou de lado	2026		16	0
 f	El Salvador O Dia em que o Medo Mudou de Lado (2026)	2026		16	0
-f	El Sótano	2024			1
+f	El Sótano	2024			0
 f	El Titán: The Adrián González Story	2023			0
 f	El desencanto	1976	7.2		0
-f	El despertar (2026)	2026	6.5		177
+f	El despertar (2026)	2026	6.5		66
 f	El diabólico	1977			0
 f	El duelo	2018			0
 f	El espiritista	1977			0
@@ -13214,19 +13214,19 @@ f	Ela Dança Eu Danço 2 (2008)	2008	6.7	12	4
 f	Ela Dança Eu Danço 3 (2010)	2010	6.8	12	3
 f	Ela Dança Eu Danço 4 (2012)	2012	6.9	10	3
 f	Ela Dança Eu Danço 5 (2014)	2014	6.8	12	4
-f	Ela Dança Eu Danço 6 (2019)	2019	6.1		1
+f	Ela Dança Eu Danço 6 (2019)	2019	6.1		2
 f	Ela Dança, Eu Danço	2006	6.9	12	4
 f	Ela Dança, Eu Danço 2	2008	6.7	12	4
 f	Ela Dança, Eu Danço 3	2010	6.8	12	3
 f	Ela Dança, Eu Danço 4	2012	6.9	10	3
 f	Ela Dança, Eu Danço 5: Tudo ou Nada	2014	6.8	12	4
-f	Ela Dança, Eu Danço 6	2019	6.1		1
+f	Ela Dança, Eu Danço 6	2019	6.1		2
 f	Ela Dança,Eu Danço	2006	6.9	12	4
 f	Ela Dança,Eu Danço 2	2008	6.7	12	4
 f	Ela Dança,Eu Danço 3	2010	6.8	12	3
 f	Ela Dança,Eu Danço 4	2012	6.9	10	3
 f	Ela Dança,Eu Danço 5: Tudo ou Nada	2014	6.8	12	4
-f	Ela Dança,Eu Danço 6	2019	6.1		1
+f	Ela Dança,Eu Danço 6	2019	6.1		2
 f	Ela Disse	2022	7.2	12	3
 f	Ela Disse (2022)	2022	7.2	12	3
 f	Ela Disse Ele Disse (2019)	2019	7.1	12	1
@@ -13340,9 +13340,9 @@ f	Ella e John (2018)	2018	7.1		2
 f	Elle	2016	6.6	16	2
 f	Elle (2016)	2016	6.6	16	2
 f	Ellen DeGeneres: For Your Approval	2024	6.2	12	1
-f	Ellie And Abbie And Ellies Dead Aunt	2020	6.5		0
+f	Ellie And Abbie And Ellies Dead Aunt	2020	6.5		1
 f	Ellie Goulding: Rock in Rio (2019)	2019		L	0
-f	Ellie and Abbie (2020)	2020	6.5		0
+f	Ellie and Abbie (2020)	2020	6.5		1
 f	Elliot: Uma História de Natal	2018	5.7		2
 f	Elliot: Uma História de Natal (2018)	2018	5.7		2
 f	Elmo na Terra dos Rabugentos	1999	6.2		1
@@ -13361,7 +13361,7 @@ f	Elvis & Anabelle: O Despertar de Um Amor (2007)	2007	6.7		1
 f	Elvis & Nixon	2016	6.0	12	1
 f	Elvis & Nixon (2016)	2016	6.0	12	1
 f	Elvis (2022)	2022	7.4	14	5
-f	Elvis Triunfal	1972	7.5		0
+f	Elvis Triunfal	1972	7.6		0
 f	Elvis e Eu	1988	7.3		0
 f	Elway	2025	6.6		1
 f	Elyas	2024	6.2		2
@@ -13381,7 +13381,7 @@ f	Em Busca Da Fama	2007	6.7	L	4
 f	Em Busca Da Verdade (1996)	1996			0
 f	Em Busca De Um Lar	2013	6.6	14	1
 f	Em Busca Do Assassino	2018			0
-f	Em Busca Do Tesouro Desaparecido (2017)	2017	7.5		2
+f	Em Busca Do Tesouro Desaparecido (2017)	2017	7.5		0
 f	Em Busca Pela Verdade (2012)	2012	5.5		1
 f	Em Busca da Carta Proibida	2017	6.4	10	1
 f	Em Busca da Carta Proibida (2017)	2017	6.4	10	1
@@ -13887,10 +13887,10 @@ f	Entre os Templos	2024	5.6		1
 f	Entre os Vivos	2022	5.2	14	0
 f	Entre sombras	2015			0
 f	Entre sombras (2022)	2022			0
-f	Entreatos (2004)	2004			1
+f	Entreatos (2004)	2004			0
 f	Entrega Fatal (2024)	2024	5.4		1
 f	Entrega Imediata: O Carteiro	1963	7.3	10	0
-f	Entrega Mortal	1989	6.1		1
+f	Entrega Mortal	1989	6.1		2
 f	Entrega de Risco	2012	4.8		1
 f	Entrei em Pânico ao Saber o Que Vocês Fizeram na Sexta-feira 13 do Verão Passado	2001		16	0
 f	Entrelinhas	2024		16	0
@@ -13902,7 +13902,7 @@ f	Entrevista com o Demônio	2024	7.1	16	7
 f	Entrevista com o Vampiro	1994	7.4	14	10
 f	Entrevista com o Vampiro (1994)	1994	7.4	14	10
 f	Então é Natal	2024			0
-f	Enviado do Céu	2016			0
+f	Enviado do Céu	2016			1
 f	Envolvidos com o Perigo	1993	6.2		1
 f	Enxame	2024			0
 f	Enxame (2020)	2020			0
@@ -13940,7 +13940,7 @@ f	Era Uma Vez em Londres	2019	5.3		1
 f	Era Uma Vez em Londres (2019)	2019	5.3		1
 f	Era Uma Vez em Nova York	2013	6.3	16	1
 f	Era Uma Vez em Nova York (2013)	2013	6.3	16	1
-f	Era Uma Vez em Ucrânia	2020	6.4		1
+f	Era Uma Vez em Ucrânia	2020	6.4		0
 f	Era Uma Vez em… Hollywood	2019	7.4	16	17
 f	Era Uma Vez em… Hollywood (2019)	2019	7.4	16	17
 f	Era Uma Vez na America (1984)	1984	8.4	18	12
@@ -14106,7 +14106,7 @@ f	Esperando Pela Chuva (2021)	2021	5.9		1
 f	Esperando os Barbaros (2019)	2020	5.9	16	2
 f	Esperando os Bárbaros	2020	5.9	16	2
 f	Esperando por Voce (2016)	2016	7.1		2
-f	Esperar para Sempre	2010	5.9	12	0
+f	Esperar para Sempre	2010	5.9	12	1
 f	Espermagedom	2024	6.4	18	4
 f	Espero Tua Revolta (2019)	2019			0
 f	Espero Tua volta	2019			0
@@ -14145,7 +14145,7 @@ f	Espírito Selvagem	2000	5.7		6
 f	Espírito Selvagem (2000)	2000	5.7		6
 f	Espírito de Família	2014			0
 f	Espírito de Família (2020)	2020	5.5		0
-f	Espírito de Lobo	2015	6.5		1
+f	Espírito de Lobo	2015	6.5		3
 f	Espíritos 2: Você Nunca Está Sozinho	2007	7.2		1
 f	Espíritos Obscuros	2021	6.2	16	3
 f	Espíritos: A Morte Esta Ao Seu Lado	2004	7.3	14	4
@@ -14188,8 +14188,8 @@ f	Esqueceram de Mim 3	1997	5.3	L	9
 f	Esqueceram de Mim 3 (1997)	1997	5.3	L	9
 f	Esqueceram de Mim 4	2002	4.5	L	5
 f	Esqueceram de Mim 4 (2002)	2002	4.5	L	5
-f	Esqueceram de Mim 5: Sozinho no Natal	2012	5.1		3
-f	Esqueceram de Mim 5: Sozinho no Natal (2012)	2012	5.1		3
+f	Esqueceram de Mim 5: Sozinho no Natal	2012	5.1		4
+f	Esqueceram de Mim 5: Sozinho no Natal (2012)	2012	5.1		4
 f	Esqueceram de Mim no Lar, Doce Lar	2021	4.8	L	6
 f	Esqueceram de Mim no Lar,Doce Lar	2021	4.8	L	6
 f	Esqueceram de Mim no Lar,Doce Lar (2021)	2021	4.8	L	6
@@ -14267,7 +14267,7 @@ f	Estouro da Manada (1951)	1951			0
 f	Estrada Alucinante (1998)	1998	6.4		1
 f	Estrada Florestal 825	2025	5.9		1
 f	Estrada Maldita (2007)	2007	5.8	16	2
-f	Estrada Maldita (2019)	2019	5.7		1
+f	Estrada Maldita (2019)	2019	5.7		0
 f	Estrada Mortal (2018)	2018	5.8		0
 f	Estrada Para a Glória	2006	7.4	12	2
 f	Estrada Para o Natal	2018	6.3		1
@@ -14348,8 +14348,8 @@ f	Eu Aceito	2012	4.3		0
 f	Eu Aceito (2021)	2021		12	0
 f	Eu Acredito	2019	7.8	12	1
 f	Eu Acredito (2019)	2019	7.8	12	1
-f	Eu Acredito em Conto de Fadas	2022			1
-f	Eu Acredito em Conto de Fadas (2022)	2022			1
+f	Eu Acredito em Conto de Fadas	2022			0
+f	Eu Acredito em Conto de Fadas (2022)	2022			0
 f	Eu Antes de Mim	2026	6.8		2
 f	Eu Antes de Mim (2026)	2026	6.8		2
 f	Eu Capitao (2023)	2023	7.8	16	1
@@ -14360,7 +14360,7 @@ f	Eu Danço 2	2008	6.7	12	4
 f	Eu Danço 3	2010	6.8	12	3
 f	Eu Danço 4	2012	6.9	10	3
 f	Eu Danço 5 Tudo ou Nada	2014	6.8	12	4
-f	Eu Danço 6	2019	6.1		1
+f	Eu Danço 6	2019	6.1		2
 f	Eu Deus E Bin Laden	2016	5.2		1
 f	Eu Deveria Estar Feliz (2023)	2023			0
 f	Eu Eddie (2025)	2025	6.7	14	2
@@ -14385,13 +14385,13 @@ f	Eu Nao Sou Um Homem Facil	2018	6.2		1
 f	Eu Nao Sou um Homem Facil (2018)	2018	6.2		1
 f	Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo com a Minha Vida	2013	6.8		0
 f	Eu Não Posso Esperar	2018	5.9		0
-f	Eu Não Sou Seu Negro	2017	7.7	12	1
+f	Eu Não Sou Seu Negro	2017	7.7	12	2
 f	Eu Não Sou Tudo O Que Eu Quero Ser	2024			0
 f	Eu Não Sou um Robô	2021			0
 f	Eu Não Sou um Robô (2021)	2021			0
 f	Eu Odeio o Dia dos Namorados (2009)	2009	5.3		1
 f	Eu Odeio o Orkut	2011			0
-f	Eu Posso Ouvir o Oceano (1993)	1993	6.4	10	4
+f	Eu Posso Ouvir o Oceano (1993)	1993	6.4	10	7
 f	Eu Queria Ter a Sua Vida	2011	6.2	14	4
 f	Eu Queria Ter a Sua Vida (2011)	2011	6.2	14	4
 f	Eu Receberia as Piores Notícias dos Seus Lindos Lábios	2011		16	0
@@ -14650,11 +14650,11 @@ f	Exterminador: Cavaleiros e Dragões	2020	7.0	16	2
 f	Exterminadores do Alem Contra a Loira do Banheiro	2018	5.7	16	1
 f	Exterminadores do Alem Contra a Loira do Banheiro (2018)	2018	5.7	16	1
 f	Exterminadores do Além Contra a Loira do Banheiro	2018	5.7	16	1
-f	Exterminio (2002)	2002	7.2	16	14
+f	Exterminio (2002)	2002	7.2	16	12
 f	Exterminio 2 (2007)	2007	6.6	18	8
 f	Exterminio A Evolução (2025)	2025	6.6	18	14
 f	Exterminio O Templo dos Ossos (2026)	2026	7.1	18	13
-f	Extermínio	2002	7.2	16	14
+f	Extermínio	2002	7.2	16	12
 f	Extermínio 2	2007	6.6	18	8
 f	Extermínio: A Evolução	2025	6.6	18	14
 f	Extermínio: O Templo dos Ossos	2026	7.1	18	13
@@ -14663,12 +14663,12 @@ f	Exterritorial (2025)	2025	6.6	16	2
 f	Extinction	2014	3.9		0
 f	Extinção	2018	6.1	16	3
 f	Extinção (2018)	2018	6.1	16	3
-f	Extinção Humana	2011	5.1		0
+f	Extinção Humana	2011	5.1		1
 f	Extra! Extra!	1992	6.7		2
 f	Extraordinario	2017	8.1	10	7
 f	Extraordinario (2017)	2017	8.1	10	7
 f	Extraterrestrial	2014	5.6		1
-f	Extreme Makeover: Homer Edition (2026)	2026	7.4		3
+f	Extreme Makeover: Homer Edition (2026)	2026	7.4		2
 f	Extremely Wicked,Shockingly Evil and Vile Legendado	2019	7.0	16	3
 f	Extremis	2016	6.9		0
 f	Exército de Ladrões: Invasão da Europa	2021	6.8	14	4
@@ -14736,7 +14736,7 @@ f	Fala com o Meu Agente! O Filme! (2026)	2026	6.0	12	3
 f	Falando Grego	2009	6.1		2
 f	Falando Grego (2009)	2009	6.1		2
 f	Falando de Amor (1995)	1995	6.2		2
-f	Falas Femininas: Histórias (Im)possíveis	2023		12	1
+f	Falas Femininas: Histórias (Im)possíveis	2023		12	0
 f	Falas Negras: Histórias (Im)possíveis	2023		12	0
 f	Falas da Terra: Histórias (Im)possíveis	2023		12	0
 f	Falas da Vida: Histórias (Im)possíveis	2023		12	0
@@ -14990,7 +14990,7 @@ f	Feliz Natal	2008		14	0
 f	Feliz Natal (2005)	2005	7.3	14	2
 f	Feliz Natal (2008)	2008		14	0
 f	Feliz Natal,Drake & Josh	2008	7.3		2
-f	Feliz Natal: Onde Estao os Presentes? (2014)	2014	5.4	12	2
+f	Feliz Natal: Onde Estao os Presentes? (2014)	2014	5.4	12	3
 f	Feliz Segunda	2025			0
 f	Felon	2008	7.1	16	2
 f	Felon (2008)	2008	7.1	16	2
@@ -15030,7 +15030,7 @@ f	Ferias Macabras (2024)	2024	5.3		1
 f	Ferias da Familia Johnson (2004)	2004	5.5		2
 f	Ferias de Verao (2023)	2023	5.7		0
 f	Ferias do Barulho	1985	5.7	16	2
-f	Ferias em Alto Astral (1994)	1994	6.0		1
+f	Ferias em Alto Astral (1994)	1994	6.0		2
 f	Ferida	2021	6.8	16	1
 f	Ferida (2020)	2021	6.8	16	1
 f	Fernanda Young: Foge-me ao Controle	2024		16	0
@@ -15119,7 +15119,7 @@ f	Filhos de Istambul	2021	8.0		1
 f	Filhos de Istambul (2021)	2021	8.0		1
 f	Filhos de Ninguém	2018	6.2		1
 f	Filhos de Ninguém (2018)	2018	6.2		1
-f	Filhos do Divórcio	2013	5.5		1
+f	Filhos do Divórcio	2013	5.5		2
 f	Filhos do Ecstasy	2025			0
 f	Filhos do Ecstasy (2025)	2025			0
 f	Filhos do Paraíso	1997	7.9		2
@@ -15199,7 +15199,7 @@ f	First Love: Descobrindo o Amor	2022	5.7	14	1
 f	First Love: Descobrindo o Amor (2022)	2022	5.7	14	1
 f	First Moon	2025			0
 f	First Shift	2024	5.4		1
-f	First Squad: A Hora da Verdade (2009)	2009	6.3		0
+f	First Squad: A Hora da Verdade (2009)	2009	6.3		1
 f	Fish N Chips - O Filme	2013			1
 f	Fitas (2020)	2020	6.6	L	0
 f	Fitas Proibidas - Antologia do Terror	2024		16	0
@@ -15258,7 +15258,7 @@ f	Flores de Natal (2018)	2018	6.4		0
 f	Flores do Oriente	2011	7.4	16	3
 f	Florescendo	2024		14	1
 f	Florescendo (2024)	2024		14	1
-f	Floresta Maldita	2016	5.2		3
+f	Floresta Maldita	2016	5.2		2
 f	Floresta Negra	1997	6.1		3
 f	Floresta dos Suicidas	2013	4.5		1
 f	Floresta dos Suicidas (2013)	2013	4.5		1
@@ -15296,7 +15296,7 @@ f	Fogo Cruzado (2021)	2021	6.3	16	2
 f	Fogo Cruzado (2023)	2023	5.3	16	0
 f	Fogo Sombrio (2020)	2020	4.1		0
 f	Fogo e Gelo (2008)	2008	5.1		1
-f	Fogo no Coracao (2018)	2018	6.9	14	1
+f	Fogo no Coracao (2018)	2018	6.9	14	0
 f	Fogo no Coração	1957			0
 f	Fogo no Céu	1993	6.7	12	3
 f	Fogo vs Fogo	2022			0
@@ -15322,7 +15322,7 @@ f	Fome de Poder	2016	7.2	10	5
 f	Fome de Poder (2016)	2016	7.2	10	5
 f	Fome de Sucesso	2023	7.2	16	1
 f	Fome de Sucesso (2023)	2023	7.2	16	1
-f	Fome de Viver	1983	6.7	18	3
+f	Fome de Viver	1983	6.7	18	2
 f	Fomos Canções	2021	6.4	16	0
 f	Fomos Heróis	2002	7.1	14	4
 f	Fomos Heróis (2002)	2002	7.1	14	4
@@ -15332,7 +15332,7 @@ f	Foo Fighters: Live At Wembley Stadium	2008	8.2		0
 f	Food Truck do Amor	2025			0
 f	Foodiverso: Uma Galáxia em Perigo	2018	7.5	L	0
 f	Footloose	1984	6.7	12	4
-f	Footloose: Ritmo Contagiante (2011)	2011	6.6	12	4
+f	Footloose: Ritmo Contagiante (2011)	2011	6.6	12	3
 f	Footloose: Ritmo Louco	1984	6.7	12	4
 f	Footloose: Ritmo Louco (1984)	1984	6.7	12	4
 f	For Worse (2026)	2026			0
@@ -15462,7 +15462,7 @@ f	Frangoelho e o Hamster das Trevas (2022)	2022	7.2	L	3
 f	Frank & Penelope	2022	7.3		2
 f	Frank & Penelope (2022)	2022	7.3		2
 f	Frank e Jesse - Fora da Lei	1994	5.2		1
-f	Frank e o Robo (2012)	2012	6.9	10	1
+f	Frank e o Robo (2012)	2012	6.9	10	2
 f	Frankenfish: Criatura Assassina (2004)	2004	5.6		1
 f	Frankenhooker: Que Pedaço de Mulher	1990	6.3		1
 f	Frankenstein	2025	7.6	18	17
@@ -15573,7 +15573,7 @@ f	Frontera	2014	6.5		2
 f	Frost/Nixon	2008	7.3	12	2
 f	Frost/Nixon (2008)	2008	7.3	12	2
 f	FrostNixon	2008	7.3	12	2
-f	Frosty: O Boneco de Neve (1969)	1969	6.9		2
+f	Frosty: O Boneco de Neve (1969)	1969	6.9		3
 f	Frozen 2	2017			0
 f	Frozen 2 - O Reino do Gelo (2019)	2019	7.2	L	13
 f	Frozen Febre Congelante	2015	6.8	L	3
@@ -15624,7 +15624,7 @@ f	Fuga de Los Angeles (1996)	1996	5.9	16	4
 f	Fuga de Mogadíscio (2021)	2021	7.1		2
 f	Fuga de Natal	2018		L	0
 f	Fuga de Natal (2018)	2018		L	0
-f	Fuga de Nova York (1981)	1981	7.0	14	6
+f	Fuga de Nova York (1981)	1981	7.0	14	7
 f	Fuga de Pretoria (2020)	2020	7.2	14	3
 f	Fuga de Pretória	2020	7.2	14	3
 f	Fuga de Ravenshead	2010			0
@@ -15734,7 +15734,7 @@ f	Fé para o Impossível	2025	7.4	12	0
 f	Fé. Esperança. Amor.	2021		10	0
 f	Fé. Esperança. Amor. (2021)	2021		10	0
 f	Fédro	2021		14	0
-f	Férias Ardentes	1985			1
+f	Férias Ardentes	1985			0
 f	Férias Forçadas	2025	6.2		1
 f	Férias Frustradas (1983)	1983	7.1	14	7
 f	Férias Frustradas (2015)	2015	6.3	14	5
@@ -15923,7 +15923,7 @@ f	Garotas Selvagens 3	2005	5.0		2
 f	Garotas Selvagens 4	2010	5.1		1
 f	Garotas Sem Rumo	2005	5.3		3
 f	Garotas Sem Rumo (2005)	2005	5.3		3
-f	Garotas Só Querem Vingança	2026		16	1
+f	Garotas Só Querem Vingança	2026	4.7	16	1
 f	Garotas do ABC	2003	6.1		0
 f	Garotas do Calendario (2003)	2003	6.5		2
 f	Garotas do Calendário	2003	6.5		2
@@ -16084,7 +16084,7 @@ f	Ghostbusters: Mais Alem (2021)	2021	7.3	12	9
 f	Ghostbusters: Mais Além	2021	7.3	12	9
 f	Ghosted: Sem Resposta	2023	6.9	14	6
 f	Ghosted: Sem Resposta (2023)	2023	6.9	14	6
-f	Ghostland: Terra Sem Lei (2021)	2021	5.0	16	2
+f	Ghostland: Terra Sem Lei (2021)	2021	5.0	16	3
 f	Ghosts Of War	2020	6.3	18	2
 f	Ghosts of Red Ridge (2024)	2024			0
 f	Gia: Fama e Destruição	1998	7.1	16	4
@@ -16259,7 +16259,7 @@ f	Gorongosa: O Paraíso Renasce	2022		12	0
 f	Gospel	2022			0
 f	Gospel (2022)	2022			0
 f	Gosto Infernal	2025			0
-f	Gosto de Cereja (1997)	1997	7.7	12	3
+f	Gosto de Cereja (1997)	1997	7.7	12	4
 f	Gosto de Sangue	1985	7.2	16	3
 f	Gosto se Discute (2017)	2017	5.1	12	0
 f	Gota D'Água	2023			0
@@ -16509,7 +16509,7 @@ f	Guerreiros de Fogo	1985	5.4	10	3
 f	Guerreiros do Amanhã (2010)	2010	6.1		1
 f	Guerreiros do Basquete	2024	6.4	16	1
 f	Guerreiros do Basquete (2024)	2024	6.4	16	1
-f	Guerreiros do Céu e da Terra (2003)	2003	6.3		1
+f	Guerreiros do Céu e da Terra (2003)	2003	6.3		2
 f	Guerreiros do Futuro	2018	4.3		1
 f	Guerreiros do Futuro (2018)	2018	4.3		1
 f	Guerreiros em Campo (2022)	2022		12	0
@@ -16577,8 +16577,8 @@ f	Hackers: Piratas de Computador (1995)	1995	6.4	L	5
 f	Haikyuu!! Movie: Owari to Hajimari	2015	8.4		1
 f	Hail Satan	2019	7.0		1
 f	Hail Satan? (2019)	2019	7.0		1
-f	Hair	1979	7.3	16	2
-f	Hairspray Brasil	2009			1
+f	Hair	1979	7.2	16	2
+f	Hairspray Brasil	2009			0
 f	Hairspray Em Busca da Fama	2007	6.7	L	4
 f	Hairspray Em Busca da Fama (2007)	2007	6.7	L	4
 f	Hairspray Live!	2016	7.4		1
@@ -16692,11 +16692,11 @@ f	Happy Hour - Verdades e Consequências	2018			0
 f	Happy Hour - Verdades e Consequências (2018)	2018			0
 f	Happy Patel Khatarnak Jasoos	2026	6.0		1
 f	Haq	2011			0
-f	Harakiri	1962	8.5		9
+f	Harakiri	1962	8.5		10
 f	Harbinger Down - Terror no Gelo	2015	4.5		1
 f	Hard Home (2024)	2024	4.5		0
 f	Hard Kill	2020	4.9	16	2
-f	Hard Luck - Jogo Sujo (2006)	2006	5.5		0
+f	Hard Luck - Jogo Sujo (2006)	2006	5.5		1
 f	Hardball - O Jogo da Vida	2001	6.5		2
 f	Hardball - O Jogo da Vida (2001)	2001	6.5		2
 f	Hardballer	2019			0
@@ -16736,10 +16736,10 @@ f	Harry: O Príncipe Que Sobrou (2023)	2023			0
 f	Harry: O Príncipe que Sobrou	2023			0
 f	Haruki Murakami,de "Underground" à "1Q84",l’attentat de la secte Aum	2025			0
 f	Hasan Minhaj: Off With His Head	2024	7.4		0
-f	Hashtag Pedido de Casamento	2023			1
+f	Hashtag Pedido de Casamento	2023			5
 f	Hate to Love: Nickelback	2024			1
 f	Hate to Love: Nickelback (2024)	2024			1
-f	Hatfields e McCoys: Sangue Ruim	2012	6.1		0
+f	Hatfields e McCoys: Sangue Ruim	2012	6.1		1
 f	Haunted by Her Name (2024)	2024			0
 f	Hauntology (2024)	2024			0
 f	Haut les mains !	2025			0
@@ -16792,7 +16792,7 @@ f	Hell Girl (2019)	2019	5.5		0
 f	Hell Hath No Fury (2021)	2021	6.4		1
 f	Hell House - A Origem	2023	6.5	14	3
 f	Hell House - A Origem (2023)	2023	6.5	14	3
-f	Hell House LLC II: The Abaddon Hotel	2018	5.7		2
+f	Hell House LLC II: The Abaddon Hotel	2018	5.7		1
 f	Hell House LLC III: Lake of Fire	2019	5.2		1
 f	Hellbender	2022	5.5		1
 f	Hellblazers - O Inferno na Terra	2022	4.5	14	1
@@ -16858,7 +16858,7 @@ f	Hellraiser: Renascido do Inferno (1987)	1987	6.9	18	6
 f	Hellraiser: Renascido do Inferno (2022)	2022	6.2	18	4
 f	Hellworld - O Mundo do Inferno	2005	4.6	18	2
 f	Help	2021	7.1		1
-f	Helter Skelter	2004	5.8		1
+f	Helter Skelter	2004	5.7		1
 f	Henry & Klauss: Mestres da Mágica	2025		L	0
 f	Henry Danger: O Filme	2025	7.6		4
 f	Henry Danger: O Filme (2025)	2025	7.6		4
@@ -17067,7 +17067,7 @@ f	Hitpig!	2024	6.6	L	2
 f	Hiver à Sokcho	2025	6.6		1
 f	Hjertevirtuosen	1916			0
 f	Hoax	2006	6.3		1
-f	Hoffa Um Homem Uma Lenda (1992)	1992	6.3	14	3
+f	Hoffa Um Homem Uma Lenda (1992)	1992	6.3	14	1
 f	Hoje Eu Quero Voltar Sozinho (2014)	2014	7.9	12	2
 f	Hoje Falaremos sobre Aquele Dia	2020	7.2		0
 f	Hoje Falaremos sobre Aquele Dia (2023)	2023			0
@@ -17085,7 +17085,7 @@ f	Holmes e Watson (2018)	2018	4.3		2
 f	Holocausto Brasileiro	2016	8.0	14	0
 f	Holocausto Brasileiro (2016)	2016	8.0	14	0
 f	Holocausto Canibal (1980)	1980	6.3	18	6
-f	Holy Spider	2022	7.3		1
+f	Holy Spider	2022	7.3		2
 f	Hombre (1967)	1967	7.1		2
 f	Home	2021	7.9	12	34
 f	Home Sweet Home: Recomeço	2025	5.9	16	2
@@ -17254,7 +17254,7 @@ f	Hors Normes	2019	7.8	12	2
 f	Horton e o Mundo dos Quem (2008)	2008	6.5	L	8
 f	Horton e o Mundo dos Quem!	2008	6.5	L	8
 f	Horácio				0
-f	Horácio (2019)	2019		16	1
+f	Horácio (2019)	2019		16	0
 f	Hospedagem Mortal	2019	6.4		0
 f	Hospedagem Mortal (2019)	2019	6.4		0
 f	Hospede Indesejado (2019)	2019	6.0	16	3
@@ -17338,7 +17338,7 @@ f	Humane	2024	5.4	16	2
 f	Humane (2024)	2024	5.4	16	2
 f	Humane: Até Onde O Ser Humano Pode Chegar	2024	5.4	16	2
 f	Humor Negro	2022		12	0
-f	Hungarian Rhapsody: Queen Live in Budapest	1986	8.2	12	3
+f	Hungarian Rhapsody: Queen Live in Budapest	1986	8.2	12	2
 f	Hungria: A Escolha de um Sonho	2026		14	1
 f	Hungria: A Escolha de um Sonho (2026)	2026		14	1
 f	Hunted	2003	6.2	14	3
@@ -17547,7 +17547,7 @@ f	Imperio Proibido	2014	5.9	12	2
 f	Imperio Proibido (2014)	2014	5.9	12	2
 f	Imperio da Luz (2022)	2022	6.6	16	2
 f	Imperio do Sol (1987)	1987	7.5	L	5
-f	Imperium: Resistência Sem Líder	2016	6.5	16	2
+f	Imperium: Resistência Sem Líder	2016	6.5	16	1
 f	Impetigore: Herança Maldita	2019	6.6	18	2
 f	Impetigore: Herança Maldita (2019)	2019	6.6	18	2
 f	Impiedoso	2023	6.4		2
@@ -17665,7 +17665,7 @@ f	Inferninho	2019		12	1
 f	Inferninho (2019)	2019		12	1
 f	Inferno	2024	5.0		2
 f	Inferno (1999)	1999	6.2	14	3
-f	Inferno (2016)	2016	6.1	14	7
+f	Inferno (2016)	2016	6.1	14	5
 f	Inferno Abandonado	2023	5.5		0
 f	Inferno Abandonado (2023)	2023	5.5		0
 f	Inferno Branco	1994	5.8		1
@@ -17788,7 +17788,7 @@ f	Insecure: O Fim (2021)	2021		16	0
 f	Insegurança (2014)	2014			0
 f	Insensata Paixão	2016	6.0		1
 f	Insensata Paixão (2016)	2016	6.0		1
-f	Insensíveis	2012	6.2		2
+f	Insensíveis	2012	6.2		1
 f	Inseparáveis	2013	6.3		0
 f	Inshallah,um Menino!	2024	7.1		1
 f	Inside (2023)	2023	5.7	16	2
@@ -17954,7 +17954,7 @@ f	Invincible (2001)	2001	6.2		1
 f	Invisíveis	2020			0
 f	Invisíveis (2020)	2020			0
 f	Invisíveis (2022)	2020	6.5	16	0
-f	Invitation to a Murder	2023	5.5		3
+f	Invitation to a Murder	2023	5.5		2
 f	Invocacao do Mal (2013)	2013	7.5	14	21
 f	Invocacao do Mal 2 (2016)	2016	7.3	14	13
 f	Invocacao do Mal 3: A Ordem do Demonio (2021)	2021	7.3	14	10
@@ -18174,7 +18174,7 @@ f	Jackass para Sempre (2022)	2022	6.8	12	2
 f	Jackass,Cara-de-Pau: O Filme (2002)	2002	6.3	18	3
 f	Jackass: O Último é o Melhor	2026	7.3	18	10
 f	Jackass: O Último é o Melhor (2026)	2026	7.3	18	10
-f	Jackie & Ryan: Amor Sem Medidas	2014	5.9	14	1
+f	Jackie & Ryan: Amor Sem Medidas	2014	5.9	14	0
 f	Jackie Brown	1997	7.4	16	7
 f	Jackie Brown (1997)	1997	7.4	16	7
 f	Jackpot: Loteria Mortal	2024	6.3	14	5
@@ -18364,7 +18364,7 @@ f	Jogada de Gênio	2008	6.6		1
 f	Jogada de Gênio (2008)	2008	6.6		1
 f	Jogada de Mestre	2000	4.8		0
 f	Jogada de Mestre (2015)	2015	6.0	12	1
-f	Jogada de Rei (2013)	2013	7.3	14	1
+f	Jogada de Rei (2013)	2013	7.3	14	2
 f	Jogada de Verão	2001	5.4		1
 f	Jogada de Verão (2001)	2001	5.4		1
 f	Jogador Numero 1	2018	7.6	12	13
@@ -18538,7 +18538,7 @@ f	Johnny & June	2005	7.5	12	5
 f	Johnny & June (2005)	2005	7.5	12	5
 f	Johnny Bom de Transa	1988	4.7	12	1
 f	Johnny Bom de Transa (1988)	1988	4.7	12	1
-f	Johnny Bravo Vai Para Bollywood	2011	6.0		1
+f	Johnny Bravo Vai Para Bollywood	2011	6.0		0
 f	Johnny English	2003	6.3	L	6
 f	Johnny English (2003)	2003	6.3	L	6
 f	Johnny English 3.0	2018	6.3	L	6
@@ -18720,7 +18720,7 @@ f	Jumbo	2025	7.7		1
 f	Jumbo (2019)	2019			0
 f	Jumbo: Um Coração Gigante	2025	7.7		1
 f	Jump (2009)	2009			0
-f	Jump In!	2007	6.4	L	1
+f	Jump In!	2007	6.4	L	2
 f	Jumper	2008	6.2	12	5
 f	Jumper (2008)	2008	6.2	12	5
 f	June	2005	7.5	12	5
@@ -18790,9 +18790,9 @@ f	Jurassic World: O Mundo dos Dinossauros	2015	6.7	12	12
 f	Jurassic World: O Mundo dos Dinossauros (2015)	2015	6.7	12	12
 f	Jurassic World: Recomeço	2025	6.2	14	26
 f	Jurassic World: Reino Ameacado (2018)	2018	6.5	12	11
-f	Just Before I Go (2015)	2015	6.4		1
+f	Just Before I Go (2015)	2015	6.4		2
 f	Just Mercy	2019	7.8	14	3
-f	Just Play Dead	2026	5.7	18	10
+f	Just Play Dead	2026	5.8	18	7
 f	Just a Father	2008	6.7		0
 f	Justa Causa	1995	6.3	14	1
 f	Justica Alem do Sistema (2021)	2021	4.6	10	2
@@ -18855,7 +18855,7 @@ f	Já que Ninguém me Tira Para Dançar (2021)	2021		L	0
 f	Júpiter	2015	5.5	12	9
 f	K-911: Um Policial Bom pra Cachorro 2	2000	5.7		1
 f	K-9: D.P.: Um Policial Bom pra Cachorro	2002	5.9		1
-f	K-9: Um Policial Bom pra Cachorro	1989	6.2		1
+f	K-9: Um Policial Bom pra Cachorro	1989	6.2		2
 f	K-I-S-S-I-N-G	2024			0
 f	K-PAX: O Caminho da Luz	2001	7.2	12	4
 f	K-Pops!	2026	6.7		1
@@ -19147,7 +19147,7 @@ f	Kung Fu Panda 4	2024	7.0	L	10
 f	Kung Fu Panda 4 (2024)	2024	7.0	L	10
 f	Kung Fu Panda: Especial de Natal	2010	7.0	L	2
 f	Kung Fu Panda: Especial de Natal (2010)	2010	7.0	L	2
-f	Kung Fu Panda: Os Segredos dos Cinco Furiosos	2008	6.8		4
+f	Kung Fu Panda: Os Segredos dos Cinco Furiosos	2008	6.8		3
 f	Kung Fu Panda: Os Segredos dos Mestres	2011	6.5		2
 f	Kung Fu Panda: Segredos do Pergaminho	2016	6.9	L	2
 f	Kung Fu Panda: Segredos do Pergaminho (2016)	2016	6.9	L	2
@@ -19273,7 +19273,7 @@ f	Labirinto: A Magia do Tempo	1986	7.3	12	6
 f	Labirinto: A Magia do Tempo (1986)	1986	7.3	12	6
 f	Lacuna	2016			0
 f	Lacuna (2021)	2021		14	0
-f	Ladeira Abaixo (2016)	2018			0
+f	Ladeira Abaixo (2016)	2016	3.7		0
 f	Ladies First (2026)	2026	5.9	16	5
 f	Lado a Lado (1998)	1998	7.2	12	4
 f	Lado a Lado com o Amor	1996	5.4		0
@@ -19388,7 +19388,7 @@ f	Lara Croft: Tomb Raider - A Origem da Vida (2003)	2003	5.8	12	4
 f	Laranja Mecanica (1971)	1971	8.2	18	13
 f	Laranja Mecânica	1971	8.2	18	13
 f	Largadas Em Família	2018	6.0		0
-f	Largo Winch 2 - A Conspiração Burma (2011)	2011	5.8		1
+f	Largo Winch 2 - A Conspiração Burma (2011)	2011	5.8		2
 f	Largo Winch: O Preço do Dinheiro	2024	5.8		3
 f	Largo Winch: O Preço do Dinheiro (2024)	2024	5.8		3
 f	Larissa: O Outro Lado de Anitta	2025		16	1
@@ -19433,7 +19433,7 @@ f	Lavender	2019			0
 f	Lavoura Arcaica (2001)	2001	7.1		0
 f	Lawrence da Arábia (1962)	1962	8.0	14	8
 f	Lazarat	2019	5.1		1
-f	Laços	2020	6.7		1
+f	Laços	2020	6.6		0
 f	Laços de Afeto	2022	6.6	16	1
 f	Laços de Afeto (2022)	2022	6.6	16	1
 f	Laços de Sangue	2025	7.0	18	17
@@ -19699,7 +19699,7 @@ f	Like Dogs	2021	4.5		0
 f	Like Someone In Love	2012	6.9		2
 f	Lila e Eve - Unidas Pela Vingança (2015)	2015	6.2	16	1
 f	Lilian M: Relatório Confidencial	1975			0
-f	Lilith Fair: Construindo um Mistério	2025		12	1
+f	Lilith Fair: Construindo um Mistério	2025		12	2
 f	Lilly Lives Alone	2025			0
 f	Lilly Lives Alone (2025)	2025			0
 f	Lilly e o Natal Encantado (2017)	2017			0
@@ -19851,10 +19851,10 @@ f	Lobisomens	2024	5.7	16	3
 f	Lobisomens (2024)	2024	5.7	16	3
 f	Lobisomens do Terceiro Reich (2018)	2018	2.8		0
 f	Lobo	1994	6.1	14	2
-f	Lobo Guerreiro (2015)	2015	6.2		2
+f	Lobo Guerreiro (2015)	2015	6.2		3
 f	Lobo Guerreiro 2	2017	6.5	14	3
 f	Lobo Guerreiro 2 (2017)	2017	6.5	14	3
-f	Lobo: O Assassino	1997	5.3		1
+f	Lobo: O Assassino	1997	5.3		2
 f	Lobos	2025	5.8		1
 f	Lobos (2014)	2014	5.9		1
 f	Lobos (2022)	2020	7.3		0
@@ -19882,7 +19882,7 @@ f	Lolo e Kid	2024	7.7	14	0
 f	Lolo e Kid (2024)	2024	7.7	14	0
 f	Lolo: O Filho da Minha Namorada	2015	5.3		0
 f	Lolo: O Filho da Minha Namorada (2015)	2015	5.3		0
-f	London (2005)	2005	6.0		2
+f	London (2005)	2005	6.0		1
 f	London Calling	2025	6.4	16	2
 f	London Fields Romance Fatal	2018	5.1	16	2
 f	London Fields: Romance Fatal (2018)	2018	5.1	16	2
@@ -19981,7 +19981,7 @@ f	Loucos de Paixão	1990	6.7		2
 f	Loucos do Alabama (1999)	1999	6.0		1
 f	Loucos e Perigosos	2017	5.2	16	3
 f	Loucos e Rebeldes	1993	7.3	14	4
-f	Loucos por Dinheiro	2012	6.1		1
+f	Loucos por Dinheiro	2012	6.1		2
 f	Loucos por Justica (2020)	2020	7.3	16	2
 f	Loucos por Justiça	2020	7.3	16	2
 f	Loucos por Mouser	2014	5.0		1
@@ -20186,8 +20186,8 @@ f	Luta Pela Liberdade (2010)	2010	5.2		1
 f	Luta Pela Liberdade (2021)	2021	6.7	16	3
 f	Luta Por Sobrevivência	2021	7.4	16	0
 f	Luta Por Sobrevivência (2021)	2021	7.4	16	0
-f	Luta Satânica	2024	6.0		0
-f	Luta Satânica (2024)	2024	6.0		0
+f	Luta Satânica	2024	6.0		1
+f	Luta Satânica (2024)	2024	6.0		1
 f	Luta Solitária	1985			0
 f	Luta de Classes	2025	5.5	16	5
 f	Luta de Classes (2025)	2025	5.5	16	5
@@ -20388,7 +20388,7 @@ f	Madhouse	1981	5.5		1
 f	Madison	1995	7.7	14	5
 f	Madison - A Sereia	1988	5.3		0
 f	Madly	2013	6.6		2
-f	Madonna: The Celebration Tour in Rio	2024		14	0
+f	Madonna: The Celebration Tour in Rio	2024		14	1
 f	Madre Superiora	2022		14	0
 f	Madre Teresa	2004			0
 f	Madre Teresa & Eu	2022			0
@@ -20431,7 +20431,7 @@ f	Maggie - A Transformação	2015	5.4	14	3
 f	Maggie Moore	2023	5.8	16	1
 f	Maggie Moore(s)	2023	5.8	16	1
 f	Maggie Simpson em O Despertar com Força da Soneca	2021	6.6	L	1
-f	Maggie Simpson em Rogue (Não Exatamente) One	2023	5.7	10	2
+f	Maggie Simpson em Rogue (Não Exatamente) One	2023	5.7	10	1
 f	Maggie Simpson: Brincando com o Destino	2020	7.4		1
 f	Magia Estranha	2015	7.3	10	2
 f	Magia Estranha (2015)	2015	7.3	10	2
@@ -20528,10 +20528,10 @@ f	Making the Witcher	2020	7.1	16	1
 f	Mal Intencionados (2015)	2015	3.9		0
 f	Mal Nosso	2017	5.9	16	0
 f	Mal Nosso (2017)	2017	5.9	16	0
-f	Mal Passado	2013			1
+f	Mal Passado	2013			0
 f	Mal Posso Esperar	1998	6.2		2
 f	MalAmore	1982			0
-f	Maladolescenza	1977	5.2		8
+f	Maladolescenza	1977	5.2		6
 f	Malasartes e o Duelo com a Morte (2017)	2017	6.4		0
 f	Malcolm & Marie	2021	7.0	14	2
 f	Malcolm X	1992	7.6	14	4
@@ -20657,7 +20657,7 @@ f	Manhattan	1979	7.7	12	2
 f	Manhattan (1979)	1979	7.7	12	2
 f	Maniac Cop 2: O Vingador	1990	6.0		2
 f	Maniac Cop 3: O Distintivo do Silêncio	1992	5.4		1
-f	Maniac Cop: O Exterminador	1988	6.1	14	2
+f	Maniac Cop: O Exterminador	1988	6.1	14	1
 f	Maniaco (2012)	2012	6.0	18	2
 f	Maniaco do Controle (2025)	2025	5.5	16	0
 f	Maniaco do Parque (2024)	2024	5.7	14	0
@@ -20963,7 +20963,7 @@ f	Master Moley em O Convite Real	2019			1
 f	Master Moley em O Convite Real (2019)	2019			1
 f	Masterplan	2026	6.8	16	45
 f	Masterplan (2026)	2026	6.8	16	45
-f	Mata	2026	6.3		1
+f	Mata	2026	6.2		1
 f	Mata Batin	2017	5.7		0
 f	Mata Batin 2	2019	5.8		0
 f	Mata-me de Prazer	2002	5.6	16	2
@@ -21162,7 +21162,7 @@ f	Medo Profundo: O Segundo Ataque	2019	5.7	14	2
 f	Medo Profundo: O Segundo Ataque (2019)	2019	5.7	14	2
 f	Medo S.A.	2017	5.7		0
 f	Medo S.A. (2016)	2017	5.7		0
-f	Medo Viral	2017	5.2	12	1
+f	Medo Viral	2017	5.2	12	0
 f	Medo da Chuva (2021)	2021	6.9	14	1
 f	Medo da Verdade	2007	7.3	16	4
 f	Medo da Verdade (2007)	2007	7.3	16	4
@@ -21257,7 +21257,7 @@ f	Memorias de Uma Paixao (2019)	2019	6.3	10	0
 f	Memorias de um Verao (2025)	2025	7.2	14	1
 f	Memorias do Carcere (1984)	1984	6.8		0
 f	Memory	2024		L	0
-f	Memory (2023)	2023	7.0		1
+f	Memory (2023)	2023	7.0		2
 f	Memory Box	2016			0
 f	Memphis Belle - A Fortaleza Voadora	1990	6.8	12	2
 f	Memphis Belle - A Fortaleza Voadora (1990)	1990	6.8	12	2
@@ -21361,7 +21361,7 @@ f	Mentiras Perigosas	2020	6.3		2
 f	Mentiras Perigosas (2020)	2020	6.3		2
 f	Mentiras Secretas	2021	6.1		0
 f	Mentiras Secretas (2022)	2021	6.1		0
-f	Mentiras Sinceras (2005)	2005	5.8		0
+f	Mentiras Sinceras (2005)	2005	5.8		1
 f	Mentiras de Família	2023		14	0
 f	Mentiras de Família (2019)	2019		18	3
 f	Menudas piezas	2024	7.0		1
@@ -21439,7 +21439,7 @@ f	Metro In Dino	2025	6.6		1
 f	Metrópolis	1927	8.1	L	6
 f	Meu "Querido" Elfo	2019	7.0		1
 f	Meu (Querido) Primo	2020	5.5	12	0
-f	Meu Admirador Secreto	2018	6.4		0
+f	Meu Admirador Secreto	2018	6.4		1
 f	Meu Amante é de Outro Mundo (1988)	1988	5.7		2
 f	Meu Amigaozao O Filme (2022)	2022		L	0
 f	Meu Amigo	1988	8.1	L	17
@@ -21597,7 +21597,7 @@ f	Meu Nome é Maria	2024	6.4	16	1
 f	Meu Nome é Mo'Nique	2023		16	0
 f	Meu Nome é Ninguém	1973	7.3		3
 f	Meu Nome é Ninguém (1973)	1973	7.3		3
-f	Meu Nome é Paul Walker	2018	8.3		1
+f	Meu Nome é Paul Walker	2018	8.2		1
 f	Meu Nome é Sara	2020	6.5	16	0
 f	Meu Nome é Sara (2020)	2020	6.5	16	0
 f	Meu Nome é Taylor, Drillbit Taylor	2008	5.9	12	2
@@ -21799,17 +21799,17 @@ f	Mile End Kicks	2026	5.7		1
 f	Miles Davis,Inventor do Cool (2019)	2019	7.1		2
 f	Miles Davis: Birth of the Cool	2019	7.1		2
 f	Milionário	2008	7.7	16	9
-f	Milionário num Instante	1990	6.3		2
+f	Milionário num Instante	1990	6.3		1
 f	Milk A Voz da Igualdade (2008)	2008	7.2		3
 f	Millenium A Garota na Teia de Aranha	2018	6.1	16	4
 f	Millennium 1 Os Homens que Nao Amavam as Mulheres	2011	7.4	16	9
-f	Millennium 2 - A Menina que Brincava com Fogo (2009)	2009	7.0	16	3
-f	Millennium 2 A Menina que Brincava com Fogo	2009	7.0	16	3
+f	Millennium 2 - A Menina que Brincava com Fogo (2009)	2009	7.0	16	5
+f	Millennium 2 A Menina que Brincava com Fogo	2009	7.0	16	5
 f	Millennium 3 - A Rainha do Castelo de Ar (2009)	2009	7.1		2
 f	Millennium 3 A Rainha do Castelo de Ar	2009	7.1		2
 f	Millennium A Garota Na Teia De Aranha	2018	6.1	16	4
 f	Millennium A Garota Na Teia De Aranha (2018)	2018	6.1	16	4
-f	Millennium II: A Menina Que Brincava com Fogo	2009	7.0	16	3
+f	Millennium II: A Menina Que Brincava com Fogo	2009	7.0	16	5
 f	Millennium III: A Rainha do Castelo de Ar	2009	7.1		2
 f	Millennium: Os Homens Que Não Amavam as Mulheres	2011	7.4	16	9
 f	Millennium: Os Homens Que Não Amavam as Mulheres (2011)	2011	7.4	16	9
@@ -22093,8 +22093,8 @@ f	Missão Catmandu - As Aventuras de Nelly e Simon	2017	5.7	L	1
 f	Missão Cegonha	2017	6.1	L	2
 f	Missão Clandestina	2022	5.6		0
 f	Missão Condor	2023	5.6		1
-f	Missão Cruzada	2024	6.9	14	2
-f	Missão Cruzada (2024)	2024	6.9	14	2
+f	Missão Cruzada	2024	7.0	14	2
+f	Missão Cruzada (2024)	2024	7.0	14	2
 f	Missão Cupido	2021		L	0
 f	Missão Despedida de Solteira	2021	5.5		0
 f	Missão Despedida de Solteira (2021)	2021	5.5		0
@@ -22208,7 +22208,7 @@ f	Moana Um Mar de Aventuras	2016	7.6	L	4
 f	Moana: Um Mar de Aventuras (2016)	2016	7.6	L	4
 f	Mobile Suit Gundam Hathaway	2021	7.2	14	3
 f	Mobile Suit Gundam Hathaway (2021)	2021	7.2	14	3
-f	Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe	2026	8.0	12	4
+f	Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe	2026	8.0	12	5
 f	Mobile Suit Gundam SEED FREEDOM	2024	7.1		2
 f	Mobile Suit Gundam: Cucuruz Doan's Island	2022	6.9		1
 f	Mobile Suit Gundam: Hathaway	2021	7.2	14	3
@@ -22368,7 +22368,7 @@ f	Morbius	2022	5.9	14	6
 f	Morbius (2022)	2022	5.9	14	6
 f	Morcego Negro	2023		14	0
 f	Morcegos (1999)	1999	4.6		1
-f	More Than Miyagi: The Pat Morita Story	2021	7.1		0
+f	More Than Miyagi: The Pat Morita Story	2021	7.1		1
 f	Morgan A Evolução (2016)	2016	5.8	16	2
 f	Morgan: A Evolução	2016	5.8	16	2
 f	Morituri (1965)	1965	6.7	12	1
@@ -22509,7 +22509,7 @@ f	Moxie: Quando as Garotas Vão À Luta	2021	7.2	12	2
 f	Moça com Brinco de Pérola	2003	6.6	12	3
 f	Mr Malcolms List (2022)	2022	5.9		1
 f	Mr Nice Guy: Bom de Briga (1997)	1997	6.6	12	3
-f	Mr Vinganca (2002)	2002	7.5	14	3
+f	Mr Vinganca (2002)	2002	7.5	14	4
 f	Mr. Bean - O Filme	1997	6.5	L	5
 f	Mr. Bean - O Filme (1997)	1997	6.5	L	5
 f	Mr. Billion	1977	5.5		0
@@ -22520,9 +22520,9 @@ f	Mr. Kadavul	2024			0
 f	Mr. Magoo	1997	4.5	L	1
 f	Mr. Nice Guy: Bom de Briga	1997	6.6	12	3
 f	Mr. Turner	2014	6.6		2
-f	Mr. Vampire 1992	1992	6.2		1
-f	Mr. Vingança (2002)	2002	7.5	14	3
-f	Mr. X	2026			2
+f	Mr. Vampire 1992	1992	6.2		2
+f	Mr. Vingança (2002)	2002	7.5	14	4
+f	Mr. X	2026			1
 f	Mrs. Miracle e a Alegria do Natal	2024	6.8		1
 f	Ms. Kanyin	2025			0
 f	Ms. Purple	2019			0
@@ -22633,8 +22633,8 @@ f	Mundo Duplo (2020)	2020	6.7		1
 f	Mundo Escondido	2026			0
 f	Mundo Estranho	1993	7.9	L	55
 f	Mundo Estranho (2022)	2022	6.2	L	4
-f	Mundo Futuro: Ano 2003, Operação Terra	1976	5.9		2
-f	Mundo Futuro: Ano 2003,Operação Terra	1976	5.9		2
+f	Mundo Futuro: Ano 2003, Operação Terra	1976	5.8		2
+f	Mundo Futuro: Ano 2003,Operação Terra	1976	5.8		2
 f	Mundo Novo	2025	6.0	14	14
 f	Mundo Proibido (1992)	1992	5.7	14	3
 f	Mundo Sombrio: Equilibrium	2013	4.6		0
@@ -22665,7 +22665,7 @@ f	Murilo Couto: 2020	2020		14	0
 f	Murilo Couto: Leso	2023			0
 f	Murilo Couto: Leso (2023)	2023			0
 f	Murina	2022	6.5		1
-f	Muru	2022			0
+f	Muru	2022			1
 f	Muse	2017	5.8		1
 f	Muse: Simulation Theory	2020	7.8		0
 f	Museu de Cera	1953	6.9	16	2
@@ -22708,7 +22708,7 @@ f	My Hero Academia: O Filme - 2 Heróis (2018)	2018	7.9	12	4
 f	My Hero Academia: O Filme – Ascensão dos Heróis	2019	8.1	12	4
 f	My Little Pony	1984			0
 f	My Little Pony - O Filme (2017)	2017	7.3	L	5
-f	My Little Pony Equestria Girls (2013)	2013	7.5		3
+f	My Little Pony Equestria Girls (2013)	2013	7.5		2
 f	My Little Pony Equestria Girls A Lenda de Everfree (2016)	2016	7.5		2
 f	My Little Pony Equestria Girls Jogos da Amizade (2015)	2015	7.5		1
 f	My Little Pony Equestria Girls Rainbow Rocks (2014)	2014	8.1		2
@@ -23006,7 +23006,7 @@ f	Nao Me Abandone Jamais (2010)	2010	6.8	12	4
 f	Nao Me Mate (2021)	2021	4.6	18	0
 f	Nao Olhe	2022	6.8	14	7
 f	Nao Olhe (2018)	2018	6.6		2
-f	Nao Olhe Para Tras (2015)	2015	6.7		2
+f	Nao Olhe Para Tras (2015)	2015	6.7		1
 f	Nao Olhe para Cima (2021)	2021	7.0	16	8
 f	Nao Se Mexa (2024)	2024	6.3	16	3
 f	Nao Se Preocupe Nada Vai Dar Certo (2011)	2011		12	0
@@ -23178,8 +23178,8 @@ f	Natal nas Montanhas Rochosas (2017)	2017	6.4		0
 f	Natal no Alasca	2024			0
 f	Natal no Cine Drive-In	2022	5.8		1
 f	Natal no Cine Drive-In (2022)	2022	5.8		1
-f	Natal no Hotel Plaza	2019	6.4	L	1
-f	Natal no Hotel Plaza (2019)	2019	6.4	L	1
+f	Natal no Hotel Plaza	2019	6.4	L	2
+f	Natal no Hotel Plaza (2019)	2019	6.4	L	2
 f	Natal no Interior	2022	5.9	L	2
 f	Natal no Interior (2022)	2022	5.9	L	2
 f	Natal no Lago	2022			0
@@ -23632,7 +23632,7 @@ f	Nord-Atlantique	1939			0
 f	Norita	2024			0
 f	Norm e os Invencíveis (2016)	2016	4.7	L	2
 f	Norm e os Invencíveis - Uma Aventura nas Férias	2020	5.1		1
-f	Norma	1979	7.2	12	1
+f	Norma	1979	7.2	12	2
 f	Norma (2023)	2023			0
 f	Normal	2026	7.2		10
 f	Normal (2026)	2026	7.2		10
@@ -24074,7 +24074,7 @@ f	O Amanhecer	1981		L	0
 f	O Amanhecer (2020)	2020			0
 f	O Amanhecer Mais Escuro	2016	4.3		0
 f	O Amanhecer da Guerra	2020			0
-f	O Amanhecer do Quarto Reich	2016	5.3		1
+f	O Amanhecer do Quarto Reich	2016	5.4		1
 f	O Amanhã É Hoje	2022	6.2	14	0
 f	O Amante (1992)	1992	7.0		7
 f	O Amante (2008)	2008	5.4		1
@@ -24088,7 +24088,7 @@ f	O Amante de Lady Chatterley (1981)	1981	5.4		2
 f	O Amante de Lady Chatterley (2022)	2022	6.7		5
 f	O Amante de Minha Mulher	1979			0
 f	O Amargo Sabor da Vingança (1967)	1967			0
-f	O Americano Tranquilo (2002)	2002	6.6		2
+f	O Americano Tranquilo (2002)	2002	6.6		1
 f	O Amigo	2025		16	0
 f	O Amigo (2025)	2025		16	0
 f	O Amigo Oculto	2005	6.3		3
@@ -24237,7 +24237,7 @@ f	O Assassino O Primeiro Alvo	2017	6.4	16	3
 f	O Assassino Perfeito	2022	7.0	16	2
 f	O Assassino Perfeito (2022)	2022	7.0	16	2
 f	O Assassino da Floresta (2013)	2013			0
-f	O Assassino da Internet	2011	5.2		0
+f	O Assassino da Internet	2011	5.1		1
 f	O Assassino da Minha Filha (2022)	2022	6.7	16	0
 f	O Assassino das Rodovias	2022			0
 f	O Assassino das Rodovias (2022)	2022			0
@@ -24285,9 +24285,9 @@ f	O Ataque dos Vermes Malditos 3: De Volta à Perfeição (2001)	2001	5.8		3
 f	O Ataque dos Vermes Malditos 4	2004	5.7		3
 f	O Ataque dos Vermes Malditos 4: O Começo da Lenda	2004	5.7		3
 f	O Ataque dos Vermes Malditos 4: O Começo da Lenda (2004)	2004	5.7		3
-f	O Ataque dos Vermes Malditos 5	2015	5.5		2
-f	O Ataque dos Vermes Malditos 5: Linhas de Sangue	2015	5.5		2
-f	O Ataque dos Vermes Malditos 5: Linhas de Sangue (2015)	2015	5.5		2
+f	O Ataque dos Vermes Malditos 5	2015	5.6		2
+f	O Ataque dos Vermes Malditos 5: Linhas de Sangue	2015	5.6		2
+f	O Ataque dos Vermes Malditos 5: Linhas de Sangue (2015)	2015	5.6		2
 f	O Ataque dos Vermes Malditos 6	2018	5.8	14	3
 f	O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno	2018	5.8	14	3
 f	O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno (2018)	2018	5.8	14	3
@@ -24351,7 +24351,7 @@ f	O Balconista	1994	7.4		2
 f	O Balconista 2	2006	6.9		1
 f	O Balconista 3	2022	6.0		1
 f	O Balconista 3 (2022)	2022	6.0		1
-f	O Bandido da Luz Vermelha (1968)	1968	7.6	18	0
+f	O Bandido da Luz Vermelha (1968)	1968	7.6	18	1
 f	O Bandido de Kandahar	1965	5.6		1
 f	O Banho do Diabo (2024)	2024	6.6		1
 f	O Banqueiro	1981			0
@@ -24483,7 +24483,7 @@ f	O Cachorro é Seu,Charlie Brown	1968	7.1		0
 f	O Caderno de Sara	2018	6.1		1
 f	O Caderno de Tomy	2020	7.4		1
 f	O Cadáver de Anna Fritz (2015)	2015	6.8		3
-f	O Cafetã Azul	2023	7.2		1
+f	O Cafetã Azul	2023	7.2		2
 f	O Caixão de Vidro	2025			0
 f	O Caldeirão Mágico	1985	6.4		4
 f	O Caldeirão Mágico (1985)	1985	6.4		4
@@ -24556,7 +24556,7 @@ f	O Cara da Piscina (2024)	2024	4.3	16	1
 f	O Carma De Um Assassino	2018	6.3	16	3
 f	O Carma de Um Assassino (2018)	2018	6.3	16	3
 f	O Carma de um Assassino 2	2022	6.9	18	3
-f	O Carpinteiro - Em Seus Passos O Que Faria Jesus? Parte 2 (2012)	2012			0
+f	O Carpinteiro - Em Seus Passos O Que Faria Jesus? Parte 2 (2012)	2012			1
 f	O Carro Assassino	1983	6.9	14	5
 f	O Carro Desgovernado	1997	5.4	14	0
 f	O Carro: A Máquina do Diabo	1977	6.4		2
@@ -24808,7 +24808,7 @@ f	O Confronto	2026	6.6		14
 f	O Confronto (2001)	2001	6.1	12	3
 f	O Confronto dos Thundermans	2026	6.6		14
 f	O Confronto dos Thundermans (2026)	2026	6.6		14
-f	O Congresso Futurista (2013)	2013	6.4		1
+f	O Congresso Futurista (2013)	2013	6.4		2
 f	O Conselheiro do Amor	2023		L	0
 f	O Conselheiro do Crime	2013	5.3	16	4
 f	O Conselheiro do Crime (2013)	2013	5.3	16	4
@@ -24861,10 +24861,10 @@ f	O Corredor Fantasma	2009	4.6		0
 f	O Corretor de Imóveis Errado	2021			0
 f	O Corruptor	1999	6.1	14	3
 f	O Corte	2011			0
-f	O Corvo	1994	7.5	16	26
-f	O Corvo (1994)	1994	7.5	16	26
+f	O Corvo	1994	7.5	16	33
+f	O Corvo (1994)	1994	7.5	16	33
 f	O Corvo (2012)	2012	6.3	14	2
-f	O Corvo (2024)	1994	7.5	16	26
+f	O Corvo (2024)	1994	7.5	16	33
 f	O Corvo Branco	2018	6.5		1
 f	O Corvo Branco (2018)	2018	6.5		1
 f	O Corvo: A Cidade dos Anjos	1996	5.5		2
@@ -24884,7 +24884,7 @@ f	O Crime da Cabra (2015)	2015			0
 f	O Crime de Georgetown	2019	5.9	12	2
 f	O Crime de Georgetown (2019)	2019	5.9	12	2
 f	O Crime do Padre Amaro	2005	5.3		0
-f	O Crime do Padre Amaro (2002)	2002	6.7	16	1
+f	O Crime do Padre Amaro (2002)	2002	6.7	16	2
 f	O Crime é Meu (2023)	2023	6.5	12	1
 f	O Cristal Encantado	1982	7.2		4
 f	O Cruel Ministério da Guerra	2024	7.0	16	9
@@ -24906,7 +24906,7 @@ f	O Curioso Caso de Benjamin Button (2008)	2008	7.6	12	10
 f	O Custo da Liberdade	2023			0
 f	O Cântico dos Nomes	2019	6.7		2
 f	O Cão de Guarda	1992	4.9		1
-f	O Cão do Diabo	1978	6.2		0
+f	O Cão do Diabo	1978	6.2		1
 f	O Cão e a Raposa	1981	7.2	L	6
 f	O Cão e a Raposa 2	2006	6.0	L	4
 f	O Cãopeão	2015	5.2		1
@@ -24960,7 +24960,7 @@ f	O Demônio dos Mares	2023	5.9		2
 f	O Demônio que Habita em Mim	2025		14	2
 f	O Demônio à Espreita	2023	4.8	16	0
 f	O Demônio à Espreita (2023)	2023	4.8	16	0
-f	O Dentista	1996	5.5		2
+f	O Dentista	1996	5.5		1
 f	O Derradeiro Assalto (1954)	1954			1
 f	O Desafio	1965			0
 f	O Desafio (2019)	2019	5.9		1
@@ -24992,7 +24992,7 @@ f	O Despertar da Besta	1970	5.5	18	1
 f	O Despertar da Fera (2014)	2014			0
 f	O Despertar da Fé	2012			0
 f	O Despertar da Fé (2012)	2012			0
-f	O Despertar da Juventude	2020			0
+f	O Despertar da Juventude	2020			1
 f	O Despertar da Lenda	2014	6.4		2
 f	O Despertar da Lenda (2014)	2014	6.4		2
 f	O Despertar das Sombras (2017)	2017	3.7	16	0
@@ -25164,7 +25164,7 @@ f	O Doce Sal dos Seus Fadigosos Lábios	2025		10	0
 f	O Doce Sal dos Seus Fadigosos Lábios (2025)	2025		10	0
 f	O Documentário da IA: Ou Como Me Tornei Otimista Diante do Apocalipse	2026	6.9	12	2
 f	O Documentário da IA: Ou Como Me Tornei Otimista Diante do Apocalipse (2026)	2026	6.9	12	2
-f	O Dom da Premonição	2000	6.5		3
+f	O Dom da Premonição	2000	6.5		4
 f	O Dom da Serpente	2020	6.5		1
 f	O Dom da Serpente (2020)	2020	6.5		1
 f	O Dom dos Milagres (2015)	2015	5.8		1
@@ -25178,7 +25178,7 @@ f	O Dono da Festa 3: A Vez dos Calouros	2009	5.4		2
 f	O Dono da Festa 3: A Vez dos Calouros (2009)	2009	5.4		2
 f	O Dono da Noite	1992	6.7		1
 f	O Dono da Noite (1992)	1992	6.7		1
-f	O Dono do Jogo	2015	6.7	12	2
+f	O Dono do Jogo	2015	6.8	12	2
 f	O Dono do Pedaço	1991	5.9		1
 f	O Dossiê Pelicano	1993	6.6	16	4
 f	O Dossiê Pelicano (1993)	1993	6.6	16	4
@@ -25459,7 +25459,7 @@ f	O Fantasma da Montanha (2015)	2015	5.0		0
 f	O Fantasma da Máquina	1993	4.7		1
 f	O Fantasma da Opera	2026		L	1
 f	O Fantasma da Ópera (2004)	2004	7.3		6
-f	O Fantasma do Barba Negra (1968)	1968	6.7		1
+f	O Fantasma do Barba Negra (1968)	1968	6.7		2
 f	O Fantasma do Megaplex	2000	6.1		1
 f	O Fantasma do Teatro	2020			0
 f	O Fantasma do Teatro (2020)	2020			0
@@ -25489,7 +25489,7 @@ f	O Feitiço de Áquila (1985)	1985	7.0	12	4
 f	O Feitiço do Natal (2018)	2018	6.6	L	1
 f	O Feriado Perfeito da Moranguinho	2023			0
 f	O Feriado Perfeito da Moranguinho (2023)	2023			0
-f	O Festival do Amor	2020	6.1	14	1
+f	O Festival do Amor	2020	6.1	14	2
 f	O Festival dos Trovadores	2022	5.9	12	0
 f	O Festival dos Trovadores (2022)	2022	5.9	12	0
 f	O Fiel Camareiro	1983	6.8		1
@@ -26005,7 +26005,7 @@ f	O Informante (2019)	2019	6.5	16	2
 f	O Inicio Do Mundo De Greg: Um Filme Original (2023)	2023	7.8		1
 f	O Inimaginável	2018	5.6		1
 f	O Inimigo Está Por Perto	2023	5.7	14	0
-f	O Inimigo ao Meu Redor (2019)	2019	6.8		0
+f	O Inimigo ao Meu Redor (2019)	2019	6.8		1
 f	O Inominável Retorno	1992	4.8		1
 f	O Inquilino	2025			0
 f	O Inquilino (2009)	2009	5.7		0
@@ -26027,7 +26027,7 @@ f	O Início Do Mundo De Greg: Um Filme Original	2023	7.8		1
 f	O Irlandes (2019)	2019	7.6	16	8
 f	O Irlandês	2019	7.6	16	8
 f	O Irmão Desaparecido	2008	5.7		0
-f	O Jantar	2017	4.5	16	1
+f	O Jantar	2017	4.6	16	1
 f	O Jantar Está Servido	2021		10	0
 f	O Jantar Está Servido (2020)	2020	5.3		1
 f	O Jardim Secreto	1993	7.4	L	3
@@ -26089,7 +26089,7 @@ f	O Jogo do Poder	1994			0
 f	O Jogo do Predador	2026	6.9	16	16
 f	O Jogo do Predador (2026)	2026	6.9	16	16
 f	O Jogo dos Segredos	2019	6.0	14	1
-f	O Jovem Frankenstein	1974	7.9	10	7
+f	O Jovem Frankenstein	1974	7.9	10	5
 f	O Jovem Kieslowski	2014	6.8		0
 f	O Jovem Kieslowski (2014)	2014	6.8		0
 f	O Jovem Messias	2016	6.3		1
@@ -26261,8 +26261,8 @@ f	O Mais Longo dos Dias	1962	7.6	L	4
 f	O Mais Provável Assassino	2018	5.5	18	1
 f	O Mais Simples É Complicar Tudo	2018	6.4	14	1
 f	O Mais Simples É Complicar Tudo (2018)	2018	6.4	14	1
-f	O Mal Entre Nos (2016)	2016	5.0		0
-f	O Mal Entre Nós (2016)	2016	5.0		0
+f	O Mal Entre Nos (2016)	2016	5.0		1
+f	O Mal Entre Nós (2016)	2016	5.0		1
 f	O Mal Está Lá Fora	2020	3.7	14	1
 f	O Mal Está Lá Fora (2020)	2020	3.7	14	1
 f	O Mal Está ao Seu Lado (2020)	2020	5.6		2
@@ -26292,7 +26292,7 @@ f	O Mar Não Está Prá Peixe: Tubarões à Vista	2012	4.5	L	1
 f	O Mar de Árvores	2016	6.2		2
 f	O Mar de Árvores (2016)	2016	6.2		2
 f	O Maravilhoso Agora	2013	6.7	16	2
-f	O Maravilhoso Inverno do Mickey Mouse (2022)	2022	6.7	L	1
+f	O Maravilhoso Inverno do Mickey Mouse (2022)	2022	6.8	L	1
 f	O Maravilhoso Mágico de Oz - Parte 1	2025	7.2	10	1
 f	O Maravilhoso Mágico de Oz - Parte 1 (2025)	2025	7.2	10	1
 f	O Maravilhoso Mágico de Oz - Parte 1 [Cinema]	2025	7.2	10	1
@@ -26611,7 +26611,7 @@ f	O Monstro de Duas Faces	1960	6.1		1
 f	O Monstro de Duas Faces (1960)	1960	6.1		1
 f	O Monstro do Armario (1986)	1986	4.9		1
 f	O Monstro do Mar Bering (2013)	2013	3.7		1
-f	O Monstro do Mar Revolto	1955	5.7		1
+f	O Monstro do Mar Revolto	1955	5.6		2
 f	O Monstro do Meu Quarto (2025)	2025	6.7		3
 f	O Monstro do Ártico	1951	6.7	16	2
 f	O Monstro no Armário (2016)	2016	7.0		1
@@ -26707,8 +26707,8 @@ f	O Natal de Madea (2013)	2013	6.4		0
 f	O Natal do Bruno Aleixo	2022			0
 f	O Natal do Pequeno Batman	2023	6.6		2
 f	O Natal do Pequeno Batman (2023)	2023	6.6		2
-f	O Natal do Ze Coleta	2020	6.3	L	0
-f	O Natal do Zé Coleta (2020)	2020	6.3	L	0
+f	O Natal do Ze Coleta	2020	6.3	L	1
+f	O Natal do Zé Coleta (2020)	2020	6.3	L	1
 f	O Natal dos Amigos Indiscretos (2013)	2013	6.5	12	1
 f	O Natal dos Coopers (2015)	2015	6.0	12	3
 f	O Natal dos Darlingtons	2020	7.0	L	0
@@ -26772,8 +26772,8 @@ f	O Olho (2023)	2023		14	0
 f	O Olho Mágico do Amor	1982			0
 f	O Olho do Demonio	2019	3.6		0
 f	O Olho do Demonio (2019)	2019	3.6		0
-f	O Olho do Mal	2008	5.9		2
-f	O Olho do Mal (2008)	2008	5.9		2
+f	O Olho do Mal	2008	5.9		3
+f	O Olho do Mal (2008)	2008	5.9		3
 f	O Olho e a Faca	2018			0
 f	O Olho e a Faca (2018)	2018			0
 f	O Olho e o Muro	2021			0
@@ -26785,7 +26785,7 @@ f	O Oposto do Sexo	1998	6.2		2
 f	O Orfanato	2007	7.2	14	3
 f	O Orfanato (2007)	2007	7.2	14	3
 f	O Orfanato (2018)	2018			0
-f	O Orgulho (2017)	2017	7.0		0
+f	O Orgulho (2017)	2017	7.0		1
 f	O Otário	1964	6.2		1
 f	O Ourives	2022	5.8	16	0
 f	O Ourives (2022)	2022	5.8	16	0
@@ -26798,7 +26798,7 @@ f	O Outro	2021			0
 f	O Outro Lado da Dor (2023)	2023	6.2		1
 f	O Outro Lado da Rua	2004		12	1
 f	O Outro Lado das Redes (2026)	2026	7.0	14	29
-f	O Outro Lado do Céu	2001	6.3		2
+f	O Outro Lado do Céu	2001	6.3		1
 f	O Outro Lado do Céu 2: Fogo da Fé	2019			1
 f	O Outro Lado do Céu 2: Fogo da Fé (2019)	2019			1
 f	O Outro Lado do Lago	2018	3.9		0
@@ -26935,7 +26935,7 @@ f	O Pequeno Stuart Little	1999	6.1	L	5
 f	O Pequeno Stuart Little (1999)	1999	6.1	L	5
 f	O Pequeno Tom	2022		14	0
 f	O Pequeno Urso: O Filme	2001			1
-f	O Pequeno Vampiro	2000	7.0		1
+f	O Pequeno Vampiro	2000	7.0		2
 f	O Perdoado	2022	5.8		2
 f	O Perdoado (2022)	2022	5.8		2
 f	O Perdão	2021	6.9	14	0
@@ -27129,7 +27129,7 @@ f	O Preço de um Resgate	1996	6.7	16	6
 f	O Preço de uma Vida	1991			0
 f	O Preço de uma Vida (2022)	2022		14	0
 f	O Preço do Amanhã	2011	7.0	12	15
-f	O Preço do Desafio	1988	7.8		20
+f	O Preço do Desafio	1988	7.8		2
 f	O Preço do Perdão	2022		14	1
 f	O Preço do Poder	2021	6.1	12	1
 f	O Preço do Poder (1969)	1969	6.0		1
@@ -27178,7 +27178,7 @@ f	O Professor Aloprado (2008)	2008	4.7		1
 f	O Professor Aloprado 2	2000	5.0		3
 f	O Professor Aloprado 2: A Família Klump	2000	5.0		3
 f	O Professor Aloprado 2: A Família Klump (2000)	2000	5.0		3
-f	O Profeta	2009	7.5	18	2
+f	O Profeta	2009	7.6	18	2
 f	O Profissional	1994	8.3	14	22
 f	O Programa	2015	6.4	12	2
 f	O Programa (2015)	2015	6.4	12	2
@@ -27201,7 +27201,7 @@ f	O Protetor do Irmão (2021)	2021	7.2	16	1
 f	O Protetor: Capitulo Final	2023	7.3	18	11
 f	O Protocolo de Auschwitz	2021	6.4	14	1
 f	O Protocolo de Auschwitz (2021)	2021	6.4	14	1
-f	O Príncipe	2014	4.9		2
+f	O Príncipe	2014	4.9		3
 f	O Príncipe Esquecido	2020	5.7		1
 f	O Príncipe Feliz	2018	6.2		1
 f	O Príncipe Feliz (2018)	2018	6.2		1
@@ -27217,7 +27217,7 @@ f	O Próprio Enterro	2023	7.1		2
 f	O Próximo Samba	2017		12	0
 f	O Punho do Condor	2023	7.2	16	1
 f	O Punho do Condor (2023)	2023	7.2	16	1
-f	O Purgatório (1999)	1999	7.2		1
+f	O Purgatório (1999)	1999	7.2		2
 f	O Puritano da Rua Augusta	1965		L	0
 f	O Pálido Olho Azul	2022	6.8	16	3
 f	O Páramo	2021	5.1		1
@@ -27228,7 +27228,7 @@ f	O Pântano	1982	5.4		2
 f	O Pântano (2020)	1982	5.4		2
 f	O Público	2019	6.5	14	1
 f	O Público (2019)	2019	6.5	14	1
-f	O Quarteto Fantastico (2005)	1994	4.4		1
+f	O Quarteto Fantastico (2005)	1994	4.4		2
 f	O Quarto (1968)	1968			0
 f	O Quarto 404	2024	7.7		1
 f	O Quarto Escuro	2017	3.8		1
@@ -27307,7 +27307,7 @@ f	O Quinto Poder	2013	6.0	14	3
 f	O Quinto Poder (2013)	2013	6.0	14	3
 f	O Quiosque	2024	7.4	14	3
 f	O Quiosque (2024)	2024	7.4	14	3
-f	O Rabino e o Pistoleiro	1979	6.1		2
+f	O Rabino e o Pistoleiro	1979	6.1		1
 f	O Radicão	2018		L	0
 f	O Radicão (2018)	2018		L	0
 f	O Rapaz e o Monstro (2015)	2015	7.9		6
@@ -27322,7 +27322,7 @@ f	O Rastro	2017	4.8	14	0
 f	O Realismo Socialista	2023			0
 f	O Rebanho	2020	5.6		1
 f	O Rebanho (2020)	2020	5.6		1
-f	O Rebelde (2026)	2026	7.8		30
+f	O Rebelde (2026)	2026	7.7		22
 f	O Recepcionista	2020	6.2		2
 f	O Recepcionista (2020)	2020	6.2		2
 f	O Recomeço	2011	6.6		1
@@ -27413,7 +27413,7 @@ f	O Rei dos Ladrões	2009			0
 f	O Rei dos Reis	2025	8.3	10	3
 f	O Rei dos Reis (1961)	1961	7.2		1
 f	O Rei dos Reis (2025)	2025	8.3	10	3
-f	O Rei e Eu (1999)	1999	5.4		1
+f	O Rei e Eu (1999)	1999	5.4		2
 f	O Rei e os Trapalhões	1979			0
 f	O Rei e os Trapalhões (1979)	1979			0
 f	O Reino	2007	6.8	16	3
@@ -27432,7 +27432,7 @@ f	O Reino Proibido	2008	6.7		5
 f	O Reino Proibido (2008)	2008	6.7		5
 f	O Reino das Espadas	2018	6.0	14	0
 f	O Reino das Espadas (2018)	2018	6.0	14	0
-f	O Reino das Guerreiras	2008	6.0		0
+f	O Reino das Guerreiras	2008	6.0		1
 f	O Reino de Chopper na Ilha dos Estranhos Animais	2002	6.7		2
 f	O Reino do Dragão	2018	5.7		1
 f	O Reino do Dragão (2018)	2018	5.7		1
@@ -27585,7 +27585,7 @@ f	O Santo (1997)	1997	6.1		3
 f	O Santo de Todos - Claret	2021			0
 f	O Segredo	2024		L	0
 f	O Segredo (2006)	1989	7.4	L	6
-f	O Segredo De Davi	2018	5.4	16	0
+f	O Segredo De Davi	2018	5.4	16	1
 f	O Segredo De Mary Reilly	1996	5.8		1
 f	O Segredo Escarlate	2016			0
 f	O Segredo Final de Cleopatra	2025	7.8		0
@@ -27607,7 +27607,7 @@ f	O Segredo de Alcatraz (2020)	2020	6.5		0
 f	O Segredo de Berlim (2006)	2006	5.8		1
 f	O Segredo de Brokeback Mountain	2005	7.8	14	11
 f	O Segredo de Brokeback Mountain (2005)	2005	7.8	14	11
-f	O Segredo de Davi (2018)	2018	5.4	16	0
+f	O Segredo de Davi (2018)	2018	5.4	16	1
 f	O Segredo de Jekyll & Hyde	2021		16	0
 f	O Segredo de Jekyll & Hyde (2021)	2021		16	0
 f	O Segredo de Lyla	2022		14	0
@@ -27664,7 +27664,7 @@ f	O Senhor do Caos (2023)	2023	5.7		1
 f	O Senhor dos Aneis A Sociedade do Anel (2001)	2001	8.5	12	37
 f	O Senhor dos Aneis As Duas Torres (2002)	2002	8.4	12	29
 f	O Senhor dos Aneis O Retorno do Rei (2003)	2003	8.5	12	35
-f	O Senhor dos Anéis	1978	6.6	12	5
+f	O Senhor dos Anéis	1978	6.6	12	6
 f	O Senhor dos Anéis: A Guerra dos Rohirrim	2024	6.5	12	7
 f	O Senhor dos Anéis: A Guerra dos Rohirrim (2024)	2024	6.5	12	7
 f	O Senhor dos Anéis: A Guerra dos Rohirrim [Cinema]	2024	6.5	12	7
@@ -27827,7 +27827,7 @@ f	O Sonhador	2017			0
 f	O Sonho Não Acabou	1982		16	0
 f	O Sonho Pela Redencao (2026)	2026			2
 f	O Sonho da Liberdade	2003	6.8		1
-f	O Sonho de Cassandra	2007	6.3	14	1
+f	O Sonho de Cassandra	2007	6.3	14	2
 f	O Sonho de Clarice	2023		L	0
 f	O Sonho de Mary Gray	1989		14	1
 f	O Sonho de Mary Gray (1989)	1989		14	1
@@ -27839,14 +27839,14 @@ f	O Sono da Morte (2016)	2016	6.5		2
 f	O Sorriso de Mona Lisa	2003	6.9	12	3
 f	O Sorriso de Monalisa	2003	6.9	12	3
 f	O Sorriso de Monalisa (2003)	2003	6.9	12	3
-f	O Sorveteiro (2026)	2026	5.4	18	32
+f	O Sorveteiro (2026)	2026	5.3	18	22
 f	O Sotao (2020)	2007	4.0		0
 f	O Souvenir (2019)	2019	6.1		2
 f	O Souvenir: Parte 2 (2021)	2021	6.4		1
 f	O Souvenir: Parte II	2021	6.4		1
 f	O Substituto	2011	7.6	16	5
 f	O Substituto (1996)	1996	7.0		3
-f	O Substituto (2004)	2004	6.4		0
+f	O Substituto (2004)	2004	6.4		1
 f	O Substituto (2021)	2021	6.1		1
 f	O Substituto 2	1998	6.5		3
 f	O Super Agente Makey	2020	4.2		0
@@ -27923,7 +27923,7 @@ f	O Tesouro Perdido (2020)	2020		10	0
 f	O Tesouro da Montanha Nebulosa	2023	6.1		1
 f	O Tesouro da Montanha Nebulosa (2023)	2023	6.1		1
 f	O Tesouro de Manitou	2001	6.8		1
-f	O Tesouro de Matecumbe	1976	6.5		0
+f	O Tesouro de Matecumbe	1976	6.5		1
 f	O Tesouro de Natal	2024	6.8		0
 f	O Tesouro de Natal (2021)	2021			0
 f	O Tesouro de Sarah	2025	7.9	12	4
@@ -27987,7 +27987,7 @@ f	O Trem do Inferno	1975	6.6		2
 f	O Trem do Inferno (1975)	1975	6.6		2
 f	O Trem do Natal	2017	6.4		1
 f	O Trem do Natal (2017)	2017	6.4		1
-f	O Trem-Bala	1975	6.9		1
+f	O Trem-Bala	1975	6.9		3
 f	O Triangulo da Morte (2021)	2021			1
 f	O Triunfo: A História de Ron Clark	2006	7.6		2
 f	O Triunfo: A História de Ron Clark (2006)	2006	7.6		2
@@ -28074,7 +28074,7 @@ f	O Ultimo Vagao (2023)	2023	8.0	12	1
 f	O Ultimo Viking (2018)	2018	6.4		0
 f	O Ultimo Voo (2004)	2004			0
 f	O Ultimo na Terra	2019	5.0		1
-f	O Unicórnio	1982	7.3	L	2
+f	O Unicórnio	1982	7.3	L	3
 f	O Unicórnio Assassino	2018			0
 f	O Unicórnio Assassino (2018)	2018			0
 f	O Universo - Imagens Reais de Outros Mundos	2013			0
@@ -28158,7 +28158,7 @@ f	O Virgem de 40 Anos	2005	6.4	16	7
 f	O Virgem de 40 Anos (2005)	2005	6.4	16	7
 f	O Visitante	2022	5.1		1
 f	O Visitante (2022)	2022	5.1		1
-f	O Vizinho				1
+f	O Vizinho				0
 f	O Vizinho (2008)	2008	6.0		2
 f	O Viúvo: Até Que a Morte nos Separe	2026	6.7	14	2
 f	O Viúvo: Até Que a Morte nos Separe (2026)	2026	6.7	14	2
@@ -28284,7 +28284,7 @@ f	O Último Navio Negreiro (2022)	2022	6.3		1
 f	O Último Paciente	2022	7.2	16	2
 f	O Último Papa	2018		14	0
 f	O Último Paraíso	2021	5.7	16	0
-f	O Último Passageiro	2013	5.6		0
+f	O Último Passageiro	2013	5.6		1
 f	O Último Portal	1999	6.5	14	4
 f	O Último Pôr-Do-Sol (1961)	1961	6.8		1
 f	O Último Refúgio	2020	7.1	14	10
@@ -28485,9 +28485,9 @@ f	Olhos Famintos 4: Renascimento (2022)	2022	5.2	16	3
 f	Olhos Frios	2013	7.5		3
 f	Olhos Selvagens e Perversos	2024	5.3		0
 f	Olhos Sonhadores	2019	6.7		0
-f	Olhos da Justica	2015	6.4	14	3
-f	Olhos da Justica (2015)	2015	6.4	14	3
-f	Olhos da Justiça	2015	6.4	14	3
+f	Olhos da Justica	2015	6.4	14	2
+f	Olhos da Justica (2015)	2015	6.4	14	2
+f	Olhos da Justiça	2015	6.4	14	2
 f	Olhos de Dragao (2012)	2012	5.3		1
 f	Olhos de Dragão	2012	5.3		1
 f	Olhos de Gato	2020	7.9	10	4
@@ -28713,7 +28713,7 @@ f	Operação Sombra (2025)	2025	8.4	16	38
 f	Operação Sombra: Jack Ryan (2014)	2014	6.1	14	5
 f	Operação Tempestade	2002			0
 f	Operação Tempestade (2023)	2023		16	0
-f	Operação Terra	1976	5.9		2
+f	Operação Terra	1976	5.8		2
 f	Operação Vingança	2025	6.9	14	8
 f	Operação Zodíaco	2012	6.2	14	4
 f	Operação Zodíaco (2012)	2012	6.2	14	4
@@ -28831,7 +28831,7 @@ f	Os Amantes (2017)	1954	7.8		1
 f	Os Amores de Picasso (1996)	1996	5.8		1
 f	Os Animais Somos Nós	2018	6.5		1
 f	Os Animais Somos Nós (2018)	2018	6.5		1
-f	Os Aniquiladores	1985	5.4		0
+f	Os Aniquiladores	1985	5.4		1
 f	Os Anos JK: Uma Trajetória Política	1980			0
 f	Os Arrependidos	2021			0
 f	Os Assassinatos de Amityville (2018)	2018	5.0		0
@@ -28921,7 +28921,7 @@ f	Os Cavaleiros do Zodíaco: Prólogo do Céu	2004	7.8		2
 f	Os Cavaleiros do Zodíaco: Prólogo do Céu (2004)	2004	7.8		2
 f	Os Caça-Noivas	2016	6.0	16	3
 f	Os Caçadores da Biblioteca Perdida	2022	6.0		1
-f	Os Caçadores de Fantasmas	2016	4.7		1
+f	Os Caçadores de Fantasmas	2016	4.7		0
 f	Os Caçadores de Óvnis	2017			0
 f	Os Ceus do Norte sobre o Vazio (2022)	2022	7.4		0
 f	Os Chutes Poderosos de Tayla (2022)	2022		14	0
@@ -28952,11 +28952,11 @@ f	Os Delírios de Consumo de Becky Bloom (2009)	2009	6.5		4
 f	Os Dementes	2013	4.5		1
 f	Os Demônios (1971)	1971	7.5		7
 f	Os Demônios da Noite	1995	6.9		2
-f	Os Desajustados	1961	7.0	10	3
+f	Os Desajustados	1961	7.0	10	2
 f	Os Desajustados (2018)	2018			0
 f	Os Desaparecidos	1933			0
 f	Os Desaparecidos (2016)	2016	4.3		0
-f	Os Descartados	2015	5.3		0
+f	Os Descartados	2015	5.3		1
 f	Os Descendentes (2017)	2017	7.4	L	4
 f	Os Detalhes	2012	6.0	16	1
 f	Os Deuses Devem Estar Loucos	1980	7.3	L	6
@@ -29038,8 +29038,8 @@ f	Os Estranhos: Capítulo Final	2026	5.9	18	7
 f	Os Estranhos: Caçada Noturna (2018)	2018	5.7	16	3
 f	Os Fabelmans	2022	7.5	14	5
 f	Os Fabelmans (2022)	2022	7.5	14	5
-f	Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice	2024	6.9	14	12
-f	Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice (2024)	2024	6.9	14	12
+f	Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice	2024	6.9	14	9
+f	Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice (2024)	2024	6.9	14	9
 f	Os Fantasmas Contra-Atacam	1988	6.8	12	5
 f	Os Fantasmas Trapalhões	1987	5.2		0
 f	Os Fantasmas Trapalhões (1987)	1987	5.2		0
@@ -29080,7 +29080,7 @@ f	Os Gatoes Uma Nova Balada (2005)	2005	5.6	14	4
 f	Os Gatões - O Início	2007	6.2		2
 f	Os Gatões 2: O Início	2007	6.2		2
 f	Os Gatões: Uma Nova Balada	2005	5.6	14	4
-f	Os Girassoís da Rússia	1970	7.5		1
+f	Os Girassoís da Rússia	1970	7.5		2
 f	Os Goonies	1985	7.5	L	8
 f	Os Goonies (1985)	1985	7.5	L	8
 f	Os Guardioes	2017	5.0	14	2
@@ -29189,7 +29189,7 @@ f	Os Meninos Que Enganavam Nazistas	2017	7.8	12	1
 f	Os Meninos Super Poderosos	2009	5.7		1
 f	Os Meninos Voadores	2008	7.6		2
 f	Os Mensageiros (2007)	2007	5.8		3
-f	Os Mensageiros 2	2009	5.5		1
+f	Os Mensageiros 2	2009	5.5		2
 f	Os Mercenarios	2010	6.3	16	10
 f	Os Mercenarios (2010)	2010	6.3	16	10
 f	Os Mercenarios 2	2012	6.4	16	8
@@ -29439,9 +29439,9 @@ f	Os Suburbanos: O Filme	2022		12	0
 f	Os Suburbanos: O Filme (2022)	2022		12	0
 f	Os Super Zeróis	2019			0
 f	Os Super Zeróis (2019)	2019			0
-f	Os Suspeitos	2013	8.1	16	15
+f	Os Suspeitos	2013	8.1	16	14
 f	Os Suspeitos (1995)	1995	8.2	16	11
-f	Os Suspeitos (2013)	2013	8.1	16	15
+f	Os Suspeitos (2013)	2013	8.1	16	14
 f	Os Tomates Assassinos Atacam a França	1992	5.4		0
 f	Os Transgressores	2017		12	0
 f	Os Trapaceiros	1997	5.6		1
@@ -30081,7 +30081,7 @@ f	Patos! (2023)	2023	7.3	L	9
 f	Patricia, Uma Paixão Escondida	2020	5.8		1
 f	Patricia,Uma Paixão Escondida	2020	5.8		1
 f	Patricia,Uma Paixão Escondida (2020)	2020	5.8		1
-f	Patrick	1978	6.1		2
+f	Patrick	1978	6.1		1
 f	Patrick Aprendendo a Amar	2018	6.7		1
 f	Patrick, Aprendendo a Amar (2018)	2018	6.7		1
 f	Patrick,Aprendendo a Amar (2018)	2018	6.7		1
@@ -30257,7 +30257,7 @@ f	People Just Do Nothing: Big in Japan (2021)	2021	6.5		1
 f	People Magazine: A Promessa da Cura	2026		16	0
 f	People Magazine: A Promessa da Cura (2026)	2026		16	0
 f	Pepe	2024			1
-f	Peppa Pig: Festival of Fun	2019			0
+f	Peppa Pig: Festival of Fun	2019			1
 f	Peppa Pig: The Easter Bunny	2018			0
 f	Pequena Grande Vida	2017	5.4	14	5
 f	Pequena Grande Vida (2017)	2017	5.4	14	5
@@ -30468,8 +30468,8 @@ f	Perseguição Zumbi	2018	6.0		0
 f	Perseguição em Alto Mar - Espécies em Risco	2019	7.7		0
 f	Perseguição em Malta	2021			0
 f	Perseguição em Malta (2021)	2021			0
-f	Perseguição em Taipei	2024	6.5	14	3
-f	Perseguição em Taipei (2024)	2024	6.5	14	3
+f	Perseguição em Taipei	2024	6.5	14	2
+f	Perseguição em Taipei (2024)	2024	6.5	14	2
 f	Perseguição na Neve	2020	5.4		1
 f	Perseguição na Neve (2020)	2020	5.4		1
 f	Perseguição nas Alturas	2022	6.6	12	2
@@ -30614,7 +30614,7 @@ f	Pinoquio (2019)	2019	6.6	L	2
 f	Pinoquio por Guillermo Del Toro (2022)	2022	8.0	12	6
 f	Pintando Amor No Natal	2023			0
 f	Pintando Amor No Natal (2023)	2023			0
-f	Pintou Sujeira	1982	5.6		1
+f	Pintou Sujeira	1982	5.6		2
 f	Pinóquio	2026	6.3	18	66
 f	Pinóquio (1940)	1940	7.1	L	8
 f	Pinóquio (2002)	2002	5.7		1
@@ -31095,7 +31095,7 @@ f	Praia do Futuro (2014)	2014	6.5	14	0
 f	Prancer Um Conto de Natal (2022)	2022	6.5		1
 f	Prancer: Um Conto de Natal	2022	6.5		1
 f	Pranto Maldito	2021	4.7	14	0
-f	Prata Maldita	1951			1
+f	Prata Maldita	1951			0
 f	Prateados: A Vida em Tempos de Madureza	2021			0
 f	Pray Away	2021	6.7	16	0
 f	Pray Away (2021)	2021	6.7	16	0
@@ -31143,7 +31143,7 @@ f	Predestinado: Arigó e o Espírito do Dr. Fritz	2022	7.1	14	0
 f	Predio Vazio (2025)	2025		16	1
 f	Pregando o Amor	2013	5.9		1
 f	Pregando o Amor (2013)	2013	5.9		1
-f	Prematuro (2020)	2020	6.2		1
+f	Prematuro (2020)	2020	6.2		0
 f	Premonicao 1	2000	6.7	14	10
 f	Premonicao 2	2003	6.3	14	9
 f	Premonicao 3	2006	6.2	14	7
@@ -31211,7 +31211,7 @@ f	Presos no Gelo 2	2008	6.3		1
 f	Presos no Gelo 2 (2008)	2008	6.3		1
 f	Presos no Gelo 3	2010	5.8		1
 f	Presos no Gelo 3 (2010)	2010	5.8		1
-f	Pressagio (2020)	2020	6.2		0
+f	Pressagio (2020)	2020	6.2		1
 f	Pressagios de Um Crime	2015	6.5	14	3
 f	Pressagios de um Crime (2015)	2015	6.5	14	3
 f	Pressao (2026)	2026	7.7	14	11
@@ -31296,8 +31296,8 @@ f	Prisioneiras Nunca Mais	2016			0
 f	Prisioneiro Espacial (2020)	2020	5.0	16	1
 f	Prisioneiro Para Sempre	2021		16	0
 f	Prisioneiro Para Sempre (2021)	2021		16	0
-f	Prisioneiro de Guerra	2025	7.1	16	4
-f	Prisioneiro de Guerra (2025)	2025	7.1	16	4
+f	Prisioneiro de Guerra	2025	7.1	16	3
+f	Prisioneiro de Guerra (2025)	2025	7.1	16	3
 f	Prisioneiro do Caos	2024	6.7	14	1
 f	Prisioneiros da Magia	2008	5.9		1
 f	Prisioneiros do Demonio	2016	3.5		0
@@ -31307,7 +31307,7 @@ f	Prisioneiros do Poder	2009	5.2		1
 f	Prisioneiros do Poder (2008)	2009	5.2		1
 f	Prison Break - O Resgate Final	2009	7.5		3
 f	Prison Break O Resgate Final (2009)	2009	7.5		3
-f	Prisoner of War	2025	7.1	16	4
+f	Prisoner of War	2025	7.1	16	3
 f	Prisão 77	2022	7.0		1
 f	Prisão Domiciliar	2021			0
 f	Prisão Domiciliar (2021)	2021			0
@@ -31530,7 +31530,7 @@ f	Pulp Fiction: Tempo de Violência	1994	8.5	18	32
 f	Pulp: What Do You Do for an Encore?	2026			1
 f	Pulsação	2002			0
 f	Pulsação (2023)	2023			0
-f	Pulse (2006)	2006	5.1		3
+f	Pulse (2006)	2006	5.0		2
 f	Pumping Iron: O Homem dos Músculos de Aço	1977	7.2		1
 f	Pumpkinhead 4: Maldição Sangrenta	2007	5.6		0
 f	Pumpkinhead: A Vingança do Diabo	1988	6.4		2
@@ -31745,7 +31745,7 @@ f	Quando um Estranho Chama (2006)	1979	6.2	14	1
 f	Quando um Homem Ama uma Mulher	1994	6.6	12	2
 f	Quando um Homem Ama uma Mulher (1994)	1994	6.6	12	2
 f	Quanto Mais Idiota Melhor	1992	6.7	12	3
-f	Quanto Mais Idiota Melhor 2	1993	6.1	12	2
+f	Quanto Mais Idiota Melhor 2	1993	6.1	12	3
 f	Quanto Mais Quente Melhor	1959	8.1	L	7
 f	Quanto Vale?	2021	6.7	12	2
 f	Quanto Vale? (2021)	2021	6.7	12	2
@@ -31819,12 +31819,12 @@ f	Quatro Dias com Ela (2021)	2021	6.8	14	1
 f	Quatro Gerações	2022	6.3		0
 f	Quatro Gerações (2022)	2022	6.3		0
 f	Quatro Historias de Fantasmas (2020)	2020	5.2		1
-f	Quatro Histórias de Desejo	2026		16	8
+f	Quatro Histórias de Desejo	2026		16	6
 f	Quatro Histórias de Desejo (2018)	2018	6.3		2
 f	Quatro Histórias de Desejo 2	2023	5.6		3
 f	Quatro Histórias de Desejo 2 (2023)	2023	5.6		3
-f	Quatro Histórias de Desejo 3	2026		16	8
-f	Quatro Histórias de Desejo 3 (2026)	2026		16	8
+f	Quatro Histórias de Desejo 3	2026		16	6
+f	Quatro Histórias de Desejo 3 (2026)	2026		16	6
 f	Quatro Histórias de Fantasmas	2020	5.2		1
 f	Quatro Irmaos (2005)	2005	6.8	16	4
 f	Quatro Irmãos	2005	6.8	16	4
@@ -32200,7 +32200,7 @@ f	Raposa de Fogo	1982	6.1		2
 f	Raposa de Fogo (1982)	1982	6.1		2
 f	Rapsódia Para o Homem Negro	2015			0
 f	Rapto	2019			0
-f	Raptor	2001	3.9		1
+f	Raptor	2001	3.8		1
 f	Rapunzel, El Perro y El Brujo (2024)	2024			0
 f	Rapunzel,El Perro y El Brujo (2024)	2024			0
 f	Rapunzel: Enrolados	2028			2
@@ -32258,7 +32258,7 @@ f	Raymond & Ray (2022)	2022	6.2	14	1
 f	Razão e Emoção	2013	6.0		0
 f	Razão e Sensibilidade	1995	7.4	L	7
 f	Razão e Sensibilidade (1995)	1995	7.4	L	7
-f	Razão e Sensibilidade (2026)	2026	7.3	10	56
+f	Razão e Sensibilidade (2026)	2026	7.2	10	52
 f	Raça	1961			0
 f	Raça (2016)	2016	7.3	14	2
 f	Raça Brava (1966)	1966	6.2		1
@@ -32469,7 +32469,7 @@ f	Refúgio	2026	7.7	16	22
 f	Refúgio Macabro	2023			0
 f	Refúgio de Inverno	2026	7.3	16	2
 f	Refúgio do Medo	2014	6.9	14	4
-f	Refúgio do Silêncio	2016	4.4		2
+f	Refúgio do Silêncio	2016	4.4		0
 f	Refúgio dos Pássaros	2022		L	0
 f	Refúgio no Paraíso	2020	6.5	L	0
 f	Refúgio no Paraíso (2020)	2020	6.5	L	0
@@ -32488,7 +32488,7 @@ f	Regras da Vida (1999)	1999	7.1		4
 f	Regras do Amor na Cidade Grande	2024	7.9	14	2
 f	Regras do Amor na Cidade Grande (2024)	2024	7.9	14	2
 f	Regras do Jogo	2000	6.3		2
-f	Regresso a Halloweentown (2006)	2006	6.6		2
+f	Regresso a Halloweentown (2006)	2006	6.6		1
 f	Regresso do Mal	2015	5.4	14	2
 f	Regresso do Mal (2015)	2015	5.4	14	2
 f	Regressão	2015	5.6	16	2
@@ -32777,7 +32777,7 @@ f	Ricki and the Flash: De Volta pra Casa	2015	5.8	14	1
 f	Ricki and the Flash: De Volta pra Casa (2015)	2015	5.8	14	1
 f	Ricky Bobby: A Toda Velocidade	2006	6.4	12	5
 f	Ricky Bobby: A Toda Velocidade (2006)	2006	6.4	12	5
-f	Ricky Gervais: Mortalidade	2025	7.0	16	1
+f	Ricky Gervais: Mortalidade	2025	6.9	16	0
 f	Ricky Stanicky	2024	6.5	14	3
 f	Ricky Stanicky (2024)	2024	6.5	14	3
 f	Ricochete	2011			0
@@ -32801,7 +32801,7 @@ f	Riki: O Rinoceronte Corajoso	2020		L	0
 f	Riki: O Rinoceronte Corajoso (2020)	2020		L	0
 f	Rimdogittanga	2024			0
 f	Rimdogittanga (2024)	2024			0
-f	Ring 0: O Chamado (2000)	2000	6.1		2
+f	Ring 0: O Chamado (2000)	2000	6.1		50
 f	Ring 2: O Chamado	1999	5.8		2
 f	Ringo e Sua Pistola de Ouro	1966			0
 f	Ringo... Era Seu Nome (1967)	1967			0
@@ -32831,7 +32831,7 @@ f	Rio,Eu Te Amo (2014)	2014	4.8		1
 f	Riocorrente	2013			0
 f	Rios Vermelhos	2000	6.9		2
 f	Rios Vermelhos 2 - Anjos do Apocalipse	2004	6.1	18	2
-f	Rios de Sangue	2009	4.8		1
+f	Rios de Sangue	2009	4.8		0
 f	Rip Tide: A Garota da Hora	2017	6.1		0
 f	Riphagen	2016	6.5		1
 f	Riphagen (2016)	2016	6.5		1
@@ -32998,7 +32998,7 @@ f	Rogue Warfare 3: A Morte de uma Nação (2020)	2020	5.2		1
 f	Rogue Warfare Ameaca Global	2019	5.6		1
 f	Rogue o Assassino	2007	6.4	16	5
 f	Rogue o Assassino (2007)	2007	6.4	16	5
-f	Rojo	2026	7.9		3
+f	Rojo	2026	7.8		2
 f	Roland Doe: A Verdadeira História de O Exorcista	2021			0
 f	Rolê - Histórias dos Rolezinhos	2021			0
 f	Roma	2018	7.6	14	4
@@ -33009,14 +33009,14 @@ f	Romance Por Acaso (2021)	2021	7.1	L	0
 f	Romance Real na Estrada	2022	7.3		1
 f	Romance da Empregada	1988		18	0
 f	Romance de Formação	2012			0
-f	Romance de Outono (1992)	1992	5.8		1
+f	Romance de Outono (1992)	1992	5.8		0
 f	Romance e Cigarros	2006	6.0		1
 f	Romance e Cigarros (2005)	2006	6.0		1
 f	Romance na Ficção	2023			0
-f	Romance nas Alturas	2020	6.1	L	0
-f	Romance nas Alturas (2020)	2020	6.1	L	0
-f	Romance no Ar Uma Garota Apaixonada	2024	7.6	16	1
-f	Romance no Ar: Uma Garota Apaixonada (2024)	2024	7.6	16	1
+f	Romance nas Alturas	2020	6.1	L	1
+f	Romance nas Alturas (2020)	2020	6.1	L	1
+f	Romance no Ar Uma Garota Apaixonada	2024	7.4	16	1
+f	Romance no Ar: Uma Garota Apaixonada (2024)	2024	7.4	16	1
 f	Romance à la Carte	2020	6.9	L	1
 f	Romeu + Julieta	1996	6.8	14	7
 f	Romeu + Julieta (1996)	1996	6.8	14	7
@@ -33117,7 +33117,7 @@ f	Royalteen: Princesa Margrethe	2023	6.3		1
 f	Rua Cloverfield 10	2016	7.0	14	6
 f	Rua Cloverfield,10 (2016)	2016	7.0	14	6
 f	Rua Descalça	1971			0
-f	Rua da Paz (1917)	1917	7.1		0
+f	Rua da Paz (1917)	1917	7.1		1
 f	Rua do Medo: 1666 – Parte 3	2021	7.1	18	2
 f	Rua do Medo: 1666 – Parte 3 (2021)	2021	7.1	18	2
 f	Rua do Medo: 1978 - Parte 2	2021	7.2	18	4
@@ -33168,7 +33168,7 @@ f	Run	2012			0
 f	Run - Nunca Pare de Correr	2020		16	0
 f	Run - Nunca Pare de Correr (2020)	2020		16	0
 f	Run Rabbit Run	2024	5.4	12	1
-f	Runaway - Fora de Controle	1984	5.6		1
+f	Runaway - Fora de Controle	1984	5.6		2
 f	Running for Good: The Fiona Oakes Documentary	2018			0
 f	Running with the Devil	2019	5.4		2
 f	Rupture: Superando O Medo	2016	4.9		1
@@ -33272,7 +33272,7 @@ f	Sabor e lágrimas	2025			0
 f	Sabotagem	2014	5.6	14	3
 f	Sabotagem (2014)	2014	5.6	14	3
 f	Sabrina	1995	6.2		4
-f	Sabrina Vai Para a Austrália	1999	6.2		1
+f	Sabrina Vai Para a Austrália	1999	6.2		0
 f	Sabrina Vai à Roma	1998	6.0		1
 f	Sacramento	2025	6.3		1
 f	Sacred Soil: The Piney Woods School Story	2024			0
@@ -33293,8 +33293,8 @@ f	Sai da Frente	1952		L	0
 f	Sai de Baixo	1956			0
 f	Sai de Baixo - O Filme	2019	5.5		0
 f	Sai de Baixo: O Filme (2019)	2019	5.5		0
-f	Saida Proibida	2018	5.4		0
-f	Saida Proibida (2018)	2018	5.4		0
+f	Saida Proibida	2018	5.4		1
+f	Saida Proibida (2018)	2018	5.4		1
 f	Saida: Fuga em Seul (2019)	2019	7.6		4
 f	Saideira	2024			0
 f	Saideira (2024)	2024			0
@@ -33477,7 +33477,7 @@ f	Sayen: A Caçadora (2024)	2024	5.9	14	1
 f	Sayen: A Rota Seca	2023	6.2	14	1
 f	Sayen: A Rota Seca (2023)	2023	6.2	14	1
 f	Sayonara,Girls	2023			0
-f	Saída Proibida	2018	5.4		0
+f	Saída Proibida	2018	5.4		1
 f	Saída à Francesa	2021	5.6	14	2
 f	Saída à Francesa (2021)	2021	5.6	14	2
 f	Scarface	1983	8.2	18	18
@@ -33565,7 +33565,7 @@ f	ScoobyDoo AbracadabraDoo (2010)	2010	7.7		2
 f	ScoobyDoo E a Lenda do Vampiro (2003)	2003	7.1		2
 f	ScoobyDoo E o Monstro do Mexico (2003)	2003	7.3	L	2
 f	ScoobyDoo Musica de Vampiro (2012)	2012	7.6		1
-f	ScoobyDoo e Kiss O Misterio do Rock and Roll (2015)	2015	7.9	L	1
+f	ScoobyDoo e Kiss O Misterio do Rock and Roll (2015)	2015	7.9	L	2
 f	ScoobyDoo e o Rei dos Duendes (2008)	2008	7.6	L	2
 f	ScoobyDoo em Cade a minha Mumia (2005)	2005	7.4	L	2
 f	ScoobyDoo: O Filme (2002)	2002	6.1	L	7
@@ -33801,7 +33801,7 @@ f	Selena (1997)	1997	7.7	14	2
 f	Selena Gomez: Minha Mente e Eu	2022	8.4	12	5
 f	Selena y Los Dinos: A Family's Legacy	2025	8.7		1
 f	Self	2024	5.9		2
-f	Selma Blair: A Batalha contra a Esclerose Múltipla	2021		10	0
+f	Selma Blair: A Batalha contra a Esclerose Múltipla	2021		10	1
 f	Selma: Uma Luta pela Igualdade	2014	7.4	14	3
 f	Selvagem	2024	8.3	L	25
 f	Selvagem (2006)	1992	7.0	18	10
@@ -33834,7 +33834,7 @@ f	Sem Culpa (2022)	2022	6.6		0
 f	Sem Deixar Vestigios	2024	5.3	18	2
 f	Sem Deixar Vestigios (2024)	2024	5.3	18	2
 f	Sem Desistir (2026)	2026	7.1	16	150
-f	Sem Destino (2012)	2012	4.0	16	0
+f	Sem Destino (2012)	2012	4.0	16	1
 f	Sem Direito a Resgate	2013	5.7	14	2
 f	Sem Direito a Resgate (2013)	2013	5.7	14	2
 f	Sem Dor, Sem Ganho	2013	6.3	18	4
@@ -33855,7 +33855,7 @@ f	Sem Fôlego	2022			0
 f	Sem Ganho	2013	6.3	18	4
 f	Sem Gravidade... Sem Cérebro (2014)	2014	4.8		1
 f	Sem Gêmeos	2025	7.2	16	2
-f	Sem Lei	2011	4.9	16	1
+f	Sem Lei	2011	4.8	16	1
 f	Sem Lei e Sem Alma	1957	7.0		3
 f	Sem Licenca para Dirigir (1988)	1988	6.6	12	2
 f	Sem Licença para Dirigir (1988)	1988	6.6	12	2
@@ -34021,7 +34021,7 @@ f	Ser Tão Velho Cerrado (2018)	2018		L	0
 f	Sereia Predadora	2016	6.0	16	1
 f	Sereias - Elas Existem	2017	5.6		1
 f	Sereias - Elas Existem (2017)	2017	5.6		1
-f	Seremos História?	2016	7.7	14	1
+f	Seremos História?	2016	7.7	14	2
 f	Serena (2014)	2014	5.6		2
 f	Serenity: A Luta Pelo Amanhã	2005	7.4		5
 f	Seres Rastejantes (2006)	2006	6.5		4
@@ -34083,7 +34083,7 @@ f	Setenta	2013			0
 f	Setor 36	2024	7.0	16	1
 f	Seu Filho	1978		L	0
 f	Seu Filho (2018)	2018	5.8		1
-f	Seu Florindo e Suas Duas Mulheres	1978			1
+f	Seu Florindo e Suas Duas Mulheres	1978			0
 f	Seu Nome	2017	8.1	14	15
 f	Seu Nome Gravado em Mim (2020)	2020	7.9	16	2
 f	Seu Passado a Espera	1986	6.1	16	3
@@ -34130,7 +34130,7 @@ f	Sexo, Mentiras e Zumba (2013)	2013			0
 f	Sexo, Pudor e Lágrimas 2	2022	6.7		1
 f	Sexo,Amizade e Maternidade	2021	5.0	12	1
 f	Sexo,Amizade e Maternidade (2021)	2021	5.0	12	1
-f	Sexo,Mentiras e Videotape	1989	7.0		4
+f	Sexo,Mentiras e Videotape	1989	7.0		5
 f	Sexo,Mentiras e Zumba	2013			0
 f	Sexo,Música e Amor (2018)	2018	5.6		0
 f	Sexo,Pudor e Lágrimas 2	2022	6.7		1
@@ -34255,7 +34255,7 @@ f	Sherlock Holmes: O Jogo de Sombras (2011)	2011	7.1	14	7
 f	Sherlock: A Abominável Noiva	2016	7.8	14	4
 f	Shiboyugi: Playing Death Games to Put Food on the Table 44: Cloudy Beach	2026		16	1
 f	Shifter	2020			0
-f	Shiki Oriori - O Sabor da Juventude	2018	6.9	12	2
+f	Shiki Oriori - O Sabor da Juventude	2018	6.9	12	3
 f	Shiloh - O Melhor Amigo (1996)	1996	6.0		1
 f	Shiloh 3 (2006)	2006			0
 f	Shimmer Lake	2017	6.0		1
@@ -34434,8 +34434,8 @@ f	Sinal de Fé (2019)	2019			0
 f	Sinal de Morte	2024	4.1	14	0
 f	Sinbad - A Lenda dos Sete Mares	2003	7.1	L	5
 f	Sincrónico	2016			0
-f	Sindicato de Ladrões	1954	7.8		5
-f	Sindicato de Ladrões (1954)	1954	7.8		5
+f	Sindicato de Ladrões	1954	7.8		4
+f	Sindicato de Ladrões (1954)	1954	7.8		4
 f	Sindrome de Estocolmo	2012			0
 f	Sinfonia da Necrópole	2014	5.9	12	0
 f	Sinfonia da Necrópole (2014)	2014	5.9	12	0
@@ -34531,7 +34531,7 @@ f	Sly (2023)	2023	7.2	12	2
 f	Small Engine Repair	2021	6.0	18	1
 f	Small Engine Repair (2021)	2021	6.0	18	1
 f	Small Talk				0
-f	Smashed: De Volta à Realidade (2012)	2012	6.5		1
+f	Smashed: De Volta à Realidade (2012)	2012	6.4		1
 f	Smiley Face Killers	2021	2.9		1
 f	Smiley Face Killers (2020)	2021	2.9		1
 f	Smiley Face: Louca de Dar Nó	2007	6.1		2
@@ -34734,7 +34734,7 @@ f	Socorro! Virei uma Garota	2019	6.6	12	0
 f	Socorro, Virei uma Garota! (2019)	2019	6.6	12	0
 f	Socorro,Virei uma Garota!	2019	6.6	12	0
 f	Socorro,Virei uma Garota! (2019)	2019	6.6	12	0
-f	Socrates	1970	7.1		1
+f	Socrates	1970	7.1		0
 f	Sofa Assassino (2019)	2019	4.7		1
 f	Sofia	2012	3.9	14	0
 f	Sofia Foi	2024		16	0
@@ -34850,7 +34850,7 @@ f	Songbird	2020	6.1	16	4
 f	Songs from the Hole	2024		14	1
 f	Sonhador Americano	2022	5.9	12	1
 f	Sonhadora	2005	7.1		2
-f	Sonhando com Búfalos	2005	5.7		1
+f	Sonhando com Búfalos	2005	5.7		0
 f	Sonhar com Leões	2025			0
 f	Sonho Olimpico (2019)	2019	5.9	L	0
 f	Sonho Olímpico.	2019	5.9	L	0
@@ -34865,7 +34865,7 @@ f	Sonho de uma Noite de Verão	2005	6.6		1
 f	Sonho de uma Noite de Verão (1999)	1999	6.4		3
 f	Sonhos	2026		10	0
 f	Sonhos (2025)	2025	6.1	16	3
-f	Sonhos Alucinantes de Cheech e Chong	1983	5.5		1
+f	Sonhos Alucinantes de Cheech e Chong	1983	5.4		1
 f	Sonhos De Uma Vida	2020	5.5		1
 f	Sonhos Lúcidos	2017	6.4	14	1
 f	Sonhos Rebeldes (2020)	2020	5.6		1
@@ -34879,7 +34879,7 @@ f	Sonhos de Trem	2025	7.3	14	6
 f	Sonhos de Trem (2025)	2025	7.3	14	6
 f	Sonhos de Uma Vida (2020)	2020	5.5		1
 f	Sonhos e Desejos	2006			0
-f	Sonhos no Gelo	2005	6.4	L	3
+f	Sonhos no Gelo	2005	6.5	L	3
 f	Sonic 2 O Filme (2022)	2022	7.4	10	9
 f	Sonic 2: O Filme	2022	7.4	10	9
 f	Sonic 3 - O Filme	2024	7.6	12	17
@@ -34939,7 +34939,7 @@ f	Soul Surfer: Coragem de Viver (2011)	2011	7.0	10	2
 f	Soulm8te	2026	7.4	16	11
 f	Soulm8te (2026)	2026	7.4	16	11
 f	Sound! Euphonium: Ensemble Contest	2023	7.6		1
-f	Sour	2021			1
+f	Sour	2021			0
 f	Sour Grapes	2016	7.3		0
 f	South Central: O Bairro Proibido	1992	6.7		1
 f	South Park (Nao Recomendado Para Menores) (2023)	2023	7.4	18	2
@@ -35009,7 +35009,7 @@ f	Spell	2020	6.4	18	1
 f	Spencer	2021	6.7	12	2
 f	Spencer (2021)	2021	6.7	12	2
 f	Spermworld	2024			1
-f	Spider - Desafie Sua Mente (2002)	2002	6.6		1
+f	Spider - Desafie Sua Mente (2002)	2002	6.6		2
 f	Spider In The Web	2018	6.1	16	4
 f	Spiderhead	2022	5.8	16	3
 f	Spiderhead (2022)	2022	5.8	16	3
@@ -35242,8 +35242,8 @@ f	Street of Crocodiles	1986	6.6		0
 f	StreetDance - Duas Vezes Mais Quente	2012	6.2		1
 f	Striptease	1996	5.6	12	4
 f	Striptease (1996)	1996	5.6	12	4
-f	Strong Enough	2022			1
-f	Strong Enough (2022)	2022			1
+f	Strong Enough	2022			0
+f	Strong Enough (2022)	2022			0
 f	Struggle: A Vida e a Arte de Szukalski	2018	7.5	16	0
 f	Struggle: A Vida e a Arte de Szukalski (2018)	2018	7.5	16	0
 f	Stuart Little 2 (2002)	2002	5.8	L	3
@@ -35254,12 +35254,12 @@ f	Stuck	2019	7.0		0
 f	Stuck - A Canção dos Trilhos (2019)	2019	7.0		0
 f	Sua Alma Será Minha	2024		12	0
 f	Sua Alma Será Minha (2024)	2024		12	0
-f	Sua Alteza?	2011	5.3		3
+f	Sua Alteza?	2011	5.3		2
 f	Sua Culpa	2024	7.1	18	9
 f	Sua Culpa (2024)	2024	7.1	18	9
 f	Sua Culpa Londres (2026)	2026	7.4		8
 f	Sua Culpa: Londres	2026	7.4		8
-f	Sua Excelência	1967	8.1	L	1
+f	Sua Excelência	1967	8.1	L	0
 f	Sua Ultima Facanha (1962)	1962	7.4		1
 f	Sua Vida me Pertence	2019		16	0
 f	Sua Vida me Pertence (2019)	2019		16	0
@@ -35303,7 +35303,7 @@ f	Sugar Baby (2018)	2018	5.1		0
 f	Sugar Baby (2022)	2022			0
 f	Sugar Baby (2024)	2024	7.0		2
 f	Sugar Baby (2025)	2023			4
-f	Sugar Daddy - Na Busca de um patrocínio	2021	6.4	14	1
+f	Sugar Daddy - Na Busca de um patrocínio	2021	6.4	14	0
 f	Sugar Dead	2021			0
 f	Sugar Dead  - A Baby teve um Baby!	2025		16	0
 f	Sugar Dead - A Baby teve um Baby!	2025		16	0
@@ -35334,8 +35334,8 @@ f	Suncoast (2024)	2024	6.7	16	1
 f	Sundown	2026			0
 f	Sunflower Oil	2023			0
 f	Sunshine Womens Choir	2025			3
-f	Sunshine: Alerta Solar	2007	7.0	14	6
-f	Sunshine: Alerta Solar (2007)	2007	7.0	14	6
+f	Sunshine: Alerta Solar	2007	7.0	14	7
+f	Sunshine: Alerta Solar (2007)	2007	7.0	14	7
 f	Super 8	2011	6.8	12	6
 f	Super 8 (2011)	2011	6.8	12	6
 f	Super Bola de Pelos: Salva o Futuro	2022	6.3		0
@@ -35367,7 +35367,7 @@ f	Super Onze O Filme: A Força Final,A Equipe Ogro Ataca!	2010	7.6		1
 f	Super Quem? Heróis Por Acidente	2022	6.3	14	2
 f	Super Quem? Heróis Por Acidente (2022)	2022	6.3	14	2
 f	Super Size Me: A Dieta do Palhaço	2004	6.7	L	1
-f	Super Snooper: Um Tira Genial	1980	6.5		1
+f	Super Snooper: Um Tira Genial	1980	6.5		2
 f	Super Tiras	2001	6.5		3
 f	Super Tiras (2001)	2001	6.5		3
 f	Super Tiras 2	2018	5.9	16	3
@@ -35473,7 +35473,7 @@ f	Suspeita	1941	7.1	16	2
 f	Suspeito X	2012	6.7		0
 f	Suspeito X (2023)	2023	7.0		1
 f	Suspeito Zero (2004)	2004	5.6		1
-f	Suspiria	1977	7.5	16	5
+f	Suspiria	1977	7.4	16	6
 f	Suspiria A Dança do Medo	2018	6.9	16	4
 f	Suspiria: A Danca do Medo (2018)	2018	6.9	16	4
 f	Sussurros do Coração (1995)	1995	7.9		9
@@ -35529,7 +35529,7 @@ f	Só Pode Ser Amor	2021			0
 f	Só Que Não	2014	6.5	16	6
 f	Só Termina Quando Acaba	2024		12	0
 f	Só Termina Quando Acaba (2024)	2024		12	0
-f	Só Você	2011	7.8		2
+f	Só Você	2011	7.8		3
 f	Só Você (1994)	1994	6.7		3
 f	Só Você (2023)	2022	6.6		2
 f	Só no Carnaval...	1982			0
@@ -35564,7 +35564,7 @@ f	TPM Meu amor (2023)	2023		14	0
 f	TPM! Meu amor	2023		14	0
 f	TQM (2022)	2022			0
 f	TRAI POR AMOR	2016	7.2	12	2
-f	TV Pirada	1989	6.7		1
+f	TV Pirada	1989	6.7		2
 f	Ta Chovendo Hamburguer (2009)	2009	6.7	L	8
 f	Ta Chovendo Hamburguer 2	2013	6.5	L	7
 f	Ta Chovendo Hamburguer 2 (2013)	2013	6.5	L	7
@@ -35756,8 +35756,8 @@ f	Tempero Fatal: Um Mistério de Hannah Swensen (2023)	2023	7.0	12	1
 f	Tempestade	1998	5.9		3
 f	Tempestade (1998)	1998	5.9		3
 f	Tempestade (2022)	2021			0
-f	Tempestade Branca	2013	6.4		2
-f	Tempestade Branca (2013)	2013	6.4		2
+f	Tempestade Branca	2013	6.4		3
+f	Tempestade Branca (2013)	2013	6.4		3
 f	Tempestade Infinita	2022	5.7		1
 f	Tempestade Infinita (2022)	2022	5.7		1
 f	Tempestade Mortal	2021			0
@@ -35766,7 +35766,7 @@ f	Tempestade Planeta em Furia	2017	6.1	12	6
 f	Tempestade branca 2: Senhores do tráfico (2019)	2019	6.4		1
 f	Tempestade de Gelo	1997	6.9		4
 f	Tempestade de Gelo (2023)	2023	5.6		1
-f	Tempestade de Natal	2019	6.4		0
+f	Tempestade de Natal	2019	6.4		1
 f	Tempestade na Vila Sésamo	2026			3
 f	Tempestade Ácida	2023	5.6		2
 f	Tempestade Ácida (2023)	2023	5.6		2
@@ -35853,7 +35853,7 @@ f	Tenzing	2026	8.2	14	18
 f	Tenzing (2026)	2026	8.2	14	18
 f	Teocracia em Vertigem	2020	7.5	16	0
 f	Teocracia em Vertigem (2020)	2020	7.5	16	0
-f	Teoria Mortal	2009	5.3		0
+f	Teoria Mortal	2009	5.3		1
 f	Teoria da Conspiração	1997	6.6		3
 f	Teoria da Conspiração (1997)	1997	6.6		3
 f	Teoria de Tudo	2014	7.8	10	4
@@ -35887,7 +35887,7 @@ f	Terceirão - Um Ano,Quatro Vidas	2025			0
 f	Tere Ishk Mein	2025	5.3		0
 f	Terei o Direito de Matar?	1964	6.6		0
 f	Teresa de Ávila	2023		14	0
-f	Terminal Force - A Procura do Cristal Sagrado	1995	4.4	14	0
+f	Terminal Force - A Procura do Cristal Sagrado	1995	4.4	14	1
 f	Terminal Sul: Luta por Liberdade	2019	5.2	12	0
 f	Terminal Young	2023			0
 f	Terminator Dark Fate	2019	6.4	14	8
@@ -36013,7 +36013,7 @@ f	Terror no Navio	2015			0
 f	Terror no Oceano	2022	4.6	14	1
 f	Terror no Pântano	2006	5.8		2
 f	Terror no Pântano 2	2010	5.5		1
-f	Terror no Pântano 3	2013	5.7		2
+f	Terror no Pântano 3	2013	5.7		1
 f	Terror no Pântano 4	2017	5.6		1
 f	Terror no Rio	2025	6.1	16	1
 f	Terror no Rio (2025)	2025	6.1	16	1
@@ -36111,7 +36111,7 @@ f	The Beach Bum - Levando a Vida Numa Boa	2019	5.7	18	2
 f	The Beach Bum: Levando a Vida Numa Boa	2019	5.7	18	2
 f	The Beach Bum: Levando a Vida Numa Boa (2019)	2019	5.7	18	2
 f	The Beach House	2018	6.3	12	1
-f	The Beach House (2020)	2020	5.4		0
+f	The Beach House (2020)	2020	5.4		1
 f	The Beads	2024			0
 f	The Beanie Bubble O Fenomeno das Pelucias (2023)	2023	6.4	14	1
 f	The Beast (2024)	1991	7.7	L	16
@@ -36187,7 +36187,7 @@ f	The Curse of the Necklace	2024	5.7		1
 f	The Cursed	2021	6.5	14	2
 f	The Cursed (2021)	2021	6.5	14	2
 f	The Cut	2025			0
-f	The Cycle (2026)	2026	6.8		41
+f	The Cycle (2026)	2026	6.8		20
 f	The Damned	2025	5.9	16	1
 f	The Damned (2025)	2025	5.9	16	1
 f	The Damned Shoegaze	2025			0
@@ -36443,7 +36443,7 @@ f	The Outer Wild	2018			0
 f	The Outer Wild (2018)	2018			0
 f	The Outriders (1950)	1950			1
 f	The Outrun	2024	6.7	18	3
-f	The Outsider	2018	6.1		2
+f	The Outsider	2018	6.1		1
 f	The Outsider (2019)	2019			0
 f	The Outwaters (2023)	2023	4.4		0
 f	The Overnight	2022			0
@@ -36586,7 +36586,7 @@ f	The Unholy	2021	6.5	14	4
 f	The United States Vs Billie Holiday	2021	6.5	16	1
 f	The Unlikely Pilgrimage of Harold Fry (2023)	2023	6.7		2
 f	The Unlock	2025			0
-f	The Uprising	2026	7.8		30
+f	The Uprising	2026	7.7		22
 f	The Vast Of Night	2019	6.6	12	2
 f	The Velvet Underground	2021	6.8	16	1
 f	The Velvet Underground (2021)	2021	6.8	16	1
@@ -36669,7 +36669,7 @@ f	Thor: Amor e Trovão	2022	6.3	14	14
 f	Thor: Amor e Trovão (2022)	2022	6.3	14	14
 f	Thor: Deus do Trovão	2022	5.9		1
 f	Thor: Deus do Trovão (2022)	2022	5.9		1
-f	Thor: O Filho de Asgard	2011	6.3		0
+f	Thor: O Filho de Asgard	2011	6.3		1
 f	Thor: O Mundo Sombrio	2013	6.5	10	16
 f	Thor: O Mundo Sombrio (2013)	2013	6.5	10	16
 f	Thor: Ragnarok	2017	7.6	12	17
@@ -36698,13 +36698,13 @@ f	Tiger	2018			0
 f	Tiger & Bunny Movie 1: The Beginning	2012	6.4		1
 f	Tiger & Bunny Movie 2: The Rising	2014			1
 f	Tigerland - A Caminho da Guerra	2000	6.6	16	2
-f	Tigrao: O Filme (2000)	2000	6.7	L	6
+f	Tigrao: O Filme (2000)	2000	6.7	L	3
 f	Tigre	2002	7.3		0
 f	Tigre (2024)	2024		10	1
 f	Tigres e Hienas	2024	6.3		0
 f	Tigres em Ascensão	2024		12	1
 f	Tigres em Ascensão (2024)	2024		12	1
-f	Tigrão: O Filme (2000)	2000	6.7	L	6
+f	Tigrão: O Filme (2000)	2000	6.7	L	3
 f	Till: A Busca por Justiça	2022	7.3		3
 f	Till: A Busca por Justiça (2022)	2022	7.3		3
 f	Tim Dillon: This Is Your Country	2024			0
@@ -36735,7 +36735,7 @@ f	Tina Turner: Live in Rio	1988			0
 f	Tinha Que Ser Ele?	2016	6.4	14	3
 f	Tinha Que Ser Ele? (2016)	2016	6.4	14	3
 f	Tinha Que Ser Você	2008	6.3	12	2
-f	Tinha que ser Você (2016)	2016	5.5		0
+f	Tinha que ser Você (2016)	2016	5.5		2
 f	Tini: Depois de Violetta	2016	7.3		1
 f	Tinker Bell 1	2008	7.0	L	4
 f	Tinker Bell 2	2009	6.8	L	5
@@ -36986,7 +36986,7 @@ f	Tomorrowland: Um Lugar Onde Nada É Impossível	2015	6.3	10	8
 f	Tomorrowland: Um Lugar Onde Nada é Impossível (2015)	2015	6.3	10	8
 f	Toni Erdmann (2016)	2016	6.9	16	2
 f	Toni Kroos	2019	6.1		1
-f	Tony	2026	7.4	16	11
+f	Tony	2026	7.3	16	9
 f	Tony Hawk: Ate as Rodinhas Cairem (2022)	2022	7.7		1
 f	Tony Hawk: Até as Rodinhas Caírem	2022	7.7		1
 f	Tony Parker - Entre os Maiores (2021)	2021	7.1		0
@@ -37122,7 +37122,7 @@ f	Trancado Para Dentro	2017			0
 f	Trancafiadas	2021	6.0	14	0
 f	Trancafiadas (2021)	2021	6.0	14	0
 f	Transamazonia	2025		14	0
-f	Transamérica	2005	7.0	14	1
+f	Transamérica	2005	7.0	14	2
 f	Transação Perigosa	2024	6.2	14	2
 f	Transação Perigosa 2 (2025)	2025	6.5		2
 f	Transcendence: A Revolução	2014	6.1	12	6
@@ -37184,7 +37184,7 @@ f	Travis Scott: Voando Alto	2019	6.8		1
 f	Travis Scott: Voando Alto (2019)	2019	6.8		1
 f	Tração	2023		14	0
 f	Tração (2023)	2023		14	0
-f	Traídos Pela Guerra (2020)	2020	6.9		0
+f	Traídos Pela Guerra (2020)	2020	6.9		1
 f	Tre uomini e un fantasma	2022			0
 f	Treinada para Matar	1999			0
 f	Treinada para Matar (2024)	2024		14	0
@@ -37337,7 +37337,7 @@ f	Tropas Estelares 2	2004	4.4	18	2
 f	Tropas Estelares 2 (2004)	2004	4.4	18	2
 f	Tropas Estelares 3	2008	4.8	16	3
 f	Tropas Estelares 3 (2008)	2008	4.8	16	3
-f	Tropas Estelares A Invasão (2012)	2012	5.9	16	2
+f	Tropas Estelares A Invasão (2012)	2012	5.9	16	3
 f	Tropas Estelares: Invasores de Marte	2017	5.9	16	2
 f	Tropas Estelares: Invasores de Marte (2017)	2017	5.9	16	2
 f	Trovao Tropical (2008)	2008	6.7	16	8
@@ -37479,7 +37479,7 @@ f	Tudo Pela Fama	2006	5.1		1
 f	Tudo Pela Fama (2018)	2018			0
 f	Tudo Pela Honra	2003	5.5		1
 f	Tudo Pelo Poder (2011)	2011	6.7	14	3
-f	Tudo Pode Ser Visto (2026)	2026	8.9	16	59
+f	Tudo Pode Ser Visto (2026)	2026	8.8	16	70
 f	Tudo Pode dar Certo	2009	7.1	12	2
 f	Tudo Por Amor (1991)	1991	6.7		2
 f	Tudo Por Dinheiro (1997)	1997	6.0	14	3
@@ -37499,8 +37499,8 @@ f	Tudo Por um Pop Star 2	2024			0
 f	Tudo Por um Pop Star 2 (2024)	2024			0
 f	Tudo Por um Sonho	2016	5.5		0
 f	Tudo Por um Sonho (2012)	2012	7.0		1
-f	Tudo Que Destruimos (2019)	2019	6.1		0
-f	Tudo Que Destruímos (2019)	2019	6.1		0
+f	Tudo Que Destruimos (2019)	2019	6.1		1
+f	Tudo Que Destruímos (2019)	2019	6.1		1
 f	Tudo Que Deus Criou	2015			0
 f	Tudo Que Deus Criou (2015)	2015			0
 f	Tudo Que Um Filho Quer	2022		14	0
@@ -37559,7 +37559,7 @@ f	Tudo por um Pop Star	2018	7.0	L	0
 f	Tudo por um Pop Star (2018)	2018	7.0	L	0
 f	Tudo por uma Herança	1983	6.0		1
 f	Tudo que Quero	2018	6.8	10	1
-f	Tudo que Resta de Você	2025	8.0		2
+f	Tudo que Resta de Você	2025	7.9		4
 f	Tudo é Possível	1997			0
 f	Tuesday: O Último Abraço	2024	6.8		2
 f	Tuesday: O Último Abraço (2024)	2024	6.8		2
@@ -37576,7 +37576,7 @@ f	Tungstênio (2018)	2018		16	0
 f	Tunnelen	2019	6.3	14	2
 f	Turbo	2013	6.3	L	5
 f	Turbo (2013)	2013	6.3	L	5
-f	Turbo Kid	2015	6.5		1
+f	Turbo Kid	2015	6.5		2
 f	Turbo: Power Rangers 2	1997	5.8		2
 f	Turbo: Power Rangers 2 (1997)	1997	5.8		2
 f	Turbulencia (2025)	2025	6.4	16	4
@@ -37900,7 +37900,7 @@ f	Um Caminho de Luz	2008	7.6		0
 f	Um Candango na Belacap (1961)	1961			0
 f	Um Canto de Esperança	1997	6.3		1
 f	Um Canto de Esperança (1997)	1997	6.3		1
-f	Um Carrossel de Natal	2020	6.8		1
+f	Um Carrossel de Natal	2020	6.8		0
 f	Um Casal Divino	2008	7.1		2
 f	Um Casal Inseparável	2021		12	0
 f	Um Casal Inseparável (2021)	2021		12	0
@@ -37915,7 +37915,7 @@ f	Um Casamento a Mais	2019	5.9	16	1
 f	Um Casamento a Mais (2019)	2019	5.9	16	1
 f	Um Casamento de Natal (2020)	2020	5.6	10	0
 f	Um Caso Muito Sério	1984	5.5		1
-f	Um Caso de Amor	2013	5.5		1
+f	Um Caso de Amor	2013	5.6		1
 f	Um Caso de Detetive	2020	6.6		2
 f	Um Caso de Detetive (2020)	2020	6.6		2
 f	Um Caso do Outro Mundo	2022			0
@@ -38020,8 +38020,8 @@ f	Um Dia Fora de Controle	2025	6.2	12	6
 f	Um Dia Fora de Controle (2025)	2025	6.2	12	6
 f	Um Dia Muito Claro (2019)	2019	6.1		0
 f	Um Dia Nossos Segredos Serão Revelados	2023	5.8	16	1
-f	Um Dia Para Sempre	2020	5.9	12	0
-f	Um Dia Para Sempre (2020)	2020	5.9	12	0
+f	Um Dia Para Sempre	2020	5.9	12	1
+f	Um Dia Para Sempre (2020)	2020	5.9	12	1
 f	Um Dia Perfeito	2006	4.4		0
 f	Um Dia Perfeito (2006)	2006	4.4		0
 f	Um Dia Perfeito (2015)	2015	6.7	12	1
@@ -38078,7 +38078,7 @@ f	Um Drink no Inferno 2: Texas Sangrento	1999	4.7	16	3
 f	Um Drink no Inferno 2: Texas Sangrento (1999)	1999	4.7	16	3
 f	Um Drink no Inferno 3: A Filha do Carrasco	2000	4.9	16	2
 f	Um Drink no Inferno 3: A Filha do Carrasco (2000)	2000	4.9	16	2
-f	Um Duende em Nova York (2003)	2003	6.7	L	9
+f	Um Duende em Nova York (2003)	2003	6.7	L	12
 f	Um Efeito Ótico	2021	4.9		0
 f	Um Efeito Ótico (2021)	2021	4.9		0
 f	Um Encontro Com Seu Ídolo!	2004	5.7		2
@@ -38376,8 +38376,8 @@ f	Um Natal Bem Casado	2022	5.2		0
 f	Um Natal Bem Casado (2022)	2022	5.2		0
 f	Um Natal Bem Jonas Brothers	2025	6.2	12	2
 f	Um Natal Bem Jonas Brothers (2025)	2025	6.2	12	2
-f	Um Natal Brilhante	2006	5.6		3
-f	Um Natal Brilhante (2006)	2006	5.6		3
+f	Um Natal Brilhante	2006	5.6		5
+f	Um Natal Brilhante (2006)	2006	5.6		5
 f	Um Natal Cheio de Amor	2021	6.1		0
 f	Um Natal Cheio de Graca (2022)	2022	5.7	12	1
 f	Um Natal Cheio de Graça	2022	5.7	12	1
@@ -38411,7 +38411,7 @@ f	Um Natal Real	2020	5.6		1
 f	Um Natal Surreal (2025)	2025	5.7	16	3
 f	Um Natal com Amor e Vinho	2021		L	1
 f	Um Natal com Amor e Vinho (2021)	2021		L	1
-f	Um Natal com Quebra-Nozes	2016	6.3		1
+f	Um Natal com Quebra-Nozes	2016	6.3		0
 f	Um Natal com Teddy	2022	6.9		1
 f	Um Natal com Teddy (2022)	2022	6.9		1
 f	Um Natal de Cinderela	2016	6.7		1
@@ -38620,7 +38620,7 @@ f	Um Sonho de Amor	2010	6.7	16	2
 f	Um Sonho de Liberdade	1994	8.7	16	44
 f	Um Sonho de Liberdade (1994)	1994	8.7	16	44
 f	Um Sonho de Natal	2024		12	0
-f	Um Sonho de Natal (2017)	2017	6.2		1
+f	Um Sonho de Natal (2017)	2017	6.2		0
 f	Um Sonho em Pedaços (2021)	2021	6.0		0
 f	Um Sonho na Índia	2017	4.0		1
 f	Um Sopro Musical	2023		L	0
@@ -38797,7 +38797,7 @@ f	Uma Canção de Natal (2015)	2015	6.0		0
 f	Uma Canção para Latasha	2019	7.0		1
 f	Uma Carta Para Ferdinand	2020		L	0
 f	Uma Carta ao Pai	2009			0
-f	Uma Carta de Amor	1999	6.3	L	2
+f	Uma Carta de Amor	1999	6.3	L	3
 f	Uma Carta de Natal	2024			0
 f	Uma Carta de Natal (2024)	2024			0
 f	Uma Carta à Minha Juventude	2026	7.9		2
@@ -38889,7 +38889,7 @@ f	Uma Filha para o Diabo	1976	5.4		1
 f	Uma Floresta Misteriosa	2023	5.1	14	0
 f	Uma Floresta Muito Louca	2017	6.3		2
 f	Uma Floresta Muito Louca (2017)	2017	6.3		2
-f	Uma Forma de Assassinato	2016	5.4		1
+f	Uma Forma de Assassinato	2016	5.4		2
 f	Uma Foto Antes de Morrer	2018	5.0		0
 f	Uma Foto Antes de Morrer (2018)	2018	5.0		0
 f	Uma Fêmea do Outro Mundo	1979			0
@@ -39016,7 +39016,7 @@ f	Uma Mulher Sem Filtro	2025	6.1	14	1
 f	Uma Mulher Sem Filtro (2025)	2025	6.1	14	1
 f	Uma Mulher de Negócios	2021			1
 f	Uma Mulher de Negócios (2021)	2021			1
-f	Uma Mulher do Mundo	2021	6.6		0
+f	Uma Mulher do Mundo	2021	6.6		1
 f	Uma Mulher em Guerra (2018)	2018	7.2		1
 f	Uma Mulher para Dois	1991	4.3		2
 f	Uma Mãe em Apuros	2009	5.0		1
@@ -39203,7 +39203,7 @@ f	Uma Testemunha Nada Protegida (2008)	2008	4.4		0
 f	Uma Tia da Pesada	2019			0
 f	Uma Tia da Pesada (2019)	2019			0
 f	Uma Tia da Pesada 2	2026		L	0
-f	Uma Troca de Natal (2018)	2018	6.0	L	0
+f	Uma Troca de Natal (2018)	2018	6.0	L	1
 f	Uma Turma Divertida: A Caminho de Casa	2007	5.6	L	1
 f	Uma Turma do Barulho	2002	6.5		2
 f	Uma Turma do Barulho (2002)	2002	6.5		2
@@ -39393,7 +39393,7 @@ f	Upstarts	2019			0
 f	Upstarts (2019)	2019			0
 f	Urano	1990	6.6		0
 f	Uranus 2324	2024	8.1		1
-f	Urge: Droga Mortal (2016)	2016	4.3		1
+f	Urge: Droga Mortal (2016)	2016	4.4		1
 f	Urkel Salva o Papai Noel: O Filme!	2023	5.7		1
 f	Urkel Salva o Papai Noel: O Filme! (2023)	2023	5.7		1
 f	Ursa				0
@@ -39431,7 +39431,7 @@ f	V/H/S/85	2023	5.7	18	1
 f	V/H/S/94 (2021)	2021	6.1	18	3
 f	V/H/S/Beyond	2024	6.6		2
 f	V/H/S/HALLOWEEN	2025	6.2	18	3
-f	V/H/S/Mixtape	2026	4.5		17
+f	V/H/S/Mixtape	2026	4.5		11
 f	VHS 85 (2023)	2023	5.7	18	1
 f	VHS Beyond (2024)	2024	6.6		2
 f	VHS HALLOWEEN (2025)	2025	6.2	18	3
@@ -39497,7 +39497,7 @@ f	Valerian e a Cidade dos Mil Planetas	2017	6.7	12	8
 f	Valerian e a Cidade dos Mil Planetas (2017)	2017	6.7	12	8
 f	Valhalla: A Lenda de Thor	2019	5.3	12	1
 f	Valhalla: A Lenda de Thor (2019)	2019	5.3	12	1
-f	Valiant: Um Herói que Vale a Pena	2005	5.7	L	2
+f	Valiant: Um Herói que Vale a Pena	2005	5.7	L	3
 f	Valley Girl	1983	6.0		1
 f	Valor Sentimental	2025	7.5	14	6
 f	Valor Sentimental (2025)	2025	7.5	14	6
@@ -39538,7 +39538,7 @@ f	Vampiros do Deserto (2001)	2001	5.4		1
 f	Vampiros: A Conversão	2005	4.0		0
 f	Vamps - A Morte Não Existe para o Amor (2017)	2017	4.4		1
 f	Vamps A Morte Não Existe para o Amor (2017)	2017	4.4		1
-f	Van Gogh	1991	6.7		0
+f	Van Gogh	1991	6.7		1
 f	Van Helsing - O Cacador De Monstros	2004	6.4	14	16
 f	Van Helsing O Caçador De Monstros (2004)	2004	6.4	14	16
 f	Van Helsing de Bram Stoker	2021	5.7		0
@@ -39664,7 +39664,7 @@ f	Vento Selvagem (2022)	2022	5.6		1
 f	Ventos Que Sopram - Pará	2020			0
 f	Ventos Que Sopram Maranhão	2021			0
 f	Ventos da Liberdade	2006	7.3		3
-f	Ventos da Liberdade (2018)	2018	7.5	12	2
+f	Ventos da Liberdade (2018)	2018	7.5	12	3
 f	Ventos do Mar	2024			0
 f	Venus	2006	6.7		1
 f	Venus (2022)	2022	6.2		1
@@ -39795,9 +39795,9 @@ f	Vic o Viking e a Espada Mágica	2019	5.3		1
 f	Vic o Viking e a Espada Mágica (2019)	2019	5.3		1
 f	Vice	2018	7.0	14	4
 f	Vice Is Broke	2025			0
-f	Vice-Versa	2020	6.5		1
+f	Vice-Versa	2020	6.5		0
 f	Viciadas em Dinheiro	2008	6.5	10	2
-f	Viciado em Sexo	2001	5.5		1
+f	Viciado em Sexo	2001	5.5		2
 f	Viciados em Amor	2023	6.0		2
 f	Viciados em Amor (2023)	2023	6.0		2
 f	Vicio Frenetico (1992)	1992	7.0	18	3
@@ -39892,12 +39892,12 @@ f	Vigilantes da Guerra	2014	5.4	16	1
 f	Vigilantes do Tempo	2023	5.7		0
 f	Viking	2025	7.2		2
 f	Viking (2016)	2016	4.9		1
-f	Viking Siege	2017			1
+f	Viking Siege	2017			0
 f	Viking de Mentira	2022	6.1		0
 f	Viking de Mentira (2022)	2022	6.1		0
 f	Viking – Os Pergaminhos Sagrados	2016	3.8		0
-f	Vikings, Os Conquistadores (1958)	1958	7.0	14	3
-f	Vikings,Os Conquistadores	1958	7.0	14	3
+f	Vikings, Os Conquistadores (1958)	1958	7.0	14	2
+f	Vikings,Os Conquistadores	1958	7.0	14	2
 f	Vila das Sombras (2010)	2010			0
 f	Vila do Medo	2022	5.6		1
 f	Vila do Medo (2022)	2022	5.6		1
@@ -40668,7 +40668,7 @@ f	Your Lucky Day	2023	6.0	16	1
 f	Your Lucky Day (2023)	2023	6.0	16	1
 f	Your Name (2016)	2016	8.5	L	25
 f	Your Name Engraved Herein	2020	7.9	16	2
-f	Youth	2026	6.9		3
+f	Youth	2026	6.9		2
 f	Yu Yu Hakusho: Invasores do Inferno	1994	7.6		1
 f	Yu Yu Hakusho: Invasores do Inferno (1994)	1994	7.6		1
 f	Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	2004	6.1	10	2
@@ -40709,7 +40709,7 @@ f	Zebra Girl (2021)	2021			0
 f	Zeitgeist Addendum	2008	7.2		1
 f	Zeitgeist: O Filme	2007	6.9		1
 f	Zelador de Condomínio	1974	6.9	L	1
-f	Zenon A Corrida para a Lua (2004)	2004	5.4		1
+f	Zenon A Corrida para a Lua (2004)	2004	5.4		0
 f	Zenon A Garota do Seculo 21 (1999)	1999	6.1		1
 f	Zenon A Zequencia (2001)	2001	5.6		0
 f	Zenon: A Garota do Século 21 (1999)	1999	6.1		1
@@ -40720,8 +40720,8 @@ f	Zero (2025)	2025	5.8		1
 f	Zero Avenue	2021			0
 f	Zero Contact	2022	4.0		1
 f	Zero D.C.	2026			3
-f	Zeros e Uns	2021	4.7	18	1
-f	Zeros e Uns (2021)	2021	4.7	18	1
+f	Zeros e Uns	2021	4.8	18	2
+f	Zeros e Uns (2021)	2021	4.8	18	2
 f	Zeroville	2019	5.0	16	1
 f	Zeroville: A Vida em Hollywood	2019	5.0	16	1
 f	Zeroville: A Vida em Hollywood (2019)	2019	5.0	16	1
@@ -40955,7 +40955,7 @@ f	À Procura da Vingança	2007	6.4		2
 f	À Procura da Vingança (2007)	2007	6.4		2
 f	À Procura de Anne Frank	2021	6.6		1
 f	À Procura de Harry: A Arte por Trás da Magia	2026	7.7	L	3
-f	À Procura de Mr. Goodbar	1977	6.3		1
+f	À Procura de Mr. Goodbar	1977	6.3		2
 f	À Procura do Submarino I-52	2000			0
 f	À Prova de Balas	1996	5.8	16	2
 f	À Prova de Balas 2 (2020)	2020	6.3	16	0
@@ -40992,7 +40992,7 @@ f	Águas que Corroem	2019	6.3		2
 f	Águia De Fogo - O Filme	1984	5.9		1
 f	Águia Dourada: Forças Especiais	2023			0
 f	Águia de Aço	1986	5.6	12	1
-f	Águia de Aço II	1988	4.5		1
+f	Águia de Aço II	1988	4.4		1
 f	Águia e Jaguar: Os Guerreiros Lendários	2022	6.9		0
 f	Águia e Jaguar: Os Guerreiros Lendários (2022)	2022	6.9		0
 f	Águias em Alerta (1963)	1963	5.8		1
@@ -41098,7 +41098,7 @@ f	Último Sentinela	2023	5.3		2
 f	Último Suspiro	2018	6.3	16	1
 f	Último Tango em Paris	1972	6.9		5
 f	Últimos Dias no Deserto	2016	5.7		2
-f	Últimos Homens em Aleppo	2017	7.0		0
+f	Últimos Homens em Aleppo	2017	7.0		1
 f	Últimos Sobreviventes	2014	6.1		2
 f	Últimos Sobreviventes (2021)	2021	5.2		1
 f	Μινόρε (2024)	2024		16	0
@@ -41240,7 +41240,7 @@ s	8 Regrinhas Basicas... para Namorar Minhas Filhas Adolescentes	2002	6.8		20
 s	8 em Istambul	2020	7.8	16	6
 s	8 em Istambul - Bir Baskadir	2020	7.8	16	6
 s	86	1965	8.0	L	39
-s	86 EIGHTY-SIX	2021	8.1	16	18
+s	86 EIGHTY-SIX	2021	8.1	16	19
 s	9 Anos de Você	2025			1
 s	9 Years of You	2025			1
 s	9-1-1	2018	8.2	14	103
@@ -41271,7 +41271,7 @@ s	A Agencia	2024	7.3	18	22
 s	A Agente	2025	7.2	16	4
 s	A Agência	2024	7.3	18	22
 s	A Alma Não Tem Cor	1997			0
-s	A Amiga Genial	2018	8.1	18	17
+s	A Amiga Genial	2018	8.1	18	16
 s	A Anatomia de Grey	2005	8.2	14	323
 s	A Antartida	2011		12	3
 s	A Arca	2023	6.5	12	24
@@ -41289,7 +41289,7 @@ s	A Autonomia	2018			1
 s	A Baleia Devoradora Retorno ao Lar	2025	8.2	14	6
 s	A Barbara E O Troll	2021			0
 s	A Bastarda	2025		16	2
-s	A Batalha Pelo Topo	2021			1
+s	A Batalha Pelo Topo	2021			0
 s	A Batalha das Pizzas	2022		L	1
 s	A Batalha das Vovos	2016			0
 s	A Batalha de Culiacan Herdeiros do Trafico	2025		16	1
@@ -41420,7 +41420,7 @@ s	A Divisão	2019		16	3
 s	A Dog and a Plane	2026			3
 s	A Dona	2010	7.7	10	12
 s	A Dona da Bola	2025	7.3	16	10
-s	A Dona do Pedaço	2019	7.3	14	19
+s	A Dona do Pedaço	2019	7.3	14	21
 s	A Emissaria Divina	2024			2
 s	A Enciclopedia de Istambul	2025		12	2
 s	A Enciclopédia de Istambul - Istanbul Ansiklopedisi	2025		12	2
@@ -41449,7 +41449,7 @@ s	A Estação das Garotas Perdidas	2025	7.6		2
 s	A Estrada de Lichia	2025	7.3		6
 s	A Estrada para o Esplendor	2026			8
 s	A Etica do Silencio	2023			0
-s	A Ex mulher	2022	6.4		5
+s	A Ex mulher	2022	6.4		3
 s	A Fabrica	1971			17
 s	A Fabrica de ETs	2024		14	1
 s	A Fabrica de Kota	2019	8.1	12	3
@@ -41478,7 +41478,7 @@ s	A Filha do Embaixador	2019	7.9		8
 s	A Filha do Mariachi	2025			4
 s	A Flor Guerreira	2024	8.1		4
 s	A Flor Mais Bela	2022	8.3		1
-s	A Floricultura da Nana	2009		L	1
+s	A Floricultura da Nana	2009		L	0
 s	A Formiga Atomica	1965	7.4	L	10
 s	A Formula	2017		12	1
 s	A Força do Amor - Kizilcik Serbeti	2022	6.7		24
@@ -41516,7 +41516,7 @@ s	A Generala	2020			1
 s	A Gente Tenta	2026	8.5		8
 s	A Gentle Noble s Vacation Recommendation	2026		14	3
 s	A Geração Golpista	2023		16	1
-s	A Girl Her Guard Dog	2023	4.9	14	5
+s	A Girl Her Guard Dog	2023	4.8	14	5
 s	A Glória Eterna (2019)	2020			0
 s	A Grande Cacada	2023		10	1
 s	A Grande Conquista	2023		12	1
@@ -41662,7 +41662,7 @@ s	A Missao da Familia Yozakura	2024	7.5	14	34
 s	A Missão da Família Yozakura	2024	7.5	14	34
 s	A Misteriosa Sociedade Benedict	2021	7.6	10	8
 s	A Moment but Forever	2024			2
-s	A Moreninha	1975		12	6
+s	A Moreninha	1975		12	8
 s	A Morte Entre Outros Misterios	2024	6.6	14	7
 s	A Morte da Esposa do Pastor	2026	7.3	16	6
 s	A Morte de Menem Junior Acidente ou Crime	2024		14	0
@@ -41689,7 +41689,7 @@ s	A Neta Escolhida	2021			3
 s	A Ninja and an Assassin Under One Roof	2025	6.8	14	4
 s	A Nobody's Way Up to an Exploration Hero	2024	7.2	12	4
 s	A Nobreza do Amor	2026		12	16
-s	A Noite Chegou	2023	7.9		8
+s	A Noite Chegou	2023	7.8		8
 s	A Noiva - Gelin	2017	7.5	14	11
 s	A Noiva Indesejada	2025			0
 s	A Noiva Muda do Alfa Amaldicoado	2025			0
@@ -42011,7 +42011,7 @@ s	Adotada #TBT	2021		12	0
 s	Adriano Imperador	2022		12	0
 s	Adult Material	2020	6.5	16	2
 s	Adultos	2025	6.5	18	13
-s	Advogada de Divórcio	2004			6
+s	Advogada de Divórcio	2004			5
 s	Advogado Fantasma	2026	7.6		6
 s	Aero Por Tras da Aviacao	2019			0
 s	Aeroporto Area Restrita Estados Unidos	2024			1
@@ -42093,7 +42093,7 @@ s	Akikan	2009	7.0		5
 s	Akkun to Kanojo	2018	6.0	12	5
 s	Akudama Drive	2020	7.5	16	11
 s	Akuma kun	2023	7.2	14	6
-s	Akuma no Riddle	2014	7.6	14	3
+s	Akuma no Riddle	2014	7.6	14	4
 s	Akuyaku Reijou nanode Last Boss wo Kattemimashita	2022	7.5	12	8
 s	Al Hayba	2017	6.6		9
 s	AlRawabi School for Girls	2021	7.5	16	4
@@ -42196,7 +42196,7 @@ s	Am I Actually the Strongest	2023	7.4	14	5
 s	Amada e Ultrajada O Exercito na Historia do Brasil	2024		16	0
 s	Amagami SS	2010	7.3		17
 s	Amagi Brilliant Park	2014	7.2	12	8
-s	Amanchu!	2016	6.4		8
+s	Amanchu!	2016	6.4		10
 s	Amando o Inimigo	2024	7.6		4
 s	Amanhã	2016	7.2	12	57
 s	Amanhã com Você	2017	6.6		4
@@ -42214,7 +42214,7 @@ s	Amar e...	2010	7.8		12
 s	Amarras do Amor	2019	7.6		8
 s	Amarração no Amor	2021	7.0	14	1
 s	Amazing Grace	2021			2
-s	Amazing Stories	1985	7.5	14	19
+s	Amazing Stories	1985	7.5	14	16
 s	Amber Brown	2022		L	2
 s	Ambient Swim	2021			0
 s	Ambitions	2019	7.3		5
@@ -42299,7 +42299,7 @@ s	Amor Turbulento	2026			2
 s	Amor Valente - O Bravo e a Bela - Cesur ve Guzel	2016	8.4		5
 s	Amor Venenoso	2024	8.4		2
 s	Amor Verdade ou Consequencia Africa do Sul	2024		16	0
-s	Amor Vingado	2025	8.4		10
+s	Amor Vingado	2025	8.3		9
 s	Amor a Deriva	2026		16	1
 s	Amor ao Luar	2025			3
 s	Amor ate o Fim	2025		16	2
@@ -42319,7 +42319,7 @@ s	Amor e Honra - Leke	2019			2
 s	Amor e Intrigas	2007		12	8
 s	Amor e Lagrimas - Ask Ve Gozyasi	2025			2
 s	Amor e Morte	2023	7.8	16	7
-s	Amor e Odio	2001		14	6
+s	Amor e Odio	2001		14	7
 s	Amor e Outros Dramas	2022	8.5	16	7
 s	Amor e Para os Caes	2025			3
 s	Amor e Revolução	2011			13
@@ -42368,7 +42368,7 @@ s	Amsterdam	2018	8.3	12	36
 s	Amsterdam Central 24 7	2025			1
 s	Amy e Tammy Irmas Contra o Peso	2020	6.7	12	5
 s	América	2018			17
-s	América Indomável	2012		L	1
+s	América Indomável	2012		L	0
 s	América Inexplorada	2021			0
 s	América do Norte	2013			0
 s	An Adventurer s Daily Grind at Age 29	2026	7.5	14	5
@@ -42399,7 +42399,7 @@ s	Angela	1998	7.5		7
 s	Angela Black	2021	6.4	16	2
 s	Angela Diniz Assassinada e Condenada	2025		16	3
 s	Angelica 50 e Tanto	2023		12	1
-s	Angelyne: Por Trás do Ícone de Hollywood	2022	5.7	16	3
+s	Angelyne: Por Trás do Ícone de Hollywood	2022	5.7	16	2
 s	Angi Crime e Mentira	2025		14	1
 s	Angolmois: Genkou Kassenki	2018		16	5
 s	Angry Birds A Ilha Misteriosa	2024			6
@@ -42522,7 +42522,7 @@ s	Archer	2009	7.9	18	49
 s	Archives The Nanyang Mystery	2026			8
 s	Arctic Ascent with Alex Honnold	2024			1
 s	Are You Afraid of the Dark?	1992	8.2	10	22
-s	Are You Sure	2024	9.6		3
+s	Are You Sure	2024	9.6		4
 s	Are You The One? Brasil	2015		14	1
 s	Are You The One? UK	2022		16	0
 s	Area no Kishi	2012	7.5		8
@@ -42866,7 +42866,7 @@ s	Bake Off Brasil – Celebridades	2021		L	1
 s	Bake Off Brasil: Mão na Massa	2015		L	6
 s	Baki Hanma	2021	8.1	18	23
 s	Baki O Campeao	2018	8.1	18	18
-s	Baki the Grappler	2001	7.8		12
+s	Baki the Grappler	2001	7.8		14
 s	Bakuage Sentai Boonboomger	2024			14
 s	Bakuman	2010	8.1		17
 s	Bakumatsu	2018			6
@@ -42908,7 +42908,7 @@ s	Barakamon	2014	8.1	L	8
 s	Barbapapa Uma Grande Familia	2020			14
 s	Barbearia do Pao	2019		L	9
 s	Barbie Dreamhouse Adventures	2018	7.7	L	13
-s	Barbie Dreamhouse Adventures: Go Team Roberts	2019			4
+s	Barbie Dreamhouse Adventures: Go Team Roberts	2019			3
 s	Barbie Life in the Dreamhouse	2012	7.6		13
 s	Barbie e as Melhores Férias do Mundo	2023			0
 s	Barbie: It Takes Two	2022	7.9		2
@@ -42994,7 +42994,7 @@ s	Beforeigners: Os Visitantes	2019	7.4	16	4
 s	Beheneko The Elf Girls Cat is Secretly an S Ranked Monster	2025	6.3		8
 s	Behind Cut	2021			1
 s	Behind Your Touch	2023	8.1		4
-s	Behind the Music	1997		18	21
+s	Behind the Music	1997		18	25
 s	Beijar ou Morrer	2025		16	2
 s	Beije me 99 Vezes por Dia	2025			0
 s	Beijo Explosivo	2025	8.2	14	8
@@ -43074,7 +43074,7 @@ s	Beyblade X	2023		L	29
 s	Beyblade: Metal Fusion	2009	7.4	L	33
 s	Beyond the Boundary	2013	8.1		9
 s	Bicampeas	2024			0
-s	Bicho do Mato	2006		12	14
+s	Bicho do Mato	2006		12	17
 s	Biduzidos	2018		L	0
 s	Big Bang A Teoria	2007	7.9	12	59
 s	Big Bang: A Teoria	2007	7.9	12	59
@@ -43089,7 +43089,7 @@ s	Big Little Lies	2017	7.9	16	14
 s	Big Mouth	2017	7.6	18	30
 s	Big Mouth: De Vigarista a Vingador	2022	8.4	16	12
 s	Big Nate	2022		L	9
-s	Big Order	2016	6.3		4
+s	Big Order	2016	6.3		5
 s	Big Shot: Treinador de Elite	2021	7.9	10	9
 s	Big Sky	2020	7.2	14	18
 s	Big Time Rush	2009	8.6	10	15
@@ -43110,7 +43110,7 @@ s	Bipolar	2010		16	0
 s	Bir Sevdadir	2024			2
 s	Bir Umut Yeter	2018			1
 s	Birdgirl	2021	6.0	14	3
-s	Birdie Wing Golf Girls Story	2022	6.6		9
+s	Birdie Wing Golf Girls Story	2022	6.6		8
 s	Birds of Prey	2002	6.2	10	7
 s	Bitch	2022	7.2	14	4
 s	Bitten	2014	7.2	16	9
@@ -43236,7 +43236,7 @@ s	Bonnie e Clyde	2013	7.3	14	3
 s	Boo, Bitch	2022	7.2	14	4
 s	Boo,Bitch	2022	7.2	14	4
 s	Boogie Oogie	2014		10	15
-s	Boogiepop and Others	2019	7.0	14	6
+s	Boogiepop and Others	2019	7.0	14	7
 s	Boogiepop wa Warawanai	2000	6.9	16	7
 s	Boogye	2018			0
 s	Bookie	2023	7.0	14	9
@@ -43379,7 +43379,7 @@ s	CB Strike	2017	7.2	16	13
 s	CIA	2026	8.4	16	38
 s	CITY THE ANIMATION	2025	8.4	14	20
 s	COBRA	2018	8.2	14	44
-s	CODE GEASS: Rozé da Reconquista	2024	7.8	16	6
+s	CODE GEASS: Rozé da Reconquista	2024	7.8	16	5
 s	COMPASS2.0 ANIMATION PROJECT	2025		14	6
 s	CSI Cyber	2015	6.1	14	8
 s	CSI Miami Casos Reais	2024			1
@@ -43403,7 +43403,7 @@ s	Cacadores de Fantasmas	2004	6.2	10	13
 s	Cacadores de Fugitivos	2025			0
 s	Cacadores de Pitons	2019		L	1
 s	Cacadores de Trolls	2016	8.4	L	18
-s	Cacau - Cacau	2024	5.7		13
+s	Cacau - Cacau	2024	5.9		13
 s	Cachorrinhos do Outro Mundo	2022	8.0	L	2
 s	Cachorro. Vai!	2021	8.5		10
 s	Cachorros Grandes	2020			2
@@ -43416,7 +43416,7 @@ s	Café Minamdang	2022	7.6		5
 s	Café com Aroma de Mulher	2021	7.3	14	7
 s	Caillou	1997	5.4	L	40
 s	Cair em Tentação	2017	7.8	14	7
-s	Caixa de Jogos	1999		L	5
+s	Caixa de Jogos	1999		L	6
 s	Cala a Boca e Assiste Isso	2026		14	0
 s	Calabasas Confidential	2026			2
 s	Caldeirao Com Mion	2021		10	2
@@ -43424,7 +43424,7 @@ s	Caleidoscópio	2023	6.8	16	6
 s	Califado	2020	7.5	16	2
 s	Californication	2007	7.6	18	37
 s	Califórnia em Chamas	2021		10	0
-s	Caligula	2018			6
+s	Caligula	2018			5
 s	Call DiCaprio	2018			2
 s	Call Me By No Name	2025			2
 s	Call Me Kat	2021	6.2	12	10
@@ -43436,15 +43436,15 @@ s	Camaleoes	2009	8.0	12	7
 s	Camden	2024			2
 s	Camera Entre Balas	2025		16	0
 s	Camila	1998			4
-s	Camilo - O Presidente	2009			3
+s	Camilo - O Presidente	2009			2
 s	Caminantes A Trilha do Medo	2020	7.1	16	0
 s	Caminhando Sobre Gelo Fino	2025			3
 s	Caminho das Índias	2009	7.5	12	24
 s	Caminhos do Coração	2007		12	19
 s	Caminhos dos Orixas	2023		10	0
 s	Camp CrunchLabs	2026			0
-s	Campeões do Barbecue	2020	6.1	10	2
-s	Campeões do Sendokai	2013	8.6		4
+s	Campeões do Barbecue	2020	6.1	10	3
+s	Campeões do Sendokai	2013	8.6		3
 s	Campfire Cooking in Another World with My Absurd Skill	2023	8.3	14	16
 s	Can You Hear My Heart	2011			3
 s	Can a Boy Girl Friendship Survive	2025	6.9	14	7
@@ -43492,7 +43492,7 @@ s	Captive: Histórias sobre Reféns	2016		16	2
 s	Capturando seu Assassino As Garotas da Ponte	2025			0
 s	Capture Lover	2020			0
 s	Cara Gente Branca	2017	6.0	16	8
-s	Cara a Cara	1979			14
+s	Cara a Cara	1979			15
 s	Cara a Cara - Yuz Yuze	1976			1
 s	Cara e Coragem	2022	5.5	12	13
 s	Cara e Coroa	1983	6.5		15
@@ -43612,7 +43612,7 @@ s	Castlevania Noturno	2023	7.8	16	9
 s	Casual	2015	6.6	16	7
 s	Casão: Num Jogo Sem Regras	2022		16	0
 s	Cat's Eye	2025		14	6
-s	CatDog	1998	7.1	L	25
+s	CatDog	1998	7.1	L	26
 s	Catalendas			L	0
 s	Catalogo	2025			2
 s	Catarina A Grande	2019	6.7	16	9
@@ -43642,7 +43642,7 @@ s	Caçadores de Bugs	2020	8.2	L	5
 s	Caçadores de Demônios	2023	9.1		24
 s	Caçadores de Naufrágios Austrália	2022		10	0
 s	Caçadores de Relíquias	2010	6.9	10	19
-s	Caçadores de Tempestades	2021			1
+s	Caçadores de Tempestades	2021			0
 s	Caçadores de Veneno	2016		10	0
 s	Cecilia	2021	7.6	14	1
 s	Cela 211	2025	7.4	16	3
@@ -43695,7 +43695,7 @@ s	Channel Zero	2016	7.0	16	9
 s	Chantel e Pedro em Familia	2019		12	0
 s	Chao de Estrelas	2021		16	0
 s	Chaos Child	2017			4
-s	Chaos Dragon	2015	6.7	12	3
+s	Chaos Dragon	2015	6.7	12	4
 s	Chaotic	2006	8.0	L	7
 s	Chapa Quente	2015		14	4
 s	Chaparral	1967	6.7	L	19
@@ -43765,7 +43765,7 @@ s	Chiikawa	2022			49
 s	Chilean Mine Rescue: Race Against Time	2026			2
 s	Chilean Mine Rescue: Race Against Time (2026)	2026			2
 s	Chillin in Another World with Level 2 Super Cheat Powers	2024	7.3	16	9
-s	Chillin in My 30s after Getting Fired from the Demon King's Army	2023	7.5	14	10
+s	Chillin in My 30s after Getting Fired from the Demon King's Army	2023	7.5	14	8
 s	Chimp Crazy	2024	7.0	14	1
 s	Chios School Road	2018	7.1		7
 s	Chip e Potato	2018	8.7	L	5
@@ -43804,7 +43804,7 @@ s	Chuteira Preta	2019			0
 s	Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.	2025			4
 s	Chuva Negra	2023		18	2
 s	Ciao House A Competicao	2023		L	1
-s	Cidadao Brasileiro	2006		L	16
+s	Cidadao Brasileiro	2006		L	15
 s	Cidade Cruel	2017		14	2
 s	Cidade Fantasma: Terror em Montana	2022			1
 s	Cidade Fatal	2021		16	2
@@ -43852,7 +43852,7 @@ s	Cisne Vermelho	2024	7.4	16	4
 s	Citadel	2023	6.9	16	15
 s	Citadel Diana	2024	6.8	16	5
 s	Citadel Honey Bunny	2024	6.7	14	4
-s	Citrus	2018	6.6		11
+s	Citrus	2018	6.6		10
 s	City on a Hill	2019	7.3	16	11
 s	ClaireBell	2025	8.4		5
 s	Clara e o Chuveiro do Tempo	2005		L	1
@@ -43900,7 +43900,7 @@ s	Cocoricó	1996			2
 s	Code 404	2020	6.6	14	3
 s	Code Black	2015	7.8	14	12
 s	Code Geass	2006	8.4	16	35
-s	Code:Breaker	2012	6.9	14	4
+s	Code:Breaker	2012	6.9	14	6
 s	Code:Realize: Sousei no Himegimi	2017			3
 s	Codename Annika	2023	6.4		1
 s	Codex 632	2023		16	1
@@ -44006,7 +44006,7 @@ s	Conexões	2023	6.3	16	4
 s	Conexões de Risco	2022			1
 s	Confeitaria do Terror	2024		12	1
 s	Confidencial - Gizli Sakli	2022			2
-s	Confie em Mim	2022	6.6	14	3
+s	Confie em Mim	2022	6.6	14	2
 s	Confie em Mim O Falso Profeta	2026	7.5	16	5
 s	Confinada	2026	8.0	16	4
 s	Confissoes Diabolicas	2015			1
@@ -44044,7 +44044,7 @@ s	Contagem Regressiva	2025	7.3	18	11
 s	Contagem Regressiva Jake Paul vs Mike Tyson	2024		12	1
 s	Contatos Imediatos Oceania	2023			0
 s	Conte Tudo Para Mim	2022		16	2
-s	Contigo Sim	2021			6
+s	Contigo Sim	2021			7
 s	Contigo, Guerrero	2022		12	0
 s	Contigo,Guerrero	2022		12	0
 s	Continuum	2012	7.5	12	20
@@ -44072,7 +44072,7 @@ s	Cookies de Natal O Desafio	2017			2
 s	Cooking Crush	2023	9.1		2
 s	Cooking Life	2000			3
 s	Cop Craft	2019	6.9	16	5
-s	Copa Rio Vira Latas E O Supermundial	2025		10	1
+s	Copa Rio Vira Latas E O Supermundial	2025		10	0
 s	Copan	2015			0
 s	Copan Websérie	2015			0
 s	Copenhagen Cowboy	2023	6.8	16	2
@@ -44081,7 +44081,7 @@ s	Coppelion	2013	7.1		3
 s	Coppers: Justiça Implacável	2016			1
 s	Coracao Acelerado	2026		12	15
 s	Coracao Alado	1980		12	17
-s	Coracao Negro - Siyah Kalp	2024	8.9		10
+s	Coracao Negro - Siyah Kalp	2024	8.9		8
 s	Coracao Sombrio	2022			3
 s	Coracao Trancado Novo Comeco	2025			0
 s	Coracao de Ferro	2025	5.3	14	10
@@ -44096,7 +44096,7 @@ s	Coração Ferido	2021	8.3		4
 s	Coração Indomável	2013	7.8	14	15
 s	Coração Inimigo	2022	6.5		4
 s	Coração Marcado	2022	7.7	16	5
-s	Coração Negro	2024	8.9		10
+s	Coração Negro	2024	8.9		8
 s	Coração Selvagem - Corazón salvaje	2023	8.8	14	14
 s	Coração Suburbano	2022		12	0
 s	Coração de Estudante	2002		L	22
@@ -44140,7 +44140,7 @@ s	Covert Affairs: Assuntos Confidenciais	2010	6.9	14	18
 s	Cowboy Bebop	1998	8.5	16	24
 s	Cowboy Cartel	2024	7.0	16	1
 s	Coyote	2021	7.8	16	3
-s	Coyote Ragtime Show	2006			3
+s	Coyote Ragtime Show	2006			4
 s	Coyotes	2021	6.2		1
 s	Cozinha Selvagem: O Duelo	2022			1
 s	Cozinha de Alto Nível	2025		L	1
@@ -44188,7 +44188,7 @@ s	Crimes que Viralizaram	2020		14	2
 s	Criminal	2005	8.3	14	734
 s	Criminal Minds	2005	8.3	14	734
 s	Criminal Minds: Beyond Borders	2016	6.9	14	8
-s	Criminal Minds: Suspect Behavior	2011	7.2	14	5
+s	Criminal Minds: Suspect Behavior	2011	7.1	14	6
 s	Criminal: Alemanha	2019	6.9	14	2
 s	Criminal: Espanha	2019	6.6	14	3
 s	Criminal: França	2019	6.8		2
@@ -44237,7 +44237,7 @@ s	Curta Essa com Zac Efron	2020	7.7		3
 s	Curto Circuito	1985	7.1		4
 s	Cuspirei Em Seus Tumulos	2024	7.8	16	4
 s	Custe o que Custar	2026	6.7	16	6
-s	Cute High Earth Defense Club Love	2015			6
+s	Cute High Earth Defense Club Love	2015			9
 s	Cutie Honey	2018			4
 s	Cyberchase: A Corrida do Espaço	2002	7.6	L	23
 s	Cyberpunk: Mercenários	2022	8.5	16	55
@@ -44305,7 +44305,7 @@ s	Dali and the Cocky Prince	2021	7.3		6
 s	Dallas	1978	6.9	12	68
 s	Damages	2007	7.5	16	31
 s	Damas da TV	2013			0
-s	Dame x Prince Anime Caravan	2018			2
+s	Dame x Prince Anime Caravan	2018			3
 s	Damien	2016	6.2	14	3
 s	Damn Envy	2022		16	1
 s	Damnation	2017	6.9	16	2
@@ -44412,10 +44412,10 @@ s	Dead of Summer	2016	5.8		3
 s	Deadbeat	2014	6.7	16	4
 s	Deadloch	2023	6.6	16	6
 s	Deadly Class	2019	7.4	18	7
-s	Deadman Wonderland	2011	7.5	16	9
+s	Deadman Wonderland	2011	7.5	16	8
 s	Deadwind	2018	6.9		7
 s	Deadwood	2004	8.1	18	22
-s	Deaimon Recipe for Happiness	2022	7.6	10	63
+s	Deaimon Recipe for Happiness	2022	7.6	10	7
 s	Dealing with Mikadono Sisters Is a Breeze	2025	7.9	14	9
 s	Dean Potter O Bruxo Sombrio	2026			2
 s	Dear Hyeri	2024			2
@@ -44595,7 +44595,7 @@ s	Deusa dos Golpes	2025		14	1
 s	Deuses Americanos	2017	7.1	16	21
 s	Deuses Egipcios	2023			0
 s	Devil May Cry	2025	8.2	16	26
-s	Devil Survivor 2 The Animation	2013	7.7		5
+s	Devil Survivor 2 The Animation	2013	7.6		5
 s	Devil in Disguise John Wayne Gacy	2025	7.5		8
 s	Devils	2020	7.3	16	4
 s	Devolva me a Vida	2024			4
@@ -44667,7 +44667,7 @@ s	Dinotopia A Terra dos Dinossauros	2002	6.5		3
 s	Diogo Na Cozinha	2025		10	1
 s	Direito de Amar	1987		L	14
 s	Direto pro Inferno	2026	7.8	16	5
-s	Dirk Gently's Holistic Detective Agency	2016	7.7		14
+s	Dirk Gently's Holistic Detective Agency	2016	7.7		12
 s	Dirty John: O Golpe do Amor	2018	6.8	16	8
 s	Dirty Talk A Era Dourada Dos Talk Shows	2026			1
 s	Disclaimer	2024	7.5	16	8
@@ -44754,7 +44754,7 @@ s	Doki	2013	7.8		5
 s	Dokidoki! Precure	2013	7.4		11
 s	Dollar	1974	7.3		32
 s	Dollface	2019	7.0	16	7
-s	Dollhouse	2009	7.2		13
+s	Dollhouse	2009	7.2		14
 s	Dolunay	2017	8.2	12	4
 s	Dom Pixote	1958	6.8	L	12
 s	Domenica Montero	2025	8.2	14	6
@@ -44769,7 +44769,7 @@ s	Don't Give Up!	2019			0
 s	Don't Look Deeper	2020	6.8		3
 s	Dona Beija	1986		14	7
 s	Dona Beja	2026		16	9
-s	Dona Xepa	1977		12	9
+s	Dona Xepa	1977		12	13
 s	Dona de Mim	2025		14	17
 s	Dongjae Entre o Bem e o Mal	2024		14	3
 s	Dont Call Us a Junk Game	2020			1
@@ -44859,7 +44859,7 @@ s	Dragões: Corrida até o Limite	2015	8.4	L	28
 s	Dragões: Equipe de Resgate ‑ Heróis do Céu	2021		L	7
 s	Dragões: Os Nove Reinos	2021	7.7	L	14
 s	Drake & Josh	2004	8.4	10	21
-s	Dramatical Murder	2014	6.2	14	5
+s	Dramatical Murder	2014	6.2	14	4
 s	Draw This, Then Die!	2026			6
 s	Draw This,Then Die!	2026			6
 s	Dream Team	1997			19
@@ -44945,7 +44945,7 @@ s	Ei Arnold!	1996	8.0	L	40
 s	Eikyuu Shounen: Eternal Boys	2022			7
 s	Einstein	1998			35
 s	Eizouken ni wa Te wo Dasu na!	2020			2
-s	El Bronx	2019	7.6	16	4
+s	El Bronx	2019	7.6	16	2
 s	El C.I.D	1990			2
 s	El Chapo	2017	7.5	16	11
 s	El Chema	2016	7.7		8
@@ -45045,7 +45045,7 @@ s	Enemies With Benefits	2026			4
 s	Enemigo Intimo	2018	7.6	16	10
 s	Enfermeira	2023	7.1	16	2
 s	Enfermeira Exorcista	2020	7.3		3
-s	Enfermeiros Uma Nova Era	2018	8.0	12	13
+s	Enfermeiros Uma Nova Era	2018	8.0	12	14
 s	Engage Kiss	2022	6.2	14	10
 s	Engana-me Se Puder	2009	7.9	14	29
 s	Enganos e Mentiras	2020		14	3
@@ -45107,7 +45107,7 @@ s	Escandalo Bem Britanico	2021	6.7		3
 s	Escandalo na Realeza	2024	6.6	16	3
 s	Escape at Dannemora	2018	7.5	16	5
 s	Escola Minerva	2026	7.5	16	10
-s	Escola de Gênios	2018		L	2
+s	Escola de Gênios	2018		L	3
 s	Escola de Magia	2015	7.6	16	252
 s	Escola do Rock	2016	7.2	L	7
 s	Escola dos Romances Proibidos	2024	7.4	16	3
@@ -45134,7 +45134,7 @@ s	Espere um segundo, Harutora-kun (2026)	2026			2
 s	Espere um segundo,Harutora-kun	2026			2
 s	Espere um segundo,Harutora-kun (2026)	2026			2
 s	Espioes da Mafia	2024		16	1
-s	Esplendor	2000		10	10
+s	Esplendor	2000		10	12
 s	Esportes pelo Mundo	2022			1
 s	Esposa em Tempo Integral	2016	7.9	12	5
 s	Espíritos na Escola	2023	7.8	16	16
@@ -45149,7 +45149,7 @@ s	Esquadrão Marte	1993	6.4	L	12
 s	Esquadrão Relâmpago Changeman	1985	8.3	L	11
 s	Esquadrão de Confeiteiros	2021		L	1
 s	Esqueca me se Puder	2021	8.8		6
-s	Esquece Isso!	2012	7.5		4
+s	Esquece Isso!	2012	7.5		5
 s	Esquemas da FIFA	2022	7.0	14	1
 s	Esquiando para o Amor	2025		12	5
 s	Esquilo Sem Grilo	1965	7.6	L	11
@@ -45177,7 +45177,7 @@ s	Estrada de Sangue	2014	6.7	16	4
 s	Estrada para a Felicidade	2021			0
 s	Estrada sem Saída	2022	6.2		2
 s	Estranho Amor	2024			1
-s	Estranho Poder	2023	7.5		6
+s	Estranho Poder	2023	7.5		7
 s	Estranho: Contos de Junji Ito para Noites Intranquilas	2026			6
 s	Estrela da Casa	2024		12	0
 s	Estrela fascinante Patrine	1990			4
@@ -45465,7 +45465,7 @@ s	Fire Force	2019	8.3	16	10
 s	Fired on Mars	2023	7.1		4
 s	Firefighter Daigo Rescuer in Orange	2023		14	9
 s	Fireflies	2004			3
-s	Firefly	2002	8.4	12	18
+s	Firefly	2002	8.4	12	22
 s	Firefly Wedding (2026)	2026	9.0	16	27
 s	First Love	2022	8.1	16	6
 s	First Note of Love	2024			2
@@ -45691,7 +45691,7 @@ s	Gang War Pusher Street	2025			1
 s	Gangland Undercover Motoqueiros do Crime	2015	7.5		2
 s	Gangnam Beauty	2018	7.4	14	7
 s	Gangs of London	2020	7.8	16	18
-s	Gangsta.	2015	7.3	16	7
+s	Gangsta.	2015	7.3	16	6
 s	Gangues da Galicia	2024	6.8	16	5
 s	Gangues de Londres	2020	7.8	16	18
 s	Gangues de Oslo	2023	7.0		2
@@ -45731,7 +45731,7 @@ s	Gatos de Rua,de Ricky Gervais	2026	7.7	16	6
 s	Gatunas	2019	7.6	14	4
 s	Gavan Infinity	2026			1
 s	Gavião Arqueiro	2021	7.8	14	20
-s	GeGeGe no Kitaro	2018	7.1		16
+s	GeGeGe no Kitaro	2018	7.1		17
 s	Gecko's Garage	2015			1
 s	Geek Girl	2024	7.1	10	4
 s	Gekidol	2021			4
@@ -45868,7 +45868,7 @@ s	Goodbye, Lara	2026	7.5		8
 s	Goodbye,Lara	2026	7.5		8
 s	Goop: Muito Além do Prazer	2021	6.7	16	1
 s	Goosebumps	1995	8.0	10	23
-s	Goosebumps: O Desaparecimento	2025	7.0	14	7
+s	Goosebumps: O Desaparecimento	2025	7.0	14	6
 s	Gordon Ramsay Servico Secreto	2025			2
 s	Gosick	2011	7.9	16	10
 s	Gossip Girl	2007	8.1	14	64
@@ -45878,7 +45878,7 @@ s	Gotas Divinas	2023	7.5	14	7
 s	Gotham	2014	7.6	16	59
 s	Gotham Knights: A Série	2023	6.7	14	5
 s	Goulag Uma Historia dos Campos de Concentracao Sovieticos	2020			1
-s	Grace	2021	6.8		16
+s	Grace	2021	6.8		14
 s	Grace and Frankie	2015	7.7	14	26
 s	Grachi	2011	8.3	10	15
 s	Grag Hearts Drag	2023		14	0
@@ -45909,7 +45909,7 @@ s	Grease: Rise of the Pink Ladies	2023	6.2	14	5
 s	Great News	2017	6.7		8
 s	Great Pretender	2020	7.5	16	16
 s	Great Teacher Onizuka	1999	8.4		21
-s	Green Green	2003	5.4		3
+s	Green Green	2003	5.4		4
 s	Greenhouse Academy	2017	7.3		7
 s	Greenleaf	2016	7.1	14	17
 s	Gremlins: Segredos dos Mogwai	2023	8.4	L	12
@@ -45976,13 +45976,13 @@ s	Gurazeni Money Pitch	2018			4
 s	Gurren Lagann	2007	8.2		23
 s	Gus: O Pequeno Cavaleiro	2021		L	11
 s	Gutiérrez Contra o Crime	2026	9.4		2
-s	Guyver The Bioboosted Armor	2005		L	6
+s	Guyver The Bioboosted Armor	2005		L	7
 s	Gwed	2024			2
 s	Gyakuten Saiban	2016	6.8	12	20
 s	Gyeongseong Creature	2023	7.9	16	10
 s	Gypsy	2017	6.6	14	4
 s	Gêmeas Trans: Uma Nova Vida	2023		12	0
-s	Gêmeas: Mórbida Semelhança	2023	6.2	16	5
+s	Gêmeas: Mórbida Semelhança	2023	6.2	16	4
 s	Gêmeos	2021		L	4
 s	Gênesis	2021	8.1	14	35
 s	Gótico Americano	1995	7.4	14	5
@@ -46025,7 +46025,7 @@ s	Hakuoki Demon of the Fleeting Blossom	2022			2
 s	Hal and Harper	2025			3
 s	Halloween of Car City	2020			0
 s	Halo	2022	8.2	16	25
-s	Halo 4 Em Direcao ao Amanhecer	2012	7.0		5
+s	Halo 4 Em Direcao ao Amanhecer	2012	7.0		6
 s	Halt and Catch Fire	2014	7.9	14	16
 s	Hamatora	2014	6.5		6
 s	Hana Kimi	2026	7.9	14	35
@@ -46040,7 +46040,7 @@ s	Handa-kun	2016	7.9	12	3
 s	Hands off Sawaranaide Kotesashi kun	2025	7.7		7
 s	Handsome Siblings	2020	7.8	16	5
 s	Handyman Saitou in another world	2023	7.1	16	7
-s	Hangyakusei Million Arthur	2018			9
+s	Hangyakusei Million Arthur	2018			12
 s	Hanna	2019	7.4	16	12
 s	Hannah Montana	2006	7.1	L	32
 s	Hannibal	2013	8.3	18	52
@@ -46098,7 +46098,7 @@ s	Heartstopper	2022	8.6	12	14
 s	Heated Rivalry	2025	8.7	16	18
 s	Heaven	1996	6.5	12	21
 s	Heaven Officials Blessing	2020	8.1	16	7
-s	Heaven's Lost Property	2009	7.5	16	9
+s	Heaven's Lost Property	2009	7.5	16	10
 s	Hebe	1966			5
 s	Hebe: Um Brinde à Vida	2022		L	1
 s	Heels	2021	7.4	16	5
@@ -46162,7 +46162,7 @@ s	Hey Duggee	2014	8.3	L	24
 s	Hibike Euphonium	2015	8.0	12	28
 s	Hicran	2022			3
 s	Hidamari Sketch	2007			17
-s	Hidan No Aria	2011	7.3		4
+s	Hidan No Aria	2011	7.3		6
 s	Hierarchy	2024	7.7	14	5
 s	Hierarquia	2022	7.0	16	4
 s	High Cookie	2023	8.0		4
@@ -46171,7 +46171,7 @@ s	High Guardian Spice	2021			1
 s	High School DxD	2012	8.5	16	40
 s	High School Musical: A Série: O Musical	2019	8.0	10	14
 s	High School Musical: A Série: O Musical: Cante Com A Gente	2019		10	0
-s	High School of the Dead	2010	8.1	16	16
+s	High School of the Dead	2010	8.1	16	15
 s	High Score	2011			2
 s	High: Confissões de uma Traficante	2021		16	1
 s	Highlander: A Série	1992	7.4		30
@@ -46203,7 +46203,7 @@ s	Historico Criminal	2024	6.5	16	15
 s	História de Amor	1995		12	31
 s	História de um Crime: Colmenares	2019	7.3		2
 s	Histórias Maravilhosas	2020	7.3	12	7
-s	Histórias Misteriosas	2000		14	5
+s	Histórias Misteriosas	2000		14	6
 s	Histórias Quase Verdadeiras	2023		12	1
 s	Histórias da Quarentena	2021			0
 s	Histórias de Fantasmas	2000	8.2	16	17
@@ -46254,14 +46254,14 @@ s	Homens Apaixonados	2024			3
 s	Homens Da Montanha Franco Atirador	2022			0
 s	Homens Sem Lei	2025			0
 s	Homens Trabalhando	2012	6.7		8
-s	Homens com Missão	2015	7.4	12	138
+s	Homens com Missão	2015	7.3	12	122
 s	Homens da Lei: Bass Reeves	2023	7.0	16	7
 s	Homens da Montanha	2012	6.5	10	14
 s	Homens de Verdade	2025	6.7	16	3
 s	Homens de uma Certa Idade	2009	7.7		7
 s	Homens do Gelo	2012		14	1
 s	Homens e Deuses	2020			2
-s	Homens?	2015	7.4	12	138
+s	Homens?	2015	7.3	12	122
 s	Hometown Cha Cha Cha	2021	8.2	16	10
 s	Hometown Romance	2026			2
 s	Homicidio	1993	8.1		41
@@ -46270,7 +46270,7 @@ s	Homicidio nos EUA Laci Peterson	2024	7.2	12	1
 s	Honey Lemon Soda	2025	8.0	12	11
 s	Hong A Infiltrada	2026	8.4	12	7
 s	Honor Thy Mother	2026			2
-s	Honour	2026			3
+s	Honour	2026			4
 s	Honra dos Reis	2024			2
 s	Honra e Amor	2023	6.5		4
 s	Hooligan	2025	6.9	16	2
@@ -46312,7 +46312,7 @@ s	Hotel del Luna	2019	8.5		8
 s	Hotelier	2007		14	1
 s	Hotéis Incríveis	2014			0
 s	Houdini	2016	6.5		5
-s	Houkago Saikoro Club	2019			9
+s	Houkago Saikoro Club	2019			6
 s	House Of Cards	2013	8.0	16	50
 s	House of Guinness	2025	7.5	16	6
 s	House of Hammer: Segredos de Família	2022	6.7	16	2
@@ -46335,7 +46335,7 @@ s	How To Survive Being Single	2020	7.1	16	2
 s	How To with John Wilson	2020	8.1	18	4
 s	Howards End	2017	6.9	14	3
 s	Hořící keř	2013	7.2		2
-s	Hudson & Rex	2019	8.4	14	52
+s	Hudson & Rex	2019	8.4	14	47
 s	Hulk Hogan O Lutador	2026	7.5	16	4
 s	Hulk e os Agentes de S.M.A.S.H	2013	6.2	L	11
 s	Hulk e os Agentes de SMASH	2013	6.2	L	11
@@ -46347,7 +46347,7 @@ s	Hunter Street	2017	7.5	10	6
 s	Hunter x Hunter	2011	8.7	14	72
 s	Hush	2020			4
 s	Hyakusho Kizoku Aristocracia Rural	2023		L	4
-s	Hyouka	2012	8.1	10	14
+s	Hyouka	2012	8.1	10	13
 s	Hyperdrive	2006	6.5		3
 s	Hysteria	2024	6.9	16	3
 s	I Am Ilary	2025		16	0
@@ -46478,11 +46478,11 @@ s	In Your Heart	2019			4
 s	In the Clear Moonlit Dusk	2026	8.2	12	7
 s	In the Dark	2019	7.7	14	12
 s	In the Land of Leadale	2022	7.0	14	6
-s	In the Long Run	2018		12	5
+s	In the Long Run	2018		12	3
 s	Inacreditavel	2019	7.9	16	8
 s	Inacreditavel com Dan Aykroyd	2023	6.6		8
 s	Inapropriados Para O Trabalho	2026	6.7	16	9
-s	Inari,Konkon,Koi Iroha.	2014		10	4
+s	Inari,Konkon,Koi Iroha.	2014		10	5
 s	Incondicional	2026	6.6	14	2
 s	Inconveniencias Historicas	2022			0
 s	India Catalina	2020			4
@@ -46511,7 +46511,7 @@ s	Infiniti	2022	7.0		2
 s	Infiéis	2021			1
 s	Influencia Mortal Assassinatos Nas Redes Sociais	2024			0
 s	Influenciadores Offline	2023			1
-s	Infâmia	2023			2
+s	Infâmia	2023			3
 s	Infância	2023		L	12
 s	Ingovernável	2017	6.8		5
 s	Ingress The Animation	2018	6.2	16	3
@@ -46561,7 +46561,7 @@ s	Intimidade	2022	6.6		2
 s	Intimidade Fatal	2020			0
 s	Into The Badlands	2015	7.6	16	26
 s	Into the Dark	2018			1
-s	Inu to Hasami wa Tsukaiyou	2013	6.3		1
+s	Inu to Hasami wa Tsukaiyou	2013	6.3		2
 s	Inu x Boku SS	2012	7.8	12	5
 s	InuYasha	2000	8.6	12	44
 s	Inugami-san To Nekoyama-san	2014			2
@@ -46651,7 +46651,7 @@ s	I★Chu: Halfway Through the Idol	2021			6
 s	JAŸ-Z in 8	2026			2
 s	JFK One Day In America	2023			4
 s	JK	2006		14	10
-s	JONAS	2009	7.4	L	8
+s	JONAS	2009	7.4	L	9
 s	Ja Chegamos?	2010	6.6	14	13
 s	Jaadugar: A Witch in Mongolia	2026	8.1	14	9
 s	Jack Frost	2023	6.8		2
@@ -46798,7 +46798,7 @@ s	Julie e os Fantasmas	2020	8.4	L	4
 s	Juliet no Internato	2018	8.1	12	8
 s	Julio & Verne	2017			0
 s	Jun e Jun	2023	7.7		2
-s	Jungle Pilot	2019		16	1
+s	Jungle Pilot	2019		16	0
 s	Junior Bake off Brasil	2018			1
 s	Junji Ito: Histórias Macabras do Japão	2023	7.0	16	10
 s	Junjo Romantica	2008	6.6	12	8
@@ -46827,7 +46827,7 @@ s	Juuni Taisen	2017	7.5	16	6
 s	Juvenile Justice	2022	8.1	16	7
 s	Juventude Masculina	2023	8.2		3
 s	Juventude Roubada Por Dentro da Seita Universitaria	2023	7.6	16	2
-s	Jyuushin Enbu: Hero Tales	2007			3
+s	Jyuushin Enbu: Hero Tales	2007			4
 s	Já Que Você Nunca Foi Minha	2025			0
 s	K Everything A CNN Original Series	2026			1
 s	K-ON!	2009	8.0	12	22
@@ -46861,7 +46861,7 @@ s	Kakegurui Bet	2025	6.7	16	6
 s	Kakegurui Twin	2022	7.4	14	5
 s	Kakkou no Iinazuke	2022	7.0	14	16
 s	Kakumeiki Valvrave	2013	6.7		8
-s	Kakuriyo -Bed & Breakfast for Spirits-	2018	8.3	12	7
+s	Kakuriyo -Bed & Breakfast for Spirits-	2018	8.3	12	8
 s	Kakushigoto	2020	7.8		7
 s	Kakushite Makina san	2025		18	8
 s	Kakushite! Makina-san!!	2025		18	8
@@ -46896,7 +46896,7 @@ s	Karekano	1998	7.9		13
 s	Karin	2005			5
 s	Karna The Guardian	2026		14	1
 s	Karneval	2013			3
-s	Kashimashi: Girl Meets Girl	2006			3
+s	Kashimashi: Girl Meets Girl	2006			4
 s	Katana Maidens ~ Toji No Miko	2018			6
 s	Katla	2021	6.9	16	4
 s	Katrina Depois da Tempestade	2025	6.6	16	2
@@ -46953,7 +46953,7 @@ s	Kimberley O Oeste Selvagem da Australia	2025			0
 s	Kimi Ga Aruji De Shitsuji Ga Ore De	2008		18	3
 s	Kimi to Boku	2011		10	8
 s	Kimi wa Houkago Insomnia	2023	7.7		7
-s	KimiKiss Pure Rouge	2007			5
+s	KimiKiss Pure Rouge	2007			6
 s	Kin	2021	7.6		10
 s	Kindaichi: O Jovem Detetive	2022	6.9	14	4
 s	Kindred: Segredos e Raízes	2022	6.4		3
@@ -46993,9 +46993,9 @@ s	Knuckles	2024	7.3	L	9
 s	Koala Man	2023	6.6	14	2
 s	Kobato.	2009			6
 s	Kochouki: Wakaki Nobunaga	2019			4
-s	Kodomo No Jikan	2007	6.9		6
+s	Kodomo No Jikan	2007	6.8		7
 s	Koi Kaze	2004		16	4
-s	Koi To Uso	2017	6.7		4
+s	Koi To Uso	2017	6.6		4
 s	Koi wa Sekai Seifuku no Ato de	2022	7.3	14	7
 s	Koibito Miman	2025			1
 s	Kokoro Connect	2012	6.8		7
@@ -47026,7 +47026,7 @@ s	Kumo desu ga, Nani ka?	2021	7.8	14	8
 s	Kumo desu ga,Nani ka?	2021	7.8	14	8
 s	Kun by Aguero	2025			1
 s	Kun por Agüero	2025			1
-s	Kung Fu	1993	6.6		18
+s	Kung Fu	1993	6.6		19
 s	Kung Fu Panda: Lendas do Dragão Guerreiro	2011	7.4	L	25
 s	Kung Fu Panda: O Cavaleiro Dragão	2022	7.5	L	16
 s	Kung Fu Wa	2021		L	3
@@ -47042,10 +47042,10 @@ s	Kururi Whos in Love with me	2024			2
 s	Kusunokis Garden of Gods	2026		14	24
 s	Kyle XY	2006	7.0	14	11
 s	Kylie	2026	8.6	12	3
-s	Kyoshiro to Towa no Sora	2007			3
+s	Kyoshiro to Towa no Sora	2007			4
 s	Kyou Kara Maou!	2004			21
 s	Kyoukai Senjou no Horizon	2011			13
-s	Kyoukai no Rinne	2015			13
+s	Kyoukai no Rinne	2015			16
 s	Kyousou Giga	2013			4
 s	Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara	2021	7.6	14	5
 s	L Pop	2023		10	1
@@ -47196,7 +47196,7 @@ s	Leopard Skin	2022	6.5	16	2
 s	Les Miserables	2007			7
 s	Less Than Evil	2018			4
 s	Let Love	2023		12	1
-s	Let Me Check the Walkthrough First	2022		14	3
+s	Let Me Check the Walkthrough First	2022		14	4
 s	Let This Grieving Soul Retire	2024	6.6	14	13
 s	Let's End Our Friendship Now	2026			1
 s	Let's Go Karaoke!	2025		10	2
@@ -47387,7 +47387,7 @@ s	Ludmilla: Rainha da Favela	2021		14	0
 s	Ludwig	2024	7.8		26
 s	Lugar de Mulher	2019		16	0
 s	Luimelia	2020	6.4		3
-s	Luke Cage	2016	6.9	16	16
+s	Luke Cage	2016	6.9	16	17
 s	Luluzinha	1995	7.6	L	4
 s	Luna Nera	2020	7.6	16	3
 s	Luna Park	2021	6.5	16	2
@@ -47516,14 +47516,14 @@ s	Mais Top	2024		16	2
 s	Mais Um Final Feliz	2016			2
 s	Major	2004	8.2		29
 s	Makanai: Cozinhando para A Casa Maiko	2023	7.7	12	4
-s	Makeine: Too Many Losing Heroines!	2024	8.1	14	14
+s	Makeine: Too Many Losing Heroines!	2024	8.1	14	12
 s	Making the Cut	2020	5.9	12	4
 s	Mako Mermaids	2013	7.6	10	10
 s	Mal de Amores	2026	8.1	16	5
 s	Mal de Família	2022	7.5	16	9
 s	MalaYerba	2021	7.2	16	1
 s	Malcolm	2000	8.5	L	54
-s	Malcolm A Vida Continua Injusta	2026	8.0	14	10
+s	Malcolm A Vida Continua Injusta	2026	7.9	14	10
 s	Malcolm In The Middle	2000	8.5	L	54
 s	Maldade	2025	6.4	18	4
 s	Maldicoes da Historia	2024			0
@@ -47562,7 +47562,7 @@ s	Mandacaru	1997			18
 s	Mandamentos de um Serial Killer	2018	6.7	16	2
 s	Mandou Bem: Desafio dos Confeiteiros	2023		L	2
 s	Mangaka-san to Assistant-san to	2014	7.6	14	5
-s	Mangirl!	2013		10	3
+s	Mangirl!	2013		10	4
 s	Manhattan	2014	7.0	14	8
 s	Manhunt	2017	7.6	14	12
 s	Manhunt Unabomber	2017	7.6	14	12
@@ -47627,7 +47627,7 @@ s	Marimar	1994	7.0	10	15
 s	Marinheiro de Guerra	2023	7.7	16	3
 s	Mario Fofoca	1983		10	1
 s	Marisol	2002			9
-s	Mark Rober: CrunchLabs	2025			1
+s	Mark Rober: CrunchLabs	2025			2
 s	Mark Ronson e a Evolução do Som	2021		14	2
 s	Marlon	2017	6.7		5
 s	Marmalade Boy	1994	7.0		14
@@ -47637,19 +47637,19 @@ s	Marshals Uma Historia de Yellowstone	2026	8.0	16	81
 s	Marshals: Uma História de Yellowstone	2026	8.0	16	81
 s	Marte	2016	7.1	12	6
 s	Martelo	2023		L	0
-s	Martial Master	2020			64
+s	Martial Master	2020			78
 s	Marvel - Agente Carter	2015	7.5	12	13
 s	Marvel - Demolidor	2015	8.2	18	38
 s	Marvel - Guardiões da Galáxia	2015	7.2	10	23
 s	Marvel - Jessica Jones	2015	7.5	16	23
-s	Marvel - Luke Cage	2016	6.9	16	16
+s	Marvel - Luke Cage	2016	6.9	16	17
 s	Marvel - O Justiceiro	2017	8.2	18	49
 s	Marvel - Os Defensores	2017	7.0	18	9
 s	Marvel - Punho de Ferro	2017	6.5	18	4
 s	Marvel 616	2020	7.4	L	3
 s	Marvel Anime Wolverine	2011	6.5	12	10
 s	Marvel Disk Wars: The Avengers	2014	6.8		9
-s	Marvel Luke Cage	2016	6.9	16	16
+s	Marvel Luke Cage	2016	6.9	16	17
 s	Marvel Studios - Avante	2021	7.2	14	9
 s	Marvel Studios Legends	2021	7.4	14	15
 s	Marvel Zombies	2025	7.3	16	12
@@ -47720,7 +47720,7 @@ s	Mau Ladrao Bom Ladrao	2017			5
 s	Mauá: O Primeiro Gigante	2019			0
 s	Mavera Hace Ahmed Yesevi	2021			1
 s	MaveriX	2022	7.1		1
-s	Mawaru Penguindrum	2011	8.0		12
+s	Mawaru Penguindrum	2011	8.0		9
 s	Max Verstappen Anatomia de um Campeao	2023			1
 s	Maxima	2024	6.8	12	3
 s	Maxton Hall O Mundo Entre Nos	2024	8.3	16	17
@@ -47728,8 +47728,8 @@ s	May I Ask for One Final Thing	2025	7.6	16	5
 s	Maya e os 3 Guerreiros	2021	7.9	10	8
 s	Mayans M.C.	2018	8.0	16	22
 s	Mayans MC	2018	8.0	16	22
-s	Mayoi Neko Overrun	2010			6
-s	Mayonaka no Occult Koumuin	2019	6.3	12	4
+s	Mayoi Neko Overrun	2010			5
+s	Mayonaka no Occult Koumuin	2019	6.3	12	5
 s	Mazatlan Shore	2026		16	1
 s	Mazinkaiser	2011			3
 s	Maçonaria - Segredos Revelados	2017			0
@@ -48164,7 +48164,7 @@ s	Motos Sagradas	2016			0
 s	Mouse	2006	6.8	L	43
 s	Move	2020	6.9		1
 s	Movidos a Diesel	2016		10	1
-s	Movimento Mágico	2026			1
+s	Movimento Mágico	2026			2
 s	Moyashimon	2007			5
 s	Mr Heart	2024			0
 s	Mr Inbetween	2018	8.3	16	11
@@ -48196,14 +48196,14 @@ s	Mudanças Climáticas: Ade na Linha de Frente	2021			0
 s	Mugen No Ryvius	1999			8
 s	Mugyutto Black Clover	2019			2
 s	Muhtesem Yuzyil Seculo Magnifico	2011	8.1		29
-s	Muhyo & Roji's Bureau of Supernatural Investigation	2018			4
+s	Muhyo & Roji's Bureau of Supernatural Investigation	2018			6
 s	Muito Assustador Mesmo	2023			3
 s	Muito Esforcado	2025	7.3	16	7
 s	Muito Fofos	2011			2
 s	Mujhe Pyaar Hua Tha	2022			0
 s	Mulher	1998		14	8
 s	Mulher Arte	2014			0
-s	Mulher Forte,Do Bong-soon	2017	8.1		11
+s	Mulher Forte,Do Bong-soon	2017	8.1		9
 s	Mulher-Hulk: Defensora de Heróis	2022	6.0	14	12
 s	Mulheres Apaixonadas	2003	6.2	14	18
 s	Mulheres Imperfeitas	2026	6.2	16	7
@@ -48255,7 +48255,7 @@ s	My Beautiful Man	2021	7.1		3
 s	My Bias, My Boss	2026	8.3		7
 s	My Bias,My Boss	2026	8.3		7
 s	My Boss	2015			2
-s	My Brilliant Friend	2018	8.1	18	17
+s	My Brilliant Friend	2018	8.1	18	16
 s	My Daemon	2023	8.0	16	6
 s	My Dearest	2012			3
 s	My Dress Up Darling	2022	8.4	14	46
@@ -48430,7 +48430,7 @@ s	Neagley: Detetive Particular	2026	8.0	16	26
 s	Neanderthal Apocalypse	2015			1
 s	Necaxa	2025			3
 s	Necronomico and the Cosmic Horror Show	2025		14	4
-s	Needless	2009			6
+s	Needless	2009			7
 s	Negative Positive Angler	2024		14	7
 s	Negociador	2023	6.5	14	1
 s	Negocio de Amor da Sra Bilionaria	2025			0
@@ -48451,7 +48451,7 @@ s	Nevasca de Natal	2022	6.7		3
 s	New Girl	2011	7.4	14	49
 s	New Kids in the Wild	2021			0
 s	New Mexico	2019	7.7	14	13
-s	New PANTY & STOCKING with GARTERBELT	2025	8.6	16	11
+s	New PANTY & STOCKING with GARTERBELT	2025	8.6	16	12
 s	New Saga	2025	7.1		8
 s	News Anchor	2025		14	3
 s	Newtopia	2025	8.0	18	7
@@ -48509,7 +48509,7 @@ s	No Corre Partiu Entrega	2023		10	2
 s	No Escape	2023	7.1	14	4
 s	No Escuro	2019	7.7	14	12
 s	No Fogo Com Bronze	2026			0
-s	No Game,No Life	2014	8.0	12	12
+s	No Game,No Life	2014	8.0	12	10
 s	No Limite	2000		12	1
 s	No Limite da Lei	2026		16	4
 s	No Man's Land	2020	6.8	16	6
@@ -48531,7 +48531,7 @@ s	Nobody Knows	2022			3
 s	Nobunaga Teachers Young Bride	2019	7.7	18	3
 s	Nobunagun	2014			4
 s	Nodame Cantabile	2007	7.9	14	13
-s	Nogizaka Haruka No Himitsu	2008			5
+s	Nogizaka Haruka No Himitsu	2008			6
 s	Nois na Firma	2022		12	0
 s	Noite Adentro	2020	7.1	14	4
 s	Noite de Verao	2024	6.4	12	2
@@ -48653,7 +48653,7 @@ s	O Amor e Melhor na Segunda Vez	2024	7.7		3
 s	O Anjo do Amor	2019	8.0	14	5
 s	O Anti Heroi	2024		12	6
 s	O Anuário de Darwin	2019			1
-s	O Aprendiz – Edicao ONE Championship: Cerebro e Forca	2021		12	1
+s	O Aprendiz – Edicao ONE Championship: Cerebro e Forca	2021		12	0
 s	O Aquario	2019			0
 s	O Aroma do Tempo	2023			6
 s	O Arsenal dos Espiões	2021	6.9	18	5
@@ -48680,7 +48680,7 @@ s	O Avatar do Rei	2019	7.9		6
 s	O Baba	2023	8.3		3
 s	O Batman	2004	8.0		38
 s	O Bebê	2022	6.1	16	3
-s	O Bebê de Rosemary	2014	5.8	14	3
+s	O Bebê de Rosemary	2014	5.8	14	2
 s	O Beijo da Sereia	2026	7.4		4
 s	O Beijo do Destino	2022	7.9		4
 s	O Beijo do Duende	2020	5.8		2
@@ -48733,7 +48733,7 @@ s	O Cerco de Waco	2023	7.1	16	1
 s	O Chefe da Casa	2016	6.7	12	20
 s	O Chefinho: De Volta ao Berço	2022	7.4	L	7
 s	O Chefinho: De Volta aos Negócios	2018	7.1	L	14
-s	O Ciclo Pendragon: A Ascensão de Merlin	2026	7.8		12
+s	O Ciclo Pendragon: A Ascensão de Merlin	2026	7.8		15
 s	O Circo da Paixao	2023			2
 s	O Circulo	2019	8.9		4
 s	O Circulo - Halka	2019	8.9		4
@@ -49082,14 +49082,14 @@ s	O Promotor Militar Dobermann	2022	7.4	16	5
 s	O Proximo Empreendedor com Gordon Ramsay	2023		L	3
 s	O Proximo Grande Chef	2022			0
 s	O Príncipe Dragão	2018	8.2	12	21
-s	O Príncipe Pervertido e o Gato Inexpressivo	2013	7.1	12	6
+s	O Príncipe Pervertido e o Gato Inexpressivo	2013	7.1	12	7
 s	O Príncipe da Cobertura	2012	7.5		5
-s	O Próximo Príncipe	2025	8.4		8
+s	O Próximo Príncipe	2025	8.4		6
 s	O Píer	2025	7.1	16	5
 s	O Quarterback da Cocaina Jogando para o Cartel	2025			2
 s	O Quarto Oculto	2006	7.7		5
 s	O Que Estou Comendo Com Zooey Deschanel	2023			1
-s	O Que Fazemos nas Sombras	2019	8.0	16	33
+s	O Que Fazemos nas Sombras	2019	8.0	16	1194
 s	O Que Ha de Novo Scooby-Doo	2002	7.8	L	19
 s	O Que Houve com a Secretaria Kim	2018	8.3	14	11
 s	O Que Há de Novo, Scooby-Doo?	2002	7.8	L	19
@@ -49373,7 +49373,7 @@ s	One More Happy Ending	2016			2
 s	One Piece	1999	8.8	14	317
 s	One Piece Log Fish Man Island Saga	1999	8.8	14	317
 s	One Punch Man	2015	8.4	12	37
-s	One Room	2017	5.8		8
+s	One Room	2017	5.8		9
 s	One Room Angel	2023			1
 s	One Spring Night	2019	8.0	12	7
 s	One Strange Rock	2018	7.7	14	4
@@ -49381,8 +49381,8 @@ s	One Tree Hill: Lances da Vida	2003	7.8	14	105
 s	One of Us Is Lying	2021	7.2	16	8
 s	One the Woman	2021	7.3		4
 s	Onee-chan ga Kita	2014	5.0	12	4
-s	Onegai Twins	2003	7.0		5
-s	Onigiri	2016			3
+s	Onegai Twins	2003	7.0		6
+s	Onigiri	2016			4
 s	Onii-chan Dakedo Ai sae Areba Kankei nai yo ne	2012	6.6		6
 s	Onimusha	2023	7.5	16	4
 s	Onisciente	2020	6.4	16	1
@@ -49393,9 +49393,9 @@ s	Only Murders in the Building	2021	8.4	16	39
 s	Onmyo Kaiten Re Birth Verse	2025			4
 s	Onmyoji	2023	6.5	16	4
 s	Onyx Equinox	2020	8.3	18	1
-s	Ookami Shoujo to Kuro Ouji	2014	6.9	10	5
+s	Ookami Shoujo to Kuro Ouji	2014	6.9	10	6
 s	Ookami-san to Shichinin no Nakama-tachi	2010	5.6	12	5
-s	Ookiku Furikabutte	2007	8.2		12
+s	Ookiku Furikabutte	2007	8.2		13
 s	Oops! Mysterious Sounds	2026			4
 s	Operacao Alto Mar Estados Unidos	2024			0
 s	Operacao Big Hero	2017	7.5	L	23
@@ -49411,7 +49411,7 @@ s	Operacao Policial	2012		16	1
 s	Operacao Romeo	2015		18	3
 s	Operacao Transplante	2025		12	0
 s	Operacao Tyrant	2024	7.2		4
-s	Operación triunfo	2001	6.7		18
+s	Operación triunfo	2001	6.7		20
 s	Operation Sabre	2024			2
 s	Operação Berlim	2016	7.2	18	10
 s	Operação Big Hero: A Série	2017	7.5	L	23
@@ -49491,7 +49491,7 @@ s	Os Caras do Telemarketing	2023	7.0	16	2
 s	Os Casagrandes	2019	7.6	L	12
 s	Os Casos de Harry Hole	2026	7.3	18	9
 s	Os Casos do Inspetor Vrenko	2021			1
-s	Os Cavaleiros de Castelcorvo	2020		L	1
+s	Os Cavaleiros de Castelcorvo	2020		L	2
 s	Os Cavaleiros do Zodiaco	1986	8.5	12	29
 s	Os Cavaleiros do Zodiaco Alma de Ouro	2015	8.0	12	7
 s	Os Cavaleiros do Zodiaco Omega	2012	7.9	12	29
@@ -49567,7 +49567,7 @@ s	Os Mensageiros	2015	6.3	14	4
 s	Os Mestres da Fritura	2021		L	0
 s	Os Miseraveis	2018	7.3	14	6
 s	Os Misterios do Lago Erie	2018			1
-s	Os Misteriosos Raptos em Iowa	2024		16	1
+s	Os Misteriosos Raptos em Iowa	2024		16	0
 s	Os Mistérios da Civilizacao Maia	2019		12	1
 s	Os Mistérios de Frajola e Piu-Piu	1995	6.5	L	17
 s	Os Mistérios de Rock Island	2022			0
@@ -49675,7 +49675,7 @@ s	Ouro Verde	2017		16	18
 s	Ouro e Sangue	2015	8.0	16	3
 s	Ousama Ranking	2021	8.1	14	36
 s	Ousama Ranking: Yuuki no Takarabako	2023	7.0	14	8
-s	Outbreak	2020	7.2	14	4
+s	Outbreak	2020	7.2	14	3
 s	Outbreak Company	2013	6.6		5
 s	Outcast	2016	7.1	16	7
 s	Outer Banks	2020	8.2	16	36
@@ -49861,7 +49861,7 @@ s	Pequena Travessa	2002		L	7
 s	Pequenas Empresas & Grandes Negocios	1988		L	1
 s	Pequenas Empresas, Grandes Sonhos	2021		L	0
 s	Pequenas Empresas,Grandes Sonhos	2021		L	0
-s	Pequenas Histórias com Bluey	2024	8.2		6
+s	Pequenas Histórias com Bluey	2024	8.2		7
 s	Pequenas Maravilhas	2020	8.0	10	4
 s	Pequeno Gigante	2020		16	0
 s	Pequeno Principe e Seus Amigos	2023			3
@@ -49969,7 +49969,7 @@ s	Pit Babe	2023	8.0		6
 s	Pit Stop	2021	6.9		3
 s	Pivoting: Rodando Na Vida	2022	6.0		3
 s	Plan B	2023	5.9		6
-s	Planet With	2018			3
+s	Planet With	2018			4
 s	Planeta Azul	2001	8.4		5
 s	Planeta Bizarro	2020	4.9		1
 s	Planeta Estranho	2023	6.1	12	5
@@ -50145,7 +50145,7 @@ s	Princesa e General: A Jornada da Heroína	2024			0
 s	Princesas da Prisao	2017			2
 s	Princesinha Sofia	2013	7.2	L	29
 s	Princess Charming	2007			4
-s	Princess Lover!	2009	6.5	18	8
+s	Princess Lover!	2009	6.6	18	8
 s	Princess Principal	2017	7.3	16	5
 s	Prisao de Mentiras	2021			4
 s	Prisao de Mentiras - Mahkum	2021			4
@@ -50221,9 +50221,9 @@ s	Psycho The Lost Tapes of Ed Gein	2023			1
 s	Psycho-Pass	2012	7.8		20
 s	Psychoville	2009	6.9		4
 s	Pucca	2018			3
-s	Puella Magi Madoka Magica	2011	8.1	14	11
+s	Puella Magi Madoka Magica	2011	8.1	14	13
 s	Puffin Rock	2015			5
-s	Pui Pui - Porquinhos com Rodinhas	2021	8.0	L	4
+s	Pui Pui - Porquinhos com Rodinhas	2021	8.0	L	3
 s	Pulso	2025	7.5	14	13
 s	Puniru is a Kawaii Slime	2024	7.6	14	15
 s	Punky a Levada da Breca	1984	7.2	L	14
@@ -50641,10 +50641,10 @@ s	Road Home	2023			4
 s	Road Trip em Duas Rodas Coreia	2021		12	2
 s	Robbie Williams	2023	7.6	16	2
 s	RobiHachi	2019			3
-s	Robin Hood	2006	6.9		13
+s	Robin Hood	2006	6.9		12
 s	RoboCop: The Animated Series	1988	7.2		3
 s	Robogobo	2025		L	14
-s	Robotics;Notes	2012	6.9		7
+s	Robotics;Notes	2012	6.9		9
 s	Robô Sapiens	2017			0
 s	Rock In Rio – A História	2022		L	0
 s	Rock Story	2016		10	14
@@ -50707,7 +50707,7 @@ s	Roupa Suja - Kirli Sepeti -	2023			5
 s	Route 187	2026	6.8	16	3
 s	Royal Crackers	2023	6.0		8
 s	Royal Pains	2009	6.8	12	26
-s	Rozen Maiden	2004	7.8		6
+s	Rozen Maiden	2004	7.8		7
 s	RuPaul's Drag Race Global All Stars	2024		14	6
 s	RuPaul's Drag Race UK	2019	7.1	14	30
 s	RuPaul's Drag Race: All Stars	2012	7.3	14	37
@@ -50788,7 +50788,7 @@ s	STEVE documentario em 2 partes	2024	7.8	14	3
 s	STM Seja Voce Mesma	2023			3
 s	SU da Vida Selvagem	2023			0
 s	SWAT	2017	8.0	14	93
-s	SWORDGAI: The Animation	2018	6.7	16	5
+s	SWORDGAI: The Animation	2018	6.7	16	6
 s	Sabadou com Virginia	2024			0
 s	Saber Marionette J	1996			12
 s	Sabiiro no Armor Reimei	2022			1
@@ -50838,7 +50838,7 @@ s	Sakura Trick	2014	6.1		5
 s	Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru	2015	6.9	16	4
 s	Sala de Aula dos Heróis	2023	7.7	16	5
 s	Sala de Emergencia Casos Bizarros	2022		12	0
-s	Salaryman’s Club	2022	7.4		5
+s	Salaryman’s Club	2022	7.4		6
 s	Salem	2014	7.3	18	10
 s	Salish e Jordan Matter	2026		10	1
 s	Sally: Fisiculturismo e Assassinato	2022	6.7		2
@@ -50883,7 +50883,7 @@ s	Santa Clarita Diet	2017	7.4	16	12
 s	Santa Evita	2022	7.8	14	2
 s	Santiago dos Mares	2020		L	9
 s	Santita	2026		16	2
-s	Santo	1995			4
+s	Santo	1995			3
 s	Santo Forte	2015		14	0
 s	Santo Maldito	2023		16	2
 s	Santos Dumont	2019		14	1
@@ -50918,7 +50918,7 @@ s	Science Fell in Love, So I Tried to Prove it	2020	7.6	14	7
 s	Science Fell in Love,So I Tried to Prove it	2020	7.6	14	7
 s	Scooby Doo Cade Voce	1969	7.8	L	18
 s	Scooby Doo Misterio SA	2010	8.2	L	25
-s	Scooby-Doo e Convidados	2019	8.0	L	15
+s	Scooby-Doo e Convidados	2019	8.0	L	14
 s	Scooby-Doo e Scooby-Loo	1979	7.5	L	20
 s	Scooby-Doo! Mistério S/A	2010	8.2	L	25
 s	Scooby-Doo! Mistério SA	2010	8.2	L	25
@@ -50969,7 +50969,7 @@ s	See	2019	8.1	16	26
 s	See You Tomorrow at the Food Court	2025		10	5
 s	See You in Another Life	2024	7.4		2
 s	See Your Love	2024	8.7		2
-s	Segredo Entre Amigas	2019	8.3	16	2
+s	Segredo Entre Amigas	2019	8.1	16	1
 s	Segredo da Harmonia	2025	7.8		2
 s	Segredos Aereos da Segunda Guerra Mundial	2022			1
 s	Segredos da NASA	2012	7.1	12	2
@@ -51006,7 +51006,7 @@ s	Segurança em Jogo	2018	7.8	16	7
 s	Seguro para Divorciados	2025	6.8		4
 s	Seijo no Maryoku wa Bannou Desu	2021	7.8	12	12
 s	Seiken Gakuin no Makentsukai	2023	7.1		8
-s	Seikon no Qwaser	2010	7.4		17
+s	Seikon no Qwaser	2010	7.5		18
 s	Seinfeld	1989	8.2	12	1420
 s	Seirei Gensouki Spirit Chronicles	2021	8.2	14	16
 s	Seiren	2017	7.8		6
@@ -51117,7 +51117,7 @@ s	Seu Amigao da Vizinhanca Homem Aranha	2025	7.8	12	13
 s	Seu Homem	2025	7.8	12	13
 s	Seu Verbolino	2026		10	0
 s	Seus Amigos e Vizinhos	2025	7.7	16	19
-s	Seus Olhos	2004		12	11
+s	Seus Olhos	2004		12	20
 s	Seven Mortal Sins	2017	6.9	18	12
 s	Sex Appeal	1993		14	3
 s	Sex Atracao Secreta	2020	6.0		4
@@ -51140,7 +51140,7 @@ s	Shadow Beauty	2021	7.6		1
 s	Shadow Love	2025			8
 s	Shadow of Love	2020			1
 s	Shadowhunters: Instrumentos Mortais	2016	7.6	14	22
-s	Shadows House	2021	8.0	12	14
+s	Shadows House	2021	8.0	12	11
 s	Shadowverse Flame	2020			26
 s	Shakespeare Ascensao de um Genio	2023			3
 s	Shaking the Bar	2023		12	0
@@ -51163,7 +51163,7 @@ s	She Would Never Know	2021	7.5	12	4
 s	She the People	2025	4.2	14	4
 s	She-Ra e as Princesas do Poder	2018	8.5	L	16
 s	Sheriff Country	2025	7.3	16	28
-s	Sheriff Labrador	2022			5
+s	Sheriff Labrador	2022			7
 s	Sherlock	2010	8.5	14	249
 s	Sherwood	2022	6.9		5
 s	Shetland	2013	7.5	14	51
@@ -51184,7 +51184,7 @@ s	Shining Vale	2022	7.4	16	4
 s	Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei	2021	7.1	14	9
 s	Shinkon Gattai Godannar	2003			8
 s	Shinkyoku Soukai Polyphonica	2007			4
-s	Shinmai Renkinjutsushi no Tenpo Keiei	2022	6.0		9
+s	Shinmai Renkinjutsushi no Tenpo Keiei	2022	6.0		7
 s	Shinobi no Ittoki	2022	6.1	14	7
 s	Shinrei Tantei Yakumo	2010			4
 s	Shinya! Tensai Bakabon	2018			4
@@ -51297,7 +51297,7 @@ s	Snowfall	2017	8.4	16	41
 s	So Acontece na Florida	2024	5.4	16	5
 s	So Eu e Ela	2023			0
 s	So Help Me Todd	2022	7.3		10
-s	So Ra No Wo To	2010	7.6		7
+s	So Ra No Wo To	2010	7.6		6
 s	So What's Wrong with Getting Reborn as a Goblin?	2026		16	10
 s	So You re Raising a Warrior	2025			1
 s	So a Terra Permanece	2024	7.4	16	5
@@ -51385,7 +51385,7 @@ s	Sonhos de Concreto	2026			3
 s	Sonhos de Liberdade	2024			47
 s	Sonhos e Caramelos	2005	7.3		7
 s	Sonic Boom	2014	7.5	L	17
-s	Sonic Prime	2022	8.3	L	11
+s	Sonic Prime	2022	8.3	L	12
 s	Sonic X	2003	7.6	L	17
 s	Sono Bisque Doll wa Koi wo Suru	2022	8.4	14	46
 s	Sons Of Anarchy	2008	8.4	16	78
@@ -51449,13 +51449,13 @@ s	Spinners Vivendo no Limite	2023			6
 s	Spinning Out	2020	7.9	14	4
 s	Spiral Suiri No Kizuna	2002			5
 s	Spirit Cavalgando Livre	2017	7.6		7
-s	Spirit Realm - Ling Yu	2015			5
+s	Spirit Realm - Ling Yu	2015			6
 s	Splinter Cell Deathwatch	2025	6.8	16	4
 s	Spooksville	2013			5
 s	Spy City	2020	7.0	14	2
 s	Spy in the Wild	2017	7.0		2
 s	Spy x Family	2022	8.5	14	58
-s	Spyders	2020		12	3
+s	Spyders	2020		12	2
 s	Squatters Get The F Out Of My House	2026			1
 s	Squid Girl	2010	6.9	10	8
 s	Sr Mercedes	2017	7.2	18	14
@@ -51664,7 +51664,7 @@ s	Sutura	2024		16	2
 s	Sutura A Vida por um Fio	2024		16	2
 s	Suzhal Vortice	2022	6.9	14	3
 s	Suzuka	2005			5
-s	Suzumiya Haruhi-chan no Yuuutsu	2009		12	4
+s	Suzumiya Haruhi-chan no Yuuutsu	2009	6.4	12	5
 s	Swaci	2023			1
 s	Swagger	2021	7.7	14	7
 s	Swat Kats: O Esquadrão Radical	1993	8.0	L	9
@@ -51785,7 +51785,7 @@ s	Teerã	2020	7.5	16	13
 s	Tegami Bachi	2009			18
 s	Tegami Bachi: Letter Bee	2009			18
 s	Teias do Destino	2022			1
-s	Teletubbies	2015			7
+s	Teletubbies	2015			6
 s	Tem que Suar	2023		12	1
 s	Temperature of Love	2020			2
 s	Tempero de Familia	2013		L	5
@@ -51795,7 +51795,7 @@ s	Tempestades Implacáveis	2020		12	0
 s	Templarios	2014			0
 s	Templo: A Primeira Década	2024			0
 s	Tempo Para Amar	2026			0
-s	Tempo de Amar	2017		10	12
+s	Tempo de Amar	2017		10	16
 s	Temporada de Cerejas - Kiraz Mevsimi	2014	5.8		7
 s	Temporada de Verão	2022	7.0	16	1
 s	Tempos Modernos	2010		12	20
@@ -51803,9 +51803,9 @@ s	Tempos de Crise	2017			2
 s	Tempos de Guerra	2017	6.8		4
 s	Tempted	2021			3
 s	TenPuru	2023	6.2	16	4
-s	Tenchi Muyo!	2014	7.3		7
+s	Tenchi Muyo!	2014	7.3		8
 s	Tenchi Muyo! Ryo-Ohki	1992	7.3	16	12
-s	Tenchi Muyo! War on Geminar	2009	7.6	16	4
+s	Tenchi Muyo! War on Geminar	2009	7.6	16	5
 s	Tenchi Souzou Design-bu	2021			4
 s	Tengoku-Daimakyo: Ilusão Celestial	2023	8.0	14	19
 s	Tenho Que Morrer Todas as Noites	2024	8.6		2
@@ -51879,7 +51879,7 @@ s	The Affair - Infidelidade	2014	6.7	16	21
 s	The Air	2024	7.8	16	18
 s	The Alchemists Rise	2025			2
 s	The All Devouring Whale Homecoming	2025	8.2	14	6
-s	The Ambition of Oda Nobuna	2012	6.6		4
+s	The Ambition of Oda Nobuna	2012	6.6		5
 s	The Americans	2013	7.9	16	39
 s	The Americas	2025	8.2		4
 s	The Ancient Magus Bride	2017	8.4	14	32
@@ -52000,7 +52000,7 @@ s	The Eddy	2020	6.4		3
 s	The Edge of Horizon	2026			3
 s	The Elusive Samurai	2024	7.7	16	10
 s	The Eminence in Shadow	2022	8.1	16	37
-s	The End	2020			3
+s	The End	2020			2
 s	The End of the F***ing World	2017	8.0	16	11
 s	The End of the Fing World	2017	8.0	16	11
 s	The Endgame: Um Conto de Vingança	2022	7.4	14	5
@@ -52008,7 +52008,7 @@ s	The Epoch of Miyu	2026			7
 s	The Equalizer	2021	7.2	14	32
 s	The Equalizer A Protetora	2021	7.2	14	32
 s	The Eternal Fragrance	2026			7
-s	The Ex Wife	2022	6.4		5
+s	The Ex Wife	2022	6.4		3
 s	The Exiled Heavy Knight Knows How to Game the System	2026	8.2	16	21
 s	The Expanse	2015	8.1	16	62
 s	The Fable	2024	7.7	16	20
@@ -52037,7 +52037,7 @@ s	The Fixers	2026		16	4
 s	The Flash	2014	7.7	12	1467
 s	The Flash O Ultimo Vingador	1990	7.4	12	9
 s	The Flemish Bandits	2020	6.3	16	3
-s	The Flowers of Evil	2026			2
+s	The Flowers of Evil	2026			3
 s	The Following	2013	6.9	16	25
 s	The Food Diary of Miss Maid	2026		12	3
 s	The Foolish Angel Dances with the Devil	2024	6.5		6
@@ -52106,7 +52106,7 @@ s	The Hunting Party	2025	7.1	14	14
 s	The I-Land	2019	5.4	16	4
 s	The Iceblade Sorcerer Shall Rule the World	2023	7.1	14	11
 s	The Idol	2023	5.3	18	7
-s	The Idolmaster	2011	6.8		11
+s	The Idolmaster	2011	6.8		10
 s	The InBESTigators	2019	7.9	L	5
 s	The Inner Eye	2026			4
 s	The Insipid Prince's Furtive Grab for the Throne	2026		14	6
@@ -52165,12 +52165,12 @@ s	The Madame Blanc Mysteries	2021	7.0		11
 s	The Magical Girl and the Evil Lieutenant Used to Be Archenemies	2024	7.1	12	5
 s	The Magicians: Escola de Magia	2015	7.6	16	252
 s	The Man In the High Castle	2015	7.5	16	26
-s	The Man Who Fell to Earth	2022	7.4	14	7
+s	The Man Who Fell to Earth	2022	7.4	14	6
 s	The Mandalorian	2019	8.4	14	37
 s	The Many Sides of Voice Actor Radio	2024			3
 s	The Masked Singer Brasil	2021		L	4
-s	The Master of Diabolism	2018	8.3		8
-s	The Master of Ragnarok & Blesser of Einherjar	2018	4.9	14	3
+s	The Master of Diabolism	2018	8.3		9
+s	The Master of Ragnarok & Blesser of Einherjar	2018	4.9	14	4
 s	The Matchmakers				0
 s	The Mick	2017	7.1	14	11
 s	The Middle	2009	7.6	12	61
@@ -52186,7 +52186,7 @@ s	The Mononoke Lecture Logs of Chuzenji sensei He Just Solves All the Mysteries	
 s	The Morning Show	2019	7.7	16	25
 s	The Morose Mononokean	2016	7.4	10	8
 s	The Mosquito Coast	2021	6.7	16	9
-s	The Most Heretical Last Boss Queen: From Villainess to Savior	2023	8.0	12	14
+s	The Most Heretical Last Boss Queen: From Villainess to Savior	2023	8.0	12	12
 s	The Musketeers	2014	7.2	14	11
 s	The Mystery of Dragon Town	2025			1
 s	The Nanny	1993	8.0	L	50
@@ -52211,7 +52211,7 @@ s	The Old Man	2022	7.2	18	10
 s	The On1y One	2024	8.7	18	5
 s	The One	2006	4.3		64
 s	The Originals	2013	8.6	16	45
-s	The Orville	2017	7.6	14	37
+s	The Orville	2017	7.6	14	35
 s	The Osbournes Want to Believe	2020			3
 s	The Ossan Newbie Adventurer Trained to Death by the Most Powerful Party Became Invincible	2024	8.0	14	7
 s	The Other Bennet Sister	2026	8.2		11
@@ -52219,9 +52219,9 @@ s	The Other Two	2019	7.0	14	9
 s	The Outpost	2018	7.5	16	10
 s	The Outsider	2020	7.4	16	10
 s	The Oval	2019	8.0	14	20
-s	The Paper	2025	7.2	14	12
+s	The Paper	2025	7.2	14	11
 s	The Passage	2019	7.0	14	5
-s	The Pendragon Cycle Rise of the Merlin	2026	7.8		12
+s	The Pendragon Cycle Rise of the Merlin	2026	7.8		15
 s	The Pink Panther Show	1978	7.8		5
 s	The Pirate Bay	2024	6.6		3
 s	The Pitt	2025	8.7	14	81
@@ -52431,7 +52431,7 @@ s	Toda Luz que Nao Podemos Ver	2023	7.4	16	5
 s	Todas as Flores	2022	7.1	16	8
 s	Todas as Garotas em Mim	2022		14	2
 s	Todas as Mulheres do Mundo	2020		14	3
-s	Today's Menu for the Emiya Family	2018	7.6	12	6
+s	Today's Menu for the Emiya Family	2018	7.6	12	7
 s	Todo Dia a Mesma Noite	2023	7.6	16	2
 s	Todo Mundo Adora o Raymond	1996	6.8		50
 s	Todo Mundo Ainda Odeia o Chris	2024		12	6
@@ -52455,7 +52455,7 @@ s	Tokyo Love Story	2020			2
 s	Tokyo Magnitude 8.0	2009	7.8		4
 s	Tokyo Majin Gakuen Kenpucho: Tou	2007			4
 s	Tokyo Override	2024	7.2	14	35
-s	Tokyo Ravens	2013	6.5		7
+s	Tokyo Ravens	2013	6.5		8
 s	Tokyo Revengers	2021	8.4	14	65
 s	Tokyo Salad Bowl	2025			3
 s	Tokyo Underground	2002			8
@@ -52545,7 +52545,7 @@ s	Transparent	2014	6.4		16
 s	Transplant: Uma Nova Vida	2020	7.4		14
 s	Trapped	2015	7.3	16	10
 s	Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs	2022	7.5	14	9
-s	Tratamento de Choque	2012	6.3	14	27
+s	Tratamento de Choque	2012	6.4	14	24
 s	Travelers	2016	7.6	16	18
 s	Travessia	2022	4.1	14	15
 s	Travessuras da Menina Ma	2022	6.4	14	3
@@ -52593,7 +52593,7 @@ s	True Life Crime	2021		14	0
 s	True Life Crime - Reino Unido	2021		14	0
 s	True Tears	2008	6.0		5
 s	Truques da Mente	2012	7.2	14	21
-s	Trust	2018	6.9	18	7
+s	Trust	2018	6.9	18	6
 s	Truth Be Told	2019	7.0	16	14
 s	Truth Seekers	2020	7.1	16	4
 s	Try Knights	2019			2
@@ -52781,7 +52781,7 @@ s	Um Refúgio Para o Amor	2012		L	10
 s	Um So Coracao	2004		14	6
 s	Um Sonho até Você	2026	9.4		8
 s	Um Tanto Familiar	2025			0
-s	Um Trabalho do Inferno	2026	7.5	16	118
+s	Um Trabalho do Inferno	2026	7.5	16	71
 s	Um Trem para o Apocalipse	2023		12	2
 s	Um Trem para o Qatar	2022			0
 s	Um Trilhao de Dolares	2023	7.4	14	2
@@ -52859,7 +52859,7 @@ s	Under The Dome	2013	7.1	14	23
 s	Undercover High School	2025	8.0		5
 s	Underdogs Coadjuvantes Selvagens	2025			4
 s	Undone	2019	7.7	14	6
-s	Unexpectedly Naughty Fukami	2026			1
+s	Unexpectedly Naughty Fukami	2026			2
 s	Unfamiliar	2026	6.9	16	5
 s	Unforgettable	2011	7.2	16	48
 s	Unicorn: Warriors Eternal	2023	7.2	L	5
@@ -52897,7 +52897,7 @@ s	Us	2016	8.2	14	55
 s	Usagi Drop	2011	8.2	L	8
 s	Use Sua Voz	2023			1
 s	Ushinawareta Mirai Wo Motomete	2014			4
-s	Ushio e Tora	2015	8.0	14	12
+s	Ushio e Tora	2015	8.0	14	13
 s	Uta No Prince-Sama	2011	7.2		8
 s	Utawarerumono	2006	7.2		24
 s	Utopia	2013	7.9	16	7
@@ -52906,7 +52906,7 @@ s	Uzumaki	2024	7.0	16	6
 s	V - A Minisérie Original	1983	7.8	14	5
 s	V - Visitantes	2009	6.8	14	14
 s	V Wars	2019	7.2	16	5
-s	V.I.P.	1998	5.3		31
+s	V.I.P.	1998	5.3		28
 s	V: Os Extraterrestres no Planeta Terra	1984	7.1	14	10
 s	VGLY	2023	8.3		3
 s	VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream	2024		16	5
@@ -52921,7 +52921,7 @@ s	Vai na Fé	2023	7.7	12	10
 s	Vai!	2013		14	23
 s	Vai, Cachorro. Vai!	2021	8.5		10
 s	Vai,Cachorro. Vai!	2021	8.5		10
-s	Vai,Cara de Lula!	2019	8.0		9
+s	Vai,Cara de Lula!	2019	8.0		7
 s	Vale Tudo	2025		12	21
 s	Vale Tudo com Tim Maia	2022			0
 s	Vale dos Esquecidos	2022	6.5	16	1
@@ -52969,7 +52969,7 @@ s	Velocidade Furiosa	2025			0
 s	Velocidade e Amor	2025	8.4		13
 s	Velozes e Furiosos - Espiões do Asfalto	2019	7.0	L	15
 s	Vencer na Vida	2023		14	3
-s	Vencer o Desamor	2020	7.6		4
+s	Vencer o Desamor	2020	7.6		5
 s	Vencer o Passado	2021			5
 s	Vendemos e Trocamos	2021		10	0
 s	Veneno	2020	8.4		5
@@ -53018,7 +53018,7 @@ s	Vida	2003	7.8	14	105
 s	Vida Após a Morte	2021	6.6	12	2
 s	Vida Após a Morte com Tyler Henry	2022		16	1
 s	Vida Imoral	2025	7.0	16	3
-s	Vida Incompleta	2014	8.6	12	6
+s	Vida Incompleta	2014	8.6	12	7
 s	Vida Inesperada	2010	7.5		9
 s	Vida Perfeita	2019	6.7	16	4
 s	Vida Remota	2016	6.7	12	3
@@ -53117,7 +53117,7 @@ s	Voce e Linda	2009	7.6	14	4
 s	Voce e a Batida do Meu Coracao	2022			2
 s	Voce e o Meu Amor Destinado	2026			5
 s	Voce e o que Voce Come As Dietas dos Gemeos	2024	6.7		1
-s	Você	1999		L	3
+s	Você	1999		L	4
 s	Você Faria o Mesmo	2023	7.4	16	5
 s	Você Nunca Esteve Sozinha: O Doc de Juliette	2021		12	1
 s	Você Não é Especial	2022	5.6	16	2
@@ -53153,7 +53153,7 @@ s	W Dois Mundos	2016	8.4	14	8
 s	W: Wish	2004			3
 s	WANDANCE	2025		12	9
 s	WITCH WATCH	2025	7.7	14	15
-s	WONDER EGG PRIORITY	2021	6.9	16	14
+s	WONDER EGG PRIORITY	2021	6.9	16	12
 s	WU	2019	6.7	18	5
 s	WUKONG	2024			0
 s	WWE Surreal	2025	8.0	14	6
@@ -53183,7 +53183,7 @@ s	Wash It All Away	2026		14	6
 s	Washington	1967			30
 s	Washington Black	2025	6.0	14	4
 s	Watari-kun's ****** Is about to Collapse	2025	7.3	14	7
-s	Watashi no Ashinaga Ojisan	1990	6.8	L	8
+s	Watashi no Ashinaga Ojisan	1990	6.8	L	9
 s	Watashi no Yuri wa Oshigoto desu!	2023	6.2	12	5
 s	Watchmen	2019	7.6	16	10
 s	Watson	2025	4.9		12
@@ -53216,7 +53216,7 @@ s	West Wing: Nos Bastidores do Poder	1999	8.3	14	80
 s	Westworld	2016	8.0	16	52
 s	Wet Hot American Summer: First Day of Camp	2015	6.4	14	6
 s	What If...?	2021	8.0	14	32
-s	What We Do in the Shadows	2019	8.0	16	33
+s	What We Do in the Shadows	2019	8.0	16	1194
 s	What Will You Do, Ieyasu? (2023)	2023			8
 s	What Will You Do,Ieyasu?	2023			8
 s	What Will You Do,Ieyasu? (2023)	2023			8
@@ -53277,9 +53277,9 @@ s	Wonderful Precure	2024		10	14
 s	Wonka: O Bilhete Dourado	2026			3
 s	Wooju Bakery	2026			1
 s	Work Later Drink Now	2021	8.1		6
-s	Workaholics	2011	7.4	16	18
+s	Workaholics	2011	7.4	16	20
 s	Workin Moms	2017	7.3		13
-s	Working	1997			8
+s	Working	1997			7
 s	World Dice Tour	2023			6
 s	World Trigger	2014	7.3	12	20
 s	World of Immortals	2024			3
@@ -53404,7 +53404,7 @@ s	Yurikuma Arashi	2015	6.3		6
 s	YuruYuri	2011	7.7		13
 s	Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau	2022	7.7	14	7
 s	Yuusha Party wo Tsuihou sareta Beast Tamer,Saikyoushu no Nekomimi Shoujo to Deau	2022	7.7	14	7
-s	Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita	2013	7.2	18	5
+s	Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita	2013	7.2	18	6
 s	Z Nation	2014	7.3	16	24
 s	Z O Comeco de Tudo (Z The Beginning of Everything)	2015	6.7		3
 s	Z4	2018		L	2
@@ -53425,7 +53425,7 @@ s	Zeke e Luther	2009	7.7	10	8
 s	Zenki	1995	8.0		12
 s	Zerhun	2025			1
 s	Zero	2010	7.7	14	102
-s	Zero kara Hajimeru Mahou no Sho	2017	6.7		3
+s	Zero kara Hajimeru Mahou no Sho	2017	6.7		4
 s	Zero no Tsukaima	2006	8.4	14	22
 s	ZeroZeroZero	2020	7.8	16	6
 s	Zhan Zhao Adventures	2026			7
@@ -53465,8 +53465,8 @@ s	encanto	2018	7.4	14	19
 s	extremistas.br	2023		16	0
 s	gdgd Fairies	2011			3
 s	iCarly	2007	7.9	10	41
-s	jeen-yuhs: Trilogia Kanye	2022	7.1	14	4
-s	jeen-yuhs: Uma Trilogia Kanye	2022	7.1	14	4
+s	jeen-yuhs: Trilogia Kanye	2022	7.2	14	5
+s	jeen-yuhs: Uma Trilogia Kanye	2022	7.2	14	5
 s	mar	2005			31
 s	mono	2025	8.2	10	19
 s	o Assassino do Zodíaco	2024		16	1
@@ -53480,7 +53480,7 @@ s	o Pimentinha	1959	6.6	L	16
 s	se Puder	2009	7.9	14	29
 s	só você se conectou a mim	2026		18	3
 s	um Cara Comum	2023	7.0	16	4
-s	xxxHOLiC	2006	7.2	14	14
+s	xxxHOLiC	2006	7.2	14	17
 s	À Beira do Caos	2021	4.8		3
 s	À Beira do Precipício	2022	6.4		2
 s	À Espera de Perséfone	2026	8.9		11
@@ -53500,7 +53500,7 @@ s	É Ouro! O Brilho do Brasil em Tóquio	2021		L	0
 s	É Sério Que Eu Sou o Mais Forte?	2023	7.4	14	5
 s	É o Amor: Família Camargo	2021		12	0
 s	Élite Historias Breves: Samuel Omar	2021	6.5	16	2
-s	Éramos Seis	2019		12	10
+s	Éramos Seis	2019		12	11
 s	Êta Mundo Bom	2016		10	15
 s	Êta Mundo Melhor!	2025		10	21
 s	Índia: Natureza Revelada	2015			0

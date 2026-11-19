@@ -35,7 +35,9 @@ struct SaimoApp: App {
         }
         PlayerModel.shared.installKeyMonitor()
         SaimoConnect.shared.iniciar()
+        Conta.shared.iniciar()
         Telemetria.shared.iniciar()
+        NovosEpisodios.iniciar()
     }
 
     var body: some Scene {

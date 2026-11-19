@@ -401,3 +401,13 @@ No Mac: `Perfis.swift` (uma suíte do UserDefaults por perfil; trocar de perfil 
 
 `Sources/Brilho.swift` (Ajustes > Tela e Saimo Connect): véu preto por cima da janela, 0 a 100. Em
 até 5% qualquer tecla ou clique traz o brilho de volta, devagar (o evento não chega ao app).
+
+## Conta Saimo (opcional)
+
+Mac: Ajustes > Conta Saimo mostra o QR (o celular ou o site logado aprova) e tem "Entrar com e-mail e senha". Código em `Sources/Conta.swift` e `Sources/TelaConta.swift`; sincroniza pelo pacote do Connect (`SincroniaConnect`). Teste: `SAIMO_CONTA_API=http://127.0.0.1:8787`. Contrato comum de todos os apps: `docs/conta.md`. Sem conta, nada muda.
+
+## Recursos pessoais (3.1.1)
+
+- Estatísticas (tempo, filmes e episódios vistos) e "Marcar como visto" no player.
+- Filtro de país, busca por ator/diretor, aviso de episódio novo nas séries favoritas.
+- Ajustes: cor do app (vale ao reabrir) e estilo da legenda (tamanho, cor, posição, fundo).

@@ -125,6 +125,9 @@ struct TelaAjustes: View {
     @ObservedObject private var connect = SaimoConnect.shared
     @ObservedObject private var addons = AddonStore.shared
     @ObservedObject private var debrid = DebridStore.shared
+    @ObservedObject private var conta = Conta.shared
+    @State private var estiloVersao = 0
+    @State private var contaAberta = false
 
     private var resumoAddonsDebrid: String {
         let ativos = addons.ativos.count
@@ -170,6 +173,27 @@ struct TelaAjustes: View {
                         .font(.system(size: 34, weight: .bold))
                         .foregroundStyle(.white)
 
+                    if !Perfis.kidsAtivo {
+                        secao("Conta Saimo") {
+                            linha("Conta Saimo", conta.resumo, icone: "person.crop.circle.badge.checkmark") {
+                                contaAberta = true
+                            }
+                        }
+                        // Sem conta: a primeira opção fica em destaque.
+                        .overlay(RoundedRectangle(cornerRadius: 18, style: .continuous)
+                            .strokeBorder(Tema.acento.opacity(conta.logado ? 0 : 0.8), lineWidth: 2)
+                            .padding(.top, 20))
+                        .sheet(isPresented: $contaAberta) { TelaConta { contaAberta = false } }
+                    }
+
+                    secao("Estatísticas") {
+                        linha("Seu tempo no Saimo", Estatisticas.resumo(), icone: "chart.bar") { }
+                        linha("Séries favoritas com episódio novo", NovosEpisodios.resumo(), icone: "bell") {
+                            NovosEpisodios.dispensarTodos(); estiloVersao += 1
+                        }
+                    }
+                    .id(estiloVersao)
+
                     secao("Perfis") {
                         linha("Trocar de perfil", "\(Perfis.ativo.nome)\(Perfis.ativo.ehKids ? " (Kids)" : "") · \(Perfis.todos.count) perfil(is)",
                               icone: "person.crop.circle") {
@@ -180,6 +204,25 @@ struct TelaAjustes: View {
                             NotificationCenter.default.post(name: .abrirPerfis, object: "gerenciar")
                         }
                     }
+
+                    secao("Aparência e legenda") {
+                        linha("Cor do app", EstiloLegenda.temas[EstiloLegenda.indiceTema].0 + " · vale ao reabrir o app", icone: "paintpalette") {
+                            EstiloLegenda.proximoTema(); estiloVersao += 1
+                        }
+                        linha("Tamanho da legenda", EstiloLegenda.tamanhos[EstiloLegenda.indiceTamanho].0, icone: "textformat.size") {
+                            EstiloLegenda.proximoTamanho(); estiloVersao += 1
+                        }
+                        linha("Cor da legenda", EstiloLegenda.cores[EstiloLegenda.indiceCor].0, icone: "eyedropper") {
+                            EstiloLegenda.proximaCor(); estiloVersao += 1
+                        }
+                        linha("Posição da legenda", EstiloLegenda.posicoes[EstiloLegenda.indicePosicao].0, icone: "arrow.up.and.down") {
+                            EstiloLegenda.proximaPosicao(); estiloVersao += 1
+                        }
+                        linha("Fundo da legenda", EstiloLegenda.fundo ? "Com fundo" : "Sem fundo", icone: "rectangle.dashed") {
+                            EstiloLegenda.alternarFundo(); estiloVersao += 1
+                        }
+                    }
+                    .id(estiloVersao)
 
                     secao("Reprodução") {
                         linha("Super Resolução (Upscaling)", Preferencias.rotuloUpscaling(model.upscaling),
