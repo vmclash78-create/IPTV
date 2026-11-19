@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 import sys
 import time
 import unicodedata
@@ -221,7 +222,14 @@ def parse_m3u(text: str, pais: str = "") -> list[Canal]:
             if i + 1 < len(lines):
                 url_line = lines[i + 1].strip()
                 if url_line and not url_line.startswith("#"):
-                    if nome and url_line.startswith("http"):
+                    dominios_bloqueados = carregar_dominios_desativados()
+                    if (
+                        nome
+                        and url_line.startswith("http")
+                        and "/error.txt" not in url_line
+                        and "/error/" not in url_line
+                        and not any(d in url_line for d in dominios_bloqueados)
+                    ):
                         c = Canal(nome=nome, logo=logo, categoria=categoria,
                                   pais=pais, adulto=adulto)
                         c.fontes.append(url_line)
@@ -230,6 +238,19 @@ def parse_m3u(text: str, pais: str = "") -> list[Canal]:
                     continue
         i += 1
     return canais
+
+
+def carregar_dominios_desativados() -> set[str]:
+    """Carrega lista de domínios mortos para blindagem do catálogo."""
+    dominios = {"s25-cloudfront-net.lat"}
+    path = ROOT / "canais" / "fontes-desativadas.json"
+    if path.exists():
+        try:
+            dados = json.loads(path.read_text(encoding="utf-8"))
+            dominios.update(dados.get("desativados", []))
+        except Exception:
+            pass
+    return dominios
 
 
 # ─────────────────────────── Listas manuais ───────────────────────────────
@@ -249,6 +270,7 @@ def ler_manuais_canais() -> list[Canal]:
         )
         return []
     canais: list[Canal] = []
+    dominios_bloqueados = carregar_dominios_desativados()
     for linha in path.read_text(encoding="utf-8").splitlines():
         linha = linha.strip()
         if not linha or linha.startswith("#"):
@@ -260,7 +282,13 @@ def ler_manuais_canais() -> list[Canal]:
         logo = partes[1].strip() if len(partes) > 1 else ""
         categoria = partes[2].strip() if len(partes) > 2 else "Manual"
         url = partes[3].strip() if len(partes) > 3 else ""
-        if nome and url:
+        if (
+            nome
+            and url
+            and url.startswith("http")
+            and "/error.txt" not in url
+            and not any(d in url for d in dominios_bloqueados)
+        ):
             c = Canal(nome=nome, logo=logo, categoria=categoria, pais="BR")
             c.fontes.append(url)
             canais.append(c)
@@ -274,6 +302,7 @@ def ler_catalogo_existente() -> list[Canal]:
         return []
     canais: list[Canal] = []
     current: Optional[Canal] = None
+    dominios_bloqueados = carregar_dominios_desativados()
     for linha in path.read_text(encoding="utf-8", errors="replace").splitlines():
         linha = linha.strip()
         if not linha or linha.startswith("#"):
@@ -289,9 +318,15 @@ def ler_catalogo_existente() -> list[Canal]:
                 current.categoria = linha[10:].strip()
             elif linha.startswith("fonte:"):
                 url = linha[6:].strip()
-                if url and not "saimo-tv.pages.dev" in url:  # remove fontes saimo
+                if (
+                    url
+                    and url.startswith("http")
+                    and "saimo-tv.pages.dev" not in url
+                    and "/error.txt" not in url
+                    and "/error/" not in url
+                    and not any(d in url for d in dominios_bloqueados)
+                ):
                     current.fontes.append(url)
-            # referer/agente/qualidade são ignorados na fusão (iptv-org não usa)
     if current and current.fontes:
         canais.append(current)
     return canais
@@ -526,12 +561,21 @@ def sincronizar_canais() -> None:
     mesclados = [c for c in mesclados if c.fontes]
     print(f"  Total após merge: {len(mesclados)} canais normais, {len(adultos)} adultos", flush=True)
 
-    # 7. Gera arquivos
+    # 7. Validação de segurança e preservação de backup
     print("\n-- Salvando arquivos --", flush=True)
+    if len(mesclados) < 50:
+        print(f"  ALERTA: Poucos canais válidos ({len(mesclados)}). Operação abortada para segurança.", file=sys.stderr)
+        return
+
+    catalogo_path = target / "catalogo.txt"
+    if catalogo_path.exists():
+        backup_path = catalogo_path.with_suffix(".txt.bak")
+        shutil.copy2(catalogo_path, backup_path)
+        print(f"  Backup preservado: {backup_path.name}", flush=True)
 
     # catalogo.txt
     catalogo_txt = gerar_catalogo(mesclados, adultos)
-    (target / "catalogo.txt").write_text(catalogo_txt, encoding="utf-8")
+    catalogo_path.write_text(catalogo_txt, encoding="utf-8")
     print(f"  Salvo: canais/catalogo.txt ({len(mesclados)} canais)", flush=True)
 
     # canais.txt (cópia do catálogo — alguns players preferem esse nome)
@@ -548,6 +592,14 @@ def sincronizar_canais() -> None:
     if radios:
         (target / "radios.txt").write_text(gerar_radios_txt(radios), encoding="utf-8")
         print(f"  Salvo: canais/radios.txt ({len(radios)} rádios)", flush=True)
+
+    # 8. Sincronização de playlists M3U (lista.m3u, canais.m3u, lista-web.m3u)
+    try:
+        import agregar_fontes
+        print("\n-- Atualizando Playlists M3U e Lista Web --", flush=True)
+        agregar_fontes.executar_agregacao()
+    except Exception as exc:
+        print(f"  Aviso ao sincronizar playlists M3U: {exc}", flush=True)
 
 
 def criar_manuais_filmes_se_nao_existir() -> None:
