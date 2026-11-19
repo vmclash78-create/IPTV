@@ -1,0 +1,80 @@
+PRISMA TV — SOLICITAÇÃO DE AUDITORIA, REVISÃO E VALIDAÇÃO
+
+REPOSITÓRIO: vmclash78-create/IPTV
+BRANCH DE REFERÊNCIA: main
+
+OBJETIVO
+Faça uma revisão independente e profunda do estado atual do repositório Prisma TV. Analise as alterações e os arquivos existentes, identifique riscos e erros, valide scripts e playlists e determine o que está realmente pronto. Não presuma que qualquer alteração anterior esteja correta.
+
+1. INSPEÇÃO DO REPOSITÓRIO
+- Examine a estrutura, scripts, playlists, workflows, documentação e arquivos auxiliares relacionados à geração/sincronização das listas.
+- Revise especialmente: sincronizar.py, agregar_fontes.py, testar_canais.py, canais/lista-web.m3u, canais/lista.m3u, canais/catalogo.txt, canais/fontes-desativadas.json, canais/manuais.txt e canais/eventos-extra.json, se existirem.
+- Confira o histórico/commits recentes e procure mudanças incompletas, inconsistências ou regressões.
+
+2. AUDITORIA DE CÓDIGO
+- Procure bugs, exceções não tratadas, erros de parsing, problemas de concorrência, timeouts ausentes, loops ou travamentos.
+- Verifique se os scripts funcionam com os formatos de arquivo presentes e se caminhos são portáveis.
+- Confira deduplicação, normalização de nomes/categorias, preservação de metadados e tratamento de redirects.
+- Verifique se uma falha de coleta ou lista vazia pode sobrescrever playlists válidas. Deve haver proteção contra publicação de resultados incompletos e backup/rollback.
+- Não afirme que o código foi executado se não tiver realmente executado.
+
+3. VALIDAÇÃO DE PLAYLISTS E FONTES
+- Identifique entradas duplicadas, URLs malformadas, links de erro (incluindo /error.txt), HTTP/HTTPS, redirects, respostas HTML inesperadas, erros DNS, TLS, timeout e códigos HTTP.
+- HTTP 200 isoladamente não prova que um stream reproduz vídeo; diferencie conectividade HTTP de reprodução/compatibilidade real.
+- Classifique resultados de forma clara: válido/respondendo, indisponível, bloqueado, timeout, inválido, erro de parsing ou codec desconhecido.
+- Não tente contornar autenticação, tokens privados, assinaturas, controles de acesso ou restrições de retransmissão. Não procure nem incorpore fontes de canais pagos não autorizadas. Priorize fontes públicas, oficiais, gratuitas e autorizadas.
+- Evite testes agressivos: limite concorrência, configure timeout, respeite a infraestrutura das fontes e não faça flood.
+
+4. COMPATIBILIDADE WEB E MOBILE
+- Revise a playlist destinada à web/mobile e sua compatibilidade com Safari/iOS.
+- Priorize fontes HTTPS e codecs compatíveis, especialmente H.264/AVC e áudio AAC quando comprovados.
+- Não deduza codec pelo nome do canal ou extensão. Se não for possível identificar, marque como desconhecido.
+- Verifique playlists HLS/master quando a inspeção for permitida e segura; não declare compatibilidade de reprodução sem evidência suficiente.
+- Mantenha listas web e gerais com critérios claramente documentados.
+
+5. CATALOGAÇÃO, AGREGAÇÃO E FAILOVER
+- Confira se cada canal, categoria e fonte tem metadados consistentes.
+- Avalie se as fontes estão ordenadas por confiabilidade/estado verificado, sem duplicar URLs nem confundir canais diferentes.
+- Verifique se o failover funciona conforme a lógica implementada e se fontes problemáticas são excluídas da lista principal.
+- Confirme que catalogo.txt corresponde aos canais e fontes efetivamente gerados nas playlists.
+- Verifique os canais diretos e fontes auxiliares; só integre os que forem públicos, autorizados e tecnicamente válidos.
+
+6. TESTES QUE DEVEM SER EXECUTADOS
+- Execute verificações de sintaxe/compilação dos scripts Python.
+- Execute testes unitários existentes, se houver.
+- Faça uma execução controlada de validação, com limites/timeout adequados. Se o volume for grande, faça amostragem ou execução em lotes e documente isso.
+- Valide o parsing de M3U, os arquivos JSON e TXT.
+- Confira consistência, integridade e não-vazio dos arquivos de saída.
+- Teste cenários de falha (lista vazia, fonte inacessível, erro HTTP, redirect, timeout, URL de erro) e confirme que não causam perda de listas válidas.
+- Se não houver testes automatizados suficientes, recomende e/ou implemente testes que possam ser executados localmente ou no CI.
+
+7. SEGURANÇA E INTEGRIDADE
+- Não exponha tokens, cookies, chaves, credenciais ou dados sensíveis nos logs, relatórios, commits ou playlists.
+- Não adicione dependências sem necessidade; documente novas dependências.
+- Não faça mudanças destrutivas sem backup e revisão.
+- Evite substituir listas existentes por resultados parciais de coleta.
+- Verifique se o workflow de CI não publica automaticamente conteúdo sem validação.
+
+8. DECISÃO SOBRE O COMMIT
+Após a análise, dê um parecer objetivo:
+- APROVADO: somente se as alterações estiverem corretas, os testes relevantes passaram e não houver bloqueadores.
+- APROVADO COM RESSALVAS: indique exatamente o que passou e o que permanece pendente.
+- REPROVADO: explique os problemas e correções necessárias.
+Não faça merge, push adicional ou publicação automática sem autorização explícita do responsável. Se sugerir alterações, apresente primeiro o resumo e o diff; alterações autorizadas devem ser feitas em branch de trabalho e revisadas antes de merge.
+
+9. RELATÓRIO FINAL OBRIGATÓRIO
+Entregue um relatório com:
+- Resumo executivo e parecer (aprovado/aprovado com ressalvas/reprovado).
+- Arquivos revisados e arquivos alterados.
+- Comandos/testes realmente executados e seus resultados.
+- Bugs encontrados, severidade e correções recomendadas/realizadas.
+- Estatísticas das fontes (apenas resultados medidos; não invente números).
+- Problemas de compatibilidade Web/iOS e evidências.
+- Riscos, limitações e itens que exigem validação manual no player.
+- Status do commit, branch e se há mudanças ainda não publicadas.
+
+REGRAS IMPORTANTES
+- Seja independente e crítico; não aceite automaticamente alterações anteriores.
+- Não invente resultados, canais funcionais, testes, métricas ou commits.
+- Diferencie claramente o que foi inspecionado, o que foi executado e o que é apenas recomendação.
+- Priorize estabilidade, segurança, legalidade, integridade das listas e reprodução real.
