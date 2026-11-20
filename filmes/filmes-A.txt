@@ -38,7 +38,7 @@ A Aposta (2020)	dub=18:804464,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o
 A Aranha Negra	dub=18:916283,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752730.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43454.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60041.mp4
 A Arca	dub=18:46219
 A Arca das Girafas	dub=18:984287,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759540.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60036.mp4
-A Arma Perfeita (2020)	dub=18:34421,18:728209
+A Arma Perfeita	dub=18:728209,18:34421
 A Arma Secreta	dub=18:910709
 A Arma de Lizzie Borden (2014)	dub=18:243568
 A Armadilha	dub=18:197013,18:60575,18:1391382,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311909.mp4
@@ -795,12 +795,11 @@ A Fuga dos Avós	dub=18:589976,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 A Funcionária do Mês (2022)	dub=18:965024,https://embedplayer2.xyz/cdn/hls/6f7ac76aab484f8ad304aa54b651825b/master.txt
 A Furia (2019)	dub=18:528091
 A Furia de Becky (2023)	dub=18:986070,https://embedplayer2.xyz/cdn/hls/ee1042b35fc35faeb39ad964b5664384/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758488.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46843.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60910.mp4
-A Fúria (2022)	dub=18:12611
 A Fábrica de Fake News	dub=18:1007127,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751214.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289929.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289956.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289932.mp4
 A Fábrica de Humanos (2020)	dub=18:718135
 A Fêmea do Mar	dub=18:259545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99358.mp4
 A Fórmula Secreta	dub=18:881508,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756759.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760967.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1614.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60900.mp4
-A Fúria	dub=18:1384247,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755573.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758019.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46838.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60905.mp4
+A Fúria	dub=18:1384247,18:12611,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755573.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758019.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46838.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60905.mp4
 A Fúria Divina	dub=18:571627
 A Fúria de Drácula	dub=18:1144028,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754865.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758483.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46848.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60915.mp4
 A Fúria de Simuroc	dub=18:71628
@@ -892,7 +891,7 @@ A Grande Escolha	dub=18:200505,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30
 A Grande Fraude	dub=18:918842,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752592.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756217.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43547.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61021.mp4
 A Grande Fuga	dub=18:944194,18:669816,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754200.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757515.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36790.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61030.mp4
 A Grande Guerra (2019)	dub=18:647063,https://embedplayer2.xyz/cdn/hls/fde41edaef9a340d8752b37cf475c11b/master.txt
-A Grande Ilusão (2006)	dub=18:1717,18:157351,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764068.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22596.mp4
+A Grande Ilusão	dub=18:1717,18:157351,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764068.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22596.mp4
 A Grande Inundação (2025)	dub=18:982843,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54088.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751938.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766019.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/192.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61025.mp4
 A Grande Invasão do Balão Bomba	dub=18:910849,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767287.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12479.mp4
 A Grande Jogada (2017)	dub=18:396371,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762533.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22606.mp4
@@ -1245,7 +1244,7 @@ A Linha da Extinção	dub=18:1035048,http://dbonline.tech-cdn.top:80/movie/ke-vi
 A Lira do Delírio	dub=18:194849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37520.mp4
 A Lista	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750197.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751727.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53329.mp4
 A Lista (2011)	dub=18:58626
-A Lista (2014)	dub=18:1268976,18:1614583
+A Lista (2023)	dub=18:1268976,18:1614583
 A Lista Perversa do Sr Scrooge	dub=18:1390390,https://embedplayer2.xyz/cdn/hls/e927c43dd7226694c58a9f3e24ecffb4/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751792.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/196.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61395.mp4
 A Lista da Minha Vida (2025)	dub=18:1254786,https://embedplayer2.xyz/cdn/hls/a7ebdc9fde362b120f6255be12e14c0c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54155.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753116.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41199.mp4	leg=18:1254786.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756605.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61385.mp4
 A Lista da Vingança	dub=18:1172009,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752878.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43598.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61400.mp4
@@ -1753,7 +1752,7 @@ A Perseguição (2024)	dub=18:1025527
 A Peça de Natal	dub=18:475833
 A Pior Pessoa do Mundo	dub=18:660120,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762617.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22927.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62053.mp4
 A Pirâmide	dub=18:282813,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759323.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47301.mp4
-A Piscina (2018)	dub=18:716081,18:550201,18:1426117,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759468.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47302.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62048.mp4
+A Piscina	dub=18:716081,18:550201,18:1426117,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759468.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47302.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62048.mp4
 A Pistola E Minha Biblia	dub=18:131229,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753898.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34879.mp4
 A Place Without Fear	dub=18:1252756,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290716.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751184.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289925.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289958.mp4
 A Poet	dub=18:1645692	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253294.mp4
@@ -1854,7 +1853,7 @@ A Prova Final	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757667.mp4
 A Prova de Fogo (2008)	dub=18:14438,https://embedplayer2.xyz/cdn/hls/74b777fbd92edf365f191e367e591beb/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757495.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40703.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768792.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312566.mp4
 A Prova de Morte (2007)	dub=18:1991,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761520.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8271.mp4
 A Própria Carne	dub=18:1353066,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752248.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/230.mp4
-A Próxima (2019)	dub=18:638238,18:317894,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755923.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758198.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47343.mp4	leg=18:638238.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62170.mp4
+A Próxima	dub=18:638238,18:317894,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755923.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758198.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47343.mp4	leg=18:638238.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62170.mp4
 A Próxima Pele	dub=18:348555
 A Próxima Vítima (2021)	dub=18:842169,18:110093,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758160.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47352.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754425.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62176.mp4
 A Pura Verdade	dub=18:558095,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763175.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22970.mp4
@@ -2060,7 +2059,6 @@ A Síndrome de Berlin	dub=18:363126
 A TORTURA DELICADA DA MAFIA	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303449.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302169.mp4
 A TORTURA DO MEU AMANTE MODERNO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301701.mp4
 A TRAVESSIA JA FICOU PARA TRAS	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302518.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302538.mp4
-A Tabacaria (2018)	dub=18:538061,18:1203222,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763857.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23063.mp4
 A Taberna do Inferno	dub=18:23916
 A Tale of Two Guns	leg=18:940175.mp4?lang=leg
 A Tartaruga Manuelita	dub=18:65931
@@ -2173,8 +2171,7 @@ A Very Corgi Christmas	dub=18:637879
 A Vespa	dub=18:1019404,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54306.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752532.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43740.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757199.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62574.mp4
 A Via Láctea	dub=18:89271,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23135.mp4
 A Viagem	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762612.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765811.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23131.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309822.mp4
-A Viagem (1999)	dub=18:634296
-A Viagem (2012)	dub=18:83542
+A Viagem (2012)	dub=18:83542,18:634296
 A Viagem Encantada	dub=18:589759,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755151.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766356.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8535.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62584.mp4
 A Viagem de Chihiro (2001)	dub=18:129,https://embedplayer2.xyz/cdn/hls/17a06be21fa2d0787d7d4b720b3d3545/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755709.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766107.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8531.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62579.mp4
 A Viagem de Ernesto e Celestine	dub=18:947219,https://embedplayer2.xyz/cdn/hls/7be6b0826b5b27a471f2e931b0c84353/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756155.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8528.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62524.mp4
@@ -2351,6 +2348,7 @@ A lenda do diamante	dub=18:388427
 A medium (2021)	dub=18:745881,https://embedplayer2.xyz/cdn/hls/5c11ba4ae0c125465db343a47382d8e5/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758420.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47249.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61841.mp4
 A periência do Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755888.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59981.mp4
 A queda da Terra	dub=18:353257
+A tabacaria	dub=18:1203222,18:538061,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763857.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23063.mp4
 A Águia Pousou	dub=18:11372
 A Águia da Legião Perdida	dub=18:49494,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762443.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23250.mp4
 A Árvore Que Chorava Sangue	dub=18:1014601,https://embedplayer2.xyz/cdn/hls/1010824e361f82de4c20979d580e71a5/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751071.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254238.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254695.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254225.mp4
@@ -2410,6 +2408,7 @@ A Última Parada No Condado De Yuma (2024)	dub=https://embedplayer2.xyz/cdn/hls/
 A Última Primavera	dub=18:1329225,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756598.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758117.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37608.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62851.mp4
 A Última Profecia	dub=18:2637,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758412.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47476.mp4
 A Última Rainha	dub=18:958161
+A Última Refeição	dub=18:1561834
 A Última Resistência (2017)	dub=18:484936,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760473.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1789.mp4
 A Última Ressaca do Ano	dub=18:384682,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767644.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12803.mp4
 A Última Rodada	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751164.mp4
@@ -2572,10 +2571,9 @@ Abandonada Na Nevasca	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Abandonada: O Mal Foi Eleito	dub=18:380734
 Abandonado no Altar (2019)	dub=18:554569
 Abandonados	dub=18:376272,18:356987,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754186.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764157.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23323.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62921.mp4
-Abducao (2014)	dub=18:886843
 Abducted	dub=18:228064,https://embedplayer2.xyz/cdn/hls/8d743238d64fdcdf6ba10e2d9795f4f2/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62926.mp4
 Abdução	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758744.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47499.mp4
-Abdução (2019)	dub=18:589594
+Abdução (2019)	dub=18:589594,18:886843
 Abe	dub=18:484297	leg=18:484297.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62936.mp4
 Abelhinhas	dub=18:216115
 Abercrombie & Fitch: Ascensão e Queda	dub=18:953371,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759520.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62941.mp4
@@ -2871,9 +2869,9 @@ Aladim e a Lâmpada Maravilhosa	dub=18:143559,http://acaidopt.org:80/movie/3lloh
 Aladin e a Princesa de Bagdá	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249853.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249870.mp4
 Alarme de Incendio (2024)	dub=18:1221388,https://embedplayer2.xyz/cdn/hls/32a1219a3a0ae95c491e93d2958ed237/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54408.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752269.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43811.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754743.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63317.mp4
 Alarme de Incendio Abaixo da Terra (2026)	dub=18:1608982,https://embedplayer2.xyz/cdn/hls/49b2e593f73d380cbe323328db96c9a0/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311077.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751649.mp4
-Alaska (2015)	dub=18:949884,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763903.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23428.mp4
+Alaska	dub=18:949884,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763903.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23428.mp4
 Alavancada no Jogo: A Patroa de Cozinha do CEO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98148.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301966.mp4
-Albatroz	dub=18:586441,18:72842,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757895.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37637.mp4
+Albatroz (2019)	dub=18:586441,18:72842,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757895.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37637.mp4
 Albert (2016)	dub=18:329892
 Albert Brooks: Defending My Life	dub=18:1184849
 Albert Nobbs	dub=18:73873
@@ -2887,7 +2885,6 @@ Aldeia dos Sussurros	dub=18:997660,https://embedplayer2.xyz/cdn/hls/e32e51b3862c
 Aldeotas	dub=18:1033316,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/265.mp4
 Alec Baldwin: Unscripted	dub=18:911161
 Alegria	dub=18:809366,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755179.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764468.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23424.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63322.mp4
-Alem da Escuridao (2012)	dub=18:12718
 Alem da Escuridao - Star Trek (2013)	dub=18:54138,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765906.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35491.mp4
 Alem da Forca Alem da Fe (2024)	dub=18:1378803,https://embedplayer2.xyz/cdn/hls/659a3769873f1e5c7c8b654b8c4eafcb/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751262.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751260.mp4
 Alem da Morte (2017)	dub=18:400710,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753391.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43808.mp4
@@ -3044,8 +3041,8 @@ Alone In The Dark 2 - O Retorno do Mal	dub=18:12683
 Alone in the Dark: O Despertar do Mal	dub=18:12142
 Along With the Gods: The Last 49 Days	dub=18:518068,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762343.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23489.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63485.mp4
 Along with the Gods: The Two Worlds	dub=18:397567,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762276.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23498.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250454.mp4
-Alpha (2025)	dub=18:1284460	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301004.mp4
 Alpha Dog (2006)	dub=18:7457,https://embedplayer2.xyz/cdn/hls/44442d672a1658ddb9c622acec9f13a7/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762671.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23484.mp4
+Alpha.	dub=18:1284460	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301004.mp4
 AlphaGo	dub=18:455008
 Alpinistas Sociais	dub=18:1426142,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54457.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753142.mp4	leg=18:1426142.mp4?lang=leg
 Alpinistas: Desastre no Everest	dub=18:601493,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761550.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1948.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63495.mp4
@@ -3087,7 +3084,7 @@ Alvo da Mafia (2025)	dub=18:1491902,https://embedplayer2.xyz/cdn/hls/e447502600b
 Alvorada	dub=18:804775
 Always	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311234.mp4
 Além da Escuridão	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757260.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36844.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63555.mp4
-Além da Escuridão (2022)	dub=18:957176
+Além da Escuridão (2022)	dub=18:957176,18:12718
 Além da Existência	dub=18:936874,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756968.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765844.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35496.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63535.mp4
 Além da Friendzone	dub=18:520145,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752771.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43841.mp4
 Além da Fumaça: O que o Sistema Esconde de Você?	dub=18:1258825,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751907.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97646.mp4
@@ -3240,7 +3237,7 @@ Amigas de Verdade	dub=18:693489,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q3
 Amigas para Sempre	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763046.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769132.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23597.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314647.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63747.mp4
 Amigas para Sempre (2020)	dub=18:610595
 Amigo Imaginário	dub=18:528807
-Amigo Secreto (2022)	dub=18:986431,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759952.mp4
+Amigo Secreto	dub=18:986431,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759952.mp4
 Amigo de Ninguém	dub=18:646646,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763734.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23584.mp4
 Amigos	dub=18:79711,18:8388,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37262.mp4
 Amigos Alienigenas (2018)	dub=18:432383,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766347.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8628.mp4
@@ -3534,7 +3531,7 @@ Animais Perigosos (2025)	dub=18:1285965,https://embedplayer2.xyz/cdn/hls/7dc549e
 Animais Unidos Jamais Serao Vencidos (2010)	dub=18:50135
 Animais de Estimação	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64170.mp4
 Animais em Apuros (2018)	dub=18:518601,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8645.mp4
-Animal (2001)	dub=18:274626,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253705.mp4
+Animal	dub=18:274626,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253705.mp4
 Animalia	dub=18:937738,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755777.mp4	leg=18:937738.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64196.mp4
 Animals.	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311743.mp4
 Animatrix	dub=18:55931,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766303.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8649.mp4
@@ -3830,7 +3827,7 @@ Arda Turan Confronto	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083
 Ardente Paciência	dub=18:1025805,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753962.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64635.mp4
 Ardente Vingança (2026)	dub=18:1380316,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751384.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308967.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308973.mp4
 Ardida como Pimenta (1953)	dub=18:14117,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754055.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34917.mp4
-Area 51 (2015)	dub=18:57876
+Area 51 (2011)	dub=18:57876
 Arena (2011)	dub=18:71254
 Arena Mortal	dub=18:995803,https://embedplayer2.xyz/cdn/hls/e90ab3ac9da1fc2adbc8042ebaf3b124/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756396.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758522.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47772.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64644.mp4
 Arena dos Sonhos	dub=18:105528
@@ -3853,9 +3850,7 @@ Armadas e Perigosas	dub=18:455847
 Armadilha	dub=18:1032823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54640.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750953.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753154.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41529.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757390.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64658.mp4
 Armadilha (1999)	dub=18:1844,18:89691
 Armadilha Explosiva	dub=18:827887,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755529.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762810.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23868.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64670.mp4
-Armadilha Mortal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751139.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308963.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308972.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308968.mp4
-Armadilha Mortal (2016)	dub=18:402771,https://embedplayer2.xyz/cdn/hls/89b73164a61f85dda150c831e01dbfc2/master.txt
-Armadilha Mortal (2025)	dub=18:1338972
+Armadilha Mortal (2016)	dub=18:1338972,18:402771,https://embedplayer2.xyz/cdn/hls/89b73164a61f85dda150c831e01dbfc2/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751139.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308963.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308972.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308968.mp4
 Armadilha de Amor com Meu Cavaleiro Arrojado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303149.mp4
 Armadilha do Caçador	dub=18:489176,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763458.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23858.mp4
 Armadilha em Alto Mar (2024)	dub=18:1308757,https://embedplayer2.xyz/cdn/hls/83fcb1ce874b1e9e8d6ea23b99be0b47/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754765.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759065.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47768.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64663.mp4

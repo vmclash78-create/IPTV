@@ -510,10 +510,9 @@ Fora da Trilha	dub=18:430293,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/
 Fora de Alcance	dub=18:36272
 Fora de Combate (2018)	dub=18:429194
 Fora de Controle	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751045.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752002.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752265.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761988.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767075.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/524.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309265.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750855.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72814.mp4
-Fora de Controle (2002)	dub=18:46088,18:1193115,18:1160119
 Fora de Controle (2008)	dub=18:8944
 Fora de Controle (2023)	dub=18:1065300,https://embedplayer2.xyz/cdn/hls/49df39fc229daec60057ca451628c7f3/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301100.mp4
-Fora de Controle (2024)	dub=https://embedplayer2.xyz/cdn/hls/c043c55c6b967b3fd5222df207c7de9f/master.txt
+Fora de Controle (2024)	dub=18:46088,18:1193115,18:1160119,https://embedplayer2.xyz/cdn/hls/c043c55c6b967b3fd5222df207c7de9f/master.txt
 Fora de Mim (2024)	dub=18:971606,https://embedplayer2.xyz/cdn/hls/64959a4130deda5bb501c1f0ca9f52b1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300777.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55952.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754231.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762790.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26214.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72819.mp4
 Fora de Rumo	dub=18:8999
 Fora de Satã	leg=18:89456.mp4?lang=leg

@@ -87,7 +87,7 @@ Ragnarok (2013)	dub=18:731968,18:140818,http://acaidopt.org:80/movie/3llohwk4g9/
 Rags: O Poder da Música (2012)	dub=18:110490
 Raia 4	dub=18:544479,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762949.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31037.mp4
 Rain Man	dub=18:380,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763340.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31039.mp4
-Rainbow (2022)	dub=18:960170,18:201054,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765622.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34654.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87637.mp4
+Rainbow	dub=18:960170,18:201054,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765622.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34654.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87637.mp4
 Rainha Lycan retorna Lycan Queen Fights Back	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303168.mp4
 Rainha de Copas	dub=18:519465,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762523.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31044.mp4
 Rainha de Espadas	dub=18:829358,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758386.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51611.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87642.mp4

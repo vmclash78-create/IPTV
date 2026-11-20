@@ -1,3 +1,13 @@
+@Amor Disfarçado (2026)
+1	1	dub	19:303745/1/1
+1	2	dub	19:303745/1/2
+1	3	dub	19:303745/1/3
+1	4	dub	19:303745/1/4
+1	5	dub	19:303745/1/5
+1	6	dub	19:303745/1/6
+1	7	dub	19:303745/1/7
+1	8	dub	19:303745/1/8
+1	9	dub	19:303745/1/9
 @Amor Doce Amor
 1	1	dub	19:305551/1/1,http://64.31.23.207:80/series/96795792/50165825/5666501.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2702536.mp4
 1	2	dub	19:305551/1/2,http://64.31.23.207:80/series/96795792/50165825/5666502.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2702537.mp4
@@ -6550,9 +6560,3 @@
 1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5614282.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2649714.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233578.mp4
 1	9	dub	http://64.31.23.207:80/series/96795792/50165825/5614283.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2649715.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233579.mp4
 1	10	dub	http://64.31.23.207:80/series/96795792/50165825/5614284.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2649716.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233580.mp4
-@Amorteamo	2015
-1	1	dub	19:119510/1/1,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2597280.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203969.mp4
-1	2	dub	19:119510/1/2,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2597281.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203970.mp4
-1	3	dub	19:119510/1/3,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2597282.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203971.mp4
-1	4	dub	19:119510/1/4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2597283.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203972.mp4
-1	5	dub	19:119510/1/5,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2597284.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203973.mp4

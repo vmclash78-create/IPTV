@@ -273,6 +273,7 @@ Paranóia	dub=18:268853,18:446707,18:1417820,18:514943,18:453054,18:8271,http://
 Parasita (2019)	dub=18:496243,https://embedplayer2.xyz/cdn/hls/d79266b6b58127156fbdb4131bb4b0c3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300936.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756896.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767921.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18570.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85826.mp4
 Parasite	dub=18:48311,https://embedplayer2.xyz/cdn/hls/d79266b6b58127156fbdb4131bb4b0c3/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85821.mp4
 Paraíso Azul	dub=18:23942.m3u8,18:23942
+Paraíso Distante	dub=18:639857
 Paraíso Perdido	dub=18:524323
 Paraíso Perdido: O Caminho para Eternidade 2	dub=18:128540
 Paraísos Artificiais	dub=18:113329,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30470.mp4
@@ -373,6 +374,7 @@ Patsers	leg=18:1316070.mp4?lang=leg
 Patton, Rebelde ou Herói? (1970)	dub=18:11202
 Pau D'Arco	dub=18:1449004,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750660.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308276.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308278.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308274.mp4
 Pau pra Toda Obra (2016)	dub=18:429405
+Pau pra Toda Obra: Miami (2020)	dub=18:641167
 Paul McCartney Homem em Fuga	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251708.mp4
 Paul McCartney: Got Back	dub=18:1219045
 Paul: O Alien Fugitivo	dub=18:39513,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768503.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18586.mp4
@@ -930,7 +932,8 @@ População 436	dub=18:1596
 Por Agua Abaixo (2006)	dub=18:11619,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766230.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10954.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86669.mp4
 Por Amor (1999)	dub=18:10390
 Por Amor e Honra	dub=18:140222,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762499.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30698.mp4
-Por Amor ou Por Dinheiro (2019)	dub=18:542968,18:5070
+Por Amor ou Por Dinheiro (1993)	dub=18:5070
+Por Amor ou Por Dinheiro (2019)	dub=18:542968
 Por Amor ou Por Dinheiro?	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767920.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18793.mp4
 Por Baixo do Capacete: O Legado de Boba Fett	dub=18:877181
 Por Cima do seu Cadaver (2026)	dub=18:1390300,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306266.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750834.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301404.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306287.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750862.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301225.mp4
