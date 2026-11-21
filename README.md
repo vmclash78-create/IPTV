@@ -22,16 +22,23 @@ Plataforma nativa e independente de streaming IPTV e VOD sob demanda para macOS 
 - `testar_canais.py` — Testador e auditor de saúde dos canais (Health Check em tempo real).
 - `.github/workflows/` — Workflows do GitHub Actions para sincronização diária via cron.
 
-## 🎬 Lista de filmes em M3U
+## 🎬 Listas M3U de filmes e séries abertas
 
-O arquivo [`filmes/filmes-publicos.m3u`](filmes/filmes-publicos.m3u) é uma lista separada de filmes sob demanda. Ela é atualizada pelo workflow diário e não substitui o catálogo principal.
+As listas abaixo ficam espelhadas neste repositório. O Lovable e os players devem carregar os endereços deste repositório, não o endereço do projeto que publica a fonte original.
 
-- **Link para importar em um player compatível:** [abrir a M3U](https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes/filmes-publicos.m3u)
-- **Fonte e créditos:** [legalFreeIPTVplaylist](https://github.com/biskyt/legalFreeIPTVplaylist) publica os links e os motivos/licenças de cada entrada; os vídeos continuam hospedados pelas fontes originais.
-- **Atualização:** diariamente às 04:00 UTC (01:00 em Hidrolândia, CE), junto da sincronização existente.
-- **Como usar no PrismaPlayer:** em *Ajustes → Minhas listas*, adicione o link acima. Outros apps/sites só mostrarão os filmes se aceitarem listas M3U externas.
+| Conteúdo | Arquivo no Prisma TV | URL para usar no Lovable |
+| --- | --- | --- |
+| Filmes clássicos e acervo aberto | [`filmes/filmes-publicos.m3u`](filmes/filmes-publicos.m3u) | https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes/filmes-publicos.m3u |
+| Filmes de domínio público/licenças abertas | [`filmes/filmes-abertos.m3u`](filmes/filmes-abertos.m3u) | https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes/filmes-abertos.m3u |
+| Séries de domínio público/licenças abertas | [`filmes/series-abertas.m3u`](filmes/series-abertas.m3u) | https://raw.githubusercontent.com/vmclash78-create/IPTV/main/filmes/series-abertas.m3u |
 
-A lista combina obras de domínio público e obras com licenças abertas conforme os créditos da fonte. A própria fonte informa que algumas classificações de domínio público se baseiam na legislação dos Estados Unidos; a situação pode variar no Brasil. Consulte os créditos e as condições de cada obra antes de redistribuí-la. Este repositório não hospeda os vídeos.
+O workflow baixa os **índices M3U**, não os vídeos, todos os dias às 04:00 UTC (01:00 em Hidrolândia, CE). Ele preserva a última cópia válida quando a fonte fica indisponível ou falha na validação. O Lovable pode, assim, carregar as listas a partir do seu próprio GitHub. A rotina de atualização ainda consulta as fontes para receber conteúdo novo; os endereços de vídeo continuam nos servidores originais indicados em cada entrada.
+
+A lista de filmes/séries abertos preserva `x-source` e `x-licence` e acrescenta `tvg-type` para distinguir filmes de séries em players comuns. Consulte esses campos antes de redistribuir qualquer entrada: licenças como CC BY-NC têm restrições, e classificações de domínio público feitas com base nos Estados Unidos podem não se aplicar da mesma forma no Brasil. Esta lista não é uma licença geral para redistribuir os vídeos.
+
+- **Créditos da lista aberta:** [Nexonic IPTV](https://github.com/nexonic-technologies/nexonic-iptv), cujas playlists identificam a origem e a licença por entrada.
+- **Créditos da lista de filmes públicos:** [legalFreeIPTVplaylist](https://github.com/biskyt/legalFreeIPTVplaylist) e as fontes originais indicadas nos créditos.
+- **Como usar no PrismaPlayer:** em *Ajustes → Minhas listas*, adicione o link da lista desejada acima. Outros apps/sites só mostrarão o catálogo se aceitarem M3U externas.
 
 ## ⚙️ Testador de Saúde dos Canais
 
