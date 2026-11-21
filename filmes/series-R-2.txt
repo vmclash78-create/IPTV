@@ -1952,6 +1952,7 @@
 2	7	dub	19:208921/2/7
 2	8	dub	19:208921/2/8
 2	9	dub	19:208921/2/9
+2	10	dub	19:208921/2/10
 @Rivais do Criquete India x Paquistao
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2682997.mp4
 1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2682998.mp4

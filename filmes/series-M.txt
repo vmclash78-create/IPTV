@@ -58,6 +58,7 @@ Magia Record_ Mahou Shoujo Madoka_Magica Gaiden		0	13
 Magias & Miados		0	9
 Magic City		0	14
 Magic Kaito 1412		0	11
+Magic Knight Rayearth (2026)		0	14
 Magic Maker How to Make Magic in Another World		0	12
 Magic-Kyun Renaissance		0	13
 Magical Explorer		0	16
@@ -117,7 +118,7 @@ Maldicoes da Historia		0	6
 Maldito Dia De Sorte		0	10
 Maldito Rap		0	16
 Maldito Sonho de Conto de Fadas		0	10
-Malditos		0	7
+Malditos		1	7
 Maldivas		1	7
 Maldição de Sangue		1	20
 Maldosas		1	160
@@ -236,7 +237,7 @@ Marselha em Perigo		1	7
 Marshals: Uma História de Yellowstone	2026	1	19
 Marte		1	16
 Martelo		1	13
-Marvel - Demolidor	2015	1	39
+Marvel - Demolidor	2015	2	39
 Marvel - Guardiões da Galáxia		2	78
 Marvel - Jessica Jones	2015	2	39
 Marvel - Luke Cage	2016	2	26
@@ -356,7 +357,7 @@ Medaka Kuroiwa is Impervious to My Charms		2	12
 Medalha de Honra		2	8
 Medalist	2025	2	22
 Medcezir: Vidas Alheias		2	144
-Medici: Mestres de Florença		2	32
+Medici: Mestres de Florença		3	32
 Medicina do Amanhã		3	3
 Medico Legista Dr. Qin		3	20
 Medico em Outra Vida - Doktor Baska Hayatta		3	6
@@ -476,7 +477,7 @@ Meu Coracao e Teu		3	177
 Meu Demonio Favorito		3	16
 Meu Dente Seu Amor		3	12
 Meu Destino		3	138
-Meu Diário para a Liberdade		3	16
+Meu Diário para a Liberdade		4	16
 Meu Doce Mafioso		4	16
 Meu Dublê		4	26
 Meu Empregado Domestico Nagisa		4	10
@@ -596,7 +597,7 @@ Minha Esposa e Minha Advogada de Divorcio?!		4	1
 Minha Estranha Obsessao Como Eles Estao Agora		4	6
 Minha Estranha Obsessão		4	16
 Minha Estrela Problematica		4	24
-Minha Familia me Vendeu para o Chefe do Crime		4	32
+Minha Familia me Vendeu para o Chefe do Crime		5	32
 Minha Família Me Vendeu pra um Chefe do Crime		5	1
 Minha Família em Jogo		5	10
 Minha Filha Saiu de Casa e Voltou como uma Aventureira Rank-S		5	13
@@ -716,7 +717,7 @@ Molang		5	130
 Molly McGee e o Fantasma		5	40
 Mom		5	199
 Momentary Lily		5	15
-Momentos de calma		5	6
+Momentos de calma		6	6
 Momfluencer A Mae de Todas as Mentiras		6	10
 Momma Named Me Sheriff		6	18
 Momonstros		6	52
@@ -836,7 +837,7 @@ Mugen No Ryvius		6	26
 Mugyutto Black Clover		6	16
 Muhammad Ali: O Maior		6	8
 Muhtesem Yuzyil Seculo Magnifico		6	311
-Muhyo & Roji's Bureau of Supernatural Investigation		6	12
+Muhyo & Roji's Bureau of Supernatural Investigation		7	12
 Muito Assustador Mesmo		7	20
 Muito Esforcado	2025	7	8
 Muito Velho Para Morrer Jovem		7	10
@@ -883,7 +884,7 @@ Murabito A ni Tensei Suru		7	12
 Murai in Love		7	12
 Murder Drones		7	8
 Murder in Provence		7	3
-Murder in a Small Town	2024	7	18
+Murder in a Small Town	2024	7	19
 Murderville		7	6
 Musafir Cafe		7	8
 Musashino		7	3
@@ -956,7 +957,7 @@ Mystic Nine		7	23
 Mystic Pop Up Bar		7	24
 Mythic Quest	2020	7	40
 Mythic Quest Raven's Banquet		7	37
-Mytho		7	6
+Mytho		8	6
 Mythomaniac		8	24
 Má Fortuna		8	8
 Má Influencer		8	7

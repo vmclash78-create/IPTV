@@ -598,7 +598,7 @@ O Segredo do Templo - Atiye		4	24
 O Segredo dos Animais A Serie		4	51
 O Segundo Melhor Hospital da Galáxia		4	16
 O Senhor das Moscas	2026	4	4
-O Senhor dos Anéis: Os Anéis de Poder	2022	5	28
+O Senhor dos Anéis: Os Anéis de Poder	2022	5	30
 O Senhor e a Serva		5	10
 O Sequestro do Voo 601		5	6
 O Servente Supremo		5	1
@@ -762,7 +762,7 @@ Okura Casos Esquecidos		6	10
 Okusama wa Mahou Shoujo		6	13
 Ola Bachhon		6	1
 Ola Meus 20 Anos		6	26
-Olaf Apresenta		6	6
+Olaf Apresenta		6	11
 Old Fashion Cupcake		6	5
 Olha o que você me fez fazer		6	1
 Olhar Indiscreto		6	10
@@ -894,6 +894,7 @@ Os 4400		7	45
 Os 7 Ursos		7	10
 Os Abandonados	2025	7	7
 Os Agentes Secretos de Churchill: Novos Recrutas		7	5
+Os Altruístas		7	8
 Os Amores de Anne		7	2
 Os Anos Novos		7	1
 Os Apuros de Penélope Charmosa		7	17
@@ -957,7 +958,7 @@ Os Enviados		7	16
 Os Escolhidos à Prova De Tudo Com Bear Grylls		7	6
 Os Experientes		7	7
 Os Fantasmas de Devil Perch		7	1
-Os Farad		7	8
+Os Farad		8	8
 Os Feiticeiros Alem de Waverly Place	2024	8	35
 Os Feiticeiros De Waverly Place		8	106
 Os Filhos da Guerra		8	2
@@ -1077,7 +1078,7 @@ Os Thundermans		8	101
 Os Thundermans Disfarcados		8	26
 Os Top Dez dos Anos 80		8	6
 Os Trapalhoes		8	203
-Os Ursinhos Gummi		8	65
+Os Ursinhos Gummi		9	65
 Os Vingadores A Serie		9	13
 Os Vingadores Unidos		9	127
 Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		9	52

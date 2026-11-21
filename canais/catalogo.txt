@@ -1,5 +1,5 @@
 # PRISMA TV — LISTA DE CANAIS
-# Atualizado em: 2026-11-20 12:30:05 UTC
+# Atualizado em: 2026-11-21 02:12:48 UTC
 # Auditoria completa: sem /error.txt, sem links mortos, failover ordenado
 # ──────────────────────────────────────────────────────────
 
@@ -1202,7 +1202,7 @@ logo: https://img.faz-o-eli.online/sportynet.png
 categoria: Esportes
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sportynet1/index.m3u8
 qualidade: FHD
 
 canal: SportyNet+ 2
@@ -2154,6 +2154,11 @@ qualidade: HD · iptv-org
 canal: Music Box Brazil (720p)
 categoria: TV Aberta
 fonte: http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+qualidade: HD · iptv-org
+
+canal: NickOnline Bob Esponja [Not 24/7]
+categoria: TV Aberta
+fonte: https://bob.x1colegal.com/hls/stream.m3u8
 qualidade: HD · iptv-org
 
 canal: NickOnline HD (720p)

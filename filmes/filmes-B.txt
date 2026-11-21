@@ -119,7 +119,7 @@ Bakhita - A Santa	dub=18:233805
 Baki Hanma x Kengan Ashura (2024)	dub=18:1263421,https://embedplayer2.xyz/cdn/hls/555e5184f0a12798acebeef3add6163e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8818.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65700.mp4
 Bakuage Sentai Boonboomger VS King-Ohger	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65695.mp4
 Bala Perdida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761582.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2331.mp4
-Bala Perdida (2020)	dub=18:706503
+Bala Perdida (2014)	dub=18:706503
 Bala Perdida 2	dub=18:948276,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54802.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760242.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2339.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65689.mp4
 Bala Perdida 3 (2025)	dub=18:1144430,https://embedplayer2.xyz/cdn/hls/da5f4403e27c97364f8fab49ddf1d7d2/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761940.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2347.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755109.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65705.mp4
 Bala Sem Nome	dub=18:1165832,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758226.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37783.mp4
@@ -148,7 +148,7 @@ Bambi 2 (2006)	dub=18:13205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Bambi 2: O Grande Príncipe da Floresta	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766498.mp4
 Bambi, Uma Aventura na Floresta (2024)	dub=18:1094473,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750189.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309804.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309790.mp4
 Banana Joe	dub=18:11340
-Banana Split (2018)	dub=18:493058,18:549989,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767992.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13442.mp4	leg=18:549989.mp4?lang=leg
+Banana Split	dub=18:549989,18:493058,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767992.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13442.mp4	leg=18:549989.mp4?lang=leg
 Banana Splits - O Filme	dub=18:608654,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54803.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768535.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53413.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65721.mp4
 Bancários	dub=18:759331
 Band of Brothers Legacy (2026)	dub=18:1762506	leg=18:1762506.mp4?lang=leg,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750226.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314481.mp4
@@ -443,7 +443,6 @@ Belén: Uma História de Injustiça	dub=18:1301844,http://acaidopt.org:80/movie/
 Bem Longe de Casa	dub=18:27984
 Bem a Tempo para o Natal	dub=18:363486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33650.mp4
 Bem vinda Estranha (2018)	dub=18:413852,https://embedplayer2.xyz/cdn/hls/e6c7afc6f41e6e8254d1ca8baf9accad/master.txt
-Bem vindo a Selva (2003)	dub=18:10159
 Bem-Vinda a Manhattan	dub=18:407335
 Bem-Vinda a Quixeramobim	dub=18:945805,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767786.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13502.mp4
 Bem-Vinda, Violeta (2023)	dub=18:976740
@@ -464,7 +463,7 @@ Bem-Vindos de Novo	dub=18:928979,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q
 Bem-vindo ao Mundo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24223.mp4
 Bem-vindo à Chechênia	dub=18:653579
 Bem-vindo à Selva	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765211.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2411.mp4
-Bem-vindo à Selva (2013)	dub=18:205724
+Bem-vindo à Selva (2013)	dub=18:10159,18:205724
 Bem-vindo à Tarzana	dub=18:787738,https://embedplayer2.xyz/cdn/hls/a067e0a606fee960a8a9936d5ad12b2d/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751564.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249179.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249209.mp4
 Bem-vindos a Marwen	dub=18:351044,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768445.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13511.mp4
 Bem-vindos ao Meu Mundo	dub=18:284537,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764250.mp4
@@ -638,7 +637,7 @@ Blackbird	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ
 Blackbird Blackbird Blackberry	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66283.mp4
 Blackfish: Fúria Animal	dub=18:158999
 Blackjack The Jackie Ryan Story	dub=18:748341	leg=18:748341.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66284.mp4
-Blackout	dub=18:759507,18:1248965,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761915.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2457.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66294.mp4
+Blackout (2022)	dub=18:759507,18:1248965,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761915.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2457.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66294.mp4
 Blackout - Sentiu a Minha Falta?	dub=18:25690
 Blackout: A Batalha Final	dub=18:574982,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752945.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44034.mp4
 Blackpink Light Up The Sky	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66295.mp4

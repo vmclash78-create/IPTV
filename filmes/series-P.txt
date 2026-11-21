@@ -195,7 +195,7 @@ Pequenos Gigantes da Natureza		1	20
 Pequenos Incendios por Toda Parte		1	8
 Pequenos Profetas	2026	1	6
 Perception: Truques da Mente		1	39
-Percy Jackson e os Olimpianos	2023	1	16
+Percy Jackson e os Olimpianos	2023	1	17
 Perdendo o Juizo		1	10
 Perdida		1	22
 Perdida no Tempo		1	961

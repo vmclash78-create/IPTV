@@ -27,6 +27,8 @@
 3	2	dub	19:84773/3/2
 3	3	dub	19:84773/3/3
 3	4	dub	19:84773/3/4
+3	5	dub	19:84773/3/5
+3	6	dub	19:84773/3/6
 @O Senhor e a Serva
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5656691.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652118.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5656692.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2652119.mp4

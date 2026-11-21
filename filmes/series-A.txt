@@ -326,7 +326,7 @@ A Ilha da Fantasia		2	138
 A Ilha das Sombras		2	25
 A Ilha do Tesouro		2	6
 A Imperatriz	2022	2	12
-A Imperatriz Se Casou Novamente		2	6
+A Imperatriz Se Casou Novamente		2	8
 A Impostora		2	290
 A Incrivel Cecilia		2	1
 A Incrivel Madagascar		2	3
@@ -529,7 +529,7 @@ A Princesa Guerreira - Destan		4	119
 A Princesa Oferenda e o Rei das Feras		4	24
 A Princesa Real		4	40
 A Prisioneira da Beleza		4	72
-A Produtora		4	22
+A Produtora		4	24
 A Promessa	2023	4	983
 A Promessa - La Promesa		4	446
 A Promessa Yemin		4	409
@@ -568,7 +568,7 @@ A Reinvencao do Flamengo		4	4
 A Rejeitada Luna Voltou com um Filho		4	39
 A Reserva	2025	4	6
 A Retaliação		4	8
-A Returners Magic Should Be Special		4	1
+A Returners Magic Should Be Special		4	12
 A Revolucao das Spice Girls		4	3
 A Rocha Encantada		4	96
 A Rocha Encantada: De Volta à Caverna		4	96
@@ -1077,8 +1077,8 @@ Amor Comum - Adı Sevgi		8	11
 Amor Contra o Tempo		8	1
 Amor Destinado, Case Comigo Novamente		8	10
 Amor Disfarçado		8	6
-Amor Disfarçado (2026)		9	9
-Amor Doce Amor		9	5
+Amor Disfarçado (2026)		9	10
+Amor Doce Amor		9	7
 Amor Entre Estranhos		9	52
 Amor Entre Linhas		9	62
 Amor Entre Línguas		9	13
@@ -1364,7 +1364,7 @@ Arakawa Under the Bridge		11	13
 Arata Kangatari		11	11
 Arcana Famiglia		11	13
 Arcane	2021	11	18
-Arcanjo Renegado	2020	11	40
+Arcanjo Renegado	2020	11	50
 Archer		11	142
 Arctic Ascent with Alex Honnold		11	3
 Arde Madrid		11	8
@@ -1380,6 +1380,7 @@ Argento Soma		11	26
 Aria The Animation		11	53
 Arifureta Shokugyou de Sekai Saikyou		11	86
 Arifureta: From Commonplace to World's Strongest		11	45
+Ark II		11	3
 Arkitekten		11	12
 Arknights		11	20
 Arlequina		11	57
@@ -1436,7 +1437,7 @@ As Aventuras de Blinky Bill		11	52
 As Aventuras de Gortimer Gibbon na Rua Normal		11	13
 As Aventuras de Gudetama		11	10
 As Aventuras de Horton		11	7
-As Aventuras de Jackie Chan	2000	11	95
+As Aventuras de Jackie Chan	2000	12	95
 As Aventuras de Jimmy Neutron,O Menino Gênio		12	73
 As Aventuras de José e Durval	2023	12	8
 As Aventuras de Kid Danger		12	10
@@ -1556,7 +1557,7 @@ Ash vs Evil Dead	2015	12	30
 Ashita No Nadja		12	50
 Ashley Garcia: A de Amor		12	8
 Ashley Madison Sexo Mentiras e Escandalo		12	3
-Asim, O Vigarista		12	8
+Asim, O Vigarista		13	8
 Asla Vazgeçmem		13	159
 Asobi Asobase - workshop of fun -		13	12
 Asobi ni Iku yo!		13	12

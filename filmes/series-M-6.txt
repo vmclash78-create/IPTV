@@ -1,3 +1,10 @@
+@Momentos de calma
+1	1	dub	19:311835/1/1
+1	2	dub	19:311835/1/2
+1	3	dub	19:311835/1/3
+1	4	dub	19:311835/1/4
+1	5	dub	19:311835/1/5
+1	6	dub	19:311835/1/6
 @Momfluencer A Mae de Todas as Mentiras
 1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2678858.mp4
@@ -3309,16 +3316,3 @@
 1	309	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2661271.mp4
 1	310	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2661272.mp4
 1	311	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2661273.mp4
-@Muhyo & Roji's Bureau of Supernatural Investigation
-1	1	dub	19:80853/1/1.m3u8
-1	2	dub	19:80853/1/2.m3u8
-1	3	dub	19:80853/1/3.m3u8
-1	4	dub	19:80853/1/4.m3u8
-1	5	dub	19:80853/1/5.m3u8
-1	6	dub	19:80853/1/6.m3u8
-1	7	dub	19:80853/1/7.m3u8
-1	8	dub	19:80853/1/8.m3u8
-1	9	dub	19:80853/1/9.m3u8
-1	10	dub	19:80853/1/10.m3u8
-1	11	dub	19:80853/1/11.m3u8
-1	12	dub	19:80853/1/12.m3u8

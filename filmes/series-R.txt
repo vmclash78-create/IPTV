@@ -129,7 +129,7 @@ Red Election		1	10
 Red Eye	2024	1	12
 Red Light		1	10
 Red Oaks		1	26
-Red River		1	38
+Red River		1	40
 Red Rose		1	8
 Rede de Escuridão		1	7
 Redemption		1	6
@@ -320,7 +320,7 @@ Ritmo + Flow: França		2	8
 Ritmo + Flow: Itália		2	44
 Ritmo Selvagem		2	8
 Rivais		2	14
-Rivais / Rivals		2	17
+Rivais / Rivals		2	18
 Rivais do Criquete India x Paquistao		2	3
 Rivalidade Ardente	2025	2	6
 Rivalidades Fatais		2	6

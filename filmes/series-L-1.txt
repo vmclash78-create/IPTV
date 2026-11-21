@@ -5414,6 +5414,8 @@
 1	6	leg	19:321958/1/6.mp4?lang=leg
 1	7	dub	19:321958/1/7
 1	7	leg	19:321958/1/7.mp4?lang=leg
+1	8	dub	19:321958/1/8
+1	8	leg	19:321958/1/8.mp4?lang=leg
 @Linha De Combate
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5601903.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2518670.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146067.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5601904.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2518671.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146068.mp4

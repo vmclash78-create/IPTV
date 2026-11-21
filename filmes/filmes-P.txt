@@ -251,6 +251,7 @@ Para Wong Foo, Obrigada por Tudo! Julie Newmar	dub=http://acaidopt.org:80/movie/
 Para me Vingar Casei com um Estranho	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303132.mp4
 Para o Que Der e Vier (2013)	dub=18:209244,18:448458,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300935.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767336.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18548.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254271.mp4
 Para sempre Vencedor (2008)	dub=18:31451,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763433.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30456.mp4
+Para&#039;í	dub=18:555788
 ParaNorman (2012)	dub=18:77174,https://embedplayer2.xyz/cdn/hls/e5478ef7b48e1c5d72ca0775433a4f34/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10726.mp4,https://speed2.megafilmeshd9.com/midia/speed-4/2154399.mp4?tipo=movie&tmdb=77174&title=ParaNorman&ano=2012&idioma=dub	leg=https://embedplayer2.xyz/cdn/hls/c9f6a510c609312c5605030af48e9485/master.txt
 Parabens Para o Meu Ex! (2023)	dub=18:1193721
 Parabéns a Você	dub=18:651451,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767710.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18561.mp4
@@ -550,6 +551,7 @@ Perfeita e a Mae! (2016)	dub=18:376659,https://embedplayer2.xyz/cdn/hls/e68c9d9e
 Perfeitos Desconhecidos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751335.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768369.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18709.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254812.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86137.mp4
 Perfeitos Desconhecidos (2022)	dub=18:381341,18:833591,18:435126	leg=18:381341.mp4?lang=leg
 Perfeitos Desconhecidos (2025)	dub=18:1271064,https://embedplayer2.xyz/cdn/hls/771129afa27dcad563ffe7678d2a4e74/master.txt
+Perfeitos Mentirosos	dub=18:1568060
 Perfeição	dub=18:49370,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763408.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30585.mp4
 Perfeição Insondável (2020)	dub=18:716703	leg=18:716703.mp4?lang=leg
 Perfeição Perdida (2023)	dub=https://embedplayer2.xyz/cdn/hls/746f93ba151eff8e2db5a5dd65780b00/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755624.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86149.mp4
@@ -932,8 +934,7 @@ População 436	dub=18:1596
 Por Agua Abaixo (2006)	dub=18:11619,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766230.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10954.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86669.mp4
 Por Amor (1999)	dub=18:10390
 Por Amor e Honra	dub=18:140222,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762499.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30698.mp4
-Por Amor ou Por Dinheiro (1993)	dub=18:5070
-Por Amor ou Por Dinheiro (2019)	dub=18:542968
+Por Amor ou Por Dinheiro (2019)	dub=18:542968,18:5070
 Por Amor ou Por Dinheiro?	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767920.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18793.mp4
 Por Baixo do Capacete: O Legado de Boba Fett	dub=18:877181
 Por Cima do seu Cadaver (2026)	dub=18:1390300,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306266.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750834.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301404.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306287.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750862.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301225.mp4
@@ -1084,7 +1085,7 @@ Premonições em Woodland (2018)	dub=18:707011,http://acaidopt.org:80/movie/3llo
 Prenda a Respiração (2024)	dub=18:718014,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58176.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755957.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758690.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51440.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86802.mp4
 Prenda-Me se For Capaz	dub=18:640,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762484.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30770.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253797.mp4
 Prenda-me se Puder!	dub=18:47701
-Preparada para a Guerra (2025)	dub=18:1196067.m3u8,https://embedplayer2.xyz/cdn/hls/c3bbb57850019668f86fe011f01ae8a2/master.txt
+Preparada para a Guerra (2025)	dub=18:1196067.m3u8,18:1196067,https://embedplayer2.xyz/cdn/hls/c3bbb57850019668f86fe011f01ae8a2/master.txt
 Preparativos para Ficarmos Juntos por Tempo Indefinido	dub=18:727002,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762589.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30775.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86803.mp4
 Preparação e Pouso: Operação Bola de Neve	dub=18:1550797,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752084.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769065.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1041.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86818.mp4
 Preparação para a Próxima Vida	dub=18:1314129,https://embedplayer2.xyz/cdn/hls/e862d42af91d49db882cabfe40e437a8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97479.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752011.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768741.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1050.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86809.mp4

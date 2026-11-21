@@ -25,6 +25,7 @@ Hacker - Privacidade Violada	dub=18:662231,http://acaidopt.org:80/movie/3llohwk4
 Hacker Todo Crime Tem Um Inicio (2016)	dub=18:413052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256190.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256212.mp4
 Hackers - Piratas de Computador	dub=18:10428,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752927.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3996.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74074.mp4
 Hackers no Controle	dub=18:944864,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760612.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4000.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74085.mp4
+Hadestown: O Musical	leg=18:1439808.mp4?lang=leg
 Haikyuu!! Movie: Owari to Hajimari	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756916.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74100.mp4
 Hail Satan	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74111.mp4
 Hair	dub=18:10654
@@ -35,6 +36,7 @@ Hala (2019)	dub=18:535308,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Hallelujah: Leonard Cohen, Uma Jornada, Uma canção	dub=18:854513,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759978.mp4
 Hallow Road	dub=https://embedplayer2.xyz/cdn/hls/c28d75064397ac4d7dd7031c8857a819/master.txt	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754904.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74090.mp4
 Hallow Road Caminho Sem Volta (2025)	dub=18:1205656,https://embedplayer2.xyz/cdn/hls/c28d75064397ac4d7dd7031c8857a819/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751374.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98402.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74095.mp4
+Hallowarrior	leg=18:1393929.mp4?lang=leg
 Halloween '63	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758696.mp4
 Halloween '87	dub=18:657929,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759584.mp4
 Halloween (2018)	dub=18:424139,https://embedplayer2.xyz/cdn/hls/757a97139078877f5799aa92d2cbd55b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56126.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758644.mp4
@@ -427,6 +429,7 @@ Homestead	dub=18:1015957
 Homicídio	dub=18:22828
 Homo Argentum (2025)	dub=18:1471345,https://embedplayer2.xyz/cdn/hls/24cb96f774386f2d698eee5010642c94/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74623.mp4
 Honest Thief	dub=https://embedplayer2.xyz/cdn/hls/46fcb8b46b8578c97f2ae2b05cd17da6/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74629.mp4
+Honestino	dub=18:1541074
 Honesty Weekend	dub=18:797484	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74634.mp4
 Honey	dub=18:515596,18:1232174,18:879388,18:1149504,https://embedplayer2.xyz/cdn/hls/9d3418b7ce2a15a3491eb3a17a0cd68e/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763859.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26755.mp4
 Honey - No Ritmo dos Seus Sonhos (2003)	dub=18:10028,https://embedplayer2.xyz/cdn/hls/9d3418b7ce2a15a3491eb3a17a0cd68e/master.txt

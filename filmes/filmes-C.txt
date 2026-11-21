@@ -1183,6 +1183,7 @@ Como Magica (2026)	dub=18:1007757,https://embedplayer2.xyz/cdn/hls/8de660979b78a
 Como Matar seu Marido	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756417.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764171.mp4
 Como Me Apaixonei por um Gângster	dub=18:809972,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764216.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766800.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24770.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68056.mp4
 Como Mudar o Mundo	dub=18:319073
+Como Nasce um Assassino	leg=18:1084409.mp4?lang=leg
 Como Nossos Pais	dub=18:439066,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757806.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38009.mp4
 Como Não Esquecer Essa Garota	dub=18:188538,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753303.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41722.mp4
 Como Não Perder Essa Mulher	dub=18:138697,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753335.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41741.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68071.mp4

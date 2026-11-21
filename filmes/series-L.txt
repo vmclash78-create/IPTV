@@ -232,7 +232,7 @@ Linda Mentira		1	22
 Linda de Morrer		1	8
 Lindo Amor Vida Maravilhosa		1	100
 Line of Duty		1	46
-Line of Fire		1	14
+Line of Fire		1	16
 Linha De Combate		1	48
 Linha Direta		1	40
 Linha S		1	12
@@ -394,7 +394,7 @@ Luz para a Noite		3	28
 Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		3	4
 Lycoris Recoil	2022	3	13
 Lynch		3	22
-Lá na Minha Terra		3	8
+Lá na Minha Terra		3	10
 Lágrimas de amor		3	111
 Líderes de Torcida		3	28
 Línguas da nossa língua		3	4

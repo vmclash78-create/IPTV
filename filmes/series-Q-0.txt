@@ -1794,6 +1794,7 @@
 8	25	dub	19:94232/8/25,http://64.31.23.207:80/series/96795792/50165825/5578409.mp4
 8	26	dub	19:94232/8/26,http://64.31.23.207:80/series/96795792/50165825/5726769.mp4
 8	27	dub	19:94232/8/27
+8	28	dub	19:94232/8/28
 @Que Legal Scooby Doo
 1	1	dub	19:64228/1/1,http://64.31.23.207:80/series/96795792/50165825/5538517.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2635214.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/127567.mp4
 1	2	dub	19:64228/1/2,http://64.31.23.207:80/series/96795792/50165825/5538518.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2635215.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/127568.mp4

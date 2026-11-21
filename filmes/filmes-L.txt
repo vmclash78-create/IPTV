@@ -109,7 +109,8 @@ Lado a Lado com um Assassino	dub=18:37714
 Lados Opostos (2021)	dub=18:918692,https://embedplayer2.xyz/cdn/hls/3d1ef658103cc888f3f963fbd95b3882/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756352.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757358.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36971.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76568.mp4
 Ladra de Coracao	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303292.mp4
 Ladrar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251513.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251514.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250645.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254765.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250634.mp4
-Ladroes (2025)	dub=18:1245993,18:693623,18:25795,18:22907,https://embedplayer2.xyz/cdn/hls/890e6de09e36d3d79269e60185cf713b/master.txt
+Ladroes (2010)	dub=18:693623,18:25795,18:22907
+Ladroes (2025)	dub=18:1245993,https://embedplayer2.xyz/cdn/hls/890e6de09e36d3d79269e60185cf713b/master.txt
 Ladrão Que Engana Ladrão (2005)	dub=18:12183
 Ladrão de Casaca	dub=18:381
 Ladrão de Diamantes	dub=18:10589,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760330.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4606.mp4

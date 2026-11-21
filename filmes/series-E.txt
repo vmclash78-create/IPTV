@@ -10,7 +10,7 @@ ER Plantão Médico	1994	0	410
 ESPN Jeopardy!		0	10
 EU LOVE ARLO		0	19
 EUA: A Luta pela Liberdade		0	6
-Earth At Night In Color		0	6
+Earth At Night In Color		0	12
 East New York: Uma Nova Lei	2022	0	21
 Easy		0	26
 Easygoing Territory Defense by the Optimistic Lord		0	1
@@ -181,7 +181,7 @@ Entre a Razao e a Emocao		1	35
 Entre a Vida e a Morte		1	6
 Entre dois amores - Fatih Harbiye		1	50
 Entre o Inverno e a Primavera		1	5
-Entre os Nossos Passos		1	11
+Entre os Nossos Passos		1	12
 Entrelinhas Pontilhadas		1	6
 Entrevista com o Vampiro	2022	1	22
 Entrevías	2022	1	34

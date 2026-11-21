@@ -563,7 +563,7 @@ The Found Footage Phenomenon	dub=18:811068
 The Freediver	dub=18:160451
 The French Montana Story: For Khadija	dub=18:1122543,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756175.mp4	leg=18:1122543.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91419.mp4
 The Funniest Man in the World	dub=18:204474
-The Furious	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751037.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750941.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308391.mp4
+The Furious	dub=18:1280738,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751037.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750941.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308391.mp4
 The Furnace	dub=18:728136
 The Future of Climbing	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750493.mp4
 The Game Changers	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91424.mp4
@@ -712,6 +712,7 @@ The Old Guard 2 (2025)	dub=18:846422,https://embedplayer2.xyz/cdn/hls/8a8da94962
 The Old Way - À Maneira Antiga	dub=18:872954
 The Old Woman With The Knife (2025)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289528.mp4
 The One And Only Ivan	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91743.mp4
+The Optimist	leg=18:1129188.mp4?lang=leg
 The Order	dub=18:440911,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756156.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91750.mp4
 The Other	dub=18:1487209
 The Other Lamb	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91765.mp4
@@ -975,6 +976,7 @@ Tio Frank	dub=18:634544,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/
 Tio do meu Ex me ama	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303359.mp4
 Tiozões	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58836.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766815.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19891.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92263.mp4
 Tipline Mysteries: Dial 1 for Murder	dub=18:1282948
+Tipo Irmãs	dub=18:1595124
 Tipos de Gentileza	dub=18:1029955	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757033.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92268.mp4
 Tirando a Maior Onda: O Filme (2020)	dub=18:566927,https://embedplayer2.xyz/cdn/hls/4a74524c87b29adf7644ba644d82fb5f/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768039.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19906.mp4	leg=18:566927.mp4?lang=leg
 Tirando o Atraso (2016)	dub=18:291870,https://embedplayer2.xyz/cdn/hls/6b9cbf512d442e757ef42c28df6d0cfb/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767329.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19910.mp4
@@ -1160,6 +1162,7 @@ Totalmente Selvagem	dub=18:11300,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q
 Totalmente Sem Rumo (2004)	dub=18:10762,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2773411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253788.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253845.mp4
 Totalmente Sem Rumo 2: Defensores da Natureza	dub=18:28677
 Totalmente Trocados	dub=18:721077
+Totem (2017)	dub=18:958186,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755304.mp4	leg=18:958186.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93095.mp4
 Touch	dub=18:1364637,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58891.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753233.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754452.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43039.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92499.mp4
 Touched	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756487.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92483.mp4
 Touken Ranbu Kai Douden Chikashi Haberau Monora	dub=18:1294084	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92478.mp4
@@ -1485,6 +1488,7 @@ Tudo Vai Ficar Bem	dub=18:246127
 Tudo Vai dar Certo (2025)	dub=18:1115982,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768815.mp4
 Tudo de Novo (2020)	dub=18:664301,18:1398551,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767487.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20088.mp4
 Tudo de Novo, Mais Uma Vez	dub=18:1100962
+Tudo e Possivel (2022)	dub=18:112289,18:56651,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58971.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753458.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43077.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93003.mp4
 Tudo e Todas as Coisas (2017)	dub=18:417678,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763989.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32356.mp4
 Tudo em Familia (2024)	dub=18:987686	leg=18:987686.mp4?lang=leg
 Tudo em Família	dub=18:9043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58969.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753176.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755272.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43058.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92930.mp4
@@ -1498,6 +1502,7 @@ Tudo para Ficar com Ele	dub=18:11812,http://acaidopt.org:80/movie/3llohwk4g9/kwf
 Tudo pela Noiva (2023)	dub=18:873256,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753642.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43068.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92962.mp4
 Tudo pela Vitória	dub=18:13416,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32366.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92952.mp4
 Tudo pelo Divórcio	dub=18:1281933,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768348.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20099.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753946.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92957.mp4
+Tudo pelo Meu Irmão	dub=18:1184889
 Tudo por Dinheiro (2005)	dub=18:9910
 Tudo por Jojo	dub=18:968572,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768283.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20108.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92967.mp4
 Tudo por Roona	dub=18:753272
@@ -1507,7 +1512,6 @@ Tudo por um Pop Star	dub=18:551572,http://acaidopt.org:80/movie/3llohwk4g9/kwf09
 Tudo por uma Herança	dub=18:18391
 Tudo que Quero	dub=18:338768
 Tudo que Resta de Você	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92974.mp4
-Tudo é Possível	dub=18:56651,18:112289,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58971.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753458.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43077.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93003.mp4
 Tuesday: O Último Abraço	dub=18:831395,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755731.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762088.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32380.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92997.mp4
 Tuff Turf O Rebelde	dub=18:28410,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32394.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93008.mp4
 Tully (2018)	dub=18:400579,https://embedplayer2.xyz/cdn/hls/d2776dd8d0b59dd17024c9c2447ebb61/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767213.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20135.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301269.mp4
@@ -1564,7 +1568,6 @@ Tão Bonito Quanto o Amor (2025)	dub=18:1457185,https://embedplayer2.xyz/cdn/hls
 Tão Descolada Quanto Eu	dub=18:83869
 Tão Forte e Tão Perto	dub=18:64685,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765061.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31934.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763764.mp4
 Tão Legal Quanto Você (2020)	dub=18:718840,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756321.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767592.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20157.mp4	leg=18:718840.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93087.mp4
-Tótem	dub=18:958186,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755304.mp4	leg=18:958186.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93095.mp4
 Tô Ryca 2	dub=18:687552,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757916.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767267.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39474.mp4
 Tô Ryca!	dub=18:322994,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758453.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39470.mp4
 Tô de Férias (2006)	dub=18:26497,https://embedplayer2.xyz/cdn/hls/dcfaf357b4eaaa9136d27c4f282fb511/master.txt

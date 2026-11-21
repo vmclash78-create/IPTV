@@ -203,6 +203,8 @@
 1	18	leg	19:314054/1/18.mp4?lang=leg
 1	19	dub	19:314054/1/19
 1	19	leg	19:314054/1/19.mp4?lang=leg
+1	20	dub	19:314054/1/20
+1	20	leg	19:314054/1/20.mp4?lang=leg
 @Red Rose
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5616801.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525964.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153677.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5616802.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2525965.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153678.mp4

@@ -364,7 +364,7 @@ https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz
 #EXTINF:-1 tvg-id="CazeTV 2" tvg-name="CazeTV 2" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 2
 https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cazetv2/index.m3u8
 #EXTINF:-1 tvg-id="SportyNet+ 1" tvg-name="SportyNet+ 1" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 1
-https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
+https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sportynet1/index.m3u8
 #EXTINF:-1 tvg-id="SportyNet+ 2" tvg-name="SportyNet+ 2" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 2
 https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sportynet2/index.m3u8
 #EXTINF:-1 tvg-id="SportyNet+ 3" tvg-name="SportyNet+ 3" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 3
@@ -605,6 +605,8 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="MKK Web TV (720p) [Not 24/7]" tvg-name="MKK Web TV (720p) [Not 24/7]" tvg-logo="" group-title="TV Aberta",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickOnline Bob Esponja [Not 24/7]" tvg-name="NickOnline Bob Esponja [Not 24/7]" tvg-logo="" group-title="TV Aberta",NickOnline Bob Esponja [Not 24/7]
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NTV (720p)" tvg-name="NTV (720p)" tvg-logo="" group-title="TV Aberta",NTV (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="O Dia TV (450p)" tvg-name="O Dia TV (450p)" tvg-logo="" group-title="TV Aberta",O Dia TV (450p)

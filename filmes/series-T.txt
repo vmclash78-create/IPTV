@@ -107,7 +107,7 @@ Temperature of Love		0	40
 Tempero do Amor		0	8
 Tempestade		0	12
 Tempestade de Andorinhas - Kirlangic Firtinasi		0	7
-Tempestade de Emoções		0	18
+Tempestade de Emoções		0	20
 Tempestades Implacáveis		0	6
 Templarios		0	18
 Tempo Para Amar		0	4
@@ -475,7 +475,7 @@ The Luminaries		3	6
 The Madame Blanc Mysteries		3	19
 The Magical Girl and the Evil Lieutenant Used to Be Archenemies		3	12
 The Magicians: Escola de Magia		3	65
-The Mallorca Files		3	18
+The Mallorca Files		3	24
 The Man Who Fell to Earth		3	10
 The Mandalorian	2019	3	24
 The Masked Singer Brasil		4	61
@@ -598,6 +598,7 @@ The Strongest Magician in the Demon Lord's Army Was a Human		4	12
 The Strongest Sage With the Weakest Crest		4	12
 The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-		4	12
 The Swarm		4	13
+The Synanon Fix Did the Cure Become a Cult		5	8
 The Taste Brasil		5	70
 The Tasty Florida		5	8
 The Teacher		5	4
@@ -664,7 +665,7 @@ The World Ends With You The Animation		5	12
 The World Is Dancing		5	4
 The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat		5	12
 The World's Strongest Rearguard		5	1
-The World's Strongest Witch		5	6
+The World's Strongest Witch		5	8
 The Wrong Way to Use Healing Magic		5	26
 The Yakuza Boss’s Beloved		5	8
 The Yearbook		5	8
@@ -717,7 +718,7 @@ Tirano: Poder Sem Limites		5	32
 Tis Time for Torture Princess		5	1
 Titanic		5	4
 Titans	2018	5	4
-Titio Avô		5	24
+Titio Avô		6	24
 Titã Simbiônico		6	20
 Titãs		6	49
 To Lose - Ayrilik da Sevdaya Dahil		6	16
@@ -837,7 +838,7 @@ Train to the End of the World		6	12
 Traição		6	16
 Transamazônica: Uma Estrada para o Passado		6	6
 Transatlântico		6	7
-Transformers Cyberverse		6	62
+Transformers Cyberverse		7	62
 Transformers: A Centelha da Terra	2022	7	39
 Transformers: Prime		7	65
 Transformers: War for Cybertron: O Cerco		7	18
@@ -957,7 +958,7 @@ Turismo Selvagem	2023	7	6
 Turkey! Time to Strike		7	10
 Turma CoComelon		7	9
 Turma da Monica		7	224
-Turma da Monica Jovem		7	26
+Turma da Monica Jovem		8	26
 Turma da Monica Origens		8	8
 Turma da Mônica - A Série		8	8
 Turma do Barulho		8	46

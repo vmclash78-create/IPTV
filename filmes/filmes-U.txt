@@ -181,6 +181,7 @@ Um Chamado Natalino (2023)	dub=18:1001884,http://dbonline.tech-cdn.top:80/movie/
 Um Chamado de Esperança	dub=18:1042933,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764090.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32452.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93229.mp4
 Um Clarim ao Longe	dub=18:69472,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751751.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52950.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93250.mp4
 Um Clássico Filme de Terror	dub=18:768334,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758449.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52374.mp4
+Um Clássico de Natal	leg=18:1128959.mp4?lang=leg
 Um Clímax Entre Nós	dub=18:1139819,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768357.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20216.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93234.mp4
 Um Completo Desconhecido (2024)	dub=18:661539,https://embedplayer2.xyz/cdn/hls/742885b11bd5cc76d53a1a76d7f0fe89/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754164.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93255.mp4
 Um Conto Americano	dub=18:4978,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766101.mp4
@@ -1051,6 +1052,7 @@ Uma Turma Divertida: A Caminho de Casa	dub=18:21138
 Uma Turma do Barulho (2002)	dub=18:10611,18:81274,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768703.mp4
 Uma Valsa de Natal em Paris	dub=18:1127936,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764952.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764982.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1286.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94737.mp4
 Uma Verdade Mais Inconveniente	dub=18:432602
+Uma Vez Herói	dub=18:985093
 Uma Vez por Ano, Não Faz Mal	dub=18:375548
 Uma Viagem Entre Amigos	dub=18:642124,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767162.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20686.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94744.mp4
 Uma Viagem Extraordinaria (2013)	dub=18:157841,https://embedplayer2.xyz/cdn/hls/ac63a353bc3a3111baf71900c425e1f0/master.txt,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765440.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12125.mp4

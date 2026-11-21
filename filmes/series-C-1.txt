@@ -3284,16 +3284,16 @@
 1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5662255.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2692643.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251092.mp4
 1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5662256.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2692644.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251093.mp4
 @Cartel Crew
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5571959.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588339.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226299.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5571960.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588340.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226300.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5571961.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588341.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226301.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5571962.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588342.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226302.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5571963.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588343.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226303.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5571964.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588344.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226304.mp4
-1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5571965.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588345.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226305.mp4
-1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5571966.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588346.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226306.mp4
-1	9	dub	http://64.31.23.207:80/series/96795792/50165825/5571967.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588347.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226307.mp4
-1	10	dub	http://64.31.23.207:80/series/96795792/50165825/5571968.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588348.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226308.mp4
+1	1	dub	19:85866/1/1,http://64.31.23.207:80/series/96795792/50165825/5571959.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588339.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226299.mp4
+1	2	dub	19:85866/1/2,http://64.31.23.207:80/series/96795792/50165825/5571960.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588340.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226300.mp4
+1	3	dub	19:85866/1/3,http://64.31.23.207:80/series/96795792/50165825/5571961.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588341.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226301.mp4
+1	4	dub	19:85866/1/4,http://64.31.23.207:80/series/96795792/50165825/5571962.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588342.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226302.mp4
+1	5	dub	19:85866/1/5,http://64.31.23.207:80/series/96795792/50165825/5571963.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588343.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226303.mp4
+1	6	dub	19:85866/1/6,http://64.31.23.207:80/series/96795792/50165825/5571964.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588344.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226304.mp4
+1	7	dub	19:85866/1/7,http://64.31.23.207:80/series/96795792/50165825/5571965.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588345.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226305.mp4
+1	8	dub	19:85866/1/8,http://64.31.23.207:80/series/96795792/50165825/5571966.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588346.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226306.mp4
+1	9	dub	19:85866/1/9,http://64.31.23.207:80/series/96795792/50165825/5571967.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588347.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226307.mp4
+1	10	dub	19:85866/1/10,http://64.31.23.207:80/series/96795792/50165825/5571968.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2588348.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226308.mp4
 @Carter
 1	1	dub	19:79357/1/1,19:61550/1/1,http://64.31.23.207:80/series/96795792/50165825/5565047.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2599188.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/205975.mp4
 1	2	dub	19:79357/1/2,19:61550/1/2,http://64.31.23.207:80/series/96795792/50165825/5565048.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2599189.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/205976.mp4
@@ -3689,7 +3689,7 @@
 @Casamento Impossivel
 1	1	leg	http://64.31.23.207:80/series/96795792/50165825/5639081.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558683.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80578.mp4
 1	2	leg	http://64.31.23.207:80/series/96795792/50165825/5639082.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558684.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80580.mp4
-1	3	leg	http://64.31.23.207:80/series/96795792/50165825/5639083.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558685.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80581.mp4
+1	3	leg	19:230198/1/3.mp4?lang=leg,http://64.31.23.207:80/series/96795792/50165825/5639083.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558685.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80581.mp4
 1	4	leg	http://64.31.23.207:80/series/96795792/50165825/5639084.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558686.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80582.mp4
 1	5	leg	http://64.31.23.207:80/series/96795792/50165825/5639085.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558687.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80583.mp4
 1	6	leg	http://64.31.23.207:80/series/96795792/50165825/5639086.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2558688.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/80584.mp4

@@ -1,3 +1,16 @@
+@Muhyo & Roji's Bureau of Supernatural Investigation
+1	1	dub	19:80853/1/1.m3u8
+1	2	dub	19:80853/1/2.m3u8
+1	3	dub	19:80853/1/3.m3u8
+1	4	dub	19:80853/1/4.m3u8
+1	5	dub	19:80853/1/5.m3u8
+1	6	dub	19:80853/1/6.m3u8
+1	7	dub	19:80853/1/7.m3u8
+1	8	dub	19:80853/1/8.m3u8
+1	9	dub	19:80853/1/9.m3u8
+1	10	dub	19:80853/1/10.m3u8
+1	11	dub	19:80853/1/11.m3u8
+1	12	dub	19:80853/1/12.m3u8
 @Muito Assustador Mesmo
 1	1	dub	19:212250/1/1
 1	2	dub	19:212250/1/2
@@ -1471,6 +1484,7 @@
 2	3	dub	19:241549/2/3,http://64.31.23.207:80/series/96795792/50165825/5722953.mp4
 2	4	dub	19:241549/2/4,http://64.31.23.207:80/series/96795792/50165825/5726856.mp4
 2	5	dub	19:241549/2/5
+2	6	dub	19:241549/2/6
 @Murderville
 1	1	dub	19:155594/1/1,http://64.31.23.207:80/series/96795792/50165825/5609599.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2520043.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147559.mp4
 1	2	dub	19:155594/1/2,http://64.31.23.207:80/series/96795792/50165825/5609600.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2520044.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147560.mp4
@@ -2901,10 +2915,3 @@
 4	8	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31305.mp4
 4	9	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31306.mp4
 4	10	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31308.mp4
-@Mytho
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5579347.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5579348.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5579349.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5579350.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5579351.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5579352.mp4
