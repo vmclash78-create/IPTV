@@ -1,5 +1,5 @@
 # PRISMA TV — LISTA DE CANAIS
-# Atualizado em: 2026-11-21 03:23:03 UTC
+# Atualizado em: 2026-11-21 12:06:06 UTC
 # Auditoria completa: sem /error.txt, sem links mortos, failover ordenado
 # ──────────────────────────────────────────────────────────
 
