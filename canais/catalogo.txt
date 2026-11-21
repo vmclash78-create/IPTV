@@ -1,5 +1,5 @@
 # PRISMA TV — LISTA DE CANAIS
-# Atualizado em: 2026-11-21 02:12:48 UTC
+# Atualizado em: 2026-11-21 03:23:03 UTC
 # Auditoria completa: sem /error.txt, sem links mortos, failover ordenado
 # ──────────────────────────────────────────────────────────
 
@@ -60,12 +60,12 @@ logo: https://img.faz-o-eli.online/cnnbrasil.png
 categoria: Notícias
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 qualidade: HD · 1280x720
+fonte: https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cnnbrasil/index.m3u8
 qualidade: FHD
-fonte: https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
-qualidade: HD · 1280x720
 
 canal: CNN Brasil Money
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png
@@ -122,9 +122,9 @@ qualidade: FHD
 canal: History
 logo: https://img.faz-o-eli.online/history.png
 categoria: Documentários
-fonte: http://170.83.16.50/HISTORY/index.m3u8
-qualidade: HD · 1280x720
 fonte: https://video46.mais.uol.com.br/live/281.mpd
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/HISTORY/index.m3u8
 qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -276,9 +276,9 @@ qualidade: HD · 1280x720
 canal: Sony Channel
 logo: https://img.faz-o-eli.online/sonychannel.png
 categoria: Filmes e Séries
-fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
-qualidade: HD · 1280x720
 fonte: https://video37.mais.uol.com.br/live/279.mpd
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -356,6 +356,8 @@ logo: https://img.faz-o-eli.online/warnerchannel.png
 categoria: Filmes e Séries
 fonte: https://video45.mais.uol.com.br/live/277.mpd
 qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/WARNER_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8
@@ -370,6 +372,8 @@ qualidade: HD · 1280x720
 canal: Globo SP
 logo: https://img.faz-o-eli.online/globosp.png
 categoria: TV Aberta
+fonte: https://net11.sattvgo.com.br/GLOBO_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globosp/index.m3u8
@@ -386,6 +390,8 @@ qualidade: FHD
 canal: Cinemax
 logo: https://img.faz-o-eli.online/cinemax.png
 categoria: Filmes e Séries
+fonte: https://net11.sattvgo.com.br/CINEMAX/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cinemax/index.m3u8
@@ -428,6 +434,8 @@ qualidade: FHD
 canal: ESPN 2
 logo: https://img.faz-o-eli.online/espn2.png
 categoria: Esportes
+fonte: https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_2/index.m3u8
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/espn2/index.m3u8
@@ -438,6 +446,8 @@ logo: https://img.faz-o-eli.online/espn4.png
 categoria: Esportes
 fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_4/index.m3u8
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/espn4/index.m3u8
@@ -470,6 +480,8 @@ qualidade: FHD
 canal: HBO2
 logo: https://img.faz-o-eli.online/hbo2.png
 categoria: Filmes e Séries
+fonte: https://gigalinks.sattvgo.com.br/HBO2/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/hbo2/index.m3u8
@@ -478,6 +490,8 @@ qualidade: FHD
 canal: HBO Family
 logo: https://img.faz-o-eli.online/hbofamily.png
 categoria: Filmes e Séries
+fonte: https://net11.sattvgo.com.br/HBO_FAMILY/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/hbofamily/index.m3u8
@@ -486,6 +500,8 @@ qualidade: FHD
 canal: HBO Mundi
 logo: https://img.faz-o-eli.online/hbomundi.png
 categoria: Filmes e Séries
+fonte: https://cdn-rs1.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/hbomundi/index.m3u8
@@ -494,6 +510,8 @@ qualidade: FHD
 canal: HBO Plus
 logo: https://img.faz-o-eli.online/hboplus.png
 categoria: Filmes e Séries
+fonte: https://grupoa.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
@@ -502,6 +520,8 @@ qualidade: FHD
 canal: HBO Pop
 logo: https://img.faz-o-eli.online/hbopop.png
 categoria: Filmes e Séries
+fonte: https://gvtelecom.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8
@@ -513,6 +533,8 @@ categoria: Filmes e Séries
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
+qualidade: FHD
+fonte: https://net11.sattvgo.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: FHD
 
 canal: HBO Xtreme
@@ -534,6 +556,8 @@ qualidade: FHD
 canal: TNT
 logo: https://img.faz-o-eli.online/tnt.png
 categoria: Filmes e Séries
+fonte: https://net11.sattvgo.com.br/TNT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/tnt/index.m3u8
@@ -648,9 +672,9 @@ logo: https://img.faz-o-eli.online/bandsports.png
 categoria: Esportes
 fonte: http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
-qualidade: HD · 1280x720
 fonte: https://video41.mais.uol.com.br/live/290.mpd
+qualidade: HD · 1280x720
+fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -672,14 +696,14 @@ qualidade: FHD · 1920x1080
 canal: TV Cultura
 logo: https://img.faz-o-eli.online/cultura.png
 categoria: TV Aberta
-referer: https://playerembedcanais.site/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvcultura/index.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 qualidade: SD · 960x540
 fonte: https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 qualidade: FHD · 1920x1080
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvcultura/index.m3u8
+qualidade: FHD
 
 canal: Terra Viva
 logo: https://www.tvlogo.org/brazil/terraviva-br.png
@@ -698,6 +722,8 @@ logo: https://img.faz-o-eli.online/espn3.png
 categoria: Esportes
 fonte: http://181.78.197.59:8000/play/a081/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_3/index.m3u8
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/espn3/index.m3u8
@@ -748,16 +774,16 @@ qualidade: FHD
 canal: Rede Vida
 logo: https://img.faz-o-eli.online/redevida.png
 categoria: TV Aberta
+fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+qualidade: HD · 1280x720
+fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+qualidade: HD · 1280x720
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redevida/index.m3u8
 qualidade: FHD
-fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-qualidade: HD · 1280x720
 fonte: http://186.219.52.187/rede_vida/index.m3u8
 qualidade: SD · 720x576
-fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-qualidade: HD · 1280x720
 
 canal: Discovery ID
 logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
@@ -808,6 +834,8 @@ qualidade: FHD
 canal: Record SP
 logo: https://img.faz-o-eli.online/record.png
 categoria: TV Aberta
+fonte: https://net11.sattvgo.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordsp/index.m3u8
@@ -824,14 +852,14 @@ qualidade: HD · 1280x720
 canal: TV Pai Eterno
 logo: https://img.faz-o-eli.online/tvpaieterno.png
 categoria: Variedades
-referer: https://playerembedcanais.site/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paieterno/index.m3u8
-qualidade: FHD
 fonte: https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
 qualidade: FHD · 1920x1080
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paieterno/index.m3u8
+qualidade: FHD
 
 canal: PlayTV
 logo: https://i.imgur.com/Ikrj3lk.png
@@ -1224,6 +1252,8 @@ qualidade: FHD
 canal: Globo ES
 logo: https://img.faz-o-eli.online/globosp.png
 categoria: TV Aberta
+fonte: https://net11.sattvgo.com.br/GLOBO_ES/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globoes/index.m3u8
@@ -1232,6 +1262,8 @@ qualidade: FHD
 canal: Globo RJ
 logo: https://img.faz-o-eli.online/globorj.png
 categoria: TV Aberta
+fonte: https://net11.sattvgo.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn10embed.xyz/globorj/index.m3u8
@@ -1256,6 +1288,8 @@ qualidade: FHD
 canal: Record RJ
 logo: https://img.faz-o-eli.online/record.png
 categoria: TV Aberta
+fonte: https://gvtelecom.satlabscloud.com.br/RECORD_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordrj/index.m3u8
@@ -1537,6 +1571,8 @@ categoria: TV Aberta
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8
+qualidade: FHD
+fonte: https://net11.sattvgo.com.br/RECORD_DF/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: FHD
 
 canal: Record ES
