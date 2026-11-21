@@ -45,6 +45,9 @@ jobs:
       - name: Mirror public/openly licensed movie playlist
         run: python3 sincronizar_filmes_publicos.py
 
+      - name: Mirror open movies and series playlists
+        run: python3 sincronizar_vod_aberto.py
+
       - name: Aggregate multiple repositories (iptv-org + official streams)
         run: python3 agregar_fontes.py || true
 
