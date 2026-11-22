@@ -6,6 +6,7 @@ RECOMPENSA DE SANGUE A HERDEIRA RETORNA		0	1
 RESET		0	1
 RFDS Royal Flying Doctor Service		0	28
 RILAKKUMA		0	7
+RILAKKUMA	2026	0	7
 RIPLEY	2024	0	8
 RIV4LIDADES		0	14
 RJ Decker Investigador Privado	2026	0	5
@@ -25,9 +26,8 @@ Rafa		0	4
 Ragdoll		0	12
 Ragna Crimson		0	24
 Ragnarok	2020	0	44
-Ragnarok The Animation		0	35
+Ragnarok The Animation		0	36
 Rah-E-Junoon		0	28
-Rail Romanesque		0	11
 Rain Dogs	2023	0	8
 Rainbow High		0	1
 Rainbow: Nisha Rokubou No Shichinin		0	26
@@ -65,16 +65,16 @@ Rancho Dutton	2026	0	9
 Random Acts of Flyness		0	12
 Ranking of Kings: Baú do Tesouro da Coragem		0	10
 Ranma ½	1989	0	161
-Ranma1 2		0	39
+Ranma1/2	2024	0	51
 Ransom	2017	0	35
 Ransom Canyon	2025	0	18
 RapCaviar: Os Famosos do Rap		0	6
-Rascal Does Not Dream of Bunny Girl Senpai		0	13
 Rastro Perdido		0	1
 Ratched		0	8
 Ratinho Sem Filtro		0	3
 Rattan		0	31
 Raul Seixas Eu Sou	2025	0	8
+Ravalear		0	6
 Rave Master		0	51
 Raw Terror		0	6
 Ray Donovan	2013	0	82
@@ -82,9 +82,10 @@ Raymond e Companhia		0	212
 Razão e Sensibilidade		0	3
 Raízes		0	12
 Re Monster		0	12
-Re ZERO Starting Life in Another World		0	175
 Re:CREATORS		0	22
 Re:Mind		0	13
+Re:ZERO -Starting Life in Another World-	2016	0	175
+ReBoot	1994	0	8
 Reabilitacao Canina		0	6
 Reacao - Reaksiyon		0	13
 Reacher	2022	0	32
@@ -117,19 +118,22 @@ Reckless		0	13
 Recomeço		0	8
 Recomeço em Família		0	6
 Recommendations from Mr. Iwamoto		0	24
-Record Of Ragnarok		0	42
+Recommendations from Mr. Iwamoto	2026	1	1
+Record Of Ragnarok		1	42
 Record of Grancrest War		1	24
-Recorder To Randoseru		1	13
+Record of Ragnarok	2021	1	42
 Recovery of an MMO Junkie		1	12
 Recruta	2022	1	14
 Recursos Desumanos		1	6
 Recursos Humanos		1	20
+Recursos Humanos	2022	1	20
 Red Alert	2025	1	8
 Red Election		1	10
 Red Eye	2024	1	12
 Red Light		1	10
 Red Oaks		1	26
 Red River		1	40
+Red River	2026	1	1
 Red Rose		1	8
 Rede de Escuridão		1	7
 Redemption		1	6
@@ -171,6 +175,7 @@ Rei Charly		1	8
 Rei Davi		1	30
 Rei Demônio Daimao		1	12
 Rei Lobo		1	16
+Rei Lobo	2025	1	16
 Rei Tut		1	6
 Rei da Prisão Disfarçado		1	1
 Rei do Boxe e Sua Empregada Picante		1	1
@@ -233,11 +238,11 @@ Resident Evil: A Série		1	8
 Resident Evil: No Escuro Absoluto	2021	1	4
 Resident Playbook	2025	1	12
 Residential Rage		1	2
-Resistir		1	4
-Resistência Negra		1	5
-Respira	2024	1	16
-Respire!		1	6
-Ressurreição		1	21
+Resistir		2	4
+Resistência Negra		2	5
+Respira	2024	2	16
+Respire!		2	6
+Ressurreição		2	21
 Ressuscite Meu Coracao		2	7
 Restauradores de Rust Valley		2	20
 Restaurando Casas com Dave e Jenny		2	66
@@ -278,20 +283,21 @@ Revolucao Cubana vs. O Mundo		2	2
 Rey Mysterio vs A Escuridao		2	10
 Reyka		2	16
 Rezar e Obedecer		2	4
-Rezero Starting Life in Another World	2016	2	92
+Rezero Starting Life in Another World	2016	2	128
 Rhythm Flow France		2	12
 Riacho Doce		2	40
 Ribeirão do Tempo		2	250
 Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School		2	2
 Rick and Morty The Anime		2	10
 Rick e Morty	2013	2	91
-Rick e Morty/Rick and Morty		2	91
+Rick e Morty/Rick and Morty	2013	2	91
 Rick e Morty: The Anime	2024	2	2
 Ricos		2	6
 Ricos e Pobres - Zengin ve Yoksul		2	8
 Rider Gavv		2	49
 Ridley Jones		2	11
 Ridley Jones: A Guardiã do Museu		2	11
+Ridley Jones: A Guardiã do Museu	2021	2	11
 Ridley Road		2	4
 Rig 45		2	9
 Rigo		2	12
@@ -309,6 +315,7 @@ Ripper Street		2	29
 Ripple		2	8
 Riquezas Insanas da Antiguidade		2	12
 Ririsa Uma Garota em 2.5D		2	24
+Ririsa, Uma Garota em 2.5D	2024	2	24
 Risco Iminente	2022	2	6
 Rise		2	8
 Rise Again		2	8
@@ -340,6 +347,7 @@ Robbie Williams		2	4
 RobiHachi		2	12
 Robin Hood	2025	2	10
 RoboCop: The Animated Series		2	12
+RoboGobo	2025	2	25
 Robogobo		2	44
 Robotics;Notes		2	22
 Robozuna		2	16
@@ -350,25 +358,24 @@ Rock Story		2	179
 Rock in Rio		2	56
 Rocket Power		2	69
 Rocketeer		2	6
-Rocky & Hudson - Os Caubóis Gays		2	12
-Rocky & Hudson Os Cowboys Gays		2	12
-Roda de Fogo		2	179
-Rodeios Implacáveis		2	8
-Rojst	2018	2	17
-Rokuhoudou Yotsuiro Biyori		2	12
-Roller Coaster		2	8
-Rolling Kitchen Brasil		2	20
+Rocky & Hudson - Os Caubóis Gays		3	12
+Rocky & Hudson Os Cowboys Gays		3	12
+Roda de Fogo		3	179
+Rodeios Implacáveis		3	8
+Rojst	2018	3	17
+Roller Coaster		3	8
+Rolling Kitchen Brasil		3	20
 Roma	2005	3	22
 Roma Ascensao e Queda de um Imperio		3	12
 Romance Excentrico		3	12
 Romance Is a Bonus Book		3	16
 Romanceiro		3	6
 Romantic Killer		3	12
+Romantic Killer	2022	3	12
 Romanticos Anonimos		3	8
 Romanzo criminale - La serie		3	17
 Romario O Cara	2024	3	6
 Romelia War Chronicle		3	14
-Romeo no Aoi Sora		3	33
 Romeo x Julieta		3	24
 Romina Poderosa		3	65
 Romulus	2020	3	18
@@ -433,6 +440,7 @@ Rugby Vencer ou Morrer		3	1
 Rugido		3	8
 Rugrats		3	170
 Rugrats: Os Anjinhos		3	21
+Rugrats: Os Anjinhos	1991	3	21
 Ruhun Duymaz		3	9
 Rules of the Game		3	2
 Rumble Garanndoll		3	12

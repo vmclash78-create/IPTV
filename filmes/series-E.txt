@@ -21,7 +21,7 @@ Echoes of a Thousand Moons		0	24
 Eco		0	5
 Eco Mao Invisivel - Yanki Gorunmez El		0	10
 Eco Segundo Ato - Ecos Ato II - Yanki Ikinci Perde		0	23
-Eco de Uma Carta		0	24
+Eco de Uma Carta		0	28
 Ecommerce Puro Gabriel Bollico		0	340
 Economia Doméstica		0	7
 Ecos de um Pesadelo		0	8
@@ -41,6 +41,7 @@ Efeito Carbonaro		0	115
 Efeitos Colaterais		0	10
 Ego		0	13
 Ei Arnold!		0	100
+Ei Arnold!	1996	0	112
 Eikyuu Shounen: Eternal Boys		0	16
 Einstein		0	33
 Eizouken ni wa Te wo Dasu na!		0	12
@@ -68,11 +69,12 @@ Eldorado Em Busca da Cidade de Ouro		0	2
 Ele Insiste Em Mimar		0	1
 Ele Não		0	12
 Electric Bloom A Melhor Banda do Mundo		0	17
-Elegant Yokai Apartment Life		0	26
+Elegant Yokai Apartment Life		0	1
 Eleita		0	7
 Elementarissimo		0	150
 Elementary	2012	0	154
 Elena De Avalor		0	34
+Elena de Avalor	2016	0	25
 Eles	2021	0	28
 Elfos		0	6
 Eli Roth's History of Horror		0	18
@@ -115,9 +117,9 @@ Em Nome do Céu		0	14
 Em Prantos		0	4
 Em Ritmo de Vinganca		0	60
 Em Tempos Bons e Ruins - Ivi Gunde Kotu Gunde		0	6
-Em que lugar da Terra esta Carmen Sandiego		0	39
-Emagreci e Agora?		0	33
-Emanet		0	785
+Em que lugar da Terra esta Carmen Sandiego		1	39
+Emagreci e Agora?		1	33
+Emanet		1	785
 Emergence		1	13
 Emergencia Berlim	2025	1	8
 Emergencia Radioativa	2026	1	5
@@ -142,10 +144,9 @@ Encontro com Meu Amigo		1	16
 Encontros Extraterrestres	2023	1	4
 Encontros Secretos Amor ou Contatinho		1	10
 Encontros com Extraterrestres Fato ou Ficcao	2024	1	7
-Encouragement Of Climb		1	12
 Endeavour, o Jovem Morse		1	11
 Endlings		1	12
-Endride		1	24
+Endride		1	20
 Enemies With Benefits		1	10
 Enemigo Intimo		1	8
 Enfermeira		1	4
@@ -183,8 +184,9 @@ Entre dois amores - Fatih Harbiye		1	50
 Entre o Inverno e a Primavera		1	5
 Entre os Nossos Passos		1	12
 Entrelinhas Pontilhadas		1	6
+Entrelinhas Pontilhadas	2021	1	6
 Entrevista com o Vampiro	2022	1	22
-Entrevías	2022	1	34
+Entrevías	2022	1	33
 Então Eu Me Casei Com a Minha Anti-Fã		1	16
 Enxame		1	7
 Epitáfios		1	26
@@ -192,6 +194,7 @@ Equal		1	4
 Equinox		1	6
 Equipe de Emergência		1	12
 Equipe de Resgate		1	61
+Equipe de Resgate	2022	1	61
 Equipe do Pavor		1	20
 Era Uma Vez Amor		1	13
 Era uma Vez	2011	1	201
@@ -234,10 +237,11 @@ Escândalos e Assassinatos na Família Murdaugh		1	3
 Esgotado por Voce		1	12
 Esmeralda		1	289
 Esmeralda - Zumruduanka		1	26
-Espada e Amores		1	42
-Espada e Fada		1	36
-Espartanos Uma Historia Real		1	8
-Especial Papado		1	5
+Espada e Amores		2	42
+Espada e Fada		2	36
+Espadas e Poder	2020	2	20
+Espartanos Uma Historia Real		2	8
+Especial Papado		2	5
 Especies Raras		2	6
 Espelho da Vida		2	160
 Esperando o Sol - Gunesi Beklerken		2	54
@@ -260,8 +264,10 @@ Esquadrão Bizarro		2	40
 Esquadrão Especial Winspector		2	49
 Esquadrão Marte		2	17
 Esquadrão Relâmpago Changeman		2	55
+Esquadrão Suicida: Isekai	2024	2	10
 Esquadrão de Cavaleiros		2	29
 Esquadrão de Confeiteiros		2	16
+Esquadrão de Heróis	2009	2	26
 Esquece Isso!		2	13
 Esquemas da FIFA		2	4
 Esqueça-me se Puder		2	107
@@ -287,13 +293,14 @@ Estilhaços	2026	2	9
 Estilo à Beira da Estrada		2	6
 Estocolmo Estacao Central		2	3
 Estou Gravida Vamos Terminar!		2	1
+Estrada das Lágrimas		2	8
 Estrada de Sangue	2014	2	12
 Estrada para a Felicidade		2	8
 Estrada sem Saída		2	6
 Estragada pelo Meu Papai Rico Bilionário		2	2
 Estranho Amor		2	5
 Estranho Poder		2	82
-Estranho: Contos de Junji Ito para Noites Intranquilas		2	7
+Estranho: Contos de Junji Ito para Noites Intranquilas		2	8
 Estrela Distante - Yildizlar Bana Uzak		2	4
 Estrela da Casa		2	124
 Estrela do Pastor - Coban Yildiz		2	16
@@ -327,6 +334,7 @@ Eu Odeio Natal		2	12
 Eu Posso Amar Você		2	13
 Eu Preciso de Romance		2	16
 Eu Queimei Navios - Ne Gemiler Yaktım		2	8
+Eu S2 Arlo	2021	2	19
 Eu Sei O Que Vocês Fizeram No Verão Passado		2	16
 Eu Sei Que Isso é Verdade		2	6
 Eu Serei o Amor de Alguém		2	12
@@ -344,20 +352,21 @@ Eu Vi: América Latina		2	12
 Eu Viciado		2	6
 Eu Vou Te Encontrar	2026	2	8
 Eu e Mickey		2	80
+Eu e Mickey	2022	2	78
 Eu e o Universo		2	1
 Eu e o Ursinho Pooh		2	25
 Eu meu Pai e um Bebe		2	6
 Eu sou Mae - Sandık Kokusu		2	50
-Eu sou o Conde Mais Bonito		2	13
-Eu te amo mais do que a vida		2	1
-Eu, Tu e Ela		2	45
-Eu, Você e Toda uma Vida		2	15
-Eu, a Vó e a Boi		2	6
-Euphoria	2019	2	27
-Eureka		2	86
-Eva Longoria Em busca do Mexico		2	1
-Eva a Coruja		2	9
-Even Given the Worthless		2	1
+Eu sou o Conde Mais Bonito		3	13
+Eu te amo mais do que a vida		3	1
+Eu, Tu e Ela		3	45
+Eu, Você e Toda uma Vida		3	15
+Eu, a Vó e a Boi		3	6
+Euphoria	2019	3	27
+Eureka		3	86
+Eva Longoria Em busca do Mexico		3	1
+Eva a Coruja		3	9
+Even Given the Worthless		3	1
 Even a Replica Can Fall in Love		3	1
 Even the Student Council Has Its Holes!		3	12
 Ever After High		3	17
@@ -411,9 +420,10 @@ Eyewitness		3	10
 Ezel		3	215
 Eşref Rüya		3	35
 e o Bebê!		3	8
-elDLIVE		3	12
+elDLIVE		3	1
 encanto		3	60
 exception		3	8
+exception	2022	3	8
 extremistas.br		3	8
 É Amor ou Falsidade?		3	8
 É Ouro! O Brilho do Brasil em Tóquio		3	8

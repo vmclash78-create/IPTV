@@ -12,7 +12,7 @@ HOTEL TASOKARE		0	12
 HYPNOSISMIC -Division Rap Battle- Rhyme Anima		0	26
 Habeas Corpus		0	8
 Hache		0	14
-Hachigatsu no Cinderella Nine		0	12
+Hachigatsu no Cinderella Nine		0	1
 Hackers		0	21
 Hacks	2021	0	47
 Hagure Yuusha no Aesthetica		0	12
@@ -24,7 +24,6 @@ Hajime no Ippo		0	129
 Hakenshimasu!		0	11
 Hakkenden: Eight Dogs of the East		0	13
 Hakumei to Mikochi		0	12
-Hakyuu Houshin Engi		0	22
 Hal and Harper		0	1
 Halifax: Retribution		0	7
 Halloween of Car City		0	19
@@ -33,8 +32,10 @@ Halston		0	5
 Halt and Catch Fire		0	40
 Hana Kimi		0	25
 Hanabi-chan wa Okuregachi		0	2
+Hanabi-chan wa Okuregachi	2022	0	1
 Hanako kun e os Misterios do Colegio Kamome		0	72
 Hanaori-san Still Wants to Fight in the Next Life		0	12
+Hanaori-san Still Wants to Fight in the Next Life	2026	0	12
 Hanbun no Tsuki ga Noboru Sora		0	6
 Handa-kun		0	12
 Hands off Sawaranaide Kotesashi kun		0	1
@@ -86,9 +87,12 @@ Hayat Şarkısı		0	20
 Hayate No Gotoku		0	46
 He & She		0	130
 He-Man e Os Defensores do Universo		0	130
+He-Man e Os Defensores do Universo	1983	0	130
 He-Man e os Mestres do Universo		0	26
+He-Man e os Mestres do Universo	2002	0	26
 Headhunted to Another World: From Salaryman to Big Four!		0	12
 Headspace - Guia para Dormir Melhor		0	8
+Headspace - Guia para Dormir Melhor	2021	0	7
 Headspace Meditação Guiada		0	8
 Heard It Through the Grapevine		0	30
 Heart Code		0	6
@@ -114,10 +118,17 @@ Helix	2014	0	26
 Hell Girl		0	26
 Hell Mode		0	11
 Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing		0	8
-Hell Motel		0	8
-Hell Teacher: Jigoku Sensei Nube		0	11
-Hell University		0	15
-Hell on Wheels		0	57
+Hidan No Aria		0	13
+Hiiro no Kakera		0	13
+Himegoto		0	13
+Hinomaruzumou		0	22
+Histórias de Fantasmas		0	1
+Hitorijime My Hero		0	12
+Hyouka		0	23
+Hell Motel		1	8
+Hell Teacher: Jigoku Sensei Nube		1	11
+Hell University		1	15
+Hell on Wheels		1	57
 Hell's Paradise		1	25
 Hellcats		1	21
 Hello Kitty Super Style		1	23
@@ -126,6 +137,7 @@ Hells Paradise		1	25
 Hellsing		1	13
 Hellsing Ultimate		1	13
 Helluva Boss		1	29
+Helluva Boss	2020	1	20
 Helstrom		1	20
 Hemlock Grove	2013	1	33
 Henkyou de Slow Life suru Koto ni Shimashita		1	25
@@ -152,6 +164,7 @@ Heroi - Akıncı		1	20
 Heroi ou Quase Isso		1	1
 Heroic Journey of Ne Zha		1	46
 Heroine? Saint? No, I'm an All-Works Maid !		1	1
+Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!	2026	1	1
 Heroine? Saint? No,I'm an All-Works Maid (And Proud of It)! (2026)		1	24
 Herois Eternos Homens dos Quais o Mundo Nao Era Digno		1	21
 Herois da Biblia		1	5
@@ -160,25 +173,22 @@ Herois dos Trilhos	2023	1	4
 Herois em Foco Batalhao de Acoes com Caes		1	9
 Herois por Dentro		1	20
 Heróis da Selva		1	6
-Hetalia Axis Powers		1	52
 Hey A.J.!		1	20
 Hey Arnold!		1	100
 Hey Duggee		1	194
 Hi Hi Puffy AmiYumi		1	39
 Hibike Euphonium		1	14
 Hicran		1	160
-Hidamari Sketch		1	14
-Hidan No Aria		1	13
 Hidden - Förstfödd		1	8
 Hidden Palms		1	8
 Hierarchy	2024	1	7
 Hierarquia		1	10
-Higashi No Eden		1	10
 High Cookie		1	20
 High Fidelity		1	10
 High Guardian Spice		1	1
 High School		1	8
 High School DxD		1	67
+High School DxD	2012	1	14
 High School Musical: A Série: O Musical	2019	1	38
 High School Musical: A Série: O Musical: Cante Com A Gente		1	10
 High School of the Dead		1	10
@@ -186,14 +196,11 @@ High Score		1	6
 High Society		1	1
 High: Confissões de uma Traficante		1	4
 Hightown		1	20
-Hiiro no Kakera		1	13
 Hikaru no Go		1	75
 Hikikomari Kyuuketsuki no Monmon		1	12
 Hilda		1	34
 Hilda Furacão		1	33
 Hillsong: O Escândalo por Trás da Megaigreja		1	4
-Himegoto		1	13
-Hinomaruzumou		1	22
 Hip Hop Uncovered		1	6
 Hipertensao		1	167
 His Dark Materials		1	23
@@ -219,7 +226,6 @@ Histórias Maravilhosas		1	14
 Histórias Misteriosas		1	22
 Histórias Quase Verdadeiras		1	4
 Histórias da Quarentena		1	5
-Histórias de Fantasmas		1	1
 Histórias de Superação		1	6
 Histórias de Terror		1	8
 Histórias de Verão		1	19
@@ -232,12 +238,12 @@ Hitler Imagens Nunca Vistas		1	4
 Hitler e o Nazismo Comeco Meio e Fim	2024	1	6
 Hitmakers		1	6
 Hitori No Shita: The Outcast		1	1
-Hitorijime My Hero		1	12
 Hiwou War Chronicles		1	26
-Hoje é Dia de Maria		1	13
-Hokkaido Gals Are Super Adorable!		1	12
-Hokuto no Ken Legends of the Dark King		1	27
-Holding		1	4
+Hoje é Dia de Maria		2	13
+Hokkaido Gals Are Super Adorable!		2	12
+Hokuto no Ken - Legends of the Dark King -	2008	2	14
+Hokuto no Ken Legends of the Dark King		2	27
+Holding		2	4
 Holiday Secrets		2	3
 Hollington Drive		2	4
 Holly Hobbie		2	30
@@ -262,9 +268,13 @@ Homem de Ferro		2	13
 Homem de Ferro e seus Amigos Incriveis		2	7
 Homem do Lixo - Cop Adam		2	30
 Homem em Chamas	2026	2	7
+Homem-Aranha		2	19
 Homem-Aranha A Serie Animada		2	65
 Homem-Aranha da Marvel		2	64
 Homem-Aranha e seus Incríveis Amigos		2	24
+Homem-Aranha: A Nova Série Animada	2003	2	13
+Homem-Aranha: A Série Animada	1994	2	65
+Homem-Pipa: Já É!	2024	2	10
 Homens Apaixonados		2	40
 Homens Da Montanha Franco Atirador		2	8
 Homens Sem Lei		2	5
@@ -290,21 +300,23 @@ Honra dos Reis		2	8
 Honra e Amor		2	154
 Hooligan		2	5
 Hoops		2	10
-Hoozuki no Reitetsu		2	13
+Hoops	2020	2	10
 Hope on the Street		2	12
 Hope or Dope		2	6
 Hora De Aventura: Terras Distantes		2	287
 Hora da Morte - Olum Zamani - Death Time		2	8
 Hora de Aventura		2	287
 Hora de Aventura com Fionna e Cake		2	20
+Hora de Aventura com Fionna e Cake	2023	2	19
 Hora de Aventura: Missões Secundárias		2	21
+Hora de Aventura: Terras Distantes	2020	2	4
 Hora do Jantar com David Chang		2	37
 Hora do Recreio		2	79
+Hora do Recreio	1997	2	65
 Horimiya	2021	2	26
 Horimiya: Piece	2023	2	26
 Horário Nobre		2	10
 Horóscopo do Amor		2	10
-Hoshizora - Ponte para o Céu Estrelado		2	12
 Hospital Marginal		2	11
 Hospital New Amsterdam	2018	2	88
 Hospital Playlist		2	36
@@ -314,9 +326,11 @@ Hot Wheels A Batalha da Customizacao		2	10
 Hot Wheels Battle Force 5		2	52
 Hot Wheels Velocidade Maxima!		2	20
 Hotel Assombrado		2	18
+Hotel Assombrado	2025	2	10
 Hotel Assombrado A Ultima Mordida		2	6
 Hotel Costiera	2025	2	6
 Hotel Hazbin		2	16
+Hotel Hazbin	2024	2	16
 Hotel Portofino		2	5
 Hotel Sem Estrelas		2	13
 Hotel Transilvânia: A Série		2	75
@@ -335,6 +349,7 @@ House of Ninjas	2024	2	8
 House of the Owl		2	17
 HouseBroken		2	30
 Housing Complex C		2	4
+Housing Complex C	2022	2	4
 How I Met Your Father	2022	2	32
 How I Met Your Mother	2005	2	208
 How I Met Your Mother - Como Eu Conheci Sua Mãe		2	208
@@ -343,25 +358,23 @@ How Not to Summon a Demon Lord		2	22
 How To Be a Carioca		2	6
 How To Get Away With Murder		2	90
 How To with John Wilson		2	18
-How a Realist Hero Rebuilt the Kingdom		2	13
-How to Rock		2	25
-Howards End		2	4
-Hořící keř		2	3
-Hudson & Rex		2	70
-Hudson e Rex		2	153
-Hulk Hogan O Lutador		2	4
-Hulk e os Agentes de S.M.A.S.H		2	26
-Hulk e os Agentes de SMASH		2	26
-Humanidade A Historia de Todos Nos		2	12
-Humanos Extraordinários		2	20
-Humor Negro: A Série		2	10
-Hundred		2	12
-Hunter Street		2	90
-Hunter x Hunter	2011	2	546
+How a Realist Hero Rebuilt the Kingdom		3	13
+How to Rock		3	25
+Howards End		3	4
+Hořící keř		3	3
+Hudson & Rex		3	70
+Hudson e Rex		3	153
+Hulk Hogan O Lutador		3	4
+Hulk e os Agentes de S.M.A.S.H		3	26
+Hulk e os Agentes de SMASH		3	26
+Humanidade A Historia de Todos Nos		3	12
+Humanos Extraordinários		3	20
+Humor Negro: A Série		3	10
+Hunter Street		3	90
+Hunter x Hunter	2011	3	546
 Hunting Atlantis		3	6
 Hush		3	15
 Hyakusho Kizoku Aristocracia Rural		3	12
-Hyouka		3	23
 Hyperdrive		3	10
 Hysteria	2024	3	16
 Hércules		3	65

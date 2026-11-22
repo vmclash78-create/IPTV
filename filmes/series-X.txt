@@ -1,7 +1,9 @@
 X-Men		0	152
-X-Men '97		0	19
+X-Men	1992	0	26
+X-Men '97	2024	0	19
 X-Men Serie Animada		0	76
 X-Men: Evolution		0	52
+X-Men: Evolution	2000	0	52
 XIII: The Series		0	26
 XMen 97	2024	0	19
 Xand Avião DVDs & Shows		0	31

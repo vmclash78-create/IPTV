@@ -23,6 +23,7 @@
 #UberXTáxis	f	#
 'Til Death	s	#
 (des)conhecidos	f	#
+(Des)encanto	s	#	2018
 (Des)encontro Perfeito (2015)	f	#
 (In) Seguros	f	#
 (Re)Nascer	f	#
@@ -798,6 +799,7 @@ A Bruxinha e o Dragão	f	A
 A Busca	s	A
 A Busca (2012)	f	A
 A Busca pelo Ouro de Tom Sawyer	f	A
+A Busca: Academia de F1	f	A
 A Bênção	s	A
 A Bíblia	s	A	2013
 A Bíblia: Salmos	s	A
@@ -964,6 +966,7 @@ A CEO Enlouquece Apos Sua Demissao	f	A
 A CEO FRIA QUER-SE CASAR COMIGO	f	A
 A CEO SECRETA	f	A
 A CEO Secreta	s	A
+A Cereja do Natal	f	A
 A Certain Dark Item (2026)	s	A
 A Certain Magical Index	s	A
 A Certain Scientific Accelerator	s	A
@@ -2411,6 +2414,7 @@ A Melhor de Todos os Tempos	f	A
 A Melhor Escolha	f	A
 A Melhor Esposa Nao Fuja	f	A
 A MELHOR FAMILIA FELIZ DOS EUA	s	A
+A MELHOR FAMÍLIA FELIZ DOS EUA	s	A	2025
 A Melhor Festa do Ano (2011)	f	A
 A Melhor Irma	s	A	2025
 A Melhor Mae do Mundo (2025)	f	A
@@ -2475,6 +2479,7 @@ A Missao da Familia Yozakura	s	A
 A Missy Errada (2020)	f	A
 A Missão	s	A
 A Missão (1986)	f	A
+A Missão da Família Yozakura	s	A	2024
 A Missão de Sandy Bochechas (2024)	f	A
 A Mistake (2024)	f	A
 A Misteriosa Morte de Pérola	f	A
@@ -2911,7 +2916,6 @@ A Princesa e a Plebeia	f	A
 A Princesa e a Plebeia: As Vilas Tambem Amam (2021)	f	A
 A Princesa e a Plebeia: Nova Aventura (2020)	f	A
 A Princesa e o Dragao (2018)	f	A
-A Princesa e o Duende	f	A
 A Princesa e o Feitiço do Tempo (2022)	f	A
 A PRINCESA E O GENERAL	f	A
 A Princesa e o Piloto	f	A
@@ -3426,6 +3430,7 @@ A Vida de Chuck	f	A
 A Vida de David Gale	f	A
 A Vida de Diane (2019)	f	A
 A Vida De Dug	s	A
+A Vida de Dug	s	A	2021
 A Vida de Jesus Cristo	f	A
 A Vida de Jo	s	A
 A Vida de Outra Mulher	f	A
@@ -3459,7 +3464,6 @@ A Vida em Cores com David Attenborough	s	A
 A Vida Em Espera (2017)	f	A
 A Vida em Mim	f	A
 A Vida em Outros Planetas	s	A
-A Vida em Preto e Branco	f	A
 A Vida em Si	f	A
 A Vida em um Ano (2020)	f	A
 A Vida em um Pote de Vidro	f	A
@@ -3478,7 +3482,6 @@ A Vida no Skate com Leo Baker (2022)	f	A
 A Vida Pela Frente	s	A	2023
 A Vida Pode Mudar (2021)	f	A
 A Vida Por um Fio (2016)	f	A
-A Vida Privada Dela	s	A
 A Vida Pós 11 de Setembro	f	A
 A Vida Que Eu Quero	f	A
 A Vida que Nos Une - Bizi Birlestiren Hayat	s	A
@@ -3829,6 +3832,7 @@ Academia de Vilões	f	A
 Academia Sobrenatural: Nascimento da Marca do Dragão (2026)	f	A
 Academia Unicornio	s	A
 Academia Unicornio Segredos Revelados	s	A
+Academia Unicórnio: Segredos Revelados	s	A	2026
 Acampados	s	A
 Acampamento com a Mamãe	f	A
 Acampamento com as Amigas	f	A
@@ -4103,6 +4107,7 @@ Agente K.C	s	A
 Agente Kim: Reativado	s	A
 Agente Mirim	f	A
 Agente Oculto (2022)	f	A
+Agente P. Disfarçado	s	A	2026
 Agente Secreto Primata	f	A
 Agente Stone (2023)	f	A
 Agente Vermelho	f	A
@@ -4168,8 +4173,6 @@ Ai que Vida!	f	A
 Ai Yori Aoshi	s	A
 Aida the Movi	f	A
 Aika	s	A
-AIKa ZERO	s	A
-Aikatsu Friends!	s	A
 Aikatsu!	s	A
 Aile Lacos de Paixao	s	A
 Aileen A Historia de uma Serial Killer (2025)	f	A
@@ -4215,6 +4218,7 @@ aka Charlie Sheen	s	A
 Akagi	s	A
 Akame ga Kill	s	A	2014
 Akane banashi	s	A
+Akane-banashi	s	A	2026
 Akanesasu Shoujo	s	A
 AKB0048	s	A
 Akebi's Sailor Uniform	s	A
@@ -4374,7 +4378,6 @@ Alibi.com 2	f	A
 Alice	f	A
 Alice & Lewis	s	A
 Alice & Só	f	A
-Alice & Zoroku	s	A
 Alice and Steve	s	A
 Alice Atraves do Espelho (2016)	f	A
 Alice dos Anjos	f	A
@@ -4619,7 +4622,6 @@ Amaldiçoado	f	A
 Amaldiçoados	f	A
 Amaldiçoados pelo Demônio	f	A
 AMANAT - AMANAT	s	A
-Amanchu!	s	A
 Amanda	f	A
 Amanda Knox	f	A
 Amando o Inimigo	s	A
@@ -5583,6 +5585,7 @@ Apenas um Olhar	s	A
 Apenas um Show	s	A
 Apenas um Show / Regular Show	s	A
 Apenas um Show As Fitas Perdidas	s	A
+Apenas um Show: As Fitas Perdidas	s	A	2026
 Apenas um Show: O Filme (2015)	f	A
 Apenas uma Chance	f	A
 Apenas uma Noite	f	A
@@ -5880,7 +5883,6 @@ Arrume um Emprego (2016)	f	A
 Ars no Kyojuu	s	A
 Arsenal (2017)	f	A
 Arsenal Military Academy	s	A
-Arslan Senki	s	A
 Art Attack: Modo Desafio	s	A
 Art Attack: Snack	s	A
 Arte de Roubar	f	A
@@ -6140,6 +6142,7 @@ As Irmas Grimm	s	A
 As Irmas Guerra	s	A
 As Irmãs Culpo	s	A
 As Irmãs Encantadas	f	A
+As Irmãs Grimm	s	A	2025
 As Irmãs Macaluso	f	A
 As Irmãs Vampiras	f	A
 As Irmãs Vampiras 2: O Amor Floresce	f	A
@@ -6207,10 +6210,12 @@ As Novas Aventuras de Gasparzinho	s	A
 As Novas Aventuras de Jonny Quest	s	A
 As Novas Aventuras de Pippi Meia-Longa	f	A
 As Novas Aventuras de Riquinho	f	A
+As Novas Aventuras do Batman	s	A	1997
 As Novas Aventuras do Fusca (1974)	f	A
 As Novas Aventuras do Macaco	s	A
 As Novas Aventuras do Superman	s	A
 As Novas Aventuras Do Ursinho Puff	s	A
+As Novas Aventuras do Ursinho Puff	s	A	1988
 As Novas Super Gatinhas	s	A
 As Novas Viagens de Simbad	f	A
 As Nove Emoções	s	A
@@ -6258,7 +6263,6 @@ As Senhoras de Salem (2013)	f	A
 As Sereias	f	A
 As Sessões	f	A
 As Sete Faces de Jane	f	A
-As Sete Virtudes Celestiais	s	A
 As Strippers Zumbi	f	A
 As Sufragistas (2015)	f	A
 As Supermodelos	s	A
@@ -6279,6 +6283,7 @@ As Tartarugas Ninjas	s	A
 As Tartarugas Ninjas Caos Mutante (2023)	f	A
 As Telefonistas	s	A	2017
 As Terríveis Aventuras De Billy E Mandy	s	A
+As Terríveis Aventuras de Billy e Mandy	s	A	2001
 As Testemunhas de Madea (2012)	f	A
 As the Gods Will	f	A
 As Tias (2024)	f	A
@@ -6754,7 +6759,7 @@ Avatar: A Lenda De Korra	s	A
 Avatar: Mergulho Profundo - Edição Especial de 20 20	f	A
 Avatar: O Caminho da Água (2022)	f	A
 Avatar: O Último Mestre do Ar	s	A	2024
-Avatar: Os Sete Refugios	s	A	2026
+Avatar: Os Sete Refúgios	s	A	2026
 Avedon	f	A
 Avenida	f	A
 Avenida Beira-Mar	f	A
@@ -6808,6 +6813,7 @@ Ayar	f	A
 Ayla: A Filha da Guerra	f	A
 Aynen Aynen	s	A
 Ayse - Ayse Bir Ruh Macerasi	s	A
+Ayô	s	A
 Aziz	s	A
 Azize	s	A
 Azor	f	A
@@ -6957,6 +6963,7 @@ BAKI DOU O Samurai Invencivel	s	B
 Baki Hanma	s	B	2021
 Baki Hanma x Kengan Ashura (2024)	f	B
 Baki the Grappler	s	B
+BAKI-DOU: O Samurai Invencível	s	B	2026
 Bakuage Sentai Boonboomger	s	B
 Bakuage Sentai Boonboomger VS King-Ohger	f	B
 Bakuman	s	B
@@ -7120,6 +7127,7 @@ Barbie: Aventura nas Estrelas (2016)	f	B
 Barbie: Big City, Big Dreams	f	B
 Barbie: Dreamhouse Adventures	s	B
 Barbie: It Takes Two	s	B
+Barbie: Life in the Dreamhouse	s	B	2012
 Barbie: Moda e Magia (2010)	f	B
 Barbie: O Quebra-Nozes	f	B
 Barbie: Rainhas do Rock	f	B
@@ -7321,6 +7329,7 @@ Beauty (2022)	f	B
 Beauty and Loss	f	B
 Beauty in Black	s	B	2024
 Beavis and Butt-head	s	B
+Beavis e Butt-Head	s	B	2022
 Beavis e Butt-Head Detonam a América	f	B
 Beavis e Butt-Head: Detonam o Universo (2022)	f	B
 Bebe Milagre do CEO	f	B
@@ -7339,7 +7348,6 @@ Bebê a Bordo	s	B
 Bebê De Outubro	f	B
 Bebês em Foco	s	B
 Bebês Geniais (1999)	f	B
-Beck	s	B
 Becker	s	B
 Beckett	f	B
 Beckham	s	B
@@ -7638,7 +7646,6 @@ Big Boys	s	B
 Big Brother (2018)	f	B
 Big Brother Brasil	s	B
 Big Brother Brasil A Eliminacao	s	B
-Big Buck Bunny	f	B
 Big Dreams	f	B
 Big Família	f	B
 Big Filho 2	f	B
@@ -7745,7 +7752,6 @@ Bizaardvark	s	B
 Black	f	B
 Black '47 (2018)	f	B
 Black and Blue	f	B
-Black And White Warriors	s	B
 Black Bear	f	B
 Black Beauty	f	B
 Black Bird	s	B
@@ -7781,6 +7787,7 @@ Black Snow	s	B
 Black Space	s	B
 Black Summer	s	B	2019
 Black Summoner	s	B
+BLACK TORCH	s	B	2026
 Black Torch	s	B
 BLACK TRICK: The Lawyer Who Controls Justice	s	B
 Black Water Abyss	f	B
@@ -7976,6 +7983,7 @@ Boca de Fumo (2025)	f	B
 Boca de Ouro (2019)	f	B
 Boca do Lixo	f	B
 Boca do Lixo	s	B
+Bocaína	f	B
 BOCCHI THE ROCK!	s	B
 Bodas de Papel (2018)	f	B
 Bodkin	s	B	2024
@@ -7989,13 +7997,13 @@ Bohemian Rhapsody (2018)	f	B
 Boi	f	B
 Boi Neon	f	B
 Boinas Pretas - Siyah Bere	s	B
+Boiúna - Terror no Amazonas	f	B
 BoJack Horseman	s	B
 Boku No Hero Academia	s	B
 Boku no Kokoro no Yabai Yatsu	s	B
 Boku to Roboko	s	B
 Boku wa Tomodachi ga Sukunai	s	B
 Bokura ga Ita	s	B
-Bokusatsu Tenshi Dokuro-chan	s	B
 Bokutachi no Remake	s	B
 Bola pra Cima (2026)	f	B
 Bola Rolando Major League Soccer	s	B
@@ -8192,7 +8200,6 @@ Brava Gente Brasileira	f	B
 Brave 10	s	B
 Brave Bang Bravern!	s	B
 Brave Citizen	f	B
-Brave Gunjyo Senki / ブレイブ -群青戦記- (NÃO PT-BR)	f	B
 Brave New World	s	B
 BraveStorm	f	B
 Bravetown	f	B
@@ -8378,6 +8385,7 @@ Bull Shark vs. Hammerhead	f	B
 Bull: Hora da Vingança	f	B
 BULLBUSTER	s	B
 BULLET BULLET	s	B
+BULLET/BULLET	s	B	2025
 Bulletproof	s	B
 Bulletproof 2	f	B
 Bullfighter: Apocalipse no Texas	f	B
@@ -8451,6 +8459,7 @@ By Night's End	f	B
 Bye Bye Barry	f	B
 Bye Bye Brasil	f	B
 Bye Bye Earth	s	B
+Bye Bye, Earth	s	B	2024
 Byzantium: Uma Vida Eterna (2013)	f	B
 Bárbaros	s	B	2020
 Bâtiment 5	f	B
@@ -8624,7 +8633,6 @@ Camila Sairá Esta Noite	f	C
 Camille	f	C
 Camille Claudel	f	C
 Camille Claudel Sem Voz	f	C
-Camilo - O Presidente	s	C
 Caminantes A Trilha do Medo	s	C
 Caminhando com Dinossauros (2013)	f	C
 Caminhando nas Nuvens	f	C
@@ -8660,6 +8668,7 @@ Caminhos Violentos	f	C
 Caminhos Ásperos	f	C
 Camisa de Força	f	C
 Camisa de Ouro	f	C
+Camp	f	C
 Camp Courage	f	C
 Camp CrunchLabs	s	C
 Camp Hideout	f	C
@@ -8797,6 +8806,7 @@ Capitão Fall	s	C
 Capitão Fantástico	f	C
 Capitão Harlock Pirata do Espaço	f	C
 Capitão Hook: As Marés Malditas (2025)	f	C
+Capitão Planeta	s	C	1990
 Capitão Sharky: O Pequeno Pirata	f	C
 Capitão Sky e o Mundo de Amanhã	f	C
 Capoeiras	s	C
@@ -8853,6 +8863,7 @@ Carcaça (2025)	f	C
 Carcereiros	s	C	2017
 Carcereiros - O Filme (2019)	f	C
 Cardcaptor Sakura	s	C	1998
+Cardcaptor Sakura / Sakura Card Captors: Clear Card	s	C	1998
 Cardfight Vanguard overDress	s	C
 Cardinal	s	C	2017
 Careful What You Wish For	f	C
@@ -9231,7 +9242,8 @@ Cavalos e Carrascos	s	C
 Cavalos Selvagens	f	C
 Cavaram Uma Cova No Meu Coração	f	C
 Caveat (2021)	f	C
-Caverna do Dragão	s	C	None
+Caverna Do Dragão	s	C
+Caverna do Dragão	s	C	1983
 Caverna Maldita 2	f	C
 Cayetana A Duquesa de Todos	f	C
 Cayetana La duquesa de todos	f	C
@@ -9633,7 +9645,6 @@ Chitãozinho & Xororó: 40 Anos Entre Amigos	f	C
 Chivalry of a Failed Knight	s	C
 Chloe	s	C
 Chobits	s	C
-Choboraunyopomi Gekijou Ai Mai Mii	s	C
 Chocante	f	C
 Chocolate	f	C
 Chocolate (2000)	f	C
@@ -10106,6 +10117,7 @@ Com as Proprias Maos 2: O Troco (2007)	f	C
 Com Carinho	f	C
 Com Carinho Kitty	s	C	2023
 Com Deus no Caminho (2018)	f	C
+Com Licença, Eu Vou à Luta	f	C
 Com Minha Viúva,Não!	f	C
 Com Mérito	f	C
 Com o Pé Na Estrada	f	C
@@ -10204,7 +10216,6 @@ COMO DOMAR UM CEO MANDAO	f	C
 COMO DOMAR UM COROA	f	C
 Como Domar um Coroa	s	C
 Como Domar uma Raposa Prateada How to a Silver Fox	f	C
-Como Eliminar seu Chefe	f	C
 Como Encontrar Alguém para Sempre	s	C
 Como Enlouquecer seu Chefe (1999)	f	C
 Como Entrei para a Faculdade	f	C
@@ -10341,6 +10352,7 @@ Concrete Plans	f	C
 Condado Macabro	f	C
 Condenacao Brutal (1989)	f	C
 Condenado ao Amor - Aşka Mahkum	s	C
+Condenados a Viver	f	C
 Condenados Ao Passado	f	C
 Condenados pela Mídia	s	C
 Condor	s	C	2018
@@ -10442,7 +10454,6 @@ Conheca Homem de Ferro e seus Amigos Incriveis	s	C
 Conhecendo as Esculturas e Modelagens dos Filmes Disney	s	C
 Conhecendo Mr. Chow	f	C
 Conhecendo o Sr. Natal (2022)	f	C
-Conheça os Feebles	f	C
 Conheça os Pickles Nos Bastidores de Ganhar ou Perder	f	C
 Conheço Você	s	C
 Conjuring the Cult (2024)	f	C
@@ -10766,6 +10777,7 @@ Cordel do Amor Sem Fim	f	C
 Cordel Encantado	s	C
 Cordelicos	s	C
 Cordialmente Teus	f	C
+Cordélicos	s	C	2022
 Coreia do Norte: Segredos Obscuros	f	C
 Coreia O Pais do Kimchi	s	C
 Cores	f	C
@@ -11123,7 +11135,6 @@ Cronicas de um Lar	s	C
 Cronos - A Relíquia do Tempo (2021)	f	C
 Croods,o Início	s	C	2015
 Crooked House	f	C
-Crookhaven	s	C
 Crossbones	s	C
 Crossing Lines	s	C
 Crossing Swords	s	C
@@ -11252,7 +11263,6 @@ Cyborg Cop: A Guerra do Narcotráfico	f	C
 Cyborg X	f	C
 Cycle of Sin	s	C
 Cyclone	f	C
-Cyclops Shoujo Saipuu	s	C
 Cymbeline	f	C
 Cypher	f	C
 Cypher	s	C
@@ -11359,7 +11369,6 @@ D1AR10S	s	D
 D2 - Nós Somos os Campeões	f	D
 D3 - Nós Somos os Campeões	f	D
 D4DJ	s	D
-Da Capo	s	D
 Da Colina Kokuriko	f	D
 Da Cor do Pecado	s	D
 Da Decoração ao Makeover	s	D
@@ -11438,6 +11447,7 @@ Dandelion	f	D
 Dando um Tempo com Bert Kreischer	s	D
 Dando à Luz Uma Nação- A Resistência de Mary Gaffney	f	D
 DANG!	s	D
+Dang!	s	D	2026
 Dange	f	D
 Danger & Eggs	s	D
 Danger Close The Battle of Long Tan Legendado	f	D
@@ -11453,6 +11463,7 @@ Daniel, o Caçador de Magia	s	D
 Daniela Forever	f	D
 Danificado (2024)	f	D
 DanMachi E Errado Tentar Pegar Garotas em uma Masmorra	s	D
+DanMachi: É Errado Tentar Pegar Garotas em uma Masmorra?	s	D	2015
 Danny Go!	s	D
 Danny Phantom	s	D
 Dano Colateral	f	D
@@ -11813,7 +11824,6 @@ Dedicada a Minha Ex	f	D
 Deep (2021)	f	D
 Deep Evil - Experiência Mortal	f	D
 Deep In	s	D
-Deep Insanity THE LOST CHILD	s	D
 Deep Revenge	s	D
 Deep Water	s	D
 Deep Web: Show da Morte	f	D
@@ -11923,6 +11933,7 @@ Dennis, o Pimentinha Ataca Novamente	f	D
 Dente de Leao	s	D
 Dente de Leite (2020)	f	D
 Dente por Dente (2020)	f	D
+Dente-de-Leão	s	D	2026
 Dentes de Leite	f	D
 Dentro	f	D
 Dentro da Baleia (2026)	f	D
@@ -12600,6 +12611,7 @@ Dino King: Viagem à Montanha do Fogo	f	D
 Dino Ranch	s	D
 Dino the Dinosaur	s	D
 Dino Trem: Ilha da Aventura	f	D
+Dinoarmaduras	s	D	2025
 Dinosaur	s	D
 Dinossauro (2000)	f	D
 Dinossauro Rei	s	D
@@ -12731,6 +12743,7 @@ Diz-Me Quem Sou	s	D
 Dizem por aí... (2005)	f	D
 Diálogos com Ruth de Souza	f	D
 Diário da Barbie	f	D
+Diário das Fadas	s	D	2023
 Diário de Horrores	s	D
 Diário de Pilar	s	D
 Diário de um Adolescente (1995)	f	D
@@ -12893,13 +12906,11 @@ Doctor X: Mafia in White	s	D
 Doctor Zhivago	s	D
 Doctor-X O Filme	f	D
 Documentario	s	D
-Documentário	f	D
 Doe: Sem Passado	f	D
 Doente de Amor	f	D
 Doente de Amor (2025)	f	D
 Doentes de Amor	f	D
 Doenças Misteriosas	s	D
-Does It Count If You Lose Your Virginity to an Android?	s	D
 Dog Days	s	D
 Dog House Brasil	s	D
 Dog Soldiers - Cães de Caça	f	D
@@ -13152,7 +13163,6 @@ Dr. Romântico	s	D
 Dr. Semmelweis	f	D
 Dr. Socrates	f	D
 Dr. Stone	s	D	2019
-Dr. Stone The Stage - Science World (NÃO PT-BR)	f	D
 Dr. Storks	s	D
 Dr. T e as Mulheres	f	D
 dr4g0n	s	D	2024
@@ -13182,7 +13192,6 @@ Dragging the Classics: The Brady Bunch	f	D
 Dragnet	f	D
 Dragnet: Desafiando o Perigo (1987)	f	D
 Dragoes - Pilotos de Berk	s	D
-Dragoes A Serie	s	D	2012
 Dragoes de Wonderhatch	s	D
 Dragoes: Equipe de Resgate: Em Busca do Dragao Dourado (2020)	f	D
 Dragon Age: Absolvição	s	D
@@ -13244,12 +13253,13 @@ Dragões de Komodo	f	D
 Dragões em Dose Dupla	f	D
 Dragões Ninja	f	D
 Dragões para Sempre	f	D
+Dragões: A Série	s	D	2012
 Dragões: Corrida até o Limite	s	D
 Dragões: Equipe de Resgate ‑ Heróis do Céu	s	D
 Dragões: Equipe de Resgate: Dia de festa em Huttsgalor	f	D
 Dragões: Equipe de Resgate: Os segredos do Melo-Draco	f	D
 Dragões: O Presente do Fúria da Noite	f	D
-Dragões: Os Nove Reinos	s	D	None
+Dragões: Os Nove Reinos	s	D
 Drake & Josh	s	D	2004
 Drake E Josh	s	D
 drama	f	D
@@ -13272,7 +13282,6 @@ DRIFT TIO MECANICO	f	D
 Drift! Tio Mecânico	s	D
 Drift! Tio Mecânico 2: Herança de Velocidade	s	D
 Drifter (2023)	f	D
-Drifters	s	D
 Drifting Home	f	D
 Driftwood - O Reformatório	f	D
 Drillbit Taylor	f	D
@@ -13310,7 +13319,7 @@ Drácula – Ele Ainda Está Vivo (2022)	f	D
 Drácula: Morto, mas Feliz	f	D
 DSI: Departamento Secreto de Intervenção (2024)	f	D
 DTF St Louis	s	D	2026
-Du Dudu e Edu	s	D	1999
+Du, Dudu e Edu	s	D	1999
 Dua Lipa: Studio (2054)	f	D
 Dual	f	D
 Duang com Você	s	D
@@ -13718,6 +13727,7 @@ Elementary	s	E	2012
 Elementos (2023)	f	E
 Elementos Naturais	f	E
 Elena De Avalor	s	E
+Elena de Avalor	s	E	2016
 Elena e o Segredo de Avalor	f	E
 Elena Sabe	f	E
 Eles	s	E	2021
@@ -14044,7 +14054,6 @@ Encontros Extraterrestres	s	E	2023
 ENCONTROS FATIDICOS	f	E
 Encontros Secretos Amor ou Contatinho	s	E
 Encounter	f	E
-Encouragement Of Climb	s	E
 EncrenCão	f	E
 Encruzilhada (2013)	f	E
 Encurralada (2002)	f	E
@@ -14446,6 +14455,7 @@ Espada da Vingança: Até a Última Linha	f	E
 Espada de Deus: A Ultima Cruzada (2020)	f	E
 Espada e Amores	s	E
 Espada e Fada	s	E
+Espadas e Poder	s	E	2020
 Espangles (2004)	f	E
 Espantalho (2011)	f	E
 Espantalho Assassino	f	E
@@ -14545,6 +14555,7 @@ Esquadrão de Cavaleiros	s	E
 Esquadrão de Confeiteiros	s	E
 Esquadrão de Elite	f	E
 Esquadrão de Elite: Home Run (2023)	f	E
+Esquadrão de Heróis	s	E	2009
 Esquadrão do Papai Noel	f	E
 Esquadrão Especial Winspector	s	E
 Esquadrão Fantasma	f	E
@@ -14555,6 +14566,7 @@ Esquadrão Relâmpago Changeman	s	E
 Esquadrão Sem Limites	f	E
 Esquadrão Suicida (2016)	f	E
 Esquadrão Suicida: Acerto de Contas	f	E
+Esquadrão Suicida: Isekai	s	E	2024
 Esquece Isso!	s	E
 Esqueceram de Mim (1990)	f	E
 Esqueceram de Mim 2: Perdido em Nova York (1992)	f	E
@@ -14630,6 +14642,8 @@ ESTOU GRAVIDA, VAMOS TERMINAR	f	E
 Estou Me Guardando para Quando o Carnaval Chegar (2019)	f	E
 Estou Pensando em Acabar com Tudo	f	E
 Estrada da Morte (2023)	f	E
+Estrada da Ressureição	f	E
+Estrada das Lágrimas	s	E
 Estrada de Sangue	s	E	2014
 Estrada de Sonhos	f	E
 Estrada do Apocalipse	f	E
@@ -14786,6 +14800,7 @@ Eu Queimei Navios - Ne Gemiler Yaktım	s	E
 EU QUERIA QUE FOSSE VOCE	f	E
 Eu Queria Ter a Sua Vida	f	E
 Eu Receberia as Piores Notícias dos Seus Lindos Lábios	f	E
+Eu S2 Arlo	s	E	2021
 Eu Sei o Que Vocês Fizeram no Verão Passado	f	E
 Eu Sei O Que Vocês Fizeram No Verão Passado	s	E
 Eu Sei o Que Vocês Fizeram no Verão Passado (1997)	f	E
@@ -15274,7 +15289,6 @@ Fast Layne	s	F
 Fast Money	f	F
 Faster: No Limite da Velocidade (2025)	f	F
 Fastest Car	s	F
-Fastest Finger First	s	F
 Fatal	f	F
 Fatal Countdown Reset (2017)	f	F
 Fatal Crossing As Garotas da Balsa	s	F
@@ -15306,7 +15320,6 @@ Fatmagul A Forca do Amor	s	F
 Fator de Risco	f	F
 Fatos Estranhos	f	F
 Fauda	s	F	2015
-Fausto	f	F
 Fausto Fawcett na Cabeça	f	F
 Favela Gay: Periferias LGBTQI+	s	F
 Favela é Moda	f	F
@@ -15769,6 +15782,7 @@ Foi um Rápido Verão, Charlie Brown	f	F
 Foi um Tempo de Dor	f	F
 Folclore	s	F
 Folha Magica	s	F
+Folha Mágica	s	F	2013
 Folhas de Outono (2023)	f	F
 Follow Me	f	F
 Followed: Influência Maligna	f	F
@@ -15934,6 +15948,7 @@ Frankenstein (2025)	f	F
 Frankenstein de Mary Shelley (1994)	f	F
 Frankenstein Entre Anjos e Demônios (2014)	f	F
 Frankenstein Jr e Os Impossiveis	s	F
+Frankenstein Jr. e Os Impossíveis	s	F	1966
 Frankenstein vs A Múmia (2015)	f	F
 Frankenstein: Legacy (2025)	f	F
 Frankenweenie	f	F
@@ -15982,7 +15997,6 @@ FreeKs	s	F
 Freelance (2023)	f	F
 Freeridge	s	F
 Freestyle	f	F
-Freezing	s	F
 Freiras em Fuga	f	F
 Fremont	f	F
 French Girl	f	F
@@ -16116,7 +16130,6 @@ Fulfill	s	F
 Full Clearing Another World under a Goddess with Zero Believers (2026)	s	F
 Full Count: Beisebol Coreano	s	F
 Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!	s	F
-Full Metal Panic	s	F
 Full Moon	s	F
 Full Out 2: You Got This!	f	F
 Full Out: No Ritmo da Vitória	f	F
@@ -16155,13 +16168,10 @@ Furioso	f	F
 Furioza (2021)	f	F
 Furioza 2 (2025)	f	F
 Fushigi no Umi no Nadia: Original Movie	f	F
-Fushigi Yuugi	s	F
 Futakoi	s	F
-Futakoi Alternative	s	F
 Futebol A Hora da Verdade	s	F
 Futebol de Rua	s	F
 Futebol em Apuros (2022)	f	F
-Futoku no Guild	s	F
 Futsuu no Joshikousei ga Yattemita.	s	F
 Futurama	s	F
 Future Brilliant	f	F
@@ -16262,7 +16272,6 @@ Gaiola Mental (2022)	f	G
 Gakuen Basara: Samurai High School	s	G
 Gakuen Handsome	s	G
 Gakuen Utopia Manabi Straight!	s	G
-Galaxy Angel	s	G
 Galaxy Games	f	G
 Galera do Barulho	s	G
 Galera FC	s	G
@@ -16424,7 +16433,6 @@ Gasparzinho	s	G
 Gasparzinho - Especial do Dia das Bruxas	f	G
 Gasparzinho, Como Tudo Começou	f	G
 Gasparzinho, o Fantasminha Camarada	f	G
-Gata em Fuga	f	G
 Gata em Fuga 2	f	G
 Gata Selvagem	s	G
 Gatao: Tal Pai, Tal Filho	f	G
@@ -16532,7 +16540,6 @@ GET JIRO	s	G
 Get Millie Black	s	G	2024
 Get on Up: A História de James Brown	f	G
 Get Shorty: A Máfia do Cinema	s	G	2017
-Getsuyoubi no Tawawa	s	G
 Getúlio (2014)	f	G
 Ghislaine Maxwell: Filthy Rich	f	G
 GHOST CONCERT Missing Songs	s	G
@@ -16684,11 +16691,13 @@ Go	s	G
 Go Buster!	s	G
 Go Diego Go	s	G
 Go For It Nakamura kun	s	G
+Go For It, Nakamura-kun!!	s	G	2026
 Go Go Loser Ranger	s	G
 Go Viva do seu Jeito	s	G
 Go! Festa Inesquecível (2019)	f	G
 Go! Go! Cory Carson	s	G
 Go! Go! Cory Carson: Chrissy	f	G
+Go! Go! Loser Ranger!	s	G	2024
 GOAT (2025)	f	G
 Goblin	s	G
 Goblin - O Sacrifício	f	G
@@ -16891,6 +16900,7 @@ GRAVIDEZ PERFEITA	f	G
 Gravidez Perfeita	s	G
 GRAVIDEZ POR ENGANO	f	G
 Gravity Falls: Um Verão De Mistérios	s	G
+Gravity Falls: Um Verão de Mistérios	s	G	2012
 Gray	s	G	2023
 Graça e Coragem	f	G
 Graça e Perdão	f	G
@@ -17111,7 +17121,6 @@ Gundam Build Fighters	s	G
 Gungrave	s	G
 Gunpowder	s	G	2017
 Guns Akimbo	f	G
-Gunslinger Girl	s	G
 Gunslingers	f	G
 Gunther: O Cachorro Milionário	s	G
 Gurren Lagann	s	G
@@ -17126,6 +17135,7 @@ Gwen (2018)	f	G
 Gwen Legendado	f	G
 Gyeongseong Creature	s	G	2023
 Gypsy	s	G
+Gárgulas	s	G	1994
 Gêmea Assassina	f	G
 Gêmeas Trans: Uma Nova Vida	s	G
 Gêmeas: Mórbida Semelhança	s	G
@@ -17185,7 +17195,6 @@ Hakenshimasu!	s	H
 Hakkenden: Eight Dogs of the East	s	H
 Hakumei to Mikochi	s	H
 HAKYU HOSHIN ENGI	s	H
-Hakyuu Houshin Engi	s	H
 Hal and Harper	s	H
 Hala (2019)	f	H
 Halifax: Retribution	s	H
@@ -17268,7 +17277,6 @@ Hannibal	s	H	2013
 Hannibal a Origem do Mal (2007)	f	H
 Hannibal Hopkins et Sir Anthony	f	H
 Hans Zimmer: Ao Vivo em Praga (2017)	f	H
-Hanyo,a Empregada	f	H
 Hanyou No Yashahime: Sengoku Otogizoushi	s	H
 Happiest Season	f	H
 Happily	f	H
@@ -17396,7 +17404,6 @@ Heaven	s	H
 Heaven Officials Blessing	s	H
 Heaven's Lost Property	s	H
 Heavy Metal do Horror / O Rock do Dia das Bruxas	f	H
-Heavy Metal: Universo em Fantasia	f	H
 Hebe	s	H
 Hebe: A Estrela do Brasil	f	H
 Hebe: Um Brinde à Vida	s	H
@@ -17546,6 +17553,7 @@ Heroi ou Quase Isso	s	H
 Heroi por Encomenda (2023)	f	H
 Heroic Journey of Ne Zha	s	H
 Heroine? Saint? No, I'm an All-Works Maid !	s	H
+Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!	s	H	2026
 Heroine? Saint? No,I'm an All-Works Maid (And Proud of It)! (2026)	s	H
 Herois (2009)	f	H
 Herois da Biblia	s	H
@@ -17575,7 +17583,6 @@ Heróis de Ressaca	f	H
 Heróis de Uma Guerra (2018)	f	H
 Heróis do Amanhecer	f	H
 Heróis Pokémon: Latios & Latias (2002)	f	H
-Hetalia Axis Powers	s	H
 Hex - Salto Mortal	f	H
 Hey A.J.!	s	H
 Hey Arnold!	s	H
@@ -17587,7 +17594,6 @@ Hibike Euphonium	s	H
 Hibike! Euphonium Movie 3 Chikai no Finale	f	H
 Hibike! Euphonium: Ensemble Contest-hen (2023)	f	H
 Hicran	s	H
-Hidamari Sketch	s	H
 Hidan No Aria	s	H
 Hidden - Förstfödd	s	H
 Hidden Murder Island	f	H
@@ -17597,7 +17603,6 @@ Hideo Kojima: Connecting Worlds (2023)	f	H
 Hierarchy	s	H	2024
 Hierarquia	s	H
 Hierarquia do Crime (2025)	f	H
-Higashi No Eden	s	H
 HIGH CARD	s	H
 High Cookie	s	H
 High Fidelity	s	H
@@ -17744,6 +17749,7 @@ Hoje Você Morre	f	H
 Hoje é Dia de Maria	s	H
 Hokkaido Gals Are Super Adorable!	s	H
 Hokum O Pesadelo da Bruxa (2026)	f	H
+Hokuto no Ken - Legends of the Dark King -	s	H	2008
 Hokuto no Ken Legends of the Dark King	s	H
 Hold Your Fire	f	H
 Holding	s	H
@@ -17809,13 +17815,17 @@ Homem X Abelha: A Batalha	s	H
 Homem X Bebe	s	H	2025
 Homem-Absorvente	f	H
 Homem-Aranha	f	H
+Homem-Aranha	s	H
 Homem-Aranha / Homem Aranha	f	H
 Homem-Aranha A Serie Animada	s	H
 Homem-Aranha da Marvel	s	H
 Homem-Aranha e seus Incríveis Amigos	s	H
+Homem-Aranha: A Nova Série Animada	s	H	2003
+Homem-Aranha: A Série Animada	s	H	1994
 Homem-Aranha: O Retorno do Duende Verde	f	H
 Homem-Aranha: Um Novo Dia (2026)	f	H
 Homem-Formiga e a Vespa (2018)	f	H
+Homem-Pipa: Já É!	s	H	2024
 Homens Apaixonados	s	H
 Homens Brancos Nao Sabem Enterrar (2023)	f	H
 Homens Brancos Não Sabem Enterrar	f	H
@@ -17883,7 +17893,6 @@ Hooligan	s	H
 Hooligans	f	H
 Hooligans 2	f	H
 Hoops	s	H
-Hoozuki no Reitetsu	s	H
 Hop: Rebelde Sem Páscoa	f	H
 Hope	f	H
 Hope on the Street	s	H
@@ -17895,9 +17904,9 @@ Hora de Aventura	s	H
 Hora de Aventura com Fionna e Cake	s	H
 Hora de Aventura: Missões Secundárias	s	H
 Hora De Aventura: Terras Distantes	s	H
+Hora de Aventura: Terras Distantes	s	H	2020
 Hora de Brilhar	f	H
 Hora de Recomeçar (2018)	f	H
-Hora do Arrepio: Nem Pense Nisso	f	H
 Hora do Blec - Planeta Blec	f	H
 Hora do Jantar com David Chang	s	H
 Hora do Massacre (2024)	f	H
@@ -17929,7 +17938,6 @@ Horton e o Mundo dos Quem!	f	H
 Horácio (2019)	f	H
 Horário Nobre	s	H
 Horóscopo do Amor	s	H
-Hoshizora - Ponte para o Céu Estrelado	s	H
 Hospedagem Mortal	f	H
 Hospede Indesejado (2019)	f	H
 Hospedeira	f	H
@@ -18049,7 +18057,6 @@ Humanidade A Historia de Todos Nos	s	H
 Humanos Extraordinários	s	H
 Humor Negro	f	H
 Humor Negro: A Série	s	H
-Hundred	s	H
 Hungarian Rhapsody: Queen Live in Budapest	f	H
 Hungerford	f	H
 Hungria: A Escolha de um Sonho (2026)	f	H
@@ -18668,14 +18675,12 @@ Intrusos	f	I
 Inu to Hasami wa Tsukaiyou	s	I
 Inu x Boku SS	s	I
 Inu-Oh (2022)	f	I
-Inugami-san To Nekoyama-san	s	I
 Inumanos Da Marvel	s	I
 iNumber Number O Ouro de Joanesburgo (2023)	f	I
 InuYasha	s	I	2000
 InuYasha 1: Sentimentos que Transcendem o Tempo (2001)	f	I
 InuYasha 3: A Espada Dominadora do Mundo (2003)	f	I
 InuYasha 4: Fogo na Ilha Mística (2004)	f	I
-Inuyashiki (2018)	f	I
 INUYASHIKI O ÚLTIMO HERÓI	s	I
 INVADERS of the ROKUJYOMA!?	s	I
 Invadindo a Sala Secreta do Ceo	f	I
@@ -18753,7 +18758,6 @@ Invisible Heroes	s	I
 Invisíveis	f	I
 Invisíveis (2020)	f	I
 Invisíveis (2022)	f	I
-Invisível	s	I
 Invitation to a Murder	f	I
 Invocacao do Mal 2 (2016)	f	I
 Invocacao do Mal 3: A Ordem do Demonio (2021)	f	I
@@ -18769,7 +18773,6 @@ Ip Man: O Mestre do Kung Fu (2019)	f	I
 Ip Man: The Awakening (2021)	f	I
 Iracema	f	I
 Iracema Uma Transa Amazônica	f	I
-Iria: Zeiram The Animation	s	I
 Iris (2016)	f	I
 Irish Blood	s	I
 Irma ao Quadrado	s	I
@@ -18911,6 +18914,7 @@ Ivy e Bean	f	I
 Ivy e Bean Entram na Dança	f	I
 Ivy e Bean: O Fantasma do Banheiro (2022)	f	I
 Iwaju	s	I
+Iwájú	s	I	2024
 Iwájú Um Novo Dia	f	I
 Iz sve snage	f	I
 Izetta: The Last Witch	s	I
@@ -19137,7 +19141,6 @@ Jiu Jitsu (2020)	f	J
 Jiva!	s	J
 JJ+E	f	J
 JK	s	J
-Jo	f	J
 Jo	s	J
 Jo Pil-ho - O Despertar da Ira	f	J
 Joan	s	J	2024
@@ -19413,7 +19416,6 @@ Josey Wales: O Fora da Lei	f	J
 Josh Johnson Sinfonia	f	J
 Joshi Kausei	s	J
 Joshikousei no Mudazukai	s	J
-Joshiraku	s	J
 Joshua - O Filho do Mal	f	J
 Josie e as Gatinhas no Espaço	s	J
 José	f	J
@@ -19567,12 +19569,13 @@ Jurassic Triangle	f	J
 Jurassic World	f	J
 Jurassic World - A Batalha de Big Rock	f	J
 Jurassic World 2 - Reino Ameacado	f	J
-Jurassic World Teoria do Caos	s	J	None
-Jurassic World: Acampamento Jurássico	s	J	None
+Jurassic World Teoria do Caos	s	J
+Jurassic World: Acampamento Jurássico	s	J
 Jurassic World: Dominio (2022)	f	J
 Jurassic World: O Mundo dos Dinossauros (2015)	f	J
 Jurassic World: Recomeço	f	J
 Jurassic World: Reino Ameacado (2018)	f	J
+Jurassic World: Teoria do Caos	s	J	2024
 JUREI TE AMAR APRENDI TE LARGAR	f	J
 JURISGOSTOSA E SEU CHEFE DE GELO	f	J
 Just a Father	f	J
@@ -19640,7 +19643,6 @@ Juventudes Roubadas (2015)	f	J
 Juwanna Mann	f	J
 Juízo	f	J
 Juízo Final	f	J
-Jyuushin Enbu: Hero Tales	s	J
 Já Era Hora	f	J
 Já Estou Com Saudades	f	J
 Já Estou Te Vendo (2023)	f	J
@@ -19654,7 +19656,6 @@ K-9: D.P.: Um Policial Bom pra Cachorro	f	K
 K-9: Um Policial Bom pra Cachorro	f	K
 K-I-S-S-I-N-G	f	K
 K-ON!	s	K
-K-PAX: O Caminho da Luz	f	K
 K-Pops. (2026)	f	K
 K.O. (2025)	f	K
 K19 (2002)	f	K
@@ -19790,6 +19791,7 @@ Keith & Evan: Reformando com o Coração	s	K
 Keith e Evan Reformando com o Coracao	s	K
 Kelly & Cal	f	K
 Kelp o Unicornio do Mar	s	K
+Kelp: o Unicórnio-do-Mar	s	K	2023
 Ken e Barbie: O Casal Assassino	s	K
 Kenan	s	K
 Kenan E Kel	s	K
@@ -19970,6 +19972,7 @@ Klondike - A Guerra na Ucrânia	f	K
 Klute, O Passado Condena	f	K
 KM17	f	K
 KND A Turma do Bairro	s	K
+KND: A Turma do Bairro	s	K	2002
 Kneecap: Música e Liberdade	f	K
 Knifecorp	f	K
 Knightfall	s	K
@@ -20010,6 +20013,7 @@ Konosuba	s	K	2016
 KONOSUBA -An Explosion on This Wonderful World!	s	K
 KONOSUBA -God's blessing on this wonderful world!	s	K
 Konosuba As Bencaos de Deus Neste Mundo Maravilhoso	s	K
+Konosuba As Bencaos De Deus Neste Mundo Maravilhoso Dublado	s	K
 Konosuba Uma Explosao Neste Mundo Maravilhoso	s	K
 KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson	f	K
 Konsumiert	f	K
@@ -20042,11 +20046,11 @@ Krull	f	K
 Krwawe trofeum	f	K
 Kryptic	f	K
 Krypto Salva o Dia	s	K
+Krypto Salva o Dia!	s	K	2025
 Krypton	s	K	2018
 Kryptonita	f	K
 Ku Klux Klan Uma Historia Americana	s	K
 Kubanacan	s	K
-Kubikiri Cycle: Aoiro Savant To Zaregototsukai	s	K
 Kubo e as Cordas Mágicas	f	K
 Kubra	s	K	2024
 Kuffs: Um Tira Por Acaso	f	K
@@ -20069,6 +20073,7 @@ Kung Fu Panda Os Segredos dos Mestres	f	K
 Kung Fu Panda: As Patas do Destino	s	K
 Kung Fu Panda: Especial de Natal	f	K
 Kung Fu Panda: Lendas Do Dragão Guerreiro	s	K
+Kung Fu Panda: Lendas do Dragão Guerreiro	s	K	2011
 Kung Fu Panda: O Cavaleiro Dragão	s	K
 Kung Fu Panda: Os Segredos dos Cinco Furiosos	f	K
 Kung Fu Panda: Segredos do Pergaminho (2016)	f	K
@@ -20340,11 +20345,9 @@ Last and First Men	f	L
 Last Chance U	s	L
 Last Chance U: Basketball	s	L
 Last Christmas	f	L
-Last Exile	s	L
 Last Light	s	L
 Last Man Standing	s	L
 Last Moment Of Clarity	f	L
-Last Period: Owarinaki Rasen no Monogatari	s	L
 Last Shift (2014)	f	L
 Last Song from Kabul	f	L
 Last Tango in Halifax	s	L
@@ -20435,7 +20438,6 @@ Legalmente Loira (2001)	f	L
 Legalmente Loira 2 (2003)	f	L
 Legalmente Loiras (2009)	f	L
 LEGALMENTE OBRIGADOS A AMAR	f	L
-Legend of Exorcism	s	L
 Legend of Mana -The Teardrop Crystal-	s	L
 Legend of Nine Tails Fox	s	L
 Legend of the Phantom Rider	f	L
@@ -20534,7 +20536,6 @@ Lembranças Perdidas	f	L
 Lembre de Mim	s	L
 Lembrete - Aski Hatiria	s	L
 Leme do Destino	f	L
-Lemon Angel Project	s	L
 Lemon Tree	f	L
 Lemonade	f	L
 Lemonade Mouth: Uma Banda Diferente	f	L
@@ -20588,7 +20589,6 @@ Let Him Go	f	L
 Let It Shine	f	L
 Let It Snow	f	L
 Let Love	s	L
-Let Me Check the Walkthrough First	s	L
 Let Them All Talk	f	L
 Let's Both Try	f	L
 Let's Dance	f	L
@@ -20723,6 +20723,7 @@ Lilo & Stitch 2: Stitch Deu Defeito	f	L
 Lilo e Stitch	f	L
 Lilo e Stitch (2025)	f	L
 Lilo e Stitch A Serie	s	L
+Lilo e Stitch: A Série	s	L	2003
 Lilo, Lilo, Crocodilo (2022)	f	L
 Lilyhammer	s	L
 Lima Barreto ao Terceiro Dia	f	L
@@ -20871,6 +20872,7 @@ Locke (2014)	f	L
 Locked Down	f	L
 Locked Up	f	L
 Locker Diaries Phineas And Ferb	s	L
+Locker Diaries: Phineas And Ferb	s	L	2026
 Lockerbie Em Busca da Verdade	s	L
 Lockerbie Uma Busca pela Verdade	s	L	2025
 Lockwood & Co	s	L
@@ -21423,7 +21425,7 @@ Magic Camp	f	M
 Magic City	s	M
 Magic Farm	f	M
 Magic Kaito 1412	s	M
-Magic Knight Rayearth (2026)	s	M
+Magic Knight Rayearth (2026)	s	M	2026
 Magic Maker How to Make Magic in Another World	s	M
 Magic Mike	f	M
 Magic Mike XXL	f	M
@@ -21471,7 +21473,6 @@ Mahoutsukai no Yome	s	M
 Mahoutsukai Reimeiki	s	M
 Mai	s	M
 Mai Otome	s	M
-Mai-Hime	s	M
 Maid	s	M
 Maid to Order	f	M
 Maigret	s	M	2025
@@ -21518,6 +21519,7 @@ Mais Uma Vida (2022)	f	M
 Major	s	M
 Major Grom Contra o Dr. Peste (2021)	f	M
 Makanai: Cozinhando para A Casa Maiko	s	M
+Make Me Tingle	s	M
 Make My Day	s	M
 Make Up	f	M
 Makeine: Too Many Losing Heroines!	s	M
@@ -21935,6 +21937,7 @@ Marvel 616	s	M
 Marvel Agente Carter	s	M
 Marvel Anime Wolverine	s	M
 Marvel Anime: Homem de Ferro	s	M
+Marvel Anime: Wolverine	s	M	2011
 Marvel Disk Wars: The Avengers	s	M
 Marvel One-Shot: Todos Saúdem o Rei	f	M
 Marvel Por Trás da Máscara	f	M
@@ -21948,6 +21951,7 @@ Marvel Zombies	s	M
 Marvel Zumbis	s	M	2025
 Marvel's Cloak & Dagger	s	M
 Marvel's M.O.D.O.K	s	M
+Marvel's M.O.D.O.K.	s	M	2021
 Marvel: Homem-Aranha	s	M	2017
 Mary & George	s	M
 Mary & Mike	s	M
@@ -21996,7 +22000,6 @@ Mash SF	f	M
 Masha e o Urso	f	M
 Masha e o Urso	s	M	2009
 Masha e o Urso O Filme	f	M
-Mashiroiro Symphony: The Color Of Lovers	s	M
 Mashle: Magia e Músculos	s	M	2023
 Mask Girl	s	M	2023
 Masmorras e Batatas	s	M
@@ -22258,7 +22261,6 @@ Mecânica das Sombras	f	M
 Mecânica em Família	s	M
 Med Cezir Vidas Alheias	s	M
 Medabots	s	M	1999
-Medaka Box	s	M
 Medaka Kuroiwa is Impervious to My Charms	s	M
 Medalha de Bronze (2016)	f	M
 Medalha de Honra	s	M
@@ -22539,6 +22541,7 @@ Mestres do Universo	f	M
 Mestres do Universo (1987)	f	M
 Mestres do Universo (2026)	f	M
 Mestres do Universo A Revolucao	s	M
+Mestres do Universo: A Revolução	s	M	2024
 Mestres do Universo: Histórias de Eternia	s	M
 Mestres do Universo: Salvando Eternia	s	M
 Metal Lords	f	M
@@ -22680,6 +22683,7 @@ Meu Irmão e Eu (2023)	f	M
 Meu Irmão Persegue Dinossauros	f	M
 Meu Irmão é um Problema (2026)	f	M
 Meu Irmão, Minha Irmã	f	M
+Meu irmão, o Minotauro	s	M	2026
 Meu Japão Brasileiro	f	M
 Meu lado Esquerdo - Sol Yanım	s	M
 Meu Lar Meu Destino - Dogdugun Ev Kaderindir	s	M
@@ -22961,7 +22965,6 @@ Mike Judge's Beavis and Butt-Head	s	M
 Mike Nick Nick Alice (2026)	f	M
 Mike Tyson: Return of the Mike	f	M
 Mike: Além de Tyson	s	M
-Mikey	f	M
 Mikolo	f	M
 Mil Anos no Mesmo Dia: Minha Vitória é Imparável	f	M
 Mil Casamentos	f	M
@@ -23043,6 +23046,7 @@ Minha Amada Imortal	f	M
 Minha Amiga e um ET	f	M
 Minha Amiga Morta Zoe (2024)	f	M
 Minha Amiga Nokotan e um Cervo	s	M
+Minha Amiga Nokotan é um Cervo	s	M	2024
 Minha Amiga Palma	f	M
 Minha Amiga é um E.T	f	M
 Minha Amiga é um E.T. (2022)	f	M
@@ -23247,6 +23251,7 @@ Miraculous World: Londres, Corrida Contra o Tempo (2024)	f	M
 Miraculous World: Paris, As Aventuras de Shadybug e Claw Noir	f	M
 Miraculous World: Tóquio - Força Estelar	f	M
 Miraculous: As Aventuras De LadyBug	s	M
+Miraculous: As Aventuras de Ladybug	s	M	2015
 Mirador (2022)	f	M
 Mirage	s	M
 Mirai	f	M
@@ -23400,6 +23405,7 @@ Mistério no Necrotério	f	M
 Mistério no Parque Gorky	f	M
 Mistério no Set	f	M
 Mistério no Ártico	f	M
+Mistérios da Barbie	s	M	2024
 Mistérios da Fé	s	M
 Mistérios de Amor Um Romance Fatal	f	M
 Mistérios de Amor: Um Noivado Mortal	f	M
@@ -23412,7 +23418,6 @@ Mistérios no Gelo	s	M
 Mistérios Ocultos	f	M
 Mistérios sem Solução	s	M	2020
 Mito e Magnata: John Delorean	s	M
-Mitsudomoe	s	M
 Mix Tape	s	M
 Mixed by Erry (2023)	f	M
 mixed-ish	s	M
@@ -23503,7 +23508,6 @@ Monkey Up	f	M
 Monkey Wrench	s	M
 mono	s	M
 Monogatari	s	M
-Monogatari Series: Off & Monster Season	s	M
 Monolith (2016)	f	M
 Mononoke	s	M
 Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira (2025)	f	M
@@ -23610,7 +23614,6 @@ More Than Miyagi: The Pat Morita Story	f	M
 Morgan: A Evolução	f	M
 Morgue Story: Sangue, Baiacu e Quadrinhos	f	M
 Moria	s	M
-Morita-san Wa Mukuchi	s	M
 Morko e Mali	s	M
 Mormaço	f	M
 Morphle	s	M
@@ -23738,7 +23741,6 @@ Movimento de Jesus (2023)	f	M
 Movimento Mágico	s	M
 Moving On	f	M
 Moxie: Quando as Garotas Vão À Luta	f	M
-Moyashimon	s	M
 Moça com Brinco de Pérola	f	M
 Mr Corman	s	M
 Mr Heart	s	M
@@ -23793,6 +23795,7 @@ Mudanca de Habito (1992)	f	M
 Mudanca de Habito 1	f	M
 Mudanca de Habito 2 (1993)	f	M
 Mudancas do Coracao	s	M
+Mudando o Destino	f	M
 Mudando o Futuro (2013)	f	M
 Mudança de Hábito 2 - Mais Loucuras no Convento	f	M
 Mudança do Barulho (1988)	f	M
@@ -23804,6 +23807,7 @@ Mudo (2018)	f	M
 Mufasa: O Rei Leão (2024)	f	M
 Mugen No Ryvius	s	M
 Mugyutto Black Clover	s	M
+Mugyutto! Black Clover	s	M	2019
 Muhammad Ali: O Maior	s	M
 Muhtesem Yuzyil Seculo Magnifico	s	M
 Muhyo & Roji's Bureau of Supernatural Investigation	s	M
@@ -23999,7 +24003,7 @@ MY CALL BOY BILLIONAIRE DADDY	f	M
 My Christmas Guide	f	M
 My Daemon	s	M	2023
 My Dear Donavan	s	M
-My Dress Up Darling	s	M
+My Dress-Up Darling	s	M	2022
 My Fellow Citizens!	s	M
 My First Film	f	M
 My First Summer	f	M
@@ -24017,6 +24021,7 @@ My Hero Academia Vigilantes	s	M
 My Hero Academia: 2 Heróis	f	M
 My Hero Academia: Missão Mundial de Heróis (2021)	f	M
 My Hero Academia: O Filme - 2 Heróis (2018)	f	M
+My Hero Academia: Vigilantes	s	M	2025
 My Heroic Husband	s	M
 MY HOCKEY ALPHA	f	M
 My Home Hero	s	M
@@ -24030,6 +24035,7 @@ My Little Pony Equestria Girls Rainbow Rocks (2014)	f	M
 My Little Pony, Equestria Girls: Festival de Música das Estrelas (2019)	f	M
 My Little Pony,Equestria Girls: Aventuras de Fim de Ano	f	M
 My Little Pony,Equestria Girls: Pânico nas Férias	f	M
+My Little Pony:  A Amizade é Mágica	s	M	2010
 My Little Pony: A Amizade é Mágica	s	M
 My Little Pony: Equestria Girls - Magical Movie Night	f	M
 My Little Pony: Nova Geração	f	M
@@ -24077,7 +24083,6 @@ My Way - Prisioneiros de Guerra	f	M
 My Wife Has No Emotion	s	M
 Mya Go	s	M
 Myriad Colors Phantom World	s	M
-Myself; Yourself	s	M
 MYSTERIA Friends	s	M
 Mysterious Disappearances	s	M
 Mystery Island: Winner Takes All	f	M
@@ -24394,7 +24399,6 @@ Narcos	s	N	2015
 Narcos: Mexico	s	N	2018
 Narcosatanica	s	N
 Narcoworld: Histórias do Tráfico	s	N
-Narenare -Cheer for you!	s	N
 Narrativas Negras Não Contadas	s	N
 Narue No Sekai	s	N
 Naruto	s	N	2002
@@ -24626,7 +24630,7 @@ NENHUMA RESPOSTA E VOCE	f	N
 Neo Yokio	s	N
 Neojiba - Música Que Transforma	f	N
 Neon	s	N	2023
-Neon Genesis Evangelion	s	N
+Neon Genesis Evangelion	s	N	1995
 Neon Genesis Evangelion: Morte e Renascimento	f	N
 Neon Genesis Evangelion: O Fim do Evangelho (1997)	f	N
 Neon Genesis Evangelion: Platinum Edition (Renewal of Evangelion	s	N
@@ -24693,7 +24697,6 @@ Night Sky	s	N
 Night Stalker: Tortura e Terror	s	N
 Night Tales	s	N
 Night Train	f	N
-Night Warriors: Darkstalkers Revenge	s	N
 Nightborn	f	N
 Nightflyers	s	N
 Nightmare Neighborhood Moms	f	N
@@ -24770,11 +24773,13 @@ Ninja: O Guerreiro Imortal (2014)	f	N
 Ninjababy	f	N
 Ninjago Ascensao dos Dragoes	s	N
 Ninjago Legends: Monstrosity	s	N
+Ninjago: Ascensão dos Dragões	s	N	2023
 Ninjago: Mestres do Spinjitzu	s	N
 Ninjago: Mestres do Spinjitzu - Dia da Despedida (2016)	f	N
 NIOBE	f	N
 Nip Tuck	s	N
 NIPPON SANGOKU A Guerra das Tres Nacoes	s	N
+NIPPON SANGOKU: A Guerra das Três Nações	s	N	2026
 Nirvana	f	N
 Nise: O Coracao da Loucura (2016)	f	N
 Nitram	f	N
@@ -25083,6 +25088,7 @@ Nosso Planeta	s	N	2019
 Nosso Professor é um Herói	f	N
 NOSSO RECOMECO	f	N
 Nosso Segredinho	f	N
+Nosso Segredo	f	N
 Nosso Segredo	s	N
 Nosso segredo - İkimizin Sırrı	s	N
 Nosso Sonho	f	N
@@ -25105,7 +25111,6 @@ Nostalgia (2018)	f	N
 Nostalgia Ciência Onde Estão Todos os Alienígenas	f	N
 Nostradamus: Fim dos Dias	s	N
 Not Alone (2021)	f	N
-Not Cool (INGLÊS)	f	N
 Not Even Friends	f	N
 Not Friends	f	N
 Not Others	s	N
@@ -25314,6 +25319,7 @@ Não Solte! (2024)	f	N
 Não Somos Anjos	f	N
 Não Sou Culpada	f	N
 Não Sou um Robô	s	N
+Não Tem Dinheiro que Pague	s	N	2026
 Não Tem Ninguém em Casa (2024)	f	N
 Não Tenha Medo do Escuro	f	N
 Não Tenho Medo	s	N
@@ -25872,7 +25878,6 @@ O Canto da Sereia (1983)	f	O
 O Canto das Sereias	f	O
 O canto do cisne	f	O
 O Canto do Pássaro	s	O
-O Canto do Pássaro / A Escolhida	s	O
 O Canto Livre de Nara Leão	s	O
 O Cantor	f	O
 O Cao e a Raposa (1981)	f	O
@@ -26812,7 +26817,6 @@ O Garoto Problema que me Arruinou	f	O
 O Garoto Que Podia Voar	f	O
 O Garoto Sombrio	f	O
 O Gato	f	O
-O Gato de Botas: Os Três Diabos	f	O
 O Gato de Madame	f	O
 O Gato Félix	s	O
 O Gato Prendado está Deprimido Hoje de Novo	s	O
@@ -27115,9 +27119,11 @@ O Incidente de Darwin	s	O
 O Incrivel Circo Digital	s	O	2023
 O Incrivel Hulk (2008)	f	O
 O Incrivel Mundo de Gumball	s	O
+O Incrível Circo Digital / The Amazing Digital Circus	s	O	2023
 O Incrível Homem que Derreteu	f	O
 O Incrível Hulk	s	O
 O Incrível Monstro Trapalhão	f	O
+O Incrível Mundo de Gumball	s	O	2011
 O Incrível Mágico Burt Wonderstone	f	O
 O Incrível Senhor Blunden	f	O
 O Incrível Sr. Blunden (2021)	f	O
@@ -27548,7 +27554,6 @@ O Mestre dos Jogos 3	f	O
 O Mestre Guerreiro	f	O
 O Mestre Invencível (1978)	f	O
 O Mestre Oculto	s	O
-O Metrô da Morte	f	O
 O Meu Nome é Bill	f	O
 O Meu Pai é um Caçador de Recompensas!	s	O
 O Meu Pequeno Eu	f	O
@@ -27671,6 +27676,7 @@ O Morto - Ele Veio Buscar Sua Alma	f	O
 O Motorista	f	O
 O Motorista de Aplicativo (2020)	f	O
 O Motorista de Táxi	f	O
+O Mundo [Sem Filtro] de Any Malu	s	O	2026
 O Mundo a Seus Pés	f	O
 O Mundo Ainda e Belo	s	O
 O Mundo Assombrado de El Superbeasto	f	O
@@ -27697,6 +27703,7 @@ O Mundo Ira Tremer (2025)	f	O
 O Mundo Maravilhosamente Estranho de Gumball	s	O
 O Mundo Maravilhoso	s	O
 O Mundo Maravilhoso De Mickey Mouse	s	O
+O Mundo Maravilhoso de Mickey Mouse	s	O	2020
 O Mundo Mágico da Bela	f	O
 O Mundo Mágico de Andrew Bennett	f	O
 O Mundo Mágico de Rufus (2021)	f	O
@@ -28015,7 +28022,6 @@ O Pistoleiro Esquecido	f	O
 o Pistoleir‪o‬	f	O
 O Planeta dos Macacos (1968)	f	O
 O Plano	f	O
-O Plano de Maggie (2016)	f	O
 O Plano de Milhões	f	O
 O Plano de Ressurreicao	s	O	2025
 O Plano de Sexta à Noite	f	O
@@ -29470,7 +29476,6 @@ One Piece: Strong World	f	O
 One Piece: The Giant Mechanical Soldier of Karakuri Castle	f	O
 One Piece: Z (2012)	f	O
 One Punch Man	s	O	2015
-One Room	s	O
 One Room Angel	s	O
 ONE SHOT com Ed Sheeran	f	O
 One Strange Rock	s	O
@@ -29948,7 +29953,7 @@ Os Filhos de Sam: Loucura e Conspiração	s	O
 Os Filhotes da Mamãe Noel	f	O
 Os Fios do Passado - Los Hilos del Pasado	s	O
 Os Flintstones	f	O
-Os Flintstones	s	O	None
+Os Flintstones	s	O
 Os Flintstones e as Estrelas do WWE (2015)	f	O
 Os Flintstones em Viva Rock Vegas (2000)	f	O
 Os Flintstones O Filme	f	O
@@ -30052,7 +30057,7 @@ Os Jovens Titans	f	O
 Os Jovens Titas em Acao Vs Os Jovens Titas (2019)	f	O
 Os Jovens Titãs	s	O
 Os Jovens Titãs Assistem A Space Jam	f	O
-Os Jovens Titãs em Ação!	s	O
+Os Jovens Titãs em Ação!	s	O	2013
 Os Jovens Titãs em Ação! e DC Super Hero Girls Caos no Multiverso (2022)	f	O
 Os Jovens Titãs em Ação! Nos Cinemas	f	O
 Os Jovens Titãs: Missão Tóquio	f	O
@@ -30125,6 +30130,7 @@ Os Novos Vingadores	f	O
 Os Novos Vingadores - Os Heróis do Amanhã	f	O
 Os Novos Vingadores: Heróis do Amanhã	f	O
 Os Novos Vizinhos	f	O
+Os Oblongs	s	O	2001
 Os Observadores (2024)	f	O
 Os Octonautas e As Cavernas de Sac Actun (2020)	f	O
 Os Odiados do Casamento	f	O
@@ -30275,7 +30281,7 @@ Os Sete Cavaleiros do Reino Marronnier	s	O
 Os Sete Corvos	f	O
 Os Sete Gatinhos	f	O
 Os Sete Monstrinhos	s	O
-Os Sete Pecados Capitais	s	O
+Os Sete Pecados Capitais	s	O	2014
 Os Sete Pecados Capitais - Amaldiçoado pela Luz	f	O
 Os Sete Pecados Capitais - Nanatsu no Taizai	s	O
 Os Sete Pecados Capitais Fúria de Edimburgo – Parte 2	f	O
@@ -30363,6 +30369,7 @@ Os Vampiros que se Mordam (2010)	f	O
 Os Vendedores da Alegria	f	O
 Os Vingadores A Serie	s	O
 Os Vingadores Unidos	s	O
+Os Vingadores: A Série	s	O	1999
 Os Vingadores: Era de Ultron (2015)	f	O
 Os Vingadores: Os Super-Heróis Mais Poderosos da Terra	s	O
 Os Vingadores: The Avengers (2012)	f	O
@@ -30704,8 +30711,6 @@ Panico na Floresta 5 (2012)	f	P
 Panico na Floresta: A Fundacao (2021)	f	P
 Panico nas Alturas (2019)	f	P
 Panico Uma Verdadeira Historia de Terror Adolescente	s	P
-Panorama de l'arrivée à Belfast	f	P
-Panorama pendant l'ascension de la Tour Eiffel	f	P
 Pantanal	s	P
 Pantera Negra (2018)	f	P
 Pantera Negra: O Reino Selvagem	f	P
@@ -31416,6 +31421,7 @@ Phi Brain: Kami no Puzzle	s	P
 Phil do Futuro	s	P
 Philip K Dicks Electric Dreams	s	P
 Phineas E Ferb	s	P
+Phineas e Ferb	s	P	2007
 Phineas e Ferb: Missão Marvel	f	P
 Phineas e Ferb: O Filme: Através da 2ª Dimensão (2011)	f	P
 Phineas e Ferb: O Filme: Candace Contra o Universo	f	P
@@ -31643,6 +31649,7 @@ Plumas e Paetes	s	P
 Pluribus	s	P	2025
 Plus sized Misadventures in Love	s	P
 Plus-Sized Elf	s	P
+PLUTO	s	P	2023
 Pluto	s	P
 Plutão	f	P
 Pobre Diabo	s	P
@@ -31719,7 +31726,6 @@ Pokémon: O Pesadelo de Darkrai (2007)	f	P
 Pokémon: O Retorno de Mewtwo	f	P
 Pokémon: Zoroark - Mestre das Ilusões (2010)	f	P
 Polar (2019)	f	P
-Polar Bear Cafe	s	P
 Polaris	f	P
 Polaris 29	f	P
 Polaris Conspiracao Politica	s	P
@@ -31793,7 +31799,6 @@ Pop Star Academy: KATSEYE	s	P
 Popeye	f	P
 Popeye e Filho	s	P
 Popeye,o Marinheiro	f	P
-Popolocrois Monogatari	s	P
 Poppa's House	s	P
 Popstar: Nunca Desista de Nunca Desistir (2016)	f	P
 Popular e Perigosa	f	P
@@ -32061,7 +32066,6 @@ Presente Maldito (2025)	f	P
 Presença (2025)	f	P
 Presença de Anita	s	P
 Presenças Ocultas	f	P
-Presidente	s	P
 Presidente Curtis	s	P	2026
 Presidente e seus seis Pequenos Desastres	f	P
 Presidente por Acidente	s	P
@@ -32158,7 +32162,6 @@ Princesa por Acidente (2021)	f	P
 Princesas da Prisao	s	P
 Princesinha Sofia	s	P
 Princesinha Sofia: Era Uma Vez	f	P
-Princess Charming	s	P
 Princess Lover!	s	P
 Princess Principal	s	P
 Principe da Persia As Areias do Tempo (2010)	f	P
@@ -32466,6 +32469,7 @@ Pura Adrenalina	f	P
 Pura Liberdade	f	P
 Pura Paixao (2021)	f	P
 Puraore Pride of Orange	s	P
+Puraore! Pride of Orange	s	P	2021
 Pure	s	P
 Pure Country 2: O Dom da Música	f	P
 Pure: Operação Secreta	s	P
@@ -32752,6 +32756,7 @@ Que Historia E Essa Porchat	s	Q
 Que Horas Ela Volta (2015)	f	Q
 Que Horas Eu Te Pego (2023)	f	Q
 Que Legal Scooby Doo	s	Q
+Que Legal, Scooby-Doo!	s	Q	2015
 Que Léon (2018)	f	Q
 Que Mal Eu Fiz a Deus?	f	Q
 Que Mal Eu Fiz a Deus? 2	f	Q
@@ -33026,7 +33031,6 @@ Ragnarok The Animation	s	R
 Rags: O Poder da Música (2012)	f	R
 Rah-E-Junoon	s	R
 Raia 4	f	R
-Rail Romanesque	s	R
 Rain Dogs	s	R	2023
 Rain Man	f	R
 Rainbow (2022)	f	R
@@ -33111,7 +33115,7 @@ Random Acts of Flyness	s	R
 Rango (2011)	f	R
 Ranking of Kings: Baú do Tesouro da Coragem	s	R
 Ranma ½	s	R	1989
-Ranma1 2	s	R
+Ranma1/2	s	R	2024
 Ransom	s	R	2017
 Ransom Canyon	s	R	2025
 RapCaviar: Os Famosos do Rap	s	R
@@ -33128,7 +33132,6 @@ Raquel 11	f	R
 Raquel 1:1	f	R
 Rascal Does Not Dream of a Knapsack Kid	f	R
 Rascal Does Not Dream of a Sister Venturing Out	f	R
-Rascal Does Not Dream of Bunny Girl Senpai	s	R
 Rasga Coração (2018)	f	R
 Rastos de Sangue	f	R
 Rastreado	f	R
@@ -33154,6 +33157,7 @@ Rattan	s	R
 Rattle & Roll Evil Origins	f	R
 Raul - O Início, o Fim e o Meio	f	R
 Raul Seixas Eu Sou	s	R	2025
+Ravalear	s	R
 Rave Master	s	R
 Raven: O Nome da Vingança	f	R
 Ravens	f	R
@@ -33190,13 +33194,13 @@ RDG: Red Data Girl	s	R
 Re Member The Last Night	f	R
 Re Membro A Ultima Noite	f	R
 Re Monster	s	R
-Re ZERO Starting Life in Another World	s	R
 Re-Animator: A Hora dos Mortos-Vivos	f	R
 Re-Animator: Fase Terminal (2003)	f	R
 Re/Member (2022)	f	R
 Re:Born	f	R
 Re:CREATORS	s	R
 Re:Mind	s	R
+Re:ZERO -Starting Life in Another World-	s	R	2016
 Reabilitacao Canina	s	R
 Reacao - Reaksiyon	s	R
 Reacher	s	R	2022
@@ -33246,6 +33250,7 @@ Rebelles	f	R
 Rebellious	f	R
 Rebento	f	R
 Rebirth	f	R
+ReBoot	s	R	1994
 Reboot	s	R
 Reboot Camp	f	R
 Reboot Seleção	f	R
@@ -33286,7 +33291,7 @@ RECONQUISTANDO MINHA EX BILIONARIA ESPOSA	f	R
 Recontagem	f	R
 Record of Grancrest War	s	R
 Record Of Ragnarok	s	R
-Recorder To Randoseru	s	R
+Record of Ragnarok	s	R	2021
 Recovery of an MMO Junkie	s	R
 Recreo (2018)	f	R
 Recruta	s	R	2022
@@ -33353,7 +33358,6 @@ REENCARNADA E MIMADA PELO TIO DO MEU EX	f	R
 Reencarnada e Mimada pelo Tio do Meu Ex	s	R
 Reencarnado numa Máquina de Vendas, Agora Exploro a Masmorra	s	R
 Reencarnado pelo Amor	s	R
-Reencarnação (2004)	f	R
 Reencarnação: Falha no Sistema	f	R
 Reencarne	s	R
 Reencontrando o Amor (2016)	f	R
@@ -33798,11 +33802,10 @@ Rick and Morty The Anime	s	R
 Rick and Morty The Great Yokai Battle of Akihabara	f	R
 Rick and Morty vs. Genocider	f	R
 Rick e Morty	s	R	2013
-Rick e Morty/Rick and Morty	s	R
+Rick e Morty/Rick and Morty	s	R	2013
 Rick e Morty: The Anime	s	R	2024
 Ricki and the Flash De Volta pra Casa (2015)	f	R
 Ricky Bobby: A Toda Velocidade (2006)	f	R
-Ricky Gervais: Mortalidade	f	R
 Ricky Stanicky (2024)	f	R
 Ricochete	f	R
 Ricos	s	R
@@ -33865,6 +33868,7 @@ Riquinho de Papai	f	R
 Rir ou Morrer	f	R
 Rir Para Não Chorar	f	R
 Ririsa Uma Garota em 2.5D	s	R
+Ririsa, Uma Garota em 2.5D	s	R	2024
 Risa e o Telefone do Vento	f	R
 Riscado	f	R
 Risco Absoluto	f	R
@@ -33952,6 +33956,7 @@ RoboCop 3 (1993)	f	R
 RoboCop: A Origem (2014)	f	R
 RoboCop: Primeiras Diretivas	f	R
 RoboCop: The Animated Series	s	R
+RoboGobo	s	R	2025
 Robogobo	s	R
 Robos (2005)	f	R
 Robosapien - Meu Melhor Amigo (2013)	f	R
@@ -34014,7 +34019,6 @@ Rogue Warfare 2: A Caçada (2019)	f	R
 Rogue Warfare 3: A Morte de uma Nação (2020)	f	R
 Rojo	f	R
 Rojst	s	R	2018
-Rokuhoudou Yotsuiro Biyori	s	R
 Roland Doe: A Verdadeira História de O Exorcista	f	R
 ROLL OVER AND DIE I Will Fight for an Ordinary Life with My Love and Cursed Sword	s	R
 Roller Coaster	s	R
@@ -34046,7 +34050,6 @@ Romanzo criminale - La serie	s	R
 Romario O Cara	s	R	2024
 Romasanta, a Casa da Besta	f	R
 Romelia War Chronicle	s	R
-Romeo no Aoi Sora	s	R
 Romeo x Julieta	s	R
 Romeu + Julieta	f	R
 Romeu e Julieta	f	R
@@ -34345,7 +34348,6 @@ SAGA - A Maldição das Sombras	f	S
 Saga of Tanya the Evil	s	S
 Saga of Tanya the Evil: O Filme	f	S
 Sagrada FamIlia	s	S
-Sagrada Reset	s	S
 Sahara	f	S
 Sai	s	S
 Sai da Frente	f	S
@@ -34364,6 +34366,7 @@ Saideira (2024)	f	S
 Saihate no Paladin	s	S
 Saiki Kusuo no Psi nan	s	S
 Saiki Kusuo no Psi nan Reativado	s	S
+Saiki Kusuo no Psi-nan: Reativado	s	S	2019
 Saikyou Onmyouji no Isekai Tenseiki	s	S
 Saikyoushu no Nekomimi Shoujo to Deau	s	S
 Sailor Moon	s	S
@@ -34377,8 +34380,6 @@ Saint Seiya: Os Cavaleiros Do Zodíaco	s	S
 Saint X	s	S
 Saint-Pierre	s	S
 Saints & Strangers	s	S
-Saiyuki	s	S
-Saiyuki Reload: Burial	s	S
 SAKAMOTO DAYS	f	S
 SAKAMOTO DAYS	s	S	2025
 Sakho & Mangane	s	S
@@ -34531,7 +34532,6 @@ Santa Cecilia e Padre Lawrence	s	S
 Santa Clarita Diet	s	S
 Santa Evita	s	S
 Santa Maud (2020)	f	S
-Santa Sangre	f	S
 Santana	f	S
 Santet: O Feitiço do Mal (2018)	f	S
 Santiago dos Mares	s	S
@@ -34600,7 +34600,6 @@ Say \"I love you.\"	s	S
 Sayen (2023)	f	S
 Sayen: A Caçadora	f	S
 Sayen: A Rota Seca	f	S
-Sayonara Zetsubou Sensei	s	S
 Sayonara, Girls	f	S
 Saída à Francesa	f	S
 Saúdem Todos o Rei Julien	s	S
@@ -34629,7 +34628,6 @@ Schumacher '94 - Die Geburt einer Legende	f	S
 Schumacher 94: Nasce Uma Lenda	f	S
 Science Fell in Love, So I Tried to Prove it	s	S
 Scoob	f	S
-Scooby Doo Cade Voce	s	S	1969
 Scooby! O Filme	f	S
 Scooby-Doo	f	S
 Scooby-Doo - A Ameaça do Meca-Chorro	f	S
@@ -34682,6 +34680,7 @@ Scooby-Doo! Música de Vampiro (2012)	f	S
 Scooby-Doo! Natal Assombrado	f	S
 Scooby-Doo! Piratas a Bordo (2006)	f	S
 Scooby-Doo, Cadê Você Agora!	f	S
+Scooby-Doo, Cadê Você?	s	S	1969
 Scooby-Doo: O Filme	f	S
 ScoobyDoo e Kiss O Misterio do Rock and Roll (2015)	f	S
 ScoobyDoo E o Monstro do Mexico (2003)	f	S
@@ -34947,7 +34946,6 @@ Seita da Escuridão	f	S
 Seita Mortal	f	S
 Seita Perigosa	s	S
 Seita Virtual (2024)	f	S
-Seitokai no Ichizon	s	S
 Seja Meu Anjo	s	S
 Seja Meu Superastro	s	S
 Seja Meus Olhos	f	S
@@ -35421,6 +35419,7 @@ Shaolin Contra os 12 Homens de Aço	f	S
 Shapeless	f	S
 Shardlake	s	S
 Sharivan, O Guardião do Espaço	s	S
+Shark Academy - Canções para crianças	s	S	2020
 Shark Academy Cancoes Para Criancas	s	S
 Shark Below Zero (2023)	f	S
 Shark Evil	f	S
@@ -35468,6 +35467,7 @@ Sherlock Holmes O Jogo de Sombras (2011)	f	S
 Sherlock: A Abominável Noiva	f	S
 Sherwood	s	S
 SHIBOYUGI Jogos Mortais para Colocar Comida na Mesa	s	S
+SHIBOYUGI: Jogos Mortais para Colocar Comida na Mesa	s	S	2026
 Shiboyugi: Playing Death Games to Put Food on the Table 44: Cloudy Beach	f	S
 Shifter	f	S
 Shigurui	s	S
@@ -35490,7 +35490,6 @@ Shining Tears X Wind	s	S
 Shining Vale	s	S
 Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei	s	S
 Shinkon Gattai Godannar	s	S
-Shinkyoku Soukai Polyphonica	s	S
 Shinmai Renkinjutsushi no Tenpo Keiei	s	S
 Shinobi - A Batalha	f	S
 Shinobi no Ittoki	s	S
@@ -35550,7 +35549,6 @@ Shting Stars	s	S
 Shuffle of Love: A Descendants Short Story	f	S
 Shuffle!	s	S
 Shurato	s	S	1989
-Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?	s	S
 SHY	s	S
 Shéhérazade Legendado	f	S
 Si tu vas à Rio... tu meurs	f	S
@@ -35827,6 +35825,7 @@ Snoopy apresenta: para mamãe com amor (2022)	f	S
 Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)	f	S
 Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown	f	S
 Snoopy E Sua Turma	s	S
+Snoopy e Sua Turma	s	S	2021
 Snoopy no Espaço: À Procura de Vida	s	S
 Snoopy Vai Acampar	s	S
 Snoopy's Reunion	f	S
@@ -35875,6 +35874,7 @@ Sob Fogo	f	S
 Sob Medida	s	S
 Sob Nova Direcao	s	S
 Sob o Cair da Neve	s	S
+Sob o Céu de Natal	f	S
 Sob o Código da Honra (2025)	f	S
 Sob o Dominio do Mal (2022)	f	S
 Sob o Domínio do Mal	f	S
@@ -35965,6 +35965,7 @@ Sobrou Pra Você (2000)	f	S
 Sociedade da Justica: 2ª Guerra Mundial (2021)	f	S
 Sociedade da Virtude	s	S
 Sociedade da Virtude A Serie	s	S
+Sociedade da Virtude: A Série	s	S	2026
 Sociedade das Mulheres Traídas	f	S
 Sociedade das Sombras	f	S
 Sociedade do Cansaço	s	S
@@ -36002,7 +36003,6 @@ Sol Lunar (2023)	f	S
 Sol Nascente	s	S
 Sol Vermelho	f	S
 Sol Yanım - Meu Lado Esquerdo	s	S
-Sola	s	S
 Solar Opposites	s	S
 Soldado Anonimo 2 Campo Em Chamas (2014)	f	S
 Soldado Anonimo 3 O Cerco (2016)	f	S
@@ -36254,7 +36254,6 @@ Sozinho no Fim do Mundo	f	S
 Sozinhos em Paris	f	S
 Sozinhos Habilidades de Sobrevivencia	s	S
 SP: Crônicas de uma Cidade Real	f	S
-Space Battleship Yamato 2199	s	S
 Space Battleship yamato 2199- A Voyage to Remember	f	S
 Space Chimps - Micos no Espaço	f	S
 Space Dandy	s	S
@@ -36316,10 +36315,10 @@ Spinning Out	s	S
 Spiral	f	S
 Spiral From The Book Of Saw	f	S
 Spiral Suiri No Kizuna	s	S
+Spirit - Cavalgando Livre	s	S	2017
 Spirit - Cavalgando Livre: Academia de Equitação	s	S
 Spirit - Cavalgando Livre: Pequenas Grandes Aventuras	s	S
 Spirit Cavalgando Livre	s	S
-Spirit Realm - Ling Yu	s	S
 Spirit Untamed	f	S
 Spirit: O Corcel Indomável	f	S
 Spirit: O Indomável (2021)	f	S
@@ -36541,7 +36540,6 @@ Stolen in Her Sleep	f	S
 Stonados	f	S
 Stone Cold Fox (2025)	f	S
 Stone Heart	f	S
-Stop!! Hibari-kun!	s	S
 Stop-Loss: A Lei da Guerra	f	S
 Stopmotion	f	S
 Stories Da Mansao	s	S
@@ -36585,7 +36583,6 @@ StreetDance - Duas Vezes Mais Quente	f	S
 Strike	s	S
 Strike Back	s	S
 Strike the Blood	s	S
-Strike Witches	s	S
 Striking Out	s	S
 Strip Law	s	S
 STRIPPER NANNY	f	S
@@ -36603,6 +36600,7 @@ Studio 54	f	S
 Studio Apartment, Good Lighting, Angel Included	s	S
 Study Group	s	S
 StuGo Acampamento de Verao	s	S
+StuGo: Acampamento de Verão	s	S	2025
 Stumptown: Investigadora Sem Limite	s	S
 Stupid Young Heart Legendado	f	S
 Style Wars	s	S
@@ -36696,7 +36694,6 @@ Sugar Sugar Rune	s	S
 Sugarcane	f	S
 Sugarplum: A Especialista em Natal	f	S
 Suite Francesa (2015)	f	S
-Suite Precure♪	s	S
 SUITS	s	S
 Suits - Homens de Terno	s	S	2011
 Suits LA	s	S	2025
@@ -36903,7 +36900,6 @@ Suzanna Andler - Sob O Sol Da Riviera	f	S
 Suzhal Vortice	s	S
 Suzuka	s	S
 Suzume (2022)	f	S
-Suzumiya Haruhi-chan no Yuuutsu	s	S
 Suzzanna: Enterrada Viva	f	S
 Suçuarana	f	S
 Suíte Magnólia	s	S
@@ -37022,7 +37018,6 @@ Tales by Light	s	T
 Tales From The Hood 3	f	T
 Tales of the Walking Dead	s	T	2022
 Tales of Wedding Rings	s	T
-Tales of Zestiria the X	s	T
 Talk Queens	s	T
 Talk-Show: Reinventando a Comédia	f	T
 Talking Tom and Friends	s	T
@@ -37034,7 +37029,6 @@ Talvisota	f	T
 Tamako Market	s	T
 Tamanho Real (2024)	f	T
 Tamara (2005)	f	T
-Tamayura: Hitotose	s	T
 Também Somos Irmãos	f	T
 TAMED	s	T
 Taming Mr Black	f	T
@@ -37051,7 +37045,6 @@ Tanhaji The Unsung Warrior	f	T
 TANK CHAIR	s	T
 Tank Girl - Detonando o Futuro	f	T
 Tanner Hall	f	T
-Tantei Opera Milky Holmes	s	T
 Tanto Amor	s	T
 TAO PERTO TAO LONGE	f	T
 Tapas & Beijos	s	T
@@ -37090,6 +37083,7 @@ Tatame	f	T
 Taticas do Amor (2022)	f	T
 Taticas do Amor 2 (2023)	f	T
 Tatsuki Fujimoto 17 26	s	T
+Tatsuki Fujimoto 17-26	s	T	2025
 Tatsuki Um Professor Bonzinho Demais	s	T
 Tattoo Fail	s	T
 Tatuagem (2013)	f	T
@@ -37157,7 +37151,6 @@ Ted Lasso	s	T	2020
 Ted o Trem	s	T
 Tee Yai: Nascido para o Mal	f	T
 Teefa in Trouble Legendado	f	T
-Teekyuu	s	T
 Teen Beach 2	f	T
 Teen Beach Movie	f	T
 Teen Beach: O Filme (2013)	f	T
@@ -37258,8 +37251,8 @@ Tenacious D: Uma Dupla Infernal (2006)	f	T
 Tenchi Muyo!	s	T	1995
 Tenchi Muyo! Ryo-Ohki	s	T	1992
 Tenchi Muyo! War on Geminar	s	T
-Tenchi Souzou Design-bu	s	T
 Tenet (2020)	f	T
+TENGOKU-DAIMAKYO: ILUSÃO CELESTIAL	s	T	2023
 Tengoku-Daimakyo: Ilusão Celestial	s	T
 Tenha Fé	f	T
 Tenha Medo	f	T
@@ -37355,7 +37348,6 @@ Terra e Paixão	s	T
 Terra Em Chamas	f	T
 Terra Estrangeira	f	T
 Terra Estranha	f	T
-Terra Formars: Earth-hen	s	T
 Terra Formars: Missão em Marte (2016)	f	T
 Terra Incógnita	s	T	2022
 Terra Indomavel	s	T	2025
@@ -37481,7 +37473,6 @@ Texas Metal	s	T
 Texas Metal's Loud and Lifted	s	T
 Texas Rangers: Acima da Lei	f	T
 Texas Red	f	T
-Texhnolyze	s	T
 Thame e Po Bate Coracao	s	T
 Thanatomorphose	f	T
 Thank You Goodnight A Historia de Bon Jovi	s	T
@@ -37491,7 +37482,7 @@ That '90s Show	s	T
 That Damn Michael Che	s	T
 That Dirty Black Bag	s	T
 That Time I Get Reincarnated as a Slime O Filme	f	T
-That Time I Got Reincarnated as a Slime	s	T
+That Time I Got Reincarnated as a Slime	s	T	2018
 That Time I Got Reincarnated as a Slime - Laços Escarlates	f	T
 That Time I Got Reincarnated as a Slime o Filme: Lágrimas do mar azul-celeste (2026)	f	T
 That's Amor	f	T
@@ -37619,7 +37610,6 @@ The Broken Hearts Gallery	f	T
 The Burden of Nine Lives (2024)	f	T
 The Burnt Orange Heresy	f	T
 The Butcher	f	T
-The Café Terraceand Its Goddesses	s	T
 The Cage	s	T
 The Caine Mutiny Court-Martial	f	T
 The Call Of The Wild	f	T
@@ -37735,7 +37725,6 @@ The Demon Prince of Momochi House	s	T
 The Deuce	s	T
 The Devil Has A Name	f	T
 The Devil Punisher	s	T
-The Devil Ring	s	T
 The Devil's Climb	f	T
 The Devil's Tail	f	T
 The Devils Bath	f	T
@@ -37861,7 +37850,6 @@ The Get Down	s	T
 The Get Out	f	T
 THE GHOST IN THE SHELL	s	T
 The Ghostmaker	f	T
-The Ghoul	f	T
 The Gifted	s	T
 The Gifted: Os Mutantes	s	T	2017
 The Girl from Plainville	s	T
@@ -37936,6 +37924,7 @@ The Honeymoon Phase	f	T
 The Honourable Woman	s	T
 The Hot Zone	s	T
 The Hot Zone: A História Do Ebola	s	T
+The Hotline	f	T
 The Hour	s	T
 The House	s	T
 The House (2022)	f	T
@@ -38110,7 +38099,6 @@ The Morose Mononokean	s	T
 The Mortuary Assistant (2026)	f	T
 The Mortuary Collection	f	T
 The Mosquito Coast	s	T
-The Most Heretical Last Boss Queen: From Villainess to Savior	s	T
 The Mountain Within Me	f	T
 The Mummy	f	T
 The Munsters	f	T
@@ -38179,7 +38167,6 @@ The Outwaters (2023)	f	T
 The Overnight	f	T
 The Owners	f	T
 The Pact	s	T
-The Painter	f	T
 The Pale Door	f	T
 The Paper	s	T	2025
 The Paper Tigers (2020)	f	T
@@ -38291,7 +38278,6 @@ The Secrets We Keep	f	T
 The Seed	f	T
 The Seeding (2024)	f	T
 The Serial Killer's Wife	s	T
-The Serpent's Skin	f	T
 The Servant Prince	s	T
 The Seven Deadly Sins Os Quatro Cavaleiros do Apocalipse	s	T	2023
 The Seven Deadly Sins: Fúria de Edimburgo – Parte 1	f	T
@@ -38529,7 +38515,7 @@ Thunder 3	s	T
 Thunderbirds: A Elite da Força Aérea dos EUA	f	T
 Thunderbolt: Ação Sobre Rodas	f	T
 Thunderbolts* (2025)	f	T
-ThunderCats	s	T	2011
+ThunderCats	s	T
 ThunderCats Roar	s	T
 THX 1138	f	T
 Thất Sơn Tâm Linh	f	T
@@ -38541,7 +38527,9 @@ tick... BOOM!	f	T
 Tico e Teco Vida no Parque	s	T
 Tico e Teco Vol. 2: Confusões Na Árvore	f	T
 Tico E Teco: Defensores Da Lei	s	T
+Tico e Teco: Defensores da Lei	s	T	1989
 Tico e Teco: Defensores da Lei (2022)	f	T
+Tico e Teco: Vida no Parque	s	T	2021
 Tide & Oar	f	T
 Tidelands	s	T
 Tieta	s	T
@@ -38574,7 +38562,6 @@ Time of Death	f	T
 Time Patrol Bon	s	T
 Time Rescue	s	T
 Time The Series	s	T
-Time to love : la roue de l'amour	s	T
 Time Zenko, Vai!	s	T
 Time!	f	T
 Timecop O Guardiao do Tempo (1994)	f	T
@@ -38582,6 +38569,7 @@ Timeless	f	T
 Timeless Guardioes da Historia	s	T	2016
 Timer - Contagem Regressiva Para o Amor	f	T
 Timmy Fiasco (2020)	f	T
+Timão e Pumba	s	T	1995
 Tin & Tina	f	T
 Tin e Tina (2023)	f	T
 Tin Star	s	T
@@ -38833,7 +38821,6 @@ Tonagura	s	T
 Tonari no Kyuuketsuki-san	s	T
 Tonari no Yokai-san	s	T
 Tone-Deaf Legendado	f	T
-Tong Ling Fei (Live Action)	s	T
 Toni Erdmann (2016)	f	T
 Toni Kroos	f	T
 TONIKAWA: Over The Moon For You	s	T
@@ -39300,11 +39287,9 @@ Três Vidas e Um Destino	f	T
 Três é Demais	f	T
 Três é Demais	s	T
 Tróia	f	T
-Tsubasa Chronicle	s	T
 Tsugu Tsugumomo	s	T
 Tsukigakirei	s	T
 TSUKIMICHI Moonlit Fantasy	s	T	2021
-Tsukiuta: The Animation	s	T
 Tsukumogami Kashimasu	s	T
 TsumaSho	s	T
 Tsunami A Furia da Natureza	s	T
@@ -39551,8 +39536,6 @@ U2: Rattle and Hum	f	U
 U311: Guerra em Alto Mar (2020)	f	U
 Uchi no Maid ga Uzasugiru!	s	U
 Uchi no Shishou wa Shippo ga Nai	s	U
-Uchouten Kazoku	s	U
-Uchuu Senkan Tiramisu	s	U
 Udon no Kuni no Kiniro Kemari	s	U
 Ueno san wa Bukiyou	s	U
 UFC 246: McGregor vs. Cowboy	f	U
@@ -39597,7 +39580,6 @@ Ultimo Alvo (2024)	f	U
 Ultimo Ato	s	U	2024
 Ultimo Dia dos Nazis	s	U
 Ultimo Quadro - Ultima Foto - Son Kare	s	U
-Ultra Maniac	s	U
 Ultra Violeta e o Escorpião Negro	s	U
 Ultraman	s	U
 Ultraman - Mega Batalha na Galaxia Ultra	f	U
@@ -40136,6 +40118,7 @@ Um Natal Diferente	f	U
 Um Natal em Biltmore	f	U
 Um Natal em Família	f	U
 Um Natal em Família Diferente	f	U
+Um Natal em Fields Ranch	f	U
 Um Natal em Lagos	f	U
 Um Natal em Montana	f	U
 Um Natal Encantado (2021)	f	U
@@ -40255,6 +40238,7 @@ Um Presente para Helen (2004)	f	U
 Um Presente Perfeito	f	U
 Um Principe em Minha Vida (2004)	f	U
 Um Principe em Nova York 2 (2021)	f	U
+Um Problema Difícil	f	U
 Um Príncipe em Minha Vida 2 - O Casamento Real	f	U
 Um Príncipe em Minha Vida 4 - A Aventura do Elefante	f	U
 Um Príncipe em Nova York (1988)	f	U
@@ -40989,7 +40973,6 @@ Ushinawareta Mirai Wo Motomete	s	U
 Ushio e Tora	s	U
 Ustaad Bhagat Singh	f	U
 Ustad Bhagat Singh	f	U
-Uta No Prince-Sama	s	U
 Utawarerumono	s	U
 Utopia	s	U
 Utopia Distopia	f	U
@@ -41036,7 +41019,6 @@ Vai Trabalhar Vagabundo II: A Volta	f	V
 Vai Trabalhar Vagabundo!	f	V
 Vai!	s	V
 Vai, Cachorro. Vai!	s	V
-Vai,Cara de Lula!	s	V
 Valan: Vale dos Anjos	f	V
 Valatty Jornada de Amor e Amizade	f	V
 Vale da Luta	f	V
@@ -41362,6 +41344,7 @@ Vice	f	V
 Vice Is Broke	f	V
 Vice Principals	s	V
 Vice-Versa	f	V
+Vicentina Pede Desculpas	f	V
 Viciada Em Namorado de Aluguel	f	V
 Viciada Nela a Querida Mimada do Ceo	s	V
 Viciadas em Dinheiro	f	V
@@ -42002,7 +41985,6 @@ We Are Who We Are	s	W
 We Bury the Dead	f	W
 We Call It Imagineering	s	W
 We Hunt Together	s	W
-We Never Learn: BOKUBEN	s	W
 We Still Steal the Old Way	f	W
 We Summon the Darkness (2020)	f	W
 We Take the Low Road	f	W
@@ -42171,7 +42153,6 @@ Witness Number 3	s	W
 Witness Unprotected	f	W
 Wizard Barristers: Benmashi Cecil	s	W
 Wizkid De Lagos Para o Mundo (2025)	f	W
-Wo De Ni Tian Shen Qi	s	W
 Woke	s	W
 Wolf	f	W
 Wolf	s	W	2011
@@ -42208,11 +42189,9 @@ Woori The Virgin	s	W
 Work in Progress	s	W
 Work Later Drink Now	s	W
 Workin Moms	s	W
-Working	s	W
 Working Girls	f	W
 World Dice Tour	s	W
 World of Immortals	s	W
-World Trigger	s	W
 Wormtown	f	W
 Wotakoi: O Amor é Difícil para Otaku	s	W
 Would You Rather	f	W
@@ -42240,7 +42219,7 @@ Wynonna Earp	s	W
 Wynonna Earp: A Maldicao dos Renascidos	s	W	2016
 Wynonna Earp: Vengeance	f	W
 X-Men	s	X
-X-Men '97	s	X
+X-Men '97	s	X	2024
 X-Men 2	f	X
 X-Men Origens: Wolverine	f	X
 X-Men Serie Animada	s	X
@@ -42311,6 +42290,7 @@ Yagate Kimi Ni Naru	s	Y
 Yago	s	Y
 Yago: Um Amor Traido	s	Y
 YAIBA Samurai Legend	s	Y
+YAIBA: Samurai Legend	s	Y	2025
 Yakitori: Soldados do Desastre	s	Y
 Yaksha: Operação Implacável (2022)	f	Y
 Yakuza Fiancé: Raise wa Tanin ga Ii	s	Y
@@ -42352,7 +42332,6 @@ Yo Kai Watch	s	Y
 Yo Yo Honey Singh: Famous	f	Y
 Yoga Teacher Killer: The Kaitlin Armstrong Story (2024)	f	Y
 YOHANE THE PARHELION -SUNSHINE in the MIRROR	s	Y
-Yojouhan Shinwa Taikei	s	Y
 Yoko	f	Y
 Yolanthe	s	Y
 YOLO!	s	Y
@@ -42408,10 +42387,9 @@ Youre Killing Me	s	Y
 Youth	f	Y
 Youth	s	Y	2026
 Youth Water Polo	s	Y
-Yowamushi Pedal	s	Y
 Yu Yu Hakusho	s	Y	2023
 Yu Yu Hakusho: Invasores do Inferno (1994)	f	Y
-Yu-Gi-Oh!	s	Y
+Yu-Gi-Oh!	s	Y	2000
 Yu-Gi-Oh! Go Rush!!	s	Y
 Yu-Gi-Oh! GX	s	Y
 Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	f	Y
@@ -42747,6 +42725,7 @@ Zélia - Memórias de Amor	f	Z
 シャンティ デイズ 365日、幸せな呼吸	f	#
 东极岛 (2025)	f	#
 壹獄壹世界II：劫數難逃 (2023)	f	I
+百日成王	s	#	2026
 通天拍檔 (1984)	f	#
 重装机甲4巨兽来袭 (2022)	f	#
 ＜JUNG KOOK: I AM STILL＞ THE ORIGINAL	s	#

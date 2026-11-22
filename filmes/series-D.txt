@@ -22,10 +22,10 @@ DON'T TOY WITH ME, MISS NAGATORO		0	24
 DORA		0	51
 DOTA- Dragon’s Blood		0	24
 DOTA: Dragon's Blood		0	24
+DOTA: Dragon's Blood	2021	0	24
 DREAM STAGE		0	1
 DRUCK		0	10
 DTF St Louis	2026	0	7
-Da Capo		0	26
 Da Cor do Pecado		0	185
 Da Decoração ao Makeover		0	24
 Da Ponte pra La	2024	0	7
@@ -38,9 +38,10 @@ Dad is a Hero Mom is a Spirit Im a Reincarnator		0	1
 Dadivas de Campanella		0	13
 Dads		0	18
 Daemons do Reino das Sombras		0	24
+Daemons do Reino das Sombras	2026	0	24
 Daha 17		0	4
 Dahab Ghali		0	12
-Dahlia in Bloom Crafting a Fresh Start with Magical Tools		0	12
+Dahlia in Bloom Crafting a Fresh Start with Magical Tools		0	7
 Dahmer: Um Canibal Americano	2022	0	10
 Daily Lives of High School Boys		0	19
 Daisy Jones & the Six		0	10
@@ -54,15 +55,17 @@ Dame x Prince Anime Caravan		0	12
 Damien		0	20
 Damnation		0	10
 DanMachi E Errado Tentar Pegar Garotas em uma Masmorra		0	134
+DanMachi: É Errado Tentar Pegar Garotas em uma Masmorra?	2015	0	13
 Danca no Gelo Rumo ao Ouro		0	3
 Dance 100		0	6
 Dance Brothers		0	10
 Dance Dance Dance		0	159
 Dance Dance Danseur		0	11
 Dance with Devils		0	12
-Danchigai		0	13
+Danchigai		0	1
 Dancin' Days		0	174
 Dando um Tempo com Bert Kreischer		0	5
+Dang!	2026	0	8
 Danger & Eggs		0	13
 Dani Who?		0	10
 Dani-se		0	20
@@ -70,8 +73,10 @@ Daniel Tigre		0	65
 Daniel, o Caçador de Magia		0	20
 Danny Go!		0	5
 Danny Phantom		0	55
+Danny Phantom	2004	0	53
 Dançando para o Diabo		0	1
 Dara-san of the Reiwa Era		0	6
+Dara-san of the Reiwa Era	2026	0	1
 Darby and Joan		0	9
 Dare To Love		0	16
 Dark	2017	0	26
@@ -80,6 +85,7 @@ Dark Hole		0	12
 Dark Moon The Blood Altar		0	12
 Dark Winds	2022	0	40
 Darkwing Duck		0	104
+Darkwing Duck	1991	0	91
 Darmaduman		0	9
 Darwin's Game		0	22
 Darz		0	6
@@ -95,14 +101,15 @@ Dawson's Creek		0	128
 Day One	2024	0	6
 Day of the Dead		0	20
 Daybreak		0	10
-Days		0	24
-Days with My Stepsister		0	11
+Days		0	1
+Days with My Stepsister		0	1
 De Ator a Cantor		0	8
 De Belfast ao Paraíso	2026	0	8
 De Bilionário a Presidiário		0	3
 De Brutas, Nada		0	19
 De Burras, Nada		0	9
 De Caipira a Mestre Espadachim		0	24
+De Caipira a Mestre Espadachim	2025	0	24
 De Capricho a Carinho Uma Aposta Bilionária de Amor		0	1
 De Casa Nova		0	75
 De Casa Nova Oficina do Ben		0	9
@@ -110,14 +117,14 @@ De Casa Nova: Cidade Renovada		0	6
 De Caso com o Chefe		0	1
 De Corpo e Alma		0	86
 De Criança Para Criança		0	34
-De Ferias com Travis Japan		0	18
-De Ferias com o Ex Brasil - A Treta nao Tira Ferias		0	21
-De Ferias com o Ex Diretoria	2024	0	26
-De Ferias com o Ex VIPS		0	27
-De Férias Com O Ex Brasil		0	80
-De Férias com o Ex Caribe	2022	0	51
-De Férias com o Ex: A Ressaca	2023	0	5
-De Férias com o Ex: América Latina		0	58
+De Ferias com Travis Japan		1	18
+De Ferias com o Ex Brasil - A Treta nao Tira Ferias		1	21
+De Ferias com o Ex Diretoria	2024	1	26
+De Ferias com o Ex VIPS		1	27
+De Férias Com O Ex Brasil		1	80
+De Férias com o Ex Caribe	2022	1	51
+De Férias com o Ex: A Ressaca	2023	1	5
+De Férias com o Ex: América Latina		1	58
 De Férias com o Ex: EUA		1	77
 De Férias com o Ex: UK		1	27
 De Geracao Em Geracao		1	37
@@ -180,7 +187,6 @@ Declinio dos Otomanos		1	2
 Decodificando Desastres		1	2
 Decoração Vintage com Lara Spencer		1	24
 Deep In		1	11
-Deep Insanity THE LOST CHILD		1	12
 Deep Revenge		1	11
 Deep Water		1	12
 Deepa e Anoop		1	18
@@ -197,7 +203,7 @@ Dekin no Mogura: The Earthbound Mole		1	11
 Dele & Dela	2026	1	6
 Dele e Dela		1	6
 Delegacia de Mulheres		1	17
-Delegado		1	3
+Delegado		1	4
 Delete		1	8
 Deli Boys		1	16
 Delicias da Miss Brown		1	58
@@ -215,8 +221,10 @@ Den som dræber		1	8
 Denki Gai no Honya san		1	12
 Dennis, o Pimentinha		1	76
 Dente de Leao		1	7
+Dente-de-Leão	2026	1	7
 Dentro do Círculo		1	8
 Departamento de Conspirações		1	26
+Departamento de Conspirações	2021	1	18
 Departure: A Investigação	2019	1	24
 Depende de nós - Darısı Başımıza		1	5
 Depois Daquele Ano	2026	1	8
@@ -229,15 +237,15 @@ Depois do Adeus		1	8
 Depois do Cancer Me Torno uma Diva		1	1
 Depois do Julgamento		1	6
 Depois do Terremoto		1	4
-Dept Q	2025	1	9
-Deputy: O Novo Xerife		1	26
-Der Pass	2019	1	33
-Derby Girl		1	4
-Derek		1	13
-Derretendo Pouco a Pouco		1	16
-Derry Girls		1	14
-Des		1	3
-Desafio Selvagem 100 Dias no Alasca		1	7
+Dept Q	2025	2	9
+Deputy: O Novo Xerife		2	26
+Der Pass	2019	2	33
+Derby Girl		2	4
+Derek		2	13
+Derretendo Pouco a Pouco		2	16
+Derry Girls		2	14
+Des		2	3
+Desafio Selvagem 100 Dias no Alasca		2	7
 Desafio Sob Fogo: America Latina		2	16
 Desafio dos Cookies de Escoteiras		2	2
 Desafio dos Corretores		2	6
@@ -348,16 +356,16 @@ Devil May Cry	2025	2	24
 Devil Survivor 2 The Animation		2	13
 Devil in Disguise John Wayne Gacy	2025	2	8
 Devils		2	18
-Devils&#039; Crest		2	3
-Devils' Crest		2	2
-Devious Maids		2	2
-Devolva-me a Vida		2	60
-Devs		2	16
-Dexter	2006	2	96
-Dexter Pecado Original	2024	2	10
-Dexter: New Blood		2	10
-Dexter: Ressurreição	2025	2	13
-Dexter: Sangue Novo		2	20
+Devils&#039; Crest		2	4
+Devils' Crest		3	2
+Devious Maids		3	2
+Devolva-me a Vida		3	60
+Devs		3	16
+Dexter	2006	3	96
+Dexter Pecado Original	2024	3	10
+Dexter: New Blood		3	10
+Dexter: Ressurreição	2025	3	14
+Dexter: Sangue Novo		3	20
 Dez Anos Amando em Silencio		3	24
 Dia Zero	2025	3	6
 Diablero		3	14
@@ -366,7 +374,8 @@ Diabo do Desemprego		3	26
 Diabolik Lovers		3	12
 Diagnóstico		3	7
 Diamantes Brutos		3	8
-Diamond no Ace		3	319
+Diamond no Ace		3	1
+Diamond no Ace	2013	3	1
 Diario das Fadas		3	28
 Diario de um Jovem Medico		3	15
 Diarios de Mumbai		3	16
@@ -382,7 +391,7 @@ Die Hart		3	10
 Dies Irae		3	17
 Dietland		3	10
 Digimon		3	253
-Digimon Adventure		3	155
+Digimon Adventure		3	54
 Digimon Adventure 02		3	50
 Digimon Adventure: 20 Shuunen Memorial Story		3	50
 Digimon Beatbreak		3	84
@@ -392,7 +401,7 @@ Digimon Frontier	2002	3	50
 Digimon Savers		3	48
 Digimon Tamers	2001	3	51
 Digimon Xros Wars		3	54
-Digimon Zero Two		3	50
+Digimon Zero Two		3	60
 Digman!		3	8
 Dignidade		3	8
 Dignity		3	7
@@ -402,6 +411,7 @@ Dinamite o Bionicao		3	16
 Dinastia		3	108
 Dinastia A Familia Murdoch		3	4
 Dinastia de Jade		3	27
+Dinastia de Jade	2022	3	27
 Dinastias		3	5
 Dinheiro Fácil: A Série		3	12
 Dinheiro Sujo		3	4
@@ -412,6 +422,7 @@ Dinheiro, Armas e um Feliz Natal		3	39
 Dino Girl Gauko		3	39
 Dino Ranch		3	78
 Dino the Dinosaur		3	19
+Dinoarmaduras	2025	3	13
 Dinosaur		3	1
 Dinossauro Rei		3	79
 Dinoster: Os Heróis Quânticos		3	26
@@ -453,6 +464,7 @@ Divórcio para Ser a Herdeira		3	39
 Dix pour cent		3	24
 Diz-Me Quem Sou		3	9
 Diário De Uma Futura Presidente		3	20
+Diário das Fadas	2023	3	28
 Diário de Horrores		3	23
 Diário de Pilar		3	26
 Diário de um Confinado		3	6
@@ -463,22 +475,22 @@ Diários de Armário: Descendentes		3	10
 Diários de Armário: Zombies		3	5
 Diários de Guerra		3	5
 Diários de Quarto: Lentes Que Revelam		3	6
-Diários de uma Apotecária	2023	3	132
-Do Alto Do Seu Conhecimento		3	8
-Do Amor e de Luta		3	4
-Do Caos ao Sonho com a Família Holmes		3	21
-Do Dia Para a Noite	2024	3	16
-Do Esboço à Realidade		3	6
-Do Escandalo a Paixao		3	12
-Do Jeito Delas		3	10
-Do Lixo ao Luxo: Pais Bilionários Caindo do Céu		3	1
-Do Nada Gravida		3	12
-Do Pelo ao Cabelo Autoestima por um Fio		3	6
-Do Que Riem?		3	7
-Do Rio ao Mar		3	2
-Do Velho Ao Novo		3	75
-Do Velho ao Novo O Hotel		3	6
-Do You Love Your Mom and Her TwoHit MultiTarget Attacks		4	12
+Diários de uma Apotecária	2023	3	133
+Do Alto Do Seu Conhecimento		4	8
+Do Amor e de Luta		4	4
+Do Caos ao Sonho com a Família Holmes		4	21
+Do Dia Para a Noite	2024	4	16
+Do Esboço à Realidade		4	6
+Do Escandalo a Paixao		4	12
+Do Jeito Delas		4	10
+Do Lixo ao Luxo: Pais Bilionários Caindo do Céu		4	1
+Do Nada Gravida		4	12
+Do Pelo ao Cabelo Autoestima por um Fio		4	6
+Do Que Riem?		4	7
+Do Rio ao Mar		4	2
+Do Velho Ao Novo		4	75
+Do Velho ao Novo O Hotel		4	6
+Do You Love Your Mom and Her TwoHit MultiTarget Attacks		4	1
 Do reparo ao par		4	23
 Doc		4	90
 Doc Investigacao		4	19
@@ -504,11 +516,11 @@ Doctor X: Mafia in White		4	8
 Doctor Zhivago		4	1
 Documentario		4	5
 Doenças Misteriosas		4	8
-Does It Count If You Lose Your Virginity to an Android?		4	9
 Dog Days		4	13
 Dog House Brasil		4	4
 Dog the Bounty Hunter		4	3
 Dogeza de Tanondemita		4	2
+Dogeza de Tanondemita	2020	4	1
 Dois Homens e Meio	2003	4	261
 Dois Irmaos		4	10
 Dois Maridos e Uma Esposa		4	2
@@ -526,10 +538,10 @@ Dom Pixote		4	57
 Dom de Iludir		4	10
 Domenica Montero		4	73
 Domenica Montero - Domenica Montero		4	39
-Domestic Girlfriend		4	13
+Domestic Girlfriend		4	1
 Domina	2021	4	18
 Dominando Manhattan	2024	4	16
-Domingao Com Huck		4	12
+Domingao Com Huck		4	11
 Dominion		4	39
 Dominion and Devotion		4	24
 Don't F**k with Cats: Uma Caçada Online		4	3
@@ -553,6 +565,7 @@ Dora a Aventureira		4	175
 Dora e Seus Amigos Na Cidade		4	20
 Dorei-ku The Animation		4	12
 Dorohedoro		4	36
+Dorohedoro	2020	4	24
 Dororo		4	48
 Dos Hogares		4	150
 Dossiê Chapecó: O Jogo por Trás da Tragédia		4	4
@@ -561,6 +574,7 @@ Double Cross		4	7
 Double Helix		4	13
 Doubt		4	13
 Doug		4	65
+Doug	1991	4	65
 Doug O Robo Curioso		4	26
 Dough: O Ganha-Pão		4	8
 Douluo Continent		4	80
@@ -581,55 +595,60 @@ Dr Now Diarios de Peso		4	10
 Dr. Death	2021	4	32
 Dr. Death The Undoctored Story		4	4
 Dr. Delirium e os Experimentos em Edgewood		4	1
-Dr. House	2004	4	177
-Dr. Romântico		4	53
-Dr. Stone	2019	4	107
-Dr. Storks		4	21
-Dra Cathy		4	8
-Dra Colon A Rainha dos Estalos		4	3
-Dra Emma: Uma Questão de Pele		4	73
-Dra Joya Dermatologista Animal		4	8
-Dra K: Animais Exóticos		4	64
-Dra Mercy Alem da Pele		4	6
-Dra. Cha	2023	4	16
-Dra. Lucía: Un Don Extraordinario		4	50
-Dra. Sandra Lee: A Rainha dos Cravos		4	92
-Drag Den		4	8
-Drag Race Brasil		4	22
-Drag Race Espanha		4	16
-Drag Race Mexico		4	12
+Dr. House	2004	5	177
+Dr. Romântico		5	53
+Dr. Stone	2019	5	107
+Dr. Storks		5	21
+Dra Cathy		5	8
+Dra Colon A Rainha dos Estalos		5	3
+Dra Emma: Uma Questão de Pele		5	73
+Dra Joya Dermatologista Animal		5	8
+Dra K: Animais Exóticos		5	64
+Dra Mercy Alem da Pele		5	6
+Dra. Cha	2023	5	16
+Dra. Lucía: Un Don Extraordinario		5	50
+Dra. Sandra Lee: A Rainha dos Cravos		5	92
+Drag Den		5	8
+Drag Race Brasil		5	22
+Drag Race Espanha		5	16
+Drag Race Mexico		5	12
 Dragoes - Pilotos de Berk		5	40
-Dragoes A Serie	2012	5	40
 Dragoes de Wonderhatch		5	8
 Dragon Age: Absolvição		5	6
-Dragon Ball	1986	5	153
+Dragon Age: Absolvição	2022	5	6
+Dragon Ball	1986	5	405
 Dragon Ball Clássico		5	153
 Dragon Ball Daima	2024	5	40
 Dragon Ball GT	1996	5	64
 Dragon Ball Super	2015	5	244
 Dragon Ball Super: Beerus	2026	5	7
-Dragon Ball Z	1989	5	291
+Dragon Ball Z	1989	5	405
 Dragon Ball Z Kai	2009	5	247
 Dragon Drive		5	38
 Dragon Girl		5	1
 Dragon Quest: The Adventure of Dai		5	101
 Dragon Raja		5	17
 Dragon Striker		5	11
+Dragon Striker	2026	5	11
 Dragon's Dogma		5	7
-Dragonar Academy		5	12
+Dragonar Academy		5	1
 Dragons of Wonderhatch		5	16
+Dragons of Wonderhatch	2023	5	16
+Dragões: A Série	2012	5	40
 Dragões: Corrida até o Limite		5	78
 Dragões: Equipe de Resgate ‑ Heróis do Céu		5	12
+Dragões: Os Nove Reinos		5	52
+Dragões: Os Nove Reinos	2021	5	52
 Dragões: Os Nove Reinos	None	5	52
 Drake & Josh	2004	5	60
 Drake E Josh		5	60
 Drama Total: A Vingança da Ilha		5	16
 Draw This, Then Die!		5	5
+Draw This, Then Die!	2026	5	1
 Dream Team		5	39
 Dreamland (2026)		5	10
 Drift! Tio Mecânico		5	1
 Drift! Tio Mecânico 2: Herança de Velocidade		5	1
-Drifters		5	14
 Drink Masters		5	10
 Drinques Pelo Mundo		5	47
 Drogas: Oferta e Demanda		5	6
@@ -637,12 +656,12 @@ Drop Dead Diva- Sob Medida		5	78
 Drug Store in Another World The Slow Life of a Cheat Pharmacist		5	12
 Drunk History A Historia Bebada		5	8
 Drácula		5	10
-Du Dudu e Edu	1999	5	76
+Du, Dudu e Edu	1999	5	76
 Duang com Você		5	12
 Duas Caras		5	210
 Duas Covas		5	3
 Duas Garotas Em Apuros		5	138
-Duas Mulheres Duas Vidas		5	412
+Duas Mulheres Duas Vidas		5	411
 Duas Semanas		5	16
 Duas Semanas Para Viver		5	6
 Duas Sonatas		5	12
@@ -650,7 +669,10 @@ Dubai Ostentacao Milionarios Indianos		5	7
 Dubai Ostentação		5	25
 Dublin Murders		5	8
 Duck Dodgers		5	55
+Duck Dodgers	2003	5	39
 DuckTales: Os Caçadores de Aventuras		5	122
+DuckTales: Os Caçadores de Aventuras	1987	5	72
+DuckTales: Os Caçadores de Aventuras	2017	5	72
 Dude, o Cãopanheiro		5	8
 Duelo Xiaolin		5	28
 Duelo de Restaurantes: Irvine vs. Taffer		5	3
@@ -658,7 +680,9 @@ Dummy		5	10
 Duna		5	9
 Duna A Profecia	2024	5	6
 Duncanville		5	51
+Duncanville	2020	5	39
 Dungeon Meshi		5	24
+Dungeon Meshi	2024	5	24
 Dupla Identidade		5	13
 Dupla Magnifica - Muhtesem Ikili		5	12
 Dupla do Barulho		5	200

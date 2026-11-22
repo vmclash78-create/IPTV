@@ -1894,7 +1894,6 @@ f	A Princesa e a Plebeia	Romance,Comédia
 f	A Princesa e a Plebeia: As Vilas Tambem Amam (2021)	Romance,Comédia
 f	A Princesa e a Plebeia: Nova Aventura (2020)	Família,Romance,Comédia,TV
 f	A Princesa e o Dragao (2018)	Animação,Fantasia
-f	A Princesa e o Duende	Aventura,Animação,Família,Fantasia
 f	A Princesa e o Feitiço do Tempo (2022)	Família,Fantasia,Comédia
 f	A Princesa e o Piloto	Aventura,Animação,Drama,Romance
 f	A Princesa e o Sapo (2009)	Animação,Romance,Fantasia,Família
@@ -2228,7 +2227,6 @@ f	A Vida dos Outros	Drama,Suspense
 f	A Vida e Dura A História de Dewey Cox (2007)	Comédia,Música
 f	A Vida e a Paixão de Jesus Cristo	Drama,História
 f	A Vida em Mim	Documentário
-f	A Vida em Preto e Branco	Fantasia,Comédia,Drama
 f	A Vida em Si	Drama,Romance
 f	A Vida em um Ano (2020)	Drama,Romance
 f	A Vida em um Pote de Vidro	Comédia,Drama
@@ -4612,7 +4610,6 @@ f	Bienvenidos al infierno	Terror
 f	Big Bad (2016)	Ficção científica,Ação,Aventura,Comédia,Suspense,Terror
 f	Big Bang (2022)	Drama
 f	Big Brother (2018)	Ação,Drama,Comédia
-f	Big Buck Bunny	Animação,Comédia,Família
 f	Big Dreams	Animação,Música,Família
 f	Big Família	Comédia,Família
 f	Big Filho 2	Animação,Aventura,Família
@@ -4895,7 +4892,6 @@ f	Bratstvo Legendado	Crime,Suspense,Ação
 f	Bratz - Rock Angelz	Animação,Família,Música
 f	Brava Gente Brasileira	História,Guerra,Drama
 f	Brave Citizen	Ação,Drama,Comédia
-f	Brave Gunjyo Senki / ブレイブ -群青戦記- (NÃO PT-BR)	Ação,História,Mistério,Fantasia
 f	BraveStorm	Ação,Aventura,Ficção científica
 f	Bravetown	Drama,Música
 f	Bravura Indômita	Faroeste
@@ -5951,7 +5947,6 @@ f	Como Cuidar de um Bebe Elefante (2022)	Documentário
 f	Como Cães de Guerra (2018)	Drama
 f	Como Cães e Gatos 2: A Vingança de Kitty Galore	Família,Aventura,Comédia,Fantasia
 f	Como Descartar um Corpo	Drama
-f	Como Eliminar seu Chefe	Comédia
 f	Como Enlouquecer seu Chefe (1999)	Comédia
 f	Como Entrei para a Faculdade	Comédia,Romance
 f	Como Esquecer	Drama
@@ -6090,7 +6085,6 @@ f	Congelado	Ação,Suspense
 f	Congo (1995)	Ação,Aventura,Ficção científica
 f	Conhecendo Mr. Chow	Documentário
 f	Conhecendo o Sr. Natal (2022)	TV,Comédia,Drama,Romance
-f	Conheça os Feebles	Comédia,Música,Fantasia
 f	Conjuring the Cult (2024)	Terror,Drama
 f	Connie e Carla: As Rainhas da Noite	Comédia,Crime,Música
 f	Conor McGregor: Tudo Pelo Título	Documentário
@@ -7444,7 +7438,6 @@ f	Doces Mentiras	Comédia,Romance
 f	Docinho da America (2016)	Drama
 f	Doctor Who Children in Need Special 2023	Ficção científica,Mistério,Comédia
 f	Doctor-X O Filme	Comédia,Drama,Mistério
-f	Documentário	Comédia
 f	Doe: Sem Passado	Suspense,Mistério
 f	Doente de Amor	Drama
 f	Doente de Amor (2025)	Romance,Drama
@@ -8837,7 +8830,6 @@ f	Fathom	Documentário
 f	Fatima - A Historia de um Milagre (2020)	Drama
 f	Fator de Risco	Drama
 f	Fatos Estranhos	Terror,Suspense
-f	Fausto	Fantasia
 f	Fausto Fawcett na Cabeça	Documentário
 f	Favela é Moda	Documentário
 f	Faye	Documentário,TV
@@ -9507,7 +9499,6 @@ f	Garçonete	Drama,Comédia,Romance
 f	Gasoline Rainbow	Drama,Aventura
 f	Gasparzinho - Especial do Dia das Bruxas	Animação,Comédia
 f	Gasparzinho, o Fantasminha Camarada	Fantasia,Comédia,Família
-f	Gata em Fuga	Ação,Comédia,Suspense
 f	Gata em Fuga 2	Ação,Comédia
 f	Gatas de Aço	Ação,Comédia
 f	Gatilheiro (2025)	Suspense,Ação
@@ -9933,7 +9924,6 @@ f	Hannah e Suas Irmãs	Comédia,Drama
 f	Hannibal	Crime,Drama,Suspense
 f	Hannibal Hopkins et Sir Anthony	Documentário
 f	Hannibal a Origem do Mal (2007)	Crime,Suspense,Terror
-f	Hanyo,a Empregada	Crime,Drama
 f	Happiest Season	Romance,Comédia
 f	Happily	Comédia,Romance,Ficção científica,Suspense
 f	Happy Feet 2: O Pinguim (2011)	Animação,Comédia,Família
@@ -9988,7 +9978,6 @@ f	Heart Eyes (2025)	Terror,Romance,Comédia
 f	Hearts on Fire	Drama,Romance
 f	Heartstopper Para Sempre (2026)	Romance,Drama
 f	Heavy Metal do Horror / O Rock do Dia das Bruxas	Terror,Música,Suspense
-f	Heavy Metal: Universo em Fantasia	Animação,Ficção científica,Aventura,Fantasia,Música
 f	Hebe: A Estrela do Brasil	Drama,História
 f	Hector (2016)	Drama,Crime
 f	Hector e a Procura da Felicidade	Aventura,Drama,Comédia
@@ -10241,7 +10230,6 @@ f	Hopes & Dreams	Documentário,Animação,História
 f	Hora Errada	Romance,Comédia
 f	Hora de Brilhar	Comédia
 f	Hora de Recomeçar (2018)	Drama,Família
-f	Hora do Arrepio: Nem Pense Nisso	Terror,TV,Fantasia
 f	Hora do Blec - Planeta Blec	Animação,Família
 f	Hora do Massacre (2024)	Terror,Suspense,Ação
 f	Hora do Recreio (2026)	Documentário
@@ -10655,7 +10643,6 @@ f	Inu-Oh (2022)	Animação,Drama,Música,Fantasia,História
 f	InuYasha 1: Sentimentos que Transcendem o Tempo (2001)	Ação,Animação,Aventura,Fantasia
 f	InuYasha 3: A Espada Dominadora do Mundo (2003)	Animação,Fantasia,Aventura
 f	InuYasha 4: Fogo na Ilha Mística (2004)	Fantasia,Animação,Aventura
-f	Inuyashiki (2018)	Ação,Aventura,Ficção científica,Fantasia
 f	Invasao Terrorista (2021)	Ação,Suspense
 f	Invasao Zumbi 2: Peninsula (2020)	Terror,Ação,Suspense,Aventura
 f	Invasao ao Servico Secreto (2019)	Ação,Suspense
@@ -10895,7 +10882,6 @@ f	Jimmy Bolha	Comédia,Aventura,Romance
 f	Jimmy Neutron: O Menino Gênio	Família,Comédia,Aventura,Animação,Ficção científica
 f	Jinxed	Família,Fantasia,Comédia,TV
 f	Jiu Jitsu (2020)	Ação,Ficção científica,Fantasia
-f	Jo	Comédia,Crime
 f	Jo Pil-ho - O Despertar da Ira	Ação,Crime,Drama,Suspense
 f	Joana D'Arc	Drama,História
 f	Joao e Maria: Cacadores de Bruxas (2013)	Fantasia,Terror,Ação
@@ -11221,7 +11207,6 @@ f	K-911: Um Policial Bom pra Cachorro 2	Ação,Comédia,Crime
 f	K-9: D.P.: Um Policial Bom pra Cachorro	Ação,Comédia,Crime
 f	K-9: Um Policial Bom pra Cachorro	Ação,Comédia,Crime
 f	K-I-S-S-I-N-G	Drama,Romance,Comédia
-f	K-PAX: O Caminho da Luz	Ficção científica,Drama,Mistério
 f	K-Pops. (2026)	Comédia,Drama,Música
 f	K.O. (2025)	Ação,Drama,Aventura
 f	K19 (2002)	História,Suspense,Guerra
@@ -12942,7 +12927,6 @@ f	Miguel Ángel Blanco: As 48 Horas que Mudaram a Espanha (2026)	Documentário
 f	Mikaela	Ação,Suspense,Aventura
 f	Mike Birbiglia: The Good Life	Comédia
 f	Mike Nick Nick Alice (2026)	Comédia,Ficção científica,Ação
-f	Mikey	Terror
 f	Mikolo	Aventura,Família,Fantasia
 f	Mil Casamentos	Comédia,Romance
 f	Mil Coisas que Faria por Você	Comédia
@@ -14092,7 +14076,6 @@ f	Nossos Sonhos de Marte	Comédia,Romance,Ficção científica
 f	Nossos Tempos (2025)	Ficção científica,Romance,Comédia
 f	Nostalgia (2018)	Drama
 f	Not Alone (2021)	Suspense
-f	Not Cool (INGLÊS)	Comédia,Romance,Drama
 f	Not Even Friends	Drama
 f	Not Friends	Comédia
 f	Not to Forget	Drama
@@ -15243,7 +15226,6 @@ f	O Garoto do Futuro	Comédia,Fantasia,Romance
 f	O Garoto do Futuro 2	Comédia,Fantasia,Família
 f	O Garoto do Leito 6	Terror
 f	O Gato	Fantasia,Aventura,Família,Comédia
-f	O Gato de Botas: Os Três Diabos	Aventura,Animação,Comédia,Família
 f	O Gato de Madame	Comédia
 f	O Genro (2026)	Comédia,Drama
 f	O Genro Da Minha Vida (2018)	Comédia
@@ -15764,7 +15746,6 @@ f	O Mestre dos Desejos 4: A Profecia Finalmente se Cumpriu	Terror,Fantasia
 f	O Mestre dos Gênios	História,Drama
 f	O Mestre dos Jogos	Comédia,Ação
 f	O Mestre dos Jogos 3	Ação,Comédia
-f	O Metrô da Morte	Terror
 f	O Meu Nome é Bill	Comédia,Drama,Romance
 f	O Meu Pequeno Eu	Drama,Família
 f	O Meu Pé de Laranja Lima	Drama,Família
@@ -16080,7 +16061,6 @@ f	O Plano	Crime,Drama,Suspense
 f	O Plano Imperfeito	Romance,Comédia
 f	O Plano Perfeito (2006)	Crime,Drama,Suspense
 f	O Plano Perfeito 2	Ação,Crime,Suspense
-f	O Plano de Maggie (2016)	Drama,Romance,Comédia
 f	O Plano de Milhões	Comédia,Drama
 f	O Plano de Sexta à Noite	Comédia,Drama
 f	O Poco (2019)	Drama,Ficção científica,Suspense
@@ -17752,8 +17732,6 @@ f	Panico na Floresta 4 (2011)	Terror,Suspense
 f	Panico na Floresta 5 (2012)	Terror,Suspense
 f	Panico na Floresta: A Fundacao (2021)	Terror,Suspense
 f	Panico nas Alturas (2019)	Suspense,Terror
-f	Panorama de l'arrivée à Belfast	Documentário
-f	Panorama pendant l'ascension de la Tour Eiffel	Documentário
 f	Pantera Negra (2018)	Ação,Aventura,Ficção científica
 f	Pantera Negra: O Reino Selvagem	Documentário,TV
 f	Pantera Negra: Wakanda para Sempre	Ação,Aventura,Ficção científica
@@ -19259,7 +19237,6 @@ f	Redescobrindo o Amor	Romance,Comédia
 f	Reds	Drama,História,Romance
 f	Reeducando Molly	Comédia,Drama
 f	Reefa: O Artista	Drama
-f	Reencarnação (2004)	Drama,Mistério
 f	Reencarnação: Falha no Sistema	Ficção científica,Suspense,Mistério
 f	Reencontrando o Amor (2016)	Drama,Música,Romance
 f	Reencontro Mortal	Terror,Comédia,TV
@@ -19475,7 +19452,6 @@ f	Reze para Sair	Terror
 f	Rheingold: O Roubo do Sucesso (2022)	História,Drama,Crime,Música
 f	Ricki and the Flash De Volta pra Casa (2015)	Comédia,Drama,Música
 f	Ricky Bobby: A Toda Velocidade (2006)	Comédia
-f	Ricky Gervais: Mortalidade	Comédia,TV
 f	Ricky Stanicky (2024)	Comédia
 f	Ricochete	Mistério,Suspense,Drama,Crime
 f	Ricos Sem Dinheiro	Comédia,Drama
@@ -19859,7 +19835,6 @@ f	Sansão	Ação,Drama,Aventura
 f	Santa Barbara (2012)	História
 f	Santa Buddies: Uma Aventura de Natal (2009)	Família,Aventura,Fantasia
 f	Santa Maud (2020)	Terror,Mistério,Suspense
-f	Santa Sangre	Terror,Drama,Suspense
 f	Santana	Ação
 f	Santet: O Feitiço do Mal (2018)	Terror
 f	Santo Antônio de Pádua	Drama
@@ -21570,7 +21545,6 @@ f	The Gateway	Drama,Suspense
 f	The Gentlemen	Ação,Comédia,Crime
 f	The Get Out	Ação,Suspense
 f	The Ghostmaker	Terror,Ficção científica,Suspense
-f	The Ghoul	Drama,Suspense
 f	The Girl Who Cried Pearls	Animação,Drama,Fantasia
 f	The Girl in the River	Crime,Suspense
 f	The Girlfriend	Romance,Drama
@@ -21695,7 +21669,6 @@ f	The Outsider	Crime,Drama,Mistério
 f	The Outwaters (2023)	Terror,Mistério,Ficção científica
 f	The Overnight	Terror
 f	The Owners	Terror,Mistério,Suspense
-f	The Painter	Ação,Suspense
 f	The Pale Door	Terror,Faroeste
 f	The Paper Tigers (2020)	Ação,Comédia
 f	The Partisan	Guerra,Suspense,História
@@ -21747,7 +21720,6 @@ f	The Secret Garden	Drama,Família,Fantasia
 f	The Secrets We Keep	Suspense,História,Drama
 f	The Seed	Terror,Ficção científica,Comédia
 f	The Seeding (2024)	Terror,Suspense
-f	The Serpent's Skin	Terror,Romance
 f	The Seven Deadly Sins: Fúria de Edimburgo – Parte 1	Ação,Aventura,Fantasia,Animação
 f	The Seven Deadly Sins: Fúria de Edimburgo – Parte 2	Ação,Aventura,Fantasia,Animação
 f	The Severed Sun (2025)	Terror
@@ -24511,6 +24483,7 @@ f	通天拍檔 (1984)	Comédia,Ação
 f	重装机甲4巨兽来袭 (2022)	Ação,Ficção científica,Aventura
 s	#I'm Looking for a Zombie	Animação,Ação e aventura,Comédia
 s	#blackAF	Comédia
+s	(Des)encanto	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	007 Estrada para o Milhao	Reality,Ação e aventura
 s	011ZE Nova Geracao	Drama
 s	1 Contra Todos	Drama,Crime
@@ -25111,7 +25084,6 @@ s	A Viagem	Novela,Drama
 s	A Vida Depois do Tombo	Documentário
 s	A Vida Mentirosa dos Adultos	Drama
 s	A Vida Pela Frente	Drama
-s	A Vida Privada Dela	Comédia,Drama
 s	A Vida Secreta da Minha Secretaria	Comédia
 s	A Vida Secreta das Esposas Mormons	Reality,Documentário
 s	A Vida Secreta dos Animais	Documentário
@@ -25121,6 +25093,7 @@ s	A Vida Selvagem do Dr. Ole	Documentário
 s	A Vida Sexual Secreta De Hitler	Documentário,Guerra e política
 s	A Vida Sexual das Universitárias	Comédia,Drama
 s	A Vida da Gente	Novela,Drama
+s	A Vida de Dug	Animação,Comédia,Família
 s	A Vida de Jo	Drama
 s	A Vida dos Santos	Drama
 s	A Vida e Aventuras de Juniper Lee	Animação,Ação e aventura,Ficção e fantasia,Comédia
@@ -25159,7 +25132,6 @@ s	A.mar Donde el Amor Teje sus Redes	Novela,Drama,Família
 s	AARO All domain Anomaly Resolution Office	Drama,Mistério
 s	AHO-GIRL	Comédia,Animação
 s	AI Girl	Animação,Comédia,Drama,Ficção e fantasia
-s	AIKa ZERO	Ação e aventura,Animação,Comédia
 s	AJ and the Queen	Comédia,Drama
 s	AKB0048	Animação,Ficção e fantasia
 s	ALF, o ETeimoso	Comédia,Família,Ficção e fantasia
@@ -25279,7 +25251,6 @@ s	Ah o Natal	Drama,Comédia
 s	Ahsoka	Ficção e fantasia,Ação e aventura
 s	Ai Yori Aoshi	Animação,Comédia,Drama
 s	Aika	Ação e aventura,Animação,Comédia
-s	Aikatsu Friends!	Animação,Comédia,Drama,Família,Infantil,Ficção e fantasia
 s	Aikatsu!	Animação,Comédia,Drama,Infantil,Ficção e fantasia
 s	Aile Lacos de Paixao	Ação e aventura,Crime,Drama
 s	Ainda Acordados	Comédia
@@ -25331,7 +25302,6 @@ s	Alguém tem que morrer	Drama
 s	Alias Codinome Perigo	Ação e aventura,Drama
 s	Alias Grace	Crime,Drama
 s	Alice & Lewis	Animação,Infantil
-s	Alice & Zoroku	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	Alice and Steve	Comédia,Drama
 s	Alice in Borderland	Mistério,Drama,Ação e aventura
 s	Alice na Doceria das Maravilhas	Animação,Infantil,Comédia
@@ -25385,7 +25355,6 @@ s	Além do Tempo	Novela,Drama
 s	Amada e Ultrajada O Exercito na Historia do Brasil	Documentário
 s	Amagami SS	Animação,Comédia,Drama
 s	Amagi Brilliant Park	Animação,Comédia,Drama,Ficção e fantasia
-s	Amanchu!	Animação,Comédia
 s	Amando o Inimigo	Drama
 s	Amanhã	Ação e aventura,Ficção e fantasia,Drama
 s	Amanhã com Você	Drama
@@ -25699,7 +25668,6 @@ s	Arrested Development	Comédia
 s	Arrow	Crime,Drama,Ação e aventura
 s	Ars no Kyojuu	Animação,Ação e aventura,Ficção e fantasia
 s	Arsenal Military Academy	Guerra e política,Drama,Ação e aventura
-s	Arslan Senki	Animação
 s	Art Attack: Modo Desafio	Reality,Família
 s	Art Attack: Snack	Reality
 s	Artilheiros	Documentário
@@ -25781,6 +25749,7 @@ s	As Novas Aventuras de Gasparzinho	Animação,Comédia,Ficção e fantasia,Infa
 s	As Novas Aventuras de Jonny Quest	Ação e aventura,Animação,Infantil
 s	As Novas Aventuras do Macaco	Ficção e fantasia,Ação e aventura,Comédia,Drama
 s	As Novas Aventuras do Superman	Ação e aventura,Drama,Ficção e fantasia,Comédia
+s	As Novas Aventuras do Ursinho Puff	Família,Animação,Comédia,Infantil
 s	As Novas Super Gatinhas	Animação,Família,Comédia,Ação e aventura,Ficção e fantasia,Drama
 s	As Nove Emoções	Drama
 s	As Panteras	Ação e aventura
@@ -25792,11 +25761,11 @@ s	As Prisoes Mais Notorias do Mundo	Documentário,Crime
 s	As Pupilas do Senhor Reitor	Novela,Drama
 s	As Quatro Estacoes do Ano	Comédia
 s	As Seguidoras	Comédia
-s	As Sete Virtudes Celestiais	Animação,Ficção e fantasia
 s	As Supermodelos	Documentário
 s	As Tartarugas Mutantes Ninja	Ação e aventura,Animação,Infantil
 s	As Tartarugas Ninjas	Infantil,Animação,Ação e aventura,Ficção e fantasia,Comédia
 s	As Telefonistas	Drama
+s	As Terríveis Aventuras de Billy e Mandy	Animação,Comédia,Infantil
 s	As Tontas Não Vão ao Céu	Comédia
 s	As Trapalhadas de Flapjack	Animação,Comédia,Ficção e fantasia,Infantil
 s	As Travessuras da Menina Ma	Drama
@@ -25882,7 +25851,7 @@ s	Auto Esporte	Notícias
 s	Auto Posto	Comédia
 s	Avatar: A Lenda De Korra	Animação,Ação e aventura,Ficção e fantasia
 s	Avatar: A Lenda de Aang	Animação,Ação e aventura,Ficção e fantasia
-s	Avatar: Os Sete Refugios	Animação,Ação e aventura,Ficção e fantasia,Família
+s	Avatar: Os Sete Refúgios	Animação,Ação e aventura,Ficção e fantasia,Família
 s	Avenida Brasil	Novela,Drama,Mistério,Crime
 s	Aventura em Matilha	Reality
 s	Aventuras do Didi	Comédia
@@ -26046,7 +26015,6 @@ s	Bebes Assassinos Todos os Dias	Ação e aventura,Comédia,Drama
 s	Bebidas Apostas e Sexo	Documentário,Drama
 s	Bebê a Bordo	Novela,Drama,Comédia,Família,Reality
 s	Bebês em Foco	Documentário
-s	Beck	Crime,Drama,Mistério
 s	Beckham	Documentário
 s	Beckham: Salve Nosso Time	Documentário,Reality
 s	Becoming Elizabeth	Drama
@@ -26159,7 +26127,6 @@ s	Bitch	Animação,Comédia
 s	Bitten	Drama,Ficção e fantasia
 s	Bittersweet Love	Drama
 s	Bizaardvark	Família,Comédia
-s	Black And White Warriors	Animação,Comédia,Ficção e fantasia,Ação e aventura
 s	Black Bird	Drama,Crime
 s	Black Blood Brothers	Animação,Comédia,Mistério,Drama
 s	Black Box	Drama
@@ -26247,7 +26214,6 @@ s	Boku no Kokoro no Yabai Yatsu	Animação,Comédia
 s	Boku to Roboko	Animação,Comédia,Ficção e fantasia
 s	Boku wa Tomodachi ga Sukunai	Animação,Comédia
 s	Bokura ga Ita	Animação,Drama
-s	Bokusatsu Tenshi Dokuro-chan	Animação,Comédia,Ficção e fantasia
 s	Bokutachi no Remake	Animação,Mistério,Drama
 s	Bola Rolando Major League Soccer	Documentário,Reality
 s	Bolinhos de Arroz	Drama
@@ -26694,7 +26660,6 @@ s	Chitãozinho & Xororó - Uma História de Sucesso	Documentário
 s	Chivalry of a Failed Knight	Animação,Ficção e fantasia,Ação e aventura
 s	Chloe	Documentário,Comédia,Família
 s	Chobits	Animação,Comédia,Drama,Ficção e fantasia
-s	Choboraunyopomi Gekijou Ai Mai Mii	Animação,Comédia
 s	Chocolate com Pimenta	Novela,Comédia,Drama
 s	Choose Earth	Documentário
 s	Chopped Nova Geracao	Reality,Família
@@ -27035,7 +27000,6 @@ s	Cronicas da Deusa Gato	Animação,Comédia
 s	Cronicas de Metal Hurlant	Ação e aventura,Ficção e fantasia
 s	Cronicas de um Lar	Drama
 s	Croods,o Início	Animação,Família,Infantil,Comédia,Ação e aventura
-s	Crookhaven	Ação e aventura,Drama,Mistério
 s	Crossbones	Drama
 s	Crossing Lines	Ação e aventura,Crime,Drama
 s	Crossing Swords	Comédia,Animação
@@ -27064,7 +27028,6 @@ s	Cutie Honey	Animação,Ação e aventura,Ficção e fantasia
 s	Cyberchase: A Corrida do Espaço	Animação,Comédia,Infantil,Mistério,Ficção e fantasia,Ação e aventura
 s	Cyberpunk: Mercenários	Animação,Ação e aventura,Ficção e fantasia,Crime
 s	Cycle of Sin	Mistério
-s	Cyclops Shoujo Saipuu	Animação,Comédia
 s	Cães de Berlim	Crime,Drama
 s	Cães de Caça	Drama,Ação e aventura,Crime
 s	Círculo Fechado	Crime,Drama
@@ -27093,7 +27056,6 @@ s	DON'T TOY WITH ME, MISS NAGATORO	Animação,Comédia,Drama
 s	DORA	Ação e aventura,Animação,Família,Infantil
 s	DREAM STAGE	Drama
 s	DTF St Louis	Drama,Comédia,Mistério
-s	Da Capo	Talk show
 s	Da Cor do Pecado	Comédia,Drama,Novela
 s	Da Ponte pra La	Drama
 s	Da Vinci Demons	Drama
@@ -27213,7 +27175,6 @@ s	Declinio dos Otomanos	Documentário
 s	Decodificando Desastres	Documentário
 s	Decoração Vintage com Lara Spencer	Reality
 s	Deep In	Drama
-s	Deep Insanity THE LOST CHILD	Animação,Ficção e fantasia,Ação e aventura
 s	Deep Revenge	Drama,Mistério
 s	Deep Water	Drama,Documentário
 s	Deepa e Anoop	Infantil,Animação
@@ -27422,6 +27383,7 @@ s	Divina Christina	Documentário
 s	Divisão Palermo	Comédia,Crime
 s	Divorce	Comédia,Drama
 s	Divorciados	Drama
+s	Diário das Fadas	Infantil,Animação,Ficção e fantasia
 s	Diário de Horrores	Ficção e fantasia,Mistério
 s	Diário de Pilar	Infantil
 s	Diário de um Gigolô	Drama
@@ -27462,7 +27424,6 @@ s	Doctor Who	Drama,Ação e aventura,Ficção e fantasia
 s	Doctor X: A Máfia do Jaleco Branco	Mistério,Drama,Crime
 s	Doctor Zhivago	Drama
 s	Documentario	Infantil,Família,Documentário
-s	Does It Count If You Lose Your Virginity to an Android?	Animação,Comédia,Ficção e fantasia
 s	Dog Days	Animação,Ficção e fantasia,Ação e aventura
 s	Dogeza de Tanondemita	Animação,Comédia
 s	Dois Homens e Meio	Comédia
@@ -27538,7 +27499,6 @@ s	Drag Den	Reality
 s	Drag Race Brasil	Reality
 s	Drag Race Espanha	Reality
 s	Drag Race Mexico	Reality
-s	Dragoes A Serie	Animação,Ação e aventura,Ficção e fantasia,Comédia
 s	Dragoes de Wonderhatch	Ação e aventura,Ficção e fantasia,Animação
 s	Dragon Age: Absolvição	Animação,Ação e aventura,Ficção e fantasia
 s	Dragon Ball	Animação,Ficção e fantasia,Ação e aventura
@@ -27561,11 +27521,9 @@ s	Drake & Josh	Comédia
 s	Draw This, Then Die!	Animação,Comédia
 s	Dream Team	Novela,Drama
 s	Dreamland (2026)	Animação,Comédia,Ação e aventura,Ficção e fantasia
-s	Drifters	Comédia
 s	Drink Masters	Reality
 s	Drinques Pelo Mundo	Documentário
 s	Drug Store in Another World The Slow Life of a Cheat Pharmacist	Animação,Comédia,Ficção e fantasia
-s	Du Dudu e Edu	Animação,Comédia,Infantil
 s	Duang com Você	Drama,Comédia
 s	Duas Caras	Novela,Drama
 s	Duas Covas	Mistério,Crime,Drama
@@ -27645,6 +27603,7 @@ s	Electric Bloom A Melhor Banda do Mundo	Comédia,Família,Drama
 s	Elegant Yokai Apartment Life	Animação,Comédia,Ficção e fantasia
 s	Eleita	Comédia
 s	Elementary	Drama,Mistério,Crime
+s	Elena de Avalor	Animação,Infantil
 s	Eles	Drama,Mistério,Crime
 s	Elfos	Drama,Mistério,Ficção e fantasia
 s	Elite	Crime,Mistério,Drama
@@ -27700,7 +27659,6 @@ s	Encontro com Meu Amigo	Reality
 s	Encontros Extraterrestres	Documentário
 s	Encontros Secretos Amor ou Contatinho	Reality
 s	Encontros com Extraterrestres Fato ou Ficcao	Documentário
-s	Encouragement Of Climb	Animação,Ação e aventura,Comédia
 s	Endride	Animação,Ação e aventura,Ficção e fantasia
 s	Enemies With Benefits	Drama,Comédia
 s	Enemigo Intimo	Ação e aventura,Drama
@@ -28133,7 +28091,6 @@ s	Free Bert	Comédia
 s	Free!	Animação,Comédia,Drama
 s	FreeKs	Drama,Mistério
 s	Freeridge	Comédia,Drama,Mistério
-s	Freezing	Comédia
 s	Fresh Off the Boat	Comédia
 s	Freud	Drama
 s	FriendZSpace	Animação,Ação e aventura,Comédia
@@ -28170,12 +28127,9 @@ s	Fundamentos do Prazer	Documentário
 s	Funk.Doc: Popular & Proibido	Documentário
 s	Funkbol	Documentário
 s	Furacao Katrina Corrida Contra o Tempo	Documentário
-s	Fushigi Yuugi	Animação,Ação e aventura,Ficção e fantasia
 s	Futakoi	Animação,Comédia,Drama
-s	Futakoi Alternative	Animação,Drama
 s	Futebol A Hora da Verdade	Documentário
 s	Futebol de Rua	Animação,Infantil,Comédia
-s	Futoku no Guild	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Futsuu no Joshikousei ga Yattemita.	Animação,Comédia
 s	Futurama	Animação,Comédia,Ficção e fantasia
 s	Future Man	Comédia,Ficção e fantasia
@@ -28206,7 +28160,6 @@ s	Gaikotsu Shotenin Honda san	Comédia,Animação
 s	Gakuen Basara: Samurai High School	Animação,Comédia,Ação e aventura
 s	Gakuen Handsome	Animação,Comédia
 s	Gakuen Utopia Manabi Straight!	Animação,Comédia
-s	Galaxy Angel	Ficção e fantasia,Animação,Comédia
 s	Galera FC	Comédia
 s	Galera do Barulho	Família,Comédia
 s	Galilei Donna	Animação,Drama,Mistério
@@ -28284,7 +28237,6 @@ s	Geração Z no Perrengue	Reality
 s	Germinal: A Revolução	Drama
 s	Get Millie Black	Crime,Drama
 s	Get Shorty: A Máfia do Cinema	Crime,Comédia
-s	Getsuyoubi no Tawawa	Animação,Comédia
 s	Ghost Doctor	Comédia,Drama,Ficção e fantasia
 s	Ghost Force	Ação e aventura,Animação,Infantil
 s	Ghost Hound	Animação,Drama,Mistério,Ficção e fantasia
@@ -28404,6 +28356,7 @@ s	Grandes Roubos da História com Pierce Brosnan	Documentário,Crime
 s	Grandes Sonhos	Reality
 s	Grandpa and Grandma Turn Young Again	Animação,Comédia
 s	Grant	Comédia,Drama
+s	Gravity Falls: Um Verão de Mistérios	Ação e aventura,Animação,Comédia,Família,Mistério,Ficção e fantasia
 s	Gray	Animação,Ação e aventura,Mistério,Ficção e fantasia
 s	Grease: Rise of the Pink Ladies	Drama
 s	Great News	Comédia
@@ -28459,7 +28412,6 @@ s	Guilt	Comédia,Crime,Drama
 s	Gundam Build Fighters	Animação,Comédia,Ficção e fantasia,Infantil,Família
 s	Gungrave	Animação,Ação e aventura,Crime,Drama
 s	Gunpowder	Guerra e política,Drama
-s	Gunslinger Girl	Ação e aventura,Animação,Drama
 s	Gunther: O Cachorro Milionário	Documentário
 s	Gurren Lagann	Animação,Ação e aventura,Ficção e fantasia
 s	Gus: O Pequeno Cavaleiro	Animação,Comédia,Ação e aventura,Infantil
@@ -28593,13 +28545,11 @@ s	Herois de Plantao	Drama,Comédia
 s	Herois dos Trilhos	Drama
 s	Herois em Foco Batalhao de Acoes com Caes	Documentário
 s	Heróis da Selva	Documentário
-s	Hetalia Axis Powers	Animação,Comédia
 s	Hey A.J.!	Infantil,Animação,Família,Comédia
 s	Hey Arnold!	Animação,Comédia,Drama,Família
 s	Hey Duggee	Animação,Infantil,Comédia,Ficção e fantasia
 s	Hibike Euphonium	Animação,Drama
 s	Hicran	Drama
-s	Hidamari Sketch	Animação,Comédia
 s	Hidan No Aria	Ação e aventura,Animação,Comédia,Ficção e fantasia
 s	Hierarchy	Drama
 s	Hierarquia	Drama
@@ -28670,6 +28620,7 @@ s	Homem de Familia	Drama,Ação e aventura
 s	Homem de Ferro e seus Amigos Incriveis	Animação,Infantil,Ficção e fantasia
 s	Homem em Chamas	Ação e aventura,Crime
 s	Homem-Aranha da Marvel	Animação,Ação e aventura,Ficção e fantasia
+s	Homem-Aranha: A Série Animada	Animação,Ação e aventura
 s	Homens Apaixonados	Comédia,Drama
 s	Homens Da Montanha Franco Atirador	Reality,Faroeste
 s	Homens Sem Lei	Documentário
@@ -28693,18 +28644,17 @@ s	Honra dos Reis	Animação,Ação e aventura,Ficção e fantasia
 s	Honra e Amor	Drama
 s	Hooligan	Drama,Crime
 s	Hoops	Comédia,Animação
-s	Hoozuki no Reitetsu	Ficção e fantasia,Animação,Comédia
 s	Hope on the Street	Documentário
 s	Hora de Aventura	Animação,Comédia,Ficção e fantasia
 s	Hora de Aventura com Fionna e Cake	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Hora de Aventura: Missões Secundárias	Animação,Ação e aventura,Ficção e fantasia
+s	Hora de Aventura: Terras Distantes	Animação,Ação e aventura,Comédia,Ficção e fantasia,Família
 s	Hora do Jantar com David Chang	Reality
 s	Hora do Recreio	Animação,Infantil,Comédia
 s	Horimiya	Animação,Comédia,Drama
 s	Horimiya: Piece	Animação,Comédia,Drama
 s	Horário Nobre	Drama,Crime,Talk show
 s	Horóscopo do Amor	Reality
-s	Hoshizora - Ponte para o Céu Estrelado	Animação,Comédia,Ficção e fantasia
 s	Hospital Marginal	Drama,Comédia
 s	Hospital New Amsterdam	Drama
 s	Hospital Playlist	Drama,Comédia
@@ -28747,7 +28697,6 @@ s	Hulk e os Agentes de S.M.A.S.H	Ação e aventura,Animação,Ficção e fantasi
 s	Hulk e os Agentes de SMASH	Ação e aventura,Animação,Ficção e fantasia
 s	Humanidade A Historia de Todos Nos	Documentário
 s	Humor Negro: A Série	Comédia
-s	Hundred	Comédia,Drama,Ação e aventura
 s	Hunter Street	Família,Ação e aventura,Comédia,Infantil,Mistério
 s	Hunter x Hunter	Ficção e fantasia,Ação e aventura,Animação,Comédia,Drama
 s	Hush	Drama
@@ -28926,7 +28875,6 @@ s	Into The Badlands	Ação e aventura,Drama,Ficção e fantasia
 s	Inu to Hasami wa Tsukaiyou	Animação,Comédia
 s	Inu x Boku SS	Animação,Comédia,Drama,Ficção e fantasia
 s	InuYasha	Animação,Ação e aventura,Ficção e fantasia
-s	Inugami-san To Nekoyama-san	Animação,Comédia,Romance
 s	Invasor Zim	Animação,Comédia,Ficção e fantasia,Família
 s	Invasor de Sonhos	Mistério
 s	Invasão	Ficção e fantasia,Drama
@@ -28942,9 +28890,7 @@ s	Investigacao Paranormal	Reality,Documentário
 s	Investigação Extraterrestre	Documentário
 s	Investigação Paralela	Documentário
 s	Investimento de Risco	Drama
-s	Invisível	Drama,Infantil,Ficção e fantasia
 s	Iosi O Espiao Arrependido	Crime,Drama
-s	Iria: Zeiram The Animation	Ação e aventura,Animação,Ficção e fantasia
 s	Irish Blood	Drama,Mistério
 s	Irma Vep	Comédia,Drama
 s	Irma ao Quadrado	Comédia,Família,Infantil,Drama
@@ -29090,7 +29036,6 @@ s	Jornada nas Estrelas: Enterprise	Ficção e fantasia,Ação e aventura,Drama
 s	Jornada nas Estrelas: Picard	Ficção e fantasia,Ação e aventura,Drama
 s	Joshi Kausei	Comédia,Animação
 s	Joshikousei no Mudazukai	Comédia,Animação
-s	Joshiraku	Animação,Comédia
 s	Josie e as Gatinhas no Espaço	Animação,Família,Infantil
 s	José Comilão	Animação,Infantil,Família
 s	Joukamachi no Dandelion	Ficção e fantasia,Animação,Comédia
@@ -29143,7 +29088,6 @@ s	Juuni Taisen	Ação e aventura,Animação
 s	Juvenile Justice	Drama,Crime
 s	Juventude Masculina	Comédia,Drama,Ação e aventura
 s	Juventude Roubada Por Dentro da Seita Universitaria	Documentário
-s	Jyuushin Enbu: Hero Tales	Animação,Ação e aventura
 s	K-ON!	Animação,Comédia
 s	KAIJU GIRL CARAMELISE	Animação,Ficção e fantasia,Comédia
 s	KAMITSUBAKI CITY UNDER CONSTRUCTION	Animação,Ficção e fantasia,Mistério
@@ -29304,13 +29248,13 @@ s	Krypto Salva o Dia	Animação,Infantil
 s	Krypton	Ação e aventura,Drama,Ficção e fantasia
 s	Ku Klux Klan Uma Historia Americana	Documentário,Guerra e política
 s	Kubanacan	Novela,Comédia,Drama
-s	Kubikiri Cycle: Aoiro Savant To Zaregototsukai	Ficção e fantasia,Animação,Mistério
 s	Kubra	Drama
 s	Kujima Why Sing When You Can Warble	Animação,Comédia,Ficção e fantasia
 s	Kuma - A Segunda Esposa	Drama,Novela
 s	Kuma Miko	Comédia,Animação
 s	Kun por Agüero	Documentário
 s	Kung Fu	Ação e aventura,Drama
+s	Kung Fu Panda: Lendas do Dragão Guerreiro	Ação e aventura,Animação,Comédia,Ficção e fantasia,Infantil
 s	Kung Fu Panda: O Cavaleiro Dragão	Animação,Ação e aventura,Comédia,Infantil,Ficção e fantasia
 s	Kunoichi Tsubaki no Mune no Uchi	Animação,Comédia
 s	Kunon the Sorcerer Can See	Animação,Ação e aventura,Ficção e fantasia
@@ -29402,9 +29346,7 @@ s	Las Bravas F.C	Comédia,Drama
 s	Las Bravas FC	Comédia,Drama
 s	Las Pelotaris	Drama
 s	Last Chance U: Basketball	Documentário
-s	Last Exile	Animação,Ação e aventura,Ficção e fantasia
 s	Last Light	Drama,Ficção e fantasia
-s	Last Period: Owarinaki Rasen no Monogatari	Ação e aventura,Animação,Ficção e fantasia,Comédia
 s	Last Train to North America	Documentário
 s	Late Night Lockup Ronda Policial	Crime,Reality,Documentário
 s	Latin Flow	Reality
@@ -29424,7 +29366,6 @@ s	Legacy: A Verdadeira História dos Lakers	Documentário
 s	Legado Corrompido	Drama
 s	Legado de Sangue	Drama
 s	Legalmente Amor	Drama,Mistério,Comédia
-s	Legend of Exorcism	Animação,Ficção e fantasia,Ação e aventura
 s	Legend of Mana -The Teardrop Crystal-	Animação,Ação e aventura,Ficção e fantasia
 s	Legend of Nine Tails Fox	Ficção e fantasia,Drama
 s	Legendary	Reality
@@ -29438,7 +29379,6 @@ s	Lei e Ordem	Crime,Drama
 s	Lei e Ordem Crimes Premeditados	Drama
 s	Lembrancas de um Amor	Drama,Comédia
 s	Lembre de Mim	Drama
-s	Lemon Angel Project	Drama
 s	Lenda Imperial	Ação e aventura
 s	Lendas do Amanha	Ação e aventura,Ficção e fantasia,Drama
 s	Lenox Hill	Documentário
@@ -29449,7 +29389,6 @@ s	Leonardo Da Vinci	Documentário
 s	Leopard Skin	Crime,Drama
 s	Les Miserables	Animação,Drama,Família
 s	Let Love	Reality
-s	Let Me Check the Walkthrough First	Animação,Comédia,Ação e aventura
 s	Let's End Our Friendship Now	Drama
 s	Let's Go Karaoke!	Drama,Animação,Comédia
 s	Let's Play	Animação,Comédia
@@ -29578,6 +29517,7 @@ s	Love To-LIE-Angle	Animação,Comédia
 s	Love Touch	Drama
 s	Love Track	Drama
 s	Love Tyrant	Animação,Comédia
+s	Love Unseen Beneath the Clear Night Sky	Animação,Drama
 s	Love You Teacher	Drama,Comédia
 s	Love in the Moonlight	Comédia,Drama,Guerra e política
 s	Love is Like a Cat	Drama,Comédia
@@ -29814,6 +29754,7 @@ s	Marvel Studios - Avante	Documentário
 s	Marvel Zombies	Ficção e fantasia,Animação,Ação e aventura
 s	Marvel Zumbis	Ficção e fantasia,Animação,Ação e aventura
 s	Marvel's Cloak & Dagger	Ação e aventura,Drama,Ficção e fantasia
+s	Marvel's M.O.D.O.K.	Comédia,Animação,Ação e aventura,Ficção e fantasia
 s	Marvel: Homem-Aranha	Animação,Ficção e fantasia,Comédia,Família
 s	Mary & George	Drama,Guerra e política
 s	Mary & Mike	Drama,Crime
@@ -29826,7 +29767,6 @@ s	Masamune-kun no Revenge	Animação,Comédia,Drama
 s	Masamune-kun's Revenge	Animação,Comédia,Drama
 s	Mascotes Extraordinários	Documentário,Reality
 s	Masha e o Urso	Animação,Família,Infantil,Comédia
-s	Mashiroiro Symphony: The Color Of Lovers	Animação,Drama
 s	Mashle: Magia e Músculos	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Mask Girl	Drama,Comédia,Mistério,Crime
 s	Masou Gakuen HxH	Animação,Ação e aventura,Comédia,Ficção e fantasia
@@ -29887,7 +29827,6 @@ s	Mebius Dust	Animação,Ação e aventura,Ficção e fantasia
 s	Mecânica em Família	Reality
 s	Med Cezir Vidas Alheias	Comédia,Drama,Família
 s	Medabots	Ficção e fantasia,Animação,Ação e aventura,Comédia,Infantil
-s	Medaka Box	Animação,Comédia
 s	Medaka Kuroiwa is Impervious to My Charms	Animação,Comédia
 s	Medalha de Honra	Documentário
 s	Medalist	Animação,Drama
@@ -30139,7 +30078,6 @@ s	Mistério no Mar	Drama,Mistério,Ficção e fantasia
 s	Mistérios do Detetive Murdoch	Mistério,Drama
 s	Mistérios sem Solução	Mistério,Drama,Crime
 s	Mito e Magnata: John Delorean	Documentário
-s	Mitsudomoe	Animação,Comédia
 s	Mix Tape	Drama
 s	Mnemosyne	Animação,Mistério,Drama,Ficção e fantasia,Ação e aventura
 s	Mo	Comédia,Drama
@@ -30169,7 +30107,6 @@ s	Money Flower	Drama
 s	Monk: Um Detetive Diferente	Drama,Comédia,Crime,Mistério
 s	Monkey Wrench	Animação,Ficção e fantasia,Ação e aventura,Comédia
 s	Monogatari	Animação,Comédia,Drama,Mistério
-s	Monogatari Series: Off & Monster Season	Comédia,Mistério
 s	Mononoke	Animação,Mistério,Ficção e fantasia
 s	Monsieur Spade	Drama,Mistério,Crime
 s	Monster	Animação,Drama,Mistério,Crime
@@ -30206,7 +30143,6 @@ s	Morde & Assopra	Novela,Drama,Comédia
 s	Morde e Assopra	Novela,Drama,Comédia
 s	More than a Married Couple, but Not Lovers	Animação,Comédia,Drama
 s	Moria	Drama,Comédia
-s	Morita-san Wa Mukuchi	Animação,Comédia
 s	Morko e Mali	Infantil,Família,Ação e aventura
 s	Morphle	Animação,Infantil
 s	Morphle e os Bichinhos Mágicos	Infantil,Animação,Ficção e fantasia
@@ -30234,7 +30170,6 @@ s	Mouse	Infantil,Animação,Comédia,Ficção e fantasia,Ação e aventura
 s	Move	Comédia,Família
 s	Movidos a Diesel	Reality
 s	Movimento Mágico	Comédia,Drama
-s	Moyashimon	Animação,Comédia,Drama
 s	Mr Heart	Drama
 s	Mr Inbetween	Crime,Drama
 s	Mr McMahon	Documentário
@@ -30312,7 +30247,6 @@ s	My Bias, My Boss	Comédia,Drama
 s	My Boss	Comédia,Drama
 s	My Brilliant Friend	Drama
 s	My Daemon	Animação,Ficção e fantasia,Ação e aventura,Drama
-s	My Dress Up Darling	Animação,Comédia,Drama
 s	My Friends Little Sister Has It In for Me	Animação,Comédia
 s	My Gift Lvl 9999 Unlimited Gacha	Animação,Ação e aventura,Ficção e fantasia,Drama
 s	My Happy End	Mistério,Drama
@@ -30347,7 +30281,6 @@ s	My Tutor, My Love	Drama
 s	My Wife Has No Emotion	Animação,Ficção e fantasia,Drama,Comédia
 s	Mya Go	Família,Infantil
 s	Myriad Colors Phantom World	Animação,Ficção e fantasia,Comédia
-s	Myself; Yourself	Animação,Drama
 s	Mysterious Disappearances	Animação,Mistério,Ficção e fantasia
 s	Mystic Nine	Drama,Ação e aventura
 s	Mystic Pop Up Bar	Drama,Ficção e fantasia,Comédia
@@ -30500,7 +30433,6 @@ s	NieR:Automata Ver1.1a	Animação,Ação e aventura,Ficção e fantasia
 s	Night Head 2041	Animação,Ação e aventura,Ficção e fantasia
 s	Night Sky	Animação,Drama
 s	Night Stalker: Tortura e Terror	Documentário,Crime,Mistério
-s	Night Warriors: Darkstalkers Revenge	Animação,Ação e aventura,Ficção e fantasia
 s	Nightflyers	Ficção e fantasia
 s	Nightsleeper	Drama,Crime
 s	Nijiyon Animation	Animação,Comédia
@@ -30703,7 +30635,6 @@ s	O Caminho para o Sucesso	Drama
 s	O Cangaceiro do Futuro	Comédia,Drama
 s	O Canto Livre de Nara Leão	Documentário
 s	O Canto da Sereia	Drama,Crime,Mistério
-s	O Canto do Pássaro / A Escolhida	Família,Drama
 s	O Caozinho Esperto	Animação,Comédia,Infantil
 s	O Capelão do Aeroporto	Drama
 s	O Cartel da Marmita	Crime,Drama
@@ -30868,6 +30799,7 @@ s	O Império dos Chimpanzés	Documentário
 s	O Incidente de Darwin	Animação,Ficção e fantasia
 s	O Incrivel Circo Digital	Animação,Comédia,Drama,Ficção e fantasia
 s	O Incrível Hulk	Ficção e fantasia,Ação e aventura,Drama
+s	O Incrível Mundo de Gumball	Animação,Família,Ficção e fantasia,Comédia
 s	O Indice do Medo	Drama
 s	O Indomavel Amor Sem Limites	Drama,Crime,Novela
 s	O Inferno São as Pessoas	Mistério,Crime,Drama
@@ -30953,6 +30885,7 @@ s	O Mundo Ainda e Belo	Animação,Comédia,Ficção e fantasia,Ação e aventura
 s	O Mundo E Um Teatro	Drama
 s	O Mundo Maravilhosamente Estranho de Gumball	Animação,Família,Comédia,Ficção e fantasia
 s	O Mundo Maravilhoso	Animação,Família,Infantil
+s	O Mundo Maravilhoso de Mickey Mouse	Animação,Família,Infantil
 s	O Mundo Perdido	Ação e aventura,Drama
 s	O Mundo Segundo Jeff Goldblum	Documentário
 s	O Mundo Sem Filtro de Any Malu	Animação,Comédia
@@ -31266,7 +31199,6 @@ s	One Dollar	Mistério,Drama
 s	One Piece	Ação e aventura,Ficção e fantasia
 s	One Piece Log Fish Man Island Saga	Ação e aventura,Comédia,Animação
 s	One Punch Man	Animação,Comédia,Ação e aventura,Ficção e fantasia
-s	One Room	Animação,Comédia
 s	One Room Angel	Drama,Ficção e fantasia
 s	One Strange Rock	Documentário
 s	One the Woman	Comédia,Drama
@@ -31729,6 +31661,7 @@ s	Phantom in the Twilight	Animação,Ação e aventura,Mistério,Ficção e fant
 s	Phantom: Requiem for the Phantom	Animação,Ação e aventura
 s	Phi Brain: Kami no Puzzle	Animação,Comédia
 s	Philip K Dicks Electric Dreams	Ficção e fantasia,Drama
+s	Phineas e Ferb	Animação,Comédia,Família,Ficção e fantasia
 s	Phoenix Rising: Renascendo das Cinzas	Documentário
 s	Photo Kano	Animação,Comédia
 s	Photographer	Documentário
@@ -31801,7 +31734,6 @@ s	Poderosos Chefoes As Cinco Familias da Mafia	Crime,Documentário
 s	Poesia que Transforma	Documentário
 s	Pokemon	Animação,Ação e aventura,Ficção e fantasia
 s	Poker Face	Crime,Mistério
-s	Polar Bear Cafe	Animação,Comédia
 s	Polaris Conspiracao Politica	Drama,Mistério
 s	Poldark: Herói de Guerra	Drama
 s	Poliana Moça	Novela,Ação e aventura,Família,Drama
@@ -31820,7 +31752,6 @@ s	Ponto de Virada: 11/9 e a Guerra contra o Terror	Documentário,Guerra e polít
 s	Pop Culture Jeopardy	Reality
 s	Pop Star Academy: KATSEYE	Documentário
 s	Popeye e Filho	Animação,Infantil
-s	Popolocrois Monogatari	Animação,Ficção e fantasia,Ação e aventura
 s	Poppa's House	Comédia
 s	Popular Serizawa Acts Weird Around Me	Drama
 s	Poputepipikku	Animação,Comédia
@@ -31880,7 +31811,6 @@ s	Prefiro a Morte	Ação e aventura,Comédia
 s	Presas na Bolivia	Drama,Crime
 s	Presente de Amor - Regalo de Amor	Drama,Família,Comédia,Novela
 s	Presença de Anita	Drama
-s	Presidente	Drama
 s	Presidente Curtis	Animação,Comédia
 s	Presidente por Acidente	Comédia
 s	Pretendente Surpresa	Comédia,Drama
@@ -31907,7 +31837,6 @@ s	Prince of Stride: Alternative	Animação
 s	Princesa e General: A Jornada da Heroína	Drama,Novela
 s	Princesas da Prisao	Drama,Comédia
 s	Princesinha Sofia	Família,Animação,Infantil
-s	Princess Charming	Drama,Família
 s	Princess Lover!	Animação,Comédia,Drama
 s	Princess Principal	Animação,Ação e aventura,Mistério,Drama
 s	Prisao de Mentiras	Família,Crime,Drama
@@ -32104,7 +32033,6 @@ s	Ragna Crimson	Animação,Ação e aventura,Ficção e fantasia
 s	Ragnarok	Ficção e fantasia,Drama,Mistério
 s	Ragnarok The Animation	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	Rah-E-Junoon	Drama
-s	Rail Romanesque	Animação,Comédia
 s	Rain Dogs	Drama,Comédia
 s	Rainbow High	Infantil,Animação,Drama,Família
 s	Rainbow: Nisha Rokubou No Shichinin	Animação,Drama,Crime
@@ -32134,11 +32062,9 @@ s	Rancho Dutton	Faroeste,Drama
 s	Random Acts of Flyness	Comédia,Ficção e fantasia,Documentário
 s	Ranking of Kings: Baú do Tesouro da Coragem	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Ranma ½	Comédia,Ação e aventura,Animação,Ficção e fantasia
-s	Ranma1 2	Animação,Ação e aventura,Comédia
 s	Ransom	Crime,Drama
 s	Ransom Canyon	Drama,Faroeste
 s	RapCaviar: Os Famosos do Rap	Documentário
-s	Rascal Does Not Dream of Bunny Girl Senpai	Animação,Comédia,Drama
 s	Rastro Perdido	Ação e aventura,Drama,Faroeste
 s	Ratched	Mistério,Drama,Crime
 s	Ratinho Sem Filtro	Documentário
@@ -32151,6 +32077,7 @@ s	Raymond e Companhia	Comédia
 s	Razão e Sensibilidade	Drama
 s	Re Monster	Animação,Ação e aventura,Ficção e fantasia
 s	Re:CREATORS	Animação,Mistério,Ação e aventura,Ficção e fantasia
+s	Re:ZERO -Starting Life in Another World-	Animação,Mistério,Ação e aventura,Ficção e fantasia
 s	Reabilitacao Canina	Documentário,Reality
 s	Reacher	Ação e aventura,Crime
 s	Real Madrid Ate o Fim	Documentário
@@ -32174,7 +32101,7 @@ s	Recomeço	Drama
 s	Recomeço em Família	Reality
 s	Recommendations from Mr. Iwamoto	Animação,Mistério,Ficção e fantasia
 s	Record of Grancrest War	Animação,Ação e aventura,Ficção e fantasia,Guerra e política
-s	Recorder To Randoseru	Animação,Família,Comédia
+s	Record of Ragnarok	Ação e aventura,Animação,Ficção e fantasia
 s	Recovery of an MMO Junkie	Ação e aventura,Animação,Comédia,Drama
 s	Recruta	Drama,Crime,Ação e aventura
 s	Recursos Humanos	Animação,Comédia
@@ -32342,7 +32269,6 @@ s	Rocketeer	Animação,Comédia,Ação e aventura,Família,Infantil
 s	Roda de Fogo	Novela,Drama
 s	Rodeios Implacáveis	Reality,Documentário
 s	Rojst	Drama,Crime,Mistério
-s	Rokuhoudou Yotsuiro Biyori	Comédia,Drama,Animação
 s	Roller Coaster	Drama
 s	Rolling Kitchen Brasil	Reality
 s	Roma	Ação e aventura,Drama
@@ -32353,7 +32279,6 @@ s	Romantic Killer	Animação,Comédia
 s	Romanticos Anonimos	Comédia,Drama
 s	Romario O Cara	Documentário
 s	Romelia War Chronicle	Animação,Ação e aventura,Ficção e fantasia
-s	Romeo no Aoi Sora	Animação,Ação e aventura,Drama
 s	Romeo x Julieta	Ação e aventura,Animação,Drama,Ficção e fantasia
 s	Romina Poderosa	Drama,Novela
 s	Romulus	Drama,Ação e aventura
@@ -32483,8 +32408,6 @@ s	Sailor Moon	Ação e aventura,Animação,Comédia,Ficção e fantasia,Infantil
 s	Saint Love Survivors	Drama
 s	Saint X	Crime,Drama,Mistério
 s	Saints & Strangers	Drama,Ação e aventura
-s	Saiyuki	Animação,Ação e aventura,Drama,Comédia
-s	Saiyuki Reload: Burial	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Sakugan	Animação,Ação e aventura,Ficção e fantasia
 s	Sakuna: Of Rice and Ruin	Animação,Ação e aventura,Ficção e fantasia
 s	Sakura Quest	Animação,Comédia,Drama
@@ -32549,7 +32472,6 @@ s	Saturdays: Pista de Patinação	Comédia
 s	Saudade de Voce	Mistério,Drama,Crime
 s	Saving 80,000 Gold in Another World for My Retirement	Animação,Ação e aventura,Ficção e fantasia
 s	Say \"I love you.\"	Animação,Drama
-s	Sayonara Zetsubou Sensei	Animação,Comédia
 s	Saúdem Todos o Rei Julien	Família,Animação,Comédia,Infantil
 s	Scandal	Drama
 s	Scandal Love	Drama
@@ -32561,7 +32483,6 @@ s	School Days	Animação,Drama
 s	School of Chocolate	Reality
 s	Schooled	Comédia
 s	Science Fell in Love, So I Tried to Prove it	Animação,Comédia
-s	Scooby Doo Cade Voce	Animação,Mistério,Comédia,Família,Ficção e fantasia
 s	Scooby-Doo e Convidados	Animação,Comédia,Mistério,Família
 s	Scooby-Doo e Scooby-Loo	Animação,Mistério,Comédia,Família,Infantil
 s	Scooby-Doo! Mistério S/A	Animação,Mistério,Família,Ficção e fantasia
@@ -32643,7 +32564,6 @@ s	Seis Punhos	Ação e aventura,Animação,Ficção e fantasia
 s	Seis Zeros	Comédia,Drama
 s	Seis irmaos Esquizofrenicos	Documentário
 s	Seita Perigosa	Documentário
-s	Seitokai no Ichizon	Animação,Comédia
 s	Seja Meu Anjo	Comédia,Ficção e fantasia
 s	Seja Meu Superastro	Drama
 s	Seja Minha Princesa	Drama,Ficção e fantasia
@@ -32781,7 +32701,6 @@ s	Shining Tears X Wind	Animação,Ação e aventura
 s	Shining Vale	Comédia,Drama
 s	Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei	Animação,Comédia,Ficção e fantasia
 s	Shinkon Gattai Godannar	Animação,Comédia,Ficção e fantasia
-s	Shinkyoku Soukai Polyphonica	Animação,Ação e aventura,Ficção e fantasia
 s	Shinmai Renkinjutsushi no Tenpo Keiei	Animação,Comédia,Ficção e fantasia
 s	Shinobi no Ittoki	Animação,Ação e aventura
 s	Shinrei Tantei Yakumo	Animação,Mistério,Ação e aventura,Drama
@@ -32917,7 +32836,6 @@ s	Sol Yanım - Meu Lado Esquerdo	Drama
 s	Sol da Minha Vida	Família,Drama
 s	Sol de Inverno	Drama,Comédia,Crime
 s	Sol do Mestre	Ficção e fantasia,Comédia,Drama
-s	Sola	Animação,Drama,Ficção e fantasia
 s	Solar Opposites	Comédia,Animação,Ficção e fantasia
 s	Solo Camping for Two	Animação,Comédia
 s	Solo Leveling	Animação,Ação e aventura,Ficção e fantasia
@@ -32985,7 +32903,6 @@ s	South Side	Comédia
 s	Southland Cidade do Crime	Drama
 s	Soy Georgina	Reality
 s	Sozinhos Habilidades de Sobrevivencia	Reality
-s	Space Battleship Yamato 2199	Ação e aventura,Animação,Drama,Ficção e fantasia,Guerra e política
 s	Space Dandy	Animação,Comédia,Ficção e fantasia,Ação e aventura
 s	Space Force	Comédia,Drama
 s	Space Ghost	Animação,Ação e aventura
@@ -33010,7 +32927,6 @@ s	Spinners Vivendo no Limite	Crime,Drama
 s	Spinning Out	Drama
 s	Spiral Suiri No Kizuna	Animação,Mistério
 s	Spirit Cavalgando Livre	Animação,Ação e aventura,Família,Faroeste
-s	Spirit Realm - Ling Yu	Animação,Ação e aventura,Ficção e fantasia
 s	Spooksville	Comédia,Família
 s	Spy City	Drama,Guerra e política
 s	Spy in the Wild	Documentário
@@ -33074,7 +32990,6 @@ s	Sterling Point	Mistério,Drama
 s	Steven Universo	Animação,Ação e aventura,Comédia,Ficção e fantasia,Família
 s	Steven Universo: Futuro	Animação,Ação e aventura,Comédia,Ficção e fantasia,Família
 s	Stick	Comédia,Drama
-s	Stop!! Hibari-kun!	Animação,Comédia
 s	Stories Da Mansao	Comédia,Reality
 s	StoryBots: Hora da Resposta	Infantil,Animação
 s	Strange Angel	Ficção e fantasia,Drama,Mistério
@@ -33087,7 +33002,6 @@ s	Street Food: América Latina	Documentário
 s	Street Food: Ásia	Documentário
 s	Strike	Crime,Drama,Mistério
 s	Strike Back	Drama,Ação e aventura
-s	Strike Witches	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Strike the Blood	Animação,Ação e aventura,Ficção e fantasia
 s	Strip Law	Animação,Comédia,Drama
 s	Strobe Edge	Drama
@@ -33118,7 +33032,6 @@ s	Sugar	Drama,Mistério
 s	Sugar Apple Fairy Tale	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	Sugar Rush	Reality
 s	Sugar Sugar Rune	Animação,Comédia,Ficção e fantasia
-s	Suite Precure♪	Animação,Ação e aventura,Comédia,Infantil,Família,Ficção e fantasia
 s	Suits - Homens de Terno	Drama
 s	Suits LA	Drama
 s	Sullivan e Massadas: Retratos e Canções	Documentário
@@ -33184,7 +33097,6 @@ s	Sutura	Drama
 s	Sutura A Vida por um Fio	Drama
 s	Suzhal Vortice	Crime,Mistério
 s	Suzuka	Animação,Comédia,Drama
-s	Suzumiya Haruhi-chan no Yuuutsu	Animação,Comédia
 s	Swagger	Drama
 s	Swat Kats: O Esquadrão Radical	Animação,Ação e aventura,Família,Infantil
 s	Sweet Home	Ficção e fantasia,Ação e aventura
@@ -33228,15 +33140,12 @@ s	Tal Mãe, Tal Filha	Comédia,Drama
 s	Talamasca de Anne Rice A Ordem Secreta	Ficção e fantasia
 s	Tales by Light	Documentário
 s	Tales of Wedding Rings	Animação,Ficção e fantasia,Drama,Ação e aventura
-s	Tales of Zestiria the X	Animação,Ficção e fantasia,Ação e aventura
 s	Tales of the Walking Dead	Drama,Ação e aventura,Ficção e fantasia
 s	Talk Queens	Reality,Talk show
 s	Talking Tom and Friends	Animação,Comédia,Infantil
 s	Talvez Amanha	Comédia,Drama
 s	Tamako Market	Animação,Comédia
-s	Tamayura: Hitotose	Comédia,Animação
 s	Tamon's B-Side	Animação,Comédia
-s	Tantei Opera Milky Holmes	Animação,Mistério
 s	Tapas & Beijos	Comédia
 s	Tara Duncan	Animação,Ficção e fantasia,Família,Comédia
 s	Tarcísio & Glória	Drama
@@ -33269,7 +33178,6 @@ s	Tearmoon Empire	Animação,Comédia,Drama,Ficção e fantasia
 s	Teatro dos Contos de Fada	Drama,Família,Ficção e fantasia,Comédia
 s	Ted A Serie	Comédia
 s	Ted Lasso	Drama,Comédia
-s	Teekyuu	Animação,Comédia
 s	Teen Wolf	Ficção e fantasia,Drama,Comédia
 s	Teen Wolf - Lobo Adolescente	Ficção e fantasia,Drama,Comédia
 s	Teenage Euthanasia	Comédia,Animação
@@ -33294,7 +33202,6 @@ s	TenPuru	Animação,Comédia
 s	Tenchi Muyo!	Animação,Comédia,Ficção e fantasia
 s	Tenchi Muyo! Ryo-Ohki	Animação,Ficção e fantasia
 s	Tenchi Muyo! War on Geminar	Animação,Ação e aventura,Ficção e fantasia,Comédia,Drama,Guerra e política
-s	Tenchi Souzou Design-bu	Animação,Comédia,Ficção e fantasia
 s	Tengoku-Daimakyo: Ilusão Celestial	Animação,Mistério,Ação e aventura,Ficção e fantasia
 s	Tenho Que Morrer Todas as Noites	Drama
 s	Tenku Shinpan Sem Saida	Animação,Mistério,Ação e aventura
@@ -33336,7 +33243,6 @@ s	Teto Para Dois	Drama,Comédia
 s	Tex Mex Motors	Reality
 s	Texas	Ficção e fantasia,Drama
 s	Texas Metal	Reality,Documentário
-s	Texhnolyze	Animação,Drama,Ficção e fantasia
 s	Thame e Po Bate Coracao	Drama
 s	Thank You Goodnight A Historia de Bon Jovi	Documentário
 s	TharnType The Series	Drama
@@ -33385,7 +33291,6 @@ s	The Boys	Ficção e fantasia,Ação e aventura
 s	The Boys Apresenta: Diabólicos	Animação,Ação e aventura
 s	The Brilliant Healer's New Life in the Shadows	Ação e aventura,Animação,Comédia,Ficção e fantasia
 s	The Brilliant Healers New Life in the Shadows	Ação e aventura,Animação,Comédia,Ficção e fantasia
-s	The Café Terraceand Its Goddesses	Animação,Comédia
 s	The Calling	Drama,Crime
 s	The Captain	Documentário
 s	The Capture	Crime,Drama,Mistério
@@ -33432,7 +33337,6 @@ s	The Demon Kings Daughter is Too Kind	Animação,Comédia,Ficção e fantasia
 s	The Demon Prince of Momochi House	Animação,Ação e aventura,Ficção e fantasia
 s	The Deuce	Drama,Crime
 s	The Devil Punisher	Ficção e fantasia
-s	The Devil Ring	Animação,Ficção e fantasia
 s	The Disappearance	Mistério,Drama
 s	The Double Game	Drama
 s	The Dreamer Memorias de Uma Escritora	Drama
@@ -33596,7 +33500,6 @@ s	The Missing Piece	Drama
 s	The Morning Show	Drama
 s	The Morose Mononokean	Animação,Comédia,Ficção e fantasia
 s	The Mosquito Coast	Drama,Ação e aventura
-s	The Most Heretical Last Boss Queen: From Villainess to Savior	Animação,Ficção e fantasia
 s	The Nanny	Comédia,Família
 s	The Nevers	Ficção e fantasia,Drama
 s	The New Employee	Drama
@@ -33763,6 +33666,7 @@ s	ThunderCats	Animação,Ficção e fantasia,Ação e aventura,Infantil
 s	ThunderCats Roar	Infantil,Animação,Comédia,Ação e aventura
 s	Ti Ti Ti	Novela
 s	Tico e Teco Vida no Parque	Animação,Infantil,Comédia,Ação e aventura
+s	Tico e Teco: Defensores da Lei	Animação,Comédia,Infantil,Família,Ação e aventura
 s	Tidelands	Drama,Crime,Ficção e fantasia
 s	Tieta	Novela,Drama,Comédia
 s	Tigue E Lupa: Os Detetives	Infantil,Animação
@@ -33773,7 +33677,6 @@ s	Time Patrol Bon	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	Time Rescue	Documentário
 s	Time The Series	Comédia,Drama
 s	Time Zenko, Vai!	Animação,Ação e aventura,Infantil
-s	Time to love : la roue de l'amour	Reality
 s	Timeless Guardioes da Historia	Drama,Ação e aventura,Ficção e fantasia
 s	Tinder Apresenta MTV Beija Sapo	Reality
 s	Tinted With You	Drama,Ficção e fantasia
@@ -33936,10 +33839,8 @@ s	Três Dias que Mudaram Tudo	Drama,Crime
 s	Três Metros Acima do Céu	Drama,Comédia
 s	Três Vidas	Drama,Mistério
 s	Três é Demais	Comédia,Família
-s	Tsubasa Chronicle	Animação,Drama,Ficção e fantasia
 s	Tsugu Tsugumomo	Animação,Comédia,Drama,Ação e aventura,Ficção e fantasia
 s	Tsukigakirei	Animação,Drama
-s	Tsukiuta: The Animation	Animação
 s	Tsukumogami Kashimasu	Animação,Comédia,Mistério,Ficção e fantasia
 s	TsumaSho	Animação,Comédia,Drama
 s	Tsunami A Furia da Natureza	Drama
@@ -34001,8 +33902,6 @@ s	UFO Princess Valkyrie	Animação,Comédia,Ficção e fantasia
 s	UNDER NINJA	Animação,Drama,Comédia,Ação e aventura
 s	Uchi no Maid ga Uzasugiru!	Animação,Comédia,Ação e aventura
 s	Uchi no Shishou wa Shippo ga Nai	Animação,Comédia,Ficção e fantasia
-s	Uchouten Kazoku	Animação,Comédia,Drama,Ficção e fantasia
-s	Uchuu Senkan Tiramisu	Animação,Ficção e fantasia,Comédia
 s	Udon no Kuni no Kiniro Kemari	Animação
 s	Ueno san wa Bukiyou	Animação,Comédia
 s	Uga-Uga	Novela,Comédia
@@ -34014,7 +33913,6 @@ s	Ultimas Ferias	Drama,Crime
 s	Ultimate Beastmaster Brasil	Reality
 s	Ultimo Ato	Drama,Crime
 s	Ultimo Dia dos Nazis	Crime,Guerra e política
-s	Ultra Maniac	Animação
 s	Ultra Violeta e o Escorpião Negro	Comédia,Ação e aventura
 s	Ultraman	Animação,Ação e aventura,Ficção e fantasia,Infantil
 s	Ultraman Blazar	Ação e aventura,Drama,Ficção e fantasia,Comédia
@@ -34189,7 +34087,6 @@ s	Usagi Drop	Animação,Drama
 s	Use Sua Voz	Drama,Comédia
 s	Ushinawareta Mirai Wo Motomete	Animação,Comédia,Drama,Ficção e fantasia
 s	Ushio e Tora	Ação e aventura,Animação,Comédia,Drama
-s	Uta No Prince-Sama	Animação,Comédia
 s	Utawarerumono	Animação,Ação e aventura,Ficção e fantasia
 s	Utopia	Mistério,Drama,Comédia,Ficção e fantasia,Ação e aventura
 s	Uzaki-chan wa Asobitai!	Animação,Comédia
@@ -34207,7 +34104,6 @@ s	Vai Que Cola	Comédia
 s	Vai na Fé	Novela,Comédia
 s	Vai!	Comédia
 s	Vai, Cachorro. Vai!	Animação,Infantil
-s	Vai,Cara de Lula!	Drama
 s	Vale Tudo	Novela,Drama
 s	Vale Tudo com Tim Maia	Documentário
 s	Vale dos Esquecidos	Mistério,Drama
@@ -34433,7 +34329,6 @@ s	We Are	Drama
 s	We Are Who We Are	Drama
 s	We Call It Imagineering	Documentário
 s	We Hunt Together	Crime,Drama
-s	We Never Learn: BOKUBEN	Animação,Comédia
 s	WeCrashed	Drama
 s	Weak Hero Class 1	Ação e aventura,Drama
 s	Wedding Peach	Animação,Ficção e fantasia,Comédia,Ação e aventura,Drama,Infantil,Família
@@ -34487,7 +34382,6 @@ s	With You Our Love Will Make It Through	Animação,Drama,Ficção e fantasia
 s	With You and the Rain	Animação,Comédia,Ficção e fantasia
 s	Without Sin Sem Pecado	Crime,Drama
 s	Wizard Barristers: Benmashi Cecil	Animação,Comédia,Ação e aventura
-s	Wo De Ni Tian Shen Qi	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Woke	Comédia
 s	Wolf	Ficção e fantasia,Drama,Comédia
 s	Wolf Creek	Ação e aventura,Crime,Drama
@@ -34501,9 +34395,7 @@ s	WondLa A Trilogia	Animação,Ficção e fantasia,Família
 s	Wonka: O Bilhete Dourado	Reality
 s	Work Later Drink Now	Drama,Comédia
 s	Workin Moms	Comédia
-s	Working	Comédia
 s	World Dice Tour	Reality,Documentário
-s	World Trigger	Animação,Ação e aventura,Ficção e fantasia
 s	World of Immortals	Animação,Ficção e fantasia
 s	Wreck	Comédia,Mistério
 s	Wrecked	Comédia,Ação e aventura,Mistério
@@ -34549,7 +34441,6 @@ s	Yellowstone Selvagem	Documentário
 s	Yin Yang Yo!	Animação,Família,Ação e aventura,Ficção e fantasia,Comédia,Infantil
 s	Yo Gabba Gabbalandia	Infantil,Família
 s	Yo Kai Watch	Animação,Comédia,Infantil,Mistério,Ficção e fantasia,Ação e aventura
-s	Yojouhan Shinwa Taikei	Animação,Comédia,Drama,Ficção e fantasia
 s	Yolanthe	Reality
 s	Yonder	Animação,Família,Comédia,Ficção e fantasia
 s	Yong Pal	Drama,Ação e aventura
@@ -34583,7 +34474,6 @@ s	Your Summer,My Storm (2026)	Drama,Família,Comédia
 s	Youre Killing Me	Crime
 s	Youth	Comédia,Drama
 s	Youth Water Polo	Drama
-s	Yowamushi Pedal	Comédia,Animação,Drama
 s	Yu Yu Hakusho	Animação,Ação e aventura,Ficção e fantasia
 s	Yu-Gi-Oh!	Animação,Ação e aventura
 s	YuGiOh	Animação,Ação e aventura
@@ -35788,6 +35678,7 @@ f	A Princesa da Yakuza (2021)	Ação,Suspense
 f	A Princesa e a Plebeia (2018)	Romance,Comédia
 f	A Princesa e a Plebeia: As Vilãs Também Amam	Romance,Comédia
 f	A Princesa e o Dragao	Animação,Fantasia
+f	A Princesa e o Duende	Aventura,Animação,Família,Fantasia
 f	A Princesa e o Feitiço do Tempo	Família,Fantasia,Comédia
 f	A Princesa e o Sapo	Animação,Romance,Fantasia,Família
 f	A Princesinha (1995)	Drama,Família,Fantasia
@@ -35995,6 +35886,7 @@ f	A Vida de Tove Jansson	Drama
 f	A Vida do Livreiro AJ Fikry (2022)	Drama,Comédia,Romance
 f	A Vida dos Leopardos (2024)	Documentário
 f	A Vida em Mim (2019)	Documentário
+f	A Vida em Preto e Branco	Fantasia,Comédia,Drama
 f	A Vida em Si (2018)	Drama,Romance
 f	A Vida no Skate com Leo Baker	Documentário
 f	A Vida por Philomena Cunk (2024)	Comédia,TV
@@ -37513,6 +37405,7 @@ f	Bibi,A Bruxinha 2 - O Segredo Das Corujas Azuis	Aventura,Comédia,Família,Fan
 f	Bicho de Sete Cabeças (2001)	Drama
 f	Big Bad	Ação,Comédia,Crime,Drama
 f	Big Bang	Aventura,Animação,Família,Comédia,Ficção científica
+f	Big Buck Bunny	Animação,Comédia,Família
 f	Big Jato	Drama
 f	Big Kill - A Cidade do Medo	Ação,Faroeste
 f	Big Lies In a Small Town	Suspense,TV
@@ -37701,6 +37594,7 @@ f	Brasil 2002: Os Bastidores do Penta	Documentário
 f	Brasil S/A	Documentário
 f	Brasilia 18 (2006)	Drama
 f	Bratz: Babyz - The Movie	Família,Animação,Música
+f	Brave Gunjyo Senki / ブレイブ -群青戦記- (NÃO PT-BR)	Ação,História,Mistério,Fantasia
 f	Bravura Indomita (1969)	Faroeste
 f	Brazil: O Filme	Comédia,Ficção científica
 f	Braço De Ouro (2021)	Comédia
@@ -38331,6 +38225,7 @@ f	Como Conseguir Um Homem em 12 Dias	TV,Comédia,Drama,Romance
 f	Como Cães de Guerra	Drama
 f	Como Cães e Gatos	Família,Comédia,Ação,Aventura,Fantasia
 f	Como Cães e Gatos 3: Peludos Unidos!	Família,Comédia,Ação
+f	Como Eliminar seu Chefe	Comédia
 f	Como Enlouquecer seu Chefe	Comédia
 f	Como Estrelas na Terra (2007)	Drama
 f	Como Eu Era Antes de Voce	Drama,Romance
@@ -38423,6 +38318,7 @@ f	Confronto no Deserto (2019)	Ação,Suspense
 f	Confronto no Pavilhão 99 (2017)	Ação,Crime,Suspense
 f	Congo	Ação,Aventura,Ficção científica
 f	Conhecendo o Sr. Natal	TV,Comédia,Drama,Romance
+f	Conheça os Feebles	Comédia,Música,Fantasia
 f	Conheça os Pickles: Nos Bastidores de "Ganhar ou Perder"	Documentário
 f	Conquista	Faroeste
 f	Conquistas Perigosas (2013)	Ação,Comédia,Drama,Romance,Suspense
@@ -39249,6 +39145,7 @@ f	Doce Virginia	Drama,Suspense
 f	Doce armadilha: uma história real de amor,mentiras e o FBI	Documentário
 f	Doce e Sangrento (2023)	Ação,Crime,Suspense
 f	Doctor Who: O Doutor,a Viúva e o Guarda-Roupa	Ficção científica,Drama
+f	Documentário	Comédia
 f	Doente de Amor (2006)	Drama
 f	Dog - A Aventura de Uma Vida	Drama,Comédia
 f	Dog Soldiers - Cães de Caça (2002)	Terror,Ação,Suspense
@@ -40168,6 +40065,7 @@ f	Fatale (2020)	Drama,Suspense
 f	Fathom - Nas Profundezas (2021)	Documentário
 f	Fatos Estranhos (2009)	Terror,Suspense
 f	Fauci (2021)	Documentário
+f	Fausto	Fantasia
 f	Favela Gay	Documentário
 f	Faye (2024)	Documentário,TV
 f	Fazendo Meu Filme	Romance,Comédia
@@ -40547,6 +40445,7 @@ f	Garçonete (2007)	Drama,Comédia,Romance
 f	Gasoline Rainbow (2024)	Drama,Aventura
 f	Gasparzinho,o Fantasminha Camarada	Fantasia,Comédia,Família
 f	Gasparzinho,o Fantasminha Camarada (1995)	Fantasia,Comédia,Família
+f	Gata em Fuga	Ação,Comédia,Suspense
 f	Gatao: Tal Pai,Tal Filho	Crime,Ação
 f	Gatilheiro	Suspense,Ação
 f	Gatinhas Espertas (1987)	Drama,Comédia
@@ -40805,6 +40704,7 @@ f	Hannah Montana: O Filme (2009)	Comédia,Drama,Família,Música,Romance
 f	Hannibal (2001)	Crime,Drama,Suspense
 f	Hannibal - A Origem do Mal	Crime,Suspense,Terror
 f	Hans Zimmer Ao Vivo em Praga	Música
+f	Hanyo,a Empregada	Crime,Drama
 f	Happier Than Ever: Uma Carta de Amor para Los Angeles (2021)	Música,Documentário
 f	Happy Feet - O Pinguim	Animação,Comédia,Família
 f	Happy Feet 2 - O Pinguim	Animação,Comédia,Família
@@ -40833,6 +40733,7 @@ f	He Went That Way	Suspense,Crime,Drama
 f	Heart Eyes	Terror,Romance,Comédia
 f	Heartstopper Para Sempre	Romance,Drama
 f	Heavy Armor 4 Monster Attack	Ação,Ficção científica,Aventura
+f	Heavy Metal: Universo em Fantasia	Animação,Ficção científica,Aventura,Fantasia,Música
 f	Hebe A Estrela do Brasil (2019)	Drama,História
 f	Hector	Drama
 f	Hedda	Drama,Suspense,Romance
@@ -41001,6 +40902,7 @@ f	Hoops,Hopes & Dreams	Documentário,Animação,História
 f	Hop: Rebelde Sem Pascoa (2011)	Animação,Comédia,Família
 f	Hora de Brilhar (2022)	Comédia
 f	Hora de Recomecar	Drama,Família
+f	Hora do Arrepio: Nem Pense Nisso	Terror,TV,Fantasia
 f	Hora do Massacre	Terror,Suspense,Ação
 f	Hora do Recreio	Documentário
 f	Horas Decisivas	Ação,Drama,História,Suspense
@@ -41233,6 +41135,7 @@ f	Intrusion (2021)	Drama,Mistério,Suspense
 f	Intruso	Ficção científica,Drama
 f	Inu-Oh	Animação,Drama,Música,Fantasia,História
 f	InuYasha 2: O Castelo das Ilusões Dentro do Espelho (2002)	Ação,Animação,Aventura,Fantasia
+f	Inuyashiki (2018)	Ação,Aventura,Ficção científica,Fantasia
 f	Invasao (2018)	Ação,Terror,Suspense,Aventura
 f	Invasao Alienigena (2017)	Ficção científica,Terror
 f	Invasao Ao Servico Secreto	Ação,Suspense
@@ -41400,6 +41303,7 @@ f	Jim Henson,o Homem-Ideia (2024)	Documentário
 f	Jim Knopf e Lucas: O Maquinista (2018)	Aventura,Família,Fantasia
 f	Jim Knopf e os 13 Piratas	Aventura,Família,Fantasia
 f	Jiu Jitsu	Ação,Ficção científica,Fantasia
+f	Jo	Comédia,Crime
 f	Jo Pil-ho - O Despertar da Ira (2019)	Ação,Crime,Drama,Suspense
 f	Joana D'Arc (1948)	Drama,História
 f	Joao e Maria Cacadores de Bruxas	Fantasia,Terror,Ação
@@ -41601,6 +41505,7 @@ f	Juventude Perdida (2019)	Drama
 f	Já Estou Te Vendo	Terror,Mistério,Suspense
 f	Já que Ninguém me Tira Para Dançar (2021)	Documentário
 f	Júpiter	Ficção científica,Fantasia,Ação
+f	K-PAX: O Caminho da Luz	Ficção científica,Drama,Mistério
 f	K-Pops!	Comédia,Drama,Música
 f	K.O.	Ação,Drama,Aventura
 f	K2 - O Desafio Final	Documentário
@@ -42690,6 +42595,7 @@ f	Miguel Ángel Blanco: As 48 Horas que Mudaram a Espanha	Documentário
 f	Mike & Nick & Nick & Alice	Comédia,Ficção científica,Ação
 f	Mike Epps: Sem Noção	Comédia
 f	Mike Tyson: Verdade Fora de Disputa (2013)	Comédia,Drama,Documentário,TV
+f	Mikey	Terror
 f	Mil e Um (2023)	Drama,Crime
 f	Milagre Azul	Aventura,Drama,Família
 f	Milagre na Cela 7	Drama
@@ -43415,6 +43321,7 @@ f	Nossos Fantasmas (2021)	Drama,Comédia
 f	Nossos Sonhos de Marte (2022)	Comédia,Romance,Ficção científica
 f	Nossos Tempos	Ficção científica,Romance,Comédia
 f	Nostalgia	Drama,Romance
+f	Not Cool (INGLÊS)	Comédia,Romance,Drama
 f	Not Friends (2023)	Documentário,TV
 f	Notas de Rebeldia (2020)	Drama,Comédia
 f	Notorious B.I.G. - A Lenda do Hip Hop (2021)	Documentário,Música
@@ -44099,6 +44006,7 @@ f	O Garoto de Liverpool (2009)	Drama
 f	O Garoto de Vidro	Drama,Aventura
 f	O Garoto do Leito 6 (2020)	Terror
 f	O Gato (2003)	Fantasia,Aventura,Família,Comédia
+f	O Gato de Botas: Os Três Diabos	Aventura,Animação,Comédia,Família
 f	O Genio e o Louco	História,Drama,Mistério,Suspense
 f	O Genro	Comédia,Drama
 f	O Genro Da Minha Vida	Comédia
@@ -44415,6 +44323,7 @@ f	O Mestre das Ilusões (1995)	Terror,Fantasia,Drama
 f	O Mestre das Sombras	Ação,Fantasia,Suspense
 f	O Mestre dos Desejos	Terror,Fantasia
 f	O Mestre dos Desejos 2	Fantasia,Terror
+f	O Metrô da Morte	Terror
 f	O Meu,O Seu,O Nosso Natal	Comédia,Drama
 f	O Milagre	Drama
 f	O Milagre de Fátima	Drama
@@ -44590,6 +44499,7 @@ f	O Planeta dos Macacos	Ficção científica,Ação,Drama,Suspense
 f	O Plano Imperfeito (2018)	Romance,Comédia
 f	O Plano Perfeito	Crime,Drama,Suspense
 f	O Plano Perfeito 2 (2019)	Ação,Crime,Suspense
+f	O Plano de Maggie (2016)	Drama,Romance,Comédia
 f	O Plano de Milhões (2021)	Comédia,Drama
 f	O Podcast (2023)	Terror,Mistério,Ficção científica,Suspense
 f	O Poder da Graça (2011)	Drama
@@ -45649,6 +45559,8 @@ f	Panico na Floresta 6 (2014)	Terror
 f	Panico na Ilha	Terror,Suspense,Mistério
 f	Panico no Lago - Projeto Anaconda	Ação,Comédia,Terror,Suspense
 f	Panico no Lago 2	Terror,Ficção científica
+f	Panorama de l'arrivée à Belfast	Documentário
+f	Panorama pendant l'ascension de la Tour Eiffel	Documentário
 f	Pantera Negra	Ação,Aventura,Ficção científica
 f	Pantera Negra: Wakanda para Sempre (2022)	Ação,Aventura,Ficção científica
 f	Papa Francisco - Um Homem de Palavra	Documentário
@@ -46602,6 +46514,7 @@ f	Rede de Ódio (2020)	Drama,Suspense
 f	Redentor (2004)	Drama,Fantasia
 f	Reeducando Molly (2023)	Comédia,Drama
 f	Reefa: O Artista (2021)	Drama
+f	Reencarnação (2004)	Drama,Mistério
 f	Reencontro de Natal (2017)	Drama,TV,Romance
 f	Refavela 40 (2019)	Documentário,Música
 f	Refem Do Espirito	Terror
@@ -46740,6 +46653,7 @@ f	Rheingold	História,Drama,Crime,Música
 f	Ricki and the Flash: De Volta pra Casa	Comédia,Drama,Música
 f	Ricki and the Flash: De Volta pra Casa (2015)	Comédia,Drama,Música
 f	Ricky Bobby: A Toda Velocidade	Comédia
+f	Ricky Gervais: Mortalidade	Comédia,TV
 f	Ricky Stanicky	Comédia
 f	Ricos de Amor	Romance,Comédia
 f	Ricos de Amor 2 (2023)	Romance,Comédia
@@ -46977,6 +46891,7 @@ f	Sangue no Gelo	Suspense,Crime
 f	Sansao (2018)	Ação,Drama,Aventura
 f	Sansão e Dalila	Romance,Drama,História
 f	Santa Maud	Terror,Mistério,Suspense
+f	Santa Sangre	Terror,Drama,Suspense
 f	Santana (2020)	Ação
 f	Santet O Feitico do Mal	Terror
 f	Santo Forte (1999)	Documentário
@@ -47999,6 +47914,7 @@ f	The Flash	Ação,Ficção científica,Aventura
 f	The Forty-Year-Old Version (2020)	Comédia,Drama,Música
 f	The Front Room (2024)	Terror
 f	The Gateway (2021)	Drama,Suspense
+f	The Ghoul	Drama,Suspense
 f	The Girl Who Escaped: The Kara Robinson Story	Suspense,Drama,Crime,TV
 f	The Girl in the Pool (2024)	Suspense
 f	The Greenhouse (2021)	Drama,Fantasia
@@ -48040,6 +47956,7 @@ f	The Old Guard	Ação,Fantasia
 f	The Old Guard 2	Ação,Fantasia
 f	The Outer Wild (2018)	Ficção científica,Terror,Ação,Aventura
 f	The Outsider (2019)	Terror
+f	The Painter	Ação,Suspense
 f	The Pale Door (2020)	Terror,Faroeste
 f	The Parenting	Terror,Comédia
 f	The Pond (2021)	Terror,Drama,Mistério
@@ -48063,6 +47980,7 @@ f	The Sacred Riana: Beginning (2019)	Terror
 f	The Sacrifice Game	Terror,Suspense
 f	The Sadness	Terror
 f	The Seeding	Terror,Suspense
+f	The Serpent's Skin	Terror,Romance
 f	The Seven Deadly Sins: Fúria de Edimburgo – Parte 2 (2023)	Ação,Aventura,Fantasia,Animação
 f	The Severed Sun	Terror
 f	The Shift - O Deslocamento	Ficção científica
@@ -49718,7 +49636,6 @@ f	宇宙大戦争 (1959)	Ficção científica,Ação
 f	深海獣雷牙 対 溶岩獣王牙 (2020)	Ficção científica,Ação,Aventura
 s	'Tis Time for	Animação,Comédia,Ficção e fantasia
 s	(A)mar	Novela,Drama,Família
-s	(Des)encanto	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	10 Segundos para Vencer	Drama,Documentário
 s	100 Anos da Warner Bros	Documentário
 s	100 Dias para Morar Comecando do Zero	Reality
@@ -49820,8 +49737,8 @@ s	A Terrified Teacher at Ghoul School	Animação,Comédia,Ficção e fantasia
 s	A Tomada Perfeita	Documentário,Reality
 s	A Vaca e o Frango	Animação,Comédia,Infantil
 s	A Very British Scandal	Drama
+s	A Vida Privada Dela	Comédia,Drama
 s	A Vida Secreta dos Casais	Drama
-s	A Vida de Dug	Animação,Comédia,Família
 s	A Vida de Jazz	Reality
 s	A Vida dos Sonhos do Sr Kim	Comédia,Drama
 s	A Vida e a Historia de Madam CJ Walker	Drama
@@ -49832,6 +49749,7 @@ s	A Xerife Callie no Oeste	Animação,Faroeste,Ficção e fantasia,Infantil
 s	A fé que vence o tempo	Documentário,Drama
 s	A vida secreta do meu marido bilionario	Drama
 s	A vingança das Juanas	Drama,Mistério,Crime
+s	AIKa ZERO	Ação e aventura,Animação,Comédia
 s	ALF,o ETeimoso	Comédia,Família,Ficção e fantasia
 s	ARK The Animated Series	Animação,Ficção e fantasia,Ação e aventura
 s	Abciee Shuugyou Nikki	Animação,Comédia
@@ -49860,6 +49778,7 @@ s	Agentes da SHIELD da Marvel	Drama,Ficção e fantasia,Ação e aventura
 s	Agents of the Four Seasons	Animação,Drama,Ficção e fantasia
 s	Agents of the Four Seasons (2026)	Animação,Drama,Ficção e fantasia
 s	Ah Nerede	Comédia
+s	Aikatsu Friends!	Animação,Comédia,Drama,Família,Infantil,Ficção e fantasia
 s	Ainda um Misterio	Documentário,Crime,Reality
 s	Alberto: A Série	Drama,Animação
 s	Alem de Skinwalker	Reality,Documentário
@@ -49867,12 +49786,14 @@ s	Alem do Horizonte	Novela,Drama
 s	Alem dos Reinos Divinos	Animação,Ação e aventura
 s	Alerta Aeroporto	Documentário,Reality,Crime,Drama
 s	Algum Dia,Eu Serei o Amor de Alguém	Drama
+s	Alice & Zoroku	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	All the Queen s Men	Drama
 s	Alma Indomável	Drama,Novela
 s	Além da Imaginação	Ficção e fantasia,Mistério,Drama
 s	Além da traição	Crime,Comédia,Drama
 s	Além da traição (2026)	Crime,Comédia,Drama
 s	Am I Actually the Strongest	Animação,Comédia,Ação e aventura,Ficção e fantasia
+s	Amanchu!	Animação,Comédia
 s	Amar Demais	Drama,Mistério,Novela
 s	Amar e...	Drama
 s	Ameku MD Doctor Detective	Animação,Mistério
@@ -49921,6 +49842,7 @@ s	Arashis Diary Voyage	Documentário
 s	Archives The Nanyang Mystery	Ação e aventura,Mistério
 s	Armação Ilimitada	Ação e aventura,Comédia,Família
 s	Arquivos do Inexplicavel	Documentário,Crime,Mistério
+s	Arslan Senki	Animação
 s	As Aventuras do Batman	Animação,Ação e aventura,Mistério,Crime
 s	As Criancas Que Amamos	Documentário,Talk show
 s	As Cronicas de Cucu	Comédia,Família
@@ -49932,8 +49854,7 @@ s	As Forças Armadas Mais Severas do Mundo	Documentário
 s	As Grandes Ferias Grandes	Animação,Drama,Família,Guerra e política
 s	As Maiores Maquinas Do Mundo	Documentário
 s	As Novas Aventuras de Christine	Comédia
-s	As Novas Aventuras do Ursinho Puff	Família,Animação,Comédia,Infantil
-s	As Terríveis Aventuras de Billy e Mandy	Animação,Comédia,Infantil
+s	As Sete Virtudes Celestiais	Animação,Ficção e fantasia
 s	As Travessuras da Menina Má	Drama
 s	As Ultimas Horas do Titanic	Documentário,Drama
 s	As Visões da Raven	Comédia,Ficção e fantasia
@@ -49955,7 +49876,7 @@ s	Até o Fim: Flamengo Campeão da Libertadores	Documentário
 s	Aucademia	Infantil,Comédia
 s	Australia: Vida Selvagem	Documentário
 s	Avatar O Ultimo Mestre do Ar	Ação e aventura,Ficção e fantasia,Drama,Família
-s	Avatar: Os Sete Refúgios	Animação,Ação e aventura,Ficção e fantasia,Família
+s	Avatar: Os Sete Refugios	Animação,Ação e aventura,Ficção e fantasia,Família
 s	Avenida Paulista	Crime,Drama
 s	Awkward.	Comédia,Drama
 s	Ayrton: Retratos e Memórias	Documentário
@@ -49984,6 +49905,7 @@ s	Battle Game in 5 Seconds	Animação,Drama,Mistério,Ação e aventura,Ficção
 s	Battle Spirits [Re] ZEKKAI NO KU (2026)	Animação,Infantil,Ficção e fantasia,Ação e aventura
 s	Baylen Uma Vida sem Filtro	Reality
 s	Beavis e ButtHead	Animação,Comédia
+s	Beck	Crime,Drama,Mistério
 s	Behind the Music	Documentário
 s	Bela a Feia	Novela,Comédia,Drama
 s	Belaventura	Novela,Drama,Ficção e fantasia
@@ -49998,6 +49920,7 @@ s	Big Dogs	Crime,Mistério
 s	Big Order	Animação
 s	Billy Joel And So It Goes	Documentário
 s	Birdie Wing Golf Girls Story	Animação,Comédia,Drama
+s	Black And White Warriors	Animação,Comédia,Ficção e fantasia,Ação e aventura
 s	Black Rock Shooter	Animação,Ação e aventura,Ficção e fantasia,Drama
 s	Blackish	Comédia
 s	Blippi e As Profissoes	Família,Infantil
@@ -50007,6 +49930,7 @@ s	Bocchi The Rock	Animação,Comédia
 s	Boku no Hero Academia	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	Boku no Imouto wa Osaka Okan	Animação,Comédia
 s	Boku no Tonari ni Ankoku Hakaishin ga Imasu (A Destructive God Sits Next to Me)	Animação,Comédia
+s	Bokusatsu Tenshi Dokuro-chan	Animação,Comédia,Ficção e fantasia
 s	Bom Dia,Verônica	Drama,Crime
 s	Bon Appetit Vossa Majestade	Drama,Ficção e fantasia
 s	Boneco de Palito	Drama
@@ -50106,6 +50030,7 @@ s	Chilean Mine Rescue: Race Against Time (2026)	Documentário
 s	Chillin in My 30s after Getting Fired from the Demon King's Army	Animação,Ação e aventura,Ficção e fantasia
 s	Chiruran: Nibun no Ichi	Animação,Ação e aventura,Comédia
 s	Chitose Get You!!	Animação,Comédia
+s	Choboraunyopomi Gekijou Ai Mai Mii	Animação,Comédia
 s	Chowder	Animação,Comédia,Infantil
 s	Christina Boyer No Corredor da Morte	Documentário,Crime
 s	Chucky: A Série	Crime,Comédia,Mistério
@@ -50175,6 +50100,7 @@ s	Criminal: Espanha	Crime,Drama
 s	Criminal: França	Drama,Crime,Mistério
 s	Criminal: UK	Crime,Drama
 s	Cristobal Balenciaga	Drama
+s	Crookhaven	Ação e aventura,Drama,Mistério
 s	Crossing Time	Animação,Comédia
 s	Cruel Istambul	Drama,Família
 s	Cue!	Animação,Comédia
@@ -50183,6 +50109,7 @@ s	Cult Massacre One Day in Jonestown	Documentário,Crime
 s	Cumplices de um Resgate	Novela,Drama,Família
 s	Cupom Mania	Reality
 s	Cute High Earth Defense Club Love	Comédia,Animação
+s	Cyclops Shoujo Saipuu	Animação,Comédia
 s	D-Frag!	Animação,Comédia
 s	D.C. Reino e Império	Drama
 s	DAKAICHI	Animação,Drama,Comédia
@@ -50197,6 +50124,7 @@ s	DOTA: Dragon’s Blood	Ficção e fantasia,Ação e aventura,Animação
 s	DP Dog Day	Drama,Ação e aventura,Crime
 s	DPA - Detetives do Predio Azul	Infantil,Ação e aventura,Comédia
 s	D_Cide Traumerei the Animation	Animação,Mistério,Ficção e fantasia,Ação e aventura
+s	Da Capo	Talk show
 s	Da Terra A Lua	Ação e aventura,Drama
 s	Dai-Shogun - Great Revolution	Ação e aventura,Animação
 s	Daisy Jones & The Six	Drama
@@ -50225,6 +50153,7 @@ s	Deadman Wonderland	Ação e aventura,Animação,Ficção e fantasia
 s	Deaimon Recipe for Happiness	Animação,Comédia
 s	Death in Paradise	Comédia,Crime,Drama,Mistério
 s	DecaDence	Animação,Drama,Ação e aventura,Ficção e fantasia
+s	Deep Insanity THE LOST CHILD	Animação,Ficção e fantasia,Ação e aventura
 s	Deha: Entre o Bem e o Mal (2024)	Novela
 s	Dekin no Mogura The Earthbound Mole	Animação,Mistério,Drama
 s	Delicious Party Precure	Ação e aventura,Animação,Comédia,Ficção e fantasia,Infantil,Família
@@ -50264,12 +50193,12 @@ s	Dinossauros Atrapalhados	Comédia,Animação,Infantil
 s	Dinoster Os Herois Quanticos	Animação,Infantil,Ação e aventura,Comédia,Ficção e fantasia
 s	Dix Pour Cent	Comédia,Drama
 s	Diz me Quem Sou	Drama
-s	Diário das Fadas	Infantil,Animação,Ficção e fantasia
 s	Diário de uma Futura Presidente	Comédia,Infantil
 s	Do It Yourself	Animação,Comédia
 s	Doce Vinganca	Drama,Mistério
 s	Doctor Elise The Royal Lady with the Lamp	Animação,Drama
 s	Doctor X: Mafia in White (2026)	Mistério,Drama,Crime
+s	Does It Count If You Lose Your Virginity to an Android?	Animação,Comédia,Ficção e fantasia
 s	Dois em Cena Encontro de Geracoes	Talk show
 s	Dollhouse	Ação e aventura,Drama,Ficção e fantasia
 s	Dont Call Us a Junk Game	Animação,Comédia,Ação e aventura
@@ -50284,6 +50213,7 @@ s	Dr Rabugento De Plantao na Escola	Drama
 s	Dr Ramune Mysterious Disease Specialist	Animação,Comédia,Mistério
 s	Dra Emma Uma Questao de Pele	Reality,Documentário
 s	Dracula	Drama,Ação e aventura
+s	Dragoes A Serie	Animação,Ação e aventura,Ficção e fantasia,Comédia
 s	Dragon Ball Classico	Animação,Ação e aventura,Ficção e fantasia
 s	Dragon Ball DAIMA	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Dragon Goes HouseHunting	Animação,Comédia,Ficção e fantasia
@@ -50291,10 +50221,12 @@ s	Dragon Quest The Adventure of Dai	Animação,Ficção e fantasia,Ação e aven
 s	Dragon Raja The Blazing Dawn	Animação,Ação e aventura,Ficção e fantasia
 s	Dramatical Murder	Animação,Ação e aventura,Ficção e fantasia
 s	Draw This,Then Die!	Animação,Comédia
+s	Drifters	Comédia
 s	Drogas Oferta e Demanda	Documentário,Crime
 s	Drop Dead Diva: Sob Medida	Comédia,Drama
 s	Drop Kick on My Devil	Comédia,Animação
 s	Dropout Idol Fruit Tart	Animação,Comédia
+s	Du Dudu e Edu	Animação,Comédia,Infantil
 s	Dubai Ostentacao	Reality
 s	Dude O Caopanheiro	Infantil,Comédia,Drama
 s	Duelo de Restaurantes Irvine vs. Taffer	Reality
@@ -50312,7 +50244,6 @@ s	El colapso	Drama
 s	Ela Dança,Eu Danço	Drama
 s	Elas Nasceram para Brilhar	Drama
 s	Elas No Singular	Documentário
-s	Elena de Avalor	Animação,Infantil
 s	Elfen Lied	Ação e aventura,Animação,Drama,Mistério,Ficção e fantasia
 s	Elis: Viver é Melhor que Sonhar	Drama
 s	Elite Histórias Breves: Patrick	Mistério,Comédia
@@ -50323,6 +50254,7 @@ s	Em Defesa de Jacob	Drama,Mistério,Crime
 s	Emagreci e Agora	Reality,Documentário
 s	Emergencia 53	Drama,Ação e aventura
 s	Encantados	Comédia
+s	Encouragement Of Climb	Animação,Ação e aventura,Comédia
 s	Endro	Animação,Ficção e fantasia,Comédia
 s	Engage Kiss	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Enquanto Voce Dormia	Ficção e fantasia,Drama
@@ -50404,6 +50336,7 @@ s	Forest Fairy Five	Animação,Comédia,Ficção e fantasia
 s	Formula 1: Dirigir para Viver	Documentário
 s	Frango Robo	Comédia,Animação
 s	Frankenstein Family	Animação,Comédia,Ficção e fantasia
+s	Freezing	Comédia
 s	Friends with Better Lives	Comédia
 s	Frieren e a Jornada para o Alem	Animação,Ação e aventura,Drama,Ficção e fantasia
 s	From	Mistério,Drama,Ficção e fantasia
@@ -50413,6 +50346,9 @@ s	Fugitivos,da Marvel	Ação e aventura,Drama,Ficção e fantasia
 s	Full Dive This Ultimate NextGen Full Dive RPG Is Even Shittier Than Real Life	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Furia	Drama,Crime
 s	Furia no Transito	Reality
+s	Fushigi Yuugi	Animação,Ação e aventura,Ficção e fantasia
+s	Futakoi Alternative	Animação,Drama
+s	Futoku no Guild	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Futsal Boys	Animação
 s	Fuufu Ijou, Koibito Miman.	Animação,Comédia,Drama
 s	Fuufu Ijou,Koibito Miman.	Animação,Comédia,Drama
@@ -50429,6 +50365,7 @@ s	Gabriel DropOut	Animação,Comédia,Ficção e fantasia
 s	Gal Dino	Animação,Comédia
 s	Gal to Kyouryuu	Animação,Comédia
 s	Gal to Kyouryuu (2020)	Animação,Comédia
+s	Galaxy Angel	Ficção e fantasia,Animação,Comédia
 s	Game dos Clones	Reality
 s	GameFace	Comédia,Drama
 s	Ganbare Doukichan	Animação,Comédia,Drama
@@ -50443,6 +50380,7 @@ s	Genio dos Desejos	Ficção e fantasia,Comédia,Drama
 s	George e Tammy	Drama
 s	Georgie e Mandy Seu Primeiro Casamento	Comédia
 s	Geracao do Amor	Drama
+s	Getsuyoubi no Tawawa	Animação,Comédia
 s	Gibiate	Animação,Ação e aventura
 s	Gifuu Doudou Kanetsugu to Keiji	Animação,Ação e aventura
 s	Gigantes	Ficção e fantasia,Ação e aventura,Drama
@@ -50460,7 +50398,6 @@ s	Goodbye,Lara	Animação,Drama,Ficção e fantasia
 s	Grace and Frankie	Comédia,Drama
 s	Grand Blues	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Grandes Demais	Reality
-s	Gravity Falls: Um Verão de Mistérios	Ação e aventura,Animação,Comédia,Família,Mistério,Ficção e fantasia
 s	Guerra a Mafia Filadelfia Contra o Crime	Documentário,Crime
 s	Guerra de Gangues: Oslo	Documentário
 s	Guerra do Imaginario	Documentário
@@ -50470,6 +50407,7 @@ s	Gugu Toninho e Augusto	Documentário
 s	Guia astrológico para corações partidos	Comédia
 s	Gundam Build Divers	Animação,Ação e aventura,Ficção e fantasia,Infantil
 s	Gunma Chan	Animação,Infantil,Família
+s	Gunslinger Girl	Ação e aventura,Animação,Drama
 s	Gunslinger Stratos The Animation	Ficção e fantasia,Ação e aventura,Animação
 s	Guraburu! (2020)	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Gurazeni Money Pitch	Animação
@@ -50515,6 +50453,8 @@ s	Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! (2026)	Animação
 s	Heroine? Saint? No,I'm an All-Works Maid !	Animação,Ficção e fantasia,Comédia
 s	Herois em Foco Batalhao de Acoes com Caes (BAC)	Documentário
 s	Heróis por Dentro	Animação,Ação e aventura,Comédia
+s	Hetalia Axis Powers	Animação,Comédia
+s	Hidamari Sketch	Animação,Comédia
 s	Historia Direto Ao Assunto	Documentário
 s	Historia Secreta do Pop Brasileiro	Documentário
 s	História de Amor	Novela,Drama
@@ -50524,10 +50464,10 @@ s	Hokkaido Gals Are Super Adorable	Animação,Comédia
 s	Holo,Meu Amor	Drama,Ficção e fantasia
 s	Home Economics	Comédia
 s	Homecoming: De Volta a Patria	Drama
-s	Homem-Aranha: A Série Animada	Animação,Ação e aventura
 s	Homicidio nos EUA Gabby Petito	Documentário,Crime
+s	Hoozuki no Reitetsu	Ficção e fantasia,Animação,Comédia
 s	Hope Valley 1874	Drama
-s	Hora de Aventura: Terras Distantes	Animação,Ação e aventura,Comédia,Ficção e fantasia,Família
+s	Hoshizora - Ponte para o Céu Estrelado	Animação,Comédia,Ficção e fantasia
 s	Hospital Valle Norte	Drama
 s	Hot Wheels Velocidade Maxima	Animação,Infantil,Ação e aventura
 s	Hoteis Estadias Personalizadas	Reality,Documentário
@@ -50537,6 +50477,7 @@ s	Houkago Saikoro Club	Animação,Comédia
 s	House of Villains	Reality
 s	Houseki no Kuni	Animação,Ação e aventura,Drama,Mistério,Ficção e fantasia
 s	How To Survive Being Single	Comédia,Drama
+s	Hundred	Comédia,Drama,Ação e aventura
 s	I Am the Night	Crime,Drama,Mistério
 s	I Cant Understand What My Husband Is Saying	Animação,Comédia
 s	I Jack Wright	Crime,Mistério,Drama
@@ -50570,9 +50511,12 @@ s	Insensato Coracao	Novela,Drama,Comédia
 s	Inseparable	Novela
 s	Inside Evil	Documentário
 s	Inside North Koreas Dynasty	Documentário,Guerra e política
+s	Inugami-san To Nekoyama-san	Animação,Comédia,Romance
 s	Inumanos da Marvel	Drama,Ficção e fantasia,Ação e aventura
 s	Invasao a Paris	Ação e aventura,Guerra e política
+s	Invisível	Drama,Infantil,Ficção e fantasia
 s	Irak,destruction d'une nation	Documentário,Guerra e política,Drama
+s	Iria: Zeiram The Animation	Ação e aventura,Animação,Ficção e fantasia
 s	Irmas Perversas	Reality,Crime,Documentário,Drama
 s	Irmão do Jorel	Animação,Comédia,Infantil,Drama
 s	Irmãos a Obra	Reality
@@ -50604,12 +50548,14 @@ s	John Carpenters Suburban Screams	Mistério
 s	Jojo Nove e Meia	Talk show,Comédia
 s	Jornada nas Estrelas A Nova Missao	Ficção e fantasia,Ação e aventura,Drama
 s	Jose do Egito	Drama
+s	Joshiraku	Animação,Comédia
 s	Journey to the Unknown	Drama
 s	Juan Gabriel Devo Posso e Quero	Documentário
 s	Jungle Pilot	Ação e aventura
 s	Just Beyond	Família,Comédia
 s	Justica 2	Drama,Crime
 s	Justica Implacável	Crime,Ação e aventura,Drama
+s	Jyuushin Enbu: Hero Tales	Animação,Ação e aventura
 s	K Everything A CNN Original Series	Documentário
 s	KAMEN RIDER GEATS	Ação e aventura,Drama,Ficção e fantasia
 s	KAWAGOE BOYS SING Now or Never	Animação,Comédia
@@ -50636,10 +50582,10 @@ s	Kiseijuu: Sei no Kakuritsu	Animação,Drama,Ficção e fantasia,Ação e avent
 s	Kitsutsuki Tantei Dokoro	Animação,Mistério,Drama
 s	Knight Flower	Drama,Comédia,Mistério,Ação e aventura
 s	Korban	Drama
+s	Kubikiri Cycle: Aoiro Savant To Zaregototsukai	Ficção e fantasia,Animação,Mistério
 s	Kumo desu ga, Nani ka?	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Kumo desu ga,Nani ka?	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Kun by Aguero	Documentário
-s	Kung Fu Panda: Lendas do Dragão Guerreiro	Ação e aventura,Animação,Comédia,Ficção e fantasia,Infantil
 s	Kung Fu Wa	Animação,Infantil
 s	Kurukshetra A Grande Guerra de Mahabharata	Ação e aventura,Drama,Animação
 s	L'Absente	Drama
@@ -50659,12 +50605,17 @@ s	Largados e Pelados A Competicao	Reality
 s	Largados e Pelados Brasil A Tribo	Reality
 s	Largados, Pelados e Solitários	Reality
 s	Largados,Pelados e Apaixonados	Reality
+s	Last Exile	Animação,Ação e aventura,Ficção e fantasia
+s	Last Period: Owarinaki Rasen no Monogatari	Ação e aventura,Animação,Ficção e fantasia,Comédia
 s	Le Chalet	Drama,Comédia
 s	Left Hand Layup	Animação,Drama
+s	Legend of Exorcism	Animação,Ficção e fantasia,Ação e aventura
 s	Lei da Selva - A História do Jogo do Bicho	Documentário
+s	Lemon Angel Project	Drama
 s	Lendas da Marvel	Documentário,Ação e aventura,Ficção e fantasia
 s	Lendas da Natureza	Reality
 s	Less Than Evil	Drama,Crime,Mistério,Ação e aventura
+s	Let Me Check the Walkthrough First	Animação,Comédia,Ação e aventura
 s	Let This Grieving Soul Retire	Animação,Comédia,Ficção e fantasia
 s	Lets Go Karaoke	Drama,Animação,Comédia
 s	Leyla Sombras do Passado	Drama
@@ -50688,7 +50639,6 @@ s	Love Has Won O Culto da Mae Deusa	Documentário
 s	Love Island All Stars	Reality
 s	Love Island Games	Reality
 s	Love Song for Illusion	Drama,Ficção e fantasia
-s	Love Unseen Beneath the Clear Night Sky	Animação,Drama
 s	Love Victor	Comédia,Drama
 s	Love in the Time of Corona	Comédia
 s	Love,Death & Robots	Animação,Ficção e fantasia
@@ -50750,10 +50700,10 @@ s	Martial Master	Ação e aventura,Ficção e fantasia,Animação
 s	Marvel - Agente Carter	Drama,Ficção e fantasia
 s	Marvel Luke Cage	Drama,Ação e aventura,Crime
 s	Marvel Studios Legends	Documentário,Ação e aventura,Ficção e fantasia
-s	Marvel's M.O.D.O.K.	Comédia,Animação,Ação e aventura,Ficção e fantasia
 s	Mary de Morte	Drama
 s	Mascaras	Drama,Ação e aventura,Novela
 s	Mascaras de Oxigenio Nao Cairao Automaticamente	Drama
+s	Mashiroiro Symphony: The Color Of Lovers	Animação,Drama
 s	Massacre dos Mormons	Documentário,Crime
 s	MasterChef Brasil	Reality
 s	MasterChef Brasil Confeitaria	Reality
@@ -50768,6 +50718,7 @@ s	Mayans MC	Crime,Drama
 s	Me Hereafter	Documentário,Crime
 s	Me frite até a lua	Drama
 s	Mechanical Marie	Animação,Comédia,Ficção e fantasia
+s	Medaka Box	Animação,Comédia
 s	Medici Mestres de Florenca	Drama,Guerra e política
 s	Mega Man: Fully Charged	Ação e aventura,Animação,Infantil,Ficção e fantasia
 s	Meiji Gekken 1874	Animação,Drama
@@ -50807,14 +50758,18 @@ s	Missing: The Other Side	Mistério,Ficção e fantasia
 s	Misterio na Neve O Caso Karen Read	Documentário,Crime
 s	Misterios da Fe	Documentário
 s	Mistérios Animais	Infantil,Animação
+s	Mitsudomoe	Animação,Comédia
 s	Mobile Suit Gundam Iron Blooded Orphans	Animação,Guerra e política,Ação e aventura,Ficção e fantasia
 s	Moinhos de Vento	Drama
+s	Monogatari Series: Off & Monster Season	Comédia,Mistério
 s	Monster Factory: saindo da Jaula	Documentário
 s	Moorim School	Drama
 s	More than a Married Couple,but Not Lovers	Animação,Comédia,Drama
+s	Morita-san Wa Mukuchi	Animação,Comédia
 s	Morte e Rouxinóis	Drama
 s	Morte no apartamento 603 O Que Aconteceu com Ellen Greenberg	Documentário,Crime
 s	Mosaic	Drama,Crime,Mistério
+s	Moyashimon	Animação,Comédia,Drama
 s	Mr Osomatsu	Animação,Comédia
 s	Mr Sunshine - Um Raio de Sol	Drama
 s	Mr Villains Day Off	Animação,Comédia
@@ -50828,9 +50783,11 @@ s	Museu Mal-Assombrado	Drama,Mistério
 s	Muv Luv Alternative	Animação,Ação e aventura,Ficção e fantasia
 s	My Bias,My Boss	Comédia,Drama
 s	My Dearest	Drama
+s	My Dress Up Darling	Animação,Comédia,Drama
 s	My Fellow Citizens	Crime,Comédia
 s	My Love Story	Animação,Comédia
 s	My Tutor,My Love	Drama
+s	Myself; Yourself	Animação,Drama
 s	Mythic Quest: Raven's Banquet	Comédia
 s	Mães A(r)madas	Drama,Comédia,Família
 s	NYPD - Nova York Contra o Crime	Drama
@@ -50845,6 +50802,7 @@ s	Nashville	Drama
 s	Nathan For You	Comédia,Documentário
 s	Ni Hao,Kai-Lan	Animação,Infantil,Família
 s	Nicky,Ricky,Dicky e Dawn	Família,Infantil,Comédia
+s	Night Warriors: Darkstalkers Revenge	Animação,Ação e aventura,Ficção e fantasia
 s	Ninguem Quer	Comédia,Drama
 s	Ninjago Mestres do Spinjitzu	Animação,Ação e aventura,Ficção e fantasia,Comédia,Família
 s	No Corre Partiu Entrega	Comédia
@@ -50866,6 +50824,7 @@ s	O Aprendiz – Edicao ONE Championship: Cerebro e Forca	Reality
 s	O Bebê de Rosemary	Drama,Mistério
 s	O Bem Amado	Novela,Comédia
 s	O Canto do Passaro	Família,Drama
+s	O Canto do Pássaro / A Escolhida	Família,Drama
 s	O Caso Sancho Crime na Tailandia	Documentário
 s	O Cativeiro	Drama
 s	O Caçador	Crime,Drama
@@ -50887,7 +50846,6 @@ s	O Fim da Infancia	Drama,Ficção e fantasia
 s	O Gabinete de Curiosidades de Guillermo Del Toro	Drama,Mistério,Ficção e fantasia
 s	O Galã: A TV Mudou,Ele Não	Comédia
 s	O Homem do Castelo Alto	Ficção e fantasia,Drama
-s	O Incrível Mundo de Gumball	Animação,Família,Ficção e fantasia,Comédia
 s	O Jogo Que Mudou A Historia	Drama,Ação e aventura
 s	O Jogo da Corrupcao	Drama
 s	O Ladrão,Sua Esposa e a Canoa	Drama,Crime
@@ -50898,7 +50856,6 @@ s	O Menino que nao vai para o Ceu	Drama
 s	O Misterio da Fazenda Blind Frog	Reality,Documentário
 s	O Misterio da Rota 20	Documentário,Crime
 s	O Misterioso Triangulo do Alasca	Documentário,Reality,Mistério
-s	O Mundo Maravilhoso de Mickey Mouse	Animação,Família,Infantil
 s	O Mundo de Beakman	Comédia,Infantil
 s	O Mundo é dos Jovens	Drama,Comédia,Família
 s	O Novo Festival Tom e Jerry	Infantil,Animação,Família,Comédia
@@ -50961,6 +50918,7 @@ s	Once Upon a Witchs Death	Animação,Drama,Ficção e fantasia
 s	Onde Esta Amy Bradley	Documentário,Crime,Mistério
 s	Onde está Marta del Castillo?	Documentário,Crime,Mistério
 s	One More Happy Ending	Comédia,Drama,Família
+s	One Room	Animação,Comédia
 s	One Spring Night	Drama
 s	One Tree Hill: Lances da Vida	Drama
 s	One of Us Is Lying	Drama,Mistério
@@ -51046,7 +51004,6 @@ s	Perseguicao com John Walsh	Crime,Mistério,Documentário,Drama,Reality
 s	Perseguicoes em Alta Velocidade	Documentário,Crime
 s	Pesca Implacavel	Documentário,Reality
 s	Pestinha e Feroz	Animação
-s	Phineas e Ferb	Animação,Comédia,Família,Ficção e fantasia
 s	Picara Sonhadora	Novela,Drama
 s	Pico Da Neblina	Drama,Crime
 s	Piloto de Fuga	Reality
@@ -51063,7 +51020,9 @@ s	Pluft,o Fantasminha	Infantil,Família,Ação e aventura
 s	Plunderer	Ação e aventura,Ficção e fantasia,Animação
 s	Plus Sized Elf	Animação,Comédia
 s	Pokemon Horizontes A Serie	Animação,Ação e aventura,Ficção e fantasia,Infantil
+s	Polar Bear Cafe	Animação,Comédia
 s	Ponto de Virada A Guerra do Vietna	Documentário,Guerra e política
+s	Popolocrois Monogatari	Animação,Ficção e fantasia,Ação e aventura
 s	Poppas House	Comédia
 s	Por Dentro da Pixar	Documentário
 s	Por Dentro das Prisoes Mais Severas do Mundo	Crime,Documentário
@@ -51073,7 +51032,9 @@ s	Power Rangers Mighty Morphin	Família,Ação e aventura
 s	Power Rangers Ninja Storm	Ação e aventura,Ficção e fantasia,Infantil
 s	Power of Hope Precure Full Bloom	Animação,Ação e aventura,Ficção e fantasia,Comédia,Drama
 s	Premonicao	Mistério,Drama,Ficção e fantasia
+s	Presidente	Drama
 s	Pretend Its a City	Documentário,Comédia
+s	Princess Charming	Drama,Família
 s	Prisao de Mulheres	Crime,Drama
 s	Private Tutor to the Dukes Daughter	Animação,Ficção e fantasia
 s	Procurados - EUA: O.J. Simpson	Documentário,Crime
@@ -51102,13 +51063,15 @@ s	Queer for Fear The History of Queer Horror	Documentário
 s	Quem Matou Malcolm X	Documentário
 s	Quem e Voce,Alasca?	Drama
 s	Quem e voce Alaska	Drama
+s	Rail Romanesque	Animação,Comédia
 s	Raio X do Planeta Terra	Documentário
 s	Raised by Wolves	Ficção e fantasia,Drama
 s	Raizes	Drama
 s	Ranma 12	Animação,Ação e aventura,Comédia
+s	Ranma1 2	Animação,Ação e aventura,Comédia
+s	Rascal Does Not Dream of Bunny Girl Senpai	Animação,Comédia,Drama
 s	Re:Born	Reality
-s	Re:ZERO -Starting Life in Another World-	Animação,Mistério,Ação e aventura,Ficção e fantasia
-s	Record of Ragnarok	Ação e aventura,Animação,Ficção e fantasia
+s	Recorder To Randoseru	Animação,Família,Comédia
 s	Reencarnado numa Máquina de Vendas,Agora Exploro a Masmorra	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Reforma a Venda	Reality
 s	Reforma em Familia com Izzy	Reality
@@ -51129,7 +51092,9 @@ s	Rhythm Flow Italy	Reality
 s	Ribeirao do Tempo	Novela,Drama
 s	Rikei ga Koi ni Ochita no de Shoumei shitemita.	Animação,Comédia
 s	Rocky & Hudson: Os Caubóis Gays	Animação,Comédia
+s	Rokuhoudou Yotsuiro Biyori	Comédia,Drama,Animação
 s	Romance Is A Bonus Book	Comédia,Drama
+s	Romeo no Aoi Sora	Animação,Ação e aventura,Drama
 s	Ron Kamonohashis Forbidden Deductions	Animação,Mistério,Crime,Ação e aventura
 s	Rooftop Prince	Comédia,Drama,Ficção e fantasia
 s	Rosario Tijeras	Drama,Crime
@@ -51152,16 +51117,20 @@ s	Sacrificio de Sangue	Drama,Crime,Mistério
 s	Sagrada Família	Drama
 s	Saindo do Armario com Colton Underwood	Reality
 s	Saint Pierre	Drama,Crime,Mistério
+s	Saiyuki	Animação,Ação e aventura,Drama,Comédia
+s	Saiyuki Reload: Burial	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Sakho Mangane	Comédia,Crime
 s	Sakli	Drama,Comédia,Crime
 s	Sala de Emergencia Casos Bizarros	Reality,Documentário
 s	Salvese Quem Puder	Novela,Comédia,Drama
 s	Sanctuary A Witchs Tale	Drama,Ficção e fantasia
 s	Sandy e Junior: A História	Documentário
+s	Sayonara Zetsubou Sensei	Animação,Comédia
 s	Scarlet Heart	Drama,Ficção e fantasia,Guerra e política
 s	Scenes from a Marriage	Drama
 s	Schitts Creek	Comédia
 s	Science Fell in Love,So I Tried to Prove it	Animação,Comédia
+s	Scooby Doo Cade Voce	Animação,Mistério,Comédia,Família,Ficção e fantasia
 s	Scooby Doo Misterio SA	Animação,Mistério,Família,Ficção e fantasia
 s	Scooped Up by an S Rank Adventurer	Animação,Ação e aventura,Ficção e fantasia
 s	Scorpion	Ação e aventura,Drama,Crime
@@ -51177,6 +51146,7 @@ s	Segredos em Sulphur Springs	Família,Drama,Mistério,Ficção e fantasia
 s	Segura Essa Pose	Documentário,Reality
 s	Seirei Gensouki Spirit Chronicles	Animação,Drama,Ação e aventura,Ficção e fantasia
 s	Seisen Cerberus	Animação,Ação e aventura,Ficção e fantasia
+s	Seitokai no Ichizon	Animação,Comédia
 s	Sekai Saikou no Ansatsusha,Isekai Kizoku ni Tensei suru	Animação,Ação e aventura,Ficção e fantasia
 s	Selecao Final	Reality
 s	Self Portrait as a Coffee Pot	Documentário,Drama
@@ -51200,6 +51170,7 @@ s	Shaun,o Carneiro	Infantil,Animação,Família,Comédia
 s	Shetland	Crime,Drama,Mistério
 s	Shijou Saikyou no Daimaou,Murabito A ni Tensei Suru	Animação,Ação e aventura,Ficção e fantasia
 s	Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node,Henkyou de Slow Life suru Koto ni Shimashita	Animação,Comédia,Ação e aventura,Ficção e fantasia
+s	Shinkyoku Soukai Polyphonica	Animação,Ação e aventura,Ficção e fantasia
 s	Shinya! Tensai Bakabon	Animação,Comédia
 s	Shironeko Project Zero Chronicle	Animação,Ação e aventura,Ficção e fantasia
 s	Shoot Goal to the Future	Animação
@@ -51224,15 +51195,18 @@ s	Sobrevivendo a Escobar,Alias JJ	Drama,Crime
 s	Sobrevivendo a Queda dos Black Hawks	Documentário,Guerra e política
 s	Sobrevivendo as Tentacoes	Reality
 s	Sol de Verao	Drama
+s	Sola	Animação,Drama,Ficção e fantasia
 s	Solteiros,Ilhados e Desesperados	Reality,Comédia,Talk show
 s	Something in the Air	Drama
 s	Sou um Assassino Em Liberdade	Documentário
 s	Soul Land	Animação,Drama,Ação e aventura
 s	Sound Euphonium	Animação,Drama
 s	Sozinhos	Reality
+s	Space Battleship Yamato 2199	Ação e aventura,Animação,Drama,Ficção e fantasia,Guerra e política
 s	Spartacus House of Ashur	Drama,Ação e aventura
 s	Spice and Wolf MERCHANT MEETS THE WISE WOLF	Animação,Ficção e fantasia,Drama,Ação e aventura
 s	Spider Noir [Preto e Branco] (2026)	Drama,Mistério,Crime
+s	Spirit Realm - Ling Yu	Animação,Ação e aventura,Ficção e fantasia
 s	Splinter Cell Deathwatch	Animação,Ação e aventura
 s	Sr Rainha	Drama,Comédia,Ficção e fantasia
 s	Sr e Sra Smith	Ação e aventura,Comédia,Drama
@@ -51246,14 +51220,17 @@ s	Star Trek Picard	Ficção e fantasia,Ação e aventura,Drama
 s	Star Trek: Enterprise	Ficção e fantasia,Ação e aventura,Drama
 s	Star Wars: A Guerra dos Clones	Ação e aventura,Ficção e fantasia,Animação
 s	Stargate SG1	Ficção e fantasia,Ação e aventura
+s	Stop!! Hibari-kun!	Animação,Comédia
 s	Stranger Things Historias de 85	Animação,Ficção e fantasia,Mistério,Ação e aventura
 s	Stranger Things [VHS Special Edition] (2016)	Ação e aventura,Mistério,Ficção e fantasia
+s	Strike Witches	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Stuart Nao Consegue Salvar o Universo	Comédia,Ficção e fantasia
 s	Studio Apartment Good Lighting Angel Included	Animação,Comédia,Ficção e fantasia
 s	Sua Mãe Te Conhece?	Reality
 s	Sue Thomas: F.B.Eye	Família,Drama,Crime
 s	Sugar Rush: The Baking Point	Reality
 s	Suite Magnolia	Drama,Comédia
+s	Suite Precure♪	Animação,Ação e aventura,Comédia,Infantil,Família,Ficção e fantasia
 s	Suits	Drama
 s	Summer Pockets	Animação,Drama
 s	Sunset Milha de Ouro	Reality
@@ -51268,6 +51245,7 @@ s	Supermax - Internacional	Drama,Mistério
 s	Superstore: Uma Loja de Inconveniências	Comédia
 s	Surviving the Jehovahs Witnesses	Documentário
 s	Survivors Remorse	Drama
+s	Suzumiya Haruhi-chan no Yuuutsu	Animação,Comédia
 s	Swaci	Comédia
 s	Sweet Reincarnation	Animação,Ficção e fantasia
 s	Sword of the Demon Hunter Kijin Gentosho	Animação,Drama,Ficção e fantasia
@@ -51284,16 +51262,21 @@ s	Take Out with Lisa Ling	Documentário
 s	Take That	Documentário
 s	Takopis Original Sin	Animação,Drama,Ficção e fantasia
 s	Tal Mãe,Tal Filha	Comédia,Drama
+s	Tales of Zestiria the X	Animação,Ficção e fantasia,Ação e aventura
+s	Tamayura: Hitotose	Comédia,Animação
 s	Tamon s B Side	Animação,Comédia
+s	Tantei Opera Milky Holmes	Animação,Mistério
 s	Tapas e Beijos	Comédia
 s	Te Devo Essa Reforma das Estrelas	Reality
 s	Ted Bundy As Sobreviventes	Documentário
 s	Ted Bundy Falling For A Killer	Documentário,Crime
 s	Ted Bundy: Apaixonada por um Assassino	Documentário,Crime
+s	Teekyuu	Animação,Comédia
 s	Teen Torture Inc	Drama,Documentário
 s	Tempero de Familia	Talk show,Reality
 s	Tempos Modernos	Novela,Drama,Família
 s	Tempos de Crise	Drama,Mistério
+s	Tenchi Souzou Design-bu	Animação,Comédia,Ficção e fantasia
 s	Terra Alagada	Drama
 s	Terra da Mafia	Crime,Drama
 s	Terra de Ilusões: Internet,Morte e Mentiras	Documentário,Crime
@@ -51301,6 +51284,7 @@ s	Testemunha Alienigena	Documentário
 s	Testing	Documentário
 s	Tetelestai	Documentário
 s	Texas Em Busca de Justica	Crime,Documentário,Reality
+s	Texhnolyze	Animação,Drama,Ficção e fantasia
 s	That 90s Show	Comédia
 s	The 8th son? Are you kidding me?	Animação,Ação e aventura,Ficção e fantasia,Comédia
 s	The Adventures of a Demon Kings Daughter	Animação,Ação e aventura
@@ -51313,6 +51297,7 @@ s	The Asterisk War	Animação,Ação e aventura,Ficção e fantasia
 s	The Banished Court Magician Aims to Become the Strongest	Animação,Ação e aventura,Ficção e fantasia
 s	The Bay	Drama,Crime
 s	The Boys from Brazil: Rise of the Bolsonaros	Documentário
+s	The Café Terraceand Its Goddesses	Animação,Comédia
 s	The Case Files of Jeweler Richard	Animação,Drama,Mistério
 s	The Case Study of Vanitas	Animação,Ação e aventura,Mistério,Ficção e fantasia
 s	The Casebook of Arne	Animação,Mistério
@@ -51329,6 +51314,7 @@ s	The Dark History of the Reincarnated Villainess	Animação,Comédia,Ficção e
 s	The Day I Became a God	Animação,Comédia,Drama,Ficção e fantasia
 s	The Devil Between Us	Crime,Mistério
 s	The Devil Judge	Mistério,Drama,Crime
+s	The Devil Ring	Animação,Ficção e fantasia
 s	The Drop Uma Saga Snowfall	Drama
 s	The Duke's Son Claims He Won't Love Me,But Showers Me with Adoration	Animação,Ficção e fantasia
 s	The Family: Democracia Ameaçada	Documentário
@@ -51367,6 +51353,7 @@ s	The Loch	Crime,Drama
 s	The Man In the High Castle	Ficção e fantasia,Drama
 s	The Many Sides of Voice Actor Radio	Animação,Comédia,Drama
 s	The Mononoke Lecture Logs of Chuzenji sensei He Just Solves All the Mysteries	Animação,Mistério
+s	The Most Heretical Last Boss Queen: From Villainess to Savior	Animação,Ficção e fantasia
 s	The Musketeers	Drama,Ação e aventura
 s	The Mystery of Dragon Town	Mistério
 s	The North Water	Drama,Mistério
@@ -51401,8 +51388,8 @@ s	There Was a Cute Girl in the Heros Party So I Tried Confessing to Her	Animaç�
 s	This Boy is a Professional Wizard	Animação,Ficção e fantasia,Drama
 s	This Is US	Drama
 s	This Monster Wants to Eat Me	Animação,Drama
-s	Tico e Teco: Defensores da Lei	Animação,Comédia,Infantil,Família,Ação e aventura
 s	Time Zenko,Vai!	Animação,Ação e aventura,Infantil
+s	Time to love : la roue de l'amour	Reality
 s	To Be Hero	Animação,Ação e aventura,Ficção e fantasia
 s	Toda Forma de Amor	Drama,Ficção e fantasia
 s	Toda La Sangre	Drama,Crime
@@ -51438,6 +51425,8 @@ s	Trolls O ritmo continua	Animação,Comédia,Família
 s	Trom	Crime,Drama
 s	Trust	Crime,Drama
 s	Três vezes Ana	Novela,Drama
+s	Tsubasa Chronicle	Animação,Drama,Ficção e fantasia
+s	Tsukiuta: The Animation	Animação
 s	Tuca,o Mestre Cuca	Animação,Infantil,Comédia,Ação e aventura
 s	Tudo Bem Não Ser Normal	Drama,Comédia
 s	Tudo Pede Salvação	Drama
@@ -51448,8 +51437,11 @@ s	Twelve	Animação,Ação e aventura,Ficção e fantasia
 s	Twisted Wonderland A Serie	Animação,Ação e aventura,Ficção e fantasia
 s	Tô de Graça	Comédia
 s	Ubel Blatt	Animação,Ação e aventura,Drama,Ficção e fantasia
+s	Uchouten Kazoku	Animação,Comédia,Drama,Ficção e fantasia
+s	Uchuu Senkan Tiramisu	Animação,Ficção e fantasia,Comédia
 s	Uglymug Epicfighter	Animação,Comédia,Ação e aventura,Ficção e fantasia
 s	Ultimate Homem Aranha	Animação,Ação e aventura,Comédia,Ficção e fantasia
+s	Ultra Maniac	Animação
 s	Ultraman Teo	Ação e aventura,Ficção e fantasia,Drama
 s	Um Amigo Um Assassino	Documentário,Crime
 s	Um Anjo Caiu do Ceu	Novela,Comédia,Ficção e fantasia
@@ -51475,11 +51467,13 @@ s	Undercover High School	Ação e aventura,Comédia,Drama
 s	Unidos Manchester City Tricampeao	Documentário
 s	UniteUp	Animação
 s	Untold: A Namorada que não Existiu	Documentário
+s	Uta No Prince-Sama	Animação,Comédia
 s	V.I.P.	Ação e aventura,Comédia,Crime
 s	VGLY	Comédia,Drama
 s	VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream	Animação,Comédia
 s	Vai Brasil	Documentário
 s	Vai,Cachorro. Vai!	Animação,Infantil
+s	Vai,Cara de Lula!	Drama
 s	Vale o Escrito A Guerra do Jogo do Bicho	Documentário
 s	Valkyrien	Crime,Drama
 s	Valley of the Boom	Drama,Documentário
@@ -51523,6 +51517,7 @@ s	Was It Love	Drama
 s	Wash It All Away	Animação,Comédia
 s	Watashi no Yuri wa Oshigoto desu!	Animação,Comédia,Drama
 s	Wave Surfing Yappe	Animação
+s	We Never Learn: BOKUBEN	Animação,Comédia
 s	We Were There	Documentário
 s	Welcome to Demon School Iruma kun	Animação,Comédia,Ficção e fantasia
 s	Welcome to Japan Ms Elf	Animação,Comédia,Ficção e fantasia
@@ -51533,10 +51528,13 @@ s	What Will You Do, Ieyasu? (2023)	Drama,Guerra e política
 s	What Will You Do,Ieyasu?	Drama,Guerra e política
 s	White Famous	Comédia
 s	Why Raeliana Ended Up at the Dukes Mansion	Animação,Comédia,Mistério,Ficção e fantasia
+s	Wo De Ni Tian Shen Qi	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Wonder Wall	Crime
 s	Wonderful Precure	Animação,Infantil,Ação e aventura,Ficção e fantasia,Comédia,Família
 s	Wooju Bakery	Comédia,Ficção e fantasia,Drama
 s	Workaholics	Comédia
+s	Working	Comédia
+s	World Trigger	Animação,Ação e aventura,Ficção e fantasia
 s	World on a Wire	Drama,Ficção e fantasia,Mistério
 s	Wotakoi O Amor e Dificil para Otaku	Comédia,Animação
 s	X Men	Infantil,Ficção e fantasia,Animação,Ação e aventura
@@ -51554,11 +51552,13 @@ s	Yakuza Fiance Raise wa Tanin ga Ii	Animação,Crime,Comédia,Drama
 s	Yandere Dark Elf She Chased Me All the Way from Another World	Animação,Comédia,Ficção e fantasia
 s	Yargı: Segredos de Família	Família,Drama,Crime
 s	Years and Years	Drama,Guerra e política,Ficção e fantasia
+s	Yojouhan Shinwa Taikei	Animação,Comédia,Drama,Ficção e fantasia
 s	You're the Worst	Comédia,Drama
 s	Young,Famous & African	Reality
 s	Your Summer, My Storm (2026)	Drama,Família,Comédia
 s	Your Summer,My Storm	Drama,Família,Comédia
 s	Youre the Worst	Comédia,Drama
+s	Yowamushi Pedal	Comédia,Animação,Drama
 s	Yowayowa Sensei	Animação,Comédia
 s	Yu Gi Oh GX	Animação,Comédia,Ação e aventura,Ficção e fantasia,Família
 s	Yu Gi Oh Go Rush	Animação,Infantil,Ficção e fantasia

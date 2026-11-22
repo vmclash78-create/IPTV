@@ -5,6 +5,7 @@ PCC Poder Secreto		0	4
 PEN15		0	24
 PERSONA -trinity soul-		0	26
 PJ Masks: Heróis de Pijama		0	58
+PLUTO	2023	0	20
 PONIES		0	10
 PSYREN		0	4
 PaJaMa		0	78
@@ -76,6 +77,7 @@ Paradise	2025	0	16
 Paradise Kiss		0	12
 Paradise PD		0	30
 Paradise Police		0	39
+Paradise Police	2018	0	30
 Paradise: O Podcast Oficial		0	9
 Paradox Live THE ANIMATION		0	12
 Parallel Me	2025	0	8
@@ -92,6 +94,7 @@ Parceira Suspeita		0	46
 Parceiras no Crime	2026	0	8
 Pardon the Intrusion Im Home		0	1
 Parede de Gelo		0	20
+Parede de Gelo	2026	0	20
 Parenthood Minha Família		0	103
 Paris Has Fallen		0	3
 Parish	2024	0	6
@@ -115,10 +118,11 @@ Pati		0	12
 Patience		0	5
 Patinando no Amor		0	8
 Patlabor: The Mobile Police		0	47
-Patria Minha		0	203
-Patriarca Criador: Meu Sangue Invencível		0	1
-Patrick Melrose		0	5
+Patria Minha		1	203
+Patriarca Criador: Meu Sangue Invencível		1	1
+Patrick Melrose		1	5
 Patrulha Canina		1	285
+Patrulha Canina	2013	1	257
 Patrulha Médica		1	10
 Patrulha Salvadora		1	49
 Patrulha do Destino	2019	1	47
@@ -157,13 +161,15 @@ Pegou um bilionário para ser meu marido		1	1
 Peguei um Bilionário para Ser Meu Marido		1	10
 Peixe Vermelho, Peixe Azul		1	10
 Peixonauta		1	156
+Peixonauta	2009	1	104
 Pela Metade	2026	1	6
 Pelados e Apaixonados		1	12
-Pelados e Condenados		1	20
+Pelados e Condenados		1	26
 Pelados e Solitários		1	8
 Pele Selvagem		1	32
 Pelo Amor a Justiça - Kurşun		1	7
 Pelo Prisma do Amor		1	20
+Pelo Prisma do Amor	2026	1	20
 Penance		1	3
 Penny Dreadful	2014	1	27
 Penny Dreadful: Cidade Dos Anjos		1	10
@@ -195,7 +201,7 @@ Pequenos Gigantes da Natureza		1	20
 Pequenos Incendios por Toda Parte		1	8
 Pequenos Profetas	2026	1	6
 Perception: Truques da Mente		1	39
-Percy Jackson e os Olimpianos	2023	1	17
+Percy Jackson e os Olimpianos	2023	1	18
 Perdendo o Juizo		1	10
 Perdida		1	22
 Perdida no Tempo		1	961
@@ -212,6 +218,7 @@ Pergunte as Estrelas	2025	1	16
 Periféricos		1	8
 Pernille	2021	1	30
 Perninha em Obras		1	8
+Perninha em Obras	2022	1	8
 Perola Negra - Siyah Inc		1	20
 Perola Vermelha		1	102
 Perry Mason		1	16
@@ -230,14 +237,14 @@ Pesadelo no Andar de Cima O Caso de Ty e Bryn		1	4
 Pesadelos da Cirurgia Plastica		1	6
 Pesadelos da Natureza		1	6
 Pesadelos e Devaneios de Joko Anwar	2024	1	7
-Pesadelos e Paisagens Noturnas		1	8
-Pesca Implacável		1	16
-Pesca Mortal		1	286
-Pesca Mortal Inferno no Mar		1	8
-Pesca Mortal O Retorno do Viking		1	11
-Pesca Mortal: Aventura no Sangue		1	28
-Pessoa de Interesse		1	103
-Pestinha E Feroz		1	13
+Pesadelos e Paisagens Noturnas		2	8
+Pesca Implacável		2	16
+Pesca Mortal		2	286
+Pesca Mortal Inferno no Mar		2	8
+Pesca Mortal O Retorno do Viking		2	11
+Pesca Mortal: Aventura no Sangue		2	28
+Pessoa de Interesse		2	103
+Pestinha E Feroz		2	13
 Pet Channel		2	52
 Pet Stars		2	5
 Petals of Reincarnation		2	20
@@ -255,6 +262,7 @@ Phi Brain: Kami no Puzzle		2	25
 Phil do Futuro		2	43
 Philip K Dicks Electric Dreams		2	10
 Phineas E Ferb		2	157
+Phineas e Ferb	2007	2	155
 Phoenix Rising: Renascendo das Cinzas		2	2
 Photo Kano		2	13
 Photographer		2	6
@@ -280,6 +288,7 @@ Pinheiro Verde - Yesilcam		2	20
 Pink Lie: O Jogo da Mentira		2	12
 Pink Um Amor de Verao		2	12
 Pinky e o Cérebro		2	71
+Pinky e o Cérebro	1995	2	65
 Pintando com John		2	12
 Pinóquio		2	20
 Pinóquio e seus Amigos		2	13
@@ -304,6 +313,7 @@ Planeta Terra II	2016	2	6
 Planeta Tubarao		2	3
 Planeta Vivo	2024	2	4
 Planeta dos Abutres		2	12
+Planeta dos Abutres	2023	2	12
 Planetes		2	26
 Planos em Familia		2	6
 Plantao Policial	2025	2	8
@@ -319,6 +329,7 @@ Play Park		2	8
 Playback Juntas Somos Uma		2	20
 Players		2	10
 Please Excuse My Younger Brothers		2	28
+Please Excuse My Younger Brothers	2026	2	1
 Please Like Me		2	31
 Please Put Them On, Takamine-san		2	12
 Pluft, o Fantasminha		2	3
@@ -345,18 +356,17 @@ Pokemon Horizontes A Série		2	241
 Pokemon The Series XY		2	48
 Poker Face	2023	2	22
 Pokémon Evoluções		2	8
-Pokémon Gerações		2	18
-Pokémon Ranger Guardian Signs		2	1081
-Polar Bear Cafe		2	49
-Polaris Conspiracao Politica		2	18
-Poldark: Herói de Guerra	2015	2	43
-Poliana Moça		2	307
-Policial ou Bandido: O Enigma de Eirik Jensen		2	4
-Polos Opostos		2	10
-Polowanie na cmy		2	1
-Polvo		2	2
-Pombo		2	20
-Pombo - Guvercin		2	16
+Pokémon Gerações		3	18
+Pokémon Ranger Guardian Signs		3	1081
+Polaris Conspiracao Politica		3	18
+Poldark: Herói de Guerra	2015	3	43
+Poliana Moça		3	307
+Policial ou Bandido: O Enigma de Eirik Jensen		3	4
+Polos Opostos		3	10
+Polowanie na cmy		3	1
+Polvo		3	2
+Pombo		3	20
+Pombo - Guvercin		3	16
 Pompeia: Além do Tempo com Tom Hiddleston		3	3
 Pon no Michi		3	12
 Ponto Cego	2015	3	109
@@ -369,7 +379,6 @@ Ponto de Virada: 11/9 e a Guerra contra o Terror		3	5
 Pop Culture Jeopardy		3	1
 Pop Star Academy: KATSEYE		3	8
 Popeye e Filho		3	11
-Popolocrois Monogatari		3	25
 Poppa's House		3	12
 Popular Serizawa Acts Weird Around Me		3	20
 Poputepipikku		3	24
@@ -451,7 +460,6 @@ Presas na Bolivia		3	1
 Presente		3	1
 Presente de Amor - Regalo de Amor		3	100
 Presença de Anita		3	16
-Presidente		3	8
 Presidente Curtis	2026	3	10
 Presidente por Acidente		3	12
 Preso pela Vingança: Dormindo com o Inimigo		3	1
@@ -465,16 +473,16 @@ Pretty Smart		3	10
 Pretzel E Os Filhotes		3	8
 Pride		3	6
 Pride and Prejudice		3	21
-Primal		3	56
-Primavera Antecipada		3	24
-Primavera Azul		3	6
-Primeira Morte		3	8
-Primeira Vez Amor		3	16
-Primeira-dama		3	24
-Primeiro Amor		3	8
-Primeiro Amor, a Mil Por Hora		3	100
-Primeiro Homem		3	131
-Primeiro as Damas: Mulheres no Hip-Hop	2023	3	4
+Primal		3	55
+Primavera Antecipada		4	24
+Primavera Azul		4	6
+Primeira Morte		4	8
+Primeira Vez Amor		4	16
+Primeira-dama		4	24
+Primeiro Amor		4	8
+Primeiro Amor, a Mil Por Hora		4	100
+Primeiro Homem		4	131
+Primeiro as Damas: Mulheres no Hip-Hop	2023	4	4
 Primeiros Amores	2023	4	6
 Primeiros Anos		4	6
 Primo		4	8
@@ -484,7 +492,6 @@ Princesa e Estrategista		4	35
 Princesa e General: A Jornada da Heroína		4	1
 Princesas da Prisao		4	10
 Princesinha Sofia		4	107
-Princess Charming		4	12
 Princess Lover!		4	17
 Princess Principal		4	12
 Prisao de Mentiras	2021	4	97
@@ -499,11 +506,11 @@ Prison Break: Em Busca da Verdade	2005	4	88
 Prison Playbook		4	32
 Prison School		4	1
 Prison School Drama		4	12
-Prisoner		4	2
+Prisoner		4	12
 Prisão de Mulheres		4	58
 Private Banker		4	9
 Private Eyes		4	60
-Private Eyes West Coast		4	2
+Private Eyes West Coast		4	6
 Private Practice	2007	4	120
 Private Tutor to the Duke's Daughter		4	12
 Privilegios		4	6
@@ -583,18 +590,19 @@ Punky, A Levada Da Breca		4	106
 Pupa		4	12
 Puppy Dog Pals		4	90
 Puraore Pride of Orange		4	7
+Puraore! Pride of Orange	2021	4	1
 Pure		4	13
 Pure: Operação Secreta		4	12
 Pushing Daisies		4	20
-Putin: A Russian Spy Story		4	3
-Páginas da Vida		4	203
-Páginas da Vida - Páginas da Vida		4	10
-Pássaro Madrugador		4	75
-Pátria		4	8
-Pátria Educadora		4	3
-Pânico: A Série		4	29
-Pão-Pão, Beijo-Beijo		4	167
-Pé na Cova		4	71
+Putin: A Russian Spy Story		5	3
+Páginas da Vida		5	203
+Páginas da Vida - Páginas da Vida		5	10
+Pássaro Madrugador		5	75
+Pátria		5	8
+Pátria Educadora		5	3
+Pânico: A Série		5	29
+Pão-Pão, Beijo-Beijo		5	167
+Pé na Cova		5	71
 Pé na Jaca		5	179
 Pé-Grande do Alasca: O Assassino		5	8
 Pérola Negra		5	205

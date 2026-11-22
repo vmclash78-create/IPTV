@@ -1,2 +1,185 @@
 # SAIMO TV — CANAIS RESTRITOS
-# O Saimo não publica conteúdo adulto.
+# 35 canais · só aparecem depois do código
+#
+# Mesmo formato do catalogo.txt. Os apps baixam este arquivo ao destravar,
+# então renomear, tirar ou trocar link aqui vale sem recompilar nada.
+
+canal: Sexy Hot
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/sexy-hot.png
+fonte: https://net11.sattvgo.com.br/SEXY_HOT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Playboy TV
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/playboy-tv.png
+fonte: https://net11.sattvgo.com.br/PLAYBOY_TV/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Sex Privé
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/sex-prive.png
+fonte: https://eitvplay.appmembers.com.br/event86/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://net11.sattvgo.com.br/SEX_PRIVE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Venus
+categoria: Adulto
+fonte: https://net11.sattvgo.com.br/VENUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Private
+categoria: Adulto
+fonte: https://net11.sattvgo.com.br/PRIVATE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Anal
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/anal.m3u8
+qualidade: HD · 1280x720
+
+canal: Asian
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/asian.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Ass
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/bigass.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Dick
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/bigdick.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Tits
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/bigtits.m3u8
+qualidade: HD · 1280x720
+
+canal: Blowjob
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/blowjob.m3u8
+qualidade: HD · 1280x720
+
+canal: Compilation
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/compilation.m3u8
+qualidade: HD · 1280x720
+
+canal: Cuckold
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/cuckold.m3u8
+qualidade: HD · 1280x720
+
+canal: Fetish
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/fetish.m3u8
+qualidade: HD · 1280x720
+
+canal: Gangbang
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/gangbang.m3u8
+qualidade: HD · 1280x720
+
+canal: Gay
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/gay.m3u8
+qualidade: HD · 1280x720
+
+canal: Hardcore
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/hardcore.m3u8
+qualidade: HD · 1280x720
+
+canal: Interracial
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/interracial.m3u8
+qualidade: HD · 1280x720
+
+canal: Live Cams
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/livecams.m3u8
+qualidade: HD · 1280x720
+
+canal: Pornstar
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/pornstar.m3u8
+qualidade: HD · 1280x720
+
+canal: POV
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/pov.m3u8
+qualidade: HD · 1280x720
+
+canal: Rough
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/rough.m3u8
+qualidade: HD · 1280x720
+
+canal: Russian
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/russian.m3u8
+qualidade: HD · 1280x720
+
+canal: Threesome
+categoria: Adulto
+fonte: https://cdn.adultiptv.net/threesome.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Anal
+categoria: Adulto
+fonte: https://live.mycamtv.com/anal.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Asian
+categoria: Adulto
+fonte: https://live.mycamtv.com/asian.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Big Ass
+categoria: Adulto
+fonte: https://live.mycamtv.com/defstream.m3u8
+qualidade: FHD · 1920x1080
+
+canal: MyCam Big Tits
+categoria: Adulto
+fonte: https://live.mycamtv.com/bigtits.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Blonde
+categoria: Adulto
+fonte: https://live.mycamtv.com/blonde.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Brunette
+categoria: Adulto
+fonte: https://live.mycamtv.com/brunette.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Latina
+categoria: Adulto
+fonte: https://live.mycamtv.com/latina.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Squirt
+categoria: Adulto
+fonte: https://live.mycamtv.com/squirt.m3u8
+qualidade: FHD · 1920x1080
+
+canal: MyCam White
+categoria: Adulto
+fonte: https://live.mycamtv.com/white.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Jenny Live
+categoria: Adulto
+fonte: https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Miami TV Mexico
+categoria: Adulto
+fonte: https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+qualidade: HD · 1280x720

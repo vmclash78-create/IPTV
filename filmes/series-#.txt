@@ -2,6 +2,7 @@
 #I'm Looking for a Zombie		0	2
 #blackAF		0	8
 'Til Death		0	22
+(Des)encanto	2018	0	50
 007 Estrada para o Milhao		0	16
 009-1		0	13
 011ZE		0	220
@@ -10,12 +11,14 @@
 1% de Alguma Coisa		0	16
 100 Code		0	12
 100 Coisas para Fazer Antes de Virar Zumbi		0	24
+100 Coisas para Fazer Antes de Virar Zumbi	2023	0	12
 100 Days Wild		0	8
 100 Dias de Mentiras		0	12
 100 Dias para Morar: Começando do Zero		0	58
 100 Humanos		0	8
 100 Memorias		0	24
 100 Namoradas Que Te Amam Muuuuuito		0	92
+100 Namoradas Que Te Amam Muuuuuito	2023	0	36
 100 dias para se apaixonar		0	91
 100 días para enamorarse		0	41
 100% Destinada Ao Amor		0	1
@@ -26,7 +29,7 @@
 11 Tiros		0	11
 11 de Setembro: Em Retrospectiva		0	3
 11.22.63		0	8
-12 12 12		0	2
+12 12 12		0	3
 12 Monkeys		0	47
 12-sai.: Chiccha na Mune no Tokimeki		0	12
 13 Reasons Why	2017	0	49
@@ -54,6 +57,7 @@
 20000 Lguas Submarinas		0	6
 2002 Uma Historia Marcante		0	3
 2020 - Japão Submerso		0	10
+2020 - Japão Submerso	2020	0	10
 20th Century Boy and Girl		0	32
 21 Thunder		0	8
 22 11 63		0	8
@@ -87,6 +91,7 @@
 4 Blocks Zero		0	16
 4 Casamentos E Um Funeral		0	10
 4 Contra o Apocalipse		0	31
+4 Contra o Apocalipse	2019	0	31
 4 Cut Hero		0	10
 4 Elements The Water		0	16
 4 Minutes		0	2
@@ -108,16 +113,16 @@
 666 Park Avenue		0	13
 68 Whiskey		0	9
 7 Chances Para...		0	20
-7 Seeds		0	24
+7 Seeds		0	36
 72 Animais Perigosos - America Latina		0	12
 7O3X Fastest Finger First		0	12
 7Seeds		0	36
-7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!		0	24
-8 Days		0	8
-8 Dias		0	8
-8 Regrinhas Basicas... para Namorar Minhas Filhas Adolescentes		0	52
-8 em Istambul		0	8
-8 em Istambul - Bir Baskadir		0	8
+7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!		1	24
+8 Days		1	8
+8 Dias		1	8
+8 Regrinhas Basicas... para Namorar Minhas Filhas Adolescentes		1	52
+8 em Istambul		1	8
+8 em Istambul - Bir Baskadir		1	8
 86		1	11
 86 EIGHTY-SIX		1	12
 9 Anos de Você		1	9
@@ -144,4 +149,5 @@
 9JKL		1	16
 9mm: São Paulo		1	20
 Звоните ДиКаприо!		1	120
+百日成王	2026	1	24
 ＜JUNG KOOK: I AM STILL＞ THE ORIGINAL		1	6

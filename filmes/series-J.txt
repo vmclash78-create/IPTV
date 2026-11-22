@@ -4,6 +4,7 @@ JK		0	47
 JONAS		0	34
 Ja Chegamos?		0	17
 Jaadugar: A Witch in Mongolia		0	19
+Jaadugar: A Witch in Mongolia	2026	0	12
 Jack Frost		0	6
 Jack Ryan de Tom Clancy	2018	0	30
 Jack e Joker Voce Roubou Meu Coracao		0	13
@@ -11,7 +12,8 @@ Jack of All Trades Party of None		0	24
 Jack! – Um programa sobre gentileza		0	16
 Jade Foster é Minha		0	1
 Jaguar		0	6
-Jake Long: O Dragão Ocidental		0	56
+Jake Long: O Dragão Ocidental		0	55
+Jake Long: O Dragão Ocidental	2005	0	52
 Jakers! As Aventuras de Piggley Winks		0	44
 Jakten på en mördare		0	6
 Jaku Chara Tomozaki kun		0	27
@@ -23,6 +25,7 @@ James May: Nosso Homem no...		0	15
 Jamestown		0	23
 Jamie Vs Britney: O Julgamento da Família Spears		0	2
 Jane		0	100
+Jane	2023	0	15
 Jane A Virgem	2014	0	100
 Jantar com Drags		0	10
 Japao Submerso		0	10
@@ -41,6 +44,7 @@ Jeitos de Morar		0	8
 Jellystone		0	67
 Jenny		0	40
 Jentry Chau contra O Submundo		0	13
+Jentry Chau contra O Submundo	2024	0	13
 Jericho	2006	0	59
 Jerry Jones e seus Cowboys		0	8
 Jerry Springer Brigas, Camera, Açao		0	2
@@ -65,7 +69,7 @@ Jiraiya: O Incrível Ninja	1988	0	50
 Jirisan		0	16
 Jiva!		0	5
 Jo		0	9
-JoJo's Bizarre Adventure	2012	0	199
+JoJo's Bizarre Adventure	2012	0	200
 JoJos Bizarre Adventure	2012	0	190
 Joan	2024	0	6
 Joan de Arcadia		0	45
@@ -114,10 +118,15 @@ Jonestown: Massacre no Culto		0	6
 Jonny Quest		0	39
 Jorels Brother Shostners Show		0	4
 Jormungand		0	12
-Jornada Astral		0	12
-Jornada ao Oeste		0	11
-Jornada de Heróis		0	10
-Jornada do Amor - Aziz Mahmud Hüdayi Aşkın Yolculuğu		0	20
+Joshi Kausei		0	12
+Joukamachi no Dandelion		0	12
+Juliet no Internato		0	12
+Junjo Romantica		0	12
+Just Because!		0	12
+Jornada Astral		1	12
+Jornada ao Oeste		1	11
+Jornada de Heróis		1	10
+Jornada do Amor - Aziz Mahmud Hüdayi Aşkın Yolculuğu		1	20
 Jornada dos Passaros - Kuşlarla Yolculuk		1	30
 Jornada nas Estrelas		1	80
 Jornada nas Estrelas Subalternos		1	49
@@ -128,17 +137,15 @@ Jornada nas Estrelas: A Serie Animada		1	22
 Jornada nas Estrelas: Enterprise		1	97
 Jornada nas Estrelas: Picard		1	30
 Jornada nas Estrelas: Prodigy		1	49
-Joshi Kausei		1	12
 Joshikousei no Mudazukai		1	12
-Joshiraku		1	13
 Josie e as Gatinhas no Espaço		1	16
 José Comilão		1	1
 José Do Egito		1	38
-Joukamachi no Dandelion		1	12
 Journal with Witch		1	7
 Journey With You		1	8
 Jovem Davi		1	5
 Jovem Diaba		1	10
+Jovem Diaba	2022	1	10
 Jovem Sheldon	None	1	272
 Jovem Sherlock	2026	1	8
 Jovem Solteiro à Procura		1	30
@@ -158,18 +165,20 @@ Jujutsu Kaisen	2020	1	149
 Julia		1	16
 Julie and the Phantoms		1	9
 Julie e os Fantasmas		1	9
-Juliet no Internato		1	12
 Julio & Verne		1	13
 Jun e Jun		1	8
-Junior Bake off Brasil		1	8
+Junior Bake off Brasil		1	7
 Junji Ito: Histórias Macabras do Japão		1	12
-Junjo Romantica		1	12
+Junji Ito: Histórias Macabras do Japão	2023	1	12
 Juntas & Separadas		1	10
 Juntas e Separadas		1	10
 Juramento de Honra - Seref Sozu		1	4
+Jurassic World Teoria do Caos		1	39
 Jurassic World Teoria do Caos	None	1	39
+Jurassic World: Acampamento Jurássico		1	49
+Jurassic World: Acampamento Jurássico	2020	1	48
 Jurassic World: Acampamento Jurássico	None	1	49
-Just Because!		1	12
+Jurassic World: Teoria do Caos	2024	1	20
 Just a Little Game: Os Bastidores da LOUD		1	4
 Justica Criminal Estados Unidos		1	6
 Justica Tardia		1	20
@@ -189,7 +198,6 @@ Juuni Taisen		1	12
 Juvenile Justice		1	10
 Juventude Masculina		1	10
 Juventude Roubada Por Dentro da Seita Universitaria		1	3
-Jyuushin Enbu: Hero Tales		1	18
 Já Que Você Nunca Foi Minha		1	29
 Já Tivemos Uma Casa		1	1
 jeen-yuhs Trilogia Kanye		1	3

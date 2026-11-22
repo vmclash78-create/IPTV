@@ -5,12 +5,14 @@ NCIS Nova Orleans	2014	0	155
 NCIS Origins	2024	0	54
 NCIS Sydney	2023	0	56
 NCIS Tony e Ziva		0	10
-NCIS: Investigação Naval	2003	0	551
+NCIS: Investigação Naval	2003	0	550
 NCIS: Los Angeles	2009	0	322
 NCIS: New York (2026)		0	6
 NCIS: Tony &amp; Ziva		0	10
 NEEDY GIRL OVERDOSE		0	14
+NEEDY GIRL OVERDOSE	2026	0	12
 NIPPON SANGOKU A Guerra das Tres Nacoes		0	12
+NIPPON SANGOKU: A Guerra das Três Nações	2026	0	12
 NOS4A2		0	20
 NOUR		0	10
 NY Ink		0	19
@@ -94,7 +96,6 @@ Narcos	2015	0	30
 Narcos: Mexico	2018	0	30
 Narcosatanica		0	3
 Narcoworld: Histórias do Tráfico		0	4
-Narenare -Cheer for you!		0	11
 Narrativas Negras Não Contadas		0	11
 Narue No Sekai		0	12
 Naruto	2002	0	295
@@ -117,7 +118,8 @@ Natsuyuki Rendezvous		0	11
 Nattryttarna		0	8
 Navillera		0	12
 Nazotokine		0	12
-NeXt		0	20
+Night Head 2041	2041	0	12
+NeXt		1	20
 Neagley: Detetive Particular	2026	1	8
 Neanderthal Apocalypse		1	2
 Necaxa		1	18
@@ -137,7 +139,7 @@ Nem Tao Perfeitos Assim	2023	1	26
 Nemesis		1	8
 Neo Yokio		1	7
 Neon	2023	1	8
-Neon Genesis Evangelion		1	26
+Neon Genesis Evangelion	1995	1	26
 Neon Genesis Evangelion: Platinum Edition (Renewal of Evangelion		1	26
 Nerd of the Dead		1	4
 Nero	2025	1	8
@@ -161,11 +163,10 @@ Nichijou - My Ordinary Life		1	26
 Nick e Aaron Carter A Queda dos Idolos		1	4
 Nicky, Ricky, Dicky e Dawn		1	82
 NieR:Automata Ver1.1a		1	48
-Night Head 2041	2041	1	12
+NieR:Automata Ver1.1a	2023	1	1
 Night Sky		1	24
 Night Stalker: Tortura e Terror		1	4
 Night Tales		1	24
-Night Warriors: Darkstalkers Revenge		1	4
 Nightflyers		1	10
 Nightsleeper	2024	1	6
 Nijiyon Animation		1	24
@@ -192,7 +193,9 @@ Ninja Slayer From Animation		1	7
 Ninja Vs Gokudo		1	18
 Ninjago Ascensao dos Dragoes		1	80
 Ninjago Legends: Monstrosity		1	1
+Ninjago: Ascensão dos Dragões	2023	1	20
 Ninjago: Mestres do Spinjitzu		1	98
+Ninjago: Mestres do Spinjitzu	2012	1	13
 Nip Tuck		1	87
 Nivea Soares -DVDs & Shows		1	29
 Nivel Secreto	2024	1	15
@@ -234,10 +237,10 @@ Nobunagun		1	13
 Nodame Cantabile		1	11
 Nogizaka Haruka No Himitsu		1	12
 Nois na Firma		1	18
-Noite Adentro		1	12
-Noite Na Terra Em Cores		1	18
-Noite de Paz		1	1
-Noite de Verao		1	5
+Noite Adentro		2	12
+Noite Na Terra Em Cores		2	18
+Noite de Paz		2	1
+Noite de Verao		2	5
 Noite e Dia		2	20
 Noites de Corrida em Bowman Gray		2	8
 Noiva Renegada		2	1
@@ -317,6 +320,7 @@ Nua e Crua - Ciplak		2	8
 Nuances		2	6
 Nudes		2	10
 Nukitashi the Animation		2	10
+Nukitashi the Animation	2025	2	1
 Numero 309		2	266
 Numero 309 - Versão Prolongada		2	65
 Nunca		2	4
@@ -339,6 +343,7 @@ Não Mexa com a Minha Irmã		2	1
 Não Provoque	2019	2	10
 Não Sintam Minha Falta Quando Eu Me For		2	1
 Não Sou um Robô		2	16
+Não Tem Dinheiro que Pague	2026	2	8
 Não Tenho Medo		2	6
 Não chore Istambul - Sen Ağlama İstanbul		2	8
 Não se Apaixone		2	49

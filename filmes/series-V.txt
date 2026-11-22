@@ -14,7 +14,6 @@ Vai Que Cola		0	520
 Vai na Fé		0	179
 Vai!		0	12
 Vai, Cachorro. Vai!		0	29
-Vai,Cara de Lula!		0	2
 Vale Tudo		0	204
 Vale Tudo com Tim Maia		0	3
 Vale dos Esquecidos		0	10
@@ -63,6 +62,7 @@ Velma	2023	0	20
 Velocidade Furiosa		0	22
 Velocidade e Amor		0	30
 Velozes e Furiosos: Espiões do Asfalto		0	42
+Velozes e Furiosos: Espiões do Asfalto	2019	0	32
 Velvet Collection		0	10
 Vencer na Vida		0	33
 Vencer o Desamor		0	97
@@ -151,6 +151,7 @@ Vienna Blood		1	11
 Vietna A Guerra Que Mudou os EUA		1	6
 Viewpoint		1	5
 Viewtiful Joe		1	51
+Viewtiful Joe	2004	1	51
 Vigarista Profissional		1	8
 Vigil		1	6
 Vigilante		1	8
@@ -237,7 +238,7 @@ Você é Meu Tesouro		1	2
 Você é Minha Glória		1	32
 Você é Minha Primavera		1	16
 Você é a Melhor, Lee Soon Shin		1	50
-Vocês Não Me Conhecem		1	4
+Vocês Não Me Conhecem		2	4
 Voepass 2283: A Queda	2026	2	3
 Volta Pra Mim		2	95
 Volta Priscila	2024	2	4

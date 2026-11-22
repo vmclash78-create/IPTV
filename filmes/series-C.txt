@@ -2,8 +2,9 @@ C. B. Strike		0	23
 C.H.U.E.C.O		0	25
 C: The Money of Soul and Possibility Control		0	11
 CEO, Aquele Estagiário é, Na Verdade, Sua Esposa		0	2
-CIA	2026	0	24
+CIA	2026	0	26
 CITY THE ANIMATION		0	13
+CITY THE ANIMATION	2025	0	13
 COBRA		0	26
 CODE GEASS: Rozé da Reconquista		0	12
 COM QUEM DIABOS EU DORMI?!		0	2
@@ -28,7 +29,7 @@ Cacadores de Fugitivos		0	9
 Cacau - Cacau		0	142
 Cachito do Ceu		0	110
 Cachorrinhos do Outro Mundo		0	10
-Cachorro. Vai!		0	27
+Cachorro. Vai!		0	26
 Cachorros Grandes		0	8
 Cada Batida do Coração é para Você		0	1
 Cada Minuto Conta	2024	0	10
@@ -59,7 +60,6 @@ Camaleões		0	135
 Cambalacho		0	173
 Camden		0	8
 Camila		0	90
-Camilo - O Presidente		0	8
 Caminantes A Trilha do Medo		0	7
 Caminhando Sobre Gelo Fino		0	24
 Caminho das Índias		0	203
@@ -108,6 +108,8 @@ Capitães		0	8
 Capitães da América		0	8
 Capitães do Mundo	2023	0	6
 Capitão Fall		0	10
+Capitão Fall	2023	0	10
+Capitão Planeta	1990	0	26
 Capoeiras		0	6
 Caprica		0	18
 Captain Fantastic		0	3
@@ -115,9 +117,9 @@ Captain Tsubasa	2018	0	91
 Captivated		0	4
 Captivated, by You		0	4
 Captive: Histórias sobre Reféns		0	8
-Capturando seu Assassino As Garotas da Ponte		0	3
-Capture Lover		0	10
-Cara & Coroa		0	211
+Capturando seu Assassino As Garotas da Ponte		1	3
+Capture Lover		1	10
+Cara & Coroa		1	211
 Cara Gente Branca		1	40
 Cara a Cara		1	10
 Cara a Cara - Yuz Yuze		1	9
@@ -132,6 +134,7 @@ Caras e Bocas		1	232
 Caravana das Drags		1	9
 Carcereiros	2017	1	30
 Cardcaptor Sakura	1998	1	105
+Cardcaptor Sakura / Sakura Card Captors: Clear Card	1998	1	105
 Cardfight Vanguard overDress		1	89
 Cardinal	2017	1	43
 Carga Explosiva: A Série		1	24
@@ -143,6 +146,7 @@ Carlo		1	13
 Carlos Alcaraz Do Meu Jeito		1	3
 Carma	2025	1	6
 Carmen Sandiego		1	32
+Carmen Sandiego	2019	1	32
 Carnaval RJ		1	12
 Carnaval SP		1	14
 Carnaval da Sabrina		1	28
@@ -151,6 +155,7 @@ Carnival Phantasm		1	14
 Carnival Row	2019	1	18
 Carnivale		1	24
 Carol e o Fim do Mundo		1	10
+Carol e o Fim do Mundo	2023	1	10
 Carolina Marin		1	1
 Caroline Flack A Busca Pela Verdade		1	2
 Carrapatos e Catapultas		1	1
@@ -162,6 +167,7 @@ Carros Irados		1	126
 Carros Irados A Disputa		1	8
 Carros Unicos	2023	1	12
 Carros na Estrada		1	9
+Carros na Estrada	2022	1	9
 Carrossel		1	520
 Carruagem Errada Noivo Certo		1	23
 Carta ao Rei		1	6
@@ -170,7 +176,7 @@ Cartas do Passado		1	8
 Cartas na Manga A Serie		1	4
 Cartel Crew		1	10
 Carter		1	20
-Carême - O Rebelde da Culinária	2025	1	9
+Carême - O Rebelde da Culinária	2025	1	8
 Carísima		1	10
 Casa Fantasma Hospedeiro Fantasma		1	8
 Casa Feia Nunca Mais!		1	11
@@ -231,13 +237,13 @@ Case X Decoded		1	12
 Case com Ela ou Perca-a		1	1
 Case-se com Ele no Lugar Dela		1	48
 Caseira Expulsa: A Caipira Retorna Vitoriosa		1	1
-Casey Anthony Where the Truth Lies		1	3
-Cashero		1	8
-Caso Arquivado Quem Matou JonBenét Ramsey?		1	3
-Caso Arquivado: Os Assassinatos do Tylenol		1	3
-Caso Jean Charles Um Brasileiro Morto Por Engano	2025	1	4
-Caso Roswell: O Veredito Final		1	6
-Casos Arquivados Mortes No Velho Oeste		1	6
+Casey Anthony Where the Truth Lies		2	3
+Cashero		2	8
+Caso Arquivado Quem Matou JonBenét Ramsey?		2	3
+Caso Arquivado: Os Assassinatos do Tylenol		2	3
+Caso Jean Charles Um Brasileiro Morto Por Engano	2025	2	4
+Caso Roswell: O Veredito Final		2	6
+Casos Arquivados Mortes No Velho Oeste		2	6
 Casos Arquivados Os Assassinatos de Rifkin		2	2
 Casos Bizarros		2	9
 Casos Chocantes da Historia		2	8
@@ -250,6 +256,7 @@ Castle		2	173
 Castle Rock	2018	2	20
 Castle and Castle		2	13
 Castlevania		2	32
+Castlevania	2017	2	32
 Castlevania Noturno	2023	2	16
 Casual		2	13
 Casão: Num Jogo Sem Regras	2022	2	4
@@ -273,7 +280,9 @@ Cautiva por Amor		2	120
 Cavaleiro da Lua		2	6
 Cavalo de Fogo		2	13
 Cavalos e Carrascos		2	6
-Caverna do Dragão	None	2	41
+Caverna Do Dragão		2	27
+Caverna do Dragão	1983	2	27
+Caverna do Dragão	None	2	40
 Cazalbe O Herdeiro da Graca		2	5
 Cazuza Além da Música		2	4
 Caça Talentos		2	299
@@ -284,6 +293,7 @@ Caçadoras de Recompensas		2	10
 Caçadores		2	19
 Caçadores da Verdade		2	2
 Caçadores de Bugs		2	19
+Caçadores de Bugs	2020	2	19
 Caçadores de Demônios		2	56
 Caçadores de Fantasmas		2	29
 Caçadores de Naufrágios Austrália		2	6
@@ -291,6 +301,7 @@ Caçadores de Pítons		2	22
 Caçadores de Relíquias		2	44
 Caçadores de Tempestades		2	5
 Caçadores de Trolls		2	52
+Caçadores de Trolls	2016	2	52
 Caçadores de Veneno		2	6
 Caçando Hitler		2	8
 Caí Perfeitamente nos Seus Braços		2	1
@@ -318,14 +329,14 @@ Central de Bicos		2	40
 Ceo Quer Meu Pequeno Rascal		2	1
 Cerco ao Palácio		2	8
 Cesar Millan: Melhores Humanos, Melhores Cachorros		2	22
-Cestvs: The Roman Fighter		2	5
+Cestvs: The Roman Fighter		2	1
 Ceu Selvagem		2	2
 Chacrinha: A Minissérie		2	4
 Chad		2	9
 Chad Powers O Quarterback	2025	2	12
 Chad and JT Go Deep		2	6
 Chai Chai		2	78
-Chaika -The Coffin Princess-		2	12
+Chaika -The Coffin Princess-		2	1
 Chainsaw Man	2022	2	12
 Chainsmoker Cat		2	18
 Challenger: Voo Final		2	4
@@ -344,20 +355,22 @@ Channel Zero	2016	2	18
 Chantel e Pedro em Família		2	18
 Chaos Dragon		2	12
 Chaotic		2	74
+Chaotic	2006	2	74
 Chaparral		2	98
-Chapolin Colorado		2	251
-Chapolin e Os Colorados	2026	2	10
-Charles O Novo Rei		2	2
-Charlie Brown - Os Viajantes Mayflower		2	6
-Charlie e Lola		2	10
-Charlotte		2	26
-Charmed: Jovens Bruxas		2	178
-Charmed: Nova Geração	2018	2	72
-Chasing Monsters		2	12
-Chaves		2	275
-Chaves Em Desenho Animado		2	134
-Cheaters: Amor e Traição	2022	2	6
-Cheating Craft		2	12
+Chapolin Colorado		3	251
+Chapolin e Os Colorados	2026	3	10
+Charles O Novo Rei		3	2
+Charlie Brown - Os Viajantes Mayflower		3	6
+Charlie e Lola		3	10
+Charlotte		3	26
+Charmed: Jovens Bruxas		3	178
+Charmed: Nova Geração	2018	3	72
+Chasing Monsters		3	12
+Chaves		3	275
+Chaves Em Desenho Animado		3	134
+Chaves Em Desenho Animado	2006	3	113
+Cheaters: Amor e Traição	2022	3	6
+Cheating Craft		3	12
 Check In to You		3	6
 Cheer		3	21
 Cheers Aquele Bar		3	46
@@ -427,7 +440,6 @@ Chitãozinho & Xororó - Uma História de Sucesso		3	5
 Chivalry of a Failed Knight		3	24
 Chloe		3	6
 Chobits		3	24
-Choboraunyopomi Gekijou Ai Mai Mii		3	13
 Chocolate com Pimenta		3	209
 Choose Earth		3	1
 Chopped Nova Geracao		3	5
@@ -464,20 +476,21 @@ Cidade Pacata, Crime Cruel		3	69
 Cidade Paradiso		3	8
 Cidade Proibida		3	12
 Cidade Proibida - Bu Sehir Arkandan Gelecek		3	20
-Cidade Secreta	2016	3	7
-Cidade Subterrânea		3	10
-Cidade Toxica	2025	3	4
-Cidade Turca - Zembilli		3	13
-Cidade das Esmeraldas		3	10
-Cidade das Estrelas	2026	3	8
-Cidade de Deus A Luta Nao Para	2024	3	8
-Cidade de Fantasmas		3	6
-Cidade de Sangue		3	8
-Cidade de Sombras		3	6
-Cidade do Caos		3	6
-Cidade dos Campeões	2021	3	8
-Cidade dos Homens		3	19
-Cidade dos Homens T		3	27
+Cidade Secreta	2016	4	7
+Cidade Subterrânea		4	10
+Cidade Toxica	2025	4	4
+Cidade Turca - Zembilli		4	13
+Cidade das Esmeraldas		4	10
+Cidade das Estrelas	2026	4	8
+Cidade de Deus A Luta Nao Para	2024	4	8
+Cidade de Fantasmas		4	6
+Cidade de Fantasmas	2021	4	6
+Cidade de Sangue		4	8
+Cidade de Sombras		4	6
+Cidade do Caos		4	6
+Cidade dos Campeões	2021	4	8
+Cidade dos Homens		4	19
+Cidade dos Homens T		4	27
 Cidade dos Mortos	2019	4	8
 Cidade dos Pinguins	None	4	8
 Cidade em Chamas		4	8
@@ -583,21 +596,21 @@ Colosio Assassinato Politico		4	6
 Columbo		4	30
 Colônia		4	10
 Colônia Dignidade: Uma Seita Nazista no Chile		4	6
-Com Amor		4	11
-Com Amor Meghan		4	8
-Com Amor, Victor		4	28
-Com Carinho Kitty	2023	4	26
-Com Pocoes Eu Me Garanto		4	12
-Com a Permissão do Tribunal		4	12
-Com os Nervos em Franja		4	12
-Com Água até o Pescoço		4	149
-Comando Estelar Flashman		4	50
-Comando das Criaturas	2024	4	7
-Come Back Mister		4	16
-Comedy Revenge		4	6
-Comedy Royale		4	6
-Comer Correr Amar		4	28
-Cometerra	2025	4	7
+Com Amor		5	11
+Com Amor Meghan		5	8
+Com Amor, Victor		5	28
+Com Carinho Kitty	2023	5	26
+Com Pocoes Eu Me Garanto		5	12
+Com a Permissão do Tribunal		5	12
+Com os Nervos em Franja		5	12
+Com Água até o Pescoço		5	149
+Comando Estelar Flashman		5	50
+Comando das Criaturas	2024	5	7
+Come Back Mister		5	16
+Comedy Revenge		5	6
+Comedy Royale		5	6
+Comer Correr Amar		5	28
+Cometerra	2025	5	7
 Começar de Novo		5	191
 Comidas Cheias De História		5	20
 Community		5	110
@@ -649,7 +662,7 @@ Compro Likes		5	5
 Compulsion		5	7
 Conan O Menino do Futuro		5	26
 Conan O'Brien Vai Nessa		5	9
-Conception		5	12
+Conception		5	1
 Concrete Market		5	7
 Condenado ao Amor - Aşka Mahkum		5	81
 Condenados pela Mídia		5	12
@@ -703,21 +716,21 @@ Contagem Regressiva Jake Paul vs. Mike Tyson		5	3
 Contatos Imediatos Oceania		5	6
 Conte Tudo Para Mim		5	6
 Contigo Sim		5	51
-Contigo, Guerrero		5	6
-Continuum		5	43
-Conto da Cidade Distante - Uzak Sehrin Masali		5	5
-Conto da Rosa - Gül Masalı		5	17
-Conto de Cinzas - Kül Masalı		5	10
-Contos		5	123
-Contos Do Loop		5	8
-Contos Futurísticos		5	7
-Contos da Noite		5	18
-Contos de The Walking Dead		5	12
-Contra o Destino - Kadere Karsi		5	29
-Contracapa		5	13
-Contraste		5	8
-Contratempos		5	55
-Contrato de Casamento		5	16
+Contigo, Guerrero		6	6
+Continuum		6	43
+Conto da Cidade Distante - Uzak Sehrin Masali		6	5
+Conto da Rosa - Gül Masalı		6	17
+Conto de Cinzas - Kül Masalı		6	10
+Contos		6	123
+Contos Do Loop		6	8
+Contos Futurísticos		6	7
+Contos da Noite		6	18
+Contos de The Walking Dead		6	12
+Contra o Destino - Kadere Karsi		6	29
+Contracapa		6	13
+Contraste		6	8
+Contratempos		6	55
+Contrato de Casamento		6	16
 Control Z	2020	6	24
 Conturbado		6	19
 Conversa com Bial		6	189
@@ -736,7 +749,7 @@ Cooking Crush		6	8
 Cooking Life		6	1
 Cool McCool: O Detetive Trapalhão		6	17
 Coop e Cami		6	37
-Cop Craft		6	12
+Cop Craft		6	1
 Copa Rio, Vira-latas e o Supermundial		6	3
 Copan		6	10
 Copan Websérie		6	10
@@ -755,6 +768,7 @@ Coracoes Destinados		6	38
 Coracoes Solitarios - Yalniz Kalpler		6	100
 Coragem Irmao		6	6
 Coragem, o Cão Covarde		6	53
+Coragem, o Cão Covarde	1999	6	52
 Coração Alado		6	6
 Coração Escarlate		6	35
 Coração Esmeralda		6	105
@@ -774,6 +788,7 @@ Corações Feridos		6	93
 Corações em Contagem Regressiva		6	1
 Cordel Encantado		6	188
 Cordelicos		6	26
+Cordélicos	2022	6	26
 Coreia O Pais do Kimchi		6	3
 Coroa Reivindicada: Ela Ascende da Traição		6	1
 Coroada de Amor Sua Volta por Cima Com Tres Filhos		6	60
@@ -792,6 +807,7 @@ Corrente Implacavel		6	18
 Corretores de Luxo em Marbella		6	6
 Corrida Ao Redor Da Terra		6	7
 Corrida Maluca		6	34
+Corrida Maluca	1968	6	34
 Corrida na Lama		6	6
 Corrida pela Coroa		6	6
 Corridas Proibidas Os Melhores da America		6	28
@@ -820,24 +836,24 @@ Cozinha em Conta		6	8
 Cozinhando com Paris Hilton		6	6
 Cozinhando em 420		6	12
 Cozinhando em 4:20		6	12
-Cozinhando o Impossível		6	8
-Cozinhar Um Urso		6	1
-Cracked		6	21
-Craftopia		6	12
-Craith		6	8
-Crash Landing On You		6	16
-Crash e Bernstein		6	39
-Crashing		6	16
-Crazy Ex Girlfriend	2015	6	12
-Crazy Love		6	16
-Crazyhead		6	6
-Creepshow		6	25
-Crenças - Histórias de Horror		6	12
-Crepusculo dos Deuses	2024	6	8
-Crepúsculo de Um Crime		6	6
-Crescendo		6	10
-Crescidinhos		6	19
-Criadas E Malvadas		6	26
+Cozinhando o Impossível		7	8
+Cozinhar Um Urso		7	1
+Cracked		7	21
+Craftopia		7	12
+Craith		7	8
+Crash Landing On You		7	16
+Crash e Bernstein		7	39
+Crashing		7	16
+Crazy Ex Girlfriend	2015	7	12
+Crazy Love		7	16
+Crazyhead		7	6
+Creepshow		7	25
+Crenças - Histórias de Horror		7	12
+Crepusculo dos Deuses	2024	7	8
+Crepúsculo de Um Crime		7	6
+Crescendo		7	10
+Crescidinhos		7	19
+Criadas E Malvadas		7	26
 Criadas Malignas - Hizmetçiler		7	3
 Criadores de Diversão		7	8
 Criadores de Supercarros		7	15
@@ -883,7 +899,6 @@ Cronicas da Deusa Gato		7	13
 Cronicas de Metal Hurlant		7	12
 Cronicas de um Lar		7	10
 Croods,o Início	2015	7	52
-Crookhaven		7	8
 Crossbones		7	9
 Crossing Lines		7	34
 Crossing Swords		7	28
@@ -897,7 +912,7 @@ Crystal Lake		7	8
 Crystal Lake (2026)	2026	7	50
 Crônicas De São Francisco		7	10
 Crônicas de San Francisco		7	10
-Crônicas de um Aristocrata em Outro Mundo		7	12
+Crônicas de um Aristocrata em Outro Mundo		7	16
 Cuba Libre		7	6
 Cube x Cursed x Curious (C³)		7	12
 Cuckoo		7	25
@@ -924,7 +939,6 @@ Cybercop: Os Policiais do Futuro		7	34
 Cyberpunk: Edgerunners		7	20
 Cyberpunk: Mercenários	2022	7	36
 Cycle of Sin		7	20
-Cyclops Shoujo Saipuu		7	12
 Cypher		7	3
 Câmera Entre Balas		7	8
 Cães de Berlim		7	10
@@ -932,6 +946,7 @@ Cães de Caça	2023	7	15
 Círculo Fechado	2023	7	6
 Círculo de Confiança		7	8
 Círculo de Fogo: The Black		7	14
+Círculo de Fogo: The Black	2021	7	14
 Código Negro		7	81
 Cúmplices de um Resgate		7	465
 c		7	6

@@ -1,6 +1,7 @@
 W - Dois Mundos	2016	0	16
 W: Wish		0	13
 WANDANCE		0	22
+WANDANCE	2025	0	12
 WITCH WATCH		0	48
 WONDER EGG PRIORITY		0	13
 WUKONG		0	12
@@ -44,13 +45,13 @@ We Are		0	16
 We Are Who We Are		0	16
 We Call It Imagineering		0	8
 We Hunt Together		0	10
-We Never Learn: BOKUBEN		0	12
 WeCrashed	2022	0	8
 Weak Hero Class 1		0	15
 Wedding Peach		0	50
 Weeds		0	102
 Weird City		0	6
 Welcome to Demon School! Iruma-kun		0	89
+Welcome to Demon School! Iruma-kun	2019	0	87
 Welcome to Flatch	2022	0	27
 Welcome to Japan, Ms. Elf!		0	11
 Welcome to Utmark		0	8
@@ -113,14 +114,14 @@ Wishing Upon the Shooting Stars		0	12
 Wisting		0	50
 Wistoria Wand and Sword		0	24
 Witch Hat Atelier		0	13
+Witch Hat Atelier	2026	0	13
 Witch Hunter Robin		0	26
 With You Our Love Will Make It Through		0	12
 With You and the Rain		0	11
-Without Sin		0	4
-Without Sin Sem Pecado		0	4
+Wizard Barristers: Benmashi Cecil		0	12
+Without Sin		1	4
+Without Sin Sem Pecado		1	4
 Witness Number 3		1	4
-Wizard Barristers: Benmashi Cecil		1	12
-Wo De Ni Tian Shen Qi		1	14
 Woke		1	8
 Wolf	2011	1	12
 Wolf Creek		1	10
@@ -137,9 +138,7 @@ Woori The Virgin		1	9
 Work Later Drink Now		1	24
 Work in Progress		1	8
 Workin Moms		1	26
-Working		1	13
 World Dice Tour		1	14
-World Trigger		1	169
 World of Immortals		1	26
 Wotakoi: O Amor é Difícil para Otaku		1	11
 Wreck		1	6
@@ -149,6 +148,7 @@ Wu Thai Drama 2026	2026	1	1
 Wu-Tang: An American Saga	2019	1	30
 Wyatt Earp and the Cowboy War		1	6
 Wylde Pak		1	13
+Wylde Pak	2025	1	13
 Wynonna Earp		1	49
 Wynonna Earp: A Maldicao dos Renascidos	2016	1	39
 wtFOCK		1	52

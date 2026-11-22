@@ -3,8 +3,6 @@ UFO Princess Valkyrie		0	12
 UNDER NINJA		0	12
 Uchi no Maid ga Uzasugiru!		0	13
 Uchi no Shishou wa Shippo ga Nai		0	8
-Uchouten Kazoku		0	13
-Uchuu Senkan Tiramisu		0	13
 Udon no Kuni no Kiniro Kemari		0	12
 Ueno san wa Bukiyou		0	12
 Uga-Uga		0	221
@@ -17,10 +15,10 @@ Ultimas Ferias	2023	0	8
 Ultimate Beastmaster		0	29
 Ultimate Beastmaster Brasil		0	29
 Ultimate Homem-Aranha		0	104
+Ultimate Homem-Aranha	2012	0	104
 Ultimo Ato	2024	0	7
 Ultimo Dia dos Nazis		0	6
 Ultimo Quadro - Ultima Foto - Son Kare		0	7
-Ultra Maniac		0	26
 Ultra Violeta e o Escorpião Negro		0	16
 Ultraman		0	31
 Ultraman Blazar		0	50
@@ -57,6 +55,7 @@ Um Cavalheiro em Moscou	2024	0	13
 Um Choque de Amor		0	10
 Um Contador no Mundo do Crime	2024	0	9
 Um Conto Sombrio dos Grimm		0	10
+Um Conto Sombrio dos Grimm	2021	0	10
 Um Conto de Duas Cidades	2026	0	4
 Um Conto de Fadas Perfeito		0	5
 Um Conto de Uma Noite - Bir Gece Masali		0	35
@@ -118,6 +117,10 @@ Um Trilhao de Dolares		0	6
 Um Vento Louco - Bir Deli Ruzgar		0	6
 Um Yakuza Genial: Tatsu Imortal		0	10
 Um conto de fadas		0	13
+Urara Meirochou		0	12
+Ushinawareta Mirai Wo Motomete		0	13
+Ushio e Tora		0	26
+Utawarerumono		0	32
 Um de Nós - İçimizden Biri		1	6
 Um de Nós Está Mentindo		1	24
 Uma Advogada Extraordinária		1	16
@@ -133,12 +136,14 @@ Uma Equipe Muito Especial		1	8
 Uma Escolha do Coracao		1	76
 Uma Esposa em Miniatura	2026	1	10
 Uma Estrela Mais Radiante Que o Sol		1	12
+Uma Estrela Mais Radiante Que o Sol	2025	1	12
 Uma Familia Inusitada	2024	1	12
 Uma Familia Perfeita		1	8
 Uma Familia Quase Perfeita		1	6
 Uma Família Exemplar		1	10
 Uma Família Perdida No Meio Do Nada		1	211
 Uma Família da Pesada		1	637
+Uma Família da Pesada	1999	1	442
 Uma Fazenda de Flores		1	4
 Uma Fortuna Qualquer		1	21
 Uma Historia de Amor - Bir Ask Hikayesi		1	121
@@ -186,17 +191,20 @@ Uncoupled		1	8
 Undead Girl Murder Farce		1	13
 Undead Murder Farce		1	13
 Undead Unluck		1	48
+Undead Unluck	2023	1	24
 Under Salt Marsh		1	12
 Under The Dome	2013	1	38
 Underdogs Coadjuvantes Selvagens		1	5
 Underground - Uma História De Resistência		1	20
 Undone		1	16
+Undone	2019	1	8
 Unexpectedly Naughty Fukami		1	3
 Unfamiliar	2026	1	6
 Unforgettable		1	61
 Unforgotten		1	16
 Unge lovende		1	10
 Unicorn: Warriors Eternal		1	10
+Unicorn: Warriors Eternal	2023	1	10
 Unicornio Implacavel		1	7
 Unidade 42		1	10
 Unidade Básica		1	24
@@ -222,22 +230,18 @@ Until I Kill You		1	2
 Untold: Entre o Campo e o Crime		1	4
 Upload		1	29
 Upright	2019	1	16
-Urara Meirochou		1	12
 Urgent Landing		1	49
 Urgente		1	49
 Ursinhos Carinhosos Libere a Magia		1	6
 Ursinhos Carinhosos e Seus Primos		1	12
 Ursinhos em Curso		1	73
 Ursos Sem Curso		1	96
+Ursos Sem Curso	2015	1	96
 Us		1	5
 Usagi Drop		1	11
-Use Sua Voz	2023	1	7
-Ushinawareta Mirai Wo Motomete		1	13
-Ushio e Tora		1	26
-Uta No Prince-Sama		1	13
-Utawarerumono		1	32
-Utopia		1	20
-Utopia Falls		1	9
+Use Sua Voz	2023	2	7
+Utopia		2	20
+Utopia Falls		2	9
 Uzaki Sehir Cidade		2	50
 Uzaki-chan wa Asobitai!		2	25
 Uzumaki		2	4

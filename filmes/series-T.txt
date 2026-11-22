@@ -1,12 +1,15 @@
 T.O.T.S. – Serviço de Entrega de Filhotes		0	74
 TAMED		0	10
 TANK CHAIR		0	1
+TENGOKU-DAIMAKYO: ILUSÃO CELESTIAL	2023	0	13
 THE GHOST IN THE SHELL		0	10
+THE GHOST IN THE SHELL	2026	0	10
 THE NEW GATE		0	12
 THE ONE SHOT: BATALHA DE COMÉDIA		0	4
 THE iDOLM@STER SHINY COLORS		0	12
 TO BE HERO X		0	24
 TONIKAWA: Over The Moon For You		0	27
+TONIKAWA: Over The Moon For You	2020	0	25
 TRANSFORMACAO		0	10
 TRON: A Resistência		0	19
 TSUKIMICHI Moonlit Fantasy	2021	0	74
@@ -40,16 +43,15 @@ Talamasca de Anne Rice A Ordem Secreta	2025	0	6
 Talamasca: A Ordem Secreta, De Anne Rice		0	6
 Tales by Light		0	18
 Tales of Wedding Rings		0	29
-Tales of Zestiria the X		0	12
 Tales of the Walking Dead	2022	0	6
 Talk Queens		0	10
 Talking Tom and Friends		0	156
+Talking Tom and Friends	2014	0	130
 Talvez Amanha		0	24
 Tamako Market		0	12
-Tamayura: Hitotose		0	9
 Taming of the Heir		0	16
 Tamon's B-Side		0	13
-Tantei Opera Milky Holmes		0	12
+Tamon's B-Side	2026	0	13
 Tanto Amor		0	120
 Tapas & Beijos		0	169
 Tara Duncan		0	52
@@ -65,6 +67,7 @@ Taskaree Rede de Contrabando		0	7
 Tasogare Otome x Amnesia		0	13
 Taste The Nation With Padma Lakshmi		0	24
 Tatsuki Fujimoto 17 26		0	8
+Tatsuki Fujimoto 17-26	2025	0	8
 Tatsuki Um Professor Bonzinho Demais		0	8
 Tattoo Fail		0	6
 Taxista		0	48
@@ -92,10 +95,10 @@ Ted Bundy: Apaixonada Por Um Assassino		0	10
 Ted Bundy: As Sobreviventes		0	4
 Ted Lasso	2020	0	44
 Ted o Trem		0	7
-Teekyuu		0	12
 Teen Wolf	2011	0	100
 Teen Wolf - Lobo Adolescente		0	100
 Teenage Euthanasia		0	17
+Teenage Euthanasia	2021	0	17
 Teerã	2020	0	28
 Tegami Bachi		0	50
 Tegami Bachi: Letter Bee		0	50
@@ -115,15 +118,37 @@ Tempo de Amar		0	148
 Tempo de Amar - Sevmek Zamani		0	5
 Temporada de Cerejas - Kiraz Mevsimi		0	80
 Temporada de Verão		0	8
-Tempos De Crise		0	12
-Tempos de Guerra		0	13
-Tempted		0	64
+Tenchi Muyo! War on Geminar		0	13
+The Betrayal Knows My Name (Uragiri wa Boku no Namae wo Shitteiru)		0	24
+The Elusive Samurai		0	12
+The Helpful Fox Senko-san		0	12
+The Master of Ragnarok & Blesser of Einherjar		0	12
+The Morose Mononokean		0	12
+The Sacred Blacksmith		0	12
+The Silver Guardian		0	9
+The Strongest Magician in the Demon Lord's Army Was a Human		0	12
+Three Leaves,Three Colors		0	12
+Today's Menu for the Emiya Family		0	12
+Tokko		0	13
+Tokyo Magnitude 8.0		0	11
+Tokyo Majin Gakuen Kenpucho: Tou		0	14
+Tokyo Ravens		0	23
+Tokyo Underground		0	26
+Tonari no Kyuuketsuki-san		0	12
+Trickster		0	24
+True Tears		0	13
+Try Knights		0	12
+Tsukigakirei		0	13
+Tsukumogami Kashimasu		0	51
+Tsuredure Children		0	12
+Twilight Out of Focus		0	11
+Tempos De Crise		1	12
+Tempos de Guerra		1	13
+Tempted		1	64
 Ten Days in the Valley		1	10
 TenPuru		1	14
 Tenchi Muyo!	1995	1	26
 Tenchi Muyo! Ryo-Ohki	1992	1	6
-Tenchi Muyo! War on Geminar		1	13
-Tenchi Souzou Design-bu		1	13
 Tengoku-Daimakyo: Ilusão Celestial		1	13
 Tenho Que Morrer Todas as Noites	2024	1	8
 Tenku Shinpan Sem Saida		1	12
@@ -142,13 +167,12 @@ Teresa		1	152
 Teresa II		1	100
 Terra Amarga		1	898
 Terra Brava		1	120
-Terra Formars: Earth-hen		1	15
 Terra Incógnita	2022	1	16
 Terra Indomavel	2025	1	6
 Terra Nostra		1	150
 Terra Nova	2011	1	13
 Terra Tempestuosa	2022	1	4
-Terra da Máfia	2025	1	28
+Terra da Máfia	2025	1	30
 Terra de Belos Amores - Güzel Aşklar Diyarı		1	6
 Terra de Crocodilos		1	10
 Terra de Gigantes		1	51
@@ -177,14 +201,13 @@ Tex Mex Motors		1	8
 Texas		1	19
 Texas Metal		1	82
 Texas Metal's Loud and Lifted		1	10
-Texhnolyze		1	22
 Thame e Po Bate Coracao		1	13
 Thank You Goodnight A Historia de Bon Jovi		1	4
 TharnType The Series		1	13
 That '90s Show		1	26
 That Damn Michael Che		1	6
 That Dirty Black Bag		1	6
-That Time I Got Reincarnated as a Slime		1	102
+That Time I Got Reincarnated as a Slime	2018	1	102
 That's My Jam mit Bill & Tom Kaulitz		1	16
 The 100	2014	1	16
 The 8 Show		1	8
@@ -215,8 +238,8 @@ The Beast Must Die		1	5
 The Beatles: Get Back		1	6
 The Beauty Lindos de Morrer	2026	1	11
 The Beginning After the End		1	48
+The Beginning After the End	2025	1	24
 The Best Thing		1	56
-The Betrayal Knows My Name (Uragiri wa Boku no Namae wo Shitteiru)		1	24
 The Big Bang Theory	2007	1	25
 The Big Cigar A Fuga		1	6
 The Big Day		1	6
@@ -234,10 +257,10 @@ The Boy That Never Was		1	4
 The Boy and I Who Will Break Up in 100 Days		1	6
 The Boys	2019	1	40
 The Boys Apresenta: Diabólicos		1	8
+The Boys Apresenta: Diabólicos	2022	1	8
 The Brave		1	13
 The Brilliant Healer's New Life in the Shadows		1	24
-The Brilliant Healers New Life in the Shadows		1	12
-The Café Terraceand Its Goddesses		1	8
+The Brilliant Healers New Life in the Shadows		2	12
 The Cage		2	8
 The Calling	2022	2	16
 The Captain		2	7
@@ -245,6 +268,7 @@ The Capture	2019	2	21
 The Carrie Diaries		2	41
 The Castaways: Isolados		2	6
 The Cat and the Dragon		2	24
+The Cat and the Dragon	2026	2	1
 The Chair		2	6
 The Challenge UK		2	5
 The Challenge: All Stars		2	42
@@ -257,12 +281,13 @@ The Chi		2	35
 The Chicago Code		2	13
 The Choe Show		2	4
 The Chosen		2	53
-The Chosen Os Escolhidos	2019	2	44
+The Chosen Os Escolhidos	2019	2	45
 The Circle		2	86
 The Circle Brasil		2	12
 The Circle: França		2	23
 The Classroom of a Black Cat and a Witch		2	3
 The Cleveland Show		2	88
+The Cleveland Show	2009	2	88
 The Client List		2	33
 The Closer		2	109
 The Club		2	21
@@ -295,7 +320,6 @@ The Demon Kings Daughter is Too Kind		2	8
 The Demon Prince of Momochi House		2	12
 The Deuce		2	25
 The Devil Punisher		2	20
-The Devil Ring		2	11
 The Disappearance		2	13
 The Doctor Blake Mysteries		2	26
 The Double Game		2	19
@@ -310,7 +334,6 @@ The Dungeon of Black Company		2	12
 The Early Spring		2	24
 The Eddy		2	16
 The Edge of Horizon		2	1
-The Elusive Samurai		2	12
 The Eminence in Shadow		2	20
 The End		2	18
 The End of the F***ing World		2	16
@@ -354,10 +377,10 @@ The Flowers of Evil		2	11
 The Following		2	45
 The Food Diary of Miss Maid		2	5
 The Foolish Angel Dances with the Devil		2	12
-The Founder of Diabolism Q		2	30
-The Fox's Summer		2	88
-The Fragrant Flower Blooms With Dignity		2	23
-The Frontier Lord Begins with Zero Subjects		2	6
+The Founder of Diabolism Q		3	30
+The Fox's Summer		3	88
+The Fragrant Flower Blooms With Dignity		3	23
+The Frontier Lord Begins with Zero Subjects		3	6
 The Fruit of Evolution: Before I Knew It, My Life Had It Made		3	12
 The Future Diary		3	26
 The Game		3	24
@@ -374,6 +397,7 @@ The Gloaming		3	8
 The Globe: Batalha de Chefs		3	5
 The Globe: Batalha dos Chefes		3	5
 The God of High School		3	13
+The God of High School	2020	3	13
 The Good Bad Mother		3	14
 The Good Daughter		3	1
 The Good Doctor		3	126
@@ -384,7 +408,7 @@ The Good Place	2016	3	50
 The Good Wife	2009	3	134
 The Good Wife - Pelo Direito De Recomeçar		3	156
 The Goop Lab		3	6
-The Gorilla God's Go-To Girl		3	12
+The Gorilla God's Go-To Girl		3	24
 The Gorilla Gods Go To Girl		3	12
 The Grand Tour		3	46
 The Grand ioso Tour		3	3
@@ -393,6 +417,7 @@ The Great Gonzalez		3	10
 The Great Grape Ape Show		3	16
 The Great Jahy Will Not Be Defeated!		3	20
 The Great North		3	97
+The Great North	2021	3	93
 The Great Pottery Throw Down		3	10
 The Greatest Demon Lord Is Reborn as a Typical Nobody		3	12
 The Gringo Hunters		3	12
@@ -405,7 +430,6 @@ The Head		3	19
 The Head: Mistério na Antártida	2020	3	13
 The Heart Killers		3	12
 The Heir		3	42
-The Helpful Fox Senko-san		3	12
 The Hidden Dungeon Only I Can Enter		3	12
 The Hills		3	70
 The Holiday		3	4
@@ -417,7 +441,7 @@ The Hour		3	12
 The House		3	154
 The Hunting Party	2025	3	44
 The I-Land		3	7
-The Iceblade Sorcerer Shall Rule the World		3	12
+The Iceblade Sorcerer Shall Rule the World		3	15
 The Idol		3	5
 The Idolmaster Million Live		3	12
 The InBESTigators		3	20
@@ -459,6 +483,7 @@ The Legend of Rosy Clouds		3	41
 The Legend of Sky Lord 3D		3	24
 The Level		3	6
 The Liberator		3	4
+The Liberator	2020	3	4
 The Lie We Lived In		3	8
 The Life of Earth		3	2
 The Listener		3	65
@@ -469,35 +494,36 @@ The Long Shadow		3	7
 The Looming Tower		3	10
 The Lost Kitchen O Restaurante Escondido		3	26
 The Loud House		3	130
+The Loud House	2016	3	130
 The Loud House Uma Verdadeira Familia Barulhenta		3	10
-The Loyal Pin		3	15
-The Luminaries		3	6
-The Madame Blanc Mysteries		3	19
-The Magical Girl and the Evil Lieutenant Used to Be Archenemies		3	12
-The Magicians: Escola de Magia		3	65
-The Mallorca Files		3	24
-The Man Who Fell to Earth		3	10
-The Mandalorian	2019	3	24
+The Loyal Pin		4	15
+The Luminaries		4	6
+The Madame Blanc Mysteries		4	19
+The Magical Girl and the Evil Lieutenant Used to Be Archenemies		4	12
+The Magicians: Escola de Magia		4	65
+The Mallorca Files		4	24
+The Man Who Fell to Earth		4	10
+The Mandalorian	2019	4	24
 The Masked Singer Brasil		4	61
 The Master of Diabolism		4	35
-The Master of Ragnarok & Blesser of Einherjar		4	12
 The Matchmakers		4	12
 The Mick	2017	4	52
 The Middle		4	215
 The Middle: Uma Família Perdida no Meio do Nada		4	215
 The Midnight Gospel		4	8
+The Midnight Gospel	2020	4	8
 The Midnight Romance in Hagwon		4	16
 The Mighty Nein		4	8
+The Mighty Nein	2025	4	6
 The Millers		4	34
 The Mindy Project		4	117
 The Miniaturist		4	2
 The Misfit of Demon King Academy		4	74
+The Misfit of Demon King Academy	2020	4	37
 The Missing Piece		4	30
 The Moodys		4	8
 The Morning Show	2019	4	40
-The Morose Mononokean		4	12
 The Mosquito Coast		4	17
-The Most Heretical Last Boss Queen: From Villainess to Savior		4	5
 The Nanny		4	146
 The Nevers		4	6
 The New Employee		4	7
@@ -571,7 +597,6 @@ The Romeo Section		4	18
 The Rookie	2018	4	190
 The Rookie: Feds	2022	4	22
 The Royals		4	40
-The Sacred Blacksmith		4	12
 The Sandman	2022	4	23
 The Science Club		4	10
 The Secret of Us		4	8
@@ -583,21 +608,19 @@ The Shield Acima da Lei	2002	4	89
 The Shiunji Family Children		4	23
 The Shivering Truth		4	13
 The Shy Hero and the Assassin Princesses		4	11
-The Silver Guardian		4	9
 The Sinner	2017	4	32
-The Slime Diaries		4	12
+The Slime Diaries		4	72
 The Society	2019	4	10
 The Son		4	19
-The Sound of Your Heart: Reiniciar		4	20
-The Sounds		4	8
-The Spanish Princess		4	16
-The Stand	2020	4	9
-The Strain	2014	4	46
-The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser		4	5
-The Strongest Magician in the Demon Lord's Army Was a Human		4	12
-The Strongest Sage With the Weakest Crest		4	12
-The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-		4	12
-The Swarm		4	13
+The Sound of Your Heart: Reiniciar		5	20
+The Sounds		5	8
+The Spanish Princess		5	16
+The Stand	2020	5	9
+The Strain	2014	5	46
+The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser		5	5
+The Strongest Sage With the Weakest Crest		5	12
+The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-		5	12
+The Swarm		5	13
 The Synanon Fix Did the Cure Become a Cult		5	8
 The Taste Brasil		5	70
 The Tasty Florida		5	8
@@ -680,18 +703,23 @@ This Is Pop		5	8
 This Is Us		5	107
 Those About to Die		5	10
 Though I Am an Inept Villainess		5	10
+Though I Am an Inept Villainess	2026	5	8
 Three Busy Debras		5	26
-Three Leaves,Three Colors		5	12
 Three Pines	2022	5	16
 Threesome		5	8
 Through the Darkness		5	24
 Thundarr O barbaro		5	13
 Thunder 3		5	12
-ThunderCats	2011	5	67
+Thunder 3	2026	5	12
+ThunderCats		5	67
+ThunderCats	2011	5	65
+ThunderCats	1985	5	65
 ThunderCats Roar		5	52
 Ti Ti Ti		5	209
 Tico E Teco: Defensores Da Lei		5	65
 Tico e Teco Vida no Parque		5	25
+Tico e Teco: Defensores da Lei	1989	5	65
+Tico e Teco: Vida no Parque	2021	5	25
 Tidelands		5	8
 Tieta		5	197
 Tigue E Lupa: Os Detetives		5	20
@@ -702,24 +730,25 @@ Time Between Dog and Wolf		5	16
 Time Patrol Bon		5	24
 Time Rescue		5	18
 Time The Series		5	10
-Time Zenko, Vai!		5	12
-Time to love : la roue de l'amour		5	6
-Timeless Guardioes da Historia	2016	5	27
-Tin Star		5	20
-Tinder Apresenta MTV Beija Sapo		5	10
-Tinha que ser Voce - Tenias que ser Tu		5	60
-Tinted With You		5	8
-Tintin		5	26
-Tiny Toons Looniversidade	2023	5	10
-Tio Samsik		5	32
-Tip Toe		5	5
-Tipo Isso		5	24
-Tirano: Poder Sem Limites		5	32
-Tis Time for Torture Princess		5	1
-Titanic		5	4
-Titans	2018	5	4
+Time Zenko, Vai!		6	12
+Timeless Guardioes da Historia	2016	6	27
+Timão e Pumba	1995	6	85
+Tin Star		6	20
+Tinder Apresenta MTV Beija Sapo		6	10
+Tinha que ser Voce - Tenias que ser Tu		6	60
+Tinted With You		6	8
+Tintin		6	26
+Tiny Toons Looniversidade	2023	6	10
+Tio Samsik		6	32
+Tip Toe		6	5
+Tipo Isso		6	24
+Tirano: Poder Sem Limites		6	32
+Tis Time for Torture Princess		6	1
+Titanic		6	4
+Titans	2018	6	4
 Titio Avô		6	24
 Titã Simbiônico		6	20
+Titã Simbiônico	2010	6	20
 Titãs		6	49
 To Lose - Ayrilik da Sevdaya Dahil		6	16
 To Love & Cherish		6	4
@@ -732,7 +761,6 @@ Toda Familia Tem		6	7
 Toda Luz que Não Podemos Ver		6	4
 Todas As Mulheres Do Mundo		6	12
 Todas as Flores		6	85
-Today's Menu for the Emiya Family		6	12
 Todo Dia a Mesma Noite		6	5
 Todo Mundo Adora O Raymond		6	212
 Todo Mundo Ainda Odeia o Chris	2024	6	24
@@ -750,16 +778,12 @@ Todos os Tubarões do Mundo		6	6
 Todxs Nós		6	7
 Tohai Ura Rate Mahjong Tohai Roku		6	12
 Tojima Wants to Be a Kamen Rider		6	43
-Tokko		6	13
 Tokyo Ghoul	2014	6	48
 Tokyo Love Story		6	11
-Tokyo Magnitude 8.0		6	11
-Tokyo Majin Gakuen Kenpucho: Tou		6	14
 Tokyo Override		6	6
-Tokyo Ravens		6	23
-Tokyo Revengers		6	98
+Tokyo Revengers		6	99
+Tokyo Revengers	2021	6	54
 Tokyo Salad Bowl		6	9
-Tokyo Underground		6	26
 Tokyo Vice	2022	6	26
 Tom Jones		6	4
 Tom Swift	2022	6	10
@@ -769,13 +793,12 @@ Tom e Jerry em Nova York		6	13
 Toma Lá, Dá Cá		6	91
 Tomb Raider A Lenda de Lara Croft	2024	6	16
 Tomb Raider King		6	17
+Tomb Raider King	2026	6	12
 Tommy		6	12
 Tomo-chan Is a Girl!		6	26
 Tomodachi Game		6	12
 Tonagura		6	13
-Tonari no Kyuuketsuki-san		6	12
 Tonari no Yokai-san		6	13
-Tong Ling Fei (Live Action)		6	16
 Too Close		6	3
 Too Much	2025	6	10
 Too Old to Die Young		6	20
@@ -808,7 +831,8 @@ Totalmente Demais		6	175
 Totalmente Demais Especial		6	235
 Touch		6	16
 Touch Visoes do Futuro		6	26
-Tougen Anki		6	27
+Tougen Anki		6	28
+Tougen Anki	2025	6	27
 Touken Ranbu		6	45
 Touken Ranbu - Hanamaru		6	24
 Tour de France: No Coração do Pelotão		6	16
@@ -819,29 +843,31 @@ Trabalho		6	4
 Trabalho Honesto		6	12
 Trabalho Sujo		6	18
 Tracer		6	16
-Traces		6	9
-Trackers		6	8
-Traficantes Invisíveis		6	3
-Tragedia de Bakersfield Em Busca da Verdade		6	3
-Tragedias Coreanas Historias de Sobrevivencia		6	8
-Traia me Se for Capaz		6	32
-Traicao O Marido Perfeito		6	3
-Traicao Secreta - Ufak Tefek Cinayetler		6	138
-Traicao e Redencao	2025	6	8
-Traicao: Nunca mais nos Veremos		6	1
-Traición		6	9
-Traidores da Patria		6	5
-Trailer Park Boys		6	10
-Trailer Park Boys The Animated Series		6	20
-Trailer Park Boys: A Série Animada		6	20
-Train to the End of the World		6	12
-Traição		6	16
-Transamazônica: Uma Estrada para o Passado		6	6
-Transatlântico		6	7
+Traces		7	9
+Trackers		7	8
+Traficantes Invisíveis		7	3
+Tragedia de Bakersfield Em Busca da Verdade		7	3
+Tragedias Coreanas Historias de Sobrevivencia		7	8
+Traia me Se for Capaz		7	32
+Traicao O Marido Perfeito		7	3
+Traicao Secreta - Ufak Tefek Cinayetler		7	138
+Traicao e Redencao	2025	7	8
+Traicao: Nunca mais nos Veremos		7	1
+Traición		7	9
+Traidores da Patria		7	5
+Trailer Park Boys		7	10
+Trailer Park Boys The Animated Series		7	20
+Trailer Park Boys: A Série Animada		7	20
+Trailer Park Boys: A Série Animada	2019	7	20
+Train to the End of the World		7	12
+Traição		7	16
+Transamazônica: Uma Estrada para o Passado		7	6
+Transatlântico		7	7
 Transformers Cyberverse		7	62
 Transformers: A Centelha da Terra	2022	7	39
 Transformers: Prime		7	65
 Transformers: War for Cybertron: O Cerco		7	18
+Transformers: War for Cybertron: O Cerco	2020	7	6
 Transformers: War for Cybertron: O Nascer da Terra		7	6
 Transformers: War for Cybertron: O Reino		7	6
 Transit		7	26
@@ -851,6 +877,7 @@ Trapaceiros - Fraudadores - Sahtekarlar		7	22
 Trapaça		7	4
 Trapped		7	20
 Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs		7	24
+Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs	2022	7	19
 Tratamento De Choque		7	165
 Travelers		7	34
 Travessia		7	231
@@ -870,13 +897,12 @@ Tribal		7	21
 Tribos da Europa		7	6
 Tribunal Noturno	2023	7	93
 Tributo		7	9
-Trickster		7	24
 Trickster: O Agente do Caos		7	10
 Trigger - Gatilho Mental		7	16
 Trigger Happy TV		7	15
 Trigonometry		7	8
 Trigun	1998	7	26
-Trigun Stampede	2023	7	42
+Trigun Stampede	2023	7	40
 Trilha Sonora		7	14
 Trillion Game		7	26
 Trinta e Nove		7	12
@@ -899,11 +925,9 @@ True Detective	2014	7	30
 True Jackson		7	57
 True Life Crime		7	18
 True Life Crime - Reino Unido		7	10
-True Tears		7	13
 Truques da Mente		7	57
 Truth Be Told		7	28
 Truth Seekers		7	8
-Try Knights		7	12
 Trying	2020	7	40
 Três Dias que Mudaram Tudo		7	8
 Três Golpes e Uma Pena de Adeus		7	1
@@ -913,17 +937,13 @@ Três Vezes Ana		7	123
 Três Vidas		7	8
 Três vezes Paixão		7	5
 Três é Demais		7	192
-Tsubasa Chronicle		7	26
 Tsugu Tsugumomo		7	23
-Tsukigakirei		7	13
-Tsukiuta: The Animation		7	13
-Tsukumogami Kashimasu		7	51
 TsumaSho		7	12
 Tsunami A Furia da Natureza		7	2
 Tsunami Corrida Contra o Tempo	2024	7	4
-Tsuredure Children		7	12
 Tsurune		7	27
 Tubacão		7	20
+Tubacão	2021	7	20
 Tuca & Bertie		7	30
 Tuca, o Mestre Cuca		7	26
 Tucci na Italia		7	9
@@ -936,28 +956,28 @@ Tudo Pede Salvaçao		7	12
 Tudo Pela Vitória		7	58
 Tudo Por Um Like		7	8
 Tudo Sob Controle		7	4
-Tudo Sobre os Washingtons		7	10
-Tudo e Justo	2025	7	13
-Tudo leva a Merdenburgo		7	9
-Tudo na Panela		7	10
-Tudo na PanelaTudo na Panela		7	10
-Tudo ou Nada: Juventus		7	8
-Tudo ou Nada: Manchester City		7	8
-Tudo ou Nada: Tottenham Hotspur		7	18
-Tudo por Ouro		7	187
-Tudo pra Ontem	2023	7	8
-Tulsa King	2022	7	33
-Tumulos que Falam		7	3
-Tune In to the Midnight Heart		7	7
-Tunnel		7	16
-Turbilhao	2024	7	12
-Turbo FAST		7	26
-Turbulências de Verão		7	18
-Turismo Macabro		7	8
-Turismo Selvagem	2023	7	6
-Turkey! Time to Strike		7	10
-Turma CoComelon		7	9
-Turma da Monica		7	224
+Tudo Sobre os Washingtons		8	10
+Tudo e Justo	2025	8	13
+Tudo leva a Merdenburgo		8	9
+Tudo na Panela		8	10
+Tudo na PanelaTudo na Panela		8	10
+Tudo ou Nada: Juventus		8	8
+Tudo ou Nada: Manchester City		8	8
+Tudo ou Nada: Tottenham Hotspur		8	18
+Tudo por Ouro		8	187
+Tudo pra Ontem	2023	8	8
+Tulsa King	2022	8	35
+Tumulos que Falam		8	3
+Tune In to the Midnight Heart		8	7
+Tunnel		8	16
+Turbilhao	2024	8	12
+Turbo FAST		8	26
+Turbulências de Verão		8	18
+Turismo Macabro		8	8
+Turismo Selvagem	2023	8	6
+Turkey! Time to Strike		8	10
+Turma CoComelon		8	9
+Turma da Monica		8	224
 Turma da Monica Jovem		8	26
 Turma da Monica Origens		8	8
 Turma da Mônica - A Série		8	8
@@ -966,7 +986,6 @@ Turner E Hooch		8	12
 Tut Elimi		8	30
 Tutubarão		8	14
 Tuzak Armadilha		8	81
-Twilight Out of Focus		8	11
 Twin Peaks	1990	8	48
 Twin Star Exorcists		8	100
 Twisted Metal	2023	8	44

@@ -1,5 +1,5 @@
 G'wed		0	6
-G.I. Joe: Sigma 6		0	27
+G.I. Joe: Sigma 6		0	26
 GARO: HONOO NO KOKUIN		0	24
 GARO: O Herdeiro de Hagane		0	12
 GATE24: The Border		0	1
@@ -10,9 +10,9 @@ GJ-bu		0	12
 GLOW	2017	0	30
 GNOSIA		0	21
 GOLPE ROMANTICO Quem e Jason Porter Porra		0	2
-GRANBELM		0	13
+GRANBELM		0	1
 GUlizar		0	10
-GaReiZero		0	12
+GaReiZero		0	1
 Gabriel Monteiro – Herói Fake		0	4
 Gabriela		0	77
 Gachiakuta	2025	0	48
@@ -21,7 +21,6 @@ Gaikotsu Shotenin Honda san		0	12
 Gakuen Basara: Samurai High School		0	5
 Gakuen Handsome		0	12
 Gakuen Utopia Manabi Straight!		0	12
-Galaxy Angel		0	26
 Galera FC		0	8
 Galera do Barulho		0	44
 Galilei Donna		0	11
@@ -47,6 +46,7 @@ Gangues da Noite		0	35
 Gangues de Londres	2020	0	42
 Gangues de Oslo		0	6
 Ganhar ou Perder		0	8
+Ganhar ou Perder	2025	0	8
 Ganhei um Filho, e Perdi o Marido		0	1
 Ganhei um Poder Apelão em Outro Mundo e Agora Sou Imbatível no Mundo Real		0	13
 Gantz	2004	0	26
@@ -54,7 +54,7 @@ Garavito O Monstro Serial		0	4
 García!	2022	0	6
 Garfield e Seus Amigos		0	57
 Garfinho Pergunta		0	10
-Gargantia on the Verdurous Planet		0	15
+Gargantia on the Verdurous Planet		0	1
 Gargulas		0	78
 Garo Higashi no Kairou		0	1
 Garota Conhece o Mundo		0	72
@@ -63,6 +63,7 @@ Garota Mágica .Com		0	12
 Garota Sequestrada	2026	0	6
 Garota Vampiro		0	99
 Garota da Lua e o Dinossauro Demônio		0	30
+Garota da Lua e o Dinossauro Demônio	2023	0	30
 Garota de Fora	2018	0	21
 Garota de Fora Recomeco		0	6
 Garota do Momento		0	202
@@ -114,10 +115,9 @@ Germinal: A Revolução		0	6
 Get Huge: Looksmaxxing to Death		0	6
 Get Millie Black	2024	0	5
 Get Shorty: A Máfia do Cinema	2017	0	27
-Getsuyoubi no Tawawa		0	14
 Ghost Doctor		0	32
 Ghost Force		0	52
-Ghost Hound		0	22
+Ghost Hound		1	22
 Ghost Whisperer	2005	1	151
 Ghost in the Shell SAC		1	24
 Ghost in the Shell: SAC_	2045	1	24
@@ -152,15 +152,15 @@ Girlboss		1	26
 Girlfriend Girlfriend		1	48
 Girlish Number		1	9
 Girls		1	62
-Girls Bravo		1	11
+Girls Bravo		1	1
 Girls Dorm		1	32
 Girls Incarcerated		1	16
 Girls Play		1	1
 Girls und Panzer		1	24
 Girls5eva		1	22
 Girlsquad		1	10
-Girly Air Force		1	12
-Given		1	11
+Girly Air Force		1	1
+Given		1	1
 Glacé		1	5
 Gladiadores da Natureza		1	4
 Glamorous	2023	1	10
@@ -182,12 +182,14 @@ Go		1	273
 Go Buster!		1	3
 Go Diego Go		1	75
 Go For It Nakamura kun		1	13
+Go For It, Nakamura-kun!!	2026	1	13
 Go Go Loser Ranger		1	48
 Go Viva do seu Jeito		1	31
 Go! Go! Cory Carson		1	63
+Go! Go! Loser Ranger!	2024	1	12
 Goblin		1	16
 Goblin Slayer	2018	1	48
-God Eater		1	12
+God Eater		1	1
 God Shave the Queens		1	1
 Godfather of Harlem	2019	1	49
 Godless	2017	1	7
@@ -214,6 +216,7 @@ Good Sam		1	9
 Good Times		1	10
 Good Trouble		1	98
 Goodbye, Lara		1	24
+Goodbye, Lara	2026	1	1
 Goop: Muito Além do Prazer		1	6
 Goosebumps	2023	1	18
 Goosebumps: O Desaparecimento		1	8
@@ -221,7 +224,7 @@ Gordon		1	7
 Gordon Ramsay Do Inferno ao Paraiso em 24h		1	21
 Gordon Ramsay Servico Secreto		1	14
 Gordon Ramsay's Food Stars		1	15
-Gosick		1	24
+Gosick		1	1
 Gossip Girl	2007	1	33
 Gostinho de Amor		1	10
 Got to Get Out		1	8
@@ -234,10 +237,10 @@ Grace And Frankie		1	94
 Gracepoint		1	10
 Grachi		1	155
 Grag Hearts Drag		1	2
-Granblue Fantasy The Animation		1	14
-Grand Army		1	9
-Grand Hotel		1	13
-Grande Dragao		1	8
+Granblue Fantasy The Animation		2	14
+Grand Army		2	9
+Grand Hotel		2	13
+Grande Dragao		2	8
 Grande Hotel		2	42
 Grandes Animais		2	10
 Grandes Chefs Torneio dos Campeoes		2	35
@@ -258,10 +261,12 @@ Graos de Perola - İnci Taneleri		2	43
 Gravida por Acidente - Hayat Mucizelere Gebe		2	7
 Gravidez Perfeita		2	1
 Gravity Falls: Um Verão De Mistérios		2	41
+Gravity Falls: Um Verão de Mistérios	2012	2	41
 Gray	2023	2	8
 Grease: Rise of the Pink Ladies		2	10
 Great News		2	23
 Great Pretender		2	32
+Great Pretender	2020	2	23
 Great Teacher Onizuka		2	43
 Greatness Code		2	7
 Greek		2	74
@@ -281,6 +286,7 @@ Griselda		2	6
 Grizzy e os Lemmings		2	312
 Grotesquerie	2024	2	20
 Grow Up Show		2	3
+Grow Up Show	2026	2	1
 Grown-ish		2	84
 Grownish	2018	2	4
 Grupo de Estudos		2	10
@@ -295,7 +301,7 @@ Guardiões da Floresta		2	20
 Guardiões da Justiça		2	7
 Guardiões da Mansão do Terror		2	20
 Gudetama As Aventuras de um Ovinho Preguiçoso		2	10
-Guerra		2	7
+Guerra		2	8
 Guerra Culinaria	2024	2	25
 Guerra Entre Vizinhos		2	22
 Guerra Fantasma	2017	2	13
@@ -330,7 +336,6 @@ Guilty Party		2	11
 Gundam Build Fighters		2	50
 Gungrave		2	26
 Gunpowder	2017	2	3
-Gunslinger Girl		2	13
 Gunther: O Cachorro Milionário		2	4
 Gurren Lagann		2	28
 Gus: O Pequeno Cavaleiro		2	26
@@ -338,6 +343,7 @@ Gutiérrez Contra o Crime		2	8
 Guy's Chance of a Lifetime		2	6
 Gyeongseong Creature	2023	2	17
 Gypsy		2	10
+Gárgulas	1994	2	78
 Gêmeas Trans: Uma Nova Vida		2	6
 Gêmeas: Mórbida Semelhança		2	6
 Gêmeos		2	8

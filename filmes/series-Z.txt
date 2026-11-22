@@ -1,5 +1,6 @@
 Z Nation	2014	0	68
 ZENSHU		0	12
+ZENSHU	2025	0	12
 ZOMBIES A Serie Reanimada		0	20
 ZOMBIES: O Mistério Monstruoso de Addison		0	8
 Zack & Cody: Gêmeos em Ação		0	87
@@ -18,6 +19,7 @@ Zero kara Hajimeru Mahou no Sho		0	12
 Zero no Tsukaima		0	25
 ZeroZeroZero		0	8
 Zig e Sharko		0	92
+Zig e Sharko	2010	0	78
 Zmora		0	6
 Zoe Bakes		0	35
 Zoe e Raven		0	30
