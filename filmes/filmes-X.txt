@@ -1,42 +1,31 @@
-X-Men 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59344.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8201.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761001.mp4
-X-Men Origens: Wolverine	dub=18:2080,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8222.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761996.mp4
-X-Men: Apocalipse	dub=18:246655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59354.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8218.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760499.mp4
-X-Men: Dias de um Futuro Esquecido	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59358.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8209.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760606.mp4
-X-Men: Fênix Negra	dub=18:320288,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59363.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8205.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761666.mp4
-X-Men: O Confronto Final	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59367.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8213.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761369.mp4
-X-Men: O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59369.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8219.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760258.mp4
-X-Men: Primeira Classe	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59374.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8226.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761803.mp4
-X: A Marca da Morte	dub=18:760104,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52734.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759142.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96208.mp4
-XENO Amizade do Além (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ad1d933a18a52d1bb9964ec78e034cc/master.txt
+X-Men Origens: Wolverine	dub=18:2080
+X-Men: Apocalipse	dub=18:246655
+X-Men: Fênix Negra	dub=18:320288
+X: A Marca da Morte	dub=18:760104
 XMen 2 (2003)	dub=18:36658
 XMen Dias de um Futuro Esquecido (2014)	dub=18:127585
 XMen O Confronto Final (2006)	dub=18:36668
 XMen O Filme (2000)	dub=18:36657
 XMen Primeira Classe (2011)	dub=18:49538
 XMen Wolverine (2013)	dub=18:219225
-XOXO: A Vida é Uma Festa (2016)	dub=18:352492,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33257.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763638.mp4
-XXX	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2772881.mp4
-Xama O Exorcista Pagao (2025)	dub=18:1339166,https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1326.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768917.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4
+XOXO: A Vida é Uma Festa (2016)	dub=18:352492
+Xama O Exorcista Pagao (2025)	dub=18:1339166
 Xanadu	dub=18:15668
 Xenophobia	dub=18:620014
-Xeque Mate	dub=18:186,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59379.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8235.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96214.mp4
-Xeque Mate (2024)	dub=18:711819,18:1217409,https://embedplayer2.xyz/cdn/hls/0d7e7f555a23a173d8b040cc17bdfbd8/master.txt
-Xeque-Mate: O Jogo da Vida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750805.mp4
-Xerife do Oeste	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35356.mp4
+Xeque Mate (2024)	dub=18:711819,18:1217409,18:186
 Xica da Silva	dub=18:238334
-Xico, O Cachorro Mágico	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766052.mp4
-Xing He Ru Meng	dub=18:1359005	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307315.mp4
-Xingu	dub=18:107203,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39628.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757990.mp4
-Xtremo	dub=18:726429,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59386.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8230.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761085.mp4
+Xing He Ru Meng	dub=18:1359005
+Xingu	dub=18:107203
+Xtremo	dub=18:726429
 Xuxa Festa	dub=18:362526
 Xuxa Gêmeas	dub=18:268702
 Xuxa Popstar (2000)	dub=18:84748
-Xuxa Requebra	dub=18:84746,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310718.mp4
-Xuxa e o Tesouro da Cidade Perdida	dub=18:298298,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310717.mp4
+Xuxa Requebra	dub=18:84746
+Xuxa e o Tesouro da Cidade Perdida	dub=18:298298
 Xuxa e os Duendes	dub=18:84751
 Xuxa e os Duendes 2 No Caminho das Fadas (2002)	dub=18:84756
 Xuxa em Abracadabra	dub=18:84761
 Xuxa em Sonho de Menina	dub=18:354305
 Xuxa em: O Mistério de Feiurinha	dub=18:50642
 Xuxinha e Guto Contra os Monstros do Espaço	dub=18:71685
-xXx 2: Estado de Emergência	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761877.mp4
+xXx Reativado (2017)	dub=18:47971

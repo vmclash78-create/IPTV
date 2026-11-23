@@ -1,955 +1,430 @@
-C. B. Strike		0	23
-C.H.U.E.C.O		0	25
-C: The Money of Soul and Possibility Control		0	11
-CEO, Aquele Estagiário é, Na Verdade, Sua Esposa		0	2
 CIA	2026	0	26
-CITY THE ANIMATION		0	13
-CITY THE ANIMATION	2025	0	13
-COBRA		0	26
+CITY THE ANIMATION		0	12
+COBRA		0	20
 CODE GEASS: Rozé da Reconquista		0	12
-COM QUEM DIABOS EU DORMI?!		0	2
-CORAZON APASIONADO		0	111
-CSI: Cyber		0	31
+CSI Cyber		0	31
 CSI: Investigação Criminal	2000	0	346
-CSI: Miami	2002	0	232
-CSI: Nova York		0	197
-CSI: Vegas	2021	0	82
+CSI: Miami	2002	0	229
+CSI: Nova York		0	23
+CSI: Vegas	2021	0	51
 Cabanas Historias Especiais		0	21
 Cabeça Quente		0	8
-Cabo Amor e Desejo		0	85
 Cabo do Medo	2026	0	10
-Cabocla		0	167
 Caca Tempestades		0	4
-Cacada no Deserto O Caso Adam Nayeri		0	3
+Caca aos Famosos com Bear Grylls		0	8
 Cacador de Demonios	2025	0	8
-Cacador de Marajas		0	7
 Cacadores de Dinossauros		0	14
 Cacadores de Ditadores		0	6
 Cacadores de Fugitivos		0	9
-Cacau - Cacau		0	142
-Cachito do Ceu		0	110
+Cacadores de Pitons		0	14
+Cacadores de Trolls		0	52
 Cachorrinhos do Outro Mundo		0	10
-Cachorro. Vai!		0	26
 Cachorros Grandes		0	8
-Cada Batida do Coração é para Você		0	1
-Cada Minuto Conta	2024	0	10
 Cadê Meu Avião		0	4
-Caezinhos no Passeio		0	8
-Cafe com Chef		0	5
-Cafe do Principe		0	17
-Café Minamdang		0	18
-Café com Aroma de Mulher		0	227
-Caillou		0	59
-Cair em Tentação		0	103
 Caixa de Jogos		0	39
 Cala a Boca e Assiste Isso		0	3
 Calabasas Confidential		0	8
-Caldeirao Com Mion		0	11
 Caleidoscópio		0	9
 Califado	2020	0	8
 Californication	2007	0	84
 Califórnia em Chamas		0	6
-Call DiCaprio		0	1
-Call Me By No Name		0	7
-Call Me Kat	2021	0	72
+Call Me Kat	2021	0	38
 Call Your Mother		0	13
-Calle e Poche: Sem Filtro		0	8
 Calls	2021	0	8
-Cama de Gato		0	161
-Camaleões		0	135
-Cambalacho		0	173
 Camden		0	8
-Camila		0	90
+Camera Entre Balas		0	8
 Caminantes A Trilha do Medo		0	7
 Caminhando Sobre Gelo Fino		0	24
 Caminho das Índias		0	203
-Caminho para a Liberdade		0	1
 Caminhos Cruzados		0	12
-Caminhos do Coração		0	239
-Caminhos dos Orixas		0	16
-Camp CrunchLabs		0	8
 Campeões do Barbecue		0	24
 Campeões do Sendokai		0	52
 Campfire Cooking in Another World with My Absurd Skill		0	24
 Campus Drivers		0	6
-Can You Hear My Heart		0	16
-Can a Boy-Girl Friendship Survive?		0	12
-Canaan		0	14
-Canada Shore		0	10
+Can a Boy Girl Friendship Survive		0	12
 Canada's Drag Race		0	10
 Canavial de Paixões		0	116
-Cancao de Verao - Yaz Sarkisi		0	17
-Cancoes da Noite		0	13
-Cancoes de Halloween do Mickey e da Minnie		0	3
-Candice Renoir		0	94
-Candy		0	8
-Candy Color Paradox		0	8
-Candy Cruz		0	10
-Candy: Uma História de Paixão e Crime		0	5
-Canevim		0	14
-Cangaco Novo	2023	0	15
+Cancao de Verao - Yaz Sarkisi		0	8
 Canibal		0	15
-Canis familiaris		0	30
-Cannon Busters		0	12
 Cantando com Ping e Pong		0	65
-Cante e Dance com a Vera		0	11
 Canto Para Não Chorar - Arelys Henao		0	120
-Canto ao Tempo		0	5
-Canção de Amor Para Ilusão		0	16
-Canção de Amor no Inverno		0	36
+Canção de Amor no Inverno		0	3
 Canção de Luta		0	3
-Capadocia		0	39
+Capadocia		0	36
 Capital		0	4
-Capitalismo Americano O Culto a Riqueza		0	3
 Capitao Laserhawk Remix Blood Dragon		0	6
 Capitao Planeta		0	30
-Capitao Tsubasa		0	160
+Capitao Tsubasa		0	24
 Capitães		0	8
 Capitães da América		0	8
-Capitães do Mundo	2023	0	6
 Capitão Fall		0	10
-Capitão Fall	2023	0	10
-Capitão Planeta	1990	0	26
 Capoeiras		0	6
-Caprica		0	18
-Captain Fantastic		0	3
-Captain Tsubasa	2018	0	91
-Captivated		0	4
-Captivated, by You		0	4
 Captive: Histórias sobre Reféns		0	8
-Capturando seu Assassino As Garotas da Ponte		1	3
-Capture Lover		1	10
-Cara & Coroa		1	211
-Cara Gente Branca		1	40
-Cara a Cara		1	10
-Cara a Cara - Yuz Yuze		1	9
-Cara e Coragem		1	197
-Cara e Coroa		1	328
-Cara x Cara		1	8
-Carangas Absurdas		1	6
-Carangas x Carrões		1	15
-Caras		1	18
-Caras & Bocas		1	232
-Caras e Bocas		1	232
-Caravana das Drags		1	9
-Carcereiros	2017	1	30
-Cardcaptor Sakura	1998	1	105
-Cardcaptor Sakura / Sakura Card Captors: Clear Card	1998	1	105
-Cardfight Vanguard overDress		1	89
-Cardinal	2017	1	43
-Carga Explosiva: A Série		1	24
-Carga Pesada		1	64
-Carinha de Anjo		1	704
-Carissima		1	10
-Carlinhos Brown em Meia Lua Inteira		1	4
-Carlo		1	13
-Carlos Alcaraz Do Meu Jeito		1	3
-Carma	2025	1	6
-Carmen Sandiego		1	32
-Carmen Sandiego	2019	1	32
-Carnaval RJ		1	12
-Carnaval SP		1	14
-Carnaval da Sabrina		1	28
-Carniceiros		1	5
-Carnival Phantasm		1	14
-Carnival Row	2019	1	18
-Carnivale		1	24
-Carol e o Fim do Mundo		1	10
-Carol e o Fim do Mundo	2023	1	10
-Carolina Marin		1	1
-Caroline Flack A Busca Pela Verdade		1	2
-Carrapatos e Catapultas		1	1
-Carregando Seus Bebês, Roubando Seu Coração		1	1
-Carrie, a Estranha	2026	1	8
-Carro Ostentacao com Will Castro		1	19
-Carros Irado		1	126
-Carros Irados		1	126
-Carros Irados A Disputa		1	8
-Carros Unicos	2023	1	12
-Carros na Estrada		1	9
-Carros na Estrada	2022	1	9
-Carrossel		1	520
-Carruagem Errada Noivo Certo		1	23
-Carta ao Rei		1	6
-Cartas Para Eva		1	5
-Cartas do Passado		1	8
-Cartas na Manga A Serie		1	4
-Cartel Crew		1	10
-Carter		1	20
-Carême - O Rebelde da Culinária	2025	1	8
-Carísima		1	10
-Casa Fantasma Hospedeiro Fantasma		1	8
-Casa Feia Nunca Mais!		1	11
-Casa Kalimann		1	13
-Casa das Facas A Batalha		1	8
-Casa de Davi	2025	1	32
-Casa de Estudante - Ogrenci Evi - Student House		1	10
-Casa de Papel - Kağıt Ev		1	8
-Casa de Stassi Schroeder		1	11
-Casa do Patrao		1	80
-Casa dos Sonhos da Barbie: O Desafio		1	1
-Casa em Obra do Pesadelo ao Sonho		1	8
-Casa na Natureza		1	4
-Casada mas		1	12
-Casadas e Cacadoras		1	8
-Casados		1	24
-Casados com o Inimigo		1	12
-Casais em Terapia		1	8
-Casamento Acidental com Meu CEO Pobre		1	50
-Casamento Apaixonado		1	1
-Casamento Arranjado		1	10
-Casamento Comigo? Sério?		1	8
-Casamento Ilusório: O Preço Do Segredo		1	1
-Casamento Impossivel		1	12
-Casamento Obrigatório? Me Viro com Três Damas Perdidas!		1	1
-Casamento Por Vingança Doce Amor		1	20
-Casamento Rápido com o CEO Bilionário		1	1
-Casamento Rápido: Ela não Segue as Regras Normais		1	1
-Casamento as Cegas Alemanha		1	20
-Casamento as Cegas Habibi	2024	1	10
-Casamento as Cegas Japao		1	22
-Casamento as Cegas Polonia		1	5
-Casamento as Cegas Reino Unido	2024	1	36
-Casamento as Cegas Suecia		1	32
-Casamento de Repente Filhos do Segredo		1	1
-Casamento e Divórcio		1	32
-Casamento em Chamas		1	39
-Casamento sem Filtro		1	6
-Casamento à Indiana		1	13
-Casamento à Moda Judaica		1	8
-Casamento às Cegas		1	140
-Casamento às Cegas Argentina		1	15
-Casamento às Cegas: Brasil	2021	1	56
-Casamento às Cegas: França		1	10
-Casamento às Cegas: Itália		1	10
-Casamento às Cegas: México		1	11
-Casamento às Cegas: Países Baixos		1	10
-Casamento às Pressas: O Amor de André e Bianca		1	1
-Casamentos Extremos		1	8
-Casando com o Herdeiro e Seu Bebê		1	1
-Casar com VOCE		1	10
-Casar com um Assassino		1	3
-Casas Muito Loucas		1	9
-Casas Sobre Rodas		1	8
-Casas na Arvore		1	93
-Case		1	80
-Case X Decoded		1	12
-Case com Ela ou Perca-a		1	1
-Case-se com Ele no Lugar Dela		1	48
-Caseira Expulsa: A Caipira Retorna Vitoriosa		1	1
-Casey Anthony Where the Truth Lies		2	3
-Cashero		2	8
-Caso Arquivado Quem Matou JonBenét Ramsey?		2	3
-Caso Arquivado: Os Assassinatos do Tylenol		2	3
-Caso Jean Charles Um Brasileiro Morto Por Engano	2025	2	4
-Caso Roswell: O Veredito Final		2	6
-Casos Arquivados Mortes No Velho Oeste		2	6
-Casos Arquivados Os Assassinatos de Rifkin		2	2
-Casos Bizarros		2	9
-Casos Chocantes da Historia		2	8
-Cassandra	2025	2	6
-Casseta & Planeta, Urgente!		2	49
-Casshern Sins		2	24
-Cassiane -DVDs & Shows		2	29
-Castelo Ra Tim Bum		2	91
-Castle		2	173
-Castle Rock	2018	2	20
-Castle and Castle		2	13
-Castlevania		2	32
-Castlevania	2017	2	32
-Castlevania Noturno	2023	2	16
-Casual		2	13
-Casão: Num Jogo Sem Regras	2022	2	4
-Cat e Keet		2	78
-Cat's Eye		2	12
-CatDog		2	69
-Catalendas		2	86
-Catarina A Grande		2	4
-Catastrofes da Engenharia		2	6
-Catastrophe		2	16
-Catch Me at the Ballpark!		2	11
-Catedrais		2	12
-Catfish Brasil		2	22
-Catfish UK		2	4
-Catherine The Great		2	4
-Cats Eye		2	12
-Cats Eyes		2	8
-Catálogo		2	8
-Cautious Hero: The Hero is Overpowered but Overly Cautious		2	12
-Cautiva por Amor		2	120
-Cavaleiro da Lua		2	6
-Cavalo de Fogo		2	13
-Cavalos e Carrascos		2	6
-Caverna Do Dragão		2	27
-Caverna do Dragão	1983	2	27
-Caverna do Dragão	None	2	40
-Cazalbe O Herdeiro da Graca		2	5
-Cazuza Além da Música		2	4
-Caça Talentos		2	299
-Caça aos Famosos com Bear Grylls		2	8
-Caçador de Dinossauros		2	14
-Caçadora De Relíquias		2	57
-Caçadoras de Recompensas		2	10
-Caçadores		2	19
-Caçadores da Verdade		2	2
-Caçadores de Bugs		2	19
-Caçadores de Bugs	2020	2	19
-Caçadores de Demônios		2	56
-Caçadores de Fantasmas		2	29
-Caçadores de Naufrágios Austrália		2	6
-Caçadores de Pítons		2	22
-Caçadores de Relíquias		2	44
-Caçadores de Tempestades		2	5
-Caçadores de Trolls		2	52
-Caçadores de Trolls	2016	2	52
-Caçadores de Veneno		2	6
-Caçando Hitler		2	8
-Caí Perfeitamente nos Seus Braços		2	1
-Cecilia		2	8
-Cela 211		2	6
-Cela 8		2	6
-Celebridade		2	221
-Celebridades à Prova de Tudo: O Desafio		2	14
-Celebrity		2	12
-Celia		2	80
-Cells at Work!		2	21
-Celtics City		2	18
-Cem Anos de Solidao	2024	2	16
-Cemiterio		2	20
-Cemiterio - Mezarlik		2	12
-Cemitério de Animais: Assassinatos e Assombração		2	6
-Cena do Crime Assassinatos na Alemanha		2	3
-Cena do Crime: Arquivos Confidenciais		2	14
-Cena do Crime: Mistério e Morte no Hotel Cecil		2	4
-Cena do Crime: O Campo da Morte no Texas		2	3
-Cenas de Amor		2	9
-Cenas de um Crime		2	8
-Central Park		2	45
-Central de Bicos		2	40
-Ceo Quer Meu Pequeno Rascal		2	1
-Cerco ao Palácio		2	8
-Cesar Millan: Melhores Humanos, Melhores Cachorros		2	22
-Cestvs: The Roman Fighter		2	1
-Ceu Selvagem		2	2
-Chacrinha: A Minissérie		2	4
-Chad		2	9
-Chad Powers O Quarterback	2025	2	12
-Chad and JT Go Deep		2	6
-Chai Chai		2	78
-Chaika -The Coffin Princess-		2	1
-Chainsaw Man	2022	2	12
-Chainsmoker Cat		2	18
-Challenger: Voo Final		2	4
-Chamadas Criminosas		2	16
-Chamas da Vida		2	253
-Chamas do Desejo - Cancao da Vida - Hayat Sarkisi		2	57
-Chamas do Destino		2	118
-Chambers		2	10
-Chame a Parteira		2	155
-Champignon Witch		2	1
-Champion		2	8
-Champions		2	10
-Chana e nadini - Chana e nadini		2	42
-Chance		2	10
-Channel Zero	2016	2	18
-Chantel e Pedro em Família		2	18
-Chaos Dragon		2	12
-Chaotic		2	74
-Chaotic	2006	2	74
-Chaparral		2	98
-Chapolin Colorado		3	251
-Chapolin e Os Colorados	2026	3	10
-Charles O Novo Rei		3	2
-Charlie Brown - Os Viajantes Mayflower		3	6
-Charlie e Lola		3	10
-Charlotte		3	26
-Charmed: Jovens Bruxas		3	178
-Charmed: Nova Geração	2018	3	72
-Chasing Monsters		3	12
-Chaves		3	275
-Chaves Em Desenho Animado		3	134
-Chaves Em Desenho Animado	2006	3	113
-Cheaters: Amor e Traição	2022	3	6
-Cheating Craft		3	12
-Check In to You		3	6
-Cheer		3	21
-Cheers Aquele Bar		3	46
-Cheese In the Trap		3	16
-Chef 5 Estrelas		3	6
-Chef Alex Contra Todos		3	13
-Chef Kath Fang Legado de Familia		3	6
-Chef de Alto Nivel		3	34
-Chef's Table		3	34
-Chef's Table Lendas		3	4
-Chef's Table: Churrasco		3	2
-Chef's Table: Macarrão		3	4
-Chef's Table: Pizza		3	6
-Chefe da Casa		3	68
-Chefe de Guerra	2025	3	13
-Chefes do Tráfico		3	7
-Chefs A Nova Geração		3	7
-Chefs Em Treinamento		3	14
-Chefs Sob Pressão		3	8
-Chefs Table		3	30
-Chefs Table Lendas		3	4
-Chefs Table Macarrao		3	4
-Chefs de Alto Nível com Gordon Ramsay		3	58
-Chefs de Alto Nível com Gordon Ramsay: Reino Unido		3	8
-Chefs invasores o combate		3	4
-Chefão Não! Agora Só Quero Estudar		3	1
-Chega Mais		3	6
-Chega de Bagunca com Stacey Solomon		3	7
-Cheias de Charme		3	143
-Chernobyl	2019	3	5
-Cherry Blossoms After Winter		3	8
-Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!		3	12
-Chesapeake Shores	2016	3	56
-Chespirito		3	8
-Chespirito Sem Querer Querendo	2025	3	8
-Chewing Gum		3	22
-ChiaroScuro		3	8
-Chibi Tiny Tales		3	16
-Chibiverso		3	4
-Chica Vampiro		3	120
-Chicago Fire	2012	3	295
-Chicago Fire: Heróis Contra O Fogo		3	295
-Chicago Justice A Servico da Lei		3	13
-Chicago Med	2015	3	224
-Chicago Med: Atendimento de Emergência	2015	3	219
-Chicago P D : Distrito 21		3	263
-Chicago PD	2014	3	267
-Chicken Nugget		3	10
-Chico Anysio Um Homem a Procura de Um Personagem		3	5
-Chico Xavier: A Série		3	6
-Chihayafuru		3	37
-Chihayafuru Ciclo Completo		3	3
-Chiikawa		3	24
-Chillin in Another World with Level 2 Super Cheat Powers		3	12
-Chimerica		3	4
-Chimp Crazy		3	4
-Chios School Road		3	12
-Chip & Joanna: No Caminho do Sucesso		3	13
-Chip e Potato		3	10
-Chips		3	44
-Chiquinha Gonzaga		3	38
-Chiquititas		3	987
-Chiruran Shinsengumi Requiem		3	1
-Chitaozinho e Xororo Uma Historia de Sucesso		3	5
-Chitose Is in the Ramune Bottle		3	1
-Chitãozinho & Xororó - Uma História de Sucesso		3	5
-Chivalry of a Failed Knight		3	24
-Chloe		3	6
-Chobits		3	24
-Chocolate com Pimenta		3	209
-Choose Earth		3	1
-Chopped Nova Geracao		3	5
-Chopped: Doce Desafio		3	26
-Choque de Cultura		3	34
-Choque de Cultura A Serie		3	4
-Chore Agora, Saiba Quem Eu Sou		3	1
-Chosen		3	18
-Choujigen Game Neptune: The Animation		3	12
-Christina Boyer: No Corredor da Morte		3	3
-Chrno Crusade		3	24
-Chronos Ruler		3	13
-Chuck	2007	3	91
-Chuck Norris: O Homem da Lei		3	194
-Chucky	2021	3	47
-Chucky A Série		3	24
-Chuhai Lips		3	4
-Chumbak		3	9
-Churchill em Guerra		3	4
-Churrasqueiros do Texas		3	8
-Chuteira Preta		3	13
-Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.		3	11
-Chuva Negra		3	10
-Ciao House A Competicao		3	18
-Cidade Cruel		3	140
-Cidade Cruel - Cruel Istambul - Zalim Istanbul		3	140
-Cidade Cruel - Zalim Istanbul		3	39
-Cidade Distante - Uzak Sehir		3	62
-Cidade Em Uma Colina		3	26
-Cidade Fantasma: Terror em Montana		3	6
-Cidade Invisível	2021	3	12
-Cidade Madura		3	8
-Cidade Pacata, Crime Cruel		3	69
-Cidade Paradiso		3	8
-Cidade Proibida		3	12
-Cidade Proibida - Bu Sehir Arkandan Gelecek		3	20
-Cidade Secreta	2016	4	7
-Cidade Subterrânea		4	10
-Cidade Toxica	2025	4	4
-Cidade Turca - Zembilli		4	13
-Cidade das Esmeraldas		4	10
-Cidade das Estrelas	2026	4	8
-Cidade de Deus A Luta Nao Para	2024	4	8
-Cidade de Fantasmas		4	6
-Cidade de Fantasmas	2021	4	6
-Cidade de Sangue		4	8
-Cidade de Sombras		4	6
-Cidade do Caos		4	6
-Cidade dos Campeões	2021	4	8
-Cidade dos Homens		4	19
-Cidade dos Homens T		4	27
-Cidade dos Mortos	2019	4	8
-Cidade dos Pinguins	None	4	8
-Cidade em Chamas		4	8
-Cidades Assombradas		4	16
-Cidades Desvendadas com Albert Lin		4	6
-Cilada	2025	4	20
-Cinco Dias		4	5
-Cinco Dias no Hospital Memorial		4	8
-Cinco Quartos		4	16
-Cinco e Meia		4	30
-Cinderela e o Segredo do Pobre Milionário		4	1
-Cinderela e os Quatro Cavaleiros		4	16
-Cinderella Chef		4	36
-Cinderella Closet		4	12
-Cinderella Game		4	101
-Cinderella e os Quatro Cavaleiros		4	16
-Cindy La Regia Adolescencia		4	7
-Cine Holliúdy		4	33
-Cine Holliúdy: A Série		4	34
-Cinquentinha		4	8
-Cinquentões de Elite		4	24
-Ciranda de Pedra		4	131
-Cirurgia Plastica Vai Encarar		4	6
-Cirurgiao do Mal		4	3
-Cirurgias e Artimanhas	2023	4	24
-Cirurgioes No Limite da Vida		4	25
-Cisne Vermelho		4	20
-Citadel	2023	4	13
-Citadel Diana		4	6
-Citadel Honey Bunny		4	6
-City on a Hill	2019	4	26
-Ciume - Inveja - Kiskanmak		4	31
-ClaireBell		4	8
-Clangold: Roubo em Berlim		4	4
-Clannad		4	22
-Clara e o Chuveiro do Tempo		4	4
-Clarice	2021	4	13
-Clarissa Sabe Tudo		4	54
-Clark		4	6
-Clarêncio, O Otimista		4	141
-Clas Sangue e Poder		4	3
-Class Crush Crisis		4	8
-Classe Mortal		4	10
-Classe dos Herois Fracos	2022	4	16
-Classes		4	8
-Classic Stars		4	13
-Classico Americano	2026	4	8
-Classroom of the Elite		4	96
-Claws		4	40
-Claymore	2007	4	26
-Cleo & Cuquin		4	78
-Clevatess		4	25
-Click BBB		4	321
-Clickbait		4	8
-Clima do Amor		4	16
-Clipped: Escândalos no Los Angeles Clippers		4	6
-Clique		4	12
-Close to Me		4	6
-Club 57		4	120
-Clube Do Terror		4	50
-Clube Spelunca		4	10
-Clube Winx: A Magia está de volta		4	13
-Clube da Aventura		4	6
-Clube das Mães		4	16
-Clube de Mergulho		4	12
-Clube do Medo	2021	4	20
-Clube dos Corvos		4	10
-Clubinho Pikwik		4	52
-Clímax		4	20
-Clínica Animal com Dr. Pol		4	66
-Cobra Kai	2018	4	95
-Cobra Negra -Karayılan		4	18
-Cobras & Lagartos		4	179
-Cobras e Escadas		4	8
-Cobras e Lagartos		4	130
-Cocaine Cowboys: The Kings of Miami		4	6
-Cocoricó		4	233
-Code 404		4	21
-Codex 632		4	6
-Codigo do Silencio		4	6
-Coffee Melody		4	12
-Coiote Heroi e Fera		4	8
-Coiotes		4	6
-Coisa Mais Linda		4	13
-Coisa de Menino		4	5
-Coisas que Eu Odeio em Você		4	1
-Colapso		4	6
-Cold Case	2003	4	29
-Cold Courage		4	16
-Coletivo Terror		4	6
-Coleção Halloween Assustador		4	17
-Colin em Preto e Branco		4	6
-Colin from Accounts		4	15
-Colina Ventosa		4	35
-Colina Ventosa - Ruzgarli Tepe		4	217
-Colina do Falcao - Sahin Tepes - Falcon Hill		4	6
-Coliseu		4	8
-Colisão	2026	4	62
-Collateral		4	4
-Colony		4	36
-Color Rush		4	16
-Colosio Assassinato Politico		4	6
-Columbo		4	30
-Colônia		4	10
-Colônia Dignidade: Uma Seita Nazista no Chile		4	6
-Com Amor		5	11
-Com Amor Meghan		5	8
-Com Amor, Victor		5	28
-Com Carinho Kitty	2023	5	26
-Com Pocoes Eu Me Garanto		5	12
-Com a Permissão do Tribunal		5	12
-Com os Nervos em Franja		5	12
-Com Água até o Pescoço		5	149
-Comando Estelar Flashman		5	50
-Comando das Criaturas	2024	5	7
-Come Back Mister		5	16
-Comedy Revenge		5	6
-Comedy Royale		5	6
-Comer Correr Amar		5	28
-Cometerra	2025	5	7
-Começar de Novo		5	191
-Comidas Cheias De História		5	20
-Community		5	110
-Como Acabar Com o Natal: O Casamento		5	11
-Como Acabar com o Amor	2024	5	4
-Como Acabar com o Diwali		5	3
-Como Chutar um Craque da Bola		5	1
-Como Conquistar um Raposa Prateada		5	35
-Como Criar um Escandalo Sexual		5	3
-Como Criar um Quarto do Sexo		5	4
-Como Defender um Assassino		5	90
-Como Defender um Assassino (How to Get Away with Murder)	2014	5	32
-Como Domar um Coroa		5	1
-Como Encontrar Alguém para Sempre		5	1
-Como Escapei a Minha Seita		5	10
-Como Eu Conheci Sua Mae	2005	5	208
-Como Ficar Rico		5	8
-Como Funciona o Universo		5	30
-Como Ganhar na Loteria		5	6
-Como Largar um Astro do Hóquei		5	1
-Como Morrer Sozinha		5	8
-Como Mudar sua Mente		5	4
-Como Raeliana Foi Parar na Mansão do Duque		5	12
-Como Se Livrar de Um Corpo		5	6
-Como Se Não Houvesse Amanhã		5	4
-Como Se Tornar Uma Divindade Na Flórida		5	10
-Como Se Tornar um Chefe do Crime		5	6
-Como Se Tornar um Líder de Seita		5	6
-Como Se Tornar um Tirano		5	6
-Como Sobreviver Entre Irmãos		5	33
-Como Sobreviver Solteiro		5	36
-Como Treinar Seu Dragao As Lendas		5	3
-Como Treinar Seu Dragão: As LendasComo Treinar Seu Dragao As Lendas		5	3
-Como Vender Drogas Online	2019	5	24
-Como Virar um Cowboy		5	6
-Como Viver até os 100: Os Segredos das Zonas Azuis		5	4
-Como Voce Pode		5	32
-Como Voce Se Atreve		5	24
-Como Walt Disney Mudou o Mundo		5	6
-Como um Relâmpago		5	4
-Como um Sonho - Ruya Gibi		5	13
-Como uma Onda		5	179
-Como Água para Chocolate		5	12
-Como é Possível?		5	18
-Companheiros de Viagem	2023	5	8
-Complexo do Salvador		5	6
-Compramos, Vendemos e Trocamos		5	12
-Compro Likes		5	5
-Compulsion		5	7
-Conan O Menino do Futuro		5	26
-Conan O'Brien Vai Nessa		5	9
-Conception		5	1
-Concrete Market		5	7
-Condenado ao Amor - Aşka Mahkum		5	81
-Condenados pela Mídia		5	12
-Condor	2018	5	30
-Conexao Extraterrestre		5	10
-Conexoes Traicoeiras		5	14
-Conexão: Comer, Amar e Matar		5	16
-Conexões		5	8
-Conexões de Risco		5	8
-Confeitaria do Terror		5	2
-Confeiteiros em Acao Desafios de Pascoa		5	5
-Confidencial - Gizli Sakli		5	8
-Confie em Mim		5	10
-Confie em Mim O Falso Profeta		5	4
-Confinada		5	6
-Confissoes Diabolicas		5	12
-Confissoes de Assassinos Verdades Perturbadoras		5	8
-Confissoes de um Crime	2024	5	12
-Confissoes de um Serial Killer		5	4
-Confissoes do Assassino da Times Square		5	2
-Confissões de Mulheres de 50		5	10
-Conflict		5	12
-Conforme Programado		5	21
-Confrontando um Serial Killer		5	5
-Confronto Entre Potencias		5	7
-Confronto dos Deuses		5	10
-Confusoes de Leslie		5	125
-Congonhas Tragédia Anunciada		5	3
-Congresso Bitcoin		5	3
-Congresso Brasil Paralelo		5	1
-Congresso S01		5	6
-Conheca Homem de Ferro e seus Amigos Incriveis		5	10
-Conhecendo as Esculturas e Modelagens dos Filmes Disney		5	16
-Conheço Você		5	8
-Conor McGregor: Além do Octógono		5	4
-Conquistando o Shopping		5	8
-Consciencia		5	5
-Consciência³		5	5
-Conspiracao do Amor		5	24
-Conspiração Americana: Os Crimes da Octopus	2024	5	4
-Constantine	2014	5	13
-Constelacao	2024	5	8
-Construcoes que Mudaram o Mundo		5	8
-Construindo no Alasca		5	99
-Construindo no Alaska		5	99
-Construções Remotas		5	74
-Construções no Alasca		5	99
-Consumidas pelo Fogo	2023	5	8
-Contagem Regressiva	2025	5	13
-Contagem Regressiva Jake Paul vs. Mike Tyson		5	3
-Contatos Imediatos Oceania		5	6
-Conte Tudo Para Mim		5	6
-Contigo Sim		5	51
-Contigo, Guerrero		6	6
-Continuum		6	43
-Conto da Cidade Distante - Uzak Sehrin Masali		6	5
-Conto da Rosa - Gül Masalı		6	17
-Conto de Cinzas - Kül Masalı		6	10
-Contos		6	123
-Contos Do Loop		6	8
-Contos Futurísticos		6	7
-Contos da Noite		6	18
-Contos de The Walking Dead		6	12
-Contra o Destino - Kadere Karsi		6	29
-Contracapa		6	13
-Contraste		6	8
-Contratempos		6	55
-Contrato de Casamento		6	16
-Control Z	2020	6	24
-Conturbado		6	19
-Conversa com Bial		6	189
-Conversando com um Serial Killer: O Canibal de Milwaukee		6	3
-Conversando com um serial killer O Filho de Sam		6	3
-Conversando com um serial killer: A Mente de Charles Manson		6	3
-Conversando com um serial killer: Ted Bundy		6	4
-Conversando com um serial killer: o Palhaço Assassino		6	3
-Conversas Entre Amigos		6	12
-Conversas que Curam		6	6
-Convidada - Misafir		6	5
-Convocadas		6	1
-Cook Island: Ilha do Sabor		6	10
-Cookies de Natal O Desafio		6	36
-Cooking Crush		6	8
-Cooking Life		6	1
-Cool McCool: O Detetive Trapalhão		6	17
-Coop e Cami		6	37
-Cop Craft		6	1
-Copa Rio, Vira-latas e o Supermundial		6	3
-Copan		6	10
-Copan Websérie		6	10
-Copenhagen Cowboy		6	6
-Coppelion		6	13
-Coppers: Justiça Implacável		6	13
-Coracao Acelerado		6	177
-Coracao Negro - Siyah Kalp		6	140
-Coracao Sombrio		6	5
-Coracao Trancado Novo Comeco		6	1
-Coracao de Ferro	2025	6	6
-Coracao de Mae - O cheiro do Bau - Sandik Kokusu		6	117
-Coracao de Ruzgar - Ruzgarin Kalbi		6	9
-Coracao que Mente - Corazon que Miente		6	51
-Coracoes Destinados		6	38
-Coracoes Solitarios - Yalniz Kalpler		6	100
-Coragem Irmao		6	6
-Coragem, o Cão Covarde		6	53
-Coragem, o Cão Covarde	1999	6	52
-Coração Alado		6	6
-Coração Escarlate		6	35
-Coração Esmeralda		6	105
-Coração Ferido		6	139
-Coração Indomável		6	225
-Coração Inimigo		6	16
-Coração Marcado	2022	6	24
-Coração Negro		6	107
-Coração Que Mente		6	51
-Coração Selvagem - Corazón salvaje		6	119
-Coração Suburbano		6	6
-Coração de Estudante		6	185
-Coração de Mãe		6	180
-Coração de Vidro		6	10
-Coração em Jogo		6	1
-Corações Feridos		6	93
-Corações em Contagem Regressiva		6	1
-Cordel Encantado		6	188
-Cordelicos		6	26
-Cordélicos	2022	6	26
-Coreia O Pais do Kimchi		6	3
-Coroa Reivindicada: Ela Ascende da Traição		6	1
-Coroada de Amor Sua Volta por Cima Com Tres Filhos		6	60
-Coroas em Crise		6	8
-Coroner		6	38
-Corpo Dourado		6	191
-Corpo Humano: Nosso Mundo Interior		6	6
-Corpo a Corpo		6	179
-Corpo em Chamas		6	8
-Corporate		6	25
-Corpos	2023	6	8
-Corpos Extraordinarios		6	4
-Corpos no Porao		6	4
-Corre Compra e Cozinha		6	39
-Corrente Implacavel		6	18
-Corretores de Luxo em Marbella		6	6
-Corrida Ao Redor Da Terra		6	7
-Corrida Maluca		6	34
-Corrida Maluca	1968	6	34
-Corrida na Lama		6	6
-Corrida pela Coroa		6	6
-Corridas Proibidas Os Melhores da America		6	28
-Corridas Proibidas Tudo ou Nada		6	12
-Corridas Proibidas: Reis das Pistas: G-8		6	14
-Cortina de Fumaca	2025	6	9
-Corvo - Kuzgun		6	21
-Cosme & Damião: Quase Santos		6	10
-Cosme e Damiao Quase Santos		6	10
-Cosmo O Cosmonauta		6	13
-Cosmos		6	26
-Cosmos Mundos Possiveis		6	13
-Costume Quest		6	21
-Council Of Dads: Lembranças Do Meu Pai		6	10
-Counterpart: Mundo Paralelo		6	20
-Courtois O Retorno do Numero 1		6	4
-Coven Academy	2026	6	21
-Covert Affairs: Assuntos Confidenciais		6	75
-Cowboy Bebop		6	52
-Cowboy Cartel		6	4
-Coyote		6	12
-Coyotes		6	6
-Cozinha Selvagem: O Duelo		6	8
-Cozinha de Alto Nível		6	8
-Cozinha em Conta		6	8
-Cozinhando com Paris Hilton		6	6
-Cozinhando em 420		6	12
-Cozinhando em 4:20		6	12
-Cozinhando o Impossível		7	8
-Cozinhar Um Urso		7	1
-Cracked		7	21
-Craftopia		7	12
-Craith		7	8
-Crash Landing On You		7	16
-Crash e Bernstein		7	39
-Crashing		7	16
-Crazy Ex Girlfriend	2015	7	12
-Crazy Love		7	16
-Crazyhead		7	6
-Creepshow		7	25
-Crenças - Histórias de Horror		7	12
-Crepusculo dos Deuses	2024	7	8
-Crepúsculo de Um Crime		7	6
-Crescendo		7	10
-Crescidinhos		7	19
-Criadas E Malvadas		7	26
-Criadas Malignas - Hizmetçiler		7	3
-Criadores de Diversão		7	8
-Criadores de Supercarros		7	15
-Criadores do Futuro		7	3
-Criando Delicias		7	16
-Criando Dion		7	17
-Criando o Filho da Amante		7	1
-Criança		7	79
-Criaturas Estranhas		7	13
-Criaturas Misteriosas com Forrest Galante		7	6
-Criaturinhas		7	39
-Crime Cruel		7	69
-Crime Scene Zero		7	10
-Crime de uma Dinastia O Caso Murdaugh	2025	7	8
-Crime em Tempo Real	2022	7	6
-Crimes Graves	2012	7	105
-Crimes Misteriosos: Quem Matou Jeffrey Epstein?		7	3
-Crimes da Humanidade - İnsanlık Suçu		7	7
-Crimes do Colarinho Branco		7	81
-Crimes em Déli		7	10
-Crimes na Cabana		7	6
-Crimes no Vale do Silício		7	6
-Crimes que Abalaram o Mundo		7	8
-Crimes que Viralizaram		7	61
-Criminal		7	278
-Criminal - Alemanha		7	3
-Criminal - Espanha		7	3
-Criminal - França		7	3
-Criminal - Reino Unido		7	7
-Criminal Minds	2005	7	4
-Criminal Minds: Beyond Borders		7	32
-Criminal- UK		7	7
-Criminosos		7	22
-Crisalida		7	4
-Crise em Seis Cenas		7	6
-Crisis		7	13
-Cristal		7	142
-Cristiano Araujo DVDs & Shows		7	35
-Cristóbal Balenciaga		7	6
-Critter Fixers: Hospital Veterinário		7	26
-Cromanon A Noite do Incendio		7	8
-Cronicas da Deusa Gato		7	13
-Cronicas de Metal Hurlant		7	12
-Cronicas de um Lar		7	10
-Croods,o Início	2015	7	52
-Crossbones		7	9
-Crossing Lines		7	34
-Crossing Swords		7	28
-Crossover		7	8
-Crowned in a Hundred Days		7	24
-Cruel Summer		7	25
-Crusade		7	13
-Crushology 101		7	12
-Crutch		7	8
-Crystal Lake		7	8
-Crystal Lake (2026)	2026	7	50
-Crônicas De São Francisco		7	10
-Crônicas de San Francisco		7	10
-Crônicas de um Aristocrata em Outro Mundo		7	16
-Cuba Libre		7	6
-Cube x Cursed x Curious (C³)		7	12
-Cuckoo		7	25
-Cuidado com o Anjo		7	194
-Culpado da Humanidade - İnsanlık Suçu		7	8
-Cult		7	13
-Cultural Exchange with a Game Centre Girl		7	10
-Cumbia Ninja		7	45
-Cupcake e Dino - Serviços Gerais		7	24
-Cuphead: A Série		7	36
-Curon		7	7
-Cursed - A Lenda do Lago		7	20
-Cursed Films		7	10
-Curso De Inglês Mairo Vergara		7	269
-Curso De Violão Completo Marcos Kaiser		7	365
-Curso De Violão Metodo Triade Heitor Castro		7	196
-Curta Essa com Zac Efron		7	16
-Curto Circuito		7	20
-Cuspirei Em Seus Tumulos		7	60
-Custe o que Custar	2026	7	8
-Cutie Honey		7	9
-Cyberchase: A Corrida do Espaço		7	46
-Cybercop: Os Policiais do Futuro		7	34
-Cyberpunk: Edgerunners		7	20
-Cyberpunk: Mercenários	2022	7	36
-Cycle of Sin		7	20
-Cypher		7	3
-Câmera Entre Balas		7	8
-Cães de Berlim		7	10
-Cães de Caça	2023	7	15
-Círculo Fechado	2023	7	6
-Círculo de Confiança		7	8
-Círculo de Fogo: The Black		7	14
-Círculo de Fogo: The Black	2021	7	14
-Código Negro		7	81
-Cúmplices de um Resgate		7	465
-c		7	6
-cientista		7	20
-com Papa Francisco		7	4
-Çarpışma		7	24
+Cara Gente Branca		0	40
+Cara a Cara		0	10
+Cara x Cara		0	8
+Carangas Absurdas		0	6
+Caras		0	18
+Cardcaptor Sakura	1998	0	105
+Cardinal	2017	0	19
+Carga Explosiva: A Série		0	24
+Carinha de Anjo		0	397
+Carissima		0	10
+Carlinhos Brown em Meia Lua Inteira		0	4
+Carlo		0	12
+Carmen Sandiego		0	21
+Carniceiros		0	5
+Carnival Row	2019	0	18
+Carnivale		0	24
+Carol e o Fim do Mundo		0	10
+Caroline Flack A Busca Pela Verdade		0	2
+Carrapatos e Catapultas		0	1
+Carrie, a Estranha	2026	0	8
+Carros Irados A Disputa		0	8
+Carros na Estrada	2022	0	9
+Carta ao Rei		0	6
+Cartel Crew		0	10
+Carter		0	20
+Carême - O Rebelde da Culinária	2025	0	8
+Casa das Facas A Batalha		0	8
+Casa de Davi	2025	0	16
+Casa de Stassi Schroeder		0	11
+Casa do Patrao		0	78
+Casadas e Cacadoras		0	8
+Casados com o Inimigo		0	12
+Casamento Comigo? Sério?		0	8
+Casamento Impossivel		0	1
+Casamento as Cegas Argentina		0	15
+Casamento as Cegas Japao		0	11
+Casamento as Cegas Polonia		0	5
+Casamento as Cegas Reino Unido	2024	0	34
+Casamento as Cegas Suecia		0	10
+Casamento sem Filtro		0	6
+Casamento à Indiana		0	13
+Casamento às Cegas		0	137
+Casamento às Cegas: Brasil	2021	0	56
+Casamento às Cegas: Países Baixos		0	10
+Casamentos Extremos		0	8
+Casar com um Assassino		0	3
+Case-se com Ele no Lugar Dela		0	48
+Cashero		0	8
+Caso Arquivado Os Assassinatos do Tylenol		0	3
+Casos Arquivados: Mortes no Velho Oeste		0	6
+Casos Bizarros		0	3
+Casos Chocantes da Historia		0	8
+Cassandra	2025	0	6
+Castelo Ra Tim Bum		0	91
+Castle		0	11
+Castle Rock	2018	0	20
+Castle and Castle		0	13
+Castlevania	2017	0	30
+Casual		1	13
+Cat's Eye		1	12
+CatDog		1	40
+Catarina A Grande		1	4
+Catastrophe		1	16
+Catedrais		1	12
+Cavaleiro da Lua		1	6
+Cavalo de Fogo		1	13
+Cavalos e Carrascos		1	4
+Caverna do Dragão	None	1	40
+Caçadora de Relíquias		1	43
+Caçadoras de Recompensas		1	10
+Caçadores		1	19
+Caçadores da Verdade		1	2
+Caçadores de Bugs		1	18
+Caçadores de Naufrágios Austrália		1	6
+Caçadores de Tempestades		1	5
+Caçadores de Veneno		1	6
+Caçando Hitler		1	8
+Cecilia		1	8
+Cela 211		1	6
+Cela 8		1	6
+Celia		1	80
+Celtics City		1	9
+Cem Anos de Solidao	2024	1	15
+Cemiterio		1	20
+Cemitério de Animais: Assassinatos e Assombração		1	6
+Cena do Crime: Mistério e Morte no Hotel Cecil		1	4
+Cena do Crime: O Campo da Morte no Texas		1	3
+Cenas de um Crime		1	8
+Central Park		1	10
+Cerco ao Palácio		1	8
+Chad		1	9
+Chad Powers O Quarterback	2025	1	12
+Chad and JT Go Deep		1	6
+Chainsaw Man	2022	1	12
+Chainsmoker Cat		1	18
+Challenger: Voo Final		1	4
+Chamadas Criminosas		1	16
+Chamas do Destino		1	8
+Chambers		1	10
+Chame a Parteira		1	108
+Champion		1	8
+Champions		1	10
+Chance		1	10
+Channel Zero	2016	1	11
+Chantel e Pedro em Familia		1	18
+Chaotic		1	42
+Chapolin Colorado		1	250
+Chapolin e Os Colorados	2026	1	10
+Charlie e Lola		1	10
+Charlotte		1	26
+Charmed: Jovens Bruxas		1	164
+Charmed: Nova Geração	2018	1	71
+Chaves		1	275
+Chaves Em Desenho Animado		1	132
+Cheer		1	21
+Cheese In the Trap		1	16
+Chef 5 Estrelas		1	6
+Chef de Alto Nivel		1	34
+Chef's Table		1	16
+Chef's Table: Churrasco		1	2
+Chefe da Casa		1	61
+Chefe de Guerra	2025	1	13
+Chefes do Tráfico		1	7
+Chefs Em Treinamento		1	14
+Chefs invasores o combate		1	4
+Cheias de Charme		1	142
+Chernobyl	2019	1	5
+Cherry Blossoms After Winter		1	8
+Chesapeake Shores	2016	1	18
+Chespirito Sem Querer Querendo	2025	1	8
+Chewing Gum		1	10
+ChiaroScuro		1	8
+Chibi Tiny Tales		1	16
+Chicago Fire	2012	1	295
+Chicago Justice A Servico da Lei		1	13
+Chicago Med	2015	1	222
+Chicago PD	2014	1	267
+Chihayafuru		1	37
+Chillin in Another World with Level 2 Super Cheat Powers		1	12
+Chimerica		1	4
+Chimp Crazy		1	4
+Chip & Joanna: No Caminho do Sucesso		1	13
+Chiquititas		1	543
+Chiruran Shinsengumi Requiem		1	1
+Chloe		1	5
+Chocolate com Pimenta		1	204
+Chopped Nova Geracao		1	5
+Chopped: Doce Desafio		1	26
+Choque de Cultura A Serie		1	4
+Christina Boyer No Corredor da Morte		1	1
+Chuck	2007	1	90
+Chucky	2021	1	39
+Chumbak		1	8
+Churchill em Guerra		1	4
+Ciao House A Competicao		1	18
+Cidade Fantasma: Terror em Montana		1	6
+Cidade Invisível	2021	1	11
+Cidade Madura		1	8
+Cidade Paradiso		1	8
+Cidade Proibida		1	12
+Cidade das Esmeraldas		1	10
+Cidade das Estrelas	2026	1	8
+Cidade de Deus A Luta Nao Para	2024	1	9
+Cidade de Fantasmas		1	6
+Cidade de Sangue		1	8
+Cidade de Sombras		1	6
+Cidade dos Campeões	2021	1	8
+Cidade dos Mortos	2019	1	8
+Cidade dos Pinguins	None	1	8
+Cidades Assombradas		1	8
+Cidades Desvendadas com Albert Lin		1	6
+Cinco Quartos		1	16
+Cindy La Regia Adolescencia		1	7
+Cinquentões de Elite		1	24
+Cirurgiao do Mal		1	3
+Cirurgias e Artimanhas	2023	1	16
+Cisne Vermelho		1	10
+City on a Hill	2019	1	18
+Clangold: Roubo em Berlim		2	4
+Clannad		2	22
+Clarencio O Otimista		2	99
+Clarice	2021	2	13
+Clark		2	6
+Classe Mortal		2	10
+Classe dos Herois Fracos	2022	2	16
+Classes		2	7
+Classico Americano	2026	2	8
+Classroom of the Elite		2	50
+Claws		2	40
+Clevatess		2	24
+Clima do Amor		2	16
+Clique		2	11
+Close to Me		2	6
+Club 57		2	120
+Clube Do Terror		2	30
+Clube Spelunca		2	10
+Clube da Aventura		2	6
+Clube de Mergulho		2	12
+Clube dos Corvos		2	10
+Clímax		2	13
+Clínica Animal com Dr. Pol		2	56
+Cobra Kai	2018	2	65
+Cobras & Lagartos		2	173
+Cocaine Cowboys: The Kings of Miami		2	6
+Code 404		2	20
+Coisa Mais Linda		2	11
+Coisas que Eu Odeio em Você		2	1
+Colapso		2	6
+Cold Courage		2	8
+Coletivo Terror		2	6
+Colin em Preto e Branco		2	6
+Colisão	2026	2	27
+Collateral		2	4
+Colony		2	36
+Colosio Assassinato Politico		2	6
+Com Amor		2	10
+Com a Permissão do Tribunal		2	8
+Com os Nervos em Franja		2	12
+Comando Estelar Flashman		2	7
+Comando das Criaturas	2024	2	7
+Comedy Royale		2	6
+Cometerra	2025	2	7
+Community		2	110
+Como Acabar Com o Natal: O Casamento		2	10
+Como Acabar com o Diwali		2	3
+Como Agua para Chocolate		2	12
+Como Criar um Escandalo Sexual		2	3
+Como Criar um Quarto do Sexo		2	4
+Como Defender um Assassino		2	25
+Como Eu Conheci Sua Mae	2005	2	208
+Como Mudar sua Mente		2	2
+Como Se Livrar de Um Corpo		2	6
+Como Se Tornar Uma Divindade na Flórida		2	10
+Como Se Tornar um Chefe do Crime		2	6
+Como Se Tornar um Líder de Seita		2	6
+Como Se Tornar um Tirano		2	6
+Como Sobreviver Entre Irmãos		2	23
+Como Sobreviver Solteiro		2	14
+Como Vender Drogas Online	2019	2	18
+Como Virar um Cowboy		2	6
+Como Viver até os 100: Os Segredos das Zonas Azuis		2	4
+Como Walt Disney Mudou o Mundo		2	6
+Como uma Onda		2	179
+Como é Possível?		2	18
+Companheiros de Viagem	2023	2	8
+Complexo do Salvador		2	3
+Compramos, Vendemos e Trocamos		2	6
+Compulsion		2	3
+Conan O'Brien Vai Nessa		2	9
+Condor	2018	2	30
+Conexões		2	8
+Confie em Mim		2	10
+Confie em Mim O Falso Profeta		2	4
+Confinada		2	6
+Confissoes Diabolicas		2	12
+Confissoes de Assassinos Verdades Perturbadoras		2	8
+Confissoes de um Crime	2024	2	12
+Conflict		2	12
+Confrontando um Serial Killer		2	5
+Confronto dos Deuses		2	10
+Confusões de Leslie		2	125
+Congonhas Tragedia Anunciada		2	3
+Conhecendo as Esculturas e Modelagens dos Filmes Disney		2	8
+Conheço Você		2	8
+Conquistando o Shopping		2	8
+Consciencia		2	5
+Constantine	2014	2	13
+Construcoes que Mudaram o Mundo		2	7
+Construções Remotas		2	67
+Contagem Regressiva	2025	2	13
+Contigo, Guerrero		2	6
+Continuum		2	32
+Contos		2	123
+Contos Futurísticos		2	7
+Contos da Noite		2	18
+Contos de The Walking Dead		2	6
+Contos do Loop		2	8
+Contratempos		2	47
+Control Z	2020	2	19
+Conturbado		2	19
+Conversando com um Serial Killer: O Canibal de Milwaukee		2	3
+Conversando com um serial killer: A Mente de Charles Manson		2	3
+Conversando com um serial killer: Ted Bundy		2	4
+Conversas Entre Amigos		2	12
+Cooking Crush		2	8
+Coop e Cami		2	37
+Coppers: Justiça Implacável		2	1
+Coracao Acelerado		2	177
+Coracao Sombrio		2	5
+Coracao de Ferro	2025	2	6
+Coragem Irmao		2	6
+Coragem O Cao Covarde		2	51
+Coração Ferido		2	107
+Coração Selvagem - Corazón salvaje		2	119
+Cordelicos		2	26
+Coroner		2	38
+Corpo Humano: Nosso Mundo Interior		2	6
+Corpo em Chamas		2	8
+Corporate		3	25
+Corpos	2023	3	8
+Corpos Extraordinarios		3	4
+Corrente Implacavel		3	18
+Corrida Maluca		3	32
+Corridas Proibidas Os Melhores da America		3	28
+Cortina de Fumaca	2025	3	8
+Cosmos		3	13
+Costume Quest		3	21
+Council of Dads Lembranças do Meu Pai		3	10
+Counterpart: Mundo Paralelo		3	20
+Coven Academy	2026	3	21
+Covert Affairs: Assuntos Confidenciais		3	13
+Cowboy Bebop		3	52
+Coyote		3	6
+Coyotes		3	6
+Cozinha em Conta		3	8
+Cozinhando com Paris Hilton		3	6
+Cracked		3	21
+Craith		3	8
+Crash e Bernstein		3	39
+Crazyhead		3	6
+Creepshow		3	18
+Crenças - Histórias de Horror		3	12
+Crepusculo dos Deuses	2024	3	8
+Crescidinhos		3	19
+Criadores de Diversão		3	8
+Criadores de Supercarros		3	15
+Criadores do Futuro		3	3
+Criando Dion		3	17
+Criaturas Misteriosas Com Forrest Galante		3	6
+Crime de uma Dinastia O Caso Murdaugh	2025	3	7
+Crimes Graves	2012	3	105
+Crimes do Colarinho Branco		3	81
+Crimes em Déli		3	10
+Crimes na Cabana		3	6
+Crimes no Vale do Silício		3	6
+Criminal		3	271
+Criminal Minds: Beyond Borders		3	6
+Criminosos		3	8
+Crisis		3	13
+Croods,o Início	2015	3	52
+Crossbones		3	9
+Crossing Lines		3	34
+Crossing Swords		3	8
+Cruel Summer		3	16
+Crusade		3	13
+Crystal Lake (2026)	2026	3	50
+Crônicas de San Francisco		3	10
+Cuckoo		3	25
+Cuidado com o Anjo		3	190
+Cult		3	13
+Cumbia Ninja		3	45
+Cupcake e Dino - Serviços Gerais		3	24
+Curon		3	7
+Cursed - A Lenda do Lago		3	20
+Cursed Films		3	10
+Curta Essa com Zac Efron		3	16
+Cuspirei Em Seus Tumulos		3	60
+Custe o que Custar	2026	3	8
+Cyberchase: A Corrida do Espaço		3	46
+Cyberpunk: Mercenários	2022	3	36
+Cycle of Sin		3	20
+Cypher		3	3
+Cães de Berlim		3	10
+Cães de Caça	2023	3	15
+Círculo de Confiança		3	8
+Círculo de Fogo: The Black		3	14
+Código Negro		3	47
+Cúmplices de um Resgate		3	282

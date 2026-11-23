@@ -1,93 +1,32 @@
 Y Gwyll		0	8
 Y: O Último Homem		0	10
-YAIBA Samurai Legend		0	46
-YAIBA: Samurai Legend	2025	0	24
-YATAGARASU: The Raven Does Not Choose Its Master		0	20
-YOHANE THE PARHELION -SUNSHINE in the MIRROR		0	13
-YOLO!		0	21
-YOUR FORMA		0	13
-Ya Çok Seversen		0	40
-Yabani		0	214
-Yabani: Coração Selvagem	2023	0	120
-Yabba-Dabba Dinossauros		0	26
-Yagate Kimi Ni Naru		0	13
-Yago		0	65
-Yago: Um Amor Traido		0	65
-Yakitori: Soldados do Desastre		0	6
-Yakuza Fiancé: Raise wa Tanin ga Ii		0	12
+YAIBA Samurai Legend		0	24
 Yalniz Kalpler		0	20
-Yami To Boushi To Hon No Tabibito		0	13
-Yami no Matsuei		0	13
-Yamishibai Japanese Ghost Stories		0	117
-Yandere Dark Elf: She Chased Me All the Way from Another World!		0	12
 Yankee		0	25
-Yargi Segredos de Familia		0	505
-Yargı Segredos de Familia		0	403
-Yashahime Princess Half Demon		0	48
-Yasuke		0	6
-Yatogame-chan Kansatsu Nikki		0	12
-Yaz Şarkısı		0	8
 Year of the Rabbit		0	6
-Years And Years		0	6
+Years and Years		0	6
 Yellowjackets	2021	0	30
-Yellowstone	2018	0	105
-Yellowstone One Fifty		0	4
+Yellowstone	2018	0	53
 Yellowstone Selvagem		0	2
 Yin Yang Yo!		0	49
-Yo Gabba Gabbalandia		0	10
-Yo Kai Watch		0	76
-Yolanthe		0	7
-Yonder		0	6
-Yong Pal		0	18
-Yoroi Shinden Samurai Troopers		0	7
-Yoru no Kurage wa Oyogenai		0	10
 You	2018	0	50
-You Are Mine		0	10
 You Are Wanted		0	12
-You Cant Be in a Rom Com with Your Childhood Friends		0	7
-You Have My Heart		0	22
-You Make Me Dance		0	8
-You Maniac		0	9
-You Me Her		0	39
-You Should Be The One To Come Kiss Me		0	1
-You and I Are Polar Opposites		0	37
-You and I Are Polar Opposites	2026	0	25
-You are Ms Servant		0	24
-You re the Best Lee Soon Shin		0	50
-You're The Worst		0	62
-Young David		0	5
-Young Famous e African		0	24
+You and I Are Polar Opposites		0	24
+You're the Worst		0	52
 Young Farts Trailer Parts		0	5
 Young Ladies Don't Play Fighting Games		0	1
-Young Love		0	12
-Young Rock		0	48
-Young Royals	2021	0	18
-Young, Famous & African		0	24
-Younger		0	157
-Your Dear Daddy		0	8
-Your Honor		0	35
-Your Love So Invincible		0	4
-Your Pretty Face Is Going to Hell		0	42
-Your Sky: Hare Nochi Koi		0	9
-Your Summer, My Storm		0	10
+Young Royals	2021	0	6
+Young, Famous & African		0	8
+Younger		0	73
+Your Honor		0	29
+Your Love So Invincible		0	3
+Your Pretty Face Is Going to Hell		0	4
 Your Summer,My Storm (2026)		0	20
 Youre Killing Me		0	6
 Youth	2026	0	8
-Youth Water Polo		0	12
-Yu Yu Hakusho	2023	0	112
-Yu-Gi-Oh!	2000	0	411
-Yu-Gi-Oh! GX		0	283
-Yu-Gi-Oh! Go Rush!!		0	83
-Yu-Gi-Oh! Sevens		0	92
-YuGiOh		0	28
-YuGiOh GX	2004	0	17
-Yugo The Negotiator		0	13
-Yukon: Plantão Veterinário		0	87
-Yumekui Merry		0	13
-Yumi's Cells		0	28
-Yunus Emre Aşkın Yolculuğu		0	44
-Yuri on ICE		0	12
-Yurikuma Arashi		0	11
-YuruYuri		0	11
-Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita		0	12
+Yu Gi Oh Go Rush		0	17
+Yu Gi Oh Sevens		0	92
+Yu Yu Hakusho	2023	0	99
+Yu-Gi-Oh!	2000	0	224
+Yukon: Plantão Veterinário		0	42
 Yıldızlar Şahidim		0	3

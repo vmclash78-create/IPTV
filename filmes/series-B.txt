@@ -1,605 +1,296 @@
-B Daman Crossfire		0	26
-B Gata H Kei		0	12
 B Positive		0	63
-B-PROJECT		0	12
-B.A. O Futuro Está Morto		0	8
 B.O		0	8
 BAKI DOU O Samurai Invencivel		0	25
-BAKI-DOU: O Samurai Invencível	2026	0	25
-BARTENDER Glass of God		0	12
-BASTARD!!		0	39
-BBB Tá On		0	10
-BBK/BRNK		0	12
-BE@RBRICK		0	13
-BEARBRICK		0	13
-BIA		0	180
-BLACK TORCH	2026	0	12
+BIA		0	120
 BLACK TRICK: The Lawyer Who Controls Justice		0	22
-BMF	2021	0	38
-BO	2023	0	1
-BOCCHI THE ROCK!		0	12
-BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.		0	24
-BONES 25: DREAMING FORWARD		0	8
-BTS In the SOOP		0	24
-BTS Monuments: Beyond The Star		0	9
-BULLBUSTER		0	12
+BMF	2021	0	27
+BONES 25: DREAMING FORWARD		0	4
+BTS In the SOOP		0	23
+BTS Monuments: Beyond The Star		0	8
 BULLET BULLET		0	12
-BULLET/BULLET	2025	0	12
-BURN THE WITCH		0	2
 Ba Da Bean		0	52
-Babanba Banban Vampire		0	12
 Babel II: Beyond Infinity		0	13
-Babilônia		0	143
-Baby		0	18
-Baby Bandito		0	16
-Baby Looney Tunes		0	102
-Baby Looney Tunes	2002	0	102
-Baby Vampire Blues		0	8
+Baby		0	15
+Baby Looney Tunes		0	50
 BabyFirst: Sweet Dreams		0	7
-Babylon 5	1994	0	114
+Babylon 5	1994	0	83
 Babylon Berlin	2017	0	28
-Babá Ex-presidiária e Pai Solteiro Bilionário		0	1
-Back Street Girls Gokudolls		0	10
 Back To The Island: Segredos da Ilha		0	36
-BackFlip		0	13
-Bad Blood	2017	0	14
+Bad Blood	2017	0	13
 Bad Boy		0	8
-Bad Boys e Bilionários: Índia		0	3
-Bad Buddy The Series		0	12
-Bad Genius: The Series		0	12
 Bad Guys		0	24
 Bad Monkey	2024	0	10
 Bad Mothers		0	8
-Bad Prosecutor		0	12
-Bad Thoughts		0	6
-Badzaat - Badzaat		0	44
 Bagdá Central		0	12
-Bahar		0	367
-Baila Comigo		0	165
+Bahar		0	24
 Bairros em Guerra		0	2
-Bake Me Please		0	6
-Bake Off Brasil - Cereja do Bolo		0	31
 Bake Off Brasil – Celebridades		0	27
-Bake Off Brasil: Mão na Massa		0	213
-Baki - O Campeão		0	13
-Baki Hanma	2021	0	39
-Baki the Grappler		0	24
-Bakuage Sentai Boonboomger		0	48
-Bakuman		0	1
-Bakumatsu		0	12
-Bakumatsu Kikansetsu Irohanihoheto		0	3
+Bake Off Brasil: Mão na Massa		0	200
+Baki Hanma	2021	0	30
 Bakumatsu Rock		0	22
-Bakuretsu Hunters		0	29
 Balacobaco		0	163
 Ballard Crimes Sem Resposta	2025	0	10
-Ballers	2015	0	73
+Ballers	2015	0	47
 Balthazar		0	32
 Bambaşka Biri		0	16
-Bambolê		0	172
-Bamboo Blade		0	26
-BanG Dream!		0	11
-BanG Dream! It's MyGO!!!!!		0	13
 Banana Fish		0	24
 Bananya		0	21
 Banco Central sob Ataque		0	5
-Bancroft		0	14
+Bancroft		0	6
 Band of Brothers	2001	0	10
-Bandeira Vermelha		0	19
-Bandeira Vermelha - Al Sancak		0	19
 Bandi		0	8
 Bandidagem	2024	0	14
-Bandidos		0	14
-Bandidos da Falange		0	20
-Bandidos na TV		0	7
-Bandidos nao podem governar o Mundo - Eşkıya Dünyaya Hükümdar Olmaz		0	181
-Bang Bang		0	435
+Bang Bang		0	279
 Bang Bang Baby		0	10
-Bangkok Buddies		0	13
 Bangkok no Limite		0	6
-Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside		0	50
-Banksters		0	6
-Banquete de Aniversário, Filha Deslumbrante		0	1
+Banksters		0	4
 Banshee	2013	0	38
 Banshee: Origins		0	38
-Baptiste		0	24
-Bar do Gogó		0	30
-Barakamon		0	12
-Barbapapa Uma Grande Familia		0	50
-Barbearia do Pao		0	65
+Baptiste		0	12
+Barbie Dreamhouse Adventures		0	26
 Barbie Dreamhouse Adventures: Go Team Roberts		0	26
-Barbie Life in the Dreamhouse		0	12
-Barbie e as Melhores Ferias do Mundo		0	4
-Barbie: Dreamhouse Adventures		0	26
-Barbie: Dreamhouse Adventures	2018	0	26
-Barbie: It Takes Two		0	26
-Barbie: It Takes Two	2022	0	26
+Barbie: It Takes Two		0	13
 Barbie: Life in the Dreamhouse	2012	0	12
 Barganha		0	6
 Barkskins		0	8
 Barra Brava		0	8
-Barra Bravas		1	8
-Barrabrava		1	16
-Barracuda Queens		1	12
-Barrados No Baile - Nova Geração		1	114
-Barrados no Baile	1990	1	461
-Barras Invisiveis		1	16
-Barriga de Aluguel		1	386
-Barry	2018	1	32
-Barão 40		1	4
-Barão da Pisadinha DVDs & Shows		1	31
-Baseado Numa Historia Real	2023	1	24
-Baskets	2016	1	40
-Bass ex Machina		1	6
-Basta - Yeter		1	40
-Bastidores da Memória - Rio de Janeiro		1	5
-Bastidores de uma Conspiração	2023	1	6
-Bastidores do Pop O Esquema das Boy Bands		1	3
-Bat Familia		1	10
-Batalha Bilionária: O Caso Google Earth		1	4
-Batalha Makers Brasil		1	8
-Batalha das Comidinhas		1	6
-Batalha das Solteiras		1	6
-Batalha de Açúcar: Natal		1	4
-Batalha de Carrões		1	6
-Batalha de Influencers	2024	1	7
-Batalha de Massas		1	6
-Batalha do Churrasco		1	14
-Batalha dos Alfas		1	24
-Batalha dos Cozinheiros America Latina		1	7
-Batalha pelo Ceu		1	34
-Bate Coracao		1	32
-Bate Papo BBB		1	20
-Bateau Mouche: O Naufrágio da Justiça		1	4
-Bates Motel	2013	1	41
-Batidas do Coração - Kalp Atışı		1	28
-Batman Cruzado Encapuzado	2024	1	20
-Batman do Futuro		1	52
-Batman do Futuro	1999	1	52
-Batman e Robin		1	9
-Batman: A Série Animada		1	274
-Batman: A Série Animada	1992	1	85
-Batman: Os Bravos e Destemidos		1	65
-Battle Camp		1	10
-Battle Creek		1	13
-Battle Girl High School: Battle Girl Project		1	12
-Battlestar Galactica	2004	1	144
-Batwheels	2022	1	88
-Batwoman	2019	1	91
-Bauhaus		1	6
-Baylen: Uma Vida sem Filtro		1	37
-Baymax!	2022	1	6
-Başka Bir Gün		1	10
-Be Nice to People		1	11
-BePlaying A Voz Por Tras do Som		1	6
-Beach Life		1	6
-Beacon 23		1	15
-Beaker's Back		1	64
-Beakman's World: O Mundo de Beakman		1	26
-Beartown		1	5
-Beast Games		1	20
-Beast Tamer		1	13
-Beastars		1	48
-Beat		1	7
-Beat Bugs		1	52
-Beat Runners		1	1
-Beatless		1	20
-Beautiful Mind		1	14
-Beauty in Black	2024	1	40
-Beavis and Butt-head		1	12
-Beavis e Butt-Head	2022	1	24
-Bebe Rena	2024	1	7
-Bebes Assassinos Todos os Dias		1	12
-Bebidas Apostas e Sexo		1	3
-Bebê a Bordo		1	209
-Bebês em Foco		1	6
-Becker		1	129
-Beckham		1	4
-Beckham: Salve Nosso Time		1	4
-Becoming Elizabeth		1	8
-Bee e o Gatiorrinho		1	16
-Beecham House		1	6
-Beelzebub		1	120
-Beethoven		1	13
-Before We Die		1	4
-Beforeigners: Os Visitantes	2019	1	12
-Beheneko The Elf Girls Cat is Secretly an S Ranked Monster		1	12
-Behind Cut		1	8
-Behind Your Touch	2023	1	16
-Beijar ou Morrer		1	6
-Beije me 99 Vezes por Dia		1	1
-Beijo Explosivo	2025	1	14
-Beijo-Beijo		1	167
-Being Human		1	59
-Bel-Air		1	38
-Bela Tímida e a Fera Bilionária		1	39
-Bela Vida		1	11
-Bela, Recatada E Do Lar		1	90
-Bela, a Feia		1	217
-Belas Maldicoes	2019	1	13
-Beleza Fatal	2025	1	40
-Beleza Impiedosa	2022	1	12
-Beleza Interior		1	32
-Beleza Plástica		1	8
-Beleza Pura		1	179
-Beleza Sombrias		1	13
-Beleza Verdadeira		1	16
-Belgravia	2020	1	12
-Bella e os Bulldogs		1	40
-Bello DVDs & Shows		1	31
-Belo Perto Demais da Luz		1	4
-Below Deck		1	86
-Belíssima		1	209
-Bem Juntinhos		1	23
-Bem Vindos a Australia		1	6
-Bem-Vindos ao Clube da Sedução		1	8
-Bem-Vindos à Vizinhança		1	7
-Bem-vindo ao consultório de Irabu		1	11
-Bem-vindo à Família Plath		1	79
-Bem-vindo à Família: O Assassinato de Dan Markel		1	8
-Bem-vindos ao Wrexham		1	46
-Bem-vindos ao Éden	2022	2	16
-Bem-vindos à Familia		2	13
-Bem-vindos à Terra	2021	2	6
-Ben 10		2	98
-Ben 10	2005	2	52
-Ben 10: Força Alienígena		2	46
-Ben 10: Força Alienígena	2008	2	46
-Ben 10: Omniverse		2	80
-Ben 10: Omniverse	2012	2	80
-Ben 10: Supremacia Alienígena		2	52
-Ben 10: Supremacia Alienígena	2010	2	52
-Ben Bu Cihana Sığmazam		2	33
-Ben Hur		2	2
-Ben Leman		2	13
-Ben-Hur: A Série	2026	2	25
-Ben-To		2	12
-Benjaman Kyle O Homem Sem Identidade		2	4
-Bento e Toto		2	26
-Beorne Show		2	7
-Beowulf: Return to the Shieldlands		2	12
-Berco de Ouro - Enfes Bir Aksam		2	16
-Bergerac		2	6
-Berlim	1945	2	8
-Berlim e a Dama com Arminho	2026	2	8
-Berlim e as Joias de Paris		2	8
-Berlim: 1945	1945	2	3
-Bernard-jou Iwaku.		2	12
-Bernie Madoff O Golpista de Wall Street		2	9
-Berserk		2	25
-Berserk: The Golden Age Arc - Memorial Edition		2	13
-Berço de Ouro		2	8
-Best Medicine		2	36
-Betaal		2	4
-Betinho No Fio da Navalha	2023	2	8
-Betrayal: Segredos e Mentiras		2	9
-Betrothed to My Sister's Ex		2	11
-Better Call Saul		2	126
-Better Than Us	2018	2	16
-Better Things	2016	2	39
-Betty A Feia A Historia Continua		2	30
-Betty em Nova York		2	123
-Betty, a Feia		2	335
-Between	2015	2	12
-Between Lands		2	10
-Between the Sky and Sea		2	5
-Beyaz Yalan		2	6
-Beyblade	2001	2	154
-Beyblade Burst	2016	2	51
-Beyblade Burst Rise		2	51
-Beyblade Burst Surge		2	51
-Beyblade Burst Turbo		2	51
-Beyblade X	2023	2	169
-Beyblade: Metal Fusion	2009	2	51
-Beyond		2	15
-Beyond the Boundary		2	20
-Beyond the Clouds		2	8
-Bibi e Tina		2	9
-Bicampeas		2	4
-Bicho do Mato		2	211
-Biduzidos		2	1
-Big Bang: A Teoria		2	557
-Big Blue O Grande Oceano		2	52
-Big Boys		2	6
-Big Brother Brasil		2	402
-Big Brother Brasil A Eliminacao		2	16
-Big Girls Wanted Escaping Pearadise		2	3
-Big Little Brawlers		2	6
-Big Little Lies	2017	2	14
-Big Mouth		2	81
-Big Mouth	2017	2	81
-Big Mouth: De Vigarista a Vingador		2	16
-Big Nate		2	36
-Big Shot: Treinador de Elite		2	20
-Big Sky		2	47
-Big Time Rush		2	69
-Big Vape		2	4
-Big Vape The Rise and Fall of Juul		2	4
-Bikini Warriors		2	12
-Bilardo: O Doutor do Futebol		2	4
-Bilionário em Fuga, Torna-se Minha Noiva		2	38
-Bill Russell: Lenda da NBA		2	2
-Billions	2016	2	93
-Billy Joel: And So It Goes		2	2
-Billy the Kid	2022	2	39
-Binbou Shimai Monogatari		2	10
-Binbougami Ga!		2	13
-Binchou-tan		2	6
-Biohackers		2	12
-Biologia Avançada		2	34
-Bipolar		2	12
-Bir Deli Ruzgar		2	6
-Bir Sevdadir		2	13
-Bir Umut Yeter		2	6
-Birdgirl		2	12
-Birdgirl	2021	2	12
-Birds of Prey		2	12
-Bis!		2	12
-Bitch		2	8
-Bitten		2	33
-Bittersweet Love		2	12
-Bizaardvark		2	62
-Black Bird		2	6
-Black Blood Brothers		2	6
-Black Box		2	13
-Black Butler		2	71
-Black Butler	2008	2	1
-Black Cat	2024	2	2
-Black Clover	2017	2	179
-Black Doves	2024	2	12
-Black Dynamite		2	19
-Black Dynamite	2012	2	10
-Black Earth Rising		2	8
-Black Kamen Rider		2	51
-Black Knight		2	6
-Black Mirror	2011	2	33
-Black Monday		2	20
-Black Narcissus		2	6
-Black Rabbit	2025	2	8
-Black Rock Shooter: Amanhecer		2	12
-Black Rock Shooter: Amanhecer	2022	3	12
-Black Sails	2014	3	38
-Black Snow		3	9
-Black Space		3	8
-Black Summer	2019	3	16
-Black Summoner		3	12
-Black Torch		3	12
-Black ish		3	173
-Blackout: Tarde Demais		3	6
-Blackshore		3	6
-Blade A Serie		3	14
-Blade Runner: Black Lotus		3	13
-Blade of the Immortal		3	13
-Bladedance of Elementalers		3	12
-Blades of the Guardians		3	15
-Blanca		3	18
-Blaze E Os Monster Machines		3	20
-Blaze and the Monster Machines		3	113
-Bleach	2004	3	1455
-Bleach: Thousand-Year Blood War		3	406
-Blend S		3	11
-Bless This Mess		3	9
-Bless the Harts		3	39
-Blindspotting	2021	3	16
-Bling Ring: A História por Trás dos Roubos		3	3
-Blinky Bill		3	52
-Blippi Wonders		3	52
-Blippi e As Profissões		3	12
-Blockbuster		3	10
-Blogueirinha Entrevista		3	6
-Blood		3	20
-Blood & Treasure		3	25
-Blood Blockade Battlefront		3	23
-Blood Drive		3	13
-Blood Lad		3	22
-Blood Machines		3	6
-Blood Ties		3	14
-Bloodivores		3	12
-Bloodlands		3	2
-Bloodline		3	13
-Bloody Game		3	12
-Bloom		3	11
-Bloom Life		3	15
-Blossom		3	113
-Blossoms Shanghai		3	30
-Blossoms Shanghai (2023)		3	30
-Blue Archive The Animation		3	11
-Blue Bloods	2010	3	342
-Blue Box		3	61
-Blue Box	2024	3	28
-Blue Canvas of Youthful Days		3	12
-Blue Exorcist		3	134
-Blue Exorcist	2011	3	61
-Blue Gender		3	26
-Blue Lock	2022	3	39
-Blue Miburo		3	24
-Blue Mountain State		3	39
-Blue Ridge A Serie		3	6
-Blue Skies		3	7
-Blue Submarine No 6		3	4
-Blues de Madrasta e Enteada		3	10
-Bluey		3	153
-Bluey	2018	3	152
-Bluff City Law		3	10
-BoJack Horseman		3	76
-BoJack Horseman	2014	3	76
-Boa Menina da Máfia		3	35
-Boa Menina do Daddy Dom		3	1
-Boa Noite Mundo		3	12
-Boa Sorte Charlie		3	100
-Boardwalk Empire - O Império Do Contrabando		3	56
-Boate Kiss: A Tragédia de Santa Maria		3	5
-Bob Burnquist A Lenda do Skate	2024	3	4
-Bob Esponja		3	593
-Bob Esponja Calca Quadrada		3	312
-Bob Hearts Abishola		3	53
-Bob O Construtor		3	52
-Bob Zoom		3	22
-Bob Zoom	2012	3	22
-Bob's Burgers		3	298
-Bob's Burgers	2011	3	310
-Bobs Burgers		3	313
-Boca a Boca		3	6
-Boca do Lixo		3	8
-Bodkin	2024	3	7
-Body By Beth		3	10
-Bodycam - Registros Criminosos		3	59
-Bogus Skill Fruitmaster		3	12
-Boinas Pretas - Siyah Bere		3	10
-Boku No Hero Academia		3	330
-Boku no Kokoro no Yabai Yatsu		3	25
-Boku to Roboko		3	28
-Boku wa Tomodachi ga Sukunai		3	12
-Bokura ga Ita		3	25
-Bokutachi no Remake		3	13
-Bola Rolando Major League Soccer		3	8
-Bolinhos de Arroz		3	20
-Bom Dia, Verônica	2020	3	17
-Bom Parceiro		3	16
-Bom Sucesso		3	155
-Bom-Bom e Mau-Mau		3	17
-Bombaim Cidade Sem Lei		3	10
-Bon Appétit, Vossa Majestade		3	12
-Bonanza		3	190
-Boneca Russa		3	15
-Bones		3	246
-Bones: Sempre em Medicina	2005	3	246
-Bonkers: De Astro a Tira		3	65
-Bonnie e Clyde		3	2
-Boo, Bitch		3	8
-Boogie Oogie		3	185
-Boogiepop wa Warawanai		3	18
-Boogye		3	13
-Bookie	2023	3	16
-Boom Boom Bruno		3	6
-Boom Box Musica e Traicao		3	4
-Boondocks	2005	3	70
-Boots		3	8
-Borboletas Negras		3	6
-Borderline		4	6
-Borderliner		4	8
-Bordertown		4	33
-Borgen		4	30
-Borges		4	10
-Boris		4	11
-Born with Luck		4	24
-Boruto		4	319
-Boruto: Naruto Next Generations	2017	4	779
-Bosch	2015	4	68
-Bosch: O Legado	2022	4	30
-Bosques da Peni_nsula Iberica A Vida no Limite		4	2
-Bosques da Peni­nsula Iberica A Vida no Limite		4	2
-Boss		4	17
-Boston Blue	2025	4	24
-Bosé		4	6
-Botan Kamiina Fully Blossoms When Drunk		4	11
-Botan Kamiina Fully Blossoms When Drunk	2026	4	11
-Botched By Nature		4	8
-Botched Pesadelo na Bariatrica		4	3
-Botched Presents: Plastic Surgery Rewind		4	1
-Botched: Desastres do Bisturi		4	155
-Botões Vermelhos - Kızıl Goncalar		4	25
-Bounen No Xamdou		4	26
-Boybands O Lado Sombrio da Fama		4	2
-Boys II Planet		4	3
-Boys Prazer Sem Limites		4	7
-Bozo Show		4	100
-Božena		4	4
-BrainDead		4	13
-Branding in Seongsu		4	24
-Brasas		4	15
-Brasil		4	13
-Brasil	2050	4	13
-Brasil 70 A Saga do Tri		4	5
-Brasil Imperial		4	10
-Brasil Raiz		4	5
-Brasil Visto de Cima		4	90
-Brasil Visto de Cima a Noite		4	26
-Brasil: A Última Cruzada		4	5
-Brassic		4	19
-Brave 10		4	16
-Brave Bang Bravern!		4	12
-Brave New World		4	9
-Bravos Guerreiros		4	57
-Bravos Guerreiros	2012	4	31
-Brawn Uma Historia Incrivel da F1		4	4
-Breadwinners		4	40
-Break Point		4	11
-Breaking Bad	2008	4	61
-Breaking Bad: A Química Do Mal		4	124
-Breakthrough: Bem-Vindo ao Futuro		4	6
-Breathe	2018	4	8
-Breathe: Pelas Sombras	2020	4	20
-Breeders	2020	4	50
-Breeze By The Sea		4	12
-Brega & Chique		4	173
-Brene Brown Atlas do Coracao		4	5
-Briarpatch	2020	4	10
-Brickleberry		4	53
-Brickleberry	2012	4	36
-Bridge and Tunnel		4	11
-Bridgerton	2020	4	32
-Brigada Costa del Sol		4	13
-Bright Girls Success		4	16
-Bright Minds		4	50
-Brilhante Victória		4	59
-Brilhei na festa do Divorcio		4	1
-Brilho Perfeito		4	11
-Brincando Com Fogo	2020	4	59
-Brincando com Fogo Alemanha		4	18
-Brincando com Fogo Espanha		4	8
-Brincando com Fogo: America Latina		4	8
-Brincando com Fogo: Brasil		4	16
-Brincando com Fogo: Itália		4	8
-Brincando com Puppy Dog Pals		4	8
-Brincando com o Ursinho Pooh		4	40
-Bring Back Alice		4	6
-Bring Me the Beauties A Model Cult		4	1
-Brinquedos que Marcam Época		4	12
-Brinquedos que Mudaram o Mundo		4	14
-Britannia	2018	4	33
-Broadchurch		4	16
-Brockmire		4	8
-Broke		4	12
-Bronco		4	13
-Brooklyn Nine Nine		4	144
-Brooklyn Nine-Nine: Lei e Desordem	2013	4	153
-Brotherhood		4	82
-Brothers		4	8
-Bruce Lee: A Lenda		4	50
-Btooom!		4	12
-Bubba Wallace: Na Raça		4	6
-Bubu e as Corujinhas		4	52
-Bucchigiri		4	24
-Bucky	1999	4	26
-Buddy Thunderstruck		4	12
-Buddy vs Duff: O Duelo - Especial de Natal		4	4
-Buddy vs. Duff: O Duelo		4	15
-Buffy: A Caça-Vampiros		4	143
-Bulgasal: Almas Imortais		4	16
-Bull	2016	4	150
-Bulletproof		4	18
-Bump		4	20
-Bungo Stray Dogs	2016	4	158
-Bungo Stray Dogs WAN!		4	83
-Bungou Stray Dogs Wan!		4	48
-Buraco - Cukur		4	132
-Buried Hearts		4	16
-Burn Notice: Operacao Miami		4	111
-Busca Imediata: Pessoas Desaparecidas		4	8
-Busca Implacável		4	26
-Buscando Buskers		4	6
-Buscando a Frida		4	84
-Buscando a Lua Cheia		4	52
-Business as Usual		4	7
-Busou Renkin		4	26
-Busou Shinki		4	13
-Butareba -The Story of a Man Turned into a Pig-		4	3
-Butlers X Battlers		4	12
-Buuu - Um chamado para a aventura		5	26
-Buzzer BeateR		5	13
-Bye Bye Earth		5	40
-Bye Bye, Earth	2024	5	19
-BÖRÜ: Esquadrão Lobo		5	6
-Bárbaros	2020	5	44
-Bäckström		5	6
-Búnker		5	8
+Barrabrava		0	8
+Barracuda Queens		0	12
+Barrados no Baile	1990	0	461
+Barrados no Baile Nova Geracao		0	82
+Baskets	2016	0	40
+Bass ex Machina		0	6
+Bastidores da Memória - Rio de Janeiro		0	5
+Bat Familia		0	10
+Batalha Bilionária: O Caso Google Earth		0	4
+Batalha das Solteiras		0	6
+Batalha de Açúcar: Natal		0	4
+Batalha de Carrões		0	6
+Bate Coracao		0	16
+Bateau Mouche O Naufragio da Justica		0	3
+Bates Motel	2013	0	38
+Batman Cruzado Encapuzado	2024	0	20
+Batman do Futuro	1999	0	52
+Batman e Robin		0	9
+Batman: A Série Animada		0	140
+Batman: Os Bravos e Destemidos		0	65
+Battle Creek		0	13
+Battlestar Galactica	2004	0	65
+Batwoman	2019	0	51
+Bauhaus		0	6
+Baylen Uma Vida sem Filtro		0	37
+Baymax!	2022	0	6
+Beaker's Back		0	64
+Beast Games		0	10
+Beastars		0	48
+Beat		0	7
+Beauty in Black	2024	0	40
+Bebe Rena	2024	0	7
+Bebidas Apostas e Sexo		0	3
+Becker		0	129
+Beckham		0	4
+Becoming Elizabeth		0	8
+Bee e o Gatiorrinho		0	16
+Beecham House		0	6
+Beelzebub		0	120
+Before We Die		0	4
+Beforeigners: Os Visitantes	2019	0	12
+Beijo Explosivo	2025	0	14
+Being Human		0	59
+Bela, a Feia		0	217
+Beleza Fatal	2025	0	40
+Beleza Impiedosa	2022	0	12
+Beleza Plástica		0	8
+Beleza Verdadeira		0	16
+Belgravia	2020	0	6
+Bella e os Bulldogs		0	40
+Belo Perto Demais da Luz		0	4
+Below Deck		0	86
+Bem vindos a Familia		0	13
+Bem-Vindos ao Clube da Sedução		0	8
+Bem-Vindos à Vizinhança		0	7
+Bem-vindo à Família Plath		0	67
+Bem-vindo à Família: O Assassinato de Dan Markel		0	8
+Bem-vindos ao Éden	2022	0	16
+Bem-vindos à Terra	2021	0	6
+Ben 10		0	52
+Ben 10 Omniverse		0	80
+Ben 10: Força Alienígena		0	45
+Ben 10: Supremacia Alienígena		0	52
+Ben-Hur: A Série	2026	0	25
+Benjaman Kyle O Homem Sem Identidade		1	2
+Bento e Toto		1	13
+Beorne Show		1	7
+Beowulf: Return to the Shieldlands		1	12
+Berco de Ouro - Enfes Bir Aksam		1	8
+Berlim	1945	1	8
+Berlim e a Dama com Arminho	2026	1	8
+Berlim: 1945	1945	1	3
+Bernie Madoff O Golpista de Wall Street		1	5
+Berserk: The Golden Age Arc - Memorial Edition		1	13
+Best Medicine		1	36
+Betaal		1	4
+Betrayal: Segredos e Mentiras		1	9
+Better Call Saul		1	63
+Better Than Us	2018	1	16
+Better Things	2016	1	39
+Betty A Feia A Historia Continua		1	30
+Betty em Nova York		1	123
+Betty, a Feia		1	335
+Between	2015	1	8
+Beyblade	2001	1	51
+Beyblade Burst	2016	1	21
+Beyond		1	15
+Beyond the Clouds		1	8
+Bibi e Tina		1	9
+Big Brother Brasil		1	202
+Big Little Brawlers		1	6
+Big Mouth		1	81
+Big Shot: Treinador de Elite		1	18
+Big Sky		1	43
+Big Vape The Rise and Fall of Juul		1	4
+Bikini Warriors		1	12
+Bilardo: O Doutor do Futebol		1	4
+Bill Russell: Lenda da NBA		1	2
+Billions	2016	1	84
+Billy the Kid	2022	1	22
+Biohackers		1	12
+Biologia Avançada		1	30
+Bipolar		1	2
+Bir Deli Ruzgar		1	6
+Birdgirl		1	12
+Birds of Prey		1	12
+Bis!		1	12
+Bitch		1	8
+Bitten		1	20
+Bittersweet Love		1	10
+Bizaardvark		1	61
+Black Box		1	13
+Black Butler		1	70
+Black Clover	2017	1	176
+Black Doves	2024	1	12
+Black Dynamite		1	19
+Black Earth Rising		1	8
+Black Mirror	2011	1	32
+Black Monday		1	10
+Black Narcissus		1	6
+Black Rabbit	2025	1	8
+Black Rock Shooter: Amanhecer		1	12
+Black Sails	2014	1	31
+Black Snow		1	6
+Black Space		1	8
+Black Summer	2019	1	12
+Black Summoner		1	12
+Black Torch		1	11
+Black ish		1	154
+Blackout: Tarde Demais		1	6
+Blade A Serie		1	13
+Blanca		1	18
+Bleach	2004	1	413
+Bless This Mess		1	9
+Bless the Harts		1	39
+Blindspotting	2021	1	12
+Bling Ring: A História por Trás dos Roubos		1	3
+Blippi e As Profissoes		1	12
+Blockbuster		1	10
+Blood & Treasure		1	25
+Blood Drive		1	13
+Blood Lad		1	22
+Blood Machines		1	3
+Blood Ties		1	14
+Bloodlands		1	2
+Bloodline		1	13
+Bloom		1	11
+Bloom Life		1	8
+Blossom		1	78
+Blossoms Shanghai (2023)		1	30
+Blue Bloods	2010	1	341
+Blue Box	2024	1	53
+Blue Exorcist		1	61
+Blue Mountain State		1	39
+Blue Ridge A Serie		1	6
+Bluey	2018	1	71
+Bluff City Law		1	10
+BoJack Horseman		1	74
+Boa Sorte Charlie		1	100
+Boardwalk Empire: O Império do Contrabando		1	38
+Boate Kiss: A Tragédia de Santa Maria		1	4
+Bob Burnquist A Lenda do Skate	2024	1	4
+Bob Esponja		1	593
+Bob Hearts Abishola		1	53
+Bob Zoom		1	22
+Bob's Burgers		1	127
+Boca a Boca		1	6
+Body By Beth		1	10
+Bolinhos de Arroz		1	20
+Bom Dia, Verônica	2020	1	17
+Bom Sucesso		1	1
+Bom-Bom e Mau-Mau		1	17
+Bon Appetit Vossa Majestade		1	12
+Bonanza		1	190
+Boneca Russa		1	15
+Bones		1	47
+Bonkers: De Astro a Tira		1	65
+Boogye		1	13
+Boondocks	2005	1	15
+Boots		1	8
+Borboletas Negras		1	6
+Borderliner		1	8
+Bordertown		1	31
+Borgen		1	10
+Boris		2	11
+Born with Luck		2	24
+Boruto		2	267
+Bosch	2015	2	53
+Boss		2	17
+Boston Blue	2025	2	24
+Bosé		2	6
+Botan Kamiina Fully Blossoms When Drunk	2026	2	5
+Botched Pesadelo na Bariatrica		2	3
+Botched: Desastres do Bisturi		2	155
+Boys Prazer Sem Limites		2	7
+BrainDead		2	13
+Brasil 70 A Saga do Tri		2	5
+Brassic		2	19
+Bravos Guerreiros		2	57
+Breaking Bad	2008	2	61
+Breakthrough: Bem-Vindo ao Futuro		2	1
+Breathe	2018	2	8
+Breathe: Pelas Sombras	2020	2	18
+Breeders	2020	2	20
+Briarpatch	2020	2	10
+Brickleberry		2	53
+Bridge and Tunnel		2	11
+Bridgerton	2020	2	32
+Bright Minds		2	16
+Brilhante Victória		2	19
+Brilho Perfeito		2	10
+Brincando Com Fogo	2020	2	57
+Brincando com Fogo Espanha		2	8
+Brincando com Fogo: Alemanha		2	8
+Brincando com Fogo: America Latina		2	8
+Brincando com Fogo: Brasil		2	8
+Brincando com Puppy Dog Pals		2	8
+Brinquedos que Marcam Época		2	11
+Britannia	2018	2	23
+Broadchurch		2	8
+Broke		2	12
+Bronco		2	13
+Brooklyn Nine-Nine: Lei e Desordem	2013	2	151
+Brotherhood		2	29
+Brothers		2	8
+Bubba Wallace: Na Raça		2	6
+Bubu e as Corujinhas		2	52
+Buddy vs Duff: O Duelo - Especial de Natal		2	4
+Buddy vs. Duff: O Duelo		2	15
+Buffy: A Caça-Vampiros		2	138
+Bulgasal: Almas Imortais		2	15
+Bull	2016	2	134
+Bulletproof		2	12
+Bungo Stray Dogs	2016	2	61
+Burn Notice: Operacao Miami		2	111
+Busca Imediata: Pessoas Desaparecidas		2	4
+Busca Implacável		2	26
+Bye Bye, Earth	2024	2	1
+Bárbaros	2020	2	10
+Bäckström		2	6

@@ -313,6 +313,10 @@ e dá para conferir com `python3 scripts/validar_formato_saimo.py` antes de usar
 
 Telemetria: desligada (nenhum dado de uso sai do aparelho).
 
+## Ajustes e acessibilidade (Mac)
+
+`TelaAjustes.swift` abre com os grupos (`GrupoAjustes`); Esc volta à lista. Acessibilidade (`TamanhoTexto.swift`): tamanho do texto, negrito e alto contraste numa janela com prévia. As telas usam `.font(.escalado(n))` no lugar de `.system(size: n)`; a barra do topo fica fixa.
+
 ## Dados publicados
 
 No formato do Saimo, os apps leem estes arquivos do endereço que a pessoa
@@ -417,3 +421,7 @@ Remoções (3.3.3): o que sai do Continue assistindo, dos favoritos e das Minhas
 ## Ajustes da 3.3.4
 
 - **On Demand com cache**: `Destaques` abre com a cópia em disco e a tela confere a novidade por trás (`Destaques.novidades`, no máximo 1x por minuto), trocando só se mudou.
+
+## Licença
+
+Código aberto sob a licença MIT (arquivo `LICENSE`). Bibliotecas de terceiros seguem as licenças delas.

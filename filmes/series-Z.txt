@@ -1,43 +1,24 @@
 Z Nation	2014	0	68
 ZENSHU		0	12
-ZENSHU	2025	0	12
-ZOMBIES A Serie Reanimada		0	20
 ZOMBIES: O Mistério Monstruoso de Addison		0	8
 Zack & Cody: Gêmeos em Ação		0	87
 Zack e Cody: Gêmeos a Bordo		0	86
 Zak Storm		0	32
-Zamanin Capilari - As Portas do Tempo		0	20
-Zankyou no Terror		0	11
 Zatch Bell!	2003	0	52
-ZatsuTabi -That's Journey-		0	12
-Zazá		0	219
 Zeke e Luther		0	71
-Zenki		0	51
-Zerhun		0	99
 Zero		0	8
-Zero kara Hajimeru Mahou no Sho		0	12
-Zero no Tsukaima		0	25
 ZeroZeroZero		0	8
-Zig e Sharko		0	92
-Zig e Sharko	2010	0	78
-Zmora		0	6
+Zig e Sharko		0	40
 Zoe Bakes		0	35
-Zoe e Raven		0	30
+Zoe e Raven		0	29
 Zoey 101		0	59
 Zoey e Sua Fantástica Playlist		0	25
-Zoey e a Sua Fantástica Playlist		0	25
-Zombie-Loan		0	13
 Zomboat!		0	6
 Zona de Separação		0	13
-Zona de Sobrevivência		0	13
-Zoo	2015	0	39
+Zona de Sobrevivencia		0	11
+Zoo	2015	0	34
 Zootopia+	2022	0	6
 Zorro		0	78
-Zorro: A Espada e a Rosa		0	122
 Zou		0	127
-Zouk a Bruxinha		0	13
-Zumbiverso	2023	0	15
 Zumbo's Just Desserts		0	17
 Zuzubalândia		0	1
-Zé Coleta		0	28
-Zé Colmeia		0	70
