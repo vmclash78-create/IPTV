@@ -1,170 +1,335 @@
-F is for Family		0	44
+F is for Family	2015	0	44
 F1 Academy		0	7
 F1: Dirigir para Viver		0	78
-FBI	2018	0	145
-FBI Casos Reais		0	29
-FBI Internacional	2021	0	78
-FBI: Os Mais Procurados	2020	0	116
-FX Fighter Kurumi-chan		0	16
+FAIRY TAIL 100 YEARS QUEST		0	26
+FARMAGIA		0	12
+FBI	2018	0	158
+FBI Casos Reais		0	30
+FBI International	2021	0	78
+FBI: Internacional	2021	0	78
+FBI: Os Mais Procurados	2020	0	145
+FC Bayern – Por Trás da Lenda		0	6
+FI - PHI - FI CI		0	22
+FLCL		0	42
+FUBAR	2023	0	16
+FX Fighter Kurumi-chan	2026	0	16
+Fabrizio Corona A Noticia Sou Eu		0	5
+Faca Afiada - Keskin Bıçak		0	8
+Face Oculta		0	55
+Fadado ao Meu Vampiro Proibido		0	1
 Failure Frame I Became the Strongest and Annihilated Everything with LowLevel Spells		0	11
-Fairfax		0	16
+Fair Trade: Jogo Sujo		0	8
+Fairfax	2021	0	16
+Fairy Gone		0	24
+Fairy Tail	2009	0	120
+Fairyland A Era das Tentacoes		0	8
 Fakes		0	8
-Faking It		0	30
+Faking It		0	38
+Fala, Dercy!		0	21
+Falando a Real	2023	0	33
+Falas Femininas Apresenta: Louca		0	1
 Falcão e o Soldado Invernal	2021	0	6
-Fallen Luz e Sombra	2024	0	8
+Fall in Love Again		0	21
+Fall in You		0	24
+Fallen: Luz e Sombra	2024	0	8
 Falling Skies	2011	0	52
 Fallout	2024	0	16
-Falsa Identidade		0	170
-Familia Moderna	2009	0	249
-Familia Perfeita		0	8
+Falsa Identidade		0	171
+False Flag		0	18
+Familia Analogica		0	8
+Familia Leao - Aslan Ailem		0	26
+Familia Perfeita		0	20
 Familia de Ferro		0	72
-Familia e Tudo		0	177
 Familia por Escolha		0	16
+Family Law	2021	0	40
+Family Register		0	30
 Famous in Love	2017	0	14
 Família Dinossauros		0	65
+Família Gil	2022	0	11
+Família Larva		0	9
+Família Moderna	2009	0	250
+Família Paraíso		0	40
+Família Sakir Pasa		0	14
 Família Sem Rumo		0	28
 Família Soprano	1999	0	86
-Família Upshaw		0	38
+Família Upshaw		0	60
+Família da Meia-Noite	2024	0	10
 Família em Concerto		0	10
-Fantasmas	2021	0	89
+Família em Obras		0	204
+Família em Primeiro Lugar		0	8
+Família é Tudo		0	177
+Fancy Land		0	24
+Fantasmas	2021	0	112
+Fantasmas	2021	0	112
+Fantasmas	2024	0	112
+Fantasmas de Beirute		0	4
 Fantasmas no Armário		0	8
+Fantasy Bishoujo Juniku Ojisan to		0	12
 Fanático		0	5
+Farejando Novos Mundos		0	10
+Fargo	2014	0	51
 Farinha		0	9
 Farscape		0	89
 Fartblinda		0	8
-Farzar		0	6
+Farzar		0	10
+Fascinacao		0	40
 Fast Layne		0	8
-Fastest Car		0	14
+Fastest Car		0	15
+Fatal Crossing As Garotas da Balsa		0	8
 Fatal Injections		0	8
 Fate Chooses You		0	41
 Fate/Apocrypha		0	25
-Fate/stay night	2006	0	24
+Fate/stay night	2006	0	48
 Fate: A Saga Winx		0	13
+Fated to Love You		0	20
+Fatekaleid liner Prisma Illya		0	1
+Fatih		0	5
 Fatih Terim: Lenda do Futebol		0	4
 Fatma		0	6
-Fatmagül: A Força do Amor		0	169
-Fauda	2015	0	47
-Faz-me Rir		0	1
+Fatmagul A Forca do Amor		0	338
+Fauda	2015	0	59
+Favela Gay: Periferias LGBTQI+		0	10
+Faz-me Rir		0	6
 Fazendas Historicas		0	10
+Fazendas e Sonhos		0	6
 Fazendo História		0	7
-Fear the Walking Dead	2015	0	111
+Fe nos Negocios		0	9
+Fear the Walking Dead	2015	0	115
 Fearless 8 Segundos para a Gloria		0	6
 Febre de Primavera		0	12
-Febre do Ouro	2010	0	301
+Febre do Ouro	2010	0	320
 Febre do Ouro Cacadores de Riquezas		0	8
+Febre do Ouro Corredeiras do Alasca		0	104
 Febre do Ouro Minas Reativadas		0	44
+Febre do Ouro O Desafio de Parker		0	60
+Febre do Ouro O Inverno Esta Aqui		0	8
+Febre do Ouro: América do Sul		0	5
+Febre do Ouro: Austrália		0	5
+Febre do Ouro: Familia Hoffman		0	34
+Febre do Ouro: Freddy Dodge ao Resgate		0	52
 Feed the Beast		0	10
 Feel Good		0	12
-Feia - Cirkin		0	73
+Feel What You Feel		0	8
+Feia - Cirkin		0	93
+Feijão Maravilha		0	119
 Feito com Amor		0	8
-Felicidade		0	12
+Felicidade		0	203
+Felicidade em Família - Aile Saadeti		0	13
 Felicity		0	84
-Feliz		0	17
-Fera Radical		0	204
-Feria: Segredos Obscuros		0	8
-Ferias Mortais		0	6
-Fermentando o Amor		0	11
-Feud		0	16
-Feyenoord: Por Dentro do Time		0	9
-Fiel ao Amor		0	28
-Fight Night The Million Dollar Heist	2024	0	8
-Fightland		0	15
-Filho Pródigo		0	33
-Filhos da Anarquia	2008	0	92
-Filmes Caseiros		0	25
-Filmes Que Marcam Época		0	16
-Filthy Rich	2020	0	13
-Fina Estampa		0	185
-Final Space		0	27
-Finding Carter		0	18
-Fingida	2026	0	6
-Fique Comigo		0	8
-Fire Country	2022	0	129
-Firefly Wedding (2026)		0	14
-Fires		0	6
-Fishbowl Wives		0	8
-Fisk		0	8
-Fist of the North Star: Hokuto no Ken		0	14
-Flack		0	6
-Flagrantes de Familia		0	18
-Flaked		0	13
-Flash		0	184
-Flashpoint		0	84
-Fleabag	2016	0	12
-Fleming		0	4
-Flesh and Blood		0	4
-Flesh and Bone		0	8
-Flex x Cop		0	60
-Flipped		0	11
-Flor do Caribe		0	159
-Flordelis: Em Nome da Mãe		0	4
-Flores do Poder		0	1
-Floresta do Medo		0	8
-Floribella		0	170
-Flower of Evil		0	16
-Fogo Ardente		0	39
-Fogo e Agua Criando os Filmes de Avatar		0	2
-Fogos de Artifício do Meu Coração		0	40
-Folclore		0	22
-Folha Magica		0	52
-Fome de Respostas		0	4
-Fontes Termais de Outro Mundo Diarios de um entusiasta de termas que foi transportado para um paraiso		0	6
-Food Wars Shokugeki no Soma		0	37
-For Life: Lutando Por Justiça		0	23
-For all Mankind	2019	0	46
-For the People		0	10
-Fora da Bolha		0	6
-Fora da Prisão	2023	0	8
-Fora de Controle		0	2
-Foragida A Busca pela Mulher Mais Procurada dos Estados Unidos		0	6
-Forbrydelsen		0	20
-Forca Negra A Lenda da Associacao Americana de Basquete		1	8
-Forever		1	20
-Forging Justice		1	66
-Formula Dreams		1	10
-Formula E DRIVER		1	4
-Força Danger		1	60
-Força-Queer		1	10
-Fosse/Verdon		1	6
-Four Lives		1	2
-Frango Robo		1	230
-Frankenstein Jr e Os Impossiveis		1	18
-Franklin & Bash		1	23
-Frasier		1	264
-Freakazoid: Alto Forte e Maluco		1	24
-Freakish		1	19
-Freddie		1	22
-Free Meek		1	5
-Free!		1	12
-Freedom Fighters: The Ray		1	6
-Freeridge		1	7
-Fresh Off the Boat		1	158
-Freud		1	8
-Friendly Rivalry		1	16
-Friends	1994	1	252
-Friends with Better Lives		1	13
-From Far Away		1	14
-From Now On, Showtime!		1	9
-From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage	2026	1	7
-Fronteiras	2008	1	100
-Frontier		1	18
-Fudêncio e Seus Amigos		1	138
-Fugindo do Twin Flames		1	3
-Fugitiva		1	10
-Fugitivos, da Marvel	2017	1	32
-Fukuyadou Honpo – Kyoto love story		1	11
-Full Clearing Another World under a Goddess with Zero Believers (2026)		1	12
-Full Count: Beisebol Coreano		1	20
-Fuller House		1	75
-Fullmetal Alchemist		1	51
-Fumetsu no Anata e		1	62
-Fundacao	2021	1	22
-Funk.Doc: Popular & Proibido	2022	1	6
-Furacao Katrina Corrida Contra o Tempo		1	4
-Furia no Transito		1	20
-Futurama	1999	1	216
-Future Man		1	34
-Futuro Deserto		1	6
-Fábrica de Casamentos		1	39
-Férias Mortais: O Assassinato Selvagem		1	7
-Fúria	2026	1	22
+Feliz		0	18
+Feliz Natal e Tal		0	8
+Food for the Soul		0	12
+Futsuu no Joshikousei ga Yattemita.		0	15
+Felizes Juntos		1	10
+Felizes Para Sempre: Contos Para Todas As Crianças		1	39
+Felizes para Sempre		1	10
+Fera Ferida		1	210
+Fera Radical		1	204
+Fera Sagrada		1	6
+Feria Segredos Obacuros		1	8
+Feria: Segredos Obscuros		1	8
+Ferias Mortais		1	6
+Feridas do Passado		1	13
+Ferinha e a Fabrica de Tudo		1	20
+Fermentando o Amor		1	12
+Ferry: A Série	2023	1	8
+Feud		1	32
+Feyenoord: Por Dentro do Time		1	9
+Fi		1	22
+Fiasco	2024	1	7
+Fichados Primeira Vez Na Prisao		1	13
+Fidelidade		1	6
+Fiel ao Amor		1	29
+Fight For You		1	12
+Fight League Gear Gadget Generators		1	52
+Fight Night: The Million Dollar Heist	2024	1	8
+Fightland		1	15
+Filhas de Eva		1	12
+Filhas do Sol - Güneşin Kızları		1	39
+Filho Pródigo		1	33
+Filhos da Anarquia	2008	1	92
+Filhos da Liberdade		1	3
+Filhos da Pátria		1	12
+Filhos de Cister		1	3
+Filhos do Chumbo		1	6
+Filhotes Selvagens		1	8
+Film Club		1	6
+Filmes Caseiros		1	25
+Filmes que Marcam Época		1	16
+Filthy Rich	2020	1	13
+Filtro		1	42
+Fim	2023	1	227
+Fim Das Nações		1	3
+Fim de Semana Exclusivo: Seu Amor Incessante		1	1
+Fim do Verao		1	6
+Fina Estampa		1	185
+Fina Estampa Especial		1	155
+Final Space	2018	1	36
+Finalmente Adultos		1	13
+Finding Carter		1	18
+Fingida	2026	1	7
+Fique Comigo		1	8
+Fique ao Meu Lado		1	11
+Fire Country	2022	1	129
+Fire Force	2019	1	146
+Fired on Mars		1	8
+Fireflies		1	8
+Firefly Wedding		1	1
+Firefly Wedding (2026)		1	14
+Fires		1	6
+First Love		1	9
+First Note of Love		1	12
+First love Again		1	6
+Fishbowl Wives		1	8
+Fisk		1	8
+Fist of the North Star: Hokuto no Ken	2026	1	19
+Fitness na Academia e no Amor		1	12
+Fix You		1	32
+Fix the Error		1	4
+Flack		1	6
+Flagrantes de Família		1	18
+Flaked		1	14
+Flash	2014	1	184
+Flashpoint		1	84
+Flatbush Misdemeanors		1	20
+Fleabag	2016	1	12
+Fleming		1	4
+Flesh and Blood		1	8
+Flesh and Blood: Um Crime na Vizinhança		1	4
+Flesh and Bone		1	8
+Flex x Cop		1	60
+Flint Town		1	8
+Flip Flappers		1	26
+Flipped		1	11
+Flocos de Neve -Kardelenler		1	10
+Flor do Caribe		1	159
+Flor do Caribe - Edicao Especial		1	149
+Flordelis: Em Nome da Mãe		1	4
+Flordelis: Questiona ou Adora		1	7
+Flores Selvagens - Yaban Cicekleri		1	3
+Flores de Sangue		1	739
+Flores de Sangue - Kan Cicekleri		1	408
+Flores do Poder		1	36
+Flores e Esperança		1	7
+Flores no Deserto		1	12
+Florescendo		1	32
+Floresta do Medo		1	8
+Floribella		1	170
+Flower Boy		1	8
+Flower and Asura		1	12
+Flower of Evil		1	16
+Fluffy Paradise		1	12
+Fly, o Pequeno Guerreiro		1	46
+Flying Witch		1	2
+Fogo Ardente		1	39
+Fogo e Agua Criando os Filmes de Avatar		1	2
+Fogos de Artifício do Meu Coração		1	80
+Folclore		1	22
+Folha Mágica	2013	1	52
+Fome de Respostas		1	4
+Fontes Termais de Outro Mundo - Diários de um entusiasta de termas que foi transportado para um paraíso	2024	1	6
+Food Truck A Batalha		1	30
+Food Wars! Shokugeki no Soma		1	37
+Foodie Love		1	8
+For All Mankind	2019	1	50
+For Life		1	23
+For Life: Lutando Por Justiça		1	23
+For You in Full Blossom		1	37
+For the People		1	10
+Fora da Bolha		1	6
+Fora da Prisão	2023	1	8
+Fora de Controle		1	4
+Fora de Órbita		2	6
+Foragida A Busca pela Mulher Mais Procurada dos Estados Unidos		2	6
+Forasteiros em Bollywood		2	7
+Forbrydelsen		2	20
+Forca Negra A Lenda da Associacao Americana de Basquete		2	8
+Forca Policial Indiana		2	7
+Forca de Elite		2	4
+Forca de Mulher		2	484
+Forca de Mulher - Kadin		2	484
+Forever		2	20
+Forever Love		2	28
+Forever O Imortal		2	22
+Forging Justice		2	66
+Formula 1 Dirigir para Viver		2	78
+Formula Dreams		2	10
+Formula E DRIVER		2	8
+Fortuna		2	30
+Força Danger		2	65
+Força de um Desejo		2	226
+Força-Queer	2021	2	10
+Fosse/Verdon		2	6
+Four Lives		2	2
+Fragil		2	8
+Francesca		2	9
+Frango Robô	2005	2	242
+Franjinha e Milena Em Busca da Ciencia		2	16
+Frankenstein Jr. e Os Impossíveis	1966	2	18
+Franklin		2	6
+Franklin & Bash		2	23
+Franquias		2	7
+Frasier		2	336
+Fraturas de um Passado		2	8
+Freakazoid: Alto Forte e Maluco	1995	2	36
+Freakish		2	19
+Freddie		2	22
+Free Bert		2	6
+Free Meek		2	5
+Free!		2	24
+FreeKs		2	12
+Freedom Fighters: The Ray		2	6
+Freeridge		2	8
+Fresh Off the Boat		2	158
+Freud		2	8
+FriendZSpace		2	13
+Friendly Rivalry		2	16
+Friends	1994	2	258
+Friends With Better Lives		2	13
+Frieren e a Jornada para o Além	2023	2	38
+Fritada		2	25
+From Bureaucrat to Villainess: Dad's Been Reincarnated!		2	12
+From Far Away		2	16
+From Now On, Showtime!		2	9
+From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage	2026	2	12
+From The New World		2	50
+Fronteira		2	18
+Fronteiras	2008	2	100
+Frontier		2	18
+Frozen Valentine		2	9
+Fruits Basket		2	16
+Fudêncio e Seus Amigos	2005	2	148
+Fugindo do Twin Flames		2	3
+Fugitiva		2	10
+Fugitivos, da Marvel	2017	2	33
+Fukuyadou Honpo – Kyoto love story		2	11
+Fulfill		2	8
+Full Clearing Another World under a Goddess with Zero Believers (2026)		2	12
+Full Count: Beisebol Coreano		2	20
+Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!		2	24
+Full Moon		2	26
+Fuller House		2	75
+Fullmetal Alchemist	2009	2	82
+Fullmetal Alchemist Brotherhood	2009	2	82
+Fumetsu no Anata e		2	124
+Fundamentos do Prazer	2022	2	3
+Fundação	2021	2	30
+Funk Doc Popular e Proibido		2	6
+Funk.Doc: Popular & Proibido	2022	2	6
+Funkbol		2	5
+Furacao Katrina Corrida Contra o Tempo		2	4
+Futakoi		2	26
+Futebol A Hora da Verdade		2	10
+Futebol de Rua		2	78
+Futurama	1999	2	235
+Future Man		2	34
+Futuro Deserto		2	6
+Fuufu Ijou, Koibito Miman		2	12
+Fuuto Tantei		2	24
+Fuzue		2	173
+Fábrica de Casamentos		2	55
+Fé na Vida		2	3
+Férias Mortais: O Assassinato Selvagem		2	7
+Férias em Família		2	20
+Fúria	2026	2	26
+Fúria no Trânsito		2	20

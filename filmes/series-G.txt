@@ -1,160 +1,314 @@
-G.I. Joe: Sigma 6		0	26
+G.I. Joe: Sigma 6	2005	0	26
+GARO: HONOO NO KOKUIN		0	48
 GATE24: The Border		0	1
-GET JIRO		0	7
+GET JIRO		0	8
+GHOST CONCERT Missing Songs		0	2
+GJ-bu		0	24
 GLOW	2017	0	30
-GNOSIA		0	19
+GNOSIA		0	42
+GRANBELM		0	2
+GUlizar		0	10
+GaReiZero		0	1
 Gabriel Monteiro – Herói Fake		0	4
 Gabriela		0	77
 Gachiakuta	2025	0	48
-Gaddar: Sem Piedade		0	10
-Galera FC		0	6
-Galera do Barulho		0	24
-Galáxia Criativa		0	26
+Gaddar: Sem Piedade		0	62
+Gaikotsu Shotenin Honda san		0	12
+Gakuen Basara: Samurai High School		0	10
+Gakuen Handsome		0	24
+Gakuen Utopia Manabi Straight!		0	24
+Galera FC		0	8
+Galera do Barulho		0	44
+Galilei Donna		0	22
+Galileo		0	21
+Gals Cant Be Kind to Otaku		0	1
+Galvao Olha o Que Ele Fez		0	5
+Galáxia Criativa	2013	0	26
+Game Dos Clones		0	10
 Game Shakers		0	63
-Game dos Clones		0	10
-Game of Thrones	2011	0	72
+Game dos 100		0	10
+Game of Thrones	2011	0	73
 GameStop Contra Wall Street		0	3
+Gamera: O Renascimento		0	6
 Gang War Oslo		0	6
 Gangnam Beauty		0	32
+Gangs Of London	2020	0	17
+Gangsta.		0	24
+Gangues da Galicia		0	10
 Gangues da Noite		0	35
 Gangues de Londres	2020	0	25
-Ganhar ou Perder		0	8
+Gangues de Oslo		0	6
+Ganhar ou Perder	2025	0	8
+Ganhei um Filho, e Perdi o Marido		0	1
 Ganhei um Poder Apelão em Outro Mundo e Agora Sou Imbatível no Mundo Real		0	13
-Gantz	2004	0	26
+Gantz	2004	0	52
 Garavito O Monstro Serial		0	4
 García!	2022	0	6
-Garfield e Seus Amigos		0	57
-Gargulas		0	78
+Garfield e Seus Amigos	1988	0	57
+Gargantia on the Verdurous Planet		0	2
 Garota Conhece o Mundo		0	72
-Garota Invencivel		0	4
+Garota Invencivel		0	10
+Garota Mágica .Com		0	24
 Garota Sequestrada	2026	0	6
-Garota da Lua e o Dinossauro Demônio		0	14
-Garota de Fora	2018	0	18
+Garota Vampiro		0	99
+Garota da Lua e o Dinossauro Demônio	2023	0	30
+Garota de Fora	2018	0	21
 Garota de Fora Recomeco		0	6
 Garota do Momento		0	202
+Garotas		0	138
+Garotas Malvadas	2023	0	18
 Garotas em Chamas	2023	0	6
+Garotas no Cárcere		0	16
+Garoto Devora Universo	2024	0	7
 Garotos Detetives Mortos	2024	0	8
 Garotos de Lugar Nenhum		0	43
+Gary e Seus Demônios		0	13
+Gasaraki		0	50
+Gaslit		0	4
+Gasparzinho		0	52
 Gata Selvagem		0	16
+Gatchaman Crowds		0	12
 Gatilho		0	10
-Gato Falsificado		0	26
-Gatos de Rua, de Ricky Gervais		0	6
+Gato Falsificado	2016	0	26
+Gatos Selvagens da India		0	2
+Gatos de Rua, de Ricky Gervais	2026	0	6
 Gatunas		0	20
 Gavião Arqueiro		0	12
-Gecko's Garage		0	8
+Gecko's Garage	2015	0	8
 Geek Girl	2024	0	10
 Gen V	2023	0	16
+Genei wo Kakeru Taiyou		0	6
+Genera+ion		0	16
 Generation Kill		0	7
-Genio dos Desejos		0	13
-Genius	2017	0	30
+Genial daneben – Das Quiz		0	3
+Genio - Deha		0	128
+Genius	2017	0	56
+Genjitsu Shugi Yuusha no Oukoku Saikenki		0	51
+Genshiken		0	27
 Gente Ansiosa		0	6
 Gentefied		0	18
+Gentleman Jack		0	15
 Geordie Shore		0	210
+George & Tammy		0	6
 George Harrison: Living in the Material World		0	4
-Georgie e Mandy: Seu Primeiro Casamento	2024	0	48
+George O Curioso		0	63
+Georgie e Mandy - Seu Primeiro Casamento	2024	0	48
 Geração 30 e Poucos		0	8
+Geração Brasil		0	147
 Geração Z no Perrengue		0	8
 Germinal: A Revolução		0	6
 Get Huge: Looksmaxxing to Death		0	6
 Get Millie Black	2024	0	5
-Get Shorty: A Máfia do Cinema	2017	0	17
+Get Shorty: A Máfia do Cinema	2017	0	27
 Ghost Doctor		0	32
-Ghost Whisperer	2005	0	43
-Ghosts	2021	0	16
+Ghost Force		0	52
+Ghost Hound		0	22
+Ghost Whisperer	2005	0	44
+Ghost in the Shell SAC	2045	0	24
+Ghost in the Shell: SAC_	2045	0	24
+Ghost in the Shell: Stand Alone Complex		0	52
+Ghosts	2021	0	112
 Ghoul - Trama Demoníaca		0	3
+Gigablaster		0	120
+Gigantes Dos Alimentos		0	11
+Gigantes Dos Motores		0	3
+Gigantes da Industria		0	8
+Gigantes da Industria Uma Geracao de Titas		0	3
+Gigantossauro		0	78
+Gigolos		0	16
 Gigolô Americano		0	8
-Gilmore Girls: Tal Mãe, Tal Filha		0	153
-Gilmore Girls: Um Ano para Recordar		0	2
-Ginger		0	57
-Ginny e Georgia		0	30
-Girlboss		0	13
-Girls Dorm		0	24
-Girls5eva		0	22
-Glacé		0	5
-Gladiadores da Natureza		0	4
-Glass Ceiling		0	3
-Glee: Em Busca da Fama	2009	0	121
-Glee: O Preço da Fama		0	3
-Glitch	2015	0	12
-Gloria		0	10
-Glow Up Quem Vai Brilhar Mais		0	30
-Go		0	273
-Go Buster!		0	3
-Go For It, Nakamura-kun!!	2026	0	13
-Go Go Loser Ranger		0	12
-Go Viva do seu Jeito		0	29
-Goblin		0	16
-Goblin Slayer	2018	0	24
-God Shave the Queens		0	1
-Godfather of Harlem	2019	0	49
-Godless	2017	0	7
-Goedam		0	16
-Gol Contra		0	6
-Gold Diggers: Luxúria e Poder		0	24
-Golden Axe		0	10
-Goliath		0	32
-Golpe Romântico: Quem é Jason Porter?		0	2
-Good Cop/Bad Cop		0	8
-Good Girls	2018	0	49
-Good Sam		0	9
-Good Trouble		0	98
-Goodbye, Lara		0	24
-Goop: Muito Além do Prazer		0	6
-Goosebumps: O Desaparecimento		0	8
-Gordon		0	7
-Gordon Ramsay Do Inferno ao Paraiso em 24h		0	18
-Gordon Ramsay's Food Stars		0	15
-Gostinho de Amor		0	10
-Gotham	2014	0	98
-Grace		0	13
-Grace and Frankie		0	71
-Gracepoint		0	10
-Grand Army		0	9
-Grand Hotel		0	13
-Grande Hotel		0	42
-Grandes Fracassos Woodstock 99		0	2
-Grandes Migrações		0	6
-Grandes Relíquias da História com Mike Wolfe		0	8
-Grantchester		0	16
-Gravity Falls: Um Verão de Mistérios	2012	0	40
-Great News		0	21
-Great Pretender		1	23
+Gil na Califórnia		0	5
+Ginga Nagareboshi		0	21
+Grandpa and Grandma Turn Young Again		0	10
+Great Teacher Onizuka		0	43
+Gilmore Girls: Tal Mãe, Tal Filha		1	153
+Gilmore Girls: Um Ano para Recordar		1	4
+Ginger		1	58
+Ginny e Georgia		1	30
+Gintama		1	362
+Gintama Mr Ginpachis Zany Class		1	1
+Giri / Haji		1	8
+GiriHaji		1	8
+Girlboss		1	13
+Girlfriend Girlfriend		1	48
+Girlish Number		1	17
+Girls Bravo		1	2
+Girls Dorm		1	32
+Girls Incarcerated		1	16
+Girls und Panzer		1	24
+Girls5eva		1	22
+Girlsquad		1	10
+Girly Air Force		1	2
+Given		1	2
+Glacé		1	5
+Gladiadores da Natureza		1	4
+Glamorous	2023	1	10
+Glass Ceiling		1	3
+Glasslip		1	26
+Glee: Em Busca da Fama	2009	1	121
+Glee: O Preço da Fama		1	3
+Gleipnir		1	26
+Glitch	2015	1	18
+Global Citizen Festival		1	8
+GloboNews: 25 Anos Em 25 Entrevistas		1	26
+Gloria		1	36
+Glow Up Quem Vai Brilhar Mais		1	30
+Go	2013	1	273
+Go Buster!	2018	1	3
+Go Diego Go		1	75
+Go For It, Nakamura-kun!!	2026	1	26
+Go Viva do seu Jeito		1	31
+Go! Go! Cory Carson		1	63
+Go! Go! Loser Ranger!	2024	1	36
+Goblin		1	16
+Goblin Slayer	2018	1	48
+God Eater		1	2
+God Shave the Queens		1	1
+Godfather of Harlem	2019	1	49
+Godless	2017	1	7
+Gods Game We Play		1	13
+Godzilla Ponto Singular		1	13
+Godzilla Singular Point		1	26
+Goedam		1	16
+Gokushufudou: Tatsu Imortal		1	10
+Gol Contra		1	6
+Gold Diggers: Luxúria e Poder		1	24
+Gold Land		1	2
+Golden Axe	2026	1	10
+Golden Kamuy		1	47
+Golden Kamuy A Caca aos Prisioneiros em Hokkaido		1	9
+Goldie		1	13
+Goliath		1	32
+Golpe Romântico: Quem é Jason Porter?		1	2
+Gone		1	1
+Good Casting		1	16
+Good Cop/Bad Cop		1	8
+Good Girls	2018	1	50
+Good Sam		1	9
+Good Times		1	10
+Good Trouble		1	98
+Goodbye, Lara	2026	1	24
+Goop: Muito Além do Prazer		1	6
+Goosebumps		1	18
+Goosebumps: O Desaparecimento		1	8
+Gordon		1	7
+Gordon Ramsay Do Inferno ao Paraiso em 24h		1	21
+Gordon Ramsay Servico Secreto		1	14
+Gordon Ramsay's Food Stars		1	15
+Gosick		1	2
+Gossip Girl	2007	1	121
+Gostinho de Amor		1	10
+Gotas Divinas	2023	1	16
+Gotham	2014	1	100
+Gotham Knights: A Série	2023	1	13
+Grace		1	13
+Grace And Frankie		1	94
+Gracepoint		1	10
+Grachi		1	155
+Grag Hearts Drag		1	2
+Granblue Fantasy The Animation		1	27
+Grand Army		1	9
+Grand Hotel		1	13
+Grande Dragao		1	8
+Grande Hotel		1	42
+Grandes Animais		1	10
+Grandes Chefs Torneio dos Campeoes		1	35
+Grandes Expectativas		1	6
+Grandes Fracassos Woodstock 99		1	2
+Grandes Fugas com Morgan Freeman		1	8
+Grandes Investigações: Detetives da Índia		1	4
+Grandes Migrações		1	6
+Grandes Relíquias da História com Mike Wolfe		1	8
+Grandes Roubos da História com Pierce Brosnan		1	8
+Grandes Sonhos		1	8
+Grant		1	3
+Grantchester		1	16
+Graos de Perola - İnci Taneleri		1	43
+Gravida por Acidente - Hayat Mucizelere Gebe		1	7
+Gravity Falls: Um Verão de Mistérios	2012	1	61
+Gray	2023	1	8
+Grease: Rise of the Pink Ladies		1	10
+Great News		1	23
+Great Pretender	2020	1	55
 Greatness Code		1	7
 Greek		1	74
+Green Green		1	24
+Greenhouse Academy		1	40
 Greenleaf		1	61
-Grid		1	10
-Grotesquerie	2024	1	10
-Grow Up Show		1	2
-Grown-ish		1	28
-Grupo de Estudos		1	10
-Gto		1	1
-Guardian: The Lonely and Great God 10th Anniversary		1	2
-Guardiões da Justiça		1	6
-Guardiões da Mansão do Terror		1	20
-Guerra		1	8
-Guerra Culinaria	2024	1	24
-Guerra Fantasma	2017	1	13
-Guerra a Mafia Filadelfia Contra o Crime		1	3
-Guerra de Vizinhos		1	16
-Guerra e Paz		1	8
-Guerra: Fúria e Vingança		1	6
-Guerras Mundiais		1	1
-Guerras do Brasil		1	5
-Guerreiros Nascidos do Vento		1	29
-Guerreiros do Sol		1	45
-Gugu Toninho e Augusto		1	3
-Guia de um Gamer Para Quase Tudo		1	21
-Guillermo Pérez Roldán Confidencial		1	3
-Guilt		1	9
-Guilty Party		1	11
-Gunpowder	2017	1	3
-Gunther: O Cachorro Milionário		1	4
-Gurren Lagann		1	28
-Gutiérrez Contra o Crime		1	8
-Guy's Chance of a Lifetime		1	6
-Gypsy		1	10
-Gêmeas Trans: Uma Nova Vida		1	6
-Gênesis		1	219
-Gênio Diabólico		1	4
-Gênio do Barulho		1	6
-จะ Gen จนกว่าจะเจอ		1	5
+Gremlins: Segredos dos Mogwai		1	20
+Greta Thunberg: Um Ano para Mudar O Mundo		1	3
+Gretel e o Hamster		1	30
+Grey's Anatomy	2005	2	467
+Greys Anatomy	2005	2	467
+Grid		2	10
+Grimm		2	123
+Grimm: Contos de Terror	2011	2	123
+Grisaia Phantom Trigger		2	13
+Griselda		2	6
+Grizzy e os Lemmings		2	312
+Grotesquerie	2024	2	10
+Grow Up Show	2026	2	3
+Grown-ish	2018	2	84
+Grupo de Estudos		2	10
+Grávida		2	6
+Grávida do Bilionário		2	1
+Grávida dos Gêmeos do Bilionário, O Amor Começa		2	1
+Gto		2	1
+Guardian: The Lonely and Great God 10th Anniversary		2	2
+Guardiões da Floresta		2	20
+Guardiões da Justiça		2	7
+Guardiões da Mansão do Terror		2	20
+Gudetama As Aventuras de um Ovinho Preguiçoso		2	10
+Guerra		2	8
+Guerra Culinária	2024	2	25
+Guerra Entre Vizinhos		2	22
+Guerra Fantasma	2017	2	13
+Guerra Sombra e Agua Fresca		2	32
+Guerra as Drogas		2	22
+Guerra das Rosas		2	66
+Guerra das Rosas - Gullerin Savasi		2	52
+Guerra de Vizinhos		2	16
+Guerra do Imaginario		2	3
+Guerra dos Sexos		2	184
+Guerra dos Tronos Uma Historia Real		2	10
+Guerra e Paz		2	8
+Guerra à Máfia: Filadélfia Contra o Crime		2	3
+Guerra: Fúria e Vingança		2	6
+Guerras Mundiais		2	7
+Guerras Russas		2	3
+Guerras do Brasil		2	5
+Guerras do Brasil.doc		2	5
+Guerreiras		2	8
+Guerreiros Nascidos do Vento		2	37
+Guerreiros do Sol		2	45
+Guerrero		2	6
+Guga Guns		2	32
+Guga por Kuerten		2	5
+Gugu, Toninho e Augusto		2	5
+Guia Astrológico para Corações Partidos		2	12
+Guia de um Gamer Para Quase Tudo		2	21
+Guillermo Pérez Roldán Confidencial		2	3
+Guilt		2	19
+Guilty Party		2	11
+Gundam Build Fighters		2	50
+Gungrave		2	52
+Gunpowder	2017	2	3
+Gunther: O Cachorro Milionário		2	4
+Gurren Lagann		2	55
+Gus: O Pequeno Cavaleiro		2	26
+Gutiérrez Contra o Crime		2	8
+Guy's Chance of a Lifetime		2	6
+Gyeongseong Creature	2023	2	17
+Gypsy		2	10
+Gárgulas	1994	2	78
+Gêmeas Trans: Uma Nova Vida		2	6
+Gêmeas: Mórbida Semelhança		2	6
+Gêmeos		2	8
+Gêmeos Do Outro Mundo		2	8
+Gênesis		2	220
+Gênio Diabólico		2	4
+Gênio do Barulho		2	6
+Gênio dos Desejos		2	13
+Gülcemal		2	13
+Güller ve Günahlar		2	75
+จะ Gen จนกว่าจะเจอ		2	5

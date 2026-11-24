@@ -1,80 +1,134 @@
 W - Dois Mundos	2016	0	16
-WANDANCE		0	22
-WITCH WATCH		0	25
-WWE Surreal		0	5
+W: Wish		0	26
+WANDANCE	2025	0	24
+WIND BREAKER	2024	0	74
+WITCH WATCH		0	50
+WONDER EGG PRIORITY		0	25
+WWE: Surreal		0	5
+WWII Corrida para a Vitoria		0	6
+WWW.WAGNARIA!!		0	13
 Waco		0	6
+Waco The Aftermath		0	6
 Waffles + Mochi		0	10
-Wakfu		0	65
-Walker	2021	0	57
+Wakefield		0	8
+Wakfu	2008	0	70
+Walker	2021	0	69
 Walker Independence		0	26
 Wallander		0	12
 WandaVision	2021	0	9
+Wandee Goodday		0	12
 Wandinha	2022	0	16
-Wanted		0	5
+Wangan Midnight		0	52
+Wanted	2020	0	145
 War of the Worlds: A Arte da Guerra		0	24
-Warrior	2019	0	31
-Warrior Nun		0	16
+Warped!		0	13
+Warrior	2019	0	36
+Warrior Nun		0	18
 Warrior: A Batalha de Todos os Dias		0	12
+Washington		0	3
 Washington Black	2025	0	8
 Wassup Man GO!		0	10
+Watashi no Ashinaga Ojisan		0	40
+Watashi no Yuri wa Oshigoto desu		0	12
 Watchmen		0	9
 Watson		0	26
+Way Back Love		0	6
 Wayne		0	20
-Wayward Pines	2015	0	15
+Wayward Pines	2015	0	20
+We Are		0	16
+We Are Who We Are		0	8
 We Call It Imagineering		0	8
 We Hunt Together		0	10
-WeCrashed	2022	0	2
+WeCrashed	2022	0	8
+Wedding Peach		0	91
 Weeds		0	102
 Weird City		0	6
-Welcome to Demon School Iruma kun		0	83
+Welcome to Demon School! Iruma-kun	2019	0	178
+Welcome to Flatch	2022	0	27
+Welcome to Utmark		0	8
+Welcome to the Family		0	8
+Welcome to the Outcast's Restaurant!		0	11
 Wellington Paranormal		0	15
+Wellmania		0	8
 Wentworth		0	45
-West Wing: Nos Bastidores do Poder		0	120
-What If...?	2021	0	25
+West Wing: Nos Bastidores do Poder		0	240
+Westworld		0	36
+What If...?	2021	0	26
 What Ships I've Burnt		0	7
 What Will You Do,Ieyasu? (2023)		0	1
+When My Love Blooms		0	16
+When Sharks Attack... and Why		0	8
+When The Camellia Blooms		0	20
+When a Snail Falls in Love		0	20
 When the Dust Settles		0	6
 When the Streetlights Go On		0	10
 Where the Sun Rises		0	6
+Whether or Not		0	10
 Whindersson Verso	2024	0	8
 Whiskey Cavalier: Jogo de Espioes		0	13
 Whiskey on the Rocks		0	6
+White Album		0	26
 White Gold		0	10
 White House Farm		0	6
 White Lines		0	10
 White Wall		0	8
 Whitstable Pearl		0	11
-Who Saw the Peacock Dance in the Jungle		0	10
+Who Is She		0	12
+Who Killed Jeffrey Epstein		0	3
+Who Saw the Peacock Dance in the Jungle		0	20
 Why Didn't They Ask Evans?		0	3
+Why Does Nobody Remember Me in This World?		0	12
+Why R U?		0	17
+Why the hell are you here,Teacher!?		0	24
 Wild Cards	2024	0	23
+Wild Isles		0	5
 Wild Wild Country		0	6
-Wilfred		0	41
-Will Trent: Agente Especial	2023	0	59
+Wilfred		0	49
+Will Trent		0	59
+Will Trent: Agente Especial	2023	0	79
+Will You Be My Manager		0	6
 Will e Grace		0	226
 William Tyrrell, O Menino Que Desapareceu		0	4
 Willow		0	8
-Wind Breaker	2024	0	25
 Wireless		0	10
 Wise Man&#039;s Grandchild		0	12
+Wish You Sua Melodia Em Meu Coracao		0	8
+Wishing Upon the Shooting Stars		0	12
 Wisting		0	38
-Witch Hat Atelier		0	13
+Wistoria Wand and Sword		0	48
+Witch Hat Atelier	2026	0	26
+Witch Hunter Robin		0	52
+With You Our Love Will Make It Through		0	24
+With You and the Rain		0	11
+Without Sin		0	4
 Without Sin Sem Pecado		0	4
 Witness Number 3		0	4
+Wizard Barristers: Benmashi Cecil		0	24
 Woke		0	4
-Wolf	2011	0	6
+Wolf	2011	0	100
+Wolf	2023	0	100
+Wolf	2011	0	100
 Wolf Creek		0	10
 Wolf Hall		0	6
 Wolf Pack		0	8
-Wolfblood Familia Lobo	2012	0	44
+Wolfblood	2012	0	62
+Wolfblood Familia Lobo	2012	0	62
 Wolverine e os X-Men		0	26
+Woman of 9 9 Billion		0	32
+WondLa A Trilogia		0	20
 Wonka: O Bilhete Dourado		0	9
 Woori The Virgin		0	9
-Work Later Drink Now		0	24
-Work in Progress		0	8
-Wrecked	2016	0	30
-Wu Thai Drama 2026	2026	0	1
-Wu-Tang: An American Saga	2019	0	30
-Wyatt Earp and the Cowboy War		0	6
-Wylde Pak	2025	0	13
-Wynonna Earp		0	48
-wtFOCK		0	52
+Work Later Drink Now		1	24
+Work in Progress		1	8
+Workin Moms		1	83
+World Dice Tour		1	14
+Wreck		1	6
+Wrecked	2016	1	30
+Wu Assassins		1	10
+Wu Thai Drama 2026	2026	1	1
+Wu-Tang: An American Saga	2019	1	30
+Wyatt Earp and the Cowboy War		1	6
+Wylde Pak	2025	1	13
+Wynonna Earp	2016	1	49
+Wynonna Earp: A Maldição dos Renascidos	2016	1	49
+wtFOCK		1	52

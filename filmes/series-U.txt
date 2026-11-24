@@ -1,108 +1,223 @@
-UFO		0	2
-Ubel Blatt		0	12
-Uga-Uga		0	220
-Ultimate Homem Aranha		0	104
+UFO		0	6
+UFO Princess Valkyrie		0	24
+UNDER NINJA		0	12
+Uchi no Maid ga Uzasugiru!		0	25
+Uchi no Shishou wa Shippo ga Nai		0	16
+Udon no Kuni no Kiniro Kemari		0	23
+Ueno san wa Bukiyou		0	12
+Uga-Uga		0	221
+Ugly Americans		0	31
+Ugly Betty		0	93
+Ultima Coisa que Diria a Voce		0	11
+Ultima Hora		0	6
+Ultimate Beastmaster		0	29
+Ultimate Beastmaster Brasil		0	29
+Ultimate Homem-Aranha	2012	0	104
+Ultimo Quadro - Ultima Foto - Son Kare		0	7
+Ultra Violeta e o Escorpião Negro		0	16
+Ultraman		0	44
 Ultraman Blazar		0	50
 Ultramarine Magmell		0	13
 Ultras: Paixão e Morte		0	6
+Ulysses: Jeanne d'Arc and the Alchemist Knight		0	24
 Um Advogado por um Dólar		0	24
 Um Amor Diferente do Seu		0	14
-Um Amor Impossivel Ou nao		0	32
-Um Amor Que Ilumina		0	14
+Um Amor Impossível! Ou não...	2025	0	32
+Um Amor Que Ilumina		0	20
+Um Amor Tao Bom		0	26
 Um Amor Tão Lindo		0	24
 Um Amor de Cinema	2025	0	10
+Um Amor de Familia		0	183
 Um Amor no Paraiso		0	12
-Um Anjo Caiu do Ceu		0	140
-Um Anjo dos Infernos		0	13
+Um Anjo Caiu do Céu		0	185
+Um Anjo Dos Infernos		0	13
+Um Assassino Entre Amigos		0	6
 Um Assunto Privado		0	8
+Um Beijo do Gordo		0	4
+Um Belo Dia		0	32
+Um Belo Dia para Morrer		0	32
 Um Bom Dia para Ser um Cachorro		0	14
-Um Bom Garoto		0	12
+Um Bom Garoto		0	16
+Um Bom Homem		0	1
+Um Caminho Para o Destino		0	135
+Um Caozinho Genial		0	25
+Um Capitão		0	6
+Um Casamento Feliz		0	9
+Um Cavalheiro em Moscou	2024	0	8
 Um Choque de Amor		0	10
-Um Conto Sombrio dos Grimm		0	10
+Um Contador no Mundo do Crime	2024	0	9
+Um Conto Sombrio dos Grimm	2021	0	10
 Um Conto de Duas Cidades	2026	0	4
 Um Conto de Fadas Perfeito		0	5
+Um Conto de Uma Noite - Bir Gece Masali		0	35
+Um Corpo que Gera		0	8
+Um Crush de Primeira		0	20
 Um Date com o Diabo		0	6
 Um Dia		0	14
 Um Dia Qualquer		0	11
-Um Dia de Cada Vez		0	14
+Um Dia de Cada Vez		0	45
+Um Dia de Chef		0	52
 Um Dia em Família com a Disney		0	30
+Um Distrito do Alem		0	6
 Um Drink no Inferno		0	30
-Um Espião Entre Amigos	2022	0	6
+Um Encontro às Cegas com o Meu Destino		0	1
+Um Espião Entre Amigos	2022	0	12
+Um Espião Infiltrado	2024	0	8
 Um Galo para Escapulário		0	13
+Um Genio Chamado Jo		0	36
 Um Grude de Amor		0	12
+Um Homem Sem Filtros	2024	0	12
+Um Homem da Flórida		0	7
 Um Homem por Inteiro		0	6
-Um Lugar ao Sol		0	113
-Um Maluco na TV		0	35
-Um Maluco no Pedaço		0	148
-Um Milagre		0	114
-Um Milhão de Coisas	2018	0	79
+Um Inferno Para Voce		0	11
+Um Lar na Natureza		0	4
+Um Litro de Lagrimas - Bir Litre Gözyaşı		0	15
+Um Lobo como Eu		0	13
+Um Lugar ao Sol		0	119
+Um Maluco No Pedaço		0	148
+Um Maluco na TV		0	138
+Um Milagre		0	267
+Um Milhao de Vezes Amor		0	10
+Um Milhão de Coisas	2018	0	97
 Um Monstro Como Nunca se Viu		0	6
 Um Mundo Diferente		0	10
 Um Natal Nada Normal		0	3
+Um Novo Corpo Uma Nova Vida		0	3
+Um Ombro Para Chorar		0	7
+Um Passo de Cada Vez		0	10
+Um Pedaco da Sua Mente		0	12
 Um Pesadelo Americano	2024	0	3
+Um Pesadelo de Casamento		0	12
 Um Planeta Perfeito		0	10
-Um Pouco Grande Demais		0	13
+Um Pouco Grande Demais	2018	0	13
+Um Pouco de Luz do Sol		0	71
 Um Rapaz Adequado		0	12
-Um Refúgio para o Amor		0	39
-Um Romance Sem Igual		0	8
+Um Refúgio para o Amor		0	124
+Um Romance Sem Igual		0	12
 Um Sonho até Você		0	24
+Um Só Coração		0	53
+Um Tanto Familiar		0	8
 Um Trabalho do Inferno		0	8
+Um Trem para o Qatar		0	8
 Um Trilhao de Dolares		0	6
+Um Vento Louco - Bir Deli Ruzgar		0	6
+Um Yakuza Genial: Tatsu Imortal		0	10
 Um conto de fadas		0	13
-Uma Bela Impostora		0	2
+Um de Nós - İçimizden Biri		0	6
+Um de Nós Está Mentindo		0	16
+Uma Advogada Extraordinária		0	16
+Uma Alma, duas caras		0	129
+Uma Bela Impostora		0	102
+Uma Carta para Eva		0	5
 Uma Casa na Pradaria	2026	0	8
 Uma Chamada para a Esperança		0	19
-Uma Equipe Muito Especial		0	6
-Uma Escolha do Coracao		0	22
+Uma Conspiração Sueca		0	6
+Uma Dose Diaria de Sol		0	12
+Uma Equipe Muito Especial		0	8
+Uma Escolha do Coracao		0	76
 Uma Esposa em Miniatura	2026	0	10
-Uma Estrela Mais Radiante Que o Sol		0	10
-Uma Familia Inusitada	2024	0	12
-Uma Familia Quase Perfeita		0	6
-Uma Família Exemplar		0	8
-Uma Família da Pesada		0	635
-Uma Fortuna Qualquer		0	21
-Uma Loja Para Assassinos		0	24
-Uma Mente Excepcional	2024	0	31
-Uma Mãe Perfeita		0	4
-Uma Noite De Crime		0	20
-Uma Noite em Idaho Os Assassinatos na Faculdade		0	4
-Uma Nova Vida - Yeni Hayat		0	13
-Uma Pitada de Magia		0	52
-Uma Pitada de Magia: Cidade Misteriosa		0	10
-Uma Seul Desconhecida		0	12
-Uma Só Voz Cantando		0	15
-Umamusume: Cinderella Gray		0	23
-Umayon		0	10
-Un Buen Divorcio		0	2
-Un Extraño Enemigo		0	14
-Unbreakable Kimmy Schmidt		0	40
-Unbroken: Nada A Perder		0	8
-Undead Unluck		0	12
-Under Salt Marsh		0	12
-Underdogs Coadjuvantes Selvagens		0	5
-Underground - Uma História De Resistência		0	19
-Undone		0	16
-Unexpectedly Naughty Fukami		0	3
-Unfamiliar	2026	0	6
-Unforgettable		0	55
-Unforgotten		0	16
-Unge lovende		0	10
-Unicorn: Warriors Eternal		0	10
-Unicornio Implacavel		0	7
-Unidade 42		0	10
-Unidade de Elite GIGN		0	6
-United We Fall		0	8
-Universos Paralelos		0	6
-União de Sangue		0	2
-Unlucky Bae		0	20
-Unsolved		0	6
-Unspeakable		0	8
-Until I Kill You		0	2
-Untold: Entre o Campo e o Crime		0	4
-Upload		0	22
-Upright	2019	0	16
-Ursos Sem Curso		0	96
-Us		0	5
-Utopia		0	20
-Utopia Falls		0	9
-Üç Kuruş		0	28
+Uma Estrela Mais Radiante Que o Sol	2025	0	12
+Uma Familia Perfeita		0	20
+Undead Murder Farce		0	13
+Ushio e Tora		0	26
+Uma Familia Quase Perfeita		1	6
+Uma Família Exemplar		1	10
+Uma Família Inusitada	2024	1	12
+Uma Família Perdida No Meio Do Nada		1	211
+Uma Família da Pesada	1999	1	637
+Uma Fazenda de Flores		1	4
+Uma Fortuna Qualquer		1	21
+Uma Historia de Amor - Bir Ask Hikayesi		1	121
+Uma História de Amor		1	121
+Uma Imensidão de Erros: O Caso de Jeffrey MacDonald		1	5
+Uma Loja Para Assassinos		1	24
+Uma Maldição de Família	2023	1	20
+Uma Mente Excepcional	2024	1	32
+Uma Morte em Vermelho		1	4
+Uma Mãe Perfeita		1	4
+Uma Noite De Crime		1	20
+Uma Noite em Idaho Os Assassinatos na Faculdade		1	4
+Uma Nova Mulher		1	40
+Uma Nova Mulher - Zeytin Agaci		1	40
+Uma Nova Vida		1	33
+Uma Nova Vida - Yeni Hayat		1	22
+Uma Odisséia Coreana		1	20
+Uma Pitada de Magia		1	52
+Uma Pitada de Magia: Cidade Misteriosa		1	10
+Uma Questão de Química	2023	1	8
+Uma Rosa Com Amor		1	145
+Uma Salva de Palmas - Kuvvetli Bir Alkis		1	6
+Uma Seul Desconhecida		1	12
+Uma Só Voz Cantando	2022	1	15
+Uma Turma Genial		1	10
+Uma Verdadeira Vida de Inseto		1	10
+Uma Vida Nova		1	33
+Uma Vizinha de Outro Mundo		1	12
+Uma semana para Amelia		1	5
+Umamusume: Cinderella Gray	2025	1	46
+Umayon		1	10
+Umthetho		1	7
+Un Buen Divorcio		1	10
+Un Extraño Enemigo		1	14
+UnREAL		1	39
+UnREAL: Nos Bastidores de um Reality		1	39
+Unbreakable Kimmy Schmidt		1	51
+Unbroken: Nada A Perder		1	8
+Uncle's Obsession with Cute Things		1	2
+Uncoupled		1	8
+Undead Girl Murder Farce		1	13
+Undead Unluck	2023	1	48
+Under Salt Marsh		1	12
+Under The Dome	2013	1	39
+Underdogs Coadjuvantes Selvagens		1	5
+Underground - Uma História De Resistência		1	20
+Undone	2019	1	16
+Unexpectedly Naughty Fukami		1	3
+Unfamiliar	2026	1	6
+Unforgettable	2011	1	61
+Unforgotten		1	16
+Unge lovende		1	10
+Unicorn: Warriors Eternal	2023	1	10
+Unicornio Implacavel		1	7
+Unidade 42		1	10
+Unidade Básica		1	24
+Unidade de Elite GIGN		1	6
+Unidos pelo Destino - Purgatorio - Limbo - Arafta - Bound by Fate		1	97
+Unidos: Manchester City Tricampeão		1	6
+Unigata		1	103
+United We Fall		1	8
+Unitopia		1	2
+Universal Basic Guys		1	13
+Universo Ashley Garcia		1	8
+Universos Paralelos		1	6
+União de Sangue		1	4
+Unknown		1	157
+Unlucky Bae		1	20
+Unmasked		1	3
+Unnamed Memory		1	24
+Unsolved		1	10
+Unspeakable		1	8
+Until I Kill You		1	2
+Untold: Entre o Campo e o Crime		1	4
+Upload		1	29
+Upright	2019	1	16
+Urara Meirochou		1	24
+Urgente		1	49
+Ursinhos Carinhosos Libere a Magia		1	6
+Ursinhos Carinhosos e Seus Primos		1	12
+Ursinhos em Curso		1	73
+Ursos Sem Curso	2015	1	120
+Us		1	112
+Usagi Drop		1	11
+Use Sua Voz	2023	1	3
+Ushinawareta Mirai Wo Motomete		1	25
+Utawarerumono		1	57
+Utopia		1	20
+Utopia Falls		1	9
+Uzaki-chan wa Asobitai!		1	50
+um Cara Comum	2023	1	19
+Últimas Férias	2023	1	8
+Últimas palavras do Amor		1	1
+Último Ato	2024	1	7
+Übel Blatt	2025	1	24
+Üç Kuruş		1	28

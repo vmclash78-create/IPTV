@@ -1,161 +1,326 @@
-H2O: Meninas Sereias		0	78
+H2O: Meninas Sereias	2025	0	78
 H2O: Meninas Sereias: Aventuras no Fundo do Mar		0	24
-HAIKYU!!	2014	0	36
-HALSTON		0	5
+HAIGAKURA		0	10
+HAIKYU!!	2014	0	146
+HAKYU HOSHIN ENGI		0	1
+HIGH CARD		0	37
+HIV 40 anos: AIDS e Suas Histórias		0	6
 HORROR COLLECTOR		0	14
+HOTEL TASOKARE		0	12
 Habeas Corpus		0	8
 Hache		0	14
-Haha You Clowns		0	5
+Hachigatsu no Cinderella Nine		0	2
+Hackers		0	21
+Hacks		0	47
+Hagure Yuusha no Aesthetica		0	12
+Haha You Clowns		0	10
 Hairstyle The Talent Show Brasil		0	6
-Haja Coração		0	137
+Haiyore Nyaruko san		0	24
+Haja Coração		0	138
+Hajime no Ippo		0	129
+Hakenshimasu		0	11
+Hakkenden: Eight Dogs of the East		0	26
+Hakumei to Mikochi		0	24
 Halifax: Retribution		0	7
 Halloween of Car City		0	19
-Halo	2022	0	13
-Halt and Catch Fire		0	26
-Hanabi-chan wa Okuregachi		0	1
+Halo	2022	0	17
+Halston		0	5
+Halt and Catch Fire		0	40
+Hana Kimi		0	37
+Hanabi-chan wa Okuregachi	2022	0	2
 Hanako kun e os Misterios do Colegio Kamome		0	72
-Hanaori-san Still Wants to Fight in the Next Life	2026	0	2
+Hanaori-san Still Wants to Fight in the Next Life	2026	0	24
+Hanbun no Tsuki ga Noboru Sora		0	12
+Handa-kun		0	24
+Hands off Sawaranaide Kotesashi kun		0	2
 Handsome Siblings		0	44
-Hanna		0	17
-Hannah Montana	2006	0	99
+Handyman Saitou in another world		0	12
+Hangyakusei Million Arthur		0	10
+Hanna		0	22
+Hannah Montana	2006	0	101
 Hannibal	2013	0	39
+Hanyou No Yashahime: Sengoku Otogizoushi		0	24
+Happy End: Por Trás da Webcam		0	8
+Happy Ending Romance		0	8
 Happy Endings		0	57
+Happy Face: Um Serial Killer	2025	0	8
+Happy Merry Ending		0	8
+Happy Tree Friends		0	13
 Happy Valley		0	11
-Harina		0	7
+Hard		0	24
+Harina		0	16
 Harlan Coben Lazaro		0	6
-Harlem	2019	0	18
+Harlem	2019	0	49
 Harley Davidson A Serie		0	3
-Harlots		0	15
-Harper's Island: O Mistério da Ilha		0	13
-Harrow	2018	0	46
+Harlots		0	39
+Harper's Island O Mistério da Ilha		0	13
+Harrow	2018	0	53
 Harry & Meghan		0	7
-Harry Potter Bruxos da Confeitaria		0	6
-Harry Quer Casar		0	7
+Harry Potter: Bruxos da Confeitaria		0	12
+Harry Potter: O Campeonato das Casas de Hogwarts		0	4
+Harry Quer Casar		0	8
+Harry e Meghan		0	6
+Harry e Meghan Escapando do Palacio		0	6
+Harukana Receive		0	24
+Harutora-kun		0	8
 Hasta que la plata nos separe		0	60
+Hataraku Maou-sama!		0	13
+Hatena☆Illusion		0	2
 Hatfields & McCoys		0	3
-Havai Cinco 0	2010	0	240
 Havai Selvagem		0	2
-Haven		0	77
+Havaí Cinco-0	2010	0	287
+Haven		0	78
 Hawthorne		0	30
+Hay Sultan		0	20
+Hay algo en el bosque		0	8
 Hayat Şarkısı		0	20
-He-Man e Os Defensores do Universo		0	130
-He-Man e os Mestres do Universo		0	24
-Headspace - Guia para Dormir Melhor		0	7
+Hayate No Gotoku		0	92
+He & She		0	130
+He-Man e Os Defensores do Universo	1983	0	130
+He-Man e os Mestres do Universo	2002	0	26
+Headspace - Guia para Dormir Melhor	2021	0	8
+Headspace Meditação Guiada		0	8
+Heart Code		0	6
+Heart Pairing		0	2
 Heart of the City		0	12
+Heartbeat		0	16
 Heartbreak High Onde Tudo Acontece		0	24
-Heartstopper		0	10
-Heated Rivalry		0	6
+Heartland	2007	0	278
+Heartstopper		0	24
+Heated Rivalry	2025	0	6
 Heathers		0	10
 Heaven		0	74
+Heaven's Lost Property		0	27
+Hebe		0	10
+Hebe: Um Brinde à Vida		0	4
 Heels		0	16
+Heeramandi O Bazar de Diamantes		0	8
+Heesu in Class 2		0	10
+Heidi		0	39
+Helck		0	24
 Helix	2014	0	26
+Hell Girl		0	52
 Hell University		0	15
 Hell on Wheels		0	57
-Hell's Paradise		0	25
+Hell's Paradise	2023	0	37
 Hellcats		0	21
+Hello Kitty Super Style		0	23
 Hello Ladies	2013	0	8
-Helluva Boss	2020	0	28
+Hells Paradise	2023	0	37
+Hellsing		0	26
+Helluva Boss	2020	0	46
 Helstrom		0	20
 Hemlock Grove	2013	0	33
-Henry Danger		0	121
-Henry Monstrinho		0	49
+Henkyou de Slow Life suru Koto ni Shimashita		0	25
+Henry Danger		0	122
+Henry Monstrinho	2013	0	49
 Herança em Jogo		0	10
-Hercules A Lendaria Jornada	1995	0	111
-Herdeiros da Noite	2019	0	26
-Hernan		0	8
-Hero Mask		0	24
-Heroes	2006	0	78
-Heroes Reborn		0	13
-Heroine? Saint? No,I'm an All-Works Maid (And Proud of It)! (2026)		0	24
-Herois de Plantao		0	8
-Hey A.J.!		0	20
-Hi Hi Puffy AmiYumi		0	39
-Hidden - Förstfödd		0	8
-Hierarchy	2024	0	7
-High School		0	8
-High School DxD		0	53
-High School Musical: A Série: O Musical	2019	0	38
-High School Musical: A Série: O Musical: Cante Com A Gente		0	10
-High School of the Dead		0	10
-High Society		0	1
-Hightown		0	20
-Hilda		0	34
-Hilda Furacão		0	32
-Hipertensao		0	14
-His Dark Materials		0	19
-Historias Arriscadas com Henry Winkler		0	8
-Historias de Animais		0	5
-Historias de Crimes em Taiwan		0	24
-História de Amor: John F. Kennedy Jr. e Caronlyn Bessette		0	9
-História de um Crime: Colmenares		0	8
-Histórias Maravilhosas		0	5
-Histórias Misteriosas		0	22
-Histórias da Quarentena		0	5
-Histórias de Terror		0	8
-Histórias de Verão		0	19
-Histórias para Vestir		0	7
-Hit & Run		0	9
-Hit the Floor		0	38
-Hitler Imagens Nunca Vistas		0	4
-Hokuto no Ken Legends of the Dark King		0	26
-Hollington Drive		0	4
-Holly Hobbie		0	30
-Hollywood		0	7
-Hollywood Arts (2026)	2026	0	16
-Holo, Meu Amor		0	12
-Home Before Dark		0	17
-Homecoming		0	17
-Homeland		0	24
-Homem Aranha A Nova Serie Animada		0	13
-Homem Chorao		0	20
-Homem Interior		0	4
-Homem Pipa Ja E		0	10
-Homem X Abelha: A Batalha		0	5
-Homem X Bebe	2025	0	4
-Homem de Ferro		0	13
-Homem em Chamas	2026	0	7
-Homem-Aranha		0	19
-Homem-Aranha: A Série Animada	1994	0	65
-Homens Sem Lei		0	5
-Homens Trabalhando		0	10
-Homens de Terno		1	134
-Homens de Verdade		1	16
-Homens de uma Certa Idade		1	10
-Homens?		1	15
-Homicidio	2024	1	15
-Homicidio nos EUA Laci Peterson	2024	1	3
-Hong A Infiltrada		1	32
-Honor Thy Mother		1	20
-Honour		1	24
-Hooligan		1	5
-Hoops		1	10
-Hope on the Street		1	12
-Hope or Dope		1	6
-Hora de Aventura com Fionna e Cake		1	10
-Hora de Aventura: Missões Secundárias		1	21
-Hora de Aventura: Terras Distantes	2020	1	3
-Hora do Recreio		1	79
-Horimiya	2021	1	26
-Horário Nobre		1	10
-Hostage		1	5
-Hot Ones: Pimenta Extra		1	1
-Hot Wheels Battle Force 5		1	52
-Hotel Assombrado		1	18
-Hotel Assombrado A Ultima Mordida		1	6
-Hotel Costiera	2025	1	6
-Hotel Hazbin		1	16
-Hotel del Luna		1	32
-House Of Cards	2013	1	77
-House of Guinness	2025	1	8
-House of Hammer: Segredos de Família		1	3
-House of Ho		1	58
-Housing Complex C		1	4
-How I Met Your Father	2022	1	15
-How to Rock		1	25
-Howards End		1	4
-Hudson & Rex		1	70
-Hulk Hogan O Lutador		1	4
-Humanidade A Historia de Todos Nos		1	12
-Hunter Street		1	90
-Hunter x Hunter	2011	1	296
-Hércules		1	65
+Hercai: Amor e Vingança		0	541
+Herdeira Bilionária Confronta Seu Marido Assassino		0	1
+Herdeira Verdadeira vs. Rainha Falsa		0	1
+Hinomaruzumou		0	22
+Herdeiro O chamado das Raizes - Sucessor- Halef Koklerin Cagrisi		1	33
+Herdeiros da Noite	2019	1	26
+Here We Meet Again		1	32
+Hernan		1	8
+Hernán - O Grande Conquistador Espanhol		1	8
+Hero Mask		1	24
+Heroes	2006	1	91
+Heroes Reborn		1	13
+Heroi - Akıncı		1	20
+Heroic Journey of Ne Zha		1	46
+Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!	2026	1	24
+Heroine? Saint? No,I'm an All-Works Maid (And Proud of It)! (2026)		1	24
+Herois Eternos Homens dos Quais o Mundo Nao Era Digno		1	21
+Herois da Biblia		1	5
+Herois de Plantao		1	8
+Herois em Foco Batalhao de Acoes com Caes		1	9
+Herois por Dentro		1	20
+Heróis da Selva		1	6
+Heróis dos Trilhos	2023	1	4
+Hey A.J.!	2026	1	20
+Hey Arnold	1996	1	178
+Hi Hi Puffy AmiYumi		1	39
+Hibike Euphonium		1	14
+Hicran		1	160
+Hidan No Aria		1	25
+Hidden - Förstfödd		1	8
+Hidden Palms		1	8
+Hierarchy	2024	1	7
+Hierarquia		1	10
+High Fidelity		1	10
+High School		1	8
+High School DxD	2012	1	67
+High School Musical: A Série: O Musical	2019	1	38
+High School Musical: A Série: O Musical: Cante Com A Gente		1	10
+High School of the Dead	2010	1	20
+High Score		1	6
+High Society		1	1
+High: Confissões de uma Traficante		1	4
+Hightown		1	20
+Hiiro no Kakera		1	26
+Hikaru no Go		1	105
+Hikikomari Kyuuketsuki no Monmon		1	12
+Hilda	2018	1	34
+Hilda Furacão		1	33
+Hillsong: O Escândalo por Trás da Megaigreja		1	4
+Himegoto		1	26
+Hip Hop Uncovered		1	6
+Hipertensao		1	167
+His Dark Materials		1	23
+His Dark Materials: Fronteiras do Universo		1	23
+Historia Direto Ao Assunto		1	10
+Historia Esportiva Americana		1	10
+Historia de Amor		1	209
+Historia de Amor John F Kennedy Jr e Carolyn Bessette		1	9
+Historia de Amor nos Anos	1970	1	29
+Historia do Comunismo		1	6
+Historia do Fascismo		1	3
+Historias Arriscadas com Henry Winkler		1	8
+Historias Assustadoras do Mickey		1	5
+Historias Paranormais		1	8
+Historias de Animais		1	5
+Historias de Crimes em Taiwan		1	24
+História De Horror Americana		1	103
+História Secreta Do Pop Brasileiro		1	8
+História de Amor: John F. Kennedy Jr. e Caronlyn Bessette	2026	1	9
+História de um Crime: Colmenares		1	8
+Histórias Maravilhosas		1	14
+Histórias Misteriosas		1	22
+Histórias Quase Verdadeiras		1	4
+Histórias da Pequena Margo	2022	1	11
+Histórias da Quarentena		1	5
+Histórias de Fantasmas		1	1
+Histórias de Superação		1	6
+Histórias de Terror		1	8
+Histórias de Verão		1	19
+Histórias para Vestir		1	8
+Histórias possíveis		1	2
+Histórico Criminal	2024	1	16
+Hit & Run		1	9
+Hit Parade		1	8
+Hit the Floor		1	38
+Hitler Imagens Nunca Vistas		1	4
+Hitler e o Nazismo: Começo, Meio e Fim	2024	1	6
+Hitorijime My Hero		1	24
+Hoje é Dia de Maria		1	13
+Hokuto no Ken - Legends of the Dark King -	2008	1	27
+Holding		1	4
+Holiday Secrets		1	3
+Hollington Drive		1	4
+Holly Hobbie		1	30
+Hollywood		1	7
+Hollywood Arts		1	12
+Hollywood Arts (2026)	2026	1	16
+Holo, Meu Amor		1	12
+Home Before Dark		1	20
+Homecoming		1	24
+Homeland	2011	1	96
+Homeland - Segurança Nacional	2011	1	96
+Homem Aranha Acao Sem Limites		1	13
+Homem Chorao		1	20
+Homem Formiga Curtas		1	6
+Homem Interior		1	4
+Homem X Abelha: A Batalha		1	9
+Homem X Bebe	2025	1	4
+Homem de Familia		1	19
+Homem de Ferro		1	13
+Homem de Ferro e seus Amigos Incriveis		1	7
+Homem do Lixo - Cop Adam		1	30
+Homem em Chamas	2026	1	7
+Homem-Aranha		1	19
+Homem-Aranha da Marvel	2025	1	75
+Homem-Aranha e seus Incríveis Amigos		1	24
+Homem-Aranha: A Nova Série Animada	2003	1	13
+Homem-Aranha: A Série Animada	1994	1	78
+Homem-Pipa: Já É!	2024	1	10
+Homens Apaixonados		1	40
+Homens Da Montanha Franco Atirador		1	8
+Homens Sem Lei		1	5
+Homens Trabalhando		1	30
+Homens da Lei: Bass Reeves	2023	2	8
+Homens da Montanha		2	8
+Homens de Terno	2011	2	134
+Homens de Terno LA	2025	2	4
+Homens de Verdade		2	16
+Homens de uma Certa Idade		2	10
+Homens do Gelo		2	60
+Homens e Deuses		2	13
+Homens?		2	16
+Hometown Cha Cha Cha		2	16
+Hometown Romance		2	8
+Homicídio	2024	2	15
+Homicídio nos EUA Gabby Petito		2	3
+Homicídio nos EUA: Laci Peterson	2024	2	3
+Honey Lemon Soda		2	12
+Hong A Infiltrada		2	32
+Honor Thy Mother		2	20
+Honour		2	24
+Honra e Amor		2	154
+Hooligan		2	5
+Hoops	2020	2	10
+Hope on the Street		2	12
+Hope or Dope		2	6
+Hora da Morte - Olum Zamani - Death Time		2	8
+Hora de Aventura		2	287
+Hora de Aventura com Fionna e Cake	2023	2	20
+Hora de Aventura: Missões Secundárias	2026	2	21
+Hora de Aventura: Terras Distantes	2020	2	287
+Hora do Recreio	1997	2	79
+Horimiya	2021	2	26
+Horimiya: Piece	2023	2	26
+Horário Nobre		2	10
+Horóscopo do Amor		2	10
+Hospital Marginal		2	11
+Hospital New Amsterdam	2018	2	88
+Hospital Playlist		2	24
+Hostage	2025	2	5
+Hot Ones: Pimenta Extra		2	1
+Hot Wheels A Batalha da Customizacao		2	10
+Hot Wheels Battle Force 5	2009	2	52
+Hot Wheels Velocidade Maxima!		2	20
+Hotel Assombrado	2025	2	18
+Hotel Assombrado A Ultima Mordida		2	6
+Hotel Costiera	2025	2	6
+Hotel Hazbin	2024	2	16
+Hotel Portofino		2	5
+Hotel Sem Estrelas		2	13
+Hotel Transilvânia: A Série		2	75
+Hotel Transylvania A Série		2	75
+Hotel del Luna		2	32
+Hotelier		2	20
+Hotéis Incríveis		2	75
+Hotéis: Estadias Personalizadas		2	10
+Houdini		2	2
+House of Cards	2013	2	78
+House of Guinness	2025	2	8
+House of Hammer: Segredos de Família		2	3
+House of Ho		2	58
+House of Lies – Casa de Mentiras		2	58
+House of Ninjas	2024	2	8
+House of the Owl		2	17
+HouseBroken		2	30
+Housing Complex C	2022	2	8
+How I Met Your Father	2022	2	32
+How I Met Your Mother	2005	2	208
+How Not to Summon a Demon Lord		2	22
+How To Be a Carioca		2	6
+How To Get Away With Murder	2014	2	90
+How a Realist Hero Rebuilt the Kingdom		2	13
+How to Rock		2	25
+Howards End		2	4
+Hudson & Rex		2	70
+Hudson e Rex		2	64
+Hulk Hogan O Lutador		2	4
+Hulk e os Agentes de SMASH		2	26
+Humanidade A Historia de Todos Nos		2	12
+Humor Negro: A Série		2	10
+Hunter Street		2	90
+Hunter x Hunter	2011	2	484
+Hunting Atlantis		2	6
+Hush		2	15
+Hyouka		2	45
+Hyperdrive		2	10
+Hysteria!	2024	2	8
+Hércules		2	65
+Hércules: A Lendária Jornada	1995	2	111

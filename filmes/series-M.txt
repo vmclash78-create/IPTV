@@ -1,391 +1,888 @@
 M - A Caca de um Assassino		0	6
 M O Filho do Seculo		0	16
-M.I.A.		0	9
-MAD		0	89
-MAO		0	12
+M.I.A.	2026	0	9
+MAD	2007	0	105
+MAO	2026	0	39
+MARIA OLHA POR NOS		0	13
+MARINES		0	4
+MARRIAGETOXIN		0	6
 MASH		0	244
+MASHLE: MAGIA E MÚSCULOS	2023	0	24
+MATICES		0	6
+MAYONAKA PUNCH		0	22
+MC Daleste: Mataram o Pobre Loco	2023	0	4
 MECH-X4		0	16
-MM!		0	2
+MF GHOST		0	48
+MINDHUNTER	2017	0	19
+MM!	2010	0	2
 MOURINHO		0	3
 MS Estonia: Tragédia em Alto Mar		0	7
-MacGyver		0	141
-Machos Alfa		0	30
-Made in Abyss		0	50
-Made in Korea	2025	0	12
+MYSTERIA Friends		0	20
+MYTIKAH O Livro dos Herois		0	13
+Maburaho		0	48
+MacGruber	2021	0	8
+MacGyver		0	142
+MacGyver - Profissão: Perigo		0	142
+Maca Proibida - O Fruto Proibido - Yasak Elman		0	74
+Maca e Cebolinha		0	40
+Machine-Doll wa Kizutsukanai		0	20
+Macho Man		0	21
+Machos Alfa		0	52
+Mad Dog		0	16
+Mad Maria		0	34
+Mad Men		0	92
+Mad Men: Inventando Verdades	2007	0	105
+Madagascar Pequenos Selvagens		0	65
+Madame Aema		0	6
+Made For Love		0	16
+Made in Abyss	2017	0	50
+Made in Korea	2025	0	18
 Madeline		0	31
 Madison	2026	0	6
+Madrasta - Uvey Anne		0	8
+Maebashi Witches		0	12
+Maes E Filhos Assassinato em Familia		0	7
+Maes Iniciantes - Acemi Anneler		0	4
+Maes Meninas e Estudantes		0	5
+Maes do Funk		0	5
+Mafia Spies		0	6
 Mafia do Apito		0	3
-Maggie e Bianca		0	16
-Magi: As Aventuras de Sinbad		0	13
+Magarsus		0	8
+Maggie e Bianca		0	24
+Maggie: A Vidente		0	13
+Magi		0	25
+Magi: As Aventuras de Sinbad		0	26
+Magia Record Puella Magi Madoka Magica Side Story		0	49
+Magia Record: Mahou Shoujo Madoka☆Magica Gaiden		0	49
+Magia Record_ Mahou Shoujo Madoka_Magica Gaiden		0	49
 Magias & Miados		0	9
 Magic City		0	14
+Magic Kaito 1412		0	22
 Magic Knight Rayearth (2026)	2026	0	14
-Magic Maker How to Make Magic in Another World		0	12
+Magic Maker How to Make Magic in Another World		0	24
+Magic-Kyun Renaissance		0	26
 Magical Explorer		0	18
-Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance		0	6
-Magilumiere: Companhia das Garotas Mágicas		0	13
+Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance	2026	0	6
+Magical Girl Ore		0	24
+Magicas e Pegadinhas com Justin Willman		0	6
+Magilumiere: Companhia das Garotas Mágicas	2024	0	13
+Magimoji Rurumo		0	24
 Magnatas do Crime	2024	0	16
-Magnum	2026	0	8
-Magnum P I		0	77
-Magos Contos da Arcadia		0	10
-Magpie Murders	2022	0	4
+Magnolia Table Receitas com Joanna Gaines		0	43
+Magnum	2026	0	107
+Magnum P.I.	2018	0	107
+Magoa - Yurek Cikmazi		0	28
+Magos: Contos da Arcadia	2020	0	10
+Magpie Murders	2022	0	10
+Magreza na TV A Verdade de The Biggest Loser		0	3
 Maguila Prefiro Ficar Louco A Morrer De Fome		0	4
 Maguila, o Gorila		0	31
 Mahanadhi		0	12
+Mahmut ile Meryem		0	4
+Mahoromatic		0	24
+Mahou Sensou		0	24
+Mahou Shoujo Ikusei Keikaku		0	24
+Mahou Shoujo Lyrical Nanoha		0	26
+Mahou Shoujo ni Akogarete		0	13
+Mahou no Shimai Lulutto Lilly		0	3
+Mahoutsukai Reimeiki		0	24
+Mahoutsukai no Yome		0	3
 Mai		0	6
+Mai Otome		0	30
 Maid		0	10
 Maintenant ou Jamais : FC Montfermeil		0	5
+Maior a Luta		0	4
+Maior de Idade		0	16
+Mais Bonita que Você - Senden Daha Güzel		0	14
 Mais Linda Que Você		0	55
+Major		0	52
+Makanai: Cozinhando para A Casa Maiko		0	9
 Make Me Tingle		0	20
+Make My Day		0	8
+Makeine: Too Many Losing Heroines!		0	12
 Making History		0	9
+Making a Murderer		0	20
 Mako Mermaids		0	84
 Mal de Amores		0	7
-Mal de Família	2022	0	9
+Mal de Família	2022	0	18
 MalaYerba		0	10
-Malcolm		0	174
-Malcolm A Vida Continua Injusta	2026	0	4
+Malcolm		0	175
+Malcolm: A Vida Continua Injusta	2026	0	4
+Maldade	2025	0	6
+Maldicoes da Historia		0	6
+Maldito Dia De Sorte	2023	0	10
+Maldito Rap		0	16
 Maldito Sonho de Conto de Fadas		0	10
 Maldivas		0	7
 Maldição de Sangue		0	20
-Malhacao		0	2519
-Mamonas Assassinas A Serie		0	5
-Manda Chuva		0	30
-Mandou Bem		0	26
-Mandou Bem: Desafio dos Confeiteiros		0	10
-Manhunt		0	15
-Manhãs de Setembro		0	8
-Mania de Voce		0	164
-Maniac		0	18
-Maniaco do Parque A Historia Nao Contada		0	4
-Manicômios Assombrados		0	22
-Manifest: O Mistério do Voo 828		0	81
-Mano a Mana		0	65
-Mansão Hype		0	8
-Mansão das MILFs		0	8
-Mantendo a Esperanca		0	169
-Manual de Assassinato para Boas Garotas	2024	0	12
-Mao Mao: Heróis de Coração Puro		0	27
-Maos na Terra		0	6
-Maoyu		0	24
-Maquina Mortifera	2016	0	55
-Mar do Sertão		0	163
-Maradona: Conquista de um Sonho		0	10
-Marasli O Protetor	2021	0	74
-Maratón Candice Renoir		0	8
-Maravilhas Ocultas da Africa	2020	0	3
-Maravilhosa Sra. Maisel		0	33
-Marbella		0	1
-Marcada		0	8
-Marcella		0	16
-Marco Polo		0	13
-Mare of Easttown		0	6
-Margarita		0	60
-Margo Esta em Apuros	2026	0	8
-Maria e o Cangaco	2025	0	6
-Marianne		0	8
-Marie e Seus Tres Pais		0	74
-Mark Rober: CrunchLabs		0	24
-Marlon		0	16
-Marseille		0	14
-Marselha em Perigo		0	7
-Marshals: Uma História de Yellowstone	2026	0	19
-Marte		0	12
-Marvel - Guardiões da Galáxia		0	78
-Marvel - Jessica Jones	2015	0	39
-Marvel - Luke Cage	2016	0	26
-Marvel - O Justiceiro	2017	0	26
-Marvel - Os Defensores	2017	0	8
-Marvel - Punho de Ferro	2017	0	13
-Marvel 616		0	8
-Marvel Anime: Wolverine	2011	0	12
-Marvel Studios - Avante	2021	0	20
-Marvel Zombies		0	4
-Marvel's M.O.D.O.K.	2021	0	20
-Marvel: Homem-Aranha	2017	0	64
-Mary & George		0	7
-Marília Mendonça: Sentimento Louco (2026)	2026	0	4
-Masha e o Urso	2009	0	57
-Mashle: Magia e Músculos	2023	0	24
-Master Omur		0	6
-Master of None		0	25
-MasterChef Brasil		0	11
-Masters of Sex		0	46
-Match Imperfeito		0	11
-Match Point		0	20
-Matchbox Adventures		0	19
-Mating Season	2026	0	10
-Matlock		0	35
-Matéria Escura	2024	0	19
-Matérias de Capa		0	12
-Mauá: O Primeiro Gigante		0	2
-MaveriX		1	10
-Max Anger - Com Um Olho Aberto		1	1
-Maxton Hall O Mundo Entre Nos	2024	1	12
-May I Ask for One Final Thing		1	13
-Maya e os 3 Guerreiros		1	9
-Mayans M.C.		1	47
-Mazatlan Shore		1	1
-Maçonaria - Segredos Revelados		1	5
-McCartney 3,2,1		1	12
-McDonald & Dodds		1	12
-McMafia		1	8
-Me Chama de Bruna	2016	1	22
-Me Conte Mentiras	2022	1	26
-Me Conte Uma História		1	20
-Me Encontra em Paris	2018	1	72
-Me Salva Dessa		1	4
-Me Tira Daqui		1	12
-Mebius Dust		1	5
-Mecânica em Família		1	8
-Med Cezir Vidas Alheias		1	142
-Medalha de Honra		1	8
-Medici Mestres de Florenca		1	24
-Medicos em Colapso	2024	1	16
-Medo Real		1	5
-Mega Med		1	48
-Megalo Box	2018	1	13
-Meia-Noite no Hotel Pera Palace	2022	1	16
-Melancia Cintilante		1	16
-Melania Rea		1	1
-Melhor. Pior. Finde. De Todos.		1	8
-Melou	2024	1	6
-Memoria de um Assassino	2026	1	10
-Meninos de Aluguel	2023	1	6
-Mentes Extraordinarias	2024	1	13
-Mentiras Perfectas		1	42
-Mentirosos	2025	1	8
-Menu Selvagem		1	6
-Mergulhando Em Seu Sorriso		1	62
-Merlí		1	13
-Merlí: Sapere Aude		1	16
-Merteuil Jogos de Seducao		1	6
-Messiah		1	10
-Mestres de Ferro		1	6
-Mestres do Ar	2024	1	9
-Mestres do Terror (2005)		1	19
-Mestres do Universo A Revolucao		1	5
-Mestres do Universo: Histórias de Eternia		1	10
-Mestres do Universo: Salvando Eternia	2021	1	14
-Metegol: Underdogs United		1	51
-Meu Adorável Mentiroso		1	17
-Meu Amigo da Escola é um Macaco		1	57
-Meu Amor das Estrelas		1	42
-Meu Amor por Você		1	32
-Meu Amor: Seis Histórias de Amor Verdadeiro		1	6
-Meu Ayrton por Adriane Galisteu	2025	1	2
-Meu Bem, Meu Mal		1	3
-Meu Casamento Feliz		1	29
-Meu Chefe		1	72
-Meu Colega de Quarto e Um Gumiho		1	32
-Meu Coracao e Teu		1	177
-Meu Demonio Favorito		1	16
-Meu Encontro com o Mal		1	4
-Meu Gato Endiabrado		1	53
-Meu Homem e um Cupido		1	32
-Meu Idol é Meu Chefe		1	4
-Meu Irmao o Minotauro		1	10
-Meu Lar Meu Destino - Dogdugun Ev Kaderindir		1	51
-Meu Mafioso Predileto		1	16
-Meu Namorado Coreano		1	8
-Meu Nome E Preta		1	4
-Meu Nome é Farah		1	130
-Meu Nome é Liberdade		1	6
-Meu Pai e Outros Vexames		1	8
-Meu Papai Ainda é Noel		1	12
-Meu País: A Nova Era		1	16
-Meu Querido Nemesis		1	11
-Meu Querido Zelador		1	25
-Meu Sangue Ferve por Você: A Série		1	4
-Meu Secretario Perfeito		1	11
-Meu Tio		1	6
-Meu pai, o Assassino do Zodíaco		1	8
-Meus Mortos Tristes		1	4
-Mexico Selvagem		1	3
-Mi verdad oculta		1	18
-Michael Jackson O Veredito	2026	1	3
-Michael Jackson: A História		1	4
-Mickey Mouse Clubhouse+: Mickey's Country Farm Songs		1	10
-Mickey: Aventuras sobre Rodas		1	61
-Midas do Ferro Velho	2018	1	48
-Midnight, Texas		1	19
-Mike & Molly		1	131
-Mike Judge's Beavis and Butt-Head		1	24
-Mike: Além de Tyson		1	8
-Mil Golpes		1	6
-Mila no Multiverso		1	8
-Milagres da Sala de Emergência		1	8
-Millennium		1	57
-Million Dollar Nannies		1	8
-Milton e o Clube da Esquina		1	6
-Minami Uma Advogada Extraordinária		1	5
-Minas do Hóquei		1	13
-Minha Amiga Nokotan e um Cervo		1	12
-Minha Babá é Uma Vampira		1	27
-Minha Carreira Brilhante		1	6
-Minha Casa Repaginada		1	8
-Minha Estrela Problematica		1	24
-Minha Garota Unicórnio		1	20
-Minha Habilidade Única Me Deixa Invencível no Nível 1		1	12
-Minha História de Amor com Yamada-kun Nível 999	2023	1	13
-Minha Juventude		1	24
-Minha Lady Jane	2024	1	8
-Minha Mana Apelona		1	12
-Minha Namorada e o Cara		1	24
-Minha Página nos Anos 90		1	36
-Minha Querida Jornada		1	18
-Minha Vez de Amar		1	16
-Minha Vida Nada Ortodoxa		1	9
-Minha Vida Novamente		1	12
-Minha Vida com a Familia Walter	2023	1	30
-Minhas Aventuras com o Superman	2023	1	3
-Mini Caminhões		2	47
-Minnie Toons		2	20
-Minta Comigo		2	4
-Miracle Workers	2019	2	23
-Miraculous: As Aventuras de Ladybug	2015	2	155
-Mirage		2	6
-Miss Scarlet		2	19
-Missa da Meia-Noite		2	7
-Missao Silenciosa		2	2
-Missions		2	12
-Missão Sobrevivência		2	24
-Misterio de Um Milhao de Seguidores		2	8
-Misterio em Cemetery Road	2025	2	8
-Misterios Biblicos		2	6
-Misterios da Antiguidade com Albert Lin		2	6
-Misterios da Barbie		2	16
-Misterios da Fe		2	4
-Mistério de Anubis		2	112
-Mistérios Animais		2	59
-Mistérios de um Dentista		2	8
-Mistérios do Detetive Murdoch		2	264
-Mistérios no Gelo		2	6
-Mistérios sem Solução	2020	2	22
-Mo		2	8
-Mob Psycho 100	2016	2	37
-Mobile Suit Gundam GQuuuuuuX		2	12
-Mobius		2	30
-Modus		2	9
-Mom		2	151
-Momentos de calma		2	6
-Monarca		2	14
-Money ID A Identidade do Dinheiro		2	4
-Monk: Um Detetive Diferente		2	125
-Monkey Wrench		2	5
-Monster		2	74
-Monster High	2022	2	46
-Monsterland		2	8
-Monstro A Historia de Ed Gein	2025	2	8
-Monstro do Pântano	2019	2	10
-Monstro: A História de Lizzie Borden	2026	2	8
-Monstros Irmaos Menendez Assassinos dos Pais	2024	2	9
-Monstros da Cracóvia		2	2
-Monstros da Montanha		2	10
-Monstros da Montanha: Em Volta da Fogueira		2	8
-Monstros de Deus		2	4
-Monstros no Trabalho	2021	2	20
-Monstros vs. Alienígenas		2	40
-Montanha Mortal		2	6
-Montanha da Morte: O Incidente na Passagem Dyatlov		2	6
-Montecristo		2	8
-Moonhaven	2022	2	10
-Moonlight		2	16
-Moonshine		2	16
-Morador Indesejado		2	7
-Morangos com Acucar		2	30
-Moranguinho na Cidade Grande		2	40
-Morko e Mali		2	52
-Morphle		2	71
-Morphle e os Bichinhos Mágicos		2	52
-Morra Meu Amor		2	12
-Morrendo por Sexo	2025	2	8
-Mortal Kombat: Legacy		2	29
-Morte e Mentiras		2	6
-Morte e Mistério na Amazônia		2	3
-Morte e Rouxinóis		2	3
-Morte no Parque		2	6
-Mortel		2	12
-Mortos S.A.		2	26
-Most Dangerous Game		2	26
-Motel California		2	12
-Motherland: Fort Salem	2020	2	29
-Motive		2	52
-Motorheads Velozes e Apaixonados	2025	2	10
-Motorvalley		2	6
-Motos Sagradas		2	6
-Mouse		2	40
-Move		2	5
-Movimento Mágico		2	2
-Mr Inbetween		2	24
-Mr Mikamis Classroom		2	10
-Mr Selfridge		2	28
-Mr. Bean		2	14
-Mr. Bean: A Série Animada		2	42
-Mr. Corman		2	10
-Mr. Iglesias		2	12
-Mr. Mayor		2	5
-Mr. Mercedes		2	30
-Mr. Pickles		2	32
-Mr. Plankton		2	10
-Mr. Robot	2015	2	10
-Mrs. America		2	18
-Mrs. Fletcher		2	7
-Ms Fisher's Modern Murder Mysteries		2	4
-Ms Incognito		2	24
-Ms. Marvel		2	6
-Mucha Lucha		2	45
-Mugyutto Black Clover		2	16
-Muhammad Ali: O Maior		2	8
-Muito Assustador Mesmo		2	20
-Muito Esforcado	2025	2	8
-Mulher Forte,Do Bong-soon		2	18
-Mulher Maravilha		2	55
-Mulher americana		2	11
-Mulher-Aranha		2	16
-Mulher-Hulk: Defensora de Heróis		2	18
-Mulheres Apaixonadas		2	202
-Mulheres Asiáticas		2	6
-Mulheres Imperfeitas	2026	2	8
-Mulheres Incríveis de Bollywood		2	24
-Mulheres da Noite		2	10
-Mulheres de Azul	2024	2	18
-Mum Vida de Mae		2	14
-Mundo CurioZoo		2	23
-Mundo Mistério		2	8
-Mundo Ripilica: As Aventuras de Lilica,a Coala		2	26
-Mundo em Chamas	2019	2	19
-Muppet Babies: Dia de Brincadeiras		2	12
-Muppets e o Caos Elétrico		2	9
-Muquiranas	2012	2	24
-Muquiranas Brasil		2	8
-Murai in Love		3	12
-Murder in a Small Town	2024	3	19
-Murderville		3	6
-Musafir Cafe		3	8
-Mushoku Tensei: Jobless Reincarnation	2021	3	61
-Mutante Rex		3	59
-Mutiny O Hotel da Cocaina	2024	3	8
-My Gift Lvl 9999 Unlimited Gacha		3	20
-My Hero Academia: Vigilantes	2025	3	26
-My Little Pony: A Amizade é Mágica		3	117
-My Love, the Black Sea		3	3
-My Mad Fat Diary		3	12
-My Melody & Kuromi		3	12
-My Plantito		3	7
-My Rival and Me		3	14
-My Royal Nemesis		3	14
-My Tee		3	12
-My Tutor, My Love		3	6
-Mystery Road: Origin		3	6
-Mystic Pop Up Bar		3	12
-Mythic Quest	2020	3	30
-Mythomaniac		3	24
-Máfia: O Reality		3	16
-Mágica Mortal		3	8
-Mágica para a Humanidade: Espanha		3	6
-Máscaras de Oxigênio Não Cairão Automaticamente	2025	3	5
-Mãe Só Tem Duas		3	27
-Mães A madas		3	13
-Mães: Amor e Vida		3	13
-Mão de Deus	2014	3	20
-mixed-ish		3	23
+Maldosas		0	160
+Malevolent Spirits: Mononogatari		0	16
+Malhacao		0	2617
+Maria Holic		0	12
+Masou Gakuen HxH		0	17
+Medaka Kuroiwa is Impervious to My Charms		0	12
+Minha Filha Saiu de Casa e Voltou como uma Aventureira Rank-S		0	13
+Miss Caretaker of Sunohara-sou		0	12
+Mnemosyne		0	6
+Mr. Villain's Day Off		0	12
+My New Boss is Goofy		0	12
+Myriad Colors Phantom World		0	13
+Mysterious Disappearances		0	12
+Malhação - Múltipla Escolha		1	363
+Malhação Casa Cheia		1	2617
+Malhação Identidade		1	199
+Malhação Intensa Como A Vida		1	2617
+Malhação Pro Dia Nascer Feliz		1	2617
+Malhação Seu Lugar no Mundo		1	2617
+Malhação Toda Forma de Amar		1	2617
+Malhação Viva a Diferença		1	2617
+Malhação de Verão		1	25
+Malhação: Conectados		1	2617
+Malhação: Sonhos		1	280
+Malhação: Vidas Brasileiras		1	2617
+Malory Towers Escola Para Meninas		1	26
+Malu Mulher		1	18
+Mamonas Assassinas A Serie		1	5
+Mamute		1	4
+Mamãe, Não Fuja! Papai É Louco Por Você!		1	1
+Man Of Honor		1	24
+Manancial		1	95
+Manayek		1	20
+Manda-Chuva	1961	1	30
+Mandacaru		1	217
+Mandou Bem		1	26
+Mandou Bem: Desafio dos Confeiteiros		1	10
+Mangaka-san to Assistant-san to		1	24
+Mangirl!		1	26
+Manhunt	2017	1	25
+Manhunt Unabomber	2017	1	25
+Manhãs De Setembro		1	11
+Mania de Voce		1	173
+Maniac		1	19
+Maniaco do Parque A Historia Nao Contada		1	4
+Manicômios Assombrados		1	22
+Manifest		1	62
+Manifest: O Mistério do Voo 828	2018	1	81
+Mann Mast Malang		1	53
+Mano a Mana		1	65
+Mansoes em Frente ao Lago		1	8
+Mansão Hype		1	8
+Mansão das MILFs		1	21
+Mantendo a Esperanca		1	169
+Manto e Adaga		1	20
+Manual de Assassinato para Boas Garotas	2024	1	13
+Manyu Scroll		1	24
+Mao Mao: Heróis De Coração Puro		1	40
+Maos na Terra		1	6
+Maoyu		1	24
+Mar Branco		1	19
+Mar Negro - O Mar no Meu Coracao - Sen Anlat Karadeniz		1	64
+Mar de Amor		1	164
+Mar do Sertão		1	178
+Maradona: Conquista de um Sonho		1	10
+Marasli: O Protetor	2021	1	148
+Maratón Candice Renoir		1	8
+Maravilhas Ocultas da Africa	2020	1	3
+Maravilhas Sagradas com Dennis Quaid		1	8
+Maravilhas Sombrias		1	8
+Maravilhas do Blippi Desenhos Animados Educativos para Crianças		1	52
+Maravilhosa Sra Maisel		1	43
+Marbella		1	12
+Marcada		1	8
+Marcados Pelo Passado		1	96
+Marcados pelo Passado - Sahipsizler - Abandonados		1	149
+Marcas do Amor		1	30
+Marcas do Terror		1	6
+Marcelino Pão e Vinho		1	10
+Marcella		1	24
+Marcelo, Marmelo, Martelo		1	13
+Marco Polo		1	20
+Mare - Medcezir		1	31
+Mare of Easttown		1	7
+Margarita		1	75
+Margarita Faça Sua História Valer a Pena		1	80
+Margô Está em Apuros	2026	1	8
+Maria - Meryem		1	30
+Maria Esperança		1	84
+Maria Mercedes		1	98
+Maria do Bairro		1	185
+Maria e o Cangaço	2025	1	6
+Maria, a Caprichosa		1	64
+Mariachis		1	8
+Mariana da Noite		1	134
+Marianne		1	8
+Marido de Aluguel		1	141
+Marido em Casa? Melhor Supremo Imortal		1	1
+Marie e Seus Tres Pais		1	145
+Marielle O Documentario		1	6
+Marimar		1	149
+Marinheiro de Guerra		1	3
+Mario Fofoca		1	17
+Marisol		1	118
+Mark Rober: CrunchLabs		1	24
+Marlon		1	20
+Marmalade Boy		1	140
+Marseille		1	14
+Marselha em Perigo		1	7
+Marshals: Uma História de Yellowstone	2026	1	20
+Marte		1	16
+Martelo		1	13
+Marvel - Demolidor	2015	1	39
+Marvel - Guardiões da Galáxia	2015	1	78
+Marvel - Jessica Jones	2015	1	39
+Marvel - Luke Cage	2016	1	26
+Marvel - O Justiceiro	2017	1	26
+Marvel - Os Defensores	2017	1	8
+Marvel - Punho de Ferro	2017	1	23
+Marvel 616		1	16
+Marvel Agente Carter		1	18
+Marvel Anime: Homem de Ferro		1	12
+Marvel Anime: Wolverine	2011	1	12
+Marvel Disk Wars: The Avengers		1	50
+Marvel Studios - Avante	2021	1	21
+Marvel Zombies	2025	1	4
+Marvel Zumbis	2025	1	4
+Marvel's Cloak & Dagger		1	20
+Marvel's M.O.D.O.K.	2021	1	20
+Marvel: Homem-Aranha	2017	1	64
+Mary & George		1	7
+Mary & Mike		1	6
+Mary De Morte		2	18
+Mary e George		2	7
+María Madalena		2	60
+María Magdalena		2	60
+María Marta: O Assassinato no Country Clube		2	8
+Marília Mendonça: Sentimento Louco		2	4
+Marília Mendonça: Sentimento Louco (2026)	2026	2	4
+Marília Mendonça: Todos os Cantos		2	4
+Masamune-kun no Revenge		2	48
+Mascotes Extraordinários		2	6
+Masha e o Urso	2009	2	58
+Mask Girl	2023	2	7
+Masmorras e Batatas		2	13
+Massacre na Escola - A Tragédia das Meninas de Realengo	2023	2	4
+Massacre of the Mormons		2	2
+Master Keaton		2	63
+Master Omur		2	6
+Master of None		2	25
+MasterChef Brasil Júnior		2	13
+MasterChef Brasil: Confeitaria		2	20
+MasterChef Celebridades		2	10
+MasterChef Creators		2	3
+MasterChef Junior		2	13
+MasterChef Mais		2	11
+MasterChef+		2	11
+MasterChef: Profissionais		2	61
+Masterchef Brasil		2	274
+Masterchef EUA		2	57
+Masters of Sex		2	46
+Matador		2	13
+Matando Para Amar		2	4
+Match Imperfeito		2	11
+Match Perfeito		2	40
+Match Point		2	20
+Match VIP		2	8
+Match nas Estrelas		2	12
+Matchbox Adventures	2021	2	19
+Matchday		2	8
+Matchday: FC Barcelona		2	8
+Matches		2	30
+Mate Me Ame Me		2	32
+Mating Season	2026	2	10
+Matlock		2	35
+Matlock Uma Advogada Improvavel		2	35
+Matéria Escura	2024	2	19
+Matérias de Capa		2	12
+Mau Comportamento		2	4
+Mau Ladrao Bom Ladrao		2	31
+Mauá: O Primeiro Gigante		2	2
+Mavera Hace Ahmed Yesevi		2	26
+MaveriX		2	10
+Mawaru Penguindrum		2	48
+Max Anger - Com Um Olho Aberto		2	1
+Maxton Hall - O mundo entre nós	2024	2	12
+May I Ask for One Final Thing		2	26
+Maya e os 3 Guerreiros	2021	2	9
+Mayans M.C		2	50
+Mayoi Neko Overrun		2	26
+Mayonaka no Occult Koumuin		2	27
+Maysa: Quando Fala o Coração		2	9
+Mazatlan Shore		2	12
+Maça Vermelha - Kızılelma		2	8
+Maçonaria - Segredos Revelados		2	5
+McCartney 3,2,1		2	12
+McDonald & Dodds		2	12
+McMafia		2	8
+McMillion$		2	6
+Me Apaixonei pela Vila		2	12
+Me Chama de Bruna	2016	2	32
+Me Conte Mentiras	2022	2	26
+Me Conte Uma História		2	20
+Me Encontra em Paris	2018	2	78
+Me Encontre Depois da Escola		2	11
+Me Salva Dessa		2	4
+Me Tira Daqui		2	12
+Me esconda		2	77
+MeatEater		2	44
+Mebius Dust	2026	2	5
+Mecânica em Família		2	8
+Med Cezir Vidas Alheias		2	146
+Medabots	1999	2	143
+Medalha de Honra		2	8
+Medalist	2025	2	44
+Medcezir: Vidas Alheias		2	144
+Medici Mestres de Florenca		2	32
+Medicina do Amanhã		2	3
+Medico Legista Dr. Qin		2	20
+Medico em Outra Vida - Doktor Baska Hayatta		2	6
+Medidas Radicais		2	9
+Medium	2005	2	130
+Medo Real		2	5
+Medusa		2	24
+Medíocres / Hacks	2021	2	44
+Meekah		2	57
+Meet You at the Blossom		2	3
+Meet Yourself		2	40
+Mega Man - Potência Máxima		2	10
+Mega Man Fully Charged		2	10
+Mega Med		2	48
+Megalo Box	2018	2	52
+Megamente Domina		2	8
+Meganebu!		2	24
+Meherposh		2	41
+Mehmed Fetihler Sultanı		2	77
+Mehmets Vitoriosos - Mehmetçik Kut'ül-Amare		2	33
+Meia-Noite no Hotel Pera Palace	2022	2	16
+Meia-Noite no Hotel Pera Palace - Pera Palas'ta Gece Yarisi	2022	2	16
+Meikyuu Black Company		2	24
+Meio irmaos Meio herois		2	52
+Meio-heróis		2	52
+Meka Builders		2	21
+Mekakucity Actors		2	24
+Melancia Cintilante		2	16
+Melania Rea		2	1
+Melhor Que Você		2	14
+Melhor!		2	221
+Melhor. Pior. Finde. De Todos.		2	8
+Melhores Cachorros		2	22
+Melou	2024	3	6
+Memorial de Maria Moura		3	19
+Memorias de uma Prisao		3	8
+Memories Of The Alhambra		3	16
+Memória de um Assassino	2026	3	10
+Memórias Do 11 De Setembro		3	6
+Memórias de Idhún		3	5
+Memórias de Um Carcereiro		3	7
+Men in Kilts: A Roadtrip with Sam and Graham		3	8
+Mendirman Jaloliddin - Bozkır Arslanı Celaleddin		3	30
+Menendez e Menudo Boys Betrayed		3	3
+Meninas do Benfica		3	8
+Meninos Antes de Flores		3	25
+Meninos de Aluguel	2023	3	6
+Mentes Criminosas	2005	3	371
+Mentes Extraordinárias	2024	3	27
+Mentira - Yalan		3	30
+Mentiras		3	6
+Mentiras Perfectas		3	42
+Mentiras de Docura		3	24
+Mentirosos	2025	3	8
+Mentirosos e suas velas - Yalancılar ve Mumları		3	5
+Menu Selvagem		3	6
+Meow Orelhas para Cima		3	8
+Merc StoriA: The Apathetic Boy and the Girl in a Bottle		3	16
+Mercado - Piyasa		3	6
+Mercado Ilegal com Mariana van Zeller		3	38
+Mercato		3	8
+Mergulhando Em Seu Sorriso		3	62
+Mergulho - Dip		3	8
+Meritissimo		3	32
+Merlí		3	13
+Merlí. Sapere Aude		3	16
+Merteuil Jogos de Seducao		3	6
+Mesacast BBB		3	9
+Mesmo Assim As Formas do Amor		3	8
+Messiah		3	10
+Mestre do Sabor		3	37
+Mestres da Air Fryer		3	8
+Mestres da Enganação		3	3
+Mestres da Sabotagem		3	158
+Mestres da Sobrevivência		3	6
+Mestres de Ferro		3	6
+Mestres do Ar	2024	3	17
+Mestres do Terror		3	13
+Mestres do Terror (2005)		3	19
+Mestres do Universo: A Revolução	2024	3	10
+Mestres do Universo: Histórias de Eternia		3	10
+Mestres do Universo: Salvando Eternia	2021	3	15
+Metalder - O Homem Máquina		3	40
+Metallic Rouge		3	26
+Metegol: Underdogs United	2022	3	51
+Meu Adorável Mentiroso		3	17
+Meu Amigo Bussunda		3	4
+Meu Amigo da Escola é um Macaco	2005	3	57
+Meu Amor		3	12
+Meu Amor das Estrelas		3	42
+Meu Amor por Você		3	32
+Meu Amor: Seis Histórias De Amor Verdadeiro		3	6
+Meu Ayrton, por Adriane Galisteu	2025	3	2
+Meu Bebê Gângster Papai Me Mima até o Paraíso		3	1
+Meu Bem, Meu Mal		3	173
+Meu Caminho e Te Amar		3	93
+Meu Casamento Feliz	2023	3	167
+Meu Chefe		3	72
+Meu Chefe Malvado		3	12
+Meu Colega de Quarto e Um Gumiho		3	32
+Meu Companheiro		3	16
+Meu Coracao e Teu		3	177
+Meu Demonio Favorito		3	16
+Meu Dente Seu Amor		3	12
+Meu Destino		3	138
+Meu Diário para a Liberdade		3	16
+Meu Doce Mafioso		3	16
+Meu Duble		3	26
+Meu Empregado Domestico Nagisa		3	10
+Meu Encontro com o Mal		3	4
+Meu Estranho Perfeito		3	16
+Meu Filho - Oğlum		3	15
+Meu Gato Endiabrado		3	103
+Meu Homem e um Cupido		3	32
+Meu Idol é Meu Chefe		3	4
+Meu Idolo		3	12
+Meu Lar Meu Destino - Dogdugun Ev Kaderindir		3	94
+Meu Lar, Meu Destino		3	237
+Meu Mafioso Predileto		3	16
+Meu Marido		3	8
+Meu Meteorologista Pessoal		3	8
+Meu Namorado Astronauta		3	6
+Meu Namorado Coreano		3	8
+Meu Nome E Preta		3	4
+Meu Nome é		3	8
+Meu Nome é Farah		3	157
+Meu Nome é Liberdade		3	6
+Meu Pai e Inventor		3	16
+Meu Pai e Outros Vexames		3	8
+Meu Papai Ainda é Noel		3	12
+Meu Papai é Noel		3	12
+Meu Passado Oculto - Sahane Hayatim		3	56
+Meu País: A Nova Era		3	32
+Meu Pecado		3	110
+Meu Pedacinho de Chao		3	96
+Meu Pobre Esposo É Bilionário		3	1
+Meu Poderoso Pai		3	1
+Meu Porto Seguro		3	15
+Meu Príncipe Vamos Sair do Armário?		3	1
+Meu Querido Guardiao		3	40
+Meu Querido Nemesis		3	12
+Meu Querido Zelador		3	25
+Meu Sangue Ferve por Você: A Série		3	4
+Meu Secretario Perfeito		3	11
+Meu Segredinho		3	33
+Meu Tio		3	6
+Meu Trabalho no Café Yuri		3	1
+Meu coração ficou no Egeo - Kalbim Ege'de Kaldı		3	16
+Meu irmão, o Minotauro	2026	3	10
+Meu lado Esquerdo - Sol Yanım		3	52
+Meu marido bilionário me trocou por ele？		3	1
+Meu marido secreto é meu chefe		3	1
+Meu nome e Zehra - Adı Zehra		3	14
+Meu nome é Melek - Benim Adım Melek		4	50
+Meu pai, o Assassino do Zodíaco		4	8
+Meus 15 anos - Miss XV		4	120
+Meus Clientes Fantasmas		4	19
+Meus Irmaos - Kardeşlerim		4	332
+Meus Mortos Tristes		4	4
+Meus Pes Estao Me Matando		4	41
+Meus Pes Estao Me Matando Reino Unido		4	8
+Mevlânâ Celâleddîn-i Rûmî		4	30
+Mewkledreamy		4	15
+Mexicanicos		4	79
+Mexicanicos Celebridades		4	10
+Mexicanicos Sem Fronteiras		4	4
+Mexico Selvagem		4	3
+Mi verdad oculta		4	18
+Miami Guns		4	26
+Miami Vice		4	111
+Michael Jackson: A História		4	4
+Michael Jackson: O Veredito	2026	4	3
+Mickey Mouse		4	94
+Mickey Mouse Clubhouse+: Mickey's Country Farm Songs		4	10
+Mickey: Aventuras sobre Rodas	2017	4	61
+Midas do Ferro Velho	2018	4	48
+Midnight Family	2024	4	10
+Midnight, Texas		4	19
+Mieruko-chan	2021	4	24
+Migi to Dali		4	13
+Mikakunin De Shinkoukei		4	24
+Mike & Molly		4	131
+Mike & Molly: Um Casal de Peso		4	127
+Mike Judge's Beavis and Butt-Head		4	36
+Mike: Além de Tyson		4	8
+Mil Colmilhos		4	7
+Mil Golpes		4	12
+Mil e Uma Noites		4	164
+Mil e Uma Noites - Binbir Gece		4	164
+Mila no Multiverso		4	8
+Milagre de Cem Anos - Um Seculo de Milagres- Yuz Yillik Mucize		4	13
+Milagres da Sala de Emergência		4	8
+Mildred Pierce		4	5
+Miliki Family		4	52
+Millennium		4	57
+Millie Black	2024	4	4
+Million Dollar Nannies		4	8
+Milo		4	26
+Milton e o Clube da Esquina		4	6
+Minami Uma Advogada Extraordinária		4	6
+Minami-ke		4	26
+Minas do Hóquei		4	13
+Minha Amiga Nokotan é um Cervo	2024	4	12
+Minha Babá é Uma Vampira		4	27
+Minha Carreira Brilhante		4	6
+Minha Casa Frankenstein		4	6
+Minha Casa Repaginada		4	8
+Minha Confusao de Amor		4	10
+Minha Crush Esqueceu os Óculos		4	1
+Minha Doce Mentira - Benim Tatli Yalanim -Benim Tatlı Yalanım		4	28
+Minha Estranha Obsessao Como Eles Estao Agora		4	6
+Minha Estranha Obsessão		4	16
+Minha Estrela Problematica		4	24
+Minha Família Me Vendeu pra um Chefe do Crime		4	1
+Minha Família em Jogo		4	10
+Minha Garota Unicórnio		4	26
+Minha Habilidade Única Me Deixa Invencível no Nível 1		4	12
+Minha História de Amor com Yamada-kun Nível 999	2023	4	13
+Minha Juventude		4	24
+Minha Juventude - Ai de Mim - Gencligim Eyvah		4	17
+Minha Lady Jane	2024	4	8
+Minha Mae Ancara - Annem Ankara		4	15
+Minha Mae com seu Pai		4	20
+Minha Mae e Uma Agente Secreta		4	1
+Minha Mana Apelona		4	12
+Minha Menina		4	142
+Minha Menina - Kizim		4	142
+Minha Menina - Querida Filha - Kizim		4	142
+Minha Mãe Cozinha Melhor Que a Sua		4	10
+Minha Nada Mole Vida		4	23
+Minha Namorada e o Cara		4	24
+Minha Patria - Vatanım Sensin		4	59
+Minha Página nos Anos 90		4	36
+Minha Querida Jornada		4	20
+Minha Receita		4	20
+Minha Vez de Amar		4	16
+Minha Vida Animal		4	6
+Minha Vida Maravilhosa - Sahane Hayatim		4	30
+Minha Vida Nada Ortodoxa		4	18
+Minha Vida Novamente		4	12
+Minha Vida Perfeita		4	97
+Minha Vida com a Família Walter	2023	4	30
+Minha fortuna é te amar		4	70
+Minha irmã é incrível		4	1
+Minha vida		4	355
+Minha vida - O Hayat Benim		4	405
+Minhas Aventuras com o Superman	2023	4	30
+Mini Caminhões	2016	4	47
+Ministerio da Verdade		4	12
+Minnie Toons	2011	4	20
+Minta Comigo		4	8
+Minx: Uma Para Elas		4	10
+Mira A Vida Depois do Divorcio - Mira Her Sey Yolundaymis Gibi		4	4
+Mira: A Detetive do Reino		4	25
+Miracle Workers	2019	4	23
+Miraculous Brothers		4	4
+Miraculous: As Aventuras de Ladybug	2015	4	187
+Mirage		4	6
+Misericordia - Merhamet		4	45
+Miss Governor		4	8
+Miss Hammurabi		4	17
+Miss KUROITSU from the Monster Development Department		4	24
+Miss Kobayashi's Dragon Maid		4	25
+Miss Kobayashis Dragon Maid		4	1
+Miss Monochrome		4	2
+Miss Scarlet		4	19
+Missa da Meia-Noite		4	7
+Missao 347		4	15
+Missao Aviao		4	10
+Missao Faxina com Ellen Milgrau		4	4
+Missao Silenciosa		4	8
+Missing Crown Prince		5	21
+Missions		5	12
+Missoes Secretas de Hitler		5	6
+Missão Sobrevivência		5	24
+Mister Brau		5	53
+Misterio de Um Milhao de Seguidores		5	8
+Misterios Animais		5	59
+Misterios Biblicos		5	6
+Misterios Inexplorados com Danny Trejo		5	8
+Misterios Revelados Edicao Alienigena		5	6
+Misterios Revelados Enigmas Militares		5	6
+Misterios da Antiguidade com Albert Lin		5	6
+Misterios da Arquitetura		5	6
+Misterios da natureza		5	26
+Misterios do Pantano		5	6
+Misterios e Lendas da Historia		5	8
+Misterios no Alasca		5	8
+Mistletoe Murders	2024	5	6
+Mistress Kanan is Devilishly Easy		5	2
+Misty Hearts		5	4
+Mistério de Anubis		5	112
+Mistério em Cemetery Road	2025	5	8
+Mistério na Neve: O Caso Karen Read		5	5
+Mistério no Mar	2023	5	12
+Mistérios da Barbie	2024	5	16
+Mistérios da Fé		5	4
+Mistérios de um Dentista		5	8
+Mistérios do Detetive Murdoch		5	265
+Mistérios no Gelo		5	6
+Mistérios sem Solução	2020	5	32
+Mito e Magnata: John Delorean		5	3
+Mo		5	8
+Mob Psycho 100	2016	5	74
+Mobile Suit Gundam GQuuuuuuX	2025	5	12
+Mobile Suit Gundam Requiem for Vengeance		5	6
+Mobile Suit Gundam Seed		5	8
+Mobile Suit Gundam Unicorn RE:0096		5	1
+Mobile Suit Gundam: The Origin		5	1
+Mobile Suit Gundam: The Witch from Mercury		5	49
+Mobius		5	31
+Modernos de Meia Idade		5	10
+Modus		5	9
+Mohi El Deen Ibn Arabi		5	30
+Molang		5	130
+Molly McGee e o Fantasma		5	40
+Mom		5	199
+Momentary Lily		5	1
+Momentos de calma		5	6
+Momma Named Me Sheriff		5	18
+Momonstros		5	52
+Monarca		5	18
+Monarch - Legado de Monstros	2023	5	20
+Monarch: O Legado do Country		5	11
+Money Flower		5	25
+Money ID A Identidade do Dinheiro		5	4
+Money e Violence		5	37
+Monk: Um Detetive Diferente		5	125
+Monkey Wrench	2022	5	5
+Monogatari		5	22
+Mononoke		5	12
+Monster	2004	5	148
+Monster High	2022	5	46
+Monster Musume no Iru Nichijou		5	12
+Monsterland		5	8
+Monstro do Amor		5	54
+Monstro do Pântano	2019	5	10
+Monstro: A História de Ed Gein	2025	5	8
+Monstro: A História de Lizzie Borden	2026	5	8
+Monstros Invisíveis		5	6
+Monstros da Cracóvia		5	8
+Monstros da Montanha		5	10
+Monstros da Montanha: Em Volta da Fogueira		5	8
+Monstros de Deus		5	4
+Monstros no Trabalho	2021	5	20
+Monstros vs. Alienígenas		5	40
+Monstros: Irmãos Menendez: Assassinos dos Pais	2024	5	18
+Montando a Banda		5	10
+Montanha Mortal		5	6
+Montanha da Morte: O Incidente na Passagem Dyatlov		5	14
+Montanhas Negras - Karadaglar		5	40
+Montecristo	2025	5	8
+Monteverde		5	35
+Moonhaven	2022	5	10
+Moonlight		5	63
+Moonshadow		5	1
+Moonshine		5	16
+Moorim School Saga of the Brave		5	16
+Morador Indesejado		5	9
+Morando na Estrada		5	39
+Morangos com Acucar		5	30
+Moranguinho na Cidade Grande	2021	5	40
+Morde & Assopra		5	179
+Morde e Assopra		5	179
+More than a Married Couple, but Not Lovers		5	24
+Moria		5	8
+Morko e Mali		5	52
+Morphle	2019	5	71
+Morphle e os Bichinhos Mágicos	2024	5	52
+Morra Meu Amor		5	12
+Morrendo por Sexo	2025	5	8
+Mortal Kombat: Legacy		5	29
+Morte E Rouxinóis		5	3
+Morte e Mentiras		5	6
+Morte e Mistério na Amazônia		5	3
+Morte no Deserto		5	7
+Morte no Parque		5	6
+Morte no Vale do Silício		5	3
+Mortel		5	12
+Mortos S.A.		5	26
+Moshidora		5	10
+Most Dangerous Game		5	26
+Motel Bates	2013	5	50
+Motel California		5	12
+Motel Melati A Serie		5	7
+Motel Valkirias	2023	5	8
+Motherland: Fort Salem	2020	5	30
+Motive		5	52
+Motorheads: Velozes e Apaixonados	2025	5	10
+Motorvalley		5	6
+Motos Sagradas		6	6
+Mouse		6	152
+Move		6	5
+Movidos a Diesel		6	75
+Movimento Mágico		6	2
+Mr Corman		6	10
+Mr Heart		6	9
+Mr Inbetween		6	35
+Mr McMahon		6	6
+Mr Mikamis Classroom		6	20
+Mr Selfridge		6	28
+Mr Unlucky Has No Choice but to Kiss		6	8
+Mr. Bean		6	14
+Mr. Bean A Série		6	14
+Mr. Bean: A Série Animada	2002	6	127
+Mr. Iglesias		6	12
+Mr. Mayor		6	5
+Mr. Mercedes		6	30
+Mr. Pickles	2014	6	36
+Mr. Plankton		6	10
+Mr. Robot	2015	6	45
+Mrs America		6	18
+Mrs Cop		6	16
+Mrs. Fletcher		6	7
+Ms Fisher's Modern Murder Mysteries		6	4
+Ms Incognito		6	24
+Ms Ma Nemesis		6	32
+Ms. Marvel		6	6
+Mucha Lucha		6	50
+Mudancas do Coracao		6	10
+Mugen No Ryvius		6	52
+Mugyutto! Black Clover	2019	6	16
+Muhammad Ali: O Maior		6	8
+Muhyo & Roji's Bureau of Supernatural Investigation		6	24
+Muito Assustador Mesmo		6	20
+Muito Esforçado	2025	6	8
+Muito Velho Para Morrer Jovem		6	10
+Mujhe Pyaar Hua Tha		6	32
+Mulher		6	62
+Mulher Arte		6	10
+Mulher Forte,Do Bong-soon		6	18
+Mulher Grávida, Amada pelo Marido Rico		6	1
+Mulher Maravilha		6	55
+Mulher Moderna - Modern Kadın		6	10
+Mulher americana		6	11
+Mulher de Madeira - Mujer De Madera		6	205
+Mulher-Aranha		6	16
+Mulher-Hulk: Defensora de Heróis		6	18
+Mulheres Apaixonadas		6	203
+Mulheres Asiáticas		6	6
+Mulheres Imperfeitas	2026	6	8
+Mulheres Incríveis de Bollywood		6	24
+Mulheres com Ombreiras		6	8
+Mulheres da Noite		6	10
+Mulheres de Areia		6	204
+Mulheres de Azul	2024	6	18
+Mulheres de Negro		6	15
+Mulheres de Negro - Mujeres de Negro - Vestidas Para o Luto		6	52
+Mulheres do Movimento		6	6
+Mulligan		6	20
+Mum Vida de Mae		6	14
+Mundo Bita		6	16
+Mundo CurioZoo		6	23
+Mundo Maravilhoso		6	38
+Mundo Mistério		6	8
+Mundo Ripilica: As Aventuras de Lilica, a Coala	2017	6	26
+Mundo da Lua		6	11
+Mundo em Chamas	2019	6	19
+Munich Games		6	6
+Muppet Babies: Dia de Brincadeiras		6	12
+Muppet Show		6	118
+Muppets e o Caos Elétrico		6	10
+Muquiranas	2012	6	24
+Muquiranas Brasil		6	8
+Murabito A ni Tensei Suru		6	12
+Murai in Love	2024	6	12
+Murder Drones		6	8
+Murder in a Small Town	2024	6	19
+Murderville		6	6
+Musafir Cafe		6	8
+Musashino		6	6
+Mushibugyo		6	52
+Mushoku Tensei: Jobless Reincarnation	2021	6	123
+Mushoku no Eiyuu Betsu ni Skill Nanka Iranakatta n da ga		6	1
+Music Box		6	1
+Mutante Rex	2010	6	61
+Mutantes 3: Promessas de Amor		6	105
+Muteking the Dancing Hero		6	12
+Mutiny: O Hotel da Cocaína	2024	6	8
+Muv Luv Alternative Total Eclipse		6	23
+My 20th Twenty		6	12
+My Awkward Senpai		6	2
+My Beautiful Man		6	10
+My Bias, My Boss		6	13
+My Boss		6	12
+My Brilliant Friend	2018	6	37
+My Daemon	2023	6	13
+My Dear Donavan		6	16
+My Dress-Up Darling	2022	6	72
+My Friends Little Sister Has It In for Me		6	1
+My Gift Lvl 9999 Unlimited Gacha		6	20
+My Happy End		6	2
+My Hero Academia		6	60
+My Hero Academia: Vigilantes	2025	6	209
+My Home Hero		6	24
+My Lawyer Mr Jo		6	60
+My Lethal Man		6	24
+My Little Pony:  A Amizade é Mágica	2010	6	117
+My Love		6	8
+My Love From The Star		6	21
+My Love, the Black Sea		6	3
+My Lovely Liar		6	16
+My Mad Fat Diary		6	12
+My Melody & Kuromi		6	12
+My Melody &amp; Kuromi		6	12
+My Melody e Kuromi		6	12
+My Name		6	8
+My Name is Kim Sam Soon		6	16
+My Only Sunshine		7	16
+My Plantito		7	7
+My Ribdiculous Reincarnation		7	1
+My Rival and Me		7	14
+My Royal Nemesis		7	14
+My Runway		7	6
+My Safe Zone		7	8
+My Son Jeffrey The Dahmer Family Tapes		7	4
+My Status as an Assassin Obviously Exceeds the Heros		7	1
+My Storm		7	10
+My Sweet Dear		7	8
+My Tee		7	12
+My Teen Romantic Comedy SNAFU		7	38
+My Tutor, My Love		7	9
+My Wife Has No Emotion		7	24
+Mya Go		7	52
+Mystery Road: Origin		7	6
+Mystic Nine		7	23
+Mystic Pop Up Bar		7	24
+Mythic Quest	2020	7	40
+Mythic Quest Raven's Banquet	2020	7	37
+Mytho		7	6
+Mythomaniac		7	24
+Má Fortuna		7	8
+Má Influencer		7	7
+Má Influência: O Lado Sombrio dos Influencers Infantis		7	3
+Máfia: O Reality		7	16
+Mágica Mortal		7	8
+Mágica para a Humanidade		7	19
+Mágica para a Humanidade: Espanha		7	6
+Máquina Mortífera	2016	7	55
+Máscaras		7	125
+Máscaras de Oxigênio Não Cairão Automaticamente	2025	7	5
+Máxima	2024	7	12
+Mãe		7	159
+Mãe Só Tem Duas		7	27
+Mãe solteira em fuga, segura em seus braços		7	1
+Mães A madas		7	13
+Mães da Máfia		7	6
+Mães: Amor e Vida		7	26
+Mão de Deus	2014	7	20
+Mão de Ferro	2024	7	8
+Médicos em Colapso	2024	7	16
+mar		7	15
+mixed-ish		7	23
+mono		7	12
