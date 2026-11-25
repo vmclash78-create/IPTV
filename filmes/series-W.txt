@@ -106,8 +106,8 @@ Witness Number 3		0	4
 Wizard Barristers: Benmashi Cecil		0	24
 Woke		0	4
 Wolf	2011	0	100
-Wolf	2023	0	100
 Wolf	2011	0	100
+Wolf	2023	0	100
 Wolf Creek		0	10
 Wolf Hall		0	6
 Wolf Pack		0	8

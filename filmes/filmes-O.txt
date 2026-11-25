@@ -1059,6 +1059,7 @@ O Fantástico Robin Crusoé	dub=18:54227
 O Fantástico Sr. Raposo	dub=18:10315,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12046.mp4
 O Fanático	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45209.mp4
 O Farol	dub=18:503919,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28944.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290775.mp4
+O Farol de Natal	dub=18:1180814
 O Fascinante Mundo dos Corais (2021)	dub=18:890601,https://embedplayer2.xyz/cdn/hls/34d22f57aab916722f8eef20111effcf/master.txt
 O Fascínio (2020)	dub=18:217786,18:741998,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50443.mp4
 O Favor (2025)	dub=18:1447032
@@ -3017,6 +3018,7 @@ O Último Navio Negreiro (2022)	dub=18:913822,https://embedplayer2.xyz/cdn/hls/b
 O Último Paciente	dub=18:934287,https://embedplayer2.xyz/cdn/hls/1805619046dd895c847e20b06d2bbabe/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45473.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84441.mp4
 O Último Papa	dub=18:324916
 O Último Passageiro	dub=18:104329
+O Último Pedido	dub=18:1655112
 O Último Portal	dub=18:622,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51006.mp4	leg=18:622.mp4?lang=leg
 O Último Refúgio	dub=https://embedplayer2.xyz/cdn/hls/04009c0ef66a197d9693de574a3ad706/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36276.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84453.mp4
 O Último Refúgio (2018)	dub=18:472715,18:1123278	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301198.mp4

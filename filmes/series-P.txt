@@ -272,7 +272,7 @@ Pintando com John		2	12
 Pinóquio		2	20
 Pinóquio e seus Amigos		2	13
 Pioneiros do Velho Oeste		2	4
-Pionek		2	4
+Pionek		2	6
 Pipoca da Ivete		2	25
 Pisando Fundo		2	10
 Piscinas Incríveis		2	16
@@ -536,6 +536,7 @@ Puella Magi Madoka Magica		4	24
 Puffin Rock		4	26
 Pui Pui - Porquinhos com Rodinhas	2021	4	4
 Pulso	2025	4	10
+Punho da Estrela do Norte		4	155
 Punida Pelo Seu Amor		4	1
 Punky Brewster		4	10
 Punky, A Levada Da Breca		4	106

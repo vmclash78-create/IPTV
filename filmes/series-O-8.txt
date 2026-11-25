@@ -1589,6 +1589,7 @@
 37	18	dub	http://64.31.23.207:80/series/96795792/50165825/5430658.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313697.mp4,https://saimo-tv.pages.dev/api/stream?tipo=series&id=456&s=37&e=18&versao=dub
 38	1	dub	19:456/38/1,http://64.31.23.207:80/series/96795792/50165825/5727963.mp4
 38	2	dub	19:456/38/2
+38	3	dub	19:456/38/3
 @Os Smurfs
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5421800.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126577.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126578.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5421801.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126579.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/126580.mp4

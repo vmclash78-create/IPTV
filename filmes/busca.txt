@@ -1170,6 +1170,7 @@ A Discussão	f	A
 A Disputa (2021)	f	A
 A Disputa do Natal	f	A
 A Disputa dos Confeiteiros Halloween	s	A
+A Disputa dos Confeiteiros: Natal	s	A
 A Disputa dos Confeiteiros: Primavera	s	A
 A Disputa dos Sexos	f	A
 A Ditadura Perfeita	f	A
@@ -1243,6 +1244,7 @@ A Era do Gelo Especial de Natal	f	A
 A Era do Gelo O Big Bang	f	A
 A Era do Gelo: A Grande Caçada aos Ovos de Páscoa	f	A
 A Era do Gelo: As Aventuras de Buck (2022)	f	A
+A Era do Gelo: Histórias do Scrat	s	A
 A Era do Rádio	f	A
 A Era dos Dados	s	A
 A Era dos Dragões	f	A
@@ -2158,6 +2160,7 @@ A Lição	f	A
 A Lição	s	A	2022
 A Lição de Moremi	f	A
 A Lição Fatal (2021)	f	A
+A Loja de Plantas Retrô da Mikey e da Joanna	s	A
 A Loja Magica de Brinquedos (2007)	f	A
 A LOJINHA DO APOCALIPSE	f	A
 A Longa Caminhada de Billy Lynn (2016)	f	A
@@ -2208,6 +2211,7 @@ A Magia de Sonhar	f	A
 A Magia de um Sonho (2011)	f	A
 A Magia do Disney's Animal Kingdom	s	A
 A Magia do Natal	f	A
+A Magia dos Jardins	s	A
 A Maior Companhia de Navegacao do Mundo	s	A
 A Maior História de Amor Nunca Contada (2024)	f	A
 A Maior História de Todos os Tempos	f	A
@@ -2796,6 +2800,7 @@ A Presa (2016)	f	A
 A Presenca (2020)	f	A
 A Presepada (2018)	f	A
 A Prima Sofia	f	A
+A Primavera da Lâmina	s	A
 A Primavera Espetacular de Moranguinho	f	A
 A Primeira Arte	s	A
 A PRIMEIRA BAILARINA DESAPARECEU	f	A
@@ -2983,6 +2988,7 @@ A Redenção de Gabriel: Part III	f	A
 A Redenção de Jackson	f	A
 A Redenção de Jake	f	A
 A Redenção – A História Real de Bonhoeffer	f	A
+A Reforma de Lindsey	s	A
 A Regra do Jogo	s	A
 A Reinvencao do Flamengo	s	A
 A REJEITADA LUNA VOLTOU COM UM FILHO	f	A
@@ -4564,6 +4570,7 @@ American Chopper	s	A
 American Crime	s	A
 American Crime Story	s	A	2016
 American Dad!	s	A	2005
+American Doctor	f	A
 American Dragons: Os Vingadores	f	A
 American Dream	f	A
 American Dream - Um Reality Sangrento	f	A
@@ -7540,6 +7547,7 @@ Blade II: O Caçador de Vampiros (2002)	f	B
 Blade O Cacador de Vampiros (1998)	f	B
 Blade of the Immortal	s	B
 Blade Runner (2049)	f	B
+Blade Runner 2099	s	B	2099
 Blade Runner O Caçador de Andróides	f	B
 Blade Trinity	f	B
 Bladedance of Elementalers	s	B
@@ -9219,6 +9227,7 @@ Chevalier (2023)	f	C
 Chevalier [Hybrid}	f	C
 Chevrolet Azul	f	C
 Chewing Gum	s	C
+Chiara Ferragni: De Frente	f	C
 ChiaroScuro	s	C
 Chibi Tiny Tales	s	C	2020
 Chibiverso	s	C
@@ -13749,6 +13758,7 @@ Era Uma Vez Em Staten Island (2021)	f	E
 Era Uma Vez em Ucrânia	f	E
 Era Uma Vez em… Hollywood (2019)	f	E
 Era Uma Vez Eu, Verônica	f	E
+Era Uma Vez Minha 1ª Vez	f	E
 Era Uma Vez Minha Mãe	f	E
 Era Uma Vez na America (1984)	f	E
 Era Uma Vez na China	f	E
@@ -14702,6 +14712,7 @@ Fatale Déliss	f	F
 Fate Chooses You	s	F
 Fate/Apocrypha	s	F
 Fate/stay night	s	F	2006
+Fate/Zero	s	F
 Fate: A Saga Winx	s	F
 Fated to Love You	s	F
 Fatekaleid liner Prisma Illya	s	F
@@ -16589,6 +16600,7 @@ Happy Merry Ending	s	H
 Happy Patel Khatarnak Jasoos	f	H
 Happy Tree Friends	s	H
 Happy Valley	s	H
+Haps: Crime Doesn&#039;t Pay	f	H
 Haq	f	H
 Harbinger Down - Terror no Gelo	f	H
 Hard	s	H
@@ -19327,6 +19339,7 @@ La Vem os Pais	f	L
 La venganza de los Ex	s	L
 La Venue de l'avenir	f	L
 La Verónica	f	L
+La Vie pour de vrai	f	L
 Lab Rats	s	L
 Lab Rats: Força Elite	s	L
 Labios de Falsas Verdades	s	L
@@ -22971,6 +22984,7 @@ My Christmas Guide	f	M
 My Daemon	s	M	2023
 My Dear Donavan	s	M
 My Dress-Up Darling	s	M	2022
+My Ex&#039;s Wedding	s	M
 My First Film	f	M
 My First Summer	f	M
 My Friends Little Sister Has It In for Me	s	M
@@ -25582,6 +25596,7 @@ O Fantástico Sr. Raposo	f	O
 O Fanático	f	O
 O Farejador	s	O
 O Farol	f	O
+O Farol de Natal	f	O
 O Fascinante Mundo dos Corais (2021)	f	O
 O Fascínio (2020)	f	O
 O Favor (2025)	f	O
@@ -27977,6 +27992,7 @@ O Último Navio Negreiro (2022)	f	O
 O Último Paciente	f	O
 O Último Papa	f	O
 O Último Passageiro	f	O
+O Último Pedido	f	O
 O Último Portal	f	O
 O Último Refúgio	f	O
 O Último Refúgio (2018)	f	O
@@ -30610,6 +30626,7 @@ Porto dos Milagres	s	P
 Porto Papel	s	P
 Porto Príncipe	f	P
 Portrait Of A Lady On Fire	f	P
+Portrait of an Artist: Stephen Curry	f	P
 Portugal Show	s	P
 Portugal... Minha Saudade	f	P
 Portugal: Ecossistemas Extremos	f	P
@@ -31135,6 +31152,7 @@ Pumpkinhead: A Vingança do Diabo	f	P
 Pumpkinhead: De Volta das Cinzas	f	P
 Pumpkinhead: O Retorno	f	P
 Punhal	f	P
+Punho da Estrela do Norte	s	P
 Punhos da Vingança	f	P
 Punhos de Aço	f	P
 Punhos de Aço: Um Lutador de Rua	f	P
@@ -32213,6 +32231,7 @@ Rensga Hits!	s	R	2022
 Rent A Girlfriend	s	R
 Rent-A-Pal (2020)	f	R
 Rent: Os Boêmios	f	R
+Repair	f	R
 REPARANDO UM AMOR DESTRUIDO	f	R
 Reparos em Família	s	R	2025
 Repatriado	s	R
@@ -32527,6 +32546,7 @@ Road Home	s	R
 Road to Damascus	f	R
 Road Wars: Max Fury (2024)	f	R
 Roadkill	s	R
+Rob Lowe: The Outsider	f	R
 Rob Peace	f	R
 Rob1n: Inteligência Assassina (2025)	f	R
 Robbie	s	R
@@ -34956,6 +34976,7 @@ Star Wars: O Despertar da Força (2015)	f	S
 Star Wars: Rebels	s	S	2014
 Star Wars: Skeleton Crew	s	S	2024
 Star Wars: The Bad Batch	s	S	2021
+Star Wars: The Clone Wars	s	S
 Star Wars: Visions	s	S	2021
 Star Wars: Visions Apresenta — A Nona Jedi	s	S	2026
 Star-Crossed	s	S
@@ -35120,6 +35141,7 @@ Submersa: O Desaparecimento de Kim Wall	s	S
 Submersos	f	S
 Submersos	s	S
 Submersão	f	S
+Submission	f	S
 Submissão (2020)	f	S
 Submissão - Uma Luta Pela Qual Vale a Pena Morrer	f	S
 Submundo - Yeralti -Underground	s	S
@@ -36511,6 +36533,7 @@ The Morning Show	s	T	2019
 The Morose Mononokean	s	T
 The Mortuary Assistant (2026)	f	T
 The Mortuary Collection	f	T
+The Mosquito Bowl	f	T
 The Mountain Within Me	f	T
 The Munsters	f	T
 The Muppet Show	f	T
@@ -38065,6 +38088,7 @@ Um Caso do Outro Mundo	f	U
 Um Caso Muito Sério	f	U
 Um Castelo para o Natal	f	U
 Um Cavalheiro em Moscou	s	U	2024
+Um Certo Capitão Lockhart	f	U
 Um Chamado de Esperança	f	U
 Um Chamado Especial	f	U
 Um Chamado Natalino (2023)	f	U
@@ -38225,6 +38249,7 @@ Um Filho que Caiu do Céu (2017)	f	U
 Um Filme de Cinema (2023)	f	U
 Um Filme Falado	f	U
 Um Filme Minecraft (2025)	f	U
+Um Filme para Beatrice	f	U
 Um Fim De Semana Com Holly (2020)	f	U
 Um Fim de Semana de Inverno	f	U
 Um Fim de Semana Diferente	f	U
@@ -39013,6 +39038,7 @@ Uma Razão para Recomeçar (2016)	f	U
 Uma Razão para Vencer	f	U
 Uma Razão para Viver	f	U
 Uma Relação Delicada (2020)	f	U
+Uma Reportagem de Natal	f	U
 Uma Repórter em Apuros	f	U
 Uma Ressaca de 9 Meses (2016)	f	U
 UMA ROSA CLARA	f	U

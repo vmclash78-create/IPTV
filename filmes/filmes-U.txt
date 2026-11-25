@@ -164,6 +164,7 @@ Um Caso de Amor	dub=18:174316
 Um Caso de Detetive	dub=18:720755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20206.mp4
 Um Caso do Outro Mundo	dub=18:1548121,https://embedplayer2.xyz/cdn/hls/7d3c966fa35ccfcd15e094f3ef8273f6/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1215.mp4
 Um Castelo para o Natal	dub=18:758879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40340.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93240.mp4
+Um Certo Capitão Lockhart	dub=18:18264
 Um Chamado Especial	dub=18:305215,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32448.mp4
 Um Chamado Natalino (2023)	dub=18:1001884,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58992.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34792.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93245.mp4
 Um Chamado de Esperança	dub=18:1042933,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32452.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93229.mp4
@@ -299,6 +300,7 @@ Um Filho que Caiu do Céu (2017)	dub=18:443398
 Um Filme Falado	dub=18:95536
 Um Filme Minecraft (2025)	dub=18:950387,https://embedplayer2.xyz/cdn/hls/c1a498793bc8713cf5b9fa0b2c5842ed/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59027.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20269.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93451.mp4
 Um Filme de Cinema (2023)	dub=18:453035,18:360113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39509.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301416.mp4
+Um Filme para Beatrice	dub=18:1262161
 Um Fim De Semana Com Holly (2020)	dub=18:641483,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20279.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93456.mp4
 Um Fim de Semana Diferente	dub=18:347881
 Um Fim de Semana Prolongado	dub=18:635012,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43175.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93476.mp4
@@ -513,7 +515,7 @@ Um Natal em Montana	dub=18:881857,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Um Natal na Suíça	dub=18:1012042,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53292.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93810.mp4
 Um Natal nas Estrelas (2019)	dub=18:629985
 Um Natal no Castelo (2020)	dub=18:737779,https://embedplayer2.xyz/cdn/hls/f6a7f0a8f7dcdd0ef869f91b60a7f197/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40427.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93831.mp4
-Um Natal no Rancho	dub=18:805973,https://embedplayer2.xyz/cdn/hls/11c13634d9d2cbd684cc859d30b09d4a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1247.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93815.mp4
+Um Natal no Rancho	dub=18:805973,https://embedplayer2.xyz/cdn/hls/11c13634d9d2cbd684cc859d30b09d4a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1247.mp4	leg=18:1374847.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93815.mp4
 Um Natal para Chueco (2023)	dub=18:1219491,https://embedplayer2.xyz/cdn/hls/c7c21688c4c2113d961d0065b2900d99/master.txt
 Um Natal para Lembrar	dub=18:876104,https://embedplayer2.xyz/cdn/hls/a8d2b4254ed8223322239edd7d1d1535/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1251.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93836.mp4
 Um Natal para Recordar (2019)	dub=18:630894
@@ -998,6 +1000,7 @@ Uma Razão para Recomeçar (2016)	dub=18:444951
 Uma Razão para Vencer	dub=18:425373
 Uma Razão para Viver	dub=18:407445,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43301.mp4
 Uma Relação Delicada (2020)	dub=18:179100,18:736298,https://embedplayer2.xyz/cdn/hls/400c9c12df8de76b80cfc7bfa16f63d3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32944.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94688.mp4
+Uma Reportagem de Natal	leg=18:1127953.mp4?lang=leg
 Uma Repórter em Apuros	dub=18:279641
 Uma Ressaca de 9 Meses (2016)	dub=18:369299,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20678.mp4
 Uma Roubada em Família	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94683.mp4

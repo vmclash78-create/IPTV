@@ -763,6 +763,7 @@ Cherry: Inocência Perdida (2021)	dub=18:544401,https://embedplayer2.xyz/cdn/hls
 Chevalier (2023)	dub=18:812635,https://embedplayer2.xyz/cdn/hls/32e049d558fa23d73274c586b54a7d21/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24615.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67530.mp4
 Chevalier [Hybrid}	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55197.mp4
 Chevrolet Azul	dub=18:158739
+Chiara Ferragni: De Frente	dub=18:1829270
 Chic Show	dub=18:1140396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37956.mp4
 Chicago	dub=18:1574,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13890.mp4	leg=18:1574.mp4?lang=leg
 Chichén Itzá: A Lenda da Caverna	dub=18:743270

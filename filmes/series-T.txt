@@ -412,7 +412,7 @@ The L Word		3	125
 The L Word Generation Q		3	8
 The L Word: Geração Q		3	26
 The Lady And The Dale		3	4
-The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life		3	14
+The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life		3	16
 The Land Of Warriors		3	76
 The Larkins		3	12
 The Last Kingdom	2015	3	46
@@ -868,7 +868,7 @@ Tudo ou Nada: Manchester City		7	8
 Tudo ou Nada: Tottenham Hotspur		7	18
 Tudo por Ouro		7	187
 Tudo pra Ontem	2023	7	8
-Tudo é Justo	2025	7	13
+Tudo é Justo	2025	7	14
 Tulsa King	2022	7	35
 Tumulos que Falam		7	3
 Tunnel		7	16

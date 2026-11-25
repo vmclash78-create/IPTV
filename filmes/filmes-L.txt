@@ -79,6 +79,7 @@ La Situación	dub=18:1004294,https://embedplayer2.xyz/cdn/hls/4332cf27244397b847
 La Vem os Pais	dub=18:465109,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15926.mp4
 La Venue de l'avenir	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76615.mp4
 La Verónica	dub=18:737288,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27235.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76549.mp4
+La Vie pour de vrai	dub=18:967370	leg=18:967370.mp4?lang=leg
 La boda de Rosa (2020)	dub=18:679888,https://embedplayer2.xyz/cdn/hls/48fca0eb13a0b0f4ffbc26a62e2bf3c1/master.txt
 La coda del diavolo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/626.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76528.mp4
 La coleccionista	dub=18:1518257

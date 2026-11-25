@@ -370,13 +370,13 @@ ChiaroScuro		3	8
 Chibi Tiny Tales	2020	3	16
 Chibiverso		3	4
 Chica Vampiro		3	120
-Chicago Fire	2012	3	298
-Chicago Fire: Heróis Contra o Fogo	2012	3	298
+Chicago Fire	2012	3	299
+Chicago Fire: Heróis Contra o Fogo	2012	3	299
 Chicago Justice A Servico da Lei		3	13
-Chicago Med	2015	3	224
-Chicago Med: Atendimento de Emergência	2015	3	224
-Chicago P.D.: Distrito 21	2014	3	267
-Chicago PD	2014	3	267
+Chicago Med	2015	3	225
+Chicago Med: Atendimento de Emergência	2015	3	225
+Chicago P.D.: Distrito 21	2014	3	268
+Chicago PD	2014	3	268
 Chicken Nugget		3	10
 Chico Anysio Um Homem a Procura de Um Personagem		3	5
 Chico Xavier: A Série		3	6

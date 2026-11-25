@@ -238,8 +238,8 @@ Greenleaf		1	61
 Gremlins: Segredos dos Mogwai		1	20
 Greta Thunberg: Um Ano para Mudar O Mundo		1	3
 Gretel e o Hamster		1	30
-Grey's Anatomy	2005	2	467
-Greys Anatomy	2005	2	467
+Grey's Anatomy	2005	2	468
+Greys Anatomy	2005	2	468
 Grid		2	10
 Grimm		2	123
 Grimm: Contos de Terror	2011	2	123

@@ -71,7 +71,7 @@ Venha o que vier - Kendi Düşen Ağlamaz		0	27
 Venus em Marte		0	6
 Vera		0	37
 Verao Passado		0	12
-Verdade Oculta	2025	0	14
+Verdade Oculta	2025	0	15
 Verdades Não Ditas		0	33
 Verdades Ocultas - Yaz'in Oykusu - Story of Summer		0	31
 Verdades Secretas		0	64

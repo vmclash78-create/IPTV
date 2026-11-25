@@ -3133,6 +3133,7 @@ Amei Um Bicheiro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZj
 America	dub=18:1571988	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314474.mp4
 America: The Motion Picture (2021)	dub=18:739542,https://embedplayer2.xyz/cdn/hls/01de910d53350e0ce44f13d86f6515f2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1996.mp4
 American Cherry	dub=18:1089370,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315413.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315414.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315409.mp4
+American Doctor	leg=18:1596332.mp4?lang=leg
 American Dragons: Os Vingadores	dub=18:88297
 American Dream	leg=18:820151.mp4?lang=leg,18:777670.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63662.mp4
 American Dream - Um Reality Sangrento	dub=18:726507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47634.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63677.mp4

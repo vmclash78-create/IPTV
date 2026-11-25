@@ -675,6 +675,7 @@ The Moment	dub=18:1422562,https://embedplayer2.xyz/cdn/hls/c8017401fedb0fe58eff9
 The Moogai	dub=18:730780
 The Mortuary Assistant (2026)	dub=18:1470130,https://embedplayer2.xyz/cdn/hls/12af7cec12583418841a7c370ef0cc03/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313735.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313746.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250594.mp4
 The Mortuary Collection	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91703.mp4
+The Mosquito Bowl	dub=18:1458300
 The Mountain Within Me	dub=18:1294134,https://embedplayer2.xyz/cdn/hls/471c48e8542b7d127b5d097f8bf1b369/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91709.mp4
 The Munsters	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19872.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91715.mp4
 The Muppet Show	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96687.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96845.mp4

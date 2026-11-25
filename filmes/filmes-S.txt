@@ -1475,6 +1475,7 @@ Sublime Amor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XA
 Submarino	dub=18:49020
 Submersos	dub=18:12590
 Submersão	dub=18:375327
+Submission	dub=18:414454
 Submissão (2020)	dub=18:736771,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31859.mp4
 Submissão - Uma Luta Pela Qual Vale a Pena Morrer	dub=18:506403,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290741.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290789.mp4
 Submundo das Lutas (2016)	dub=18:286339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7400.mp4

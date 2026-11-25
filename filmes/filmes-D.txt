@@ -995,7 +995,7 @@ Do Lado de Fora	dub=18:262782
 Do Mundo Nada Se Leva	dub=18:34106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14548.mp4
 Do Not Disturb	dub=18:985883,18:379987,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14553.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70338.mp4
 Do Outro Lado da Dor	dub=https://embedplayer2.xyz/cdn/hls/71ddaa2e04896ec737987dabf244af72/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312529.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14557.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70340.mp4
-Do Outro Lado da Fronteira (2019)	dub=18:615946,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14570.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70344.mp4
+Do Outro Lado da Fronteira (2019)	dub=18:615946,18:381018,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14570.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70344.mp4
 Do Outro Lado da Lei	dub=18:729648,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34985.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70354.mp4
 Do Outro Lado da Linha (2007)	dub=18:17334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14561.mp4
 Do Outro Lado da Porta	dub=18:364116

@@ -399,6 +399,7 @@ Renoir	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31
 Renovação do Coração (2019)	dub=18:680977,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42785.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88049.mp4
 Rent-A-Pal (2020)	dub=18:707408,https://embedplayer2.xyz/cdn/hls/5d85e106eb7d8b39c4a69401f6da6aa9/master.txt	leg=18:707408.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88056.mp4
 Rent: Os Boêmios	dub=18:1833
+Repair	leg=18:1082989.mp4?lang=leg
 Repay It in Blood (2026)	dub=18:1612424	leg=https://embedplayer2.xyz/cdn/hls/6217e96d63b3990da81ab2a1c2839444/master.txt
 Repetente	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88061.mp4
 Replicante (2001)	dub=18:10596,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6896.mp4
@@ -594,6 +595,7 @@ Riverdance Uma Aventura Dançante	dub=18:756403,http://dbonline.tech-cdn.top:80/
 Rize	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88359.mp4
 Road Wars: Max Fury (2024)	dub=18:1288104,https://embedplayer2.xyz/cdn/hls/e22f0f402e9ff516444121564c8459c2/master.txt	leg=https://embedplayer2.xyz/cdn/hls/7408f74c0bfb7d0459889e91fc3f9b8f/master.txt
 Road to Damascus	dub=18:803906
+Rob Lowe: The Outsider	dub=18:1802703
 Rob Peace	dub=18:1084514,https://embedplayer2.xyz/cdn/hls/d1adc3acb4f1269cf0e16f498781dba2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58365.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97679.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31246.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88365.mp4
 Rob1n: Inteligência Assassina (2025)	dub=18:1443260,https://embedplayer2.xyz/cdn/hls/d5829b501d88a8bea61433ee5c0267f0/master.txt
 Robert The Bruce	dub=18:532812	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88354.mp4

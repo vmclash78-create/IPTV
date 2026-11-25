@@ -52,7 +52,7 @@ Sacha		0	3
 Saco de Ossos		0	2
 Sacred Seven		0	24
 Sacrificio - Fedakar		0	50
-Sacrifício		0	20
+Sacrifício		0	21
 Sacrifício de Sangue	2026	0	5
 Safe	2018	0	8
 Safe Harbour		0	4
@@ -729,6 +729,7 @@ Star Wars: Maul - Lorde das Sombras	2026	6	20
 Star Wars: Rebels	2014	6	72
 Star Wars: Skeleton Crew	2024	6	8
 Star Wars: The Bad Batch	2021	6	48
+Star Wars: The Clone Wars		6	126
 Star Wars: Visions	2021	6	27
 Star Wars: Visions Apresenta — A Nona Jedi	2026	6	8
 Star and Sky Star in My Mind		6	8
@@ -838,7 +839,7 @@ Super Dragon Ball Heroes		6	51
 Super Drags	2018	6	5
 Super Família		6	26
 Super Fofos Aventura na Cidade		6	13
-Super Gatinhos: Miauvilhosamente Recarregados	2024	6	20
+Super Gatinhos: Miauvilhosamente Recarregados	2024	7	20
 Super Junior: The Last Man Standing		7	4
 Super Lovers		7	20
 Super Mega Cakes		7	6

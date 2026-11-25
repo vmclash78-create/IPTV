@@ -332,6 +332,7 @@ Black Summoner		2	24
 Black ish		2	154
 Blackout: Tarde Demais		2	6
 Blade A Serie		2	14
+Blade Runner 2099	2099	2	8
 Blade of the Immortal		2	26
 Blanca		2	18
 Blaze E Os Monster Machines		2	20
@@ -359,7 +360,7 @@ Bloom		2	11
 Bloom Life		2	15
 Blossom		2	113
 Blossoms Shanghai		2	30
-Blossoms Shanghai (2023)		2	30
+Blossoms Shanghai (2023)		3	30
 Blue Archive The Animation		3	11
 Blue Bloods	2010	3	345
 Blue Box	2024	3	61
@@ -477,7 +478,7 @@ Brilho Perfeito		3	11
 Brincando com Fogo	2020	3	57
 Brincando com Fogo Alemanha		3	18
 Brincando com Fogo Espanha		3	8
-Brincando com Fogo: America Latina		3	8
+Brincando com Fogo: America Latina		4	8
 Brincando com Fogo: Brasil		4	16
 Brincando com Fogo: Itália		4	8
 Brincando com Puppy Dog Pals	2018	4	8

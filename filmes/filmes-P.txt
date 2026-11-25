@@ -969,6 +969,7 @@ Portal dos Sonhos	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZ
 Portaria 243	dub=18:490803
 Porto Príncipe	dub=18:1174614,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39126.mp4
 Portrait Of A Lady On Fire	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86680.mp4
+Portrait of an Artist: Stephen Curry	leg=18:1756286.mp4?lang=leg
 Portugal... Minha Saudade	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256235.mp4
 Portugal: Ecossistemas Extremos	dub=18:751545
 Portões do Inferno	dub=18:1205225,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308420.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308424.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308381.mp4

@@ -318,7 +318,7 @@ O Jogo da Morte	2023	2	16
 O Jogo da Piramide		2	19
 O Jogo da Vida - Tozluyaka		2	18
 O Jogo das Chaves		2	22
-O Jogo do Diabo		2	34
+O Jogo do Diabo		2	38
 O Jovem Papa		2	10
 O Jovem Wallander		2	12
 O Juiz do Diabo		2	16
@@ -504,7 +504,7 @@ O Que a Vida Me Roubou		4	197
 O Quinteto		4	119
 O Quinto dos Infernos		4	47
 O RANCHO	2020	4	81
-O Rastreador	2024	4	55
+O Rastreador	2024	4	56
 O Rato		4	10
 O Rato Esponja		4	7
 O Rebu		4	36
@@ -562,7 +562,7 @@ O Segredo do Templo - Atiye		4	24
 O Segredo dos Animais A Serie		4	51
 O Segundo Melhor Hospital da Galáxia	2024	4	16
 O Senhor das Moscas	2026	4	4
-O Senhor dos Anéis: Os Anéis de Poder	2022	4	22
+O Senhor dos Anéis: Os Anéis de Poder	2022	4	24
 O Senhor e a Serva		4	10
 O Sequestro do Voo 601		4	6
 O Servente Supremo		4	1
@@ -992,7 +992,7 @@ Os Sete Pecados Capitais	2014	8	96
 Os Sete Pecados Capitais - Nanatsu no Taizai	2023	8	36
 Os Sete Pecados Capitais Os Quatro Cavaleiros do Apocalipse		8	36
 Os Sete Relógios de Agatha Christie	2026	8	3
-Os Simpsons	1989	8	823
+Os Simpsons	1989	8	824
 Os Smurfs		8	104
 Os Substitutos		8	21
 Os Suburbanos		8	130

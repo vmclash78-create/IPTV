@@ -33268,6 +33268,7 @@ s	Star Wars: Maul - Lorde das Sombras	Ação e aventura,Animação,Ficção e fa
 s	Star Wars: Rebels	Ação e aventura,Animação,Ficção e fantasia
 s	Star Wars: Skeleton Crew	Ação e aventura,Ficção e fantasia,Família
 s	Star Wars: The Bad Batch	Animação,Ação e aventura,Ficção e fantasia
+s	Star Wars: The Clone Wars	Ação e aventura,Ficção e fantasia,Animação
 s	Star Wars: Visions	Animação,Ficção e fantasia,Ação e aventura
 s	Star Wars: Visions Apresenta — A Nona Jedi	Animação,Ficção e fantasia,Ação e aventura
 s	Stardust Telepath	Animação,Comédia,Ficção e fantasia

@@ -590,6 +590,7 @@
 2	2	dub	19:258742/2/2,http://64.31.23.207:80/series/96795792/50165825/5726871.mp4
 2	3	dub	19:258742/2/3,http://64.31.23.207:80/series/96795792/50165825/5726872.mp4
 2	4	dub	19:258742/2/4
+2	5	dub	19:258742/2/5
 @Tulsa King	2022
 1	1	dub	19:153312/1/1,http://64.31.23.207:80/series/96795792/50165825/5622048.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233134.mp4
 1	2	dub	19:153312/1/2,https://embedplayer2.xyz/cdn/hls/1a0a5912ca9c665c2ef9eded16d59b87/master.txt,http://64.31.23.207:80/series/96795792/50165825/5622049.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233135.mp4

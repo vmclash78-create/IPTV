@@ -3204,6 +3204,7 @@ f	Amei Um Bicheiro	143373	/iUF2N6BBAXaNsoWrRtJltuYWREa.jpg	Drama,Crime
 f	America	271110	/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg	Aventura,Ação,Ficção científica
 f	America: The Motion Picture (2021)	739542	/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg	Animação,Ação,Comédia
 f	American Cherry	1089370	/gzGNZiUgihaGWb2tLOfHZmBPZVy.jpg	Suspense,Romance
+f	American Doctor		/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg	
 f	American Dragons: Os Vingadores	88297	/8EGIFPXUqA5GvyqcXzMBBEXzOfQ.jpg	Ação,Crime
 f	American Dream	777670	/woKiBAt9aFnkRr1HZ9Bq1FQe6gS.jpg	Drama
 f	American Dream - Um Reality Sangrento	726507	/pY8zP4IJPwUqCPedS3akEVIoZdu.jpg	Terror,Suspense
@@ -6150,6 +6151,7 @@ f	Cherry Tree	344593	/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg	Terror
 f	Cherry: Inocência Perdida (2021)	544401	/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg	Drama,Crime
 f	Chevalier (2023)	812635	/5uKvfGF12cFr2Jblj7wFYm7AFgG.jpg	Música,Drama,História
 f	Chevrolet Azul	158739	/cb26MlJHJkgXXsBMYTURhrJ0vB2.jpg	Crime,Drama,Suspense
+f	Chiara Ferragni: De Frente		/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg	
 f	Chic Show	1140396	/8MugCY7WP3eXTIWM574ncrr8WKr.jpg	Documentário
 f	Chicago	1574	/r3ZluYmNgfow3HokBDmIp9GLFE2.jpg	Comédia,Crime,Drama
 f	Chichén Itzá: A Lenda da Caverna	743270	/xJKchsih91c8hDtJcYXEGQctupv.jpg	Documentário,História,Mistério
@@ -9132,6 +9134,7 @@ f	Era Uma Vez Em Staten Island (2021)	524417	/uRosrdHtJQw1q2Y40juR7HLCEKu.jpg	Dr
 f	Era Uma Vez em Ucrânia	684308	/tew3ITqRpPBDGrNSXjPOwd3RmWN.jpg	Aventura,Comédia,Ação
 f	Era Uma Vez em… Hollywood (2019)	466272	/zgr02U2Fh0sR5JtaAXY5yBU1wka.jpg	Comédia,Drama,Suspense
 f	Era Uma Vez Eu, Verônica	128149	/jZrucIQ5FAI4OGxqbvJcYH0TZU3.jpg	Drama
+f	Era Uma Vez Minha 1ª Vez		/6byulzTctYTBIvJGS4bsNSnmBof.jpg	
 f	Era Uma Vez Minha Mãe	1107215	/yNuUFasXoOal2oRiYLzGEXqO5V5.jpg	Drama,Comédia
 f	Era Uma Vez na America (1984)	311	/ojfEiNOBX7eqh4fDhRhNDTwb38R.jpg	Drama,Crime
 f	Era Uma Vez na China		/5xskv7tNnqFAqFOdHamkQBvtaiw.jpg	
@@ -10943,6 +10946,7 @@ f	Happy Feet 2: O Pinguim (2011)	65759	/kp8ADtdIyNDUqEQRBxtUgj5zefz.jpg	Animaç�
 f	Happy Feet: O Pinguim (2006)	9836	/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg	Animação,Comédia,Família
 f	Happy Hour - Verdades e Consequências	555768	/1zc0pHgfYZ1JcB5H2xA37j9pbTr.jpg	Comédia,Drama
 f	Happy Patel Khatarnak Jasoos	1282440	/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg	Comédia,Ação,Romance
+f	Haps: Crime Doesn&#039;t Pay		/xDwUcnE75QXShaV2HnWB6DBM6ot.jpg	
 f	Haq	58478	/ppRsgHJ2rp7zCb7JorX49k8k5Sg.jpg	
 f	Harbinger Down - Terror no Gelo	296130	/50bS7CWuV5Ia7AWm8zXUks1ygX1.jpg	Terror,Ficção científica
 f	Hard Home (2024)	1281532	/a2zwexsQINEY2X3XQv6KCzBrvIH.jpg	Suspense,Terror
@@ -12650,6 +12654,7 @@ f	La tour de glace	1143440	/eS49wptoMFx5Zn3mgpPQmjo4l7j.jpg	Fantasia,Drama
 f	La Vem os Pais	465109	/rUWXKRKsbInckc8h5k6Tte8V8Zl.jpg	Comédia
 f	La Venue de l'avenir	1235304	/67BhaYjKeMVZfzCQD22iweDcCov.jpg	História,Drama,Comédia,Romance
 f	La Verónica	737288	/6AanGRkCoYN6Ae3hSYR3o0cvbi2.jpg	Drama
+f	La Vie pour de vrai		/8dQUdw5QlbuektUaIfPRbPXpaHq.jpg	
 f	Labirinto A Magia do Tempo	13597	/aSrFoc9uzaAiwELpqZvLx5GydbQ.jpg	Aventura,Família,Fantasia
 f	Labirinto do Terror		/4fJAdTpezldZQl19syKCOJvaoiX.jpg	
 f	Lacuna (2021)	811782	/qe1sB6fYCieSbWaSEa7ijf4oAp1.jpg	Drama,Mistério,Suspense,Terror
@@ -16720,6 +16725,7 @@ f	O Fantástico Robin Crusoé		/uJi1gIvXAl0ars7VRTrBL7IctPr.jpg
 f	O Fantástico Sr. Raposo	10315	/1Ey4LYUzTqzizPNjcBi20pU9joC.jpg	Aventura,Animação,Comédia,Família
 f	O Fanático	55955	/34rfjIEVqmzjN7HMZhrrPgPaHuE.jpg	Drama,Comédia
 f	O Farol	503919	/zdowK9GrOxK0YddhXuMPyxnTA02.jpg	Drama,Fantasia,Suspense
+f	O Farol de Natal		/7g9fQYbXJ0LgsrUTY0pdiZ4YK7l.jpg	
 f	O Fascinante Mundo dos Corais (2021)	890601	/lmlh6Tr5soTUcdYWudkxG6gkLZt.jpg	Documentário
 f	O Fascínio (2020)	741998	/plQ0vnvI28VzEdeIlrSAw4Dtxic.jpg	Terror,Suspense,Drama
 f	O Favor (2025)	1447032	/zUCtku8iI0gKkigM0W8QtqSf5u4.jpg	Terror,Suspense,Drama
@@ -18561,6 +18567,7 @@ f	O Último Navio Negreiro (2022)	913822	/lIBLJHHRkv1zxdPEhqF8FoieEN3.jpg	Docume
 f	O Último Paciente	934287	/z2jJoyIeG6Y6PE0d9NNMHmwQfoJ.jpg	Suspense,Crime
 f	O Último Papa	324916	/kLrjDRjICIdIILBpwYwOBgCuxhU.jpg	Documentário,História,TV
 f	O Último Passageiro	104329	/s28PZ0XDIjgRTAmJlBvvQLBmvwJ.jpg	Ação,Suspense,Mistério
+f	O Último Pedido		/9Bn31CjDXpaIRVKH6iAG7ZLtPEg.jpg	
 f	O Último Portal	622	/6E4XFUZGQnhqjnQhcAb0ZiA89lo.jpg	Mistério,Suspense,Terror
 f	O Último Refúgio	524047	/65p4M9Cdkv6YkHMmoTDMxQ8Gur8.jpg	Suspense,Ação,Ficção científica
 f	O Último Refúgio (2018)	472715	/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg	Ficção científica,Ação,Drama,Suspense
@@ -20316,6 +20323,7 @@ f	Portal dos Sonhos	1061637	/rUhUq77R2hMFpEdjDPI3Phgr56l.jpg	Documentário
 f	Portaria 243	490803	/1StfMfRxY94qEwZSL5hSU6vBPdc.jpg	Comédia,Drama
 f	Porto Príncipe	1174614	/vFgBvvRzCKzll1T4tiu8VnX7Ms7.jpg	Drama
 f	Portrait Of A Lady On Fire	1083573	/hZgmfd7XZBlX1HPGW2d8VReFtJX.jpg	Comédia
+f	Portrait of an Artist: Stephen Curry		/bKVscDx3dWrOwZuy0X1WMlOUNWN.jpg	
 f	Portugal... Minha Saudade	232524	/hvz6PW5TotlI1KrCPVX28fkosnf.jpg	Comédia
 f	Portugal: Ecossistemas Extremos	751545	/mRxMU63XLUsOmYiJBI4LuMLPVYc.jpg	Documentário,TV
 f	Portões do Inferno	1205225	/1hHbYJTZmNmNv5zQBQqUhIHfKGR.jpg	Terror,Suspense,Ação
@@ -21318,6 +21326,7 @@ f	Renoir	134673	/jmzC441vGgvPiZQWTCMbIEH63Ka.jpg	Drama,Romance
 f	Renovação do Coração (2019)	680977	/cLNjAjZ9s1oRw2ZospU3XzQHo1V.jpg	Romance
 f	Rent-A-Pal (2020)	707408	/wFaO4uc8po7uNCTSdvbqduMTyuu.jpg	Terror,Suspense
 f	Rent: Os Boêmios	1833	/pRHFxPCYEGd4l5ZIpVAEELNKciM.jpg	Drama,Romance
+f	Repair		/6Exr8Su4UGvE3PpEsWZAzZulI5s.jpg	
 f	Repay It in Blood (2026)	1612424	/cpUW98HrLlyaKSWQr4wFCdAO4sH.jpg	Suspense
 f	Repetente	1163258	/4Tt4eVnUiSZh1qZinoxqkpHsjD3.jpg	Drama
 f	Replicante (2001)	10596	/37hghze3typZgPOEAKHxON3zlg9.jpg	Ação,Ficção científica,Suspense
@@ -21511,6 +21520,7 @@ f	Riverdance Uma Aventura Dançante	756403	/reBhjVk7bdfrUdvpt389m1OxvvM.jpg	Anim
 f	Rize	2287	/bx7UAcyumQZuNj3dZFK7Wh4dbRl.jpg	Documentário
 f	Road to Damascus	803906	/kRwCVZeTuL1QQFX4LqKg1d8RK1k.jpg	Aventura,Crime,Mistério
 f	Road Wars: Max Fury (2024)	1288104	/2Zeoj60KpLlGDn4VEyvypsB3GUW.jpg	Ação,Aventura,Ficção científica
+f	Rob Lowe: The Outsider		/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg	
 f	Rob Peace	1084514	/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg	Drama,História
 f	Rob1n: Inteligência Assassina (2025)	1443260	/vyZR9h6L3Rfeu9qPIZGfYxrlXrr.jpg	Terror,Suspense,Drama
 f	Robert The Bruce	532812	/8KtPzJ1g9AighZMSkEzTMlte8tg.jpg	Drama,História
@@ -23085,6 +23095,7 @@ f	Sublime Amor	1725	/kYJtH81D1wvUB1jKNKe11sIJ2H2.jpg	Crime,Drama,Romance
 f	Submarino	49020	/dhgsVcz3m6xLeDANNRMX0eKk1Bj.jpg	Drama,Comédia,Romance
 f	Submersos	12590	/si5NdTrtQXrYHKPnPtTyaH3fJJd.jpg	Suspense,Terror,Mistério
 f	Submersão	375327	/zGscrEFQGfT3AhKZelF6AmqznVk.jpg	Drama,Suspense,Romance
+f	Submission		/ldqG5s9WENZdfHlwKB4r2AwCXa0.jpg	
 f	Submissão (2020)	736771	/ph5I9yBPh8j2SsSUpai0MnuIsRh.jpg	Drama
 f	Submissão - Uma Luta Pela Qual Vale a Pena Morrer	506403	/qR8lTmDl30FbE9nNNQOUkDvSfMp.jpg	Drama
 f	Submundo das Lutas (2016)	286339	/saIrUxms1zvg9SSiky44wA9yRoh.jpg	Ação
@@ -23886,6 +23897,7 @@ f	The Moment	1422562	/br52pIFl1dLvoDwMtFtmm6BapIH.jpg	Música,Comédia,Suspense
 f	The Moogai	730780	/i2OzstvrAx9R4wVKNGWK7zh46Rl.jpg	Terror
 f	The Mortuary Assistant (2026)	1470130	/mc3nj2DI1MZeFoAR08zSRDxezzf.jpg	Terror,Mistério
 f	The Mortuary Collection	524216	/5WXeYnezavNI6hXH74aQYv6yFzj.jpg	Fantasia,Terror
+f	The Mosquito Bowl		/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg	
 f	The Mountain Within Me	1294134	/mRwlV2K8RKj9bJxPqVmEtjd1zAC.jpg	Documentário
 f	The Munsters	804413	/ySrC3UYRmesDCV2MmFAqMZmgAiv.jpg	Comédia,Fantasia
 f	The Muppet Show	1548113	/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg	Comédia,Família,Música,TV
@@ -24867,6 +24879,7 @@ f	Um Caso de Detetive	720755	/j7I9AKqdnW0nVxUNisL3s7jSiet.jpg	Comédia,Drama,Mis
 f	Um Caso do Outro Mundo	1548121	/rtni6GaRBiHTuiLsCwyM1MVeJlA.jpg	Comédia,Drama,Romance
 f	Um Caso Muito Sério	44772	/1iIQKgsUqlkA55UcxgJfKxQcxCB.jpg	Comédia,Drama,Romance
 f	Um Castelo para o Natal	758879	/xqbD1Gztt7kUUUzJhztNbkRtzUd.jpg	Comédia,Aventura
+f	Um Certo Capitão Lockhart		/8lmQ02yOK1GzOFdjUjsvBEouGtQ.jpg	
 f	Um Chamado de Esperança	1042933	/rIdwJdx2GyUaqWbQEVYC8yd6uLc.jpg	Drama
 f	Um Chamado Especial	305215	/6qGKt8cJvDtPb30Ca4rAGlXXyaL.jpg	Drama
 f	Um Chamado Natalino (2023)	1001884	/cLqDHsjImc96QSsyLTx8mr9CL6k.jpg	Fantasia,Família,Comédia
@@ -24999,6 +25012,7 @@ f	Um Filho que Caiu do Céu (2017)	443398	/3e27vZy2nGzB5Yt0hLBMhN0cPv7.jpg	Comé
 f	Um Filme de Cinema (2023)	453035	/3nHh4tR52CmcqPc50F8Ih8fOpu4.jpg	Comédia,Documentário
 f	Um Filme Falado	95536	/lFEiK7ErxR6StFQl0lY4iNY8J7k.jpg	Drama,História
 f	Um Filme Minecraft (2025)	950387	/a227F8PnXDABR1JJTuasmJmxEhf.jpg	Família,Fantasia,Comédia,Aventura
+f	Um Filme para Beatrice		/sEbFZf3CXWw1HaFHR7DBDMNEp0j.jpg	
 f	Um Fim De Semana Com Holly (2020)	641483	/hr9WUdrJD7sFsMsACvgO9sgsye7.jpg	Comédia
 f	Um Fim de Semana de Inverno	491411	/bKZvOUuFcbLhhhDFUISXb09jYdI.jpg	Romance,TV
 f	Um Fim de Semana Diferente	347881	/dpbMAriV0NX97L4GpeKVBG30ZCZ.jpg	Drama,Comédia
@@ -25691,6 +25705,7 @@ f	Uma Razão para Recomeçar (2016)	444951	/psthUIDybq5V2QTREcLgAMEnDGC.jpg	Dram
 f	Uma Razão para Vencer	425373	/5mSK0k1bIghviA0ei024sMuSEcL.jpg	Drama
 f	Uma Razão para Viver	407445	/wadLTGQDiHCPndo6rPHKWCpUZql.jpg	Drama,Romance
 f	Uma Relação Delicada (2020)	736298	/kL6Delnmr7RG0Fetgnxb49WMPMQ.jpg	Drama
+f	Uma Reportagem de Natal		/3UdC4bdEvHruryFU8NIOjRBeNyY.jpg	
 f	Uma Repórter em Apuros		/e0FnHnRW1YzQ0i14BUnEzl00BHi.jpg	
 f	Uma Ressaca de 9 Meses (2016)	369299	/t83mwPPC3mOp4V7NgWKMUuSzTwM.jpg	Comédia,Romance
 f	Uma Roubada em Família	1551736		
@@ -27173,6 +27188,7 @@ s	A Dinastia - UConn Huskies	294722	/zKlODd0zN8p7SSYA9rDpxaQsU0H.jpg	Documentár
 s	A Diplomata	203857	/1DoshncExMCGK9skDMA7iddHalJ.jpg	Drama,Guerra e política
 s	A Direita no Brasil	222208	/hDyGKTuEd4qWl6m3MUN3V9bLYtc.jpg	Documentário
 s	A Disputa dos Confeiteiros Halloween	74676	/1QXS7jYaEcOTWETXOAtiup8r1Zx.jpg	Família,Reality
+s	A Disputa dos Confeiteiros: Natal		/xw9Fk0SdTHq6jotIAcRbBGFsUA5.jpg	
 s	A Disputa dos Confeiteiros: Primavera	70728	/hs8lAFNPuW1UxS0z0hLRIpj3DZm.jpg	Reality
 s	A Divisão	91296	/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg	Ação e aventura,Crime,Drama
 s	A Dog and a Plane	278168	/aqznHK3XnW9mo2BONDkY8SJNLbP.jpg	Drama,Comédia
@@ -27186,6 +27202,7 @@ s	A Enciclopedia de Istambul	278004	/qQWoQCEVAmy3rROkbydP7ogKgv8.jpg	Drama
 s	A Enciclopédia de Istambul - Istanbul Ansiklopedisi	278004	/qQWoQCEVAmy3rROkbydP7ogKgv8.jpg	Drama
 s	A Entrega	135350	/lRLNuHWEo6CDOvWGCCux6PKgSzI.jpg	Drama
 s	A Era de Miyu	281231	/mjeemoyYxVIEAEv6naBow9wAw0H.jpg	Drama,Família,Novela
+s	A Era do Gelo: Histórias do Scrat		/cf0BfoQKBrnGRNQEsIC86z1vApg.jpg	
 s	A Era dos Dados	106525	/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg	Documentário
 s	A Era dos Humanos	236265	/dVjBIEMvCiOf3XbgtEWQjAUqyFW.jpg	Documentário
 s	A Escada	122196	/2JqD6rGoLv9PrBwVvfUSR197RsX.jpg	Drama,Crime
@@ -27364,6 +27381,7 @@ s	A Lista Terminal	120911	/hu5POLSgwt3YHyRTV2Wyi748Jun.jpg	Ação e aventura,Dra
 s	A Lista Terminal: Lobo Negro	219760	/t9aBguODhgTdWW2nQjGBAHiLhHb.jpg	Ação e aventura,Drama
 s	A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires	298831	/61TfKgUhwJLpsEOsWQXu3ClKPNI.jpg	Animação,Ficção e fantasia,Ação e aventura
 s	A Lição	136283	/bnTXjwOwdUz8MKFyQCNf0hG4fdL.jpg	Drama,Crime
+s	A Loja de Plantas Retrô da Mikey e da Joanna		/FVDoKTnny4XY3HeRsMZKUzqS2n.jpg	
 s	A Louva-a-deus	73613	/qyZtFzKozN6oiIhCwctdrJwO50b.jpg	Drama,Crime
 s	A Love So Beautiful	232670	/cAwhWPgBSTGUmdF9Jzq8p2FiX0S.jpg	Drama
 s	A Lua Abraça o Sol		/7YLCQnA1npvUNRXK86e7gHagog1.jpg	
@@ -27374,6 +27392,7 @@ s	A Madrinha de Beirut - Arrabat beirut	325380	/kyYFZWwngTIcC8n9XYXskDB270f.jpg
 s	A Magia das Sereias		/gsegitK9AnY1Lrgc7xsQuZvktIc.jpg	
 s	A Magia de Aruna	196308	/siDRdCHRnGPQR8OvgVAcbW5FRIo.jpg	Ficção e fantasia
 s	A Magia do Disney's Animal Kingdom	95731	/1k48p56wTzTQa3kkzcJlC6VwbK9.jpg	Documentário,Reality
+s	A Magia dos Jardins		/zfgy28MrL7owCeEZYh1a843xJi4.jpg	
 s	A Maior Companhia de Navegacao do Mundo	70587	/5LvGPFHpG4Qdnsub5ceUQqZcxsp.jpg	Documentário
 s	A Mais Pura Verdade	134029	/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg	Drama,Crime
 s	A Maldicao do Triangulo das Bermudas	214290	/2HETFR0zTj13ASVM8Z9E2KHnHWR.jpg	Documentário
@@ -27481,6 +27500,7 @@ s	A Ponte: The Bridge Brasil	202429	/9c3W1W5bNCSJX7fEqQjSNB2yThG.jpg	Reality
 s	A Pousada Bizarra do Kian84	256355	/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg	Reality
 s	A Pousada do Jae seok	318167	/bnw5v4d8T9Cg4ylHuJ7CsfPZBFK.jpg	Reality,Comédia
 s	A Pracinha	273693	/ePJYT2x2AOWZQfdX3vy3s0Okdbi.jpg	Comédia,Infantil
+s	A Primavera da Lâmina		/6etCfwpVhqRArWpz5qjLK9MlpM8.jpg	
 s	A Primeira Arte	128264	/uz4XCuKxN2o47NWoqy6Jn5JUoB7.jpg	Documentário
 s	A Primeira Dama do Estado Islamico		/sKaZoPFqxWYhUJf1u9OaHXwQkK.jpg	
 s	A Primeira Noite Com o Duque	278331	/cUYvGwYLrGuy8Mm9wc2WYNrXKQ8.jpg	Ficção e fantasia,Comédia,Drama
@@ -27517,6 +27537,7 @@ s	A Rainha do Tráfico	31586	/en1mxPB2ggTiqnfHyaDOW3GfuZW.jpg	Drama,Crime
 s	A Rainha dos Golpes	259710	/k37EEdNrXAWZzjQtT2NcS2Gm0dv.jpg	Crime,Comédia,Drama
 s	A Rainha Serpente	118189	/xvCSR9T4E7I6LTFn7Q72Xv9pWp4.jpg	Drama
 s	A Rebelião dos Barbaros		/fCgOHBmODou6gz5AOYJwvRMvKpA.jpg	
+s	A Reforma de Lindsey		/2SK2Tyse0DMw3NauD57tTTBJGqp.jpg	
 s	A Regra do Jogo	63817	/kwdaf7SxJjJfq9iI5YBYLRDcFVB.jpg	Novela,Drama,Crime,Comédia
 s	A Reinvencao do Flamengo	283972	/eFGmQ2ZxaTWZ7rQ3GvuTBmPxVOa.jpg	Documentário
 s	A Rejeitada Luna Voltou com um Filho	308448	/dmmdtAaKNt9cI7bmjALlyLQpGcP.jpg	
@@ -28776,6 +28797,7 @@ s	BLACK TRICK: The Lawyer Who Controls Justice	322852	/A0cGHrGw8Ts3Ckvw21nx0T4wi
 s	Blackout: Tarde Demais	136365	/A7VpDupmdlQgzAOPdgSHL4c5d1y.jpg	Mistério,Crime,Drama
 s	Blade A Serie	4619	/2XL1XAkk4ZGUmtbc8YDfWG7LX24.jpg	Ação e aventura,Ficção e fantasia,Drama,Mistério
 s	Blade of the Immortal	34697	/nDl7kKonPMQwhs7apbUdWvrh71u.jpg	Animação,Ação e aventura
+s	Blade Runner 2099		/8Huo5JEmtKV03VTzq50lYVDbD4N.jpg	
 s	Bladedance of Elementalers	61287	/4zbUJBbk1I2Sk6JRN4J9hXNhwiY.jpg	Animação,Comédia
 s	Blanca	139309	/ygLft4UvzyeMUZegHNwcCKo7TgG.jpg	Drama,Crime
 s	Blaze and the Monster Machines	64198	/nvN6Zq12I2gtGgIH2DDzgOuqdM3.jpg	Infantil,Animação,Família,Comédia
@@ -30744,6 +30766,7 @@ s	Fatal Injections	196000	/sOqftXmEkHeoyU60qOrUGQzGlun.jpg	Drama
 s	Fate Chooses You	272715	/vx4qAH1kt7WzqLoy5sGCZ7j0yEr.jpg	Drama,Ficção e fantasia
 s	Fate/Apocrypha		/pCZbePoLGSPj6mKvqQqOCEGFpVc.jpg	
 s	Fate/stay night	37858	/mLTo9o8q970F4fyvRUMVkTIYxBm.jpg	Animação,Ficção e fantasia,Ação e aventura
+s	Fate/Zero		/bSO4RBoqZZ18Wao5MBaSB7tDxta.jpg	
 s	Fate: A Saga Winx	97175	/dEZK7wb5VQsflOXHoEMYwv4aV1g.jpg	Ficção e fantasia,Drama
 s	Fated to Love You	224918	/gdpC1hl6fyMGNvr1bJrTDhVX0OD.jpg	Drama
 s	Fatekaleid liner Prisma Illya	63576	/soKOltXvbGY5HRpWqTj0LceIJuW.jpg	Animação,Drama,Ação e aventura,Ficção e fantasia,Comédia
@@ -33321,6 +33344,7 @@ s	My Brilliant Friend	78154	/9gtjWDaWe6IffKHQuCs4Il7kw5C.jpg	Drama
 s	My Daemon	211051	/xN3i6kH84Z0100AWWmitvmnFqCH.jpg	Animação,Ficção e fantasia,Ação e aventura,Drama
 s	My Dear Donavan		/2XgCA5a3M9dg4MszbMkCiou4VY9.jpg	
 s	My Dress-Up Darling		/yDry50KhVrNJyS0Cjzv6auNJ0cx.jpg	
+s	My Ex&#039;s Wedding		/wrrcWyNRlOuT0OhZPVD1JQ3DIFC.jpg	
 s	My Friends Little Sister Has It In for Me	117879	/qA9FF0VXGniJGAdc9ieiQNMPKIc.jpg	Animação,Comédia
 s	My Gift Lvl 9999 Unlimited Gacha	278635	/lFOtbsKfbrEixJXhHZLeoUtqUIn.jpg	Animação,Ação e aventura,Ficção e fantasia,Drama
 s	My Happy End	233277	/nj2HjjwjnrkVH3xgehUF9VRsVv.jpg	Mistério,Drama
@@ -35156,6 +35180,7 @@ s	Puella Magi Madoka Magica	39218	/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg	Animação,Dr
 s	Puffin Rock	69926	/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg	Animação,Infantil
 s	Pui Pui - Porquinhos com Rodinhas	117166	/twIb0T5no8v8t8KIt143L8FKPvQ.jpg	Animação,Infantil
 s	Pulso	247784	/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg	Drama
+s	Punho da Estrela do Norte		/9eWhWYIcr1gFHAOz4m5xMAew8gZ.jpg	
 s	Puniru is a Kawaii Slime	241811	/cDETqaoawgnt6ShUDqfVhyNVVLW.jpg	Animação,Comédia,Ficção e fantasia
 s	Punky Brewster		/ap4hlAB5pZn7CSJAtSs8GjpOrpV.jpg	
 s	Punky, A Levada Da Breca		/2ZVmXNThTccZ4rKUfe1C1QZDwTe.jpg	
@@ -36323,6 +36348,7 @@ s	Star Wars: Maul - Lorde das Sombras		/4WWy87Ne5CCaFXXhyxDuuglVzvY.jpg
 s	Star Wars: Rebels	60554	/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg	Ação e aventura,Animação,Ficção e fantasia
 s	Star Wars: Skeleton Crew	202879	/4Dr8mPDBhuSsrGBSx5n8cL1gSki.jpg	Ação e aventura,Ficção e fantasia,Família
 s	Star Wars: The Bad Batch	105971	/mMDYVkdrhTqpLSnmzF4MQ5pmrU4.jpg	Animação,Ação e aventura,Ficção e fantasia
+s	Star Wars: The Clone Wars	4194	/pvDFqSHSdyWiPu0ihJJkDXxnBM9.jpg	Ação e aventura,Ficção e fantasia,Animação
 s	Star Wars: Visions	114478	/xJgB8t8GSq0GMLktTQr171bX2mg.jpg	Animação,Ficção e fantasia,Ação e aventura
 s	Star Wars: Visions Apresenta — A Nona Jedi	289324	/1O3ExMFvf2gUPD6WIyfD3dou9eB.jpg	Animação,Ficção e fantasia,Ação e aventura
 s	Star-Crossed		/xcKlTgoRlVMyIG8t9c1br8RO7zI.jpg	

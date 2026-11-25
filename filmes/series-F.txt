@@ -79,6 +79,7 @@ Fatal Crossing As Garotas da Balsa		0	8
 Fatal Injections		0	8
 Fate Chooses You		0	41
 Fate/Apocrypha		0	25
+Fate/Zero		0	32
 Fate/stay night	2006	0	48
 Fate: A Saga Winx		0	13
 Fated to Love You		0	20
@@ -117,9 +118,9 @@ Felicidade		0	203
 Felicidade em Família - Aile Saadeti		0	13
 Felicity		0	84
 Feliz		0	18
-Feliz Natal e Tal		0	8
 Food for the Soul		0	12
 Futsuu no Joshikousei ga Yattemita.		0	15
+Feliz Natal e Tal		1	8
 Felizes Juntos		1	10
 Felizes Para Sempre: Contos Para Todas As Crianças		1	39
 Felizes para Sempre		1	10
@@ -238,7 +239,7 @@ For You in Full Blossom		1	37
 For the People		1	10
 Fora da Bolha		1	6
 Fora da Prisão	2023	1	8
-Fora de Controle		1	4
+Fora de Controle		2	4
 Fora de Órbita		2	6
 Foragida A Busca pela Mulher Mais Procurada dos Estados Unidos		2	6
 Forasteiros em Bollywood		2	7

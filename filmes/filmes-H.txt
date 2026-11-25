@@ -97,6 +97,7 @@ Happy Feet 2: O Pinguim (2011)	dub=18:65759,http://dbonline.tech-cdn.top:80/movi
 Happy Feet: O Pinguim (2006)	dub=18:9836,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9591.mp4
 Happy Hour - Verdades e Consequências	dub=18:555768,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15490.mp4
 Happy Patel Khatarnak Jasoos	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253301.mp4
+Haps: Crime Doesn&#039;t Pay	leg=18:1300258.mp4?lang=leg
 Haq	dub=18:58478	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74158.mp4
 Harbinger Down - Terror no Gelo	dub=18:296130
 Hard Home (2024)	dub=18:1281532,https://embedplayer2.xyz/cdn/hls/d5c23cfbfa1947ccaf2f916a4511d746/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b1e3b4d9b52ad39740bec79b3f873292/master.txt
