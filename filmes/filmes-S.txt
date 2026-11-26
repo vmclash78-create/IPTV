@@ -593,7 +593,7 @@ Senhor das Artes, Domador de Corações	dub=http://dbonline.tech-cdn.top:80/movi
 Senhor do Crime	dub=18:227359,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7215.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89233.mp4
 Senhor do Vento	dub=18:589756,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7220.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89241.mp4
 Senhora Presidente (2022)	dub=18:768106,https://embedplayer2.xyz/cdn/hls/67101367160c142596522945259de83c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307667.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307685.mp4
-Senhores do Crime (2007)	dub=18:2252
+Senhores do Crime (2007)	dub=18:2252	leg=18:2252.mp4?lang=leg
 Senhorita Natal	dub=18:474974
 Senhorita Zumbi (2013)	dub=18:221437
 Senna	dub=18:58496,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39270.mp4

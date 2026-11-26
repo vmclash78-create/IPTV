@@ -1987,6 +1987,7 @@ f	A Permissão (2017)	428988	/3dJsNJfL3CKiRRf39rE0KyI2Wux.jpg	Drama,Crime,Suspen
 f	A Perseguição	75174	/lkQ20CkCnJTIXQFYK10cuFZ3gO7.jpg	Ação,Aventura,Suspense
 f	A Perseguição (2012)	75174	/lkQ20CkCnJTIXQFYK10cuFZ3gO7.jpg	Ação,Aventura,Suspense
 f	A Perseguição (2024)	1025527	/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg	Suspense,Ação
+f	A Pescadora Solitária		/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg	
 f	A Peça de Natal		/loCbXcm9zq2pmScYGnzD3dxpOmX.jpg	
 f	A Pior Pessoa do Mundo	660120	/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg	Drama,Romance,Comédia
 f	A Pirâmide	282813	/fnFRT23YfcYMYBO7oAQPszak0b5.jpg	Terror
@@ -9044,6 +9045,7 @@ f	Entrando Numa Fria Maior Ainda (2004)	693	/oNGHCp0ZTBSMMocBFBvInptzpe7.jpg	Com
 f	Entrando Numa Fria Maior Ainda com a Família	39451	/z0iSQfhBHoob0EVn0nSG3oiSSBX.jpg	Comédia,Romance
 f	Entrando Numa Roubada (2022)	1036283	/fAbSUPZ3VdZ7emi4aqT4QrZoLRi.jpg	Comédia
 f	Entre a Colônia e as Estrelas	1030618	/mbnpxEmn2QCRy9Vy3q5hPbquE80.jpg	
+f	Entre a Lei e a Vingança		/4pDQ8It1MgURTNAS0sLF4LTsc3P.jpg	
 f	Entre a Loura e a Ruiva		/p0FXqTJ8fNASnJRxW8PYE5lfM6L.jpg	
 f	Entre a Vingança e o Perdão (2015)	350641	/6EugZAIVqAVIVattPlKeAXM8lMi.jpg	Drama
 f	Entre Abelhas (2015)	271983	/dGZNN70ffCyOsYqqMTYFeMySxjB.jpg	Comédia,Drama,Fantasia
@@ -17682,6 +17684,7 @@ f	O Pequeno Bulldog	807979	/2QEqmXf0yYpzooe24LJyETlhM9L.jpg	Família,Comédia,Dr
 f	O Pequeno Grande Guerreiro	35138	/55sTNi1uj53ZjaIyWCPuvV5TsQL.jpg	Ação,Comédia,Aventura
 f	O Pequeno Grande Homem	11040	/boGU9wr66y20Lr6z8vQDmaozqgU.jpg	Faroeste,Comédia,Aventura,Drama
 f	O Pequeno Grande Time	20726	/vGMfs9oLLXuENZ1rLV7s8vclPbc.jpg	Comédia,Família
+f	O Pequeno Guerreiro		/79VKzdDYRCvfZWNAEYBoPxeEHm6.jpg	
 f	O Pequeno Gângster	332349	/gs60oRyetJStIlIECaWNvC2g3SN.jpg	Comédia,Crime,Aventura,Família
 f	O Pequeno Naia: Na luta contra o Rei dos Dragões		/imc1QxR0a4TPtlGHdCTtpihtkd9.jpg	
 f	O Pequeno Narigudo	51349	/yYRijal6Yda1sas16XKu01RXPn8.jpg	Animação,Fantasia
@@ -23931,6 +23934,7 @@ f	The Overnight	982637	/ngHfsQ7chepu9GR4Qc01aF1Su8c.jpg	Terror
 f	The Owners	659986	/oLuIH5Mkl9OBefhNC1NtJRTDb1H.jpg	Terror,Mistério,Suspense
 f	The Pale Door	610201	/jkAZb9jteax1XRnEFlCU9Oer1YJ.jpg	Terror,Faroeste
 f	The Paper Tigers (2020)	731738	/x54tAgLfS51fO5EcipNJJ9tfSRK.jpg	Ação,Comédia
+f	The Paradise		/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg	
 f	The Partisan	1159939	/kUSX6LLvEZWRZIdrz9guOG5hFvd.jpg	Guerra,Suspense,História
 f	The Parts You Lose	492613	/78d1x2dJBj1w3vbIf0L9rVVCxfy.jpg	Drama,Crime,Suspense
 f	The Payback		/8TonO4isGMrrfLi9wYPx2oNoB5E.jpg	
@@ -24641,6 +24645,7 @@ f	Tudo pela Vitória	13416	/72PDJqLp70cs3Ld26lFF0EC67x2.jpg	Drama
 f	Tudo pelo Divórcio	1281933	/hGo8LmLGwBY2DucU4DgUTq06pEW.jpg	Comédia,Drama
 f	Tudo Pelo Poder (2011)	10316	/bm3jjkRZSxNNmjeVyO87Iufja6R.jpg	Drama
 f	Tudo Pode dar Certo	19265	/otXjraR1CsojMQnj7eUuTfMgmuH.jpg	Comédia,Romance
+f	Tudo Pode Ser Visto		/mnu5cNfijdbuU4iWrV2Lg7AfM0J.jpg	
 f	Tudo Por Amor (1991)	9079	/uKdlX8IwM0YT2kw5Qg9og4BmhW3.jpg	Drama,Romance
 f	Tudo por Dinheiro (2005)	9910	/s4SyRs0ZNIGxxaBqtdqZ8wKkx0G.jpg	Comédia,Crime,Drama,Suspense
 f	Tudo Por Ela (2008)	9022	/xob6lyDVPA1SBE4efNy9IUQkwbI.jpg	Terror,Mistério,Suspense
@@ -25371,6 +25376,7 @@ f	Um Time Muito Louco Contra-Ataca	9771	/4EQVxpdj2UeiSuFRVJBPXtVKDVI.jpg	Comédi
 f	Um Time Show de Bola (2013)	153158	/ldYiXptB25zvCv6ZQwbmZLxJDB0.jpg	Animação,Aventura,Romance
 f	Um Tio Quase Perfeito (2017)	448949	/vxBG1DIwfnNTzq6BIHIkWIXdR4t.jpg	Comédia,Família
 f	Um Tio Quase Perfeito 2	784117	/7tsMon5xC1pJI8dbJ2NpWCq3CnC.jpg	Comédia,Família
+f	Um Tio Quase Perfeito 3		/rA3I7qzs47r4iVRxVLYgP3i7rc5.jpg	
 f	Um Tira Acima da Lei	75622	/ohpvSOFWlPy7kAtzTmaRsDf4NPq.jpg	Crime,Drama
 f	Um Tira Acima da Média (2005)	19803	/kyS58pd3rjrvgD1R7NLDMf14JAU.jpg	Comédia,Ação
 f	Um Tira da Pesada (1984)	90	/wjcOukmiJKp4oMrIXOa3hlvODph.jpg	Comédia,Crime,Ação
@@ -27566,6 +27572,7 @@ s	A Sogra Que Te Pariu	158296	/p5gdZUmXHEhapJBuSn7Dov650kl.jpg	Comédia
 s	A Sombra do Batman	41676	/gEe0NGfb6sgJeQYNutiNWJv3Uj.jpg	Ação e aventura,Animação,Infantil
 s	A Sombra do Passado - La Sombra del Pasado	78293	/focU8oSNu9cxKUCG5WZ9J1w0gOc.jpg	Novela,Drama
 s	A Sonhada Casa de Campo	293381	/zAjNIzX8BFBNeqUEUsFSVHM392I.jpg	Reality
+s	A Sonhada Casa de Praia		/yLMmw3AQorkvP8zjtvV98LS8mv2.jpg	
 s	A Sonhadora	80411	/mndpDoIc8xAagZc162xKNNvPROY.jpg	Drama,Comédia,Novela
 s	A Sonhadora - Passaro Madrugador - Erkenci Kus	80411	/mndpDoIc8xAagZc162xKNNvPROY.jpg	Drama,Comédia,Novela
 s	A Sorte de Loli	117731	/amVsbvkJ1NtfNzvKfYXxYBcGd02.jpg	Comédia,Família,Drama
@@ -27829,6 +27836,7 @@ s	Alegrifes e Rabujos	11823	/n4ASUpdccOUmSo5noHze2FwSe9f.jpg	Família,Novela,Inf
 s	Alem do Direito	281004	/xx9zLvdPXDlBgURDrXIgbOS0BL6.jpg	Drama
 s	Alemão: Os Dois Lados do Complexo	73059	/ej48EXSF9fVdPlW8lkTwEvzXBdH.jpg	Crime,Drama
 s	Alert Unidade de Pessoas Desaparecidas	202308	/6wwrEuvgKkVyxcUaxZxnVF0WpMX.jpg	Drama,Crime
+s	Alerta Reforma! Lucro em Risco		/q57lFeZa6fhKIsWbiVU8mx9k9TA.jpg	
 s	Alex Cooper A voz por tras de Call Her Daddy	290251	/yGK9G2wLGjt7QJdbYJuFt3r98vI.jpg	Documentário
 s	Alex Rider	99799	/oC8im3gU79tCXFncs2td5wLhPOE.jpg	Drama,Ação e aventura
 s	Alex vs ARod	303175	/qZyWiRLcD2uuiyVKE2TukxLVMY.jpg	Documentário
@@ -28208,6 +28216,7 @@ s	Aquele Sobre Matthew Perry		/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg
 s	Aqueles Olhos Negros	153950	/jtS38CTGr0v2N85Wvsc0nIb74YF.jpg	Crime,Drama,Mistério
 s	Aqueles Prestes a Morrer	218589	/1he6t2dsvovnRlLC4nVLsydHLd5.jpg	Drama
 s	Aqui Na Terra		/n5pz5e4ES2AEra4ouiwv2QbXby7.jpg	
+s	Aqui Nasceu o Hip-Hop!		/u53JpkxFDr04Wie3I7eKLlIaBPW.jpg	
 s	Aqui Quem Fala é o Zodíaco		/fuzdGFJaD684AZqGEEu7ASka9Wd.jpg	
 s	Ar Momentâneo	273055	/gzKY9UXbAEHPSY2Alhq93r669If.jpg	Drama,Ficção e fantasia,Mistério
 s	ARA San Juan O Submarino que Desapareceu	247096	/sAG2w1mcsh8zzQ4OTtoV9b83TLN.jpg	Documentário
@@ -29221,6 +29230,7 @@ s	Caverna Do Dragão		/4fFRnZwlOwhcZkwLK8DCxtApyYP.jpg
 s	Caverna do Dragão	553	/t0DT8Tgg6nRdxsIU93r0i7XUfcp.jpg	Animação,Ficção e fantasia,Comédia,Ação e aventura,Infantil
 s	Cazalbe O Herdeiro da Graca	263132	/7kZP39oJP3f0IgzgR33Cm0MMWzv.jpg	Documentário
 s	Caça aos Famosos com Bear Grylls		/1Alx4egtgpz28gdZu774dPj9ToR.jpg	
+s	Caçada no Deserto: O Caso Adam Nayeri		/pc6kRbwmvar1Y73gSB2ewtpjgOG.jpg	
 s	Caçador de Demônios	229711	/woaDbwKqj1938QJrqxF8tn9QCKy.jpg	Ação e aventura,Ficção e fantasia,Comédia
 s	Caçadora De Relíquias		/fw79cufwWId7b1KZmwONyutytoS.jpg	
 s	Caçadoras de Recompensas	90766	/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg	Comédia,Ação e aventura,Drama
@@ -29604,6 +29614,7 @@ s	Conversando com um Serial Killer: O Canibal de Milwaukee	209167	/2ZanSihKwPWeV
 s	Conversando com um serial killer: o Palhaço Assassino	197248	/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg	Documentário
 s	Conversando com um serial killer: Ted Bundy	85833	/fi959Hjv3VdMw0s8BRY5F6aj3lQ.jpg	Documentário,Crime
 s	Conversas Entre Amigos	99747	/cyiCa0WwhDdg0BlZYF86R0kjwxQ.jpg	Drama
+s	Conversas que Curam	293432	/zIWm6a0hkbC7ih1ra04qeF1KsNS.jpg	Drama
 s	Cook Island: Ilha do Sabor	199311	/6VljAy33ZmWYG3g9Ua4YqoSQhkm.jpg	Reality
 s	Cookies de Natal O Desafio	75497	/rA5kqPR4LkqdDtzxwf2DG7ZxSHw.jpg	Reality
 s	Cooking Crush	231699	/6eOGr4TBEGFY6JOlqqVBSy0stTk.jpg	Comédia,Drama
@@ -30484,6 +30495,7 @@ s	Enganos e Mentiras	106535	/xzgI2FcC5klntlA1Ad1V12IKLiR.jpg	Drama,Crime
 s	Engenharia Extrema	157261	/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg	Documentário
 s	Engenheiros de Hitler Construindo o Terceiro Reich	242631	/4tXTtHniJfA8K3Tuf47COivTks4.jpg	Guerra e política,Documentário
 s	Engracadinha Seus Amores e Seus Pecados	85718	/kCKfIuQBasmDHhC0QMTSzpkrt97.jpg	Drama
+s	Enigma do Palco Negro	296238	/tylM2VJxXn85pT8mPsUwNj6Mz4I.jpg	Mistério
 s	Enigmas da Historia	69916	/hDDPooOGUWR8Z77I0ebtwqtdYXc.jpg	Documentário
 s	Enigmas do Universo	213608	/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg	Documentário
 s	Enloqueciendo Contigo	256216	/x0uUtq5Omksfq350FvDNzHJXj45.jpg	Comédia,Drama
@@ -30558,6 +30570,7 @@ s	Espere um segundo, Harutora-kun		/bJtkqWg46TQJZnAgdLuOvWTKUPA.jpg
 s	Espere um segundo,Harutora-kun (2026)	328190	/bJtkqWg46TQJZnAgdLuOvWTKUPA.jpg	Comédia,Drama
 s	ESPN Jeopardy!	320399	/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg	Reality
 s	Esportes pelo Mundo	211269	/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg	Documentário
+s	Espécies Raras		/yfLTwKseX1XTrVdGfktI16V5EWD.jpg	
 s	Espíritos na Escola	208397	/jkcgvKEKF0q2l72uHNhrhbx9DbP.jpg	Mistério,Drama
 s	Esquadrao Resgate	4344	/fSdPK6uAArXWVfPk2mOiq4pVXzS.jpg	Drama
 s	Esquadrao Ufo	327454	/oKXKVjOWOxe9TXmCpDXGt0hw3X4.jpg	
@@ -31987,6 +32000,7 @@ s	Jonestown: Massacre no Culto	255293	/zbPKKwH1vYdvuuLX4gHfvlEt1y.jpg	Documentá
 s	Jonny Quest	962	/r2KUXlkfGdUz8wKir0gznnXymsh.jpg	Ação e aventura,Animação
 s	Jorels Brother Shostners Show	272266	/498HtBtKEhvVbS9VoUQI3fxP1xG.jpg	Animação,Comédia,Infantil
 s	Jormungand	46279	/9Bt024ZhonThMZxLiKyvNQmSCAn.jpg	Animação,Ação e aventura,Drama
+s	Jornada ao Oeste	2252	/2TaaKLZIy7Opzvu8ccZUh0VYvBc.jpg	Drama,Comédia
 s	Jornada Astral	152270	/tWPMbomvFgu9k9rMnexmwugibVD.jpg	Reality
 s	Jornada de Heróis		/mGaGQ1CFUXbQ7LHbxz1nRI6tgrK.jpg	
 s	Jornada nas Estrelas	253	/uph0yY3gmPV5ubwTTZvfH5B4up5.jpg	Ficção e fantasia,Drama
@@ -33167,6 +33181,7 @@ s	Mob Psycho 100	67075	/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg	Animação,Ação e aven
 s	Mobile Suit Gundam GQuuuuuuX	278704	/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg	Animação,Ação e aventura,Ficção e fantasia,Drama
 s	Mobile Suit Gundam Requiem for Vengeance	229906	/y3OBTgamWSyvUyzciL20yNkMMaC.jpg	Guerra e política,Ficção e fantasia
 s	Mobile Suit Gundam Unicorn RE:0096	67524	/4q2OytDAuVgfikZ85Yw3bGkOMXs.jpg	Animação,Ficção e fantasia,Guerra e política
+s	Mobile Suit Gundam Wing		/rqKiXBdKROpgWNQMo5ZVmbNGpzc.jpg	
 s	Mobile Suit Gundam: The Origin	88865	/iLzfsgJXntGJsU9lcY8emoTpM5v.jpg	Animação,Ação e aventura,Ficção e fantasia,Guerra e política,Drama
 s	Mobile Suit Gundam: The Witch from Mercury	196400	/h1qliYBRsnQdxCbFWQxcnBRW3pm.jpg	Animação,Ficção e fantasia,Ação e aventura
 s	Mobius	279322	/phzwRAaBVmtv6fBblHHfsZXA6nU.jpg	Drama,Mistério,Crime,Ação e aventura
@@ -33300,7 +33315,7 @@ s	Mulheres Apaixonadas	20875	/f7xttU79eOEm8YOu4DCONvbPtNX.jpg	Novela,Família,Dr
 s	Mulheres Asiáticas		/gNKVzQfVg5kbCIizAqjyEaqXoCZ.jpg	
 s	Mulheres com Ombreiras	237015	/3CvIuDzEaeLfGNFcN3hqjygwEwp.jpg	Animação,Comédia
 s	Mulheres da Noite	81180	/gjGpsF07uaBuoYSAFFwHw08kIqB.jpg	Drama,Crime
-s	Mulheres de Areia	282658		Novela,Drama
+s	Mulheres de Areia	282658	/zxjJx1m2Mz4zf1HtFrtyWzZfw6m.jpg	Novela,Drama
 s	Mulheres de Azul	253983	/ghXx9P0LZ7PoLX6YfVz4HbU4QOP.jpg	Crime,Drama
 s	Mulheres do Movimento	111263	/AbpI1jLQo3nhpxtWFQfzgmpFZOb.jpg	Drama
 s	Mulheres Imperfeitas	108181	/ptwaephn2rSmebfpXa43mcmHKNH.jpg	Drama,Mistério,Crime
@@ -33696,6 +33711,7 @@ s	Não Fale com Estranhos	96608	/60ZucrnG1YkcxAKnIHQVbB6z1WY.jpg	Mistério,Crime
 s	Não Foi Minha Culpa: Brasil	128076	/z5cE0WI9VQSvGDdW19AvIE1iwc6.jpg	Drama
 s	Não Foi Minha Culpa: México	128067	/pAduljm45lOktb80fItRx1wuRbu.jpg	Drama
 s	Não Fui Eu		/vlyIIScjil7vQ64VNzkHlmViChu.jpg	
+s	Não Há Segunda Chance		/3zwRboaTWjc7qgBgc4TLbE9S2Q3.jpg	
 s	Não nos Calaremos	242876	/prFJX3WO5SRJRA3qE7fHn271D14.jpg	Drama
 s	Não Provoque	95259	/eLmQL6gWgWnhgdv0CxHaVQcnYOX.jpg	Drama,Mistério,Crime
 s	Não Sou um Robô	74682	/wMmWrj4K3CgJfniMBNdkY0IKSLm.jpg	Comédia,Drama
@@ -33718,6 +33734,7 @@ s	O Amor Invencivel		/xzu9TcurI7qrgeBruKTw1WmVp2P.jpg
 s	O Amor Mora ao Lado	241454	/lHSnzui4skTidHkAwQ2Qaccdokr.jpg	Drama,Comédia
 s	O Amor Nao Tem Mitos		/e50NDByUSkwjSNpkecH4YTbgq9l.jpg	
 s	O Amor Nao Tem Receita - El Amor no Tiene Receta	244643	/fSx7Pzf2Dpfn2vn2uHhO6WA0SqI.jpg	Ação e aventura,Ficção e fantasia,Drama,Família,Novela,Comédia
+s	O Amor Nunca Falha		/frYxZf9Z0XJ6SzOi1b5FlLqIL5e.jpg	
 s	O Amor Não Entende Palavras	67570	/krSdiuUrsqka7FFtaqjxEqC0bE9.jpg	Comédia,Drama
 s	O Amor Não Espera	242663	/bK4XYtuBEGXGMOSyTqQ9Ha7KR4b.jpg	Reality
 s	O Amor Não Está Esgotado		/bwCh9TYFgZffO9y1qn8zQVCr3L6.jpg	
@@ -34416,6 +34433,7 @@ s	Operacao Guerra Verde	319661	/owls79jn4a0FLy3xt092La1zrn7.jpg	Documentário
 s	Operacao Policial	124075	/mTIGVEn29vLcXMGP5sKi3WVoluJ.jpg	Crime,Documentário,Reality
 s	Operación triunfo	12513	/8Qfq22zP5PeUKJfN5bFPFJtJz5i.jpg	Reality
 s	Operation Buffalo		/tL3YiXGRK8b0ylhrDaoYyIqrQHY.jpg	
+s	Operation Sabre	274555	/bOQwfBM49ihzutGVcHNS0S9iK36.jpg	Drama
 s	Operação Alto Mar: Estados Unidos		/qQcc0NlfAlZ7eLVUS14KI2ZzqlN.jpg	
 s	Operação Berlim	66282	/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg	Ação e aventura,Drama
 s	Operação Big Hero: A Série	68665	/oZPe5DKfxAJxo4X9TvOKxz37Q5N.jpg	Ação e aventura,Animação,Comédia,Família,Ficção e fantasia
@@ -35245,6 +35263,7 @@ s	Que Mundo e Esse	224012	/ufOmPWHvHSNaKCTviUXUm0rmQVr.jpg	Documentário
 s	Que Pobres Tao Ricos - Que Pobres Tan Ricos	60642	/AiQ56hQBPsiWM8fTCUk45vk3Jz7.jpg	Novela,Comédia,Drama
 s	Que Rei Sou Eu	46122	/uk3wzUAEr21qh8KiQpSeTd9x4tV.jpg	Novela,Comédia
 s	Que Seja Doce	201297	/8xgjkLUbYTXjeK3H7B1s5jQizGW.jpg	Reality
+s	Que te Perdoe Deus... Eu Não		/t7rEhuowbJXUPdRAMVuTgQ6s7Wh.jpg	
 s	Quebra Cabeca Criminal	99876	/u2jeldnkzYrltpuCb2u5br9INeZ.jpg	Documentário
 s	Quebra de Juramento	310369	/pYM0Nrc3l0LLksjSCrqah9Ysjor.jpg	Documentário,Crime
 s	Quebra-Cabeça Mortal		/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg	

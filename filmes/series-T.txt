@@ -386,7 +386,7 @@ The Hot Zone		3	16
 The Hot Zone: A História Do Ebola		3	12
 The Hour		3	12
 The House	2016	3	270
-The Hunting Party	2025	3	23
+The Hunting Party	2025	3	46
 The I-Land		3	7
 The Iceblade Sorcerer Shall Rule the World		3	27
 The Idol		3	5
@@ -779,7 +779,7 @@ Trapaceiros - Fraudadores - Sahtekarlar		6	22
 Trapaça		6	4
 Trapped		6	20
 Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs	2022	6	48
-Tratamento De Choque		6	165
+Tratamento De Choque		6	168
 Travelers		6	34
 Travessia		6	179
 Travessuras da Menina Ma		6	20

@@ -711,6 +711,7 @@ The Overnight	dub=18:982637
 The Owners	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91776.mp4
 The Pale Door	dub=18:610201	leg=18:610201.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91787.mp4
 The Paper Tigers (2020)	dub=18:731738	leg=https://embedplayer2.xyz/cdn/hls/a806c42bc4f8280481d897d3ffdae5cd/master.txt
+The Paradise	dub=18:1376856
 The Partisan	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32113.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91798.mp4
 The Parts You Lose	dub=https://embedplayer2.xyz/cdn/hls/f56f71204faf692b0168806f09970db0/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32123.mp4
 The Payback	dub=18:1063980
@@ -1415,6 +1416,7 @@ Tudo Para Vencer	dub=18:601835
 Tudo Pela Fama (2018)	dub=18:521410,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46239.mp4
 Tudo Pela Honra	dub=18:37559
 Tudo Pelo Poder (2011)	dub=18:10316
+Tudo Pode Ser Visto	leg=18:1765072.mp4?lang=leg
 Tudo Pode dar Certo	dub=18:19265
 Tudo Por Amor (1991)	dub=18:9079,18:379990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32370.mp4
 Tudo Por Ela (2008)	dub=18:14556,18:796849,18:9022,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32375.mp4

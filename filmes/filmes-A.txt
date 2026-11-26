@@ -1729,6 +1729,7 @@ A Perseguicao do Bilionario Bebe a Bordo	leg=http://dbonline.tech-cdn.top:80/mov
 A Perseguição	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1710.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62043.mp4
 A Perseguição (2012)	dub=18:75174
 A Perseguição (2024)	dub=18:1025527
+A Pescadora Solitária	leg=18:1195803.mp4?lang=leg
 A Peça de Natal	dub=18:475833
 A Pior Pessoa do Mundo	dub=18:660120,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22927.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62053.mp4
 A Pirâmide	dub=18:282813,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47301.mp4

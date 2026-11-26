@@ -608,6 +608,7 @@ Entre Sombras (2018)	dub=18:531708,18:417643,http://dbonline.tech-cdn.top:80/mov
 Entre Tiros e Beijos	dub=18:481879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3537.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71644.mp4
 Entre Vinho e Vinagre (2019)	dub=18:513083,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14940.mp4
 Entre a Colônia e as Estrelas	dub=18:1030618
+Entre a Lei e a Vingança	dub=18:16012436
 Entre a Loura e a Ruiva	dub=18:18691
 Entre a Vingança e o Perdão (2015)	dub=18:350641,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40789.mp4
 Entre as Luzes	dub=18:1230183,https://embedplayer2.xyz/cdn/hls/2907e57a8c31ffbc47ad2ec8bab261df/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/467.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71540.mp4

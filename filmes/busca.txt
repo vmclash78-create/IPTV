@@ -2756,6 +2756,7 @@ A Perseguição	f	A
 A Perseguição (2012)	f	A
 A Perseguição (2024)	f	A
 A Persistencia da Memoria	s	A
+A Pescadora Solitária	f	A
 A Pessoa Prometida	s	A
 A Peste	s	A
 A Peça de Natal	f	A
@@ -3135,6 +3136,7 @@ A Sombra e a Escuridao (1996)	f	A
 A Sombra Interior	f	A
 A Sonata Maldita (2018)	f	A
 A Sonhada Casa de Campo	s	A
+A Sonhada Casa de Praia	s	A
 A Sonhadora	s	A
 A Sonhadora - Passaro Madrugador - Erkenci Kus	s	A
 A Sorte de Loli	s	A
@@ -4166,6 +4168,7 @@ Alerta de Risco	f	A
 Alerta de Spoiler	f	A
 Alerta Lobo (2019)	f	A
 Alerta Maximo (2023)	f	A
+Alerta Reforma! Lucro em Risco	s	A
 Alerta Vermelho	f	A
 Alerta Vermelho (2019)	f	A
 Alerta Vermelho (2021)	f	A
@@ -5537,6 +5540,7 @@ Aqui em Casa Tudo Bem	f	A
 Aqui Estamos Nós: notas sobre como viver no planeta Terra (2020)	f	A
 Aqui Jaz o Teu Esquema	f	A
 Aqui Na Terra	s	A
+Aqui Nasceu o Hip-Hop!	s	A
 Aqui no Mar: Descendentes 2.5	f	A
 Aqui Não Entra Luz	f	A
 Aqui Quem Fala é o Zodíaco	s	A
@@ -8926,6 +8930,7 @@ Caçada Humana (2019)	f	C
 Caçada Implacável	f	C
 Caçada Jurássica	f	C
 Caçada Mortal (2014)	f	C
+Caçada no Deserto: O Caso Adam Nayeri	s	C
 Caçada Sangrenta	f	C
 Caçada Sem Regras	f	C
 Caçada sem Trégua	f	C
@@ -10247,6 +10252,7 @@ Conversando com um serial killer: o Palhaço Assassino	s	C
 Conversando com um serial killer: Ted Bundy	s	C
 Conversando sobre Round 6	f	C
 Conversas Entre Amigos	s	C
+Conversas que Curam	s	C
 Convidada - Misafir	s	C
 Convidado de Honra	f	C
 Convidado Vitalicio (2019)	f	C
@@ -13560,6 +13566,7 @@ Engraçadinha	f	E
 Engula me Inteiro Swallow Me Whole	f	E
 Enigma	f	E
 Enigma do Espaço	f	E
+Enigma do Palco Negro	s	E
 Enigma do Poder (1999)	f	E
 Enigma Sombrio	f	E
 Enigmas da Historia	s	E
@@ -13631,6 +13638,7 @@ Entre a Amizade e o Amor	s	E
 Entre a Colônia e as Estrelas	f	E
 ENTRE A FILHA E A GUERRA	f	E
 Entre a Lei e a Justica	s	E
+Entre a Lei e a Vingança	f	E
 Entre a Loura e a Ruiva	f	E
 Entre a Razao e a Emocao	s	E
 Entre a Vida e a Morte	s	E
@@ -13964,6 +13972,7 @@ ESPOSA SECRETA DO BILIONÁRIO	f	E
 Esposa Troféu? Ela só Quer Poder por Contrato!	f	E
 Esposa Troféu? Ela É a Própria Fortuna!	s	E
 Espumas ao Vento	f	E
+Espécies Raras	s	E
 Espírito Assassino	f	E
 Espírito de Família (2020)	f	E
 Espírito de Lobo	f	E
@@ -18572,6 +18581,7 @@ Jorels Brother Shostners Show	s	J
 Jorge da Capadócia (2024)	f	J
 Jorginho Guinle So Se Vive uma Vez	f	J
 Jormungand	s	J
+Jornada ao Oeste	s	J
 Jornada Astral	s	J
 Jornada da Vida	f	J
 Jornada de Heróis	s	J
@@ -22453,6 +22463,7 @@ Mobile Suit Gundam Requiem for Vengeance	s	M
 Mobile Suit Gundam Seed	s	M
 Mobile Suit Gundam SEED FREEDOM	f	M
 Mobile Suit Gundam Unicorn RE:0096	s	M
+Mobile Suit Gundam Wing	s	M
 Mobile Suit Gundam: Cucuruz Doan's Island	f	M
 Mobile Suit Gundam: The Origin	s	M
 Mobile Suit Gundam: The Witch from Mercury	s	M
@@ -24204,6 +24215,7 @@ Não Foi Minha Culpa: México	s	N
 Não Fui Eu	s	N
 Não Haverá Mais História sem Nós	f	N
 Não Há Mal Algum	f	N
+Não Há Segunda Chance	s	N
 Não Há Tempo Para O Amor, Charlie Brown	f	N
 Não Identificada (2026)	f	N
 Não Identificado	f	N
@@ -24422,6 +24434,7 @@ O Amor Nao Tem Mitos	s	O
 O Amor Nao Tem Receita - El Amor no Tiene Receta	s	O
 O Amor Nao Tira Ferias	f	O
 O AMOR NAO VEM SOZINHO	f	O
+O Amor Nunca Falha	s	O
 O amor nunca morre	f	O
 O Amor não Correspondido do CEO'S	f	O
 O Amor Não Entende Palavras	s	O
@@ -26829,6 +26842,7 @@ O Pequeno Furry	s	O
 O Pequeno Grande Guerreiro	f	O
 O Pequeno Grande Homem	f	O
 O Pequeno Grande Time	f	O
+O Pequeno Guerreiro	f	O
 O Pequeno Gângster	f	O
 O Pequeno Naia: Na luta contra o Rei dos Dragões	f	O
 O Pequeno Narigudo	f	O
@@ -28359,6 +28373,7 @@ Operación Esperanza Los niños perdidos en el Amazonas	f	O
 Operación triunfo	s	O
 Operasjon Arktis	f	O
 Operation Buffalo	s	O
+Operation Sabre	s	O
 Operação 49	f	O
 Operação Alto Mar: Estados Unidos	s	O
 Operação Anthropoid (2016)	f	O
@@ -31458,6 +31473,7 @@ Que Rei Sou Eu	s	Q
 Que Se Dane o Amor, De Novo!	f	Q
 Que Seja Doce	s	Q
 Que Sorte Danada!	f	Q
+Que te Perdoe Deus... Eu Não	s	Q
 Quebra Cabeca Criminal	s	Q
 Quebra de Conduta	f	Q
 Quebra de Fidelidade	f	Q
@@ -36599,6 +36615,7 @@ The Pact	s	T
 The Pale Door	f	T
 The Paper	s	T	2025
 The Paper Tigers (2020)	f	T
+The Paradise	f	T
 The Paradise	s	T
 The Partisan	f	T
 The Parts You Lose	f	T
@@ -37743,6 +37760,7 @@ Tudo Pela Vitória	s	T
 Tudo pelo Divórcio	f	T
 Tudo Pelo Poder (2011)	f	T
 Tudo Pode dar Certo	f	T
+Tudo Pode Ser Visto	f	T
 Tudo Por Amor (1991)	f	T
 Tudo por Dinheiro (2005)	f	T
 Tudo Por Ela (2008)	f	T
@@ -38650,6 +38668,7 @@ Um Time Muito Louco Contra-Ataca	f	U
 Um Time Show de Bola (2013)	f	U
 Um Tio Quase Perfeito (2017)	f	U
 Um Tio Quase Perfeito 2	f	U
+Um Tio Quase Perfeito 3	f	U
 Um Tira Acima da Lei	f	U
 Um Tira Acima da Média (2005)	f	U
 Um Tira da Pesada (1984)	f	U

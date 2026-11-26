@@ -50,6 +50,7 @@ Que Rei Sou Eu		0	185
 Que Seja Doce		0	419
 Que a Deusa te Abençoe da Morte		0	13
 Que a Justiça Seja Feita		0	6
+Que te Perdoe Deus... Eu Não		0	1
 Quebra Cabeca Criminal		0	16
 Quebra de Juramento		0	3
 Quebra-Cabeça Mortal		0	2

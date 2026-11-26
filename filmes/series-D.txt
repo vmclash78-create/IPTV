@@ -513,7 +513,7 @@ Dot		4	52
 Double Cross		4	7
 Double Helix		4	13
 Doubt		4	13
-Doug	1991	4	65
+Doug	1991	4	90
 Doug O Robo Curioso		4	26
 Dough: O Ganha-Pão		4	8
 Douluo Continent		4	80

@@ -145,6 +145,7 @@ Enganos e Mentiras		1	16
 Engenharia Extrema		1	6
 Engenheiros de Hitler Construindo o Terceiro Reich		1	6
 Engracadinha Seus Amores e Seus Pecados		1	18
+Enigma do Palco Negro		1	8
 Enigmas da Historia		1	12
 Enigmas do Universo		1	6
 Enloqueciendo Contigo		1	20
@@ -229,6 +230,7 @@ Esportes pelo Mundo		1	12
 Esposa Troféu? Ela É a Própria Fortuna!		1	1
 Esposa e Buff Absurdo: Subindo para Dominar Tudo		1	1
 Esposa em Fuga, de Novo!		1	1
+Espécies Raras		1	6
 Espíritos na Escola	2023	1	24
 Esquadrao Resgate		1	93
 Esquadrao Ufo		1	10
@@ -239,8 +241,8 @@ Esquadrão Relâmpago Changeman		1	55
 Esquadrão Suicida: Isekai	2024	1	10
 Esquadrão de Cavaleiros		1	29
 Esquadrão de Confeiteiros		1	16
-Esquadrão de Heróis	2009	1	52
-Esquece Isso!		1	13
+Esquadrão de Heróis	2009	2	52
+Esquece Isso!		2	13
 Esquemas da FIFA		2	4
 Esqueça-me se Puder		2	107
 Esquiando para o Amor		2	23
@@ -357,8 +359,8 @@ Explicando... O Coronavírus		2	3
 Explicando: A Mente		2	10
 Explode Coração		2	155
 Exploding Kittens		2	9
-Explosivos		2	8
-Exposta		2	7
+Explosivos		3	8
+Exposta		3	7
 Express		3	16
 Expresso Sicilia		3	5
 Expresso do Amanhã	2020	3	30

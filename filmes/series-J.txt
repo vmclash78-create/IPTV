@@ -106,6 +106,7 @@ Jonny Quest	1964	0	39
 Jorels Brother Shostners Show		0	4
 Jormungand		0	24
 Jornada Astral		0	12
+Jornada ao Oeste		0	4
 Jornada de Heróis		0	10
 Jornada do Amor - Aziz Mahmud Hüdayi Aşkın Yolculuğu		0	20
 Jornada dos Passaros - Kuşlarla Yolculuk		0	30
@@ -117,8 +118,8 @@ Jornada nas Estrelas Voyager	1995	0	183
 Jornada nas Estrelas: A Nova Geração		0	177
 Jornada nas Estrelas: A Serie Animada		0	22
 Jornada nas Estrelas: Enterprise		0	97
-Joshi Kausei		0	24
 Juliet no Internato		0	12
+Joshi Kausei		1	24
 Joshikousei no Mudazukai		1	12
 Josie e as Gatinhas no Espaço		1	16
 José Comilão	2020	1	1

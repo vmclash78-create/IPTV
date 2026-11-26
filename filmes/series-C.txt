@@ -117,7 +117,7 @@ Caras		0	18
 Caras & Bocas		0	232
 Caras e Bocas		0	232
 Caravana das Drags		0	9
-Carcereiros	2017	0	30
+Carcereiros	2017	0	33
 Chivalry of a Failed Knight		0	24
 Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.		0	11
 Com Pocoes Eu Me Garanto		0	12
@@ -259,8 +259,9 @@ Caverna do Dragão	None	2	68
 Cazalbe O Herdeiro da Graca		2	5
 Caça Talentos		2	299
 Caça aos Famosos com Bear Grylls		2	8
+Caçada no Deserto: O Caso Adam Nayeri		2	3
 Caçador de Demônios	2025	2	8
-Caçadora De Relíquias		2	57
+Caçadora De Relíquias		2	64
 Caçadoras de Recompensas		2	10
 Caçadores		2	19
 Caçadores da Verdade		2	2
@@ -362,7 +363,7 @@ Chega Mais		2	6
 Chega de Bagunca com Stacey Solomon		2	7
 Cheias de Charme		2	143
 Chernobyl	2019	2	5
-Cherry Blossoms After Winter		2	8
+Cherry Blossoms After Winter		3	8
 Chesapeake Shores	2016	3	56
 Chespirito: Sem Querer Querendo	2025	3	8
 Chewing Gum		3	10
@@ -480,7 +481,7 @@ Clarêncio, O Otimista	2014	3	164
 Clas Sangue e Poder		3	3
 Class Crush Crisis		3	8
 Classe Mortal		3	10
-Classe dos Heróis Fracos	2022	3	16
+Classe dos Heróis Fracos	2022	4	16
 Classes		4	8
 Classic Stars		4	13
 Classroom of the Elite		4	108
@@ -599,7 +600,7 @@ Conan O'Brien Vai Nessa		4	9
 Conception		4	2
 Condenado ao Amor - Aşka Mahkum		4	81
 Condenados pela Mídia		4	6
-Condor	2018	4	30
+Condor	2018	5	30
 Conexoes Traicoeiras		5	14
 Conexão: Comer, Amar e Matar		5	16
 Conexões		5	8
@@ -666,6 +667,7 @@ Conversando com um serial killer: A Mente de Charles Manson		5	3
 Conversando com um serial killer: Ted Bundy		5	4
 Conversando com um serial killer: o Palhaço Assassino		5	3
 Conversas Entre Amigos		5	12
+Conversas que Curam		5	9
 Convidada - Misafir		5	5
 Cook Island: Ilha do Sabor		5	10
 Cookies de Natal O Desafio		5	36
@@ -718,8 +720,8 @@ Corporate		5	25
 Corpos	2023	5	8
 Corpos Extraordinarios		5	4
 Corpos no Porao		5	4
-Corre Compra e Cozinha		5	39
-Corrente Implacavel		5	18
+Corre Compra e Cozinha		6	39
+Corrente Implacavel		6	18
 Corretores de Luxo em Marbella		6	6
 Corrida Ao Redor Da Terra		6	7
 Corrida Maluca	1968	6	34
@@ -836,8 +838,8 @@ Cybercop: Os Policiais do Futuro		6	34
 Cyberpunk: Edgerunners		6	20
 Cyberpunk: Mercenários	2022	6	36
 Cycle of Sin		6	20
-Cypher		6	3
-Câmera Entre Balas		6	8
+Cypher		7	3
+Câmera Entre Balas		7	8
 Cães de Berlim		7	10
 Cães de Caça	2023	7	15
 Círculo Fechado	2023	7	6

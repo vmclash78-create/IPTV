@@ -1058,7 +1058,7 @@ Premonições em Woodland (2018)	dub=18:707011,http://dbonline.tech-cdn.top:80/m
 Prenda Me Se for Capaz	dub=18:640,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30770.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253797.mp4
 Prenda a Respiração (2024)	dub=18:718014,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58176.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51440.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86802.mp4
 Prenda-me se Puder!	dub=18:47701
-Preparada para a Guerra (2025)	dub=18:1196067.m3u8,18:1196067,https://embedplayer2.xyz/cdn/hls/c3bbb57850019668f86fe011f01ae8a2/master.txt
+Preparada para a Guerra (2025)	dub=18:1196067,18:1196067.m3u8,https://embedplayer2.xyz/cdn/hls/c3bbb57850019668f86fe011f01ae8a2/master.txt
 Preparativos para Ficarmos Juntos por Tempo Indefinido	dub=18:727002,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30775.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86803.mp4
 Preparação e Pouso Operação Bola de Neve	dub=18:1550797,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1041.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86818.mp4
 Preparação para a Próxima Vida	dub=18:1314129,https://embedplayer2.xyz/cdn/hls/e862d42af91d49db882cabfe40e437a8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97479.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1050.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86809.mp4
@@ -1258,7 +1258,7 @@ Protegendo o Paraíso: A História de Niue (2024)	dub=18:1300132,https://embedpl
 Protegida Por um Anjo	dub=18:9756,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255482.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255463.mp4
 Proteção à Testemunha	dub=18:98431,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30826.mp4
 Protocolo de Extermínio	dub=18:1284046
-Protocolo de Fuga	dub=18:1293167.m3u8,18:1293167
+Protocolo de Fuga	dub=18:1293167,18:1293167.m3u8
 Proud Mary - A Profissional (2018)	dub=18:442064
 Prova Final	dub=18:9276,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51496.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87059.mp4
 Prova de Coragem	dub=18:352996,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253349.mp4

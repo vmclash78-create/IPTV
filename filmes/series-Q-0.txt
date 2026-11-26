@@ -1505,11 +1505,11 @@
 1	4	dub	19:154535/1/4,http://64.31.23.207:80/series/96795792/50165825/5607964.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153277.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153289.mp4
 1	5	dub	19:154535/1/5,http://64.31.23.207:80/series/96795792/50165825/5607965.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153278.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153290.mp4
 1	6	dub	19:154535/1/6,http://64.31.23.207:80/series/96795792/50165825/5607966.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153279.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153291.mp4
-2	1	dub	http://64.31.23.207:80/series/96795792/50165825/5607967.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153280.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153292.mp4
+2	1	dub	19:154535/2/1,http://64.31.23.207:80/series/96795792/50165825/5607967.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153280.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153292.mp4
 2	2	dub	http://64.31.23.207:80/series/96795792/50165825/5607968.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153281.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153293.mp4
-2	3	dub	http://64.31.23.207:80/series/96795792/50165825/5607969.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153282.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153294.mp4
+2	3	dub	19:154535/2/3,http://64.31.23.207:80/series/96795792/50165825/5607969.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153282.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153294.mp4
 2	4	dub	19:154535/2/4,http://64.31.23.207:80/series/96795792/50165825/5607970.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153283.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153295.mp4
-2	5	dub	http://64.31.23.207:80/series/96795792/50165825/5607971.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153284.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153296.mp4
+2	5	dub	19:154535/2/5,http://64.31.23.207:80/series/96795792/50165825/5607971.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153284.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153296.mp4
 2	6	dub	19:154535/2/6,http://64.31.23.207:80/series/96795792/50165825/5607972.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153285.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153297.mp4
 @Que Falta Você Me Faz	2025
 1	1	dub	19:244243/1/1,https://embedplayer2.xyz/cdn/hls/78fdae5a8ea7da4207e88847f83bb0d4/master.txt,http://64.31.23.207:80/series/96795792/50165825/5649145.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153298.mp4
@@ -2717,6 +2717,8 @@
 1	4	dub	19:205788/1/4,http://64.31.23.207:80/series/96795792/50165825/5616378.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153271.mp4
 1	5	dub	19:205788/1/5,http://64.31.23.207:80/series/96795792/50165825/5616379.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153272.mp4
 1	6	dub	19:205788/1/6,http://64.31.23.207:80/series/96795792/50165825/5616380.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153273.mp4
+@Que te Perdoe Deus... Eu Não
+1	1	dub	19:62066/1/1
 @Quebra Cabeca Criminal
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5542454.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/54371.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5542455.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/54373.mp4

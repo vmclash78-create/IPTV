@@ -14,6 +14,7 @@ O Amor Invencivel		0	80
 O Amor Mora ao Lado	2024	0	16
 O Amor Nao Tem Mitos		0	21
 O Amor Nao Tem Receita - El Amor no Tiene Receta		0	28
+O Amor Nunca Falha		0	6
 O Amor Não Entende Palavras		0	61
 O Amor Não Espera		0	20
 O Amor Não Está Esgotado		0	12
@@ -117,7 +118,6 @@ O Circo da Paixão		0	8
 O Circulo		0	80
 O Circulo - Halka		0	80
 O Circulo Secreto		0	22
-O Cla Olimpia Uma Historia de Redencao		0	12
 O Gato Prendado está Deprimido Hoje de Novo		0	13
 O Grande Clerigo		0	12
 O Mundo Ainda e Belo		0	3
@@ -130,6 +130,7 @@ Onii-chan Dakedo Ai sae Areba Kankei nai yo ne		0	12
 Ore wa Subete o		0	1
 Ore,Twin Tail Ni Narimasu.		0	12
 Otome Yokai Zakuro		0	13
+O Cla Olimpia Uma Historia de Redencao		1	12
 O Clone		1	221
 O Clube - The Club		1	29
 O Clube - The club - Kulup		1	20
@@ -249,7 +250,7 @@ O Galã: A TV Mudou, Ele Não		1	12
 O Gambito da Rainha		1	7
 O Garoto De Programa Que Conheci Em Paris		1	1
 O Garoto de Cada Dia		1	7
-O Gato Félix		1	98
+O Gato Félix		2	98
 O Genio - Deha		2	128
 O Gerente Noturno	2016	2	12
 O Gerente da Noite	2016	2	12
@@ -367,7 +368,7 @@ O Melhor de Tudo		2	28
 O Melhor do Mundo com Antoni Porowski		2	8
 O Menino Maluquinho		2	26
 O Menino que não vai para o Ceu		2	6
-O Mentalista	2008	2	151
+O Mentalista	2008	3	151
 O Mentiroso - Yalancı		3	7
 O Mestre Oculto		3	1
 O Meu Pai é um Caçador de Recompensas!	2023	3	19
@@ -486,7 +487,7 @@ O Profeta		3	252
 O Programa do Cheiroso e Sujinho	2016	3	39
 O Programa: 90 Dias Longe das Drogas		3	6
 O Programa: A Indústria dos Internatos Abusivos	2024	3	3
-O Promotor Militar Dobermann		3	32
+O Promotor Militar Dobermann		4	32
 O Príncipe Dragão	2018	4	63
 O Próximo Empreendedor com Gordon Ramsay		4	20
 O Próximo Grande Chef		4	6
@@ -604,7 +605,7 @@ O Terremoto do Everest		4	3
 O Terráqueo		4	16
 O Testamento O Segredo de Anita Harley		4	5
 O Tick		4	22
-O Tigre Verón		4	12
+O Tigre Verón		5	12
 O Tio de Outro Mundo	2022	5	13
 O Toque Do Silêncio		5	6
 O Tormento		5	6
@@ -722,7 +723,7 @@ Olhos do Mar Negro - Gozleri Karadeniz		5	16
 Olhos que Condenam		5	4
 Olive Kitteridge		5	4
 Ollie, o Coelhinho Perdido	2022	5	4
-Ololade		5	6
+Ololade		6	6
 Olympo		6	8
 Olá, Amanhã!		6	10
 Olá, Jack! – Um programa sobre gentileza		6	16
@@ -778,6 +779,7 @@ Operacao Guerra Verde		6	10
 Operacao Policial		6	20
 Operación triunfo		6	2
 Operation Buffalo		6	6
+Operation Sabre		6	7
 Operação Alto Mar: Estados Unidos		6	12
 Operação Berlim	2016	6	29
 Operação Big Hero: A Série	2017	6	60
@@ -837,8 +839,8 @@ Os Assassinatos de Fox Hollow Playground de um Serial Killer		6	5
 Os Assassinatos de Gilgo Beach		6	4
 Os Assassinatos de Idaho: Pesadelo Universitário		6	3
 Os Assassinatos de Starved Rock		6	3
-Os Assassinatos de Åre	2025	6	5
-Os Astronautas		6	10
+Os Assassinatos de Åre	2025	7	5
+Os Astronautas		7	10
 Os Auditores		7	24
 Os Ausentes		7	10
 Os Bandidos do Tempo	2024	7	10
@@ -957,8 +959,8 @@ Os Passaros Feridos		7	4
 Os Pecados de Kujo		7	10
 Os Pequenos Johnstons		7	162
 Os Pilares Da Terra		7	8
-Os Pinguins de Madagascar	2008	7	160
-Os Pioneiros		7	8
+Os Pinguins de Madagascar	2008	8	160
+Os Pioneiros		8	8
 Os Piores Ex		8	8
 Os Protetores		8	15
 Os Quatro da Candelária	2024	8	4

@@ -251,6 +251,8 @@ A Gangue de Bogota		1	8
 A Garota Desaparecida do Vaticano		1	4
 A Garota Que Ele Nunca Notou		1	8
 A Garota Roubada		1	5
+Anos Dourados		10	20
+Anos Incriveis		10	163
 Anos-luz		10	8
 Anota Aí		10	53
 Another		10	12
@@ -321,6 +323,7 @@ Aquele Sobre Matthew Perry		10	3
 Aqueles Olhos Negros	2022	10	14
 Aqueles Prestes a Morrer		10	10
 Aqui Na Terra		10	16
+Aqui Nasceu o Hip-Hop!		10	5
 Aqui Quem Fala é o Zodíaco		10	3
 Ar Momentâneo		10	12
 Arafta		10	100
@@ -368,9 +371,9 @@ Arquivos Sobrenaturais		10	12
 Arquivos do Inexplicável		10	8
 Arranjo de Natal		10	3
 Arremesso Final	2020	10	10
-Arrested Development		10	91
-Arrow	2012	10	170
-Ars no Kyojuu		10	12
+Arrested Development		11	91
+Arrow	2012	11	170
+Ars no Kyojuu		11	12
 Arsenal Military Academy		11	48
 Art Attack: Modo Desafio		11	12
 Art Attack: Snack		11	12
@@ -487,9 +490,9 @@ As Tontas Não Vão ao Céu		11	140
 As Trapalhadas de Flapjack		11	90
 As Travessuras da Menina Ma		11	20
 As Trigêmeas	1995	11	104
-As Três Detetives		11	10
-As Três Irmãs	2022	11	12
-As Vidas Secretas da Família Uysal		11	8
+As Três Detetives		12	10
+As Três Irmãs	2022	12	12
+As Vidas Secretas da Família Uysal		12	8
 As Visões Da Raven		12	99
 As Viuvas das Quintas-Feiras		12	6
 As Vozes dos Mortos		12	8
@@ -607,9 +610,9 @@ a Menina das Estrelas	2022	12	52
 a Vó e a Boi		12	6
 a cor do amor - a cor do amor		12	69
 aka Charlie Sheen		12	2
-amor ilimitado - amor ilimitado		12	70
-À Beira do Caos		12	12
-À Beira do Precipício		12	6
+amor ilimitado - amor ilimitado		13	70
+À Beira do Caos		13	12
+À Beira do Precipício		13	6
 À Espera de Perséfone		13	4
 À Procura do Amor		13	6
 À Procura do Assassino: Aqueles Que Matam	2019	13	24
@@ -935,6 +938,7 @@ A Sogra Que Te Pariu		4	20
 A Sombra do Batman	2013	4	26
 A Sombra do Passado - La Sombra del Pasado		4	138
 A Sonhada Casa de Campo		4	8
+A Sonhada Casa de Praia		4	79
 A Sonhadora		4	161
 A Sonhadora - Passaro Madrugador - Erkenci Kus		4	161
 A Sorte de Loli		4	103
@@ -974,7 +978,7 @@ A Turma do Ze Colmeia		4	15
 A Ultima Noite em Tremor		4	8
 A Ultima Transmissao O Sequestro de Jodi Huisentruit		4	3
 A Unidade		4	18
-A Usurpadora		4	107
+A Usurpadora		5	107
 A Vaca E O Frango		5	52
 A Verdade Por Tras do Homem Na Lua		5	6
 A Verdade Sobre o Caso Harry Quebert		5	10
@@ -1093,8 +1097,8 @@ Academia Unicornio		5	9
 Academia Unicórnio: Segredos Revelados	2026	5	12
 Academia de Dança		5	65
 Academia de Giuseppe		5	13
-Academia de Vampiros	2022	5	20
-Acampados		6	135
+Academia de Vampiros	2022	6	20
+Acampados		6	150
 Acampamento Mágico	2026	6	23
 Acampamento de Magia para Jovens Bruxos	2023	6	9
 Acampamento de Verão	2018	6	119
@@ -1211,7 +1215,7 @@ Akif		6	13
 Akikan		6	24
 Akkun to Kanojo		6	50
 Akudama Drive		6	24
-Akuma kun		6	12
+Akuma kun		7	12
 Akuma no Riddle		7	25
 Akuyaku Reijou nanode Last Boss wo Kattemimashita		7	12
 Al Hayba		7	147
@@ -1231,6 +1235,7 @@ Alegrifes e Rabujos		7	135
 Alem do Direito		7	12
 Alemão: Os Dois Lados do Complexo		7	4
 Alert Unidade de Pessoas Desaparecidas		7	30
+Alerta Reforma! Lucro em Risco		7	13
 Alex Cooper A voz por tras de Call Her Daddy		7	2
 Alex Rider	2020	7	24
 Alex vs ARod		7	3
@@ -1330,8 +1335,8 @@ Amar Você de Novo, Meu Irmão Adotivo		7	1
 Amar a Morte		7	87
 Amar e Como Andar de Bicicleta		7	16
 Amar e Matar		7	16
-Amar e Para os Fortes		7	7
-Amar e Renovar, Renovar e Amar com Hilary Farr		7	18
+Amar e Para os Fortes		8	7
+Amar e Renovar, Renovar e Amar com Hilary Farr		8	18
 Amar e Viver		8	69
 Amarras do Amor		8	48
 Amarração no Amor		8	10
@@ -1448,8 +1453,8 @@ Amor e Honra		8	154
 Amor e Honra - Leke		8	39
 Amor e Intrigas		8	211
 Amor e Lagrimas - Ask Ve Gozyasi		8	7
-Amor e Morte		8	7
-Amor e Odio - Aşk ve Mavi		8	15
+Amor e Morte		9	7
+Amor e Odio - Aşk ve Mavi		9	15
 Amor e Orgulho - Ask ve Gurur		9	120
 Amor e Outros Dramas		9	20
 Amor e Para os Caes		9	10
@@ -1567,5 +1572,3 @@ Ano Natsu de Matteru		9	24
 Anomalia		9	10
 Anos 90 A Decada que Mudou o Mundo		9	10
 Anos 90: A Explosão do Pagode		9	3
-Anos Dourados		9	20
-Anos Incriveis		9	163

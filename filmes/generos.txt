@@ -25984,6 +25984,7 @@ s	Aquele Beijo	Novela,Comédia
 s	Aqueles Olhos Negros	Crime,Drama,Mistério
 s	Aqueles Prestes a Morrer	Drama
 s	Aqui Na Terra	Crime,Drama
+s	Aqui Nasceu o Hip-Hop!	Documentário
 s	Aqui Quem Fala é o Zodíaco	Documentário,Crime
 s	Ar Momentâneo	Drama,Ficção e fantasia,Mistério
 s	ARA San Juan O Submarino que Desapareceu	Documentário
@@ -26892,6 +26893,7 @@ s	Caverna Do Dragão	Animação,Ficção e fantasia,Comédia,Ação e aventura,I
 s	Caverna do Dragão	Animação,Ficção e fantasia,Comédia,Ação e aventura,Infantil
 s	Cazalbe O Herdeiro da Graca	Documentário
 s	Caça aos Famosos com Bear Grylls	Reality
+s	Caçada no Deserto: O Caso Adam Nayeri	Documentário
 s	Caçador de Demônios	Ação e aventura,Ficção e fantasia,Comédia
 s	Caçadora De Relíquias	Ficção e fantasia,Mistério,Ação e aventura,Drama
 s	Caçadoras de Recompensas	Comédia,Ação e aventura,Drama
@@ -27236,6 +27238,7 @@ s	Conversando com um Serial Killer: O Canibal de Milwaukee	Documentário,Crime
 s	Conversando com um serial killer: o Palhaço Assassino	Documentário
 s	Conversando com um serial killer: Ted Bundy	Documentário,Crime
 s	Conversas Entre Amigos	Drama
+s	Conversas que Curam	Drama
 s	Cook Island: Ilha do Sabor	Reality
 s	Cookies de Natal O Desafio	Reality
 s	Cooking Crush	Comédia,Drama
@@ -28022,6 +28025,7 @@ s	Enganos e Mentiras	Drama,Crime
 s	Engenharia Extrema	Documentário
 s	Engenheiros de Hitler Construindo o Terceiro Reich	Guerra e política,Documentário
 s	Engracadinha Seus Amores e Seus Pecados	Drama
+s	Enigma do Palco Negro	Mistério
 s	Enigmas da Historia	Documentário
 s	Enigmas do Universo	Documentário
 s	Enloqueciendo Contigo	Comédia,Drama
@@ -28090,6 +28094,7 @@ s	Espere um segundo, Harutora-kun	Comédia,Drama
 s	Espere um segundo,Harutora-kun (2026)	Comédia,Drama
 s	ESPN Jeopardy!	Reality
 s	Esportes pelo Mundo	Documentário
+s	Espécies Raras	Documentário,Ação e aventura
 s	Espíritos na Escola	Mistério,Drama
 s	Esquadrao Resgate	Drama
 s	Esquadrilha Parafuso	Família,Animação,Infantil,Ação e aventura
@@ -29353,6 +29358,7 @@ s	Jonestown: Massacre no Culto	Documentário,Crime
 s	Jonny Quest	Ação e aventura,Animação
 s	Jorels Brother Shostners Show	Animação,Comédia,Infantil
 s	Jormungand	Animação,Ação e aventura,Drama
+s	Jornada ao Oeste	Drama,Comédia
 s	Jornada Astral	Reality
 s	Jornada nas Estrelas	Ficção e fantasia,Drama
 s	Jornada nas Estrelas A Nova Missao	Ficção e fantasia,Ação e aventura,Drama
@@ -30863,6 +30869,7 @@ s	Não Estou Morta!	Comédia
 s	Não Fale com Estranhos	Mistério,Crime
 s	Não Foi Minha Culpa: Brasil	Drama
 s	Não Foi Minha Culpa: México	Drama
+s	Não Há Segunda Chance	Drama,Mistério
 s	Não nos Calaremos	Drama
 s	Não Provoque	Drama,Mistério,Crime
 s	Não Sou um Robô	Comédia,Drama
@@ -31528,6 +31535,7 @@ s	Operacao Fronteira Italia	Reality
 s	Operacao Guerra Verde	Documentário
 s	Operacao Policial	Crime,Documentário,Reality
 s	Operación triunfo	Reality
+s	Operation Sabre	Drama
 s	Operação Alto Mar: Estados Unidos	Reality,Documentário
 s	Operação Berlim	Ação e aventura,Drama
 s	Operação Big Hero: A Série	Ação e aventura,Animação,Comédia,Família,Ficção e fantasia

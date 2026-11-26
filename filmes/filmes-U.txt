@@ -658,6 +658,7 @@ Um Time Show de Bola (2013)	dub=18:153158,https://embedplayer2.xyz/cdn/hls/97388
 Um Time de Fé	dub=18:158265
 Um Tio Quase Perfeito (2017)	dub=18:448949,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20467.mp4
 Um Tio Quase Perfeito 2	dub=18:784117,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20471.mp4
+Um Tio Quase Perfeito 3	dub=18:1368568
 Um Tira Acima da Lei	dub=18:75622
 Um Tira Acima da Média (2005)	dub=18:19803,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7893.mp4
 Um Tira Muito Suspeito (1999)	dub=18:11001,https://embedplayer2.xyz/cdn/hls/3b70e335726d746fa101c5d328d110e5/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7877.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312564.mp4

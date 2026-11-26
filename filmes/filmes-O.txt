@@ -2017,7 +2017,7 @@ O Padre	dub=18:40156	leg=18:40156.mp4?lang=leg
 O Padrezinho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314429.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314543.mp4
 O Padrinho	dub=18:79026
 O Pagador de Promessas	dub=18:59990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301321.mp4
-O Pagamento	dub=18:9620.m3u8,18:9620
+O Pagamento	dub=18:9620,18:9620.m3u8
 O Pagamento Final	dub=18:6075,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310656.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310686.mp4
 O Pai O 2 (2023)	dub=18:1116407,https://embedplayer2.xyz/cdn/hls/37b9c2795198344408cd2648bfb239e6/master.txt
 O Pai da Noiva (2022)	dub=18:11846,18:746419,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57597.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42465.mp4
@@ -2073,6 +2073,7 @@ O Pequeno Bulldog	dub=18:807979,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 O Pequeno Grande Guerreiro	dub=18:35138
 O Pequeno Grande Homem	dub=18:11040,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35116.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83251.mp4
 O Pequeno Grande Time	dub=18:20726
+O Pequeno Guerreiro	dub=18:1280115
 O Pequeno Gângster	dub=18:332349
 O Pequeno Naia: Na luta contra o Rei dos Dragões	dub=18:74037
 O Pequeno Narigudo	dub=18:51349,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253777.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253835.mp4

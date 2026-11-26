@@ -58,7 +58,7 @@ Katana Maidens ~ Toji No Miko		0	24
 Katla	2021	0	8
 Katrina: Depois da Tempestade		0	3
 Katy Keene		0	13
-Kaulitz and Kaulitz		0	16
+Kaulitz and Kaulitz		0	24
 Kawaii dake ja Nai Shikimori-san		0	24
 Kaya chan Isnt Scary		0	5
 Kaze No Stigma		0	48
@@ -112,7 +112,7 @@ Kindaichi: O Jovem Detetive		0	10
 Kindred: Segredos e Raízes		0	8
 King of Boys The Return of the King		0	7
 King of Boys: O Retorno do Rei		0	7
-Kingdom	None	0	296
+Kingdom	None	0	301
 Kingdom: Decisão Dividida		0	37
 Kings		0	12
 KinnPorsche		0	15

@@ -3114,9 +3114,9 @@
 2	15	leg	19:62856/2/15.mp4?lang=leg
 2	16	leg	19:62856/2/16.mp4?lang=leg
 @A Fantastica Fábrica da Sanidade
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5625585.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34788.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5625586.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34789.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5625587.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34790.mp4
+1	1	dub	19:219018/1/1,http://64.31.23.207:80/series/96795792/50165825/5625585.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34788.mp4
+1	2	dub	19:219018/1/2,http://64.31.23.207:80/series/96795792/50165825/5625586.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34789.mp4
+1	3	dub	19:219018/1/3,http://64.31.23.207:80/series/96795792/50165825/5625587.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34790.mp4
 @A Favorita
 1	1	dub	19:7448/1/1,http://64.31.23.207:80/series/96795792/50165825/5483200.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/93895.mp4
 1	2	dub	19:7448/1/2,http://64.31.23.207:80/series/96795792/50165825/5483201.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/93896.mp4
