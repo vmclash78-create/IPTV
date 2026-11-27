@@ -71,7 +71,7 @@ Westworld - Onde Ninguém Tem Alma	dub=18:2362,http://dbonline.tech-cdn.top:80/m
 Wet Season	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96000.mp4
 What Happened, Miss Simone? (2015)	dub=18:318044
 What Lies Below	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52724.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96004.mp4
-What Men Want Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96012.mp4
+What Men Want Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96012.mp4
 What The Nanny Saw	dub=18:925857
 What You Wish For	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96017.mp4
 What a Nightmare, Charlie Brown!	dub=18:55444
@@ -147,7 +147,7 @@ Wolfwalkers	dub=18:441130,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Wolverine Imortal	dub=18:76170,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59333.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8188.mp4
 Wolves	dub=18:1527451,18:345909,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33253.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96128.mp4
 Wolves of War	dub=18:843399
-Woman at War Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96133.mp4
+Woman at War Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96133.mp4
 Woman in Car	dub=18:811894
 Woman in the Maze (2023)	dub=18:1145028,https://embedplayer2.xyz/cdn/hls/8fb2854018b1f7029247f1af28226176/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96160.mp4
 Woman in the Woods	dub=18:770262	leg=18:770262.mp4?lang=leg

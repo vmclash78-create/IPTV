@@ -1656,6 +1656,8 @@
 @Guardian: The Lonely and Great God 10th Anniversary
 1	1	leg	19:325828/1/1.mp4?lang=leg
 1	2	leg	19:325828/1/2.mp4?lang=leg
+1	3	leg	19:325828/1/3.mp4?lang=leg
+1	4	leg	19:325828/1/4.mp4?lang=leg
 @Guardiões da Floresta
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5620213.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141772.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5620214.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141773.mp4
@@ -1680,7 +1682,7 @@
 @Guardiões da Justiça
 1	1	dub	19:157285/1/1,http://64.31.23.207:80/series/96795792/50165825/5610935.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141792.mp4
 1	2	dub	19:157285/1/2,http://64.31.23.207:80/series/96795792/50165825/5610936.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141793.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5610937.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141794.mp4
+1	3	dub	19:157285/1/3,http://64.31.23.207:80/series/96795792/50165825/5610937.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141794.mp4
 1	4	dub	19:157285/1/4,http://64.31.23.207:80/series/96795792/50165825/5610938.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141795.mp4
 1	5	dub	19:157285/1/5,http://64.31.23.207:80/series/96795792/50165825/5610939.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141796.mp4
 1	6	dub	19:157285/1/6,http://64.31.23.207:80/series/96795792/50165825/5610940.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141797.mp4
@@ -2372,18 +2374,18 @@
 1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5648387.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233766.mp4
 1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5648388.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233767.mp4
 @Guia Astrológico para Corações Partidos
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5605672.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141900.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5605673.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141901.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5605674.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141902.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5605675.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141903.mp4
+1	1	dub	19:135908/1/1,http://64.31.23.207:80/series/96795792/50165825/5605672.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141900.mp4
+1	2	dub	19:135908/1/2,http://64.31.23.207:80/series/96795792/50165825/5605673.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141901.mp4
+1	3	dub	19:135908/1/3,http://64.31.23.207:80/series/96795792/50165825/5605674.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141902.mp4
+1	4	dub	19:135908/1/4,http://64.31.23.207:80/series/96795792/50165825/5605675.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141903.mp4
 1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5605676.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141904.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5605677.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141905.mp4
-2	1	dub	http://64.31.23.207:80/series/96795792/50165825/5605678.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141906.mp4
-2	2	dub	http://64.31.23.207:80/series/96795792/50165825/5605679.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141907.mp4
-2	3	dub	http://64.31.23.207:80/series/96795792/50165825/5605680.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141908.mp4
-2	4	dub	http://64.31.23.207:80/series/96795792/50165825/5605681.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141909.mp4
-2	5	dub	http://64.31.23.207:80/series/96795792/50165825/5605682.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141910.mp4
-2	6	dub	http://64.31.23.207:80/series/96795792/50165825/5605683.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141911.mp4
+1	6	dub	19:135908/1/6,http://64.31.23.207:80/series/96795792/50165825/5605677.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141905.mp4
+2	1	dub	19:135908/2/1,http://64.31.23.207:80/series/96795792/50165825/5605678.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141906.mp4
+2	2	dub	19:135908/2/2,http://64.31.23.207:80/series/96795792/50165825/5605679.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141907.mp4
+2	3	dub	19:135908/2/3,http://64.31.23.207:80/series/96795792/50165825/5605680.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141908.mp4
+2	4	dub	19:135908/2/4,http://64.31.23.207:80/series/96795792/50165825/5605681.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141909.mp4
+2	5	dub	19:135908/2/5,http://64.31.23.207:80/series/96795792/50165825/5605682.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141910.mp4
+2	6	dub	19:135908/2/6,http://64.31.23.207:80/series/96795792/50165825/5605683.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141911.mp4
 @Guia de um Gamer Para Quase Tudo
 1	1	dub	19:63007/1/1
 1	2	dub	19:63007/1/2

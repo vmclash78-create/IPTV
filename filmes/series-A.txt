@@ -76,7 +76,7 @@ A Casa da Raven	2017	0	123
 A Casa das Sete Mulheres		0	55
 A Casa de Moda	2024	0	10
 A Casa do Disney Junior		0	81
-A Casa do Dragão	2022	0	26
+A Casa do Dragão	2022	0	35
 A Casa do Mickey Mouse		0	152
 A Casa do Mickey Mouse Mais		0	10
 A Casa dos Espíritos	2026	0	8
@@ -251,6 +251,7 @@ A Gangue de Bogota		1	8
 A Garota Desaparecida do Vaticano		1	4
 A Garota Que Ele Nunca Notou		1	8
 A Garota Roubada		1	5
+Anos 90: A Explosão do Pagode		10	3
 Anos Dourados		10	20
 Anos Incriveis		10	163
 Anos-luz		10	8
@@ -370,7 +371,7 @@ Arquivos Secretos do Vaticano O Papa e o Demonio		10	4
 Arquivos Sobrenaturais		10	12
 Arquivos do Inexplicável		10	8
 Arranjo de Natal		10	3
-Arremesso Final	2020	10	10
+Arremesso Final	2020	11	10
 Arrested Development		11	91
 Arrow	2012	11	170
 Ars no Kyojuu		11	12
@@ -489,7 +490,7 @@ As Terríveis Aventuras de Billy e Mandy	2001	11	89
 As Tontas Não Vão ao Céu		11	140
 As Trapalhadas de Flapjack		11	90
 As Travessuras da Menina Ma		11	20
-As Trigêmeas	1995	11	104
+As Trigêmeas	1995	12	104
 As Três Detetives		12	10
 As Três Irmãs	2022	12	12
 As Vidas Secretas da Família Uysal		12	8
@@ -609,7 +610,7 @@ a Aranha	1994	12	78
 a Menina das Estrelas	2022	12	52
 a Vó e a Boi		12	6
 a cor do amor - a cor do amor		12	69
-aka Charlie Sheen		12	2
+aka Charlie Sheen		13	2
 amor ilimitado - amor ilimitado		13	70
 À Beira do Caos		13	12
 À Beira do Precipício		13	6
@@ -874,7 +875,7 @@ A Pousada Bizarra do Kian84		4	19
 A Pousada do Jae seok		4	10
 A Pracinha		4	30
 A Primavera da Lâmina		4	30
-A Primeira Arte		4	3
+A Primeira Arte		4	4
 A Primeira Dama do Estado Islamico		4	1
 A Primeira Noite Com o Duque		4	12
 A Primeira Vez	2023	4	45
@@ -996,6 +997,7 @@ A Vida Interior Com o Padre Paulo Ricardo		5	24
 A Vida Mentirosa dos Adultos		5	6
 A Vida Moderna de Rocko		5	50
 A Vida Pela Frente	2023	5	10
+A Vida Privada Dela		5	16
 A Vida Secreta Do Meu Marido Bilionário		5	1
 A Vida Secreta Dos Casais		5	12
 A Vida Secreta da Minha Secretaria		5	16
@@ -1096,7 +1098,7 @@ Absurdos da Engenharia		5	6
 Academia Unicornio		5	9
 Academia Unicórnio: Segredos Revelados	2026	5	12
 Academia de Dança		5	65
-Academia de Giuseppe		5	13
+Academia de Giuseppe		6	13
 Academia de Vampiros	2022	6	20
 Acampados		6	150
 Acampamento Mágico	2026	6	23
@@ -1214,7 +1216,7 @@ Akibas Trip The Animation		6	26
 Akif		6	13
 Akikan		6	24
 Akkun to Kanojo		6	50
-Akudama Drive		6	24
+Akudama Drive		7	24
 Akuma kun		7	12
 Akuma no Riddle		7	25
 Akuyaku Reijou nanode Last Boss wo Kattemimashita		7	12
@@ -1236,7 +1238,7 @@ Alem do Direito		7	12
 Alemão: Os Dois Lados do Complexo		7	4
 Alert Unidade de Pessoas Desaparecidas		7	30
 Alerta Reforma! Lucro em Risco		7	13
-Alex Cooper A voz por tras de Call Her Daddy		7	2
+Alex Cooper A voz por tras de Call Her Daddy		7	4
 Alex Rider	2020	7	24
 Alex vs ARod		7	3
 Alex, Inc.		7	10
@@ -1334,7 +1336,7 @@ Amar Perder		7	16
 Amar Você de Novo, Meu Irmão Adotivo		7	1
 Amar a Morte		7	87
 Amar e Como Andar de Bicicleta		7	16
-Amar e Matar		7	16
+Amar e Matar		8	16
 Amar e Para os Fortes		8	7
 Amar e Renovar, Renovar e Amar com Hilary Farr		8	18
 Amar e Viver		8	69
@@ -1452,7 +1454,7 @@ Amor e Esperanca - Ask ve Umut		8	147
 Amor e Honra		8	154
 Amor e Honra - Leke		8	39
 Amor e Intrigas		8	211
-Amor e Lagrimas - Ask Ve Gozyasi		8	7
+Amor e Lagrimas - Ask Ve Gozyasi		9	7
 Amor e Morte		9	7
 Amor e Odio - Aşk ve Mavi		9	15
 Amor e Orgulho - Ask ve Gurur		9	120
@@ -1571,4 +1573,3 @@ Annem Ankara		9	15
 Ano Natsu de Matteru		9	24
 Anomalia		9	10
 Anos 90 A Decada que Mudou o Mundo		9	10
-Anos 90: A Explosão do Pagode		9	3

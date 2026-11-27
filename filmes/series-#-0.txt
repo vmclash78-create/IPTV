@@ -1227,14 +1227,14 @@
 2	6	dub	19:157744/2/6,https://embedplayer2.xyz/cdn/hls/6fe687a6ce10c646edaf59718fe5d6dd/master.txt
 2	7	dub	19:157744/2/7,https://embedplayer2.xyz/cdn/hls/0a54d15e116f7a6e395f9185bb503505/master.txt
 @1971 O ano em que a música mudou o mundo
-1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26519.mp4
+1	1	dub	19:124339/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26519.mp4
 1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26520.mp4
-1	3	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26521.mp4
-1	4	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26523.mp4
-1	5	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26524.mp4
-1	6	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26525.mp4
-1	7	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26527.mp4
-1	8	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26528.mp4
+1	3	dub	19:124339/1/3,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26521.mp4
+1	4	dub	19:124339/1/4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26523.mp4
+1	5	dub	19:124339/1/5,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26524.mp4
+1	6	dub	19:124339/1/6,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26525.mp4
+1	7	dub	19:124339/1/7,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26527.mp4
+1	8	dub	19:124339/1/8,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/26528.mp4
 @1992
 1	1	dub	19:62459/1/1,19:225467/1/1
 1	1	leg	19:62459/1/1.mp4?lang=leg
@@ -2463,10 +2463,10 @@
 20	18	dub	http://64.31.23.207:80/series/96795792/50165825/5496790.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/114903.mp4
 20	19	dub	http://64.31.23.207:80/series/96795792/50165825/5496791.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/114904.mp4
 @40m
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5594437.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202357.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5594438.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202358.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5594439.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202359.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5594440.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202360.mp4
+1	1	dub	19:119089/1/1,http://64.31.23.207:80/series/96795792/50165825/5594437.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202357.mp4
+1	2	dub	19:119089/1/2,http://64.31.23.207:80/series/96795792/50165825/5594438.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202358.mp4
+1	3	dub	19:119089/1/3,http://64.31.23.207:80/series/96795792/50165825/5594439.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202359.mp4
+1	4	dub	19:119089/1/4,http://64.31.23.207:80/series/96795792/50165825/5594440.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/202360.mp4
 @42 Dias de Escuridão
 1	1	dub	19:197190/1/1,http://64.31.23.207:80/series/96795792/50165825/5614161.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/131431.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5614162.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/131432.mp4

@@ -234,7 +234,7 @@ Felicidade por um Fio	dub=18:519035,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Felicidade sob a Árvore de Natal	dub=18:877692,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53081.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72490.mp4
 Felicidade é Um Cobertor Quente, Charlie Brown	dub=18:60897
 Felicidade é... (2024)	dub=18:1371350,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26064.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289494.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72500.mp4
-Felinos da Tailândia	dub=18:942400,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72495.mp4
+Felinos da Tailândia	dub=18:942400	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72495.mp4
 Felipe Neto: Minha Vida Não Faz Sentido	dub=18:448723
 Felix E O Tesouro de Morga	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53091.mp4
 Felix e o Tesouro de Morgan (2021)	dub=18:764807,https://embedplayer2.xyz/cdn/hls/e733961d69feccd75b5470145b17c5e3/master.txt
@@ -395,7 +395,7 @@ Fish N Chips - O Filme	dub=18:202778
 Fitas (2020)	dub=18:574089
 Fitas Proibidas - Antologia do Terror	dub=18:1255312,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253348.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254745.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253636.mp4
 Fito Páez El mundo cabe en una canción	dub=18:1744876	leg=18:1744876.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314508.mp4
-Five Feet Apart Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72657.mp4
+Five Feet Apart Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72657.mp4
 Five Nights at Freddy's - O Pesadelo Sem Fim	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55910.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48916.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72679.mp4
 Five Nights at Freddy's 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55924.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/512.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72684.mp4
 Five Nights at Freddys 2 (2025)	dub=18:1228246,https://embedplayer2.xyz/cdn/hls/33bfd865534d200c28aa532ae0538c53/master.txt
@@ -597,7 +597,7 @@ Fratura (2019)	dub=18:568091,https://embedplayer2.xyz/cdn/hls/8adc17ce37e5be1e81
 Fração de Segundos	dub=18:552865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3761.mp4
 Freaklândia - O Parque dos Horrores	dub=18:17796
 Freaknik A Festa Mais Selvagem	dub=18:1109711	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72958.mp4
-Freaks Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72974.mp4
+Freaks Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72974.mp4
 Freaks Out	dub=18:571468	leg=18:571468.mp4?lang=leg
 Freaks: Um de Nós (2020)	dub=18:658777,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26269.mp4
 Freaky	dub=https://embedplayer2.xyz/cdn/hls/b1cf2aa282aa1e4ba69eb218b3faf008/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72979.mp4

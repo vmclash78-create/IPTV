@@ -55,7 +55,7 @@ LUPIN III vs. CAT'S EYE	dub=18:1027159
 LUPIN III vs. CAT’S EYE	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9935.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77395.mp4
 LUZES, CAMERA, ACAO (2004)	dub=18:26486	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302875.mp4
 La Bamba	dub=18:16620,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27226.mp4
-La Boda De Mi Mejor Amigo Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76517.mp4
+La Boda De Mi Mejor Amigo Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76517.mp4
 La Bonga	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76509.mp4
 La Captura (2026)	dub=18:1621552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313264.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313267.mp4
 La Casa de Papel: el fenómeno (2020)	dub=18:689249
@@ -125,7 +125,7 @@ Lady Gucci: A História de Patrizia Reggiani	dub=18:903629
 Lady Jane - Uma História Verdadeira	dub=18:21867
 Lady Scorpions	dub=18:1252896	leg=18:1252896.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76580.mp4
 Lady Vinganca (2005)	dub=18:4550	leg=18:4550.mp4?lang=leg
-Lady and the Tramp Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76585.mp4
+Lady and the Tramp Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76585.mp4
 Ladybug - Aventura dos Insetos	dub=18:528726,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9775.mp4	leg=18:528726.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76600.mp4
 Lago da Morte	dub=18:14025
 Lago dos Ossos (2025)	dub=18:1330421,https://embedplayer2.xyz/cdn/hls/f1f74fd65b00e9652a8d5c1b7b4fcaed/master.txt	leg=https://embedplayer2.xyz/cdn/hls/62dd31834e483b91e236b6c5015d9626/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250479.mp4
@@ -337,7 +337,7 @@ Libertos: O Preço da Vida	dub=18:560966
 Licença para Casar (2007)	dub=18:2959,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16010.mp4
 Lick	dub=18:628680,18:1371789	leg=18:628680.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76912.mp4
 Licorice Pizza	dub=18:718032,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56608.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/638.mp4	leg=18:718032.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76923.mp4
-Life Like Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76933.mp4
+Life Like Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76933.mp4
 Life Um Retrato de James Dean	dub=18:300153,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27362.mp4
 Lifi,uma Galinha na Selva	dub=18:89623
 Lift Roubo nas Alturas (2024)	dub=18:955916,https://embedplayer2.xyz/cdn/hls/81e7e2e943fa6d5692cdd5c7562a14c1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56603.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4668.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76944.mp4
@@ -506,7 +506,7 @@ London Calling	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6
 London Fields: Romance Fatal (2018)	dub=18:220882,https://embedplayer2.xyz/cdn/hls/a66f2c3eb957edfa64a550fa3655944e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44805.mp4
 Lonely People Nunca Confie em Ninguém	dub=18:1623279,https://embedplayer2.xyz/cdn/hls/337fcc7709cd2bc996e5826b1100eec8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251717.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254766.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251699.mp4
 Long Distance	leg=18:605722.mp4?lang=leg
-Long Shot Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77190.mp4
+Long Shot Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77190.mp4
 Longe Deste Insensato Mundo	dub=18:250734,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27431.mp4
 Longe do Paraiso (2002)	dub=18:10712
 Longe do Paraíso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27436.mp4
@@ -740,7 +740,7 @@ Luzes de Phoenix	dub=18:443319
 Luzes do Além	dub=18:7006
 Luzia Homem	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254284.mp4
 Lycan Princess	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303201.mp4
-Lying and Stealing Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77442.mp4
+Lying and Stealing Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77442.mp4
 Lá Fora	dub=18:1306764,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49565.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77457.mp4
 Lâmina dos 47 Ronins (2022)	dub=18:732459,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4778.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77468.mp4
 Lâminas da Morte - A Maldição de Jack, o Estripador	dub=18:418808

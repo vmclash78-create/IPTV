@@ -1,6 +1,6 @@
 X-Men	1992	0	152
 X-Men '97	2024	0	19
-X-Men Serie Animada	1992	0	76
+X-Men Serie Animada		0	76
 X-Men: Evolution	2000	0	104
 XIII: The Series		0	26
 XMen 97	2024	0	19

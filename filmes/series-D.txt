@@ -310,6 +310,7 @@ Deu a Louca no Tempo		2	5
 Deus Me Adicionou		2	42
 Deus Nos Acuda		2	77
 Deus Salve o Rei		2	174
+Deusa dos Golpes		2	6
 Deuses Americanos	2017	2	26
 Deuses Egipcios		2	3
 Devil May Cry	2025	2	32
@@ -333,7 +334,7 @@ Diablo Guardián		2	10
 Diabolik Lovers		2	24
 Diagnóstico		2	7
 Diamantes Brutos		2	8
-Diamond no Ace	2013	2	138
+Diamond no Ace	2013	2	140
 Diario de Um Confinado		2	6
 Diario de um Jovem Medico		2	7
 Diarra de Detroit		2	16
@@ -358,7 +359,7 @@ Digimon Tamers	2001	2	102
 Digimon Xros Wars		2	98
 Digimon Zero Two	1999	2	356
 Digman!		2	8
-Dignidade		2	8
+Dignidade		3	8
 Dignity		3	7
 Dilema		3	10
 Dimension 404		3	6
@@ -477,7 +478,7 @@ Dollar		3	15
 Dollface		3	20
 Dolly Parton - Tocando o Coração		3	8
 Dolunay		3	107
-Dom		3	21
+Dom		4	21
 Dom Pixote		4	57
 Dom de Iludir		4	10
 Domenica Montero		4	73
@@ -597,7 +598,7 @@ Dubai Ostentação		4	25
 Dublin Murders		4	8
 Duck Dodgers	2003	4	55
 DuckTales: Os Caçadores de Aventuras	1987	4	128
-DuckTales: Os Caçadores de Aventuras	1987	4	128
+DuckTales: Os Caçadores de Aventuras	1987	5	128
 DuckTales: Os Caçadores de Aventuras	2017	5	128
 Dude, o Cãopanheiro		5	8
 Duelo Xiaolin		5	28

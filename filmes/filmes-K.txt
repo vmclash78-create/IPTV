@@ -112,7 +112,6 @@ Kids	dub=18:9344
 Kids Are Growing Up: A Story About a Kid Named Laroi (2024)	dub=18:1247793,https://embedplayer2.xyz/cdn/hls/0161d5ee4fa6e744485e44a24224f911/master.txt	leg=18:1247793.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76337.mp4
 Kikoriki - Agência de Viagens Deja-Vu (2018)	dub=18:506752,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9732.mp4
 Kill	leg=18:716309.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76345.mp4
-Kill Bill - Todo o Sangue Derramado	dub=18:414419.m3u8	leg=18:414419.m3u8?lang=leg
 Kill Bill Volume 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4553.mp4
 Kill Bill Volume 2	dub=18:393,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4557.mp4
 Kill Boksoon (2023)	dub=18:849869,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4561.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76340.mp4
@@ -126,7 +125,7 @@ Killer Body Count (2024)	dub=18:1290409,https://embedplayer2.xyz/cdn/hls/b15971a
 Killer Ex (2024)	dub=18:1247366,https://embedplayer2.xyz/cdn/hls/3de131b5e067611326d97476ebbded10/master.txt
 Killer Joe: Matador de Aluguel (2012)	dub=18:73567
 Killer Kid	dub=18:154406
-Killer Sofa Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76355.mp4
+Killer Sofa Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76355.mp4
 Killer Weekend	dub=18:610069,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49486.mp4	leg=18:610069.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76365.mp4
 Killerman	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76376.mp4
 Killing Faith	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289942.mp4

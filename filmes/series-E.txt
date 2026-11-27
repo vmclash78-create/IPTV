@@ -30,7 +30,7 @@ Ed Sheeran: A Soma de Tudo		0	8
 Ed Stafford Contra Todos		0	19
 Ed Stafford Rituais Extremos		0	6
 Ed Stafford Vida de Cigano		0	2
-Ed Stafford o Sobrevivente		0	23
+Ed Stafford o Sobrevivente		0	26
 Ed Stafford: Rumo ao Desconhecido		0	6
 Eden		0	8
 Eden of the East		0	2
@@ -325,6 +325,7 @@ Eu sou Mae - Sandık Kokusu		2	50
 Eu sou o Conde Mais Bonito		2	13
 Eu te amo mais do que a vida		2	1
 Eu, Tu e Ela		2	45
+Eu, Viciado		2	6
 Eu, Você e Toda uma Vida		2	15
 Eu, a Patroa e as Crianças	2001	2	123
 Eu, a Vó e a Boi		2	6
@@ -358,7 +359,7 @@ Explicando O Sexo		2	5
 Explicando... O Coronavírus		2	3
 Explicando: A Mente		2	10
 Explode Coração		2	155
-Exploding Kittens		2	9
+Exploding Kittens		3	9
 Explosivos		3	8
 Exposta		3	7
 Express		3	16

@@ -67,7 +67,7 @@ SISTERS AGAINST THE WORLD'S JUDGMENT	leg=http://dbonline.tech-cdn.top:80/movie/k
 SLC Punk!	dub=18:6396
 SLEEPING HANDSOME LET’S MATE!	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302347.mp4
 SLIME NO TOPO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302632.mp4
-SNIPER AMERICANO A ULTIMA RODADA	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302794.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302795.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302342.mp4
+SNIPER AMERICANO A ULTIMA RODADA	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302794.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302342.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302795.mp4
 SO MAIS UMA VEZ	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301805.mp4
 SOB A LUZ DA LUA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302346.mp4
 SOB A LUZ DAS FLORES CAIDAS	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301804.mp4
@@ -278,7 +278,7 @@ Scarlet	dub=18:1406657,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Scarlet (2023)	dub=18:1210363	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301241.mp4
 Scarlet (2025)	dub=18:1406657
 Scarlett	dub=18:816614,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312542.mp4
-Scary Stories To Tell In The Dark Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88850.mp4
+Scary Stories To Tell In The Dark Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88850.mp4
 Scarygirl	dub=18:502345,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11135.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88857.mp4
 Schlitter	dub=18:1105736,https://embedplayer2.xyz/cdn/hls/e9b6243976f741da93a76f216991186e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51771.mp4	leg=18:1105736.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88864.mp4
 Schumacher	dub=18:855823	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88869.mp4
@@ -616,7 +616,7 @@ Separações	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XA
 Sepultado Vivo	dub=18:37865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51827.mp4
 Sepultura - O Filme	dub=18:458803
 Sequestrada	dub=18:157663
-Sequestrada pela Mafia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302973.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302976.mp4
+Sequestrada pela Mafia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302973.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302976.mp4
 Sequestrada pelo Diabo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303214.mp4
 Sequestrando Chaplin	dub=18:750433,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31553.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89259.mp4
 Sequestrando Stella (2019)	dub=18:611468,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46018.mp4
@@ -785,7 +785,7 @@ Shaun the Sheep The Flight Before Christmas	dub=18:785545,http://dbonline.tech-c
 Shaun, o Carneiro: O Filme (2015)	dub=18:263109
 Shayda	dub=18:978586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31611.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89413.mp4
 Shazam 2! Fúria dos Deuses (2023)	dub=18:594767
-Shazam Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89397.mp4
+Shazam Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89397.mp4
 Shazam!	dub=18:287947,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7276.mp4
 Shazam! Fúria dos Deuses	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58500.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7281.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89408.mp4
 She Never Died	dub=18:609919
@@ -814,7 +814,7 @@ Shirley para Presidente (2024)	dub=18:798612,https://embedplayer2.xyz/cdn/hls/00
 Shivaay	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307235.mp4
 Shock - Diversão Diabólica	dub=18:336906,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53370.mp4
 Shock Wave 2	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89437.mp4
-Shockingly Evil and Vile Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89443.mp4
+Shockingly Evil and Vile Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89443.mp4
 Shogun's Ninja (2025)	dub=18:1438203,https://embedplayer2.xyz/cdn/hls/d0b152005a91211f46e0504f0dc09793/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308964.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308977.mp4	leg=https://embedplayer2.xyz/cdn/hls/3d6edead8b3062ac51aa5eb77b87d72b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308971.mp4
 Shootfighter 2	dub=18:62329
 Shootfighter O Combate Mortal	dub=18:62328,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249848.mp4
@@ -839,7 +839,7 @@ Shrek Para Sempre (2010)	dub=18:10192
 Shrek Terceiro (2007)	dub=18:810,https://embedplayer2.xyz/cdn/hls/702ee4b8b2b03104d155d59ffc0d971e/master.txt
 Shrooms	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89476.mp4
 Shuffle of Love: A Descendants Short Story	dub=18:1420763
-Shéhérazade Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89487.mp4
+Shéhérazade Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89487.mp4
 Si tu vas à Rio... tu meurs	dub=18:114658
 SiO2	dub=18:757621
 Sia: Nostalgic for the Present (2026)	dub=18:1712586
@@ -1020,7 +1020,7 @@ Sob Suspeita	dub=18:10562,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Sob Suspeita (1987)	dub=18:12623	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301252.mp4
 Sob Suspeita (2018)	dub=18:569972
 Sob Vigilância	dub=18:1369240	leg=18:1369240.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89824.mp4
-Sob a Lei do Crime (2022)	dub=18:1026377,https://embedplayer2.xyz/cdn/hls/64e418f5fe53f0bce3a68f834467c276/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89768.mp4	leg=18:1026377.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89765.mp4
+Sob a Lei do Crime (2022)	dub=18:1026377,https://embedplayer2.xyz/cdn/hls/64e418f5fe53f0bce3a68f834467c276/master.txt	leg=18:1026377.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89765.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89768.mp4
 Sob a Lua Cheia (2024)	dub=18:1549457,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46040.mp4	leg=https://embedplayer2.xyz/cdn/hls/e3ddeb8ccefd9a2510f0fc62810360d1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89756.mp4
 Sob a Lua de Outono	dub=18:547242,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42942.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89773.mp4
 Sob a Luz da Fama	dub=18:10560
@@ -1290,7 +1290,7 @@ Spell	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/901
 Spencer	dub=18:716612,18:693961,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31785.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90133.mp4
 Spermworld	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90123.mp4
 Spider In The Web	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90139.mp4
-Spider Man Far From Home Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90144.mp4
+Spider Man Far From Home Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90144.mp4
 Spiderhead (2022)	dub=18:615469,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36550.mp4
 Spidey e Homem de Ferro Vingadores em Equipe	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1139.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90147.mp4
 Spidey e Homem de Ferro: Vingadores Unidos!	dub=18:1564058
@@ -1455,7 +1455,7 @@ Stuart Little 3 (2005)	dub=18:30178
 Stuber: A Corrida Maluca (2019)	dub=18:513045,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256169.mp4
 Stuck	dub=18:741635,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31845.mp4
 Studio 54	dub=18:3682
-Stupid Young Heart Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90360.mp4
+Stupid Young Heart Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90360.mp4
 Sua Alma Será Minha (2024)	dub=18:950925,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52112.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90363.mp4
 Sua Alteza?	dub=18:38319
 Sua Culpa (2024)	dub=18:1156593,https://embedplayer2.xyz/cdn/hls/5b867af2f4e91f924b94fc6440f2eaef/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58664.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42977.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90371.mp4

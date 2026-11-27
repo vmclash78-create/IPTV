@@ -414,7 +414,7 @@ Manual de Caca a Monstros (2020)	dub=18:624963,https://embedplayer2.xyz/cdn/hls/
 Manufacturing Death Birth of the Atom Bomb	dub=18:1155576	leg=18:1155576.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77834.mp4
 Manutencao Necessaria (2025)	dub=18:1352755,https://embedplayer2.xyz/cdn/hls/df47d7a4d650ccc010e24f0bb0abec19/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16332.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77839.mp4
 Maos de Pedra A Historia Verdadeira de Roberto Duran (2016)	dub=18:184341,https://embedplayer2.xyz/cdn/hls/5c1df446b59864a93b4ea2ef5e8814a9/master.txt
-Mapa do Sexo (2020)	dub=18:673159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99147.mp4	leg=18:673159.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99260.mp4
+Mapa do Sexo (2020)	dub=18:673159	leg=18:673159.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99147.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99260.mp4
 Maquina Mortifera (1987)	dub=18:941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4858.mp4
 Maquina Mortifera 2 (1989)	dub=18:942,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4866.mp4
 Maquina Mortifera 3 (1992)	dub=18:943,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4862.mp4
@@ -485,7 +485,7 @@ Margin Call - O Dia Antes do Fim	dub=18:50839,http://dbonline.tech-cdn.top:80/mo
 Maria	dub=18:817444,18:764834,18:1127483,18:1654172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38517.mp4
 Maria Antonieta	dub=18:1887,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27653.mp4
 Maria Callas (2024)	dub=18:1038263,https://embedplayer2.xyz/cdn/hls/2317d990c9d6f31331f28aa248013b14/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27662.mp4	leg=18:1038263.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77895.mp4
-Maria Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77900.mp4
+Maria Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77900.mp4
 Maria Madalena	dub=18:407439,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40882.mp4
 Maria Montessori - Ensinando com Amor	dub=18:959395,https://embedplayer2.xyz/cdn/hls/6f9a2005c6d6eed703b287dc5ac6eb31/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/666.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77914.mp4
 Maria do Caritó	dub=18:620650,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16345.mp4
@@ -563,7 +563,7 @@ Maré Alta	dub=18:1036641,18:410821,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Maré Baixa (2019)	dub=18:493066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44870.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77974.mp4
 Maré Negra	dub=18:59963
 Maré Nossa História de Amor	dub=18:235459,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27682.mp4
-Maré Vermelha	dub=18:8963	leg=18:8963.m3u8?lang=leg
+Maré Vermelha	dub=18:8963
 Maré de Azar	dub=18:12569,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16369.mp4
 María Soledad O Fim do Silêncio	dub=18:1362480	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77984.mp4
 María, ¡Me muero! (2024)	dub=18:1360170,https://embedplayer2.xyz/cdn/hls/82c82e44cc1e9183622cc36decb4fce4/master.txt	leg=https://embedplayer2.xyz/cdn/hls/92609d0630f41489fa00fcc710d66385/master.txt
@@ -662,7 +662,7 @@ Max Reload and the Nether Blasters (2020)	dub=18:680267,https://embedplayer2.xyz
 Max Steel	dub=18:286567,https://embedplayer2.xyz/cdn/hls/06c16904a7fc951a414f063c347e0c6a/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4911.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78163.mp4
 Max Steel: A Aliança Monstruosa	dub=18:810776
 Max: Fidelidade Assassina	dub=18:41759
-Maximiliano Kolbe e Eu (2023)	dub=18:593341,https://embedplayer2.xyz/cdn/hls/688a68113fd08d7b7d8fe6cc19f9381f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78158.mp4	leg=18:593341.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78168.mp4
+Maximiliano Kolbe e Eu (2023)	dub=18:593341,https://embedplayer2.xyz/cdn/hls/688a68113fd08d7b7d8fe6cc19f9381f/master.txt	leg=18:593341.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78158.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78168.mp4
 Maximum Ride Projeto Angel	dub=18:339116,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254244.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254267.mp4
 Maxine	dub=18:1143516
 Maya (2020)	dub=18:688027,18:785921,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34176.mp4
@@ -837,7 +837,7 @@ Memórias de um Esclerosado	dub=18:1297117,http://dbonline.tech-cdn.top:80/movie
 Memórias de uma Gueixa	dub=18:1904,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27790.mp4
 Memórias do Inferno Nazista	dub=18:167989
 Men Faces do Medo (2022)	dub=18:780609,https://embedplayer2.xyz/cdn/hls/4c69214b507578a706d929f5ca6b07fd/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56850.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49708.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78358.mp4
-Men In Black International Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78357.mp4
+Men In Black International Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78357.mp4
 Menarca (2020)	dub=18:714037,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38561.mp4
 Menendez Brothers Misjudged	dub=18:1024566	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78368.mp4
 Menendez Irmaos de Sangue	dub=18:458294,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27794.mp4
@@ -1112,7 +1112,7 @@ Meus Dias com Ela (2023)	dub=18:1175107,http://dbonline.tech-cdn.top:80/movie/ke
 Meus Dias de Compaixão	dub=18:434714,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42228.mp4
 Meus Dois Carinhos	dub=18:33734
 Meus Encontros com Amber	dub=18:635918,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16757.mp4	leg=18:635918.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78707.mp4
-Meus Heróis Eram Cowboys	dub=18:866529,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78688.mp4
+Meus Heróis Eram Cowboys	dub=18:866529	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78688.mp4
 Meus Irmãos (2018)	dub=18:525888,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27928.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78696.mp4
 Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho)	dub=18:1058622
 Meus Sogros Tao pro Crime (2023)	dub=18:921636,https://embedplayer2.xyz/cdn/hls/fe3fb1dac837545872fa18be1652bfc4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56936.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42223.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78703.mp4

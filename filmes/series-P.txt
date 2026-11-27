@@ -512,6 +512,7 @@ Promise of Wizard		4	12
 Promised Land		4	10
 Promovido por Ser o Doador de Esperma do Meu Chefe		4	1
 Pronto Socorro Animal		4	10
+Pronto-Socorro		4	7
 Proof		4	10
 Protecao Infinita		4	24
 Protegido		4	8

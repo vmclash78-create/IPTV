@@ -14,7 +14,7 @@ Yellow Mirror A Realidade Paralela de Homer (2026)	dub=18:1729723
 Yellowbird O Pequeno Herói (2014)	dub=18:292795
 Yes Mr Knight	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302990.mp4
 Yesterday	dub=18:515195,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20951.mp4
-Yesterday Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96264.mp4
+Yesterday Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96264.mp4
 Yiya Murano Muerte a la hora del té	dub=18:1661439,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253398.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254856.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253689.mp4
 Yo Yo Honey Singh Famous	dub=18:1252467	leg=18:1252467.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96253.mp4
 Yoga Teacher Killer: The Kaitlin Armstrong Story (2024)	dub=18:1300110,https://embedplayer2.xyz/cdn/hls/06bd9d9977277464f9c6479c9c580c6a/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b542d473ddadc7a3409cc532a1f2ac45/master.txt

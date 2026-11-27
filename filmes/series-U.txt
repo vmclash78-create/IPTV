@@ -81,6 +81,7 @@ Um Milhao de Vezes Amor		0	10
 Um Milhão de Coisas	2018	0	97
 Um Monstro Como Nunca se Viu		0	6
 Um Mundo Diferente		0	10
+Um Natal Filipino		0	4
 Um Natal Nada Normal		0	3
 Um Novo Corpo Uma Nova Vida		0	3
 Um Ombro Para Chorar		0	7
@@ -117,9 +118,9 @@ Uma Equipe Muito Especial		0	8
 Uma Escolha do Coracao		0	76
 Uma Esposa em Miniatura	2026	0	10
 Uma Estrela Mais Radiante Que o Sol	2025	0	12
-Uma Familia Perfeita		0	20
 Undead Murder Farce		0	13
 Ushio e Tora		0	26
+Uma Familia Perfeita		1	20
 Uma Familia Quase Perfeita		1	6
 Uma Família Exemplar		1	10
 Uma Família Inusitada	2024	1	12
@@ -154,7 +155,8 @@ Uma Verdadeira Vida de Inseto		1	10
 Uma Vida Nova		1	33
 Uma Vizinha de Outro Mundo		1	12
 Uma semana para Amelia		1	5
-Umamusume: Cinderella Gray	2025	1	46
+Umamusume: Cinderella Gray	2025	1	23
+Umamusume: Cinderella Gray		1	23
 Umayon		1	10
 Umthetho		1	7
 Un Buen Divorcio		1	10

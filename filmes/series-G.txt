@@ -36,7 +36,7 @@ Gangs Of London	2020	0	17
 Gangsta.		0	24
 Gangues da Galicia		0	10
 Gangues da Noite		0	35
-Gangues de Londres	2020	0	25
+Gangues de Londres	2020	0	31
 Gangues de Oslo		0	6
 Ganhar ou Perder	2025	0	8
 Ganhei um Filho, e Perdi o Marido		0	1
@@ -254,7 +254,7 @@ Grávida		2	6
 Grávida do Bilionário		2	1
 Grávida dos Gêmeos do Bilionário, O Amor Começa		2	1
 Gto		2	1
-Guardian: The Lonely and Great God 10th Anniversary		2	2
+Guardian: The Lonely and Great God 10th Anniversary		2	4
 Guardiões da Floresta		2	20
 Guardiões da Justiça		2	7
 Guardiões da Mansão do Terror		2	20

@@ -117,7 +117,7 @@ Na Sua Casa ou na Minha	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Na Sua Pele - A Série Marked Men (2025)	dub=18:1078600,https://embedplayer2.xyz/cdn/hls/d209b5faa2774a6cddd7fdaaf0a58612/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79840.mp4
 Na Teia da Aranha	dub=18:2043
 Na Teia da Conspiração (2019)	dub=18:634452,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5203.mp4
-Na Teia do Predador	dub=18:860239,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79845.mp4
+Na Teia do Predador	dub=18:860239	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79845.mp4
 Na Terra de Amor e Ódio	dub=18:79777
 Na Terra de Santos e Pecadores (2023)	dub=18:1027073,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5207.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79835.mp4
 Na Terra do Natal	dub=18:369054
@@ -352,7 +352,7 @@ Negócios e Trapaças	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Neil Armstrong: A Verdadeira História	dub=18:614278
 Neirud	dub=18:1136592,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53591.mp4
 Nekrotronic	dub=18:506775,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17133.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307403.mp4
-Nekrotronic Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80225.mp4
+Nekrotronic Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80225.mp4
 Nell	dub=18:1945
 Nelly Rapp e o Espelho da Morte (2023)	dub=18:1088530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34248.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80249.mp4
 Nelson Freire	dub=18:112861
@@ -481,7 +481,7 @@ No Escape	dub=18:192141	leg=18:611160.mp4?lang=leg,http://dbonline.tech-cdn.top:
 No Faro da Grana	dub=18:864573
 No Fim do Tunel (2016)	dub=18:394374,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45065.mp4
 No Final do Dia: A História de Sue Rodriguez	dub=18:821853
-No Fio da Navalha (2019)	dub=18:579062,https://embedplayer2.xyz/cdn/hls/742cd06f37da35d78003d7c6aaff7a02/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80375.mp4
+No Fio da Navalha (2019)	dub=18:579062,https://embedplayer2.xyz/cdn/hls/742cd06f37da35d78003d7c6aaff7a02/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80375.mp4
 No Foco da Epidemia	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80385.mp4
 No Fundo do Poço (2021)	dub=18:592662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28343.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80380.mp4
 No Game, No Life: Zero	dub=18:445030
@@ -541,7 +541,7 @@ No Way Through	leg=18:1213346.mp4?lang=leg
 No matar	dub=18:1661382
 No.1 Sentai Gozyuger vs. Boonboomger	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301160.mp4
 Noah Kahan Out of Body	dub=18:1492341,https://embedplayer2.xyz/cdn/hls/da7df2b7a75414839782d095d23ccde2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311020.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253604.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254782.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253304.mp4
-Nobody	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80461.mp4	leg=18:1304434.mp4?lang=leg
+Nobody	leg=18:1304434.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80461.mp4
 Nocaute	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5291.mp4
 Nocaute (2015)	dub=18:307081
 Nocaute (2024)	dub=18:44745,18:931642

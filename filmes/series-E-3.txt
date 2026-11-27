@@ -1,3 +1,13 @@
+@Exploding Kittens
+1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5643365.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139865.mp4
+1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5643366.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139866.mp4
+1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5643367.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139867.mp4
+1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5643368.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139868.mp4
+1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5643369.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139869.mp4
+1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5643370.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139870.mp4
+1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5643371.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139871.mp4
+1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5643372.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139872.mp4
+1	9	dub	http://64.31.23.207:80/series/96795792/50165825/5643373.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139873.mp4
 @Explosivos
 1	1	dub	19:94244/1/1,http://64.31.23.207:80/series/96795792/50165825/5636740.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139874.mp4
 1	2	dub	19:94244/1/2,http://64.31.23.207:80/series/96795792/50165825/5636741.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139875.mp4
@@ -987,14 +997,14 @@
 1	7	dub	19:127325/1/7,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139853.mp4,http://64.31.23.207:80/series/96795792/50165825/5620364.mp4,https://saimo-tv.pages.dev/api/stream?tipo=series&id=127325&s=1&e=7&versao=dub
 1	8	dub	19:127325/1/8,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139854.mp4,http://64.31.23.207:80/series/96795792/50165825/5620365.mp4,https://saimo-tv.pages.dev/api/stream?tipo=series&id=127325&s=1&e=8&versao=dub
 @extremistas.br
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5624964.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102239.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102247.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5624965.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102240.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102248.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5624966.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102241.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102249.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5624967.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102242.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102250.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5624968.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102243.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102251.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5624969.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102244.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102252.mp4
-1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5624970.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102245.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102253.mp4
-1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5624971.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102246.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102254.mp4
+1	1	dub	19:217701/1/1,http://64.31.23.207:80/series/96795792/50165825/5624964.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102239.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102247.mp4
+1	2	dub	19:217701/1/2,http://64.31.23.207:80/series/96795792/50165825/5624965.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102240.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102248.mp4
+1	3	dub	19:217701/1/3,http://64.31.23.207:80/series/96795792/50165825/5624966.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102241.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102249.mp4
+1	4	dub	19:217701/1/4,http://64.31.23.207:80/series/96795792/50165825/5624967.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102242.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102250.mp4
+1	5	dub	19:217701/1/5,http://64.31.23.207:80/series/96795792/50165825/5624968.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102243.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102251.mp4
+1	6	dub	19:217701/1/6,http://64.31.23.207:80/series/96795792/50165825/5624969.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102244.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102252.mp4
+1	7	dub	19:217701/1/7,http://64.31.23.207:80/series/96795792/50165825/5624970.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102245.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102253.mp4
+1	8	dub	19:217701/1/8,http://64.31.23.207:80/series/96795792/50165825/5624971.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102246.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102254.mp4
 @É Amor ou Falsidade?
 1	1	dub	19:228628/1/1,http://64.31.23.207:80/series/96795792/50165825/5631734.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/161038.mp4
 1	2	dub	19:228628/1/2,http://64.31.23.207:80/series/96795792/50165825/5631735.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/161039.mp4

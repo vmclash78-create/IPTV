@@ -136,6 +136,7 @@ Batalha de Influencers	2024	1	7
 Batalha de Massas		1	6
 Batalha do Churrasco		1	14
 Batalha dos Alfas		1	24
+Batalha dos Confeiteiros: América Latina		1	12
 Batalha dos Cozinheiros America Latina		1	7
 Batalha pelo Ceu		1	34
 Bate Coracao		1	32
@@ -174,6 +175,7 @@ Bebidas do Mundo com Shay Mitchell		1	3
 Bebê Rena	2024	1	7
 Bebê a Bordo		1	209
 Bebês em Foco		1	6
+Beck		1	26
 Becker		1	129
 Beckham		1	4
 Beckham: Salve Nosso Time		1	4
@@ -239,8 +241,8 @@ Berlim e as Joias de Paris		1	8
 Berlim: 1945	1945	1	3
 Bernard-jou Iwaku.		1	24
 Bernie Madoff O Golpista de Wall Street		1	5
-Berserk		1	25
-Berserk: The Golden Age Arc - Memorial Edition		1	13
+Berserk		2	25
+Berserk: The Golden Age Arc - Memorial Edition		2	13
 Berço de Ouro		2	8
 Best Medicine		2	36
 Betaal		2	4
@@ -358,8 +360,8 @@ Bloodlands		2	2
 Bloodline		2	13
 Bloom		2	11
 Bloom Life		2	15
-Blossom		2	113
-Blossoms Shanghai		2	30
+Blossom		3	113
+Blossoms Shanghai		3	30
 Blossoms Shanghai (2023)		3	30
 Blue Archive The Animation		3	11
 Blue Bloods	2010	3	345
@@ -476,8 +478,8 @@ Bright Minds		3	17
 Brilhante Victória		3	59
 Brilho Perfeito		3	11
 Brincando com Fogo	2020	3	57
-Brincando com Fogo Alemanha		3	18
-Brincando com Fogo Espanha		3	8
+Brincando com Fogo Alemanha		4	18
+Brincando com Fogo Espanha		4	8
 Brincando com Fogo: America Latina		4	8
 Brincando com Fogo: Brasil		4	16
 Brincando com Fogo: Itália		4	8

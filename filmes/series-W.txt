@@ -122,6 +122,7 @@ Work Later Drink Now		1	24
 Work in Progress		1	8
 Workin Moms		1	83
 World Dice Tour		1	14
+World Trigger		1	96
 Wreck		1	6
 Wrecked	2016	1	30
 Wu Assassins		1	10

@@ -58,10 +58,10 @@ Galveston: Destinos Cruzados (2018)	dub=18:283601
 Galáxia do Terror	dub=18:28893
 Gamal, O Delírio do Sexo	dub=18:330456
 Game Mortal	dub=https://embedplayer2.xyz/cdn/hls/b352b41640674ec4d6308f6e3a593676/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35858.mp4	leg=https://embedplayer2.xyz/cdn/hls/40fbe1d7164a4d2a18864eca52c7cd3b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73338.mp4
-Game Over Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73369.mp4
+Game Over Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73369.mp4
 Game Star A Jogada Final	dub=18:647781,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35853.mp4	leg=18:647781.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73364.mp4
 Game of Deceit (2023)	dub=18:1104284,https://embedplayer2.xyz/cdn/hls/b88b73e13674ca5cf0a06ee20b6cef2e/master.txt	leg=https://embedplayer2.xyz/cdn/hls/6188be3dcbf7c3e5f8ef62cd270977e5/master.txt
-Game of Thrones The Last Watch	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73353.mp4
+Game of Thrones The Last Watch	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73353.mp4
 Game, Set, Love	leg=18:1002371.mp4?lang=leg
 Gamer (2009)	dub=18:18501,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300818.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3863.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255386.mp4
 Gananciosos (2024)	dub=18:974250,https://embedplayer2.xyz/cdn/hls/e54cd5369fb8cd1d25f97bf838549d09/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15333.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73374.mp4
@@ -167,7 +167,7 @@ Gaúcho Negro	dub=18:84744
 Geleira Sangrenta	dub=18:210913
 Gelo em Chamas	dub=18:599379
 Gemidos de Prazer	dub=18:88174
-Gemini Man Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73469.mp4
+Gemini Man Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73469.mp4
 Gemini O Planeta Sombrio	dub=18:575322,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35872.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73477.mp4
 Gen Pés Descalços	dub=18:14087
 General Hadik	dub=18:925615,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26400.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73475.mp4
@@ -204,7 +204,7 @@ Get on Up A História de James Brown	dub=18:239566,http://dbonline.tech-cdn.top:
 Getúlio (2014)	dub=18:259719,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38289.mp4
 Ghislaine Maxwell: Filthy Rich	dub=18:1040599
 Ghost Do Outro Lado da Vida (1990)	dub=18:251,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42012.mp4
-Ghost House Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73531.mp4
+Ghost House Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73531.mp4
 Ghost Killer	dub=18:1330435	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250472.mp4
 Ghost Lab	dub=18:710871,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26428.mp4
 Ghost Town - Um Espírito Atrás de Mim	dub=18:12797,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15374.mp4
@@ -267,7 +267,7 @@ Gladiador 2 (2024)	dub=18:558449,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Gladiadores (2025)	dub=18:1499984,https://embedplayer2.xyz/cdn/hls/a07c9c851be8bf3875051ff3f142cbf1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98575.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98652.mp4
 Gladiator: O Desafio (1992)	dub=18:16219,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3905.mp4
 Glamour Girls	dub=18:982981,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26446.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73642.mp4
-Glass Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73647.mp4
+Glass Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73647.mp4
 Glass Onion Um Mistério Knives Out	dub=18:661374,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56062.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44640.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73667.mp4
 Glee 3D - O Filme	dub=18:67675
 Gli amori di Ercole	dub=18:56147
@@ -291,7 +291,7 @@ Godzilla (1998)	dub=18:929
 Godzilla (2014)	dub=18:124905,https://embedplayer2.xyz/cdn/hls/6604b568012945cc0e21eb3237d359b2/master.txt
 Godzilla 2 Rei dos Monstros (2019)	dub=18:373571
 Godzilla II Rei dos Monstros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56071.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3917.mp4
-Godzilla King of the Monsters Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73688.mp4
+Godzilla King of the Monsters Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73688.mp4
 Godzilla Minus One (2023)	dub=18:940721,https://embedplayer2.xyz/cdn/hls/e3b7d42ac387d994473a243fe43c0970/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49000.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49003.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73698.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73702.mp4
 Godzilla Minus Zero (2026)	dub=18:1381071
 Godzilla Ressurge	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35881.mp4
@@ -335,7 +335,7 @@ Gone in the Night	dub=18:174411,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 Gonjiam: Manicômio Assombrado (2018)	dub=18:508642
 Gonzaga De Pai pra Filho (2012)	dub=18:129705,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26483.mp4
 Good Bad Ugly	dub=18:1259024	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73754.mp4
-Good Boys Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73738.mp4
+Good Boys Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73738.mp4
 Good News	dub=18:1296404,18:783516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26488.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73758.mp4
 Goodbye Butterfly	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73752.mp4
 Goodbye Fairyland	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313366.mp4
@@ -419,7 +419,7 @@ Grenal: O Maior Clássico das Américas	dub=18:1770768
 Greta	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26522.mp4
 Greta (2009)	dub=18:570744,18:26035,18:816654,https://embedplayer2.xyz/cdn/hls/56e0089f57b9bc5606effb9185758979/master.txt
 Greta (2019)	dub=18:471506
-Greta Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73868.mp4
+Greta Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73868.mp4
 Greta Thunberg: O Futuro e Hoje (2020)	dub=18:676831
 Gretchen	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306418.mp4
 Grey Gardens Do Luxo à Decadência	dub=18:19851,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26529.mp4
@@ -541,7 +541,7 @@ Guru do Amor	dub=18:12177,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Guy (2018)	dub=18:518668,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15469.mp4
 Guy Manley: A Real Movie (2024)	dub=18:1181214,https://embedplayer2.xyz/cdn/hls/bce80a75444a2d0caf667c78a8b245db/master.txt
 Gwen (2018)	dub=18:543768
-Gwen Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74048.mp4
+Gwen Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74048.mp4
 Gêmea Assassina	dub=18:705054,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3992.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74043.mp4
 Gêmeo Maligno	dub=18:477462,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49034.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74054.mp4
 Gêmeos: Mórbida Semelhança	dub=18:9540

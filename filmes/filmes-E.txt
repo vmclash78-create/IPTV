@@ -72,7 +72,7 @@ ESPERE AS ESTRELAS CAIREM	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 ESPERMA ERRADO AMOR CERTO 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301920.mp4
 ESPERMA ERRADO DO AMOR CERTO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301939.mp4
 ESPERMA ERRADO DO AMOR CERTO 2 - GRAVIDA DO MEU INIMIGO MAFIOSO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301906.mp4
-ESPOSA SECRETA DO BILIONÁRIO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303009.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303036.mp4
+ESPOSA SECRETA DO BILIONÁRIO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303036.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303009.mp4
 ESTOU GRAVIDA DO FILHO DO CEO - O PRINCIPE E A LADRA DE RUA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301944.mp4
 ESTOU GRAVIDA, VAMOS TERMINAR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302292.mp4
 ESTRAGADA PELO MEU PAPAI RICO BILIONARIO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302453.mp4
@@ -131,7 +131,7 @@ Edward Mãos de Tesoura	dub=18:162,http://dbonline.tech-cdn.top:80/movie/ke-vin-
 Edwin Boyd A Lenda do Crime	dub=18:92493,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256461.mp4
 Een schitterend gebrek	dub=18:1106194	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70916.mp4
 Eerie	dub=18:975484
-Eerie Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70905.mp4
+Eerie Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70905.mp4
 Efeito Borboleta (2004)	dub=18:1954,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306360.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301083.mp4
 Efeito Borboleta 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33856.mp4
 Efeito Borboleta 2 (2006)	dub=18:14620,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33860.mp4
@@ -149,7 +149,7 @@ Ehero	dub=18:435696	leg=18:435696.mp4?lang=leg,http://dbonline.tech-cdn.top:80/m
 Ehrengard A Ninfa do Lago	dub=18:1113448,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55683.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41890.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70936.mp4
 Ei Arnold! Na Selva: O Filme	dub=18:439058
 Eiffel	dub=18:655082,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41962.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70941.mp4
-Eike: Tudo ou Nada (2022)	dub=18:875295,https://embedplayer2.xyz/cdn/hls/5695af81bef1f89c0f6ad1aa67e38024/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70957.mp4
+Eike: Tudo ou Nada (2022)	dub=18:875295,https://embedplayer2.xyz/cdn/hls/5695af81bef1f89c0f6ad1aa67e38024/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70957.mp4
 Eileen	dub=18:481372,https://embedplayer2.xyz/cdn/hls/de0af2df3cd4212046bd88842f86bc9d/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70952.mp4
 Einstein e a Bomba (2024)	dub=18:1168709,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55688.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70947.mp4
 Eko	dub=18:1070186	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70963.mp4
@@ -553,7 +553,7 @@ Enterrada Viva	dub=18:73336
 Enterrado Vivo (2010)	dub=18:26388,https://embedplayer2.xyz/cdn/hls/ecbf9b756505431a0c4d2ded4fbe6c9f/master.txt
 Enterrado Vivo (2026)	dub=18:1409853
 Enterrados (2019)	dub=18:570426
-Enterramos os Mortos	dub=18:1198984	leg=18:1198984.m3u8?lang=leg
+Enterramos os Mortos	dub=18:1198984
 Enterrando Minha Ex	dub=18:255798
 Enterrando os Mortos (2026)	dub=https://embedplayer2.xyz/cdn/hls/010dbf9ed83b3250492886483de72e8e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256245.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256253.mp4
 Enterre Seus Mortos (2025)	dub=18:951305,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99304.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99699.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99693.mp4

@@ -295,7 +295,7 @@ John Wick 2: Um Novo Dia para Matar (2017)	dub=18:324552
 John Wick 3	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56451.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4418.mp4
 John Wick 3: Parabellum (2019)	dub=18:458156,https://embedplayer2.xyz/cdn/hls/aee8ad4558b7e1e1d9eb5cb72087a564/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311991.mp4
 John Wick 4: Baba Yaga (2023)	dub=18:603692,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56456.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254580.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4414.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75997.mp4
-John Wick Chapter 3 Parabellum Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75993.mp4
+John Wick Chapter 3 Parabellum Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75993.mp4
 John Wick Um Novo Dia para Matar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311992.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312020.mp4
 John e o Potrinho Mágico (2021)	dub=18:576784,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11986.mp4
 Johnny & Clyde - Parceiros no Crime (2023)	dub=18:857553,https://embedplayer2.xyz/cdn/hls/7f96cb58992f2484e88c1716ea683e4f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4423.mp4	leg=https://embedplayer2.xyz/cdn/hls/f96fedd6fc7bd6436425654475514fdb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76000.mp4
@@ -383,7 +383,7 @@ Jovens e Rebeldes	dub=18:631686
 Jovens Águias (2022)	dub=18:999128
 Jovens, Loucos e Rebeldes	dub=18:9571
 Joy	dub=18:750457,18:274479,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27127.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76073.mp4
-Joy Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76088.mp4
+Joy Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76088.mp4
 Joy O Nome do Sucesso	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27129.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301120.mp4
 João Gilberto - Live In Tokyo	dub=18:651253
 João de Deus: O Silêncio é uma Prece	dub=18:527205
@@ -474,7 +474,7 @@ Justa Causa	dub=18:9061
 Justica Alem do Sistema (2021)	dub=18:624789
 Justica Artificial (2026)	dub=18:1236153,https://embedplayer2.xyz/cdn/hls/c83215bc95923e5e65f28f686ee4029f/master.txt,https://embedplayer2.xyz/cdn/hls/eae31dffb7fa272834c0d40bac6d6018/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98264.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97711.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97746.mp4
 Justice League Snyders Cut	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76160.mp4
-Justice League vs. the Fatal Five Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76144.mp4
+Justice League vs. the Fatal Five Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76144.mp4
 Justiceiras	dub=18:762968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15859.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76155.mp4
 Justiceiro por Elas	dub=18:855397
 Justin Bieber Never Say Never	dub=18:54518	leg=18:54518.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76175.mp4

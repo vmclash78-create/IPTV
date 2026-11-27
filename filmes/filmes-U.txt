@@ -5,7 +5,7 @@ U2: iNNOCENCE + eXPERIENCE ao Vivo em Paris	dub=18:366622
 U311: Guerra em Alto Mar (2020)	dub=18:617499,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37201.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93110.mp4
 UFC 246: McGregor vs. Cowboy	dub=18:661416
 UFC 326 Holloway vs Oliveira 2 (2026)	dub=18:1600728,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99325.mp4
-UFC Fight Night 258 Imavov vs. Borralho	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93111.mp4	leg=18:1534264.mp4?lang=leg
+UFC Fight Night 258 Imavov vs. Borralho	leg=18:1534264.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93111.mp4
 UFC Fight Night 275 Della Maddalena vs Prates (2026)	dub=18:1683090
 UFC Fight Night 276 Allen vs Costa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256257.mp4
 UFC Fight Night 276 Allen vs Costa (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256171.mp4
@@ -681,7 +681,7 @@ Um Toque de Sedução	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Um Toque no Coração	dub=18:185424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32691.mp4
 Um Touchdown de Natal (2025)	dub=18:1485002
 Um Trapaceiro do Bem (2019)	dub=18:601801
-Um Trapaceiro do Bem Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94063.mp4
+Um Trapaceiro do Bem Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94063.mp4
 Um Triste Belo Mundo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306409.mp4
 Um Universo Entre Nós	dub=18:958197,https://embedplayer2.xyz/cdn/hls/19b0fb8ad267f5d3bab8e5d0534d2f7c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36660.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94053.mp4
 Um Vampiro Mentiroso	dub=18:363807
@@ -698,7 +698,7 @@ Um Zé Ninguém Contra Putin	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Um a Menos	dub=18:21719,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312008.mp4	leg=18:21719.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312030.mp4
 Um amor para Recordar	dub=18:10229,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43121.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310700.mp4
 Um estado de Liberdade (2016)	dub=18:316152,https://embedplayer2.xyz/cdn/hls/ebfa5ca10762bce41e57c590d23be614/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7829.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314592.mp4
-Um Álibi	dub=18:935412,https://embedplayer2.xyz/cdn/hls/b91b0a11d16208d43a4660b1d9a145d2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94080.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94100.mp4
+Um Álibi	dub=18:935412,https://embedplayer2.xyz/cdn/hls/b91b0a11d16208d43a4660b1d9a145d2/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94080.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94100.mp4
 Um Álibi Perfeito	dub=18:240916,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46365.mp4
 Um é Pouco, Dois é Bom (1970)	dub=18:463131
 Uma Advogada Brilhante (2025)	dub=18:1251875,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39532.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94095.mp4
@@ -1120,7 +1120,7 @@ União do Mal	dub=18:15136,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283920
 Unknown Cave of Bones	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94941.mp4
 Unknown The Lost Pyramid	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94956.mp4
 Uno Entre o Ouro e a Morte	dub=18:1376645,https://embedplayer2.xyz/cdn/hls/e61b10779f45024b0749d2909d42e881/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249738.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249755.mp4
-Unplanned Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94946.mp4
+Unplanned Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94946.mp4
 Unpregnant	dub=https://embedplayer2.xyz/cdn/hls/d956a4ae7815081835950893f273d16d/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94967.mp4
 Uns Braços (2009)	dub=18:45532,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39551.mp4
 Unsung Hero	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94962.mp4
@@ -1170,7 +1170,7 @@ Ursos Polares - Uma Odisseia No Verão (2012)	dub=18:147177
 Ursos Sem Curso: O Filme (2020)	dub=18:677638,https://embedplayer2.xyz/cdn/hls/c49c6bd1f51b3781700cbe9c0a280237/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11739.mp4
 Urubus	dub=18:805760,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39561.mp4
 Uruguai na Vanguarda	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97106.mp4
-Us Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95036.mp4
+Us Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95036.mp4
 Useless	leg=18:1430646.mp4?lang=leg
 Ustaad Bhagat Singh	dub=18:868668
 Utopia Distopia	dub=18:740842

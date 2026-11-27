@@ -3382,6 +3382,7 @@ A Vida no Skate com Leo Baker (2022)	f	A
 A Vida Pela Frente	s	A	2023
 A Vida Pode Mudar (2021)	f	A
 A Vida Por um Fio (2016)	f	A
+A Vida Privada Dela	s	A
 A Vida Pós 11 de Setembro	f	A
 A Vida Que Eu Quero	f	A
 A Vida que Nos Une - Bizi Birlestiren Hayat	s	A
@@ -5348,6 +5349,7 @@ Apache: O Último Bravo	f	A
 Apaches (2023)	f	A
 Apaches Gangues de Paris	f	A
 Apagar Histórico	f	A
+Apagão	f	A
 Apaixonada	f	A
 APAIXONADA PELO DR. BEBE PAPAI!	f	A
 APAIXONADA PELO FILHO DA MINHA MELHOR AMIGA	f	A
@@ -6962,6 +6964,7 @@ Batalha de Massas	s	B
 Batalha de Natal (2020)	f	B
 Batalha do Churrasco	s	B
 Batalha dos Alfas	s	B
+Batalha dos Confeiteiros: América Latina	s	B
 Batalha dos Cozinheiros America Latina	s	B
 Batalha dos Drones	f	B
 Batalha dos Impérios	f	B
@@ -7106,6 +7109,7 @@ Bebê De Outubro	f	B
 Bebê Rena	s	B	2024
 Bebês em Foco	s	B
 Bebês Geniais (1999)	f	B
+Beck	s	B
 Becker	s	B
 Beckett	f	B
 Beckham	s	B
@@ -11921,6 +11925,7 @@ Deus Salve o Rei	s	D
 Deus tem AIDS	f	D
 Deus É Brasileiro (2003)	f	D
 DEUSA DA MUSICA	f	D
+Deusa dos Golpes	s	D
 Deuses Americanos	s	D	2017
 Deuses da Peste (2025)	f	D
 Deuses do Egito (2016)	f	D
@@ -14311,6 +14316,7 @@ Eu, Nirvana	f	E
 Eu, Robô	f	E
 Eu, Traidor	f	E
 Eu, Tu e Ela	s	E
+Eu, Viciado	s	E
 Eu, Você e Toda uma Vida	s	E
 Eu, Você, Nós (2026)	f	E
 Eu,Deus e Bin Laden (2016)	f	E
@@ -15198,6 +15204,7 @@ Food Truck do Amor	f	F
 Food Wars! Shokugeki no Soma	s	F
 Foodie Love	s	F
 Foodiverso Uma Galáxia em Perigo	f	F
+Fool Night	s	F
 Footloose	f	F
 Footloose: Ritmo Contagiante (2011)	f	F
 Footloose: Ritmo Louco (1984)	f	F
@@ -19044,7 +19051,6 @@ KiiYii	s	K	2017
 Kiko e sua Turma	s	K
 Kikoriki - Agência de Viagens Deja-Vu (2018)	f	K
 Kill	f	K
-Kill Bill - Todo o Sangue Derramado	f	K
 Kill Bill Volume 1	f	K
 Kill Bill Volume 2	f	K
 KILL BLUE	s	K	2026
@@ -25861,7 +25867,7 @@ O Guru do Sexo	f	O
 O Gângster	f	O
 O Gângster Nômade	f	O
 O Gêmeo	f	O
-O Gênio	s	O	2002
+O Gênio	s	O
 O Gênio do Crime (2026)	f	O
 O Gênio do Sexo	f	O
 O Gênio do Videogame	f	O
@@ -25920,6 +25926,7 @@ O Homem de Argila	f	O
 O Homem de Aço (2013)	f	O
 O Homem de Branco	f	O
 O Homem de Gelo (2012)	f	O
+O Homem de Lugar Nenhum	s	O
 O Homem de Lugar Nenhum (2023)	f	O
 O Homem de Palha (1973)	f	O
 O Homem de Toronto (2022)	f	O
@@ -29617,6 +29624,7 @@ Parasyte -the maxim-	s	P	2014
 Parasyte: The Grey	s	P	2024
 Paraíso	s	P
 Paraíso (2023)	f	P
+Paraíso Azul	f	P
 Paraíso Distante	f	P
 Paraíso Perdido	f	P
 Paraíso Perdido: O Caminho para Eternidade 2	f	P
@@ -31064,6 +31072,7 @@ Pronta para Amar	f	P
 Pronto pra Corrida	f	P
 Pronto Socorro Animal	s	P
 Pronto, Falei (2022)	f	P
+Pronto-Socorro	s	P
 Proof	s	P
 Propeller One Way Night Coach (2026)	f	P
 Proposta Indecente (1993)	f	P
@@ -32195,6 +32204,7 @@ ReMastered: Quem matou Jam Master Jay?	f	R
 Remedy	s	R
 Remember (2022)	f	R
 Remember Me	s	R
+ReminderS	s	R
 Remp-It 2	f	R
 Remy & Boo	s	R
 Remy &amp; Boo	s	R
@@ -33580,6 +33590,7 @@ Selvagem (2016)	f	S
 Selvagem (2020)	f	S
 Selvagem - Yabani	s	S	2023
 Selvagens (2024)	f	S
+Selvagens por Natureza	s	S
 Sem Amor (2017)	f	S
 Sem Ar	f	S
 Sem Ar (2015)	f	S
@@ -37250,6 +37261,7 @@ Too Late	f	T
 Too Much	s	T	2025
 Too Old to Die Young	s	T
 Toontorial	s	T	2018
+Toos: Um Sequestro Entre os Van der Valk	s	T
 Tootsie	f	T
 Top Boy	s	T
 Top Boy Summerhouse	s	T
@@ -37261,7 +37273,6 @@ Top Gun Ases indomaveis	f	T
 Top Gun Maverick	f	T
 Top Gunner	f	T
 Top Gunner Zona de Perigo	f	T
-Top Love - Só e Bem Acompanhado!	f	T
 Top Model	s	T
 Top of the Lake	s	T
 Top Secret! Superconfidencial	f	T
@@ -37376,7 +37387,7 @@ Traidor	f	T
 Traidora Americana O Julgamento de Axis Sally	f	T
 Traidores da Patria	s	T
 Trailer Park Boys	s	T
-Trailer Park Boys The Animated Series	s	T	2019
+Trailer Park Boys The Animated Series	s	T
 Trailer Park Boys: A Série Animada	s	T	2019
 Train Dreams	f	T
 Train to the End of the World	s	T
@@ -37667,6 +37678,7 @@ Três Solteirões e um Bebê (1987)	f	T
 Três Solteirões e um Bebê - 18 Anos Depois	f	T
 Três Solteirões e uma Pequena Dama (1990)	f	T
 Três Tigres Tristes	f	T
+Três Tontos no Quênia	s	T
 Três Verões	f	T
 Três Vezes Ana	s	T
 Três vezes Paixão	s	T
@@ -38483,6 +38495,7 @@ Um Natal Especial	f	U
 Um Natal Estrelado	f	U
 Um Natal Ex-pecial	f	U
 Um Natal Expecial (2025)	f	U
+Um Natal Filipino	s	U
 Um Natal Improvável	f	U
 Um Natal Inesperado	f	U
 Um Natal Magico (1989)	f	U
@@ -39130,7 +39143,7 @@ Uma Voz Contra o Poder	f	U
 Uma Voz nas Sombras	f	U
 Uma Xícara de Café e Sapatos Novos	f	U
 Uma Última Vez	f	U
-Umamusume: Cinderella Gray	s	U	2025
+Umamusume: Cinderella Gray	s	U
 Umayon	s	U
 Umberto D.	f	U
 Umbrella	f	U
@@ -40455,6 +40468,7 @@ Work Later Drink Now	s	W
 Workin Moms	s	W
 Working Girls	f	W
 World Dice Tour	s	W
+World Trigger	s	W
 Wormtown	f	W
 Would You Rather	f	W
 Wrath of Man	f	W
@@ -40490,7 +40504,7 @@ X-Men O Confronto Final	f	X
 X-Men O Filme	f	X
 X-Men Origens Wolverine	f	X
 X-Men Primeira Classe	f	X
-X-Men Serie Animada	s	X	1992
+X-Men Serie Animada	s	X
 X-Men: Evolution	s	X	2000
 Xama O Exorcista Pagao (2025)	f	X
 Xanadu	f	X

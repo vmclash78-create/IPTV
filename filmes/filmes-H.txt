@@ -75,7 +75,7 @@ Hammarskjöld: Luta pela Paz	dub=18:1084145
 Hamnet A Vida Antes de Hamlet (2025)	dub=18:858024,https://embedplayer2.xyz/cdn/hls/a7274706c51f173b3931c0d2f5bb2a34/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97668.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250906.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97701.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/100003.mp4
 Hampstead Nunca é Tarde para Amar	dub=18:441728,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42042.mp4
 Han Solo: Uma História Star Wars (2018)	dub=18:348350,https://embedplayer2.xyz/cdn/hls/e7dceb7b49bacb82102159ba9246cf62/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56135.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33954.mp4
-Hanami	dub=18:1315405	leg=18:1315405.m3u8?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253300.mp4
+Hanami	dub=18:1315405	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253300.mp4
 Hancock (2008)	dub=18:8960,https://embedplayer2.xyz/cdn/hls/9d081d3deb9bc0aff94c6a9a986f0ee1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4004.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74132.mp4
 Handling The Undead (2024)	dub=18:1020896,https://embedplayer2.xyz/cdn/hls/7e10f99e82202c96b5c569f0f6317cbd/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74128.mp4
 Handsome Um Filme de Mistério Netflix	dub=18:402582,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255368.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255387.mp4
@@ -165,7 +165,7 @@ Heleno	dub=18:98525,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF
 Hell	dub=18:73262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4020.mp4
 Hell Dogs	dub=18:910371
 Hell Girl (2019)	dub=18:599484
-Hell Girl Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74247.mp4
+Hell Girl Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74247.mp4
 Hell Hath No Fury (2021)	dub=18:877013	leg=18:877013.mp4?lang=leg,https://embedplayer2.xyz/cdn/hls/ae56fe1187c195fdf098da7a7ea4f123/master.txt
 Hell House - A Origem	dub=18:1035982,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/559.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74252.mp4
 Hell House LLC II: The Abaddon Hotel	dub=18:532973	leg=18:532973.mp4?lang=leg
@@ -176,7 +176,7 @@ Hellboy (2004)	dub=18:456740,18:1487,http://dbonline.tech-cdn.top:80/movie/ke-vi
 Hellboy 2	dub=18:13204,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33992.mp4
 Hellboy A Espada das Tempestades	dub=18:16774,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254310.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254653.mp4
 Hellboy II: O Exército Dourado	dub=18:11253
-Hellboy Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74258.mp4
+Hellboy Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74258.mp4
 Hellboy Sangue e Ferro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255362.mp4
 Hellboy e o Homem Torto (2024)	dub=18:1087822,https://embedplayer2.xyz/cdn/hls/0dbea6f530930542913900afaa470e28/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56160.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49102.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74263.mp4
 Helldose	dub=18:820940,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38308.mp4
@@ -262,7 +262,7 @@ Hex - Salto Mortal	dub=18:988233,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Hey Arnold! Na Selva – O Filme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15506.mp4
 Hey Arnold! O Filme	dub=18:17710,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15515.mp4
 Hibike! Euphonium Movie 3 Chikai no Finale	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9629.mp4
-Hibike! Euphonium: Ensemble Contest-hen (2023)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74395.mp4	leg=18:1108306.mp4?lang=leg
+Hibike! Euphonium: Ensemble Contest-hen (2023)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74395.mp4	leg=18:1108306.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74395.mp4
 Hidden Murder Island	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53629.mp4
 Hide and seek	leg=18:1138190.mp4?lang=leg
 Hideo Kojima: Connecting Worlds (2023)	dub=18:1125978	leg=https://embedplayer2.xyz/cdn/hls/6164b7e16ee20bb3bf6b688e5b6c0e7e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74415.mp4
@@ -271,7 +271,7 @@ High Flying Bird	dub=18:510498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928
 High Forces	dub=18:949709	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306382.mp4
 High Ground	dub=https://embedplayer2.xyz/cdn/hls/daf23438d177466b4f441bd2021faf46/master.txt	leg=18:138294.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74405.mp4
 High Ground Cerco Fechado (2025)	dub=18:1433719,https://embedplayer2.xyz/cdn/hls/daf23438d177466b4f441bd2021faf46/master.txt
-High Life Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74400.mp4
+High Life Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74400.mp4
 High Life: Uma Nova Vida (2018)	dub=18:376865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34002.mp4	leg=18:376865.mp4?lang=leg
 High School Band	dub=18:23367,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15511.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74410.mp4
 High School Musical	dub=18:10947,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15520.mp4
@@ -508,7 +508,7 @@ Hovering Blade	dub=18:1122872	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 How to Blow Up a Pipeline	dub=18:1008048
 How to Have Sex (2023)	dub=18:1075175,https://embedplayer2.xyz/cdn/hls/929ef51ac8169db1db8b3267e2dca747/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56258.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26792.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74760.mp4
 How to Make a Werewolf	dub=18:1304567
-How to Train Your Dragon The Hidden World Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74755.mp4
+How to Train Your Dragon The Hidden World Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74755.mp4
 Howard Sons de um Gênio	dub=18:512191	leg=18:512191.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74765.mp4
 Howard, o Super-Herói (1986)	dub=18:10658
 Huck e Zelensky - Não Está Tudo Bem (2024)	dub=18:1357069
@@ -537,7 +537,7 @@ Hurricane O Furacão	dub=18:10400,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Hurricane – Livre como o Vento	dub=18:680447,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53092.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74800.mp4
 Hurry Up Tomorrow Além dos Holofotes	dub=18:1093237,https://embedplayer2.xyz/cdn/hls/39ef166d5a3706f00c4f2448d9626e79/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56254.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44678.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74809.mp4
 Hush - A Morte Ouve (2016)	dub=18:376570,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49214.mp4
-Hustlers Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74804.mp4
+Hustlers Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74804.mp4
 Hypnos - Passaporte para a Loucura	dub=18:19936
 Hypnotic (2021)	dub=18:864873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56263.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26798.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74824.mp4
 Hypnotic Ameaça Invisível (2023)	dub=18:536437,https://embedplayer2.xyz/cdn/hls/99a0db131679e5c73d738e60dda9a3e4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44681.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74819.mp4

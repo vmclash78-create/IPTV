@@ -23,7 +23,7 @@ Tada-kun Wa Koi Wo Shinai		0	26
 Tadaima,Okaeri		0	24
 Tailândia VIP		0	2
 Tainá E Os Guardiões Da Amazônia		0	26
-Taishou Itsuwari Bridal/大正偽りブラヰダル～身代わり花嫁と軍服の猛愛		0	9
+Taishou Itsuwari Bridal/大正偽りブラヰダル～身代わり花嫁と軍服の猛愛		0	8
 Takara and Amagi		0	8
 Take Dois Com Phineas E Ferb		0	10
 Take Two		0	13
@@ -570,7 +570,7 @@ The Traitors		4	24
 The Trial of Christine Keeler		4	6
 The Trunk	2024	4	8
 The Tudors		4	38
-The Umbrella Academy	2019	4	36
+The Umbrella Academy	2019	4	42
 The Unaware Atelier Meister		4	24
 The Undeclared War		4	6
 The Underground Railroad: Os Caminhos Para A Liberdade		4	10
@@ -718,11 +718,12 @@ Too Close		5	3
 Too Much	2025	5	10
 Too Old to Die Young		5	20
 Toontorial	2018	5	26
+Toos: Um Sequestro Entre os Van der Valk		5	6
 Top Boy		5	40
 Top Boy Summerhouse		5	40
 Top Chef Brasil		5	53
 Top Model		5	197
-Top Secret: OVNIS		5	6
+Top Secret: OVNIS		6	6
 Top of the Lake		6	13
 Topi		6	1
 Topo Gigio		6	27
@@ -759,7 +760,7 @@ Traicao Secreta - Ufak Tefek Cinayetler		6	138
 Traicao: Nunca mais nos Veremos		6	1
 Traidores da Patria		6	5
 Trailer Park Boys		6	10
-Trailer Park Boys The Animated Series	2019	6	20
+Trailer Park Boys The Animated Series		6	20
 Trailer Park Boys: A Série Animada	2019	6	20
 Train to the End of the World		6	12
 Traição		6	16
@@ -834,14 +835,15 @@ Três Espiãs Demais!	2002	6	183
 Três Golpes e Uma Pena de Adeus		6	1
 Três Irmãs		6	403
 Três Metros Acima do Céu		6	36
+Três Tontos no Quênia		6	6
 Três Vezes Ana		6	123
 Três Vidas		6	8
 Três vezes Paixão		6	5
 Três é Demais		6	192
 Tsugu Tsugumomo		6	23
 Tsugumomo	2017	6	23
-Tsukigakirei		6	25
-Tsukumogami Kashimasu		6	63
+Tsukigakirei		7	25
+Tsukumogami Kashimasu		7	63
 Tsunami A Furia da Natureza		7	2
 Tsunami: Corrida Contra o Tempo	2024	7	4
 Tsuredure Children		7	12

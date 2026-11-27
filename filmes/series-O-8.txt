@@ -1,3 +1,12 @@
+@Os Pilares Da Terra
+1	1	dub	19:33234/1/1,http://64.31.23.207:80/series/96795792/50165825/5494756.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217208.mp4
+1	2	dub	19:33234/1/2,http://64.31.23.207:80/series/96795792/50165825/5494757.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217209.mp4
+1	3	dub	19:33234/1/3,http://64.31.23.207:80/series/96795792/50165825/5494758.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217210.mp4
+1	4	dub	19:33234/1/4,http://64.31.23.207:80/series/96795792/50165825/5494759.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217211.mp4
+1	5	dub	19:33234/1/5
+1	6	dub	19:33234/1/6
+1	7	dub	19:33234/1/7
+1	8	dub	19:33234/1/8
 @Os Pinguins de Madagascar	2008
 1	1	dub	19:7869/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/231131.mp4,http://64.31.23.207:80/series/96795792/50165825/5485664.mp4,https://saimo-tv.pages.dev/api/stream?tipo=series&id=7869&s=1&e=1&versao=dub
 1	1	leg	https://nsrv.classotaku.app/file/classgg/5046/1.mp4,https://saimo-tv.pages.dev/api/stream?tipo=series&id=7869&s=1&e=1&versao=leg

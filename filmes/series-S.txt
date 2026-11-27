@@ -285,6 +285,7 @@ Selfie		2	13
 Selling Tampa		2	8
 Selva de Pedra		2	160
 Selvagem - Yabani	2023	2	265
+Selvagens por Natureza		2	6
 Sem Asas Para Voar		2	12
 Sem Bloqueio		2	5
 Sem Corte e Sem Censura		2	26
@@ -360,7 +361,7 @@ Seto no Hanayome		2	50
 Seu Amigão da Vizinhança: Homem-Aranha	2025	2	21
 Seu Homem	2025	2	75
 Seus Amigos e Vizinhos	2025	2	19
-Seven Types of Ambiguity		2	3
+Seven Types of Ambiguity		3	3
 Seviyor Sevmiyor		3	28
 Sex Appeal		3	19
 Sex Atracao Secreta		3	6
@@ -389,7 +390,7 @@ Shaking the Bar		3	10
 Shakugan No Shana		3	48
 Shaman King		3	104
 Shaman King Flowers		3	26
-Shameless	2011	3	134
+Shameless	2011	3	246
 Shangri-La Frontier	2023	3	125
 Shantaram		3	12
 Sharivan, O Guardião do Espaço		3	51
@@ -480,7 +481,7 @@ Siren	2018	3	36
 Siren: A Lenda das Sereias	2018	3	36
 Sirens		3	6
 Sisi		3	6
-Sissi		3	12
+Sissi		4	12
 Sitiados		4	8
 Sitiados Mexico		4	8
 Skeleton Knight in Another World		4	12
@@ -600,7 +601,7 @@ Song of the Bandits		4	9
 Sonhadores		4	8
 Sonhando Com Um Maldito Conto De Fadas		4	10
 Sonhe Alto		4	16
-Sonho - Ruya - Dream		4	28
+Sonho - Ruya - Dream		5	28
 Sonho Dos Anos Dourados		5	42
 Sonho Meu		5	197
 Sonho de Esref - Esref Ruya		5	47
@@ -719,7 +720,7 @@ Star Wars Historias do Imperio		5	6
 Star Wars O Lote Estragado		5	16
 Star Wars: A Resistência	2018	5	58
 Star Wars: Andor		5	24
-Star Wars: Aventuras dos Jovens Jedi	2023	5	43
+Star Wars: Aventuras dos Jovens Jedi	2023	6	43
 Star Wars: Droids		6	13
 Star Wars: Ewoks	1985	6	26
 Star Wars: Guerras Clônicas	2003	6	2
@@ -838,7 +839,7 @@ Super Cubo		6	12
 Super Dragon Ball Heroes		6	51
 Super Drags	2018	6	5
 Super Família		6	26
-Super Fofos Aventura na Cidade		6	13
+Super Fofos Aventura na Cidade		7	13
 Super Gatinhos: Miauvilhosamente Recarregados	2024	7	20
 Super Junior: The Last Man Standing		7	4
 Super Lovers		7	20

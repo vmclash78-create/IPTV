@@ -763,7 +763,7 @@ Muito Velho Para Morrer Jovem		6	10
 Mujhe Pyaar Hua Tha		6	32
 Mulher		6	62
 Mulher Arte		6	10
-Mulher Forte,Do Bong-soon		6	18
+Mulher Forte,Do Bong-soon		6	16
 Mulher Grávida, Amada pelo Marido Rico		6	1
 Mulher Maravilha		6	55
 Mulher Moderna - Modern Kadın		6	10

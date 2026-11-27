@@ -1,2 +1,125 @@
 # SAIMO TV — CANAIS RESTRITOS
-# 0 canais
+# Canais adultos exclusivos com controle parental (protegidos por PIN)
+#
+# Formato idêntico ao catalogo.txt. Só carregado pelo app após o usuário
+# inserir o PIN de controle parental.
+
+canal: Sex Privê
+categoria: Adulto
+logo: https://www.claro.com.br/files/104379/1200x800/420d5431ef/og-assistir-sexprive-canal-porno.png
+
+fonte: https://eitvplay.appmembers.com.br/event86/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD · 1280x720
+fonte: https://redeflixapi.click/canal-proxy/x.m3u8?c=sex-prive&u=aHR0cHM6Ly9jaW5ldmVvLmZ1dHN0cmVhbS51ay9saXZlL2NpbmV2ZW8vYXhrYUR5Wm4vMTAwMDU5Lm0zdTg&e=1795746952&s=66aea19dc669db18d29265e88eddfae2b8fd40e5e1c43924816833ed634714b6
+qualidade: HD
+referer: https://redeflixapi.click/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://redeflixapi.click/canal-live/sex-prive/pl/x.m3u8?u=aHR0cHM6Ly9jaW5ldmVvLmZ1dHN0cmVhbS51ay9saXZlL2NpbmV2ZW8vYXhrYUR5Wm4vMTAwMDU5Lm0zdTg&e=1795800948&s=128b0c81730fd3ce2e7dd2f0500fc945b23d30a6a5cb2ac0d1b95cd198bec4b5
+qualidade: HD
+referer: https://redeflixapi.click/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: SexPlay
+categoria: Adulto
+logo: https://www.claro.com.br/files/104379/262x209/10f1714686/img-card-360-sexy-play-logo.jpg?sq=75
+
+fonte: https://redeflixapi.click/canal-stream/sexplay/index.m3u8
+qualidade: HD · 1280x720
+referer: https://redeflixapi.click/
+fonte: https://redeflixapi.click/canal-live/sexplay/pl/x.m3u8?u=aHR0cHM6Ly9jaW5ldmVvLmZ1dHN0cmVhbS51ay9saXZlL2NpbmV2ZW8vYXhrYUR5Wm4vMTAwMTIzLm0zdTg&e=1795800947&s=d6a243f2176d76baf1ecc90b64ee5ab819992f7ccaeb465031aafcdd00ef3bdd
+qualidade: HD
+referer: https://redeflixapi.click/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HTO GANG
+categoria: Adulto
+logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEittgn5BhpUTEbFyROFNR0ROqkq_D_5FBdwCGMJiaVN13J9BfQXYw_5x0YB8PXjWWnA4f1Hso_4kw1pO9tSmC71DyPSpMJt7hc56pu6oadqjBq-SKZAZCKBoMLSIntA86AKgl1mYD9wtnU-eYyrPaQMNkuNv4XwlZbhw87ashQJFzRYf76L3cLUbI0GUp8/s1536/1000798992.png
+
+fonte: https://cdn-5.nxplay.com.br/HTO_GANG/tracks-v1a1/mono.m3u8
+qualidade: Full HD
+fonte: https://redeflixapi.click/canal-stream/hto-gang/index.m3u8
+qualidade: HD · 1280x720
+referer: https://redeflixapi.click/
+fonte: https://redeflixapi.click/canal-live/hto-gang/pl/x.m3u8?u=aHR0cHM6Ly9jaW5ldmVvLmZ1dHN0cmVhbS51ay9saXZlL2NpbmV2ZW8vYXhrYUR5Wm4vMTAwMTI5Lm0zdTg&e=1795800946&s=406a5f21ac32752990e0f1c9fbf919c4beee1d74fa04b30631e45cc419a8c976
+qualidade: HD
+referer: https://redeflixapi.click/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: HTO MILF
+categoria: Adulto
+logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheYEFITAKMV39EkzcHdu3QDANq-sK6gtMHo_-YK_gOQegzRiQByI7m-UznLkcW_dbCm644X5gFtCpVCRmksKAJjLuxwtK2rofHih7XruV2-GtjybZNvT-UEfV8dQmLBupfUx17vpauVtXzUXHQBk0ilNo-gRYg4imCZemOP3_NLKwYhWYCyAP3DNFfpHU/s1536/1000798993.png
+
+fonte: https://cdn-5.nxplay.com.br/HTO_MYLF/tracks-v1a1/mono.m3u8
+qualidade: Full HD
+fonte: https://redeflixapi.click/canal-stream/hto-milf/index.m3u8
+qualidade: HD · 1280x720
+referer: https://redeflixapi.click/
+fonte: https://redeflixapi.click/canal-live/hto-milf/pl/x.m3u8?u=aHR0cHM6Ly9jaW5ldmVvLmZ1dHN0cmVhbS51ay9saXZlL2NpbmV2ZW8vYXhrYUR5Wm4vMTAwMTMwLm0zdTg&e=1795761769&s=40f2b165690042a8093450cddcd9b3a99e87f526670e86fd8e709d25d15b69af
+qualidade: HD
+referer: https://redeflixapi.click/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Sexy Hot
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/sexy-hot.png
+
+fonte: https://net11.sattvgo.com.br/SEXY_HOT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Playboy TV
+categoria: Adulto
+logo: https://mondrian.claro.com.br/channels/inverse/playboy-tv.png
+
+fonte: https://net11.sattvgo.com.br/PLAYBOY_TV/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Venus
+categoria: Adulto
+
+fonte: https://net11.sattvgo.com.br/VENUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Private
+categoria: Adulto
+
+fonte: https://net11.sattvgo.com.br/PRIVATE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+qualidade: HD · 1280x720
+
+canal: Anal
+categoria: Adulto
+
+fonte: https://cdn.adultiptv.net/anal.m3u8
+qualidade: HD · 1280x720
+
+canal: Asian
+categoria: Adulto
+
+fonte: https://cdn.adultiptv.net/asian.m3u8
+qualidade: HD · 1280x720
+
+canal: Big Ass
+categoria: Adulto
+
+fonte: https://cdn.adultiptv.net/bigass.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Asian
+categoria: Adulto
+
+fonte: https://live.mycamtv.com/asian.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Latina
+categoria: Adulto
+
+fonte: https://live.mycamtv.com/latina.m3u8
+qualidade: HD · 1280x720
+
+canal: MyCam Big Ass
+categoria: Adulto
+
+fonte: https://live.mycamtv.com/defstream.m3u8
+qualidade: FHD · 1920x1080
+fonte: https://eitvplay.appmembers.com.br/event48/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
+qualidade: HD
+

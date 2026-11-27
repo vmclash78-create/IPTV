@@ -2712,6 +2712,13 @@
 5	3	dub	19:66008/5/3
 5	8	dub	19:66008/5/8
 5	9	dub	19:66008/5/9
+@Eu, Viciado
+1	1	leg	19:226071/1/1.mp4?lang=leg
+1	2	leg	19:226071/1/2.mp4?lang=leg
+1	3	leg	19:226071/1/3.mp4?lang=leg
+1	4	leg	19:226071/1/4.mp4?lang=leg
+1	5	leg	19:226071/1/5.mp4?lang=leg
+1	6	leg	19:226071/1/6.mp4?lang=leg
 @Eu, Você e Toda uma Vida
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5656234.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139826.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5656235.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139827.mp4
@@ -3713,13 +3720,3 @@
 1	153	dub	http://64.31.23.207:80/series/96795792/50165825/5437564.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/177450.mp4
 1	154	dub	http://64.31.23.207:80/series/96795792/50165825/5437565.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/177451.mp4
 1	155	dub	http://64.31.23.207:80/series/96795792/50165825/5437566.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/177452.mp4
-@Exploding Kittens
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5643365.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139865.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5643366.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139866.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5643367.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139867.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5643368.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139868.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5643369.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139869.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5643370.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139870.mp4
-1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5643371.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139871.mp4
-1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5643372.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139872.mp4
-1	9	dub	http://64.31.23.207:80/series/96795792/50165825/5643373.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139873.mp4

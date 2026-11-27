@@ -144,7 +144,7 @@ Damascus Dreams	dub=18:818920
 Damien A Profecia II	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48423.mp4
 Damien: A Profecia 2 (1978)	dub=18:10766,https://embedplayer2.xyz/cdn/hls/712dbed404a68c46f76fbfe14a4492dd/master.txt
 Dampyr O Filho do Vampiro	dub=18:644124,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48416.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69111.mp4
-Damsel Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69100.mp4
+Damsel Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69100.mp4
 Dancando no Silencio (2023)	dub=18:926893
 Dancarina Imperfeita (2020)	dub=18:612706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55409.mp4
 Dance Comigo	dub=18:29872,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14261.mp4
@@ -154,7 +154,7 @@ Dancing Queen 2 in Hollywood	dub=18:1453538
 Dandelion	dub=18:1038476,18:16430	leg=18:1038476.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69126.mp4
 Dando à Luz Uma Nação- A Resistência de Mary Gaffney	leg=18:1162118.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69116.mp4
 Dange	dub=18:1236671	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69131.mp4
-Danger Close The Battle of Long Tan Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69121.mp4
+Danger Close The Battle of Long Tan Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69121.mp4
 Danger on Party Island	dub=18:1262914
 Dangerous Snow Day	dub=18:914827
 Daniel Isn't Real	dub=18:537788
@@ -179,7 +179,7 @@ Dario Argento: Panico	dub=18:1156103
 Dark Country	dub=18:23382,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21282.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69168.mp4
 Dark Encounter	dub=18:612515
 Dark Hollow	dub=18:1748841	leg=18:1748841.mp4?lang=leg
-Dark Phoenix Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69158.mp4
+Dark Phoenix Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69158.mp4
 Dark Web Cicada 3301	dub=18:791469,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44297.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69188.mp4
 Dark Windows	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69183.mp4
 Darken – O Universo Paralelo (2017)	dub=18:460952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33770.mp4
@@ -345,7 +345,7 @@ Deadpool (2016)	dub=18:293660,https://embedplayer2.xyz/cdn/hls/f490593ea8a84648c
 Deadpool 2 (2018)	dub=18:383498,https://embedplayer2.xyz/cdn/hls/e408a86e04ca1fdeb28d008d030881de/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55461.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3178.mp4
 Deadware (2021)	dub=18:895814	leg=https://embedplayer2.xyz/cdn/hls/d917a641965d92c127c5975247a0d5d8/master.txt
 Deadwood (2019)	dub=18:538225,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55457.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34971.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69419.mp4
-Deadwood Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69413.mp4
+Deadwood Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69413.mp4
 Dean: A Vida e Outras Piadas	dub=18:305342
 Dear Basketball	dub=18:483306
 Dear David	dub=18:1059372	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69427.mp4
@@ -513,7 +513,7 @@ Desafio de um Pistoleiro	dub=18:236035
 Desafio do Destino	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290737.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290760.mp4
 Desafio na Neve	dub=18:71726,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14361.mp4
 Desafio no Bronx (1993)	dub=18:1607,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52913.mp4	leg=18:1607.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69659.mp4
-Desafio no Gelo	dub=18:14292,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69685.mp4
+Desafio no Gelo	dub=18:14292	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69685.mp4
 Desafio à Corrupção	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256462.mp4
 Desafios (2025)	dub=18:1112417
 Desafios do Amor	dub=18:612491,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41847.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69670.mp4
@@ -798,7 +798,7 @@ Diamantes Roubados O Golpe do Século	dub=18:1513598,https://embedplayer2.xyz/cd
 Diamantes do Caos	dub=18:1179061,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25319.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70120.mp4
 Diana (2013)	dub=18:118289
 Diana A Eterna Princesa	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70125.mp4
-Diane Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70117.mp4
+Diane Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70117.mp4
 Diane von Furstenberg Woman in Charge	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70145.mp4
 Diario Proibido (2008)	dub=18:19173
 Diario da Minha Vagina (2024)	dub=18:986175,https://embedplayer2.xyz/cdn/hls/11aaf58377cf261fc1f2ae0c7fac50b7/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14508.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70288.mp4
@@ -1147,7 +1147,7 @@ Doom: A Porta do Inferno (2005)	dub=18:8814,http://dbonline.tech-cdn.top:80/movi
 Doors	dub=18:1155813	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70523.mp4
 Dope: Um Deslize Perigoso	dub=18:308639
 Dor e Glória	dub=18:519010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25446.mp4
-Dora and the Lost City of Gold Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70529.mp4
+Dora and the Lost City of Gold Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70529.mp4
 Dora e Gabriel	dub=18:719284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25451.mp4
 Dora e a Busca pelo Sol Dourado (2025)	dub=18:1287536,https://embedplayer2.xyz/cdn/hls/0a6faae27e399694ae7529fa96636219/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55589.mp4
 Dora e a Busca por Sol Dorado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14660.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70534.mp4
@@ -1219,7 +1219,7 @@ Dragnet: Desafiando o Perigo (1987)	dub=18:10023,http://dbonline.tech-cdn.top:80
 Dragoes: Equipe de Resgate: Em Busca do Dragao Dourado (2020)	dub=18:686941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9406.mp4
 Dragon Ball A Caminho do Poder (1996)	dub=18:39148,https://embedplayer2.xyz/cdn/hls/5c2267d79a16422bb2a091b43c2eb752/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9340.mp4
 Dragon Ball GT: O Legado de um Herói	dub=18:18095
-Dragon Ball Super Broly Legendado	dub=https://embedplayer2.xyz/cdn/hls/e220e04ee39b5439d9b8f78b3760a4dc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70613.mp4	leg=https://embedplayer2.xyz/cdn/hls/2fe82965e223554158df7ea33635ef73/master.txt
+Dragon Ball Super Broly Legendado	dub=https://embedplayer2.xyz/cdn/hls/e220e04ee39b5439d9b8f78b3760a4dc/master.txt	leg=https://embedplayer2.xyz/cdn/hls/2fe82965e223554158df7ea33635ef73/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70613.mp4
 Dragon Ball Super: Broly (2018)	dub=18:503314,https://embedplayer2.xyz/cdn/hls/e220e04ee39b5439d9b8f78b3760a4dc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9332.mp4	leg=https://embedplayer2.xyz/cdn/hls/2fe82965e223554158df7ea33635ef73/master.txt
 Dragon Ball Super: Super Hero (2022)	dub=18:610150,https://embedplayer2.xyz/cdn/hls/ae158f864b571578acafea5e0d3a984c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9345.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70648.mp4
 Dragon Ball Z A Batalha dos Deuses (2013)	dub=18:126963,https://embedplayer2.xyz/cdn/hls/a28fc6ef6f428e58a03655d029dc1775/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300890.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9357.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70623.mp4
@@ -1351,7 +1351,7 @@ Duma (2005)	dub=18:15907,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083
 Dumbo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55647.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33876.mp4
 Dumbo (1941)	dub=18:11360
 Dumbo (2019)	dub=18:329996
-Dumbo Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70749.mp4
+Dumbo Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70749.mp4
 Dummie A Múmia e a Tumba de Achnetut (2017)	dub=18:476792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33844.mp4
 Duna (2021)	dub=18:438631,18:783658,18:1464568,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55642.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3397.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70759.mp4
 Duna Parte Dois (2024)	dub=18:693134,https://embedplayer2.xyz/cdn/hls/8229b13d458a3d1fb9df266233e95968/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40588.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35765.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40601.mp4

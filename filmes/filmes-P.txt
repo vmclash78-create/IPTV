@@ -125,7 +125,7 @@ Paixao Sem Limite (1993)	dub=18:33408
 Paixao Sem Limites (2010)	dub=18:61979,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30392.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97087.mp4
 Paixao de Cristo de Nova Jerusalem	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39038.mp4
 Paixao de Escritorio (2026)	dub=18:1358005,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306265.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301346.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301401.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301214.mp4
-Paixão Fora da Lei	dub=18:1186715,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313922.mp4	leg=18:1186715.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313955.mp4
+Paixão Fora da Lei	dub=18:1186715,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313922.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313955.mp4
 Paixão Mortal	dub=18:183662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45554.mp4
 Paixão Obsessiva	dub=18:65650,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251205.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251238.mp4
 Paixão Real (2018)	dub=18:505723,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42571.mp4
@@ -268,6 +268,7 @@ Paranóia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ
 Parasita (2019)	dub=18:496243,https://embedplayer2.xyz/cdn/hls/d79266b6b58127156fbdb4131bb4b0c3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300936.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18570.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85826.mp4
 Parasite	dub=18:48311	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85821.mp4
 Paraíso (2023)	dub=18:800939,18:1374340,18:1148926,18:1140066,https://embedplayer2.xyz/cdn/hls/50a90e4caa843cfe7a3903249d2fbbc5/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57986.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/997.mp4	leg=18:1374340.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85832.mp4
+Paraíso Azul	dub=18:23942,18:23942.m3u8
 Paraíso Distante	dub=18:639857
 Paraíso Perdido	dub=18:524323
 Paraíso Perdido: O Caminho para Eternidade 2	dub=18:128540
@@ -311,7 +312,7 @@ Passageiro Acidental	dub=18:559581,http://dbonline.tech-cdn.top:80/movie/ke-vin-
 Passageiro do Mal (2026)	dub=18:1368314,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308555.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308150.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308164.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308129.mp4
 Passageiros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30479.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39057.mp4
 Passageiros (2008)	dub=18:13944
-Passageiros (2016)	dub=18:274870,https://embedplayer2.xyz/cdn/hls/16d303f173f28fc514623ba5c748a08d/master.txt	leg=18:274870.m3u8?lang=leg
+Passageiros (2016)	dub=18:274870,https://embedplayer2.xyz/cdn/hls/16d303f173f28fc514623ba5c748a08d/master.txt
 Passageiros da Noite	dub=18:17027
 Passageiros da Vida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18565.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85891.mp4
 Passagem (2022)	dub=18:1174287,18:1010860,18:595586,https://embedplayer2.xyz/cdn/hls/e3ade8e3932f7933316657687c17ae28/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300785.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57988.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45599.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85885.mp4
@@ -373,7 +374,7 @@ Paul McCartney: Got Back	dub=18:1219045
 Paul O Alien Fugitivo	dub=18:39513,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18586.mp4
 Paula	dub=18:1079968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97175.mp4
 Paulie - O Papagaio Bom de Papo	dub=18:36568
-Paulinho Gogó em Top Love - Só e Bem Acompanhado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85962.mp4
+Paulinho Gogó em Top Love - Só e Bem Acompanhado	dub=18:1283655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85962.mp4
 Paulo - O Apostolo de Cristo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40988.mp4
 Paulo de Tarso e A História do Cristianismo Primitivo	dub=18:636484,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40991.mp4
 Paulo, Apostolo de Cristo (2018)	dub=18:476968
@@ -421,7 +422,7 @@ Pegadas de zila	dub=18:1239580
 Pegadas na Neve (2020)	dub=18:682825,https://embedplayer2.xyz/cdn/hls/67c93617b4e928f985bea89dd266a5ff/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51252.mp4
 Pegando Fogo	dub=18:295964,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30525.mp4
 Pegar e Largar	dub=18:13668,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18626.mp4
-Pegasus Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86007.mp4
+Pegasus Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86007.mp4
 Pegasus Pônei com uma Asa Quebrada	dub=18:567939,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34544.mp4
 Pegue a Bala (2021)	dub=18:859860,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35215.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86013.mp4
 Pegue a Bola,Passe a Bola (2018)	dub=18:555530
@@ -440,7 +441,7 @@ Pele de Asno	dub=18:5590,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083
 Peles	dub=18:435707
 Pelo Direito de Ser Feliz (2018)	dub=18:505444
 Pelo Resto de Nossas Vidas	dub=18:397451
-Pelo Sangue e Traição, Eu Reergo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98474.mp4
+Pelo Sangue e Traição, Eu Reergo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98474.mp4
 Pelos Olhos de Maisie	dub=18:127373
 Pelotão de Elite	dub=18:43418,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37132.mp4	leg=18:43418.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86029.mp4
 Pelotão em Apuros	dub=18:11008,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18635.mp4
@@ -632,7 +633,7 @@ Pescando Confusão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Pesos Pesados (1995)	dub=18:14819,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300937.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18720.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86279.mp4
 Pessoas - Contar para Viver	dub=18:638239
 Pessoas,Lugares e Coisas (2015)	dub=18:308027
-Pet Sematary Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86274.mp4
+Pet Sematary Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86274.mp4
 Peter Five Eight (2024)	dub=18:974878,https://embedplayer2.xyz/cdn/hls/23f546ed1e5f36d239757fa5aa903636/master.txt
 Peter Pan & Wendy	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58066.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34574.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86284.mp4
 Peter Pan (2003)	dub=18:10601,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34565.mp4
@@ -646,7 +647,7 @@ Pets Unidos	dub=18:638134,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Pets em Ação! (2024)	dub=18:1207830,https://embedplayer2.xyz/cdn/hls/40d12fe81bc0397d945756ff77908fd2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10803.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86312.mp4
 Pets: A Vida Secreta dos Bichos (2016)	dub=18:328111,https://embedplayer2.xyz/cdn/hls/c0e8463349a0d0cb18bfdf4b3a61cbd4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10797.mp4
 Pets: A Vida Secreta dos Bichos 2 (2019)	dub=18:412117,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10801.mp4
-Petta Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86296.mp4
+Petta Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86296.mp4
 Peça por Peça (2024)	dub=18:1236419,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10810.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86317.mp4
 Peça-me o Que Quiser	dub=18:1252309,https://embedplayer2.xyz/cdn/hls/e4d3f8b9dfb0ced79551560875207174/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58091.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42647.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86306.mp4
 Peçanha Contra o Animal	dub=18:879163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18725.mp4
@@ -822,7 +823,7 @@ Podolski	dub=18:1693201,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/
 Podres de Ricos (2018)	dub=18:455207,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58130.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58134.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18765.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86575.mp4
 Poemaria	dub=18:1318385,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250115.mp4
 Pokemon Detective Pikachu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58139.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256167.mp4
-Pokemon Detective Pikachu Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86580.mp4
+Pokemon Detective Pikachu Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86580.mp4
 Pokemon: Detetive Pikachu (2019)	dub=18:447404,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58149.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34597.mp4
 Poker Face (2012)	dub=18:121365,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58144.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30674.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86595.mp4
 Pokémon 3: O Feitiço dos Unown (2000)	dub=18:10991,https://embedplayer2.xyz/cdn/hls/9dd34b9b40cb893bf8ad8f699bb5547b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10857.mp4
@@ -856,7 +857,7 @@ Pokémon: Zoroark - Mestre das Ilusões (2010)	dub=18:50087,https://embedplayer2
 Polar (2019)	dub=18:483906,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58154.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6609.mp4
 Polaris	dub=18:842861	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86600.mp4
 Polaris 29	dub=18:1366940
-Polaroid Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86589.mp4
+Polaroid Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86589.mp4
 Pole Dance: Dança do Poder	dub=18:778870
 Poli	dub=18:468074
 Poli II - O Fusquinha da Polícia	dub=18:200156,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10945.mp4
@@ -1045,7 +1046,7 @@ Predators	dub=18:1157066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083
 Predestinado Arigó e o Espírito do Dr. Fritz	dub=18:649985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30763.mp4
 Prefira Sua Alteza Princesa	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303340.mp4
 Pregando o Amor	dub=18:207883,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30765.mp4
-Premiere Annee Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86769.mp4
+Premiere Annee Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86769.mp4
 Premonicao 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51421.mp4
 Premonição	dub=18:9532
 Premonição 2 (2003)	dub=18:9358,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51426.mp4
@@ -1279,7 +1280,7 @@ Président(s) dans l'objectif	dub=18:955030
 Príncipe das Sombras (1987)	dub=18:8852,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51484.mp4
 Príncipe de Ferro	dub=18:51271
 Príncipes Perigosos	dub=18:1298238,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58190.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45770.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87087.mp4
-Pródigo Moderno	dub=18:634119,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87083.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87077.mp4
+Pródigo Moderno	dub=18:634119	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87077.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87083.mp4
 Próxima Parada: Apocalipse (2018)	dub=18:475210,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6676.mp4
 Psiconautas, os Filhos Esquecidos (2015)	dub=18:361705
 Psicopata Americano	dub=18:1359,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51500.mp4

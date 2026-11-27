@@ -3684,6 +3684,7 @@ f	Apache: O Último Bravo	43329	/5Q05vmMNL2syEciyUqOmlEq3JC2.jpg	Ação,Faroeste
 f	Apaches (2023)	949903	/7BnKMBD5WRY3lpVDOHDDuMTIhMs.jpg	Drama,Suspense
 f	Apaches Gangues de Paris	949903	/7BnKMBD5WRY3lpVDOHDDuMTIhMs.jpg	Drama,Suspense
 f	Apagar Histórico	133790	/l3xJNAGX7jy5bN05lHygmIt4Q1F.jpg	Comédia,TV
+f	Apagão		/sZ0HuNXTAVbab7M4WL3aazf3ZPl.jpg	
 f	Apaixonada	1181237	/luWMuHlX0cIFopEQ4DIu7n6xqGn.jpg	Comédia,Romance
 f	Apaixonados em Nova York	83823	/uar2R4EbALgNmjaTea8w4QuClz3.jpg	Drama,Comédia
 f	Apaixonados O Filme		/iOsbMseruPqoMRcrGsdkOvKb8GY.jpg	
@@ -12490,7 +12491,6 @@ f	Kids		/o8wp6TcKIJF51vPojV3OJTOaEnr.jpg
 f	Kids Are Growing Up: A Story About a Kid Named Laroi (2024)	1247793	/ksj8IPyvNIDOBk15wcxEH4tsG0O.jpg	Documentário,Música
 f	Kikoriki - Agência de Viagens Deja-Vu (2018)	506752	/cC0IbNhWN1QQQkOJQsxXaud6eBh.jpg	Animação,Família,Comédia
 f	Kill	1439930	/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg	Ação,Drama,Crime
-f	Kill Bill - Todo o Sangue Derramado	414419	/p5c1N2ygxVDGULgMnDo0geOYzi7.jpg	Ação,Crime,Drama,Suspense
 f	Kill Bill Volume 1	24	/6VDrtm6rLEW4hByVA45V0Gpime0.jpg	Ação,Crime
 f	Kill Bill Volume 2	393	/qUe5LcD5gnbRFHNZBZf5qt56ylv.jpg	Ação,Crime,Suspense
 f	Kill Boksoon (2023)	849869	/2eRQ55y4OWXZjmdwfBmyMEPTdyy.jpg	Ação,Drama,Suspense,Crime
@@ -19634,6 +19634,7 @@ f	Paranóia	8271	/5xbBj0mwEy1yUjY1wEPUMoeeJny.jpg	Suspense,Drama,Mistério
 f	Parasita (2019)	496243	/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg	Comédia,Suspense,Drama
 f	Parasite	48311	/4DGPORlVIDIQvsuSDnM4uXKMjWS.jpg	Terror,Ficção científica
 f	Paraíso (2023)	800939	/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg	Drama,Comédia,Romance
+f	Paraíso Azul		/vPWQ02RbO82ijIede7SYHcnhzoT.jpg	
 f	Paraíso Distante		/izvxj6xDq4Skz2OODy4J0361J1s.jpg	
 f	Paraíso Perdido	524323	/ksDmceBR2xBNXsRB9Qnj22b7NjE.jpg	Drama,Música,Romance
 f	Paraíso Perdido: O Caminho para Eternidade 2	128540	/nHRiCbGRtNLnX0r3vOcKTbg3XUn.jpg	Drama,Família
@@ -24317,7 +24318,6 @@ f	Top Gun Ases indomaveis	744	/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg	Ação,Drama,Roma
 f	Top Gun Maverick	361743	/kPbuLGVSJHATkW9fX9L3h1wM0Pa.jpg	Ação,Drama
 f	Top Gunner		/w3pYxiYHcPlEIW44RYdQgNQESvE.jpg	
 f	Top Gunner Zona de Perigo	980083	/2xcV2egehqvKTHFEtvG5k8PMbeB.jpg	Ação
-f	Top Love - Só e Bem Acompanhado!	1283655	/dnEDznGf2ATL0onIlDcGFSJcnEb.jpg	Comédia
 f	Top Secret! Superconfidencial	8764	/kuKyrY1glIM5rLDzF4Wt8XRyXio.jpg	Comédia
 f	Topuria Matador	1312215	/t67EVJZpjyZdYS5mK6Ra3si044c.jpg	Documentário
 f	Topázio	2370	/ojizjzpSQvdqTXPzmXTbUW0i4cF.jpg	Drama,Suspense
@@ -27632,6 +27632,7 @@ s	A Vida em Outros Planetas	113178	/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg	Documentári
 s	A Vida Mentirosa dos Adultos	103416	/w9XPnBDa3PZVsrCtrX1dqyWYOpY.jpg	Drama
 s	A Vida no Nosso Planeta	213609	/ugPZPSChjaLDq4WhzMf0IpOwGRg.jpg	Documentário
 s	A Vida Pela Frente	158235	/mVT9nnwKoLw2rIgva5uMqmX8SMD.jpg	Drama
+s	A Vida Privada Dela		/zJ69bAy2PoYw2N3SIAdINK3TOsa.jpg	
 s	A Vida que Você Queria	253361	/ehr8VbxdZbSHAn4gAaL7uzWz8Ky.jpg	Drama
 s	A Vida Secreta da Minha Secretaria	88783	/oeA2tlpOQuR0mqqyQcnDTp66vfL.jpg	Comédia
 s	A Vida Secreta Do Meu Marido Bilionário	308858	/hylhk85tRv9O8XrI2bqroDnEGRE.jpg	Drama
@@ -28605,6 +28606,7 @@ s	Batalha de Influencers	243149	/ee2b9lDgdcQcZ8yPa6bMsH7j32Z.jpg	Reality
 s	Batalha de Massas	308524	/1FRtrTzbqAVNLYfKSAwftJ7txSP.jpg	
 s	Batalha do Churrasco	91771	/Z5H0AFYkea80S5QFo6HQ3q5hPs.jpg	Reality
 s	Batalha dos Alfas	228604	/iMIRdpaAVLOaF6TDtqVPHwenLbR.jpg	Documentário
+s	Batalha dos Confeiteiros: América Latina		/e5fL6kuVjBRMnnXDIsV6O99yXet.jpg	
 s	Batalha dos Cozinheiros America Latina	270897	/4NYXW6vLAv7TdrUSEiDeEmUxwc3.jpg	Reality
 s	Batalha Makers Brasil	139529	/udajQI6Gv0Bswhps47fzeoIpX0d.jpg	Reality
 s	Batalha pelo Ceu	241007	/tHtGWzRS1zdlAYnY2rpKsRJ5bJa.jpg	Drama,Ação e aventura
@@ -28646,6 +28648,7 @@ s	Bebidas do Mundo com Shay Mitchell		/ydBtrmKvUcwdUxoBBlrB5kmO6CV.jpg
 s	Bebê a Bordo	43937	/3fR3JKMrM4sSbpK92PnvpSqmO0w.jpg	Novela,Drama,Comédia,Família,Reality
 s	Bebê Rena	241259	/5Qsao5QaFFu3BlFgUhB5asp4dzb.jpg	Drama
 s	Bebês em Foco	99103	/m3vDzamSJDHdzMs7RVaPenhJcXi.jpg	Documentário
+s	Beck		/oOHVlOM3l0etyCVAWA3ity4EJqm.jpg	
 s	Becker		/hno1hP545G5xS1l4mLBXaY7NIqn.jpg	
 s	Beckham	235345	/y9d3trMAczZWFqYvGSW6V695vf3.jpg	Documentário
 s	Beckham: Salve Nosso Time	204667	/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg	Documentário,Reality
@@ -30067,6 +30070,7 @@ s	Detox	207470	/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg	Comédia
 s	Deu a Louca no Tempo	135644	/q2he15LYjVLnFyMsC5GlRYklr53.jpg	Infantil,Comédia,Ficção e fantasia
 s	Deus Me Adicionou	81114	/u2LsYYVniqK95fKHid85x2kngRT.jpg	Drama,Família,Mistério,Comédia
 s	Deus Salve o Rei	75768	/vhrHWMfS8n11DjPwfoODSw77vSQ.jpg	Novela,Drama,Ação e aventura
+s	Deusa dos Golpes	280977	/mYXRY2b2ANj6mdTq7yscyopQb1S.jpg	Documentário
 s	Deuses Americanos	46639	/jPylofcSv0xhhXIPIlcciFfUOLT.jpg	Drama,Mistério,Ficção e fantasia
 s	Deuses Egipcios	280720	/wyD0xL4xejiKon8HsxWWNU25jeu.jpg	
 s	Devil in Disguise: John Wayne Gacy	257534	/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg	Crime,Drama
@@ -30659,6 +30663,7 @@ s	Eu Vou Te Encontrar	278178	/hHr1U9i91X5RTAX0DyUwNhZLs7i.jpg	Drama,Mistério,Cr
 s	Eu, a Patroa e as Crianças	2692	/huMehRjXBkFkO9BWPly1635y0J0.jpg	Comédia,Família,Drama
 s	Eu, a Vó e a Boi	95969	/dGakIOv52Z9uHDFAYTMKtrh84QP.jpg	Comédia
 s	Eu, Tu e Ela		/2kGB4jNvaCGq1Ia5ZKIrq5Voycf.jpg	
+s	Eu, Viciado		/1LCwYbqwnth74ol6TmNCPW14bqm.jpg	
 s	Eu, Você e Toda uma Vida		/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg	
 s	EUA: A Luta pela Liberdade	118043	/sGjTwbXSwKiyvkNURipvicW6scJ.jpg	Documentário,Guerra e política
 s	Euphoria	85552	/41nGDzjXAFFdGAKSBrdXK268WdE.jpg	Drama
@@ -30926,6 +30931,7 @@ s	Food for the Soul	281042	/2qMKqWsHGIHRTswQH3hXJlmRTJa.jpg	Animação,Comédia
 s	Food Truck A Batalha	284854	/91w8KKrkUvgbQEncG4xzQZyGFTu.jpg	
 s	Food Wars! Shokugeki no Soma		/txThYw4WP7XUFbcj5BEX2qjkVfL.jpg	
 s	Foodie Love	88365	/eJkekj427HeYuUYPU90wRhbWB01.jpg	Comédia,Drama
+s	Fool Night		/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg	
 s	For All Mankind	87917	/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg	Drama,Ficção e fantasia,Guerra e política
 s	For Life	4731	/sbcNGnpZsvZUuyHlGZ5LBbaEH6m.jpg	Família,Comédia
 s	For Life: Lutando Por Justiça	92053	/yazieNwR0VsN8E5yBWgmWsDuVXz.jpg	Crime,Drama
@@ -33964,6 +33970,7 @@ s	O Herdeiro Impossivel	223212	/7pkDg7fTMbdemdDHGdFTlh2a3P2.jpg	Drama
 s	O Hipnotizador	63733	/t47NPirCkqcH7yiaDQeUBk98MxN.jpg	Crime,Drama,Ficção e fantasia
 s	O Homem com Mil Filhos	257207	/cP01iZUgYLEt8Zxkb8FDqHlznRF.jpg	Documentário
 s	O Homem das Castanhas	127865	/bKo9d4eFhytfIWm3ptsJd5pHdK2.jpg	Drama,Crime,Mistério
+s	O Homem de Lugar Nenhum	306905	/iO4PWIZDhyALn5KYFgph57bIYtK.jpg	Ação e aventura
 s	O Homem Do Castelo Alto	62017	/22Ig8twy2ZGxy9KxRKyGMrJcXNu.jpg	Ficção e fantasia,Drama
 s	O Homem Inocente	44969	/nbQGtaGw0QXGdzt9rxMffh9dEqF.jpg	Drama,Crime
 s	O Homem Mais Odiado da Internet		/jSyxV1FWldGztA2xyjC8HSo4l1d.jpg	
@@ -35174,6 +35181,7 @@ s	Promessas de Amor	225550	/sAyhlzvZXsDAQLYB2N5zXXQsvXI.jpg	Novela,Ficção e fa
 s	Promise of Wizard	258578	/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg	Animação,Ficção e fantasia
 s	Promised Land	9929	/bcONgPhxtXJjA5pQjhU5Ih5FlTb.jpg	Drama
 s	Pronto Socorro Animal	56317	/f0sNlBSX2bRhed01CvNfbqlUebU.jpg	Reality,Documentário
+s	Pronto-Socorro		/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg	
 s	Proof		/e29bfYMWzFTGszTZqVIHxyxYNHC.jpg	
 s	Protecao Infinita	270860	/rQY1t4lpEJzgFLPzjTrnnkhbNXJ.jpg	Drama,Mistério
 s	Protegido	306484	/agi9wY3ZjypBF6hdC0DcAqFhUby.jpg	Drama
@@ -35468,6 +35476,7 @@ s	Release the Spyce	82905	/bebou99kYubm1xYBpiO0psbxYRM.jpg	Animação,Ação e a
 s	Relembre	230370	/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg	Drama,Mistério
 s	Remedy	62073	/rOLtmCrX4TYx5QJCwAbI1hMlqeA.jpg	Drama
 s	Remember Me		/2YH1gywyt5mGOcM6ar7cgOqKRH2.jpg	
+s	ReminderS		/1sCNY373Hb6vxDpPSerHRwIUWZv.jpg	
 s	Remy & Boo	135453	/3fypRYITEs6t3aMcrFxwVsEUXrQ.jpg	Infantil
 s	Ren Yu	273119	/7OEUa475TU6ECokYdVCrSjvaBSg.jpg	Mistério,Drama
 s	Renai Flops	195990	/oCxUN465HVHhLwqRFd30hwqCjrs.jpg	Animação,Comédia,Drama,Ficção e fantasia
@@ -35924,6 +35933,7 @@ s	Selfie		/wMHyfRltVBvmlkDqMZgMGURnwHn.jpg
 s	Selling Tampa	139301	/okYu24m3j0GqI8yxdaIhSRpKu51.jpg	Reality
 s	Selva de Pedra	99027	/l460AnERQr7NBgOM4sOHtYNypOf.jpg	Drama,Novela
 s	Selvagem - Yabani	231503	/osQGk3B8WvaeIs0ln8Vq8eQmkt2.jpg	Drama
+s	Selvagens por Natureza	230936	/cepQAUCUWNJ8e9rmCFLY3UtcTVA.jpg	Documentário
 s	Sem Asas Para Voar	45235	/ntFAJT2pJBjImZquGfr7wyri2bT.jpg	Animação,Comédia,Drama
 s	Sem Bloqueio	221955	/ni3rfydHXiBvGzbAoMtoNRhOjL8.jpg	Documentário
 s	Sem Corte e Sem Censura	17930	/mgiFtIqjKG3Ac8NmtzxnVjdA4mj.jpg	Documentário
@@ -36546,7 +36556,7 @@ s	Tada-kun Wa Koi Wo Shinai	75975	/cSSu9CMZlROYF8d13uFO7XAALMR.jpg	Animação,Co
 s	Tadaima,Okaeri	235978	/cRn9O0SeGrlIu4Jnhn2VJfDra0.jpg	Animação
 s	Tailândia VIP		/dAC7AizXOoLI6ZzD6S1luaF5Vp1.jpg	
 s	Tainá E Os Guardiões Da Amazônia	101332	/rNo30Uk2A2YQNvQSsIoFfQgxK00.jpg	Animação,Infantil
-s	Taishou Itsuwari Bridal/大正偽りブラヰダル～身代わり花嫁と軍服の猛愛	271026	/adLuRUaIzy44nUExYjUix2ZKjqM.jpg	Animação
+s	Taishou Itsuwari Bridal/大正偽りブラヰダル～身代わり花嫁と軍服の猛愛		/adLuRUaIzy44nUExYjUix2ZKjqM.jpg	
 s	Takara and Amagi	205988	/hl6aq4ot0TRCILcvM61WcrGAKaE.jpg	Drama,Comédia
 s	Take Dois Com Phineas E Ferb	34406	/bx23xAiqdN8kLGt6HgUz4QW0p7Q.jpg	Talk show,Infantil,Animação,Comédia
 s	Take Two		/rpC3eIoOyRY8LwDohZ8QehpeU7R.jpg	
@@ -37220,6 +37230,7 @@ s	Too Close		/gjdsbafuXxfBdpIBpONqImtBLfu.jpg
 s	Too Much	241361	/rCLrhHqN26gS4eNrM27hY8XJXOt.jpg	Comédia,Drama
 s	Too Old to Die Young	70168	/6pvWn7uPMRAOZWjKh7EDBITqVo1.jpg	Crime,Drama
 s	Toontorial	154096	/1Y5FNnMFZRnKL00GK6CZir3QERK.jpg	Animação,Comédia
+s	Toos: Um Sequestro Entre os Van der Valk		/yTn41duVqEmiBimV3itSyOpUPnU.jpg	
 s	Top Boy	41889	/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg	Drama
 s	Top Boy Summerhouse	41889	/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg	Drama
 s	Top Chef Brasil	88165	/hQIaICWRNBfzOLru0cGZJMiI1Yk.jpg	Reality
@@ -37330,6 +37341,7 @@ s	Três Dias que Mudaram Tudo	216228	/mGVsrBamRxWOheFjgafcIvOgNbm.jpg	Drama,Crim
 s	Três Espiãs Demais!		/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg	
 s	Três Irmãs		/7MgLXCY9SduQCY2St5HNXc1ptTS.jpg	
 s	Três Metros Acima do Céu	100333	/qjtG8T18ZbgF8KMhcJFz5EDyASd.jpg	Drama,Comédia
+s	Três Tontos no Quênia		/nRmbIIsX4QIPScDqQ1T46VlwJlw.jpg	
 s	Três Vezes Ana		/uecRQ97WTrthRgk5LAqNJSVpQbl.jpg	
 s	Três vezes Paixão		/p0emUBiNikJYQPI3d0130pRtOGx.jpg	
 s	Três Vidas	216811	/sOmbXUwfUY0Ea3rc2ox751roViS.jpg	Drama,Mistério
@@ -37490,6 +37502,7 @@ s	Um Milhao de Vezes Amor	216227	/mUYwQkDj7wdxXvAGss4ujTOQSWG.jpg	Drama,Mistéri
 s	Um Milhão de Coisas	81499	/tAXZvYajTRWEYcvc40w0SIwmyqi.jpg	Drama
 s	Um Monstro Como Nunca se Viu	91462	/8XFM09qoEy0Szm8HsN9uiXyr7WR.jpg	Documentário,Crime,Reality
 s	Um Mundo Diferente	115	/wA6dki8FE1rikfJPR66Gy3AbEpI.jpg	Comédia,Família
+s	Um Natal Filipino		/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg	
 s	Um Natal Nada Normal		/hfucfp2Vt1wMiZqFq6pGfOI4sjN.jpg	
 s	Um Novo Corpo Uma Nova Vida	196238	/7jZioIW9WgJ5r2rsyS398UYUCtk.jpg	Reality,Documentário
 s	Um Ombro Para Chorar	220521	/3okGDW2TwVdWzv2EVIon5JN5Ta4.jpg	Drama
@@ -37957,6 +37970,7 @@ s	Work in Progress		/gnpF1pqAr2WXHr467U8Rlc205IL.jpg
 s	Work Later Drink Now	133670	/8xAhACoI550LTSzAPKlzdRUoPsh.jpg	Drama,Comédia
 s	Workin Moms	69555	/vv9iXeR2G0p73exEU94nzXVrvHs.jpg	Comédia
 s	World Dice Tour	219465	/khzTQ4y7KdRN78Z70ZRARjhmhdp.jpg	Reality,Documentário
+s	World Trigger		/nLqkR8Pe0IVRCgSK0dYUkqvXr0r.jpg	
 s	Wreck	169582	/3bR8paDozNtcA1Lf7Qx0Q8Hn7uI.jpg	Comédia,Mistério
 s	Wrecked	66556	/h84bOAmmxDa2qfOu6KWDOSEuwLq.jpg	Comédia,Ação e aventura,Mistério
 s	wtFOCK		/xU34Cum8V8nJS3UuwwgKziNDREQ.jpg	

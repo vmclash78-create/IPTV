@@ -67,7 +67,7 @@ Raat Akeli Hai	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6
 Rabbids: A Invasão - Missão Para Marte (2021)	dub=18:879097,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11007.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87601.mp4
 Rabbit Trap (2025)	dub=18:1193824,https://embedplayer2.xyz/cdn/hls/8f055220740386be03ad6d66424a5d2b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99920.mp4	leg=https://embedplayer2.xyz/cdn/hls/67a809a74defa364d26cd61df8773ecd/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87607.mp4
 Rabid	dub=18:894206,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36424.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87613.mp4
-Rabid Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87611.mp4
+Rabid Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87611.mp4
 Racetime: Hora da Corrida (2018)	dub=18:534313,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11019.mp4
 Racha: Velocidade Sem Limite	dub=18:16411
 Racionais: Das Ruas de Sao Paulo pro Mundo (2022)	dub=18:1033303
@@ -108,7 +108,7 @@ Rambo 3	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6
 Rambo 4 (2008)	dub=18:7555,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6761.mp4
 Rambo II - A Missão	dub=18:1369
 Rambo III	dub=18:1370
-Rambo Last Blood Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87662.mp4
+Rambo Last Blood Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87662.mp4
 Rambo Programado Para Matar (1982)	dub=18:1368
 Rambo: Ate o Fim (2019)	dub=18:522938,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6757.mp4
 Ramona!	dub=18:38843,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19122.mp4
@@ -157,7 +157,7 @@ Ravens	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24
 Ravers	dub=18:532654	leg=18:532654.mp4?lang=leg
 Ray	dub=18:1677,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31058.mp4
 Ray & Liz (2018)	dub=18:500438
-Ray And Liz Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87708.mp4
+Ray And Liz Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87708.mp4
 Ray Donovan: O Filme (2022)	dub=18:800425,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58255.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31060.mp4
 Raya e o Ultimo Dragao (2021)	dub=18:527774,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11024.mp4
 Raymond & Ray	dub=18:869025,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58261.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31074.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87710.mp4
@@ -187,7 +187,7 @@ ReMastered: Massacre no Estádio	dub=18:553651
 ReMastered: Quem matou Jam Master Jay?	dub=18:553648
 ReNascer (2023)	dub=18:1058638
 Reading Lolita in Tehran	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31082.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87732.mp4
-Ready or Not Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87728.mp4
+Ready or Not Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87728.mp4
 Reagan	dub=18:647245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31088.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87740.mp4
 Real Madrid - O Filme	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98017.mp4
 Real Men: Operação Extraterrestre	dub=18:44801
@@ -635,7 +635,7 @@ Rock of Ages O Filme	dub=18:80585,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Rock'N'Rolla: A Grande Roubada	dub=18:13809
 Rocketeer	dub=18:10249,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6974.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88402.mp4
 Rocketman	dub=18:504608,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31266.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99114.mp4
-Rocketman Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88403.mp4
+Rocketman Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88403.mp4
 RocknRolla A Grande Roubada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6983.mp4
 Rockstar DUKI desde el fin del mundo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88419.mp4
 Rocky Balboa	dub=18:1246,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31271.mp4

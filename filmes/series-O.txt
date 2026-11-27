@@ -81,7 +81,7 @@ O CEO Que Comprou Meu Destino		0	1
 O CEO perseguindo a esposa substituta		0	1
 O Cafetão		0	6
 O Caminho Estreito para os Confins do Norte	2025	0	5
-O Caminho para o Sucesso		0	31
+O Caminho para o Sucesso		0	33
 O Cangaceiro do Futuro		0	7
 O Canto Livre de Nara Leão		0	5
 O Canto da Sereia		0	4
@@ -264,7 +264,7 @@ O Grito das Mariposas		2	13
 O Grito: Origens		2	6
 O Guardiao		2	193
 O Guia Pratico do Amor		2	12
-O Gênio	2002	2	150
+O Gênio		2	150
 O Herdeiro - Veliaht		2	26
 O Herdeiro Impossivel		2	24
 O Herdeiro Perdido: nas Vésperas de Retomar Tudo		2	1
@@ -276,6 +276,7 @@ O Homem Mais Odiado da Internet		2	3
 O Homem Mais Procurado da Índia		2	4
 O Homem com Mil Filhos		2	3
 O Homem das Castanhas		2	13
+O Homem de Lugar Nenhum		2	6
 O Homem na Arena: Tom Brady		2	11
 O Homem por Trás do Uniforme		2	1
 O Homem que Veio do Céu		2	84
@@ -367,7 +368,7 @@ O Melhor de Mexicanicos		2	10
 O Melhor de Tudo		2	28
 O Melhor do Mundo com Antoni Porowski		2	8
 O Menino Maluquinho		2	26
-O Menino que não vai para o Ceu		2	6
+O Menino que não vai para o Ceu		3	6
 O Mentalista	2008	3	151
 O Mentiroso - Yalancı		3	7
 O Mestre Oculto		3	1
@@ -486,7 +487,7 @@ O Professor do Crime - A Série		3	5
 O Profeta		3	252
 O Programa do Cheiroso e Sujinho	2016	3	39
 O Programa: 90 Dias Longe das Drogas		3	6
-O Programa: A Indústria dos Internatos Abusivos	2024	3	3
+O Programa: A Indústria dos Internatos Abusivos	2024	4	3
 O Promotor Militar Dobermann		4	32
 O Príncipe Dragão	2018	4	63
 O Próximo Empreendedor com Gordon Ramsay		4	20
@@ -563,7 +564,7 @@ O Segredo do Templo - Atiye		4	24
 O Segredo dos Animais A Serie		4	51
 O Segundo Melhor Hospital da Galáxia	2024	4	16
 O Senhor das Moscas	2026	4	4
-O Senhor dos Anéis: Os Anéis de Poder	2022	4	24
+O Senhor dos Anéis: Os Anéis de Poder	2022	4	38
 O Senhor e a Serva		4	10
 O Sequestro do Voo 601		4	6
 O Servente Supremo		4	1
@@ -604,7 +605,7 @@ O Tempo e o Vento		4	26
 O Terremoto do Everest		4	3
 O Terráqueo		4	16
 O Testamento O Segredo de Anita Harley		4	5
-O Tick		4	22
+O Tick		5	22
 O Tigre Verón		5	12
 O Tio de Outro Mundo	2022	5	13
 O Toque Do Silêncio		5	6
@@ -722,7 +723,7 @@ Olhos de Wakanda	2025	5	4
 Olhos do Mar Negro - Gozleri Karadeniz		5	16
 Olhos que Condenam		5	4
 Olive Kitteridge		5	4
-Ollie, o Coelhinho Perdido	2022	5	4
+Ollie, o Coelhinho Perdido	2022	6	4
 Ololade		6	6
 Olympo		6	8
 Olá, Amanhã!		6	10
@@ -838,7 +839,7 @@ Os Assassinatos da Loja de Iogurte		6	8
 Os Assassinatos de Fox Hollow Playground de um Serial Killer		6	5
 Os Assassinatos de Gilgo Beach		6	4
 Os Assassinatos de Idaho: Pesadelo Universitário		6	3
-Os Assassinatos de Starved Rock		6	3
+Os Assassinatos de Starved Rock		7	3
 Os Assassinatos de Åre	2025	7	5
 Os Astronautas		7	10
 Os Auditores		7	24
@@ -958,7 +959,7 @@ Os Parças - A Série	2024	7	10
 Os Passaros Feridos		7	4
 Os Pecados de Kujo		7	10
 Os Pequenos Johnstons		7	162
-Os Pilares Da Terra		7	8
+Os Pilares Da Terra		8	8
 Os Pinguins de Madagascar	2008	8	160
 Os Pioneiros		8	8
 Os Piores Ex		8	8

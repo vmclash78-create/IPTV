@@ -1,3 +1,7 @@
+@Os Assassinatos de Starved Rock
+1	1	dub	19:139086/1/1
+1	2	dub	19:139086/1/2
+1	3	dub	19:139086/1/3
 @Os Assassinatos de Åre	2025
 1	1	dub	19:224021/1/1,https://embedplayer2.xyz/cdn/hls/07e124466413d80b55f457f69d45232e/master.txt,http://64.31.23.207:80/series/96795792/50165825/5650352.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/151205.mp4
 1	2	dub	19:224021/1/2,http://64.31.23.207:80/series/96795792/50165825/5650353.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/151206.mp4
@@ -4868,12 +4872,3 @@
 17	8	dub	http://64.31.23.207:80/series/96795792/50165825/5533820.mp4
 17	9	dub	http://64.31.23.207:80/series/96795792/50165825/5533821.mp4
 17	10	dub	http://64.31.23.207:80/series/96795792/50165825/5533822.mp4
-@Os Pilares Da Terra
-1	1	dub	19:33234/1/1,http://64.31.23.207:80/series/96795792/50165825/5494756.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217208.mp4
-1	2	dub	19:33234/1/2,http://64.31.23.207:80/series/96795792/50165825/5494757.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217209.mp4
-1	3	dub	19:33234/1/3,http://64.31.23.207:80/series/96795792/50165825/5494758.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217210.mp4
-1	4	dub	19:33234/1/4,http://64.31.23.207:80/series/96795792/50165825/5494759.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217211.mp4
-1	5	dub	19:33234/1/5
-1	6	dub	19:33234/1/6
-1	7	dub	19:33234/1/7
-1	8	dub	19:33234/1/8

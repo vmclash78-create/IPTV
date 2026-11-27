@@ -173,6 +173,7 @@ Release the Spyce		1	23
 Relembre		1	5
 Remedy		1	20
 Remember Me		1	3
+ReminderS		1	3
 Remy & Boo		1	52
 Remy &amp; Boo		1	52
 Ren Yu		1	17
@@ -238,7 +239,7 @@ Revolucao		1	38
 Rey Mysterio vs A Escuridao		1	10
 Reyka		1	16
 Rezar e Obedecer		1	4
-Rezero Starting Life in Another World	2016	1	221
+Rezero Starting Life in Another World	2016	2	221
 Rhythm Flow France	2019	2	20
 Riacho Doce		2	40
 Ribeirão do Tempo		2	250
@@ -357,7 +358,7 @@ Roupa Suja		2	100
 Roupa Suja - Kirli Sepeti -		2	100
 Route 187	2026	2	4
 Royal Crackers		2	20
-Royal Pains	2009	2	105
+Royal Pains	2009	3	105
 Royalties		3	10
 Rozen Maiden		3	24
 RuPaul's Drag Race Global All Stars	2024	3	12

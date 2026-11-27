@@ -11543,7 +11543,6 @@ f	Kicks: Defendendo o Que é Seu	Drama,Crime,Ação,Aventura
 f	Kids Are Growing Up: A Story About a Kid Named Laroi (2024)	Documentário,Música
 f	Kikoriki - Agência de Viagens Deja-Vu (2018)	Animação,Família,Comédia
 f	Kill	Ação,Drama,Crime
-f	Kill Bill - Todo o Sangue Derramado	Ação,Crime,Drama,Suspense
 f	Kill Bill Volume 1	Ação,Crime
 f	Kill Bill Volume 2	Ação,Crime,Suspense
 f	Kill Boksoon (2023)	Ação,Drama,Suspense,Crime
@@ -22443,7 +22442,6 @@ f	Top Gang! Ases Muito Loucos (1991)	Ação,Comédia,Guerra
 f	Top Gun Ases indomaveis	Ação,Drama,Romance
 f	Top Gun Maverick	Ação,Drama
 f	Top Gunner Zona de Perigo	Ação
-f	Top Love - Só e Bem Acompanhado!	Comédia
 f	Top Secret! Superconfidencial	Comédia
 f	Topuria Matador	Documentário
 f	Topázio	Drama,Suspense
@@ -27642,6 +27640,7 @@ s	Detox	Comédia
 s	Deu a Louca no Tempo	Infantil,Comédia,Ficção e fantasia
 s	Deus Me Adicionou	Drama,Família,Mistério,Comédia
 s	Deus Salve o Rei	Novela,Drama,Ação e aventura
+s	Deusa dos Golpes	Documentário
 s	Deuses Americanos	Drama,Mistério,Ficção e fantasia
 s	Devil in Disguise: John Wayne Gacy	Crime,Drama
 s	Devil May Cry	Animação,Ação e aventura,Ficção e fantasia
@@ -28172,6 +28171,7 @@ s	Eu Vou Te Encontrar	Drama,Mistério,Crime
 s	Eu, a Patroa e as Crianças	Comédia,Família,Drama
 s	Eu, a Vó e a Boi	Comédia
 s	Eu, Tu e Ela	Comédia,Drama
+s	Eu, Viciado	Drama
 s	Eu, Você e Toda uma Vida	Drama
 s	EUA: A Luta pela Liberdade	Documentário,Guerra e política
 s	Euphoria	Drama
@@ -31100,6 +31100,7 @@ s	O Herdeiro Impossivel	Drama
 s	O Hipnotizador	Crime,Drama,Ficção e fantasia
 s	O Homem com Mil Filhos	Documentário
 s	O Homem das Castanhas	Drama,Crime,Mistério
+s	O Homem de Lugar Nenhum	Ação e aventura
 s	O Homem Do Castelo Alto	Ficção e fantasia,Drama
 s	O Homem Inocente	Drama,Crime
 s	O Homem Mais Procurado da Índia	Documentário,Crime
@@ -32875,6 +32876,7 @@ s	Seleção Final	Reality
 s	Selling Tampa	Reality
 s	Selva de Pedra	Drama,Novela
 s	Selvagem - Yabani	Drama
+s	Selvagens por Natureza	Documentário
 s	Sem Asas Para Voar	Animação,Comédia,Drama
 s	Sem Bloqueio	Documentário
 s	Sem Corte e Sem Censura	Documentário
@@ -33428,7 +33430,6 @@ s	Tacoma FD	Comédia
 s	Tada-kun Wa Koi Wo Shinai	Animação,Comédia,Drama
 s	Tadaima,Okaeri	Animação
 s	Tainá E Os Guardiões Da Amazônia	Animação,Infantil
-s	Taishou Itsuwari Bridal/大正偽りブラヰダル～身代わり花嫁と軍服の猛愛	Animação
 s	Takara and Amagi	Drama,Comédia
 s	Take Dois Com Phineas E Ferb	Talk show,Infantil,Animação,Comédia
 s	Taken	Ação e aventura,Crime,Drama,Comédia
@@ -34117,6 +34118,7 @@ s	Três Dias que Mudaram Tudo	Drama,Crime
 s	Três Espiãs Demais!	Animação,Infantil,Comédia,Ação e aventura
 s	Três Irmãs	Novela,Drama,Comédia
 s	Três Metros Acima do Céu	Drama,Comédia
+s	Três Tontos no Quênia	Reality
 s	Três Vezes Ana	Novela,Drama
 s	Três Vidas	Drama,Mistério
 s	Três é Demais	Comédia,Família

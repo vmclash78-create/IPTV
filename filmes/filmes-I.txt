@@ -67,14 +67,14 @@ Idiocracia	dub=18:7512,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Idiotas (2026)	dub=18:445466,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15613.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74920.mp4
 Idênticos: Dois Destinos Cruzados Por Um Sonho	dub=18:279914
 If Anything Happens I Love You	dub=18:713776	leg=18:713776.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74919.mp4
-If Beale Street Could Talk Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74923.mp4
+If Beale Street Could Talk Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74923.mp4
 If You Were the Last	dub=18:777847	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74925.mp4
 Igual a Tudo na Vida	dub=18:10739	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74944.mp4
 Igualzinha a Mim	dub=18:49073,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15632.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74928.mp4
 Ik ben geen robot	dub=18:1178556	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74938.mp4
 Ike: O Dia D (2004)	dub=18:31065
 Il Nibbio	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74945.mp4
-Il Primo Re Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74953.mp4
+Il Primo Re Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74953.mp4
 Il corpo	dub=18:155128,https://embedplayer2.xyz/cdn/hls/d30bdc7d64e03f7e34c50f5a135d8127/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254755.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253684.mp4
 Il legionario	dub=18:475878,18:846800,https://embedplayer2.xyz/cdn/hls/ba41f0765d801972bcfcd6a149714ee7/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250521.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254756.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250476.mp4
 Il paradiso del pavone	dub=18:832284

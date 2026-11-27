@@ -344,7 +344,7 @@ A Cilada (2015)	dub=18:317744
 A Cinco Passos de Você	dub=18:527641,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41131.mp4
 A Cinco Quadras	dub=18:690575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22318.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60395.mp4
 A Cinderela	dub=18:42884
-A Cinderella Story Christmas Wish Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60410.mp4
+A Cinderella Story Christmas Wish Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60410.mp4
 A Cisterna	dub=18:872144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1550.mp4
 A Civil (2021)	dub=18:833393
 A Classe Operária vai ao Paraíso	dub=18:56231
@@ -490,7 +490,7 @@ A Ditadura Perfeita	dub=18:264525
 A Divisao (2020)	dub=18:651866,https://embedplayer2.xyz/cdn/hls/ec7b904d9f65fb2c09e4bc74643738aa/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1556.mp4
 A Doce Sede de Sangue	dub=18:278316
 A Docura Amarga de ve la Divorciada	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302939.mp4
-A Dogs Journey Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60581.mp4
+A Dogs Journey Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60581.mp4
 A Dois Passos do Assassino	dub=18:1127375,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253667.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254672.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253370.mp4
 A Dona do Barato	leg=18:575463.mp4?lang=leg
 A Doutora e a Imperatriz	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303321.mp4
@@ -880,7 +880,7 @@ A Grande Ilusão	dub=18:1717,18:157351,http://dbonline.tech-cdn.top:80/movie/ke-
 A Grande Inundação (2025)	dub=18:982843,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54088.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/192.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61025.mp4
 A Grande Invasão do Balão Bomba	dub=18:910849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12479.mp4
 A Grande Jogada (2017)	dub=18:396371,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22606.mp4
-A Grande Jornada	dub=18:1009679,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61035.mp4	leg=18:1009679.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61040.mp4
+A Grande Jornada	dub=18:1009679	leg=18:1009679.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61035.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61040.mp4
 A Grande Luta (2020)	dub=18:637157,18:857278,https://embedplayer2.xyz/cdn/hls/4d58d5389bb14a8eba8bb322f53a7443/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12483.mp4
 A Grande Luta De Muhammad Ali	dub=18:196355
 A Grande Mentira	dub=18:511322,18:48289,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22611.mp4
@@ -1055,7 +1055,7 @@ A Ilha do Inverno	dub=18:1201338,https://embedplayer2.xyz/cdn/hls/650acfd85c8550
 A Ilha do Mal	dub=18:452571
 A Ilha do Monstros	dub=18:49684
 A Ilha do Tesouro	dub=18:6646,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310012.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310024.mp4
-A Ilha dos Ilús	dub=18:1061631,https://embedplayer2.xyz/cdn/hls/97c0b37e4a606ff453760b30e58b1f38/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61173.mp4
+A Ilha dos Ilús	dub=18:1061631,https://embedplayer2.xyz/cdn/hls/97c0b37e4a606ff453760b30e58b1f38/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61173.mp4
 A Ilha dos Mortos	dub=18:29426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46937.mp4
 A Ilha dos Paqueras	dub=18:190257
 A Ilha dos Prazeres Proibidos	dub=18:196013,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310707.mp4
@@ -1122,7 +1122,7 @@ A Isca	dub=18:118957	leg=18:118957.mp4?lang=leg
 A Isca Perfeita	dub=18:2084
 A JORNADA DE CONQUISTA DE UMA GORDA	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301542.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303499.mp4
 A Janela Secreta	dub=18:1586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43580.mp4
-A Jangada (2020)	dub=18:889357,18:985101,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61239.mp4
+A Jangada (2020)	dub=18:889357,18:985101	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61239.mp4
 A Jaula	dub=18:884588,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43584.mp4
 A Jogada da Vitória	dub=18:728300,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22684.mp4	leg=18:728300.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61242.mp4
 A Jogada de Chang (2023)	dub=18:776098,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54125.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53019.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61245.mp4
@@ -1277,7 +1277,7 @@ A MESTRA VEIO PARA RETIFICAR O COMPLEXO AMOROSO MA QIUYUAN	leg=http://dbonline.t
 A MINHA BEBE - DOCE FUGA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301838.mp4
 A MINHA MAE E UMA HERDEIRA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302664.mp4
 A MULHER CAIDA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301846.mp4
-A Madea Family Funeral Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61431.mp4
+A Madea Family Funeral Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61431.mp4
 A Madrasta	dub=18:484907,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47008.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61426.mp4
 A Mae do Ano (2023)	dub=18:1107872,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43648.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61811.mp4
 A Magia Começa na Rocha Encantada	dub=18:1566269,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/216.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61441.mp4
@@ -1289,7 +1289,7 @@ A Maior História de Amor Nunca Contada (2024)	dub=18:1246030,https://embedplaye
 A Maior História de Todos os Tempos	dub=18:2428
 A Mais Alta das Apostas	dub=18:1150798	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61456.mp4
 A Mais Louca Sexta-Feira em Apuros	dub=18:10426
-A Mais Preciosa das Cargas	dub=18:842859	leg=18:842859.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61446.mp4
+A Mais Preciosa das Cargas	dub=18:842859	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61446.mp4
 A Mala e os Errantes (2016)	dub=18:412209,https://embedplayer2.xyz/cdn/hls/972be51057d99428ddd2ab4bd3fcf6d5/master.txt
 A Malandrinha	dub=18:11894,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12636.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61466.mp4
 A Maldicao Do Espelho (1980)	dub=18:6032,18:6028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43624.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47109.mp4
@@ -2311,7 +2311,7 @@ A Vítima Invisível: O Caso Eliza Samudio	dub=18:1354503
 A Wedding for Belle (2025)	dub=18:1501192,https://embedplayer2.xyz/cdn/hls/0b585d48f27981304cfc757bdf57f021/master.txt	leg=https://embedplayer2.xyz/cdn/hls/423358260e83239d6c23f29af7842227/master.txt
 A Weekend to Forget	dub=18:1174928	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62725.mp4
 A White White Day	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62720.mp4
-A Young Man With High Potential Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62730.mp4
+A Young Man With High Potential Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62730.mp4
 A aventura de ARI meu amigo robô	dub=18:682075,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35384.mp4
 A esposa XXL do Prefeito seu Retorno Incrivel	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303183.mp4
 A famosa Invasão dos Ursos na Sicília	dub=18:537655	leg=18:537655.mp4?lang=leg
@@ -2645,7 +2645,7 @@ Acusado (2019)	dub=18:594399
 Acústico MTV: Capital Inicial (2000)	dub=18:40297
 Acústico MTV: Os Engenheiros do Hawaii	dub=18:40399
 Ad Astra - Rumo às Estrelas	dub=18:419704,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54370.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54372.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33558.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63097.mp4
-Ad Astra Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63082.mp4
+Ad Astra Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63082.mp4
 Ad Vitam (2025)	dub=18:1261501,https://embedplayer2.xyz/cdn/hls/89629cd705889921a9e5b7e38c3ef0b2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310646.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43784.mp4	leg=18:1261501.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63092.mp4
 Adam	dub=18:22051,18:1341105,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23365.mp4
 Adam Devine: Best Time of Our Lives	dub=18:609660
@@ -2953,7 +2953,7 @@ Aline Barros e Cia	dub=18:831809
 Aline Barros e Cia - Vol.2	dub=18:696416
 Aline Barros e Cia - Vol.3	dub=18:696417
 Alison	dub=18:520089	leg=18:520089.mp4?lang=leg
-Alita Battle Angel Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63445.mp4
+Alita Battle Angel Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63445.mp4
 Alita: Anjo de Combate (2019)	dub=18:17189,18:399579,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54442.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54447.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1940.mp4
 All Dogs Go to Heaven: Friends to the Rescue	dub=18:312657
 All Eyez On Me A Historia de Tupac	dub=18:402529,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23475.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98965.mp4
@@ -3053,7 +3053,7 @@ Além das Montanhas	dub=18:628333,18:103740,http://dbonline.tech-cdn.top:80/movi
 Além das Profundezas	dub=18:616803
 Além das Águas	dub=18:433082
 Além do Alcance (2014)	dub=18:80806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43836.mp4
-Além do Aposento	dub=18:1096584,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63565.mp4
+Além do Aposento	dub=18:1096584	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63565.mp4
 Além do Céu	dub=18:680041,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8624.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63545.mp4
 Além do Espetáculo	dub=18:1270612,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250597.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254696.mp4
 Além do Lago Ness	dub=18:48397
@@ -3081,7 +3081,7 @@ Amaldiçoados	dub=18:10012,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283920
 Amaldiçoados pelo Demônio	dub=18:49236
 Amanda	dub=18:1004642,18:1579533,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23535.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63595.mp4
 Amanda Knox	dub=18:411009
-Amando Voce em Segredo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303109.mp4
+Amando Voce em Segredo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303109.mp4
 Amanhecer Cosmico (2022)	dub=18:795652,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35501.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63615.mp4
 Amanhecer Negro	dub=18:210655
 Amanhecer Sangrento (2025)	dub=18:1180906,https://embedplayer2.xyz/cdn/hls/5783204f1990f96bfc77ade70c6f9c8c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63625.mp4
@@ -3174,7 +3174,7 @@ American Underdog A História de Kurt Warner	dub=18:673309,http://dbonline.tech-
 American Wages	dub=18:1443435
 American Werewolves	dub=18:987853
 American Woman	leg=18:567969.mp4?lang=leg
-American Woman Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63718.mp4
+American Woman Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63718.mp4
 Americana (2025)	dub=18:934456,18:1478754,https://embedplayer2.xyz/cdn/hls/353e4c440375b25d6de4f743f9f240d2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54481.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53709.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63738.mp4
 Americano	dub=18:103597,18:40798,18:636512	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63743.mp4
 Americanos na Cama	dub=18:248868
@@ -3446,9 +3446,9 @@ Andy Murray: Ressurgindo	dub=18:652074
 Andy Warhol Um Sonho Americano	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301008.mp4
 Anelka - O incompreendido	dub=18:726649
 Ang Mga Kaibigan ni Mama Susan	dub=18:673836	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64134.mp4
-Angel Face Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64139.mp4
+Angel Face Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64139.mp4
 Angel Falls A Novel Holiday	dub=18:630920,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41505.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64144.mp4
-Angel Has Fallen Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64149.mp4
+Angel Has Fallen Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64149.mp4
 Angel and the Badman	leg=18:1669915.mp4?lang=leg
 Angela (2023)	dub=18:1147964,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37680.mp4
 Angeliena	dub=18:880003
@@ -3457,7 +3457,7 @@ Angie: Garotas Perdidas (2020)	dub=18:776047,https://embedplayer2.xyz/cdn/hls/49
 Angry Birds	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8636.mp4
 Angry Birds 2: O Filme (2019)	dub=18:454640,https://embedplayer2.xyz/cdn/hls/ff72a170c4b336470e7559ed94e52924/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54540.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54545.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8640.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307388.mp4
 Angry Birds: O Filme (2016)	dub=18:153518
-Aniara Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64159.mp4
+Aniara Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64159.mp4
 Anikulapo (2022)	dub=18:1023994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23744.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64384.mp4
 Animais Corporativos	dub=18:530076
 Animais Fantásticos Os Crimes de Grindelwald	dub=18:338952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54554.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33575.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64175.mp4
@@ -3592,7 +3592,7 @@ Ao Cair da Noite	dub=18:66967,18:28392,18:96664,18:418078,http://dbonline.tech-c
 Ao Cair do Sol (2022)	dub=18:854359,https://embedplayer2.xyz/cdn/hls/ea8794dd8b6b2e60485f20831a52657d/master.txt
 Ao Compasso do Amor	dub=18:28658,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13173.mp4
 Ao Fim da Trilha	dub=18:701443
-Ao Infinito e Além Buzz e sua Jornada para ser Lightyear	dub=18:979163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64395.mp4
+Ao Infinito e Além Buzz e sua Jornada para ser Lightyear	dub=18:979163	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64395.mp4
 Ao Lado de Cristo (2021)	dub=18:778552,https://embedplayer2.xyz/cdn/hls/84873b48f8eeb17dc3593753a5ea3dd8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23767.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64400.mp4
 Ao Lado de um Assassino (2018)	dub=18:544431,https://embedplayer2.xyz/cdn/hls/61124248a1daa4869690900aa5025618/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23786.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64413.mp4
 Ao Leste das Montanhas	dub=18:810015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23772.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64416.mp4
@@ -3614,6 +3614,7 @@ Apache: O Último Bravo	dub=18:43329
 Apaches (2023)	dub=18:949903
 Apaches Gangues de Paris	dub=https://embedplayer2.xyz/cdn/hls/98a225f111467c3f1f83641a7eeee455/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23791.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64438.mp4
 Apagar Histórico	dub=18:133790,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13178.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64433.mp4
+Apagão	dub=18:745625
 Apaixonada	dub=18:1181237,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37694.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64440.mp4
 Apaixonados O Filme	dub=18:385566,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13186.mp4
 Apaixonados em Nova York	dub=18:83823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52903.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64449.mp4
@@ -3661,7 +3662,7 @@ Apocalypse Now	dub=18:28,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083
 Apocalypto (2006)	dub=18:1579	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64489.mp4
 Apollo 10 e Meio: Aventura na Era Espacial (2022)	dub=18:664996,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8653.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64499.mp4
 Apollo 11	dub=18:549559,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54610.mp4
-Apollo 11 Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64504.mp4
+Apollo 11 Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64504.mp4
 Apollo 13 - Do Desastre ao Triunfo (1995)	dub=18:568
 Apollo 13 Sobrevivendo no Espaço	dub=18:1249216	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64508.mp4
 Apollo 18	dub=18:50357,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47750.mp4
@@ -3804,7 +3805,7 @@ Armas em Jogo (2020)	dub=18:457335,https://embedplayer2.xyz/cdn/hls/fddcd5526398
 Armas na Mesa	dub=18:376290,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23897.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64686.mp4
 Armações do Amor (2006)	dub=18:6877
 Armstrong (2019)	dub=18:590969
-Armstrong Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64696.mp4
+Armstrong Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64696.mp4
 Armugan	dub=18:771039
 Army of the Dead: Invasao em Las Vegas (2021)	dub=18:503736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2088.mp4
 Arn - O Cavaleiro Templário	dub=18:13491,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2091.mp4
@@ -4390,7 +4391,7 @@ Até Onde Possamos Andar	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Até Que Amanheça	dub=18:1661870,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301366.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306302.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301020.mp4
 Até Que Enfim é Sexta-feira	dub=18:42212
 Até Que a Morte os Separe (2006)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309774.mp4
-Até Que a Vida Nos Separe	dub=18:480380,18:1009116,https://embedplayer2.xyz/cdn/hls/63f2b6a7b41caee74cf6ac62e241bab4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65414.mp4	leg=18:480380.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65420.mp4
+Até Que a Vida Nos Separe	dub=18:480380,18:1009116,https://embedplayer2.xyz/cdn/hls/63f2b6a7b41caee74cf6ac62e241bab4/master.txt	leg=18:480380.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65414.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65420.mp4
 Até Que a Vida Nos Separe Uma Biografia de Nelson Carneiro	dub=18:1270694,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255472.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255487.mp4
 Até Que os Parentes nos Separem	dub=18:5146
 Até a Morte Sobreviver é a Melhor Vingança	dub=18:672741,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47896.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65360.mp4

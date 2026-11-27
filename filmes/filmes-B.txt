@@ -96,7 +96,7 @@ Bad Therapy	dub=https://embedplayer2.xyz/cdn/hls/e710f21b56c7917baad9d37baf24e97
 Bad Trip (2021)	dub=18:578908,https://embedplayer2.xyz/cdn/hls/507a308b4c27521c72c275f57db2ed1b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13446.mp4
 Badh	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301368.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301022.mp4
 Badi	dub=18:716482
-Badla (2019)	dub=18:581361,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65667.mp4
+Badla (2019)	dub=18:581361	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65667.mp4
 Bagagem de Risco (2024)	dub=18:1005331,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54808.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44012.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65669.mp4
 Bagdad	dub=18:177231
 Bagman	dub=18:581232,18:978796	leg=18:581232.mp4?lang=leg,18:978796.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65674.mp4
@@ -424,7 +424,7 @@ Belo Desastre (2023)	dub=18:1016121,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Belo Desastre: O Casamento (2024)	dub=18:1096342,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41626.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66031.mp4
 Belov: Uma Vida no Mar	dub=18:1414199
 Belzebuth (2019)	dub=18:373226	leg=18:373226.mp4?lang=leg
-Belzebuth Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66037.mp4
+Belzebuth Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66037.mp4
 Belém: Zona de Conflito (2013)	dub=18:215935,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24185.mp4
 Belén Uma História de Injustiça	dub=18:1301844,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/322.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66041.mp4
 Bem Longe de Casa	dub=18:27984
@@ -460,7 +460,7 @@ Ben 10: Corrida Contra o Tempo (2008)	dub=18:16000,http://dbonline.tech-cdn.top:
 Ben 10: Extinção Alien X	dub=18:882878
 Ben 10: O Segredo do Omnitrix	dub=18:15403
 Ben Collins Stunt Driver	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255422.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255445.mp4
-Ben Is Back Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66061.mp4
+Ben Is Back Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66061.mp4
 Ben, O Rato Assassino (1972)	dub=18:42476
 Ben-Hur	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2415.mp4
 Ben-Hur (1959)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2419.mp4
@@ -639,7 +639,7 @@ Blast Beat	dub=18:653659	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Blast Beat Um Sonho na América	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66310.mp4
 Blaze	dub=18:489928,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24279.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66320.mp4
 Blaze - O Escândalo	leg=18:22711.mp4?lang=leg
-Blaze Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66305.mp4
+Blaze Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66305.mp4
 Bleach	dub=18:420426,18:794004,18:640282,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33664.mp4
 Bleach the Movie Fade to Black	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9004.mp4
 Bleach the Movie Memories of Nobody	dub=https://embedplayer2.xyz/cdn/hls/ba0c9c32f38111f5349a3d247c27f15d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9008.mp4
@@ -655,7 +655,7 @@ Bleeding	dub=18:1339219	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Blind Justice	dub=18:561367,18:664803,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34935.mp4
 Blind – Eu Estou Aqui	dub=18:626743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47985.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66329.mp4
 Blindado (2024)	dub=18:1182387,https://embedplayer2.xyz/cdn/hls/f65674aba95907ef1d891c3a61df92d3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2461.mp4	leg=18:1182387.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66343.mp4
-Blinded By The Light Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66339.mp4
+Blinded By The Light Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66339.mp4
 Blindly in Love	dub=18:1549608
 Bling Ring A Gangue de Hollywood	dub=18:96936,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24297.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301024.mp4
 Blink (2024)	dub=18:1340168,18:204273,18:26203,18:840705,https://embedplayer2.xyz/cdn/hls/c19929893f5fb8986eea393dc8343076/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54948.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21206.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66353.mp4
@@ -675,7 +675,7 @@ Blood,White & Blue	dub=18:972731
 Blood-C The Last Dark (2012)	dub=18:171823	leg=https://embedplayer2.xyz/cdn/hls/c73c68d3e7f8e7cbd0f968059864eb24/master.txt
 BloodRayne	dub=18:168705
 Bloodline (2019)	dub=18:543917
-Bloodline Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66364.mp4
+Bloodline Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66364.mp4
 Bloodshot (2020)	dub=18:338762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54941.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54944.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2485.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66384.mp4
 Bloody Escape	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66379.mp4
 Bloody Summer Camp	dub=18:741686
@@ -789,7 +789,7 @@ Booger	dub=18:1148040	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 Boogey Um Monstro Adorável	dub=18:576925,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9064.mp4
 Boogeyman Seu Medo é Real	dub=18:532408,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48013.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66492.mp4
 Boogie (2021)	dub=18:631058,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24342.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66496.mp4
-Booksmart Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66577.mp4
+Booksmart Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66577.mp4
 Boone O Cacador de Recompensas (2017)	dub=18:456781
 Boonie Bears ao Resgate	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255425.mp4
 Boonie Bears – Uma Aventura no Passado	dub=18:581218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9072.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66500.mp4
@@ -834,7 +834,7 @@ Braddock 3 O Resgate	dub=18:27352,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Braddock O Super Comando	dub=18:15379,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2532.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308358.mp4
 Brahms The Boy II	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66572.mp4
 Brahms: Boneco do Mal II (2020)	dub=18:555974,https://embedplayer2.xyz/cdn/hls/b5a83eef4bd5653dddbca77b00fe08b8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55003.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48018.mp4
-Branca Como a Neve	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66581.mp4
+Branca Como a Neve	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66581.mp4
 Branca de Neve (2025)	dub=18:32593,18:447273,https://embedplayer2.xyz/cdn/hls/89c75b18c1665d5a437ec383a0600d87/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55013.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33669.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66586.mp4
 Branca de Neve e o Cacador (2012)	dub=18:58595,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33674.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307391.mp4
 Branca de Neve e os Sete Anoes	dub=18:408,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37319.mp4
@@ -850,7 +850,7 @@ Brasil Visto do Alto	dub=18:1291397,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Brasileiríssima (2022)	dub=18:968519
 Brasiliana O Musical Negro Que Apresentou o Brasil ao Mundo	dub=18:1361491,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97651.mp4
 Brasília 18%	dub=18:249538,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37844.mp4
-Bratstvo Legendado	dub=https://embedplayer2.xyz/cdn/hls/fe4f83c5189cb0d469ff3a6e60c75196/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66593.mp4
+Bratstvo Legendado	dub=https://embedplayer2.xyz/cdn/hls/fe4f83c5189cb0d469ff3a6e60c75196/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66593.mp4
 Bratz - Rock Angelz	dub=18:47599
 Bratz Babyz - The Movie	dub=18:35281,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9081.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66602.mp4
 Bratz: O Filme	dub=18:14123
@@ -873,14 +873,14 @@ Breaking	dub=18:801965,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Breaking Glass The Pat Summitt Story	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255446.mp4
 Breaking News in Yuba County	dub=18:556867	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66625.mp4
 Breaking Point Paixão à Dança	dub=18:1130659,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24365.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66635.mp4
-Breakthrough Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66619.mp4
+Breakthrough Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66619.mp4
 Breakup Season	dub=18:1248779	leg=18:1248779.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66630.mp4
 Breeder	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66640.mp4
 Brené Brown: The Call to Courage	dub=18:596204
 Bressan	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250640.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254713.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250629.mp4
 Breve Miragem de Sol (2020)	dub=18:627077
 Brexit	dub=18:1226114,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24370.mp4
-Brexit The Uncivil War Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66624.mp4
+Brexit The Uncivil War Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66624.mp4
 Brian Banks	dub=18:535845	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66655.mp4
 Brian Banks Um Sonho Interrompido	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24375.mp4
 Brian e Charles	dub=18:913814,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13600.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66645.mp4
@@ -898,7 +898,7 @@ Bright (2017)	dub=18:400106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Bright Hill Road	dub=18:744168	leg=18:744168.mp4?lang=leg
 Bright: Alma de Samurai (2021)	dub=18:839100,https://embedplayer2.xyz/cdn/hls/3c8bf063ceb931558b3805366e7f55c2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9083.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66668.mp4
 Brightburn - Filho das Trevas (2019)	dub=18:531309,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55018.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48031.mp4
-Brightburn Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66674.mp4
+Brightburn Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66674.mp4
 Brilho Apos O Adeus	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303085.mp4
 Brilho Eterno de uma Mente sem Lembrancas (2004)	dub=18:38,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24384.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66678.mp4
 Brilho para a Eternidade	dub=18:794602,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98537.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13631.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66681.mp4

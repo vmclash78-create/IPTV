@@ -72,7 +72,7 @@
 100 Dias de Dona de casa a Bilionaria	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303135.mp4
 100 Dias de Resistência	dub=18:662876,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36766.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59527.mp4
 100 Dias para o Natal	dub=18:878111,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39676.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59542.mp4
-100 Escovadas Antes de Dormir	dub=18:13461,https://embedplayer2.xyz/cdn/hls/bcc1e92e941c6d4a6d4b02a3aaa74db3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59546.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59551.mp4
+100 Escovadas Antes de Dormir	dub=18:13461,https://embedplayer2.xyz/cdn/hls/bcc1e92e941c6d4a6d4b02a3aaa74db3/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59546.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59551.mp4
 100 Garotas	dub=18:10035,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12167.mp4
 100 Medos	dub=18:1024426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12165.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59556.mp4
 100 Metros	dub=18:402693,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12161.mp4
@@ -275,7 +275,7 @@
 3000 Milhas Para o Inferno	dub=18:12138,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1482.mp4	leg=18:12138.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249195.mp4
 300: A Ascensao do Imperio (2014)	dub=18:53182,https://embedplayer2.xyz/cdn/hls/3e1cab785769acb767a39ccde6c70496/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1480.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308816.mp4
 3022 (2019)	dub=18:640882,https://embedplayer2.xyz/cdn/hls/38b7b9a928da4003ba8ccbb3a1bb45dc/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59776.mp4
-303 Squadron Legendado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59772.mp4
+303 Squadron Legendado	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59772.mp4
 3096 Dias de Cativeiro (2013)	dub=18:166666,https://embedplayer2.xyz/cdn/hls/bad974825d4396917db41b80fc3a2930/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22123.mp4
 31 A Morte é a Única Saída (2016)	dub=18:284564,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309819.mp4
 31 Candles	dub=18:1214056
@@ -314,7 +314,7 @@
 45 Dias Sem Você	dub=18:563091
 45 do Segundo Tempo	dub=18:593890,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12215.mp4
 465	dub=18:486352
-47 Meters Down Uncaged Legendado	dub=https://embedplayer2.xyz/cdn/hls/0ca05cc29f4285d113ac051eeb3461cf/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59840.mp4
+47 Meters Down Uncaged Legendado	dub=https://embedplayer2.xyz/cdn/hls/0ca05cc29f4285d113ac051eeb3461cf/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59840.mp4
 47 Ronins	dub=18:64686,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1484.mp4
 48 Horas (1982)	dub=18:150,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1488.mp4
 48 Horas, Parte 2	dub=18:11595
