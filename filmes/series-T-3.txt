@@ -705,11 +705,11 @@
 2	2	dub	19:200777/2/2
 2	3	dub	19:200777/2/3
 @The Idol
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5630676.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128929.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5630677.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128930.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5630678.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128931.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5630679.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128932.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5630680.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128933.mp4
+1	1	dub	19:135251/1/1,http://64.31.23.207:80/series/96795792/50165825/5630676.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128929.mp4
+1	2	dub	19:135251/1/2,http://64.31.23.207:80/series/96795792/50165825/5630677.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128930.mp4
+1	3	dub	19:135251/1/3,http://64.31.23.207:80/series/96795792/50165825/5630678.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128931.mp4
+1	4	dub	19:135251/1/4,http://64.31.23.207:80/series/96795792/50165825/5630679.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128932.mp4
+1	5	dub	19:135251/1/5,http://64.31.23.207:80/series/96795792/50165825/5630680.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128933.mp4
 @The InBESTigators
 1	1	dub	19:91348/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222073.mp4
 1	2	dub	19:91348/1/2,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222074.mp4

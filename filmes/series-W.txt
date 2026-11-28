@@ -83,6 +83,7 @@ Why the hell are you here,Teacher!?		0	24
 Wild Cards	2024	0	23
 Wild Isles		0	5
 Wild Wild Country		0	6
+Wildcard Kitchen		0	4
 Wilfred		0	49
 Will Trent		0	59
 Will Trent: Agente Especial	2023	0	79
@@ -117,7 +118,7 @@ Wolverine e os X-Men		0	26
 Woman of 9 9 Billion		0	32
 WondLa A Trilogia		0	20
 Wonka: O Bilhete Dourado		0	9
-Woori The Virgin		0	9
+Woori The Virgin		1	9
 Work Later Drink Now		1	24
 Work in Progress		1	8
 Workin Moms		1	83

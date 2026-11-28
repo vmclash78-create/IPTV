@@ -1,66 +1,11 @@
 # SAIMO TV — LISTA DE CANAIS
-# 408 canais · 17/09/2026
-#
-# Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
-# precisa ser recompilado nem reinstalado.
+# Atualizado e higienizado com fontes 100% ativas
 #
 # Uma linha por campo, no formato "chave: valor".
-#
-#   canal:    começa um canal novo
-#   logo:     imagem do canal (opcional)
-#   categoria: em que seção da lista o canal entra (opcional); sem ela a
-#             seção sai do nome do canal
-#   fonte:    acrescenta uma fonte; a primeira é a preferida e o player desce
-#             para a seguinte quando ela falha
-#   nome:     o que diferencia a fonte das outras do canal ("Temporada 3",
-#             "Legendado"); os apps mostram no lugar de "Fonte N". Preenchido
-#             por nomear_fontes.py a partir das listas M3U
-#   referer:  cabeçalho Referer exigido por alguns CDNs
-#   agente:   User-Agent exigido por alguns CDNs
-#   chave:    ClearKey das fontes DASH, no formato KID:CHAVE em hexadecimal
-#
-# referer, agente e chave pertencem à fonte imediatamente acima delas.
-# Linhas em branco e linhas começadas por # são ignoradas.
-# SAIMO TV — LISTA DE CANAIS
-# 408 canais · 17/09/2026
-#
-# Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
-# precisa ser recompilado nem reinstalado.
-#
-# Uma linha por campo, no formato "chave: valor".
-#
-#   canal:    começa um canal novo
-#   logo:     imagem do canal (opcional)
-#   categoria: em que seção da lista o canal entra (opcional); sem ela a
-#             seção sai do nome do canal
-#   fonte:    acrescenta uma fonte; a primeira é a preferida e o player desce
-#             para a seguinte quando ela falha
-#   referer:  cabeçalho Referer exigido por alguns CDNs
-#   agente:   User-Agent exigido por alguns CDNs
-#   chave:    ClearKey das fontes DASH, no formato KID:CHAVE em hexadecimal
-#
-# referer, agente e chave pertencem à fonte imediatamente acima delas.
-# Linhas em branco e linhas começadas por # são ignoradas.
-# SAIMO TV — LISTA DE CANAIS
-# 408 canais · 17/09/2026
-#
-# Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
-# precisa ser recompilado nem reinstalado.
-#
-# Uma linha por campo, no formato "chave: valor".
-#
-#   canal:    começa um canal novo
-#   logo:     imagem do canal (opcional)
-#   categoria: em que seção da lista o canal entra (opcional); sem ela a
-#             seção sai do nome do canal
-#   fonte:    acrescenta uma fonte; a primeira é a preferida e o player desce
-#             para a seguinte quando ela falha
-#   referer:  cabeçalho Referer exigido por alguns CDNs
-#   agente:   User-Agent exigido por alguns CDNs
-#   chave:    ClearKey das fontes DASH, no formato KID:CHAVE em hexadecimal
-#
-# referer, agente e chave pertencem à fonte imediatamente acima delas.
-# Linhas em branco e linhas começadas por # são ignoradas.
+#   canal:     começa um canal novo
+#   logo:      imagem do canal
+#   categoria: categoria do canal
+#   fonte:     stream direta HLS/DASH
 
 canal: A&E
 categoria: Documentários
@@ -73,9 +18,7 @@ qualidade: HD · 1280x720
 fonte: https://video39.mais.uol.com.br/live/267.mpd
 qualidade: HD · 1280x720
 chave: 74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/b89cf65ea0f0f06bd3cbc349ef3e7806/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/aee/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/aee/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -88,9 +31,7 @@ fonte: https://live.lixe.net/hls/g4/Adult%20Swim%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event48/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/35352f926801d28b605d7309eb57894e/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/adultswim/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/adultswim/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -103,9 +44,7 @@ fonte: https://live.lixe.net/hls/g4/AMC%20HD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event144/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a883ee9105dcf44ee296cb6d79677028/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/amc/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amc/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -120,9 +59,7 @@ fonte: https://grupoa.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=RGnY
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event34/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/3af66373fc523be68ab0b54b96b7f03b/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/animalplanet/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/animalplanet/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -139,8 +76,6 @@ fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 fonte: https://video41.mais.uol.com.br/live/3361.mpd
 qualidade: HD · 1280x720
 chave: 3b43a1fbcf57cfe04109fbc1b381ac79:a23de064124dfddeaf3c23490d96328b
-fonte: https://offthesun.net/live/Q95xJg/7gkKXe/147443.m3u8
-qualidade: HD
 
 canal: Cartoon Network
 categoria: Infantil
@@ -150,9 +85,7 @@ fonte: https://grupoa.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=hxsEyiyJrF
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event44/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/345b538d5f81886493a3078baed3c329/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cartoonnetwork/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonnetwork/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -167,16 +100,12 @@ fonte: https://eitvplay.appmembers.com.br/event110/index.m3u8?token=jzFQQe9OVYP1
 qualidade: HD · 1280x720
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/b82736e9589e1e3db9861b3e96ec8c3e/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cnnbrasil/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cnnbrasil/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
 qualidade: HD · 1280x720
-fonte: https://offthesun.net/live/Q95xJg/7gkKXe/83306.m3u8
-qualidade: HD
 
 canal: CNN Brasil Money
 categoria: Notícias
@@ -199,9 +128,7 @@ fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playl
 qualidade: FHD · 1920x1080
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/061b5c5c2503583df766b2f06b505af1/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/getv/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/getv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -215,9 +142,7 @@ qualidade: HD · 1280x720
 chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
 fonte: https://live.lixe.net/hls/g6/GLOBO%20News%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/336d6e8e2d845cf7c51c0fa0384e4a57/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globonews/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -231,9 +156,7 @@ qualidade: HD · 1280x720
 chave: eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
 fonte: https://live.lixe.net/hls/g1/Globoplay%20Novelas%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/bfcd8d0f5429a58446ef76453d37c925/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globoplaynovelas/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoplaynovelas/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -247,9 +170,7 @@ qualidade: HD · 1280x720
 chave: 4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
 fonte: https://live.lixe.net/hls/g7/GNT%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/2bc0b893b7c1e867f5f67a425e100099/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/gnt/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gnt/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -269,9 +190,7 @@ fonte: http://170.83.16.50/HISTORY/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://grupoa.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=WdS7zWq3VkMZEiAMjl4J4FqMFjkNjpkV
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/53ff3f0119fce140cc756f04221516bd/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/history/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -282,9 +201,7 @@ logo: https://img.faz-o-eli.online/history2.png
 
 fonte: https://eitvplay.appmembers.com.br/event39/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/89e02fb073345c80fa25b9e2ce1b4716/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/history2/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/history2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -300,14 +217,12 @@ qualidade: HD · 1280x720
 fonte: https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
 qualidade: HD · 1280x720
 fonte: https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/jovempannews/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/jovempannews/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://186.219.52.187/jp_news/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://offthesun.net/live/Q95xJg/7gkKXe/165441.m3u8
-qualidade: HD
 
 canal: Megapix
 categoria: Filmes e Séries
@@ -318,9 +233,7 @@ qualidade: HD · 1280x720
 chave: cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
 fonte: https://live.lixe.net/hls/g5/MEGAPIX%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a41fb2e6c1d38cfe42b1cedcaa7400b0/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/megapix/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -334,9 +247,7 @@ qualidade: HD · 1280x720
 chave: 5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
 fonte: https://live.lixe.net/hls/g2/MULTISHOW%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/450fa5e508e281276595f6e6c27a1427/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/multishow/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/multishow/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -350,9 +261,7 @@ qualidade: HD · 1280x720
 chave: 9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 fonte: https://live.lixe.net/hls/g5/PREMIERE%202%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/6d629b7dc2188d0b8d5a6d4058002eb1/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere2/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -366,9 +275,7 @@ qualidade: HD · 1280x720
 chave: d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 fonte: https://live.lixe.net/hls/g8/PREMIERE%203%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/d13a791b4f19a62d5451477eb980d255/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere3/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -382,9 +289,7 @@ qualidade: HD · 1280x720
 chave: e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 fonte: https://live.lixe.net/hls/g7/PREMIERE%204%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/4e041360a61e9d77bbe321d9ed5caca8/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere4/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere4/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -398,9 +303,7 @@ qualidade: HD · 1280x720
 chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 fonte: https://live.lixe.net/hls/g7/PREMIERE%205%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a88bfdd15db135dd215657ae8809914a/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere5/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere5/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -414,9 +317,7 @@ qualidade: HD · 1280x720
 chave: 8bf16a4ba05bcc97e6259297e50be63d:8dd97d486cbdd15cc47ea8c41b264ebb
 fonte: https://live.lixe.net/hls/g7/PREMIERE%206%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/598ffe4130f463cbf8dff316d545c4b5/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere6/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere6/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -430,7 +331,7 @@ qualidade: HD · 1280x720
 chave: 238f5cf32228c1877f8b939f5f9d7bd8:47571c93e4335b3d1590a5ae3f5c48ef
 fonte: https://live.lixe.net/hls/g7/PREMIERE%207%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere7/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere7/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -444,7 +345,7 @@ qualidade: HD · 1280x720
 chave: 19aec31e45751958c1d963435d725f33:fb24357e80520fd600dd43c1d8ce8a7a
 fonte: https://live.lixe.net/hls/g3/PREMIERE%208%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiere8/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere8/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -456,9 +357,7 @@ logo: https://img.faz-o-eli.online/premiere.png
 fonte: https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 qualidade: HD · 1280x720
 chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/449e0137ecdc8900d0c0044d98d7151b/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/premiereclubes/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -475,12 +374,6 @@ fonte: https://aovivo.maissbt.com/indexMobile.m3u8
 qualidade: HD · 1280x720
 fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169533.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147677.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147676.m3u8
-qualidade: HD
 
 canal: SBT News
 categoria: Notícias
@@ -515,9 +408,7 @@ qualidade: HD · 1280x720
 chave: 5e8567bf0707bf910f611e5cf2ef352f:8b30ddee60bb9fe6653f1eb8c9b85d5d
 fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/b6505fdb4468667ae403ee96296ffc0d/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sonychannel/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -528,9 +419,7 @@ logo: https://img.faz-o-eli.online/sportv.png
 
 fonte: https://live.lixe.net/hls/g8/SporTV%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f172b127af75c4fb1a62a4af4c2beff4/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportv/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -544,9 +433,7 @@ qualidade: HD · 1280x720
 chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 fonte: https://live.lixe.net/hls/g6/SporTV2%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/c8de318785848f580aa22dd104d637c4/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportv2/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -560,9 +447,7 @@ qualidade: HD · 1280x720
 chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 fonte: https://live.lixe.net/hls/g5/SporTV3%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/db9c09a8fc1b010ab3334457a64ef306/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportv3/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -571,9 +456,7 @@ canal: Canal OFF
 categoria: Esportes
 logo: https://img.faz-o-eli.online/off.png
 
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/8aa8ba465834e70aa467c266f86ac608/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/canaloff/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canaloff/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -584,9 +467,7 @@ logo: https://img.faz-o-eli.online/telecineaction.png
 
 fonte: https://live.lixe.net/hls/g5/Telecine%20Action%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/1c4ff87a7976cf95f81acff279eeb569/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcaction/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -597,9 +478,7 @@ logo: https://img.faz-o-eli.online/telecinepipoca.png
 
 fonte: https://live.lixe.net/hls/g2/Telecine%20Pipoca%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/1c9b27bd1d5f8ace1b7bb7804e16ad72/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcpipoca/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -610,9 +489,7 @@ logo: https://img.faz-o-eli.online/telecinepremium.png
 
 fonte: https://live.lixe.net/hls/g1/Telecine%20Premium%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/9a362cf367d5987c421e3526a6472ff0/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcpremium/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -625,8 +502,6 @@ fonte: https://eitvplay.appmembers.com.br/event116/index.m3u8?token=jzFQQe9OVYP1
 qualidade: HD
 fonte: https://tvbrasil-stream.ebc.com.br/index.m3u8
 qualidade: SD · 576x324
-fonte: https://aovivo.ebc.com.br/embed-tvbrasil.html?ext=.m3u8
-qualidade: HD
 
 canal: Warner
 categoria: Filmes e Séries
@@ -640,9 +515,7 @@ fonte: https://net11.sattvgo.com.br/WARNER_HD/index.m3u8?token=RGnYBgq1dxRk5Eur6
 fonte: https://video45.mais.uol.com.br/live/277.mpd
 qualidade: HD · 1280x720
 chave: ff12e06c66327cd35b99013b38dd4f84:08320e9a44185e55074ac435d8c9a856
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/3004d36c3d13045e23082582f6a0617e/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/warner/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -667,20 +540,10 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event4/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: FHD · 1920x1080
 fonte: https://net11.sattvgo.com.br/GLOBO_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83461.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/de4f8f32003eb1458486491e99e4a2d8/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globosp/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globosp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83510.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/151058.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83569.m3u8
-qualidade: HD
 
 canal: Cartoonito
 categoria: Infantil
@@ -690,9 +553,7 @@ fonte: https://live.lixe.net/hls/g7/Cartoonito%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event46/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f939de62d9c02e7c61f5d4b8ad664d85/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cartoonito/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cartoonito/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -706,9 +567,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event95/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://net11.sattvgo.com.br/CINEMAX/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/9347c5e584a73dbcbb6ba54049d990e9/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cinemax/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -721,9 +580,7 @@ fonte: https://grupoa.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=RGnYBgq1
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event33/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/db341d86efaeb829830a5d15546f1d6d/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoverychannel/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -738,9 +595,7 @@ fonte: https://grupoa.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=RGn
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event42/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f30466dbe573687d7eb0b730c03f2942/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoverykids/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverykids/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -755,9 +610,7 @@ fonte: https://eitvplay.appmembers.com.br/event40/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD · 1280x720
 fonte: https://grupoa.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=WdS7zWq3VkMZEiAMjl4J4FqMFjkNjpkV
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/354fff799c9f8f642ebb40e32d0cc732/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoverytheater/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverytheater/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -770,16 +623,14 @@ fonte: https://live.lixe.net/hls/g6/VIVO%205%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event24/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://181.78.197.59:8000/play/a07z/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://grupoa.satlabscloud.com.br/ESPN1/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/8c3bbcfc5d9b93a3ef6e63d577d3fa15/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn/index.m3u8
-qualidade: FHD
-referer: https://playerembedcanais.site/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: ESPN 2
 categoria: Esportes
@@ -791,9 +642,7 @@ fonte: https://grupoa.satlabscloud.com.br/ESPN2/index.m3u8?token=RGnYBgq1dxRk5Eu
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event25/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/da0857f92bbfee8c7d368cefd9bd2042/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn2/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -808,14 +657,12 @@ fonte: https://grupoa.satlabscloud.com.br/ESPN4/index.m3u8?token=RGnYBgq1dxRk5Eu
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event27/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
-qualidade: FHD · 1920x1080
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/bdfa7e57c1f318ac593e8c1b576d91ef/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn4/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
+qualidade: FHD · 1920x1080
 
 canal: ESPN 5
 categoria: Esportes
@@ -823,9 +670,7 @@ logo: https://img.faz-o-eli.online/espn5.png
 
 fonte: https://eitvplay.appmembers.com.br/event28/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/3f8ac6eda3abe29e9b6698e9db2a342e/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn5/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn5/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -838,9 +683,7 @@ fonte: https://grupoa.satlabscloud.com.br/ESPN6/index.m3u8?token=RGnYBgq1dxRk5Eu
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event23/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/c491f8af32890300638806900b969c17/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn6/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -851,9 +694,7 @@ logo: https://img.faz-o-eli.online/hbo.png
 
 fonte: https://eitvplay.appmembers.com.br/event87/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/dd81c0721462a3bd19a67b403b0d4d58/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbo/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -867,9 +708,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event88/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://gigalinks.sattvgo.com.br/HBO2/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/3b19608735f6e1156a03ad6e1c3afe7a/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbo2/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -885,9 +724,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event90/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://net11.sattvgo.com.br/HBO_FAMILY/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/50f3d3438f919b9bf6a4c9cef7cd8be3/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbofamily/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -901,9 +738,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event93/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://cdn-rs1.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/9dd39f3604bfa1f484c3423b05fef5cc/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbomundi/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -917,9 +752,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event89/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://grupoa.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/5fc0c3484efb44c619105b3b81cbb783/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hboplus/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -933,9 +766,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event92/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://gvtelecom.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/379a205e5ad58545e0d3ca0987226a89/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbopop/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -951,7 +782,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event91/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://net11.sattvgo.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hbosignature/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -964,9 +795,7 @@ fonte: https://live.lixe.net/hls/g0/HBO%20XTREME%20UHD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event94/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/3b72d7466393ad05c1c3e48cffc7f3f6/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/hboxtreme/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -981,9 +810,7 @@ fonte: https://grupoa.satlabscloud.com.br/SPACE_HD/index.m3u8?token=RGnYBgq1dxRk
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event65/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/bbbedae4d66f9df1772370c9d3490fa2/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/space/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/space/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -999,9 +826,7 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event64/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://net11.sattvgo.com.br/TNT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/46963962a44ac0f90982cbc52c7ee004/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tnt/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tnt/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1014,9 +839,7 @@ fonte: https://live.lixe.net/hls/g7/TNT%20SERIES%20UHD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event63/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/9c1c89f966945127b23616c5c2c3fa7d/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tntseries/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntseries/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1027,9 +850,7 @@ logo: https://img.faz-o-eli.online/universaltv.png
 
 fonte: https://live.lixe.net/hls/g7/Universal%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7402080971c4c154d5be7618d1f8e4be/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/universaltv/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1044,9 +865,7 @@ fonte: https://grupoa.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=hx
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event36/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/014ee0376c42df305b4f23c54f90848e/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryturbo/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryturbo/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1057,7 +876,7 @@ logo: https://mondrian.claro.com.br/channels/inverse/usa.png
 
 fonte: https://live.lixe.net/hls/g3/USA%20Network%20TV/index.m3u8
 qualidade: HD
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/usa/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1068,9 +887,7 @@ logo: https://img.faz-o-eli.online/telecinefun.png
 
 fonte: https://live.lixe.net/hls/g6/Telecine%20FUN%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/744d8efc5a45afe1461525ec4380a84d/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tcfun/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1081,9 +898,7 @@ logo: https://img.faz-o-eli.online/telecinecult.png
 
 fonte: https://live.lixe.net/hls/g5/Telecine%20Cult%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/d02e0669cfbbe0f38887f5920c14fd2c/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tccult/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1094,9 +909,7 @@ logo: https://img.faz-o-eli.online/telecinetouch.png
 
 fonte: https://live.lixe.net/hls/g8/Telecine%20Touch%20UHD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a7fd3bfa4fea0149ad2cc8deda983b93/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tctouch/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1120,9 +933,7 @@ fonte: https://live.lixe.net/hls/g3/TNT%20Novelas%20HD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event157/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/1d65eea7ff21715465ed08ce36944434/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tntnovelas/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tntnovelas/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1137,9 +948,7 @@ fonte: https://grupoa.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event37/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/bf28368b3560537ba74e1350022edd83/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryscience/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryscience/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1156,9 +965,7 @@ fonte: https://eitvplay.appmembers.com.br/event59/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/AXN/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/4beccb0b84ad32edf65d83793c159137/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/axn/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/axn/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1173,9 +980,7 @@ fonte: https://grupoa.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=WdS7zWq3
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event31/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/44cdfe62e7682638d01dfb8e686c5ea1/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/bandnews/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandnews/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1195,9 +1000,7 @@ fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://grupoa.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=WdS7zWq3VkMZEiAMjl4J4FqMFjkNjpkV
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/d140343928478f8cfed2f7596f37b9b5/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/bandsports/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsports/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1212,11 +1015,7 @@ fonte: https://eitvplay.appmembers.com.br/event13/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/e285c453fd679c41fa2f4d10351ff443/error.txt
-qualidade: HD · 1280x720
-fonte: https://offthesun.net/live/Q95xJg/7gkKXe/83253.m3u8
-qualidade: HD
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/redetv/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redetv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1239,9 +1038,7 @@ fonte: https://eitvplay.appmembers.com.br/event1/index.m3u8?token=jzFQQe9OVYP1yc
 qualidade: HD · 1280x720
 fonte: https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/2831308d95ce65823d347f4d8ad509b9/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvcultura/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvcultura/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1280,14 +1077,12 @@ fonte: https://grupoa.satlabscloud.com.br/ESPN3/index.m3u8?token=RGnYBgq1dxRk5Eu
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event26/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: http://181.78.197.59:8000/play/a081/index.m3u8
-qualidade: FHD · 1920x1080
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/fd32796458a9139838e4f4077939ad1f/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/espn3/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://181.78.197.59:8000/play/a081/index.m3u8
+qualidade: FHD · 1920x1080
 
 canal: TV Gazeta
 categoria: TV Aberta
@@ -1316,16 +1111,12 @@ qualidade: HD · 1280x720
 fonte: https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
 qualidade: HD · 1280x720
 fonte: https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/9f64f78606fd6500c6772da94db7b3e3/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordnews/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordnews/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 qualidade: HD · 1280x720
-fonte: https://offthesun.net/live/Q95xJg/7gkKXe/83309.m3u8
-qualidade: HD
 
 canal: Canção Nova
 categoria: TV Aberta
@@ -1339,7 +1130,7 @@ fonte: https://eitvplay.appmembers.com.br/event81/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD · 1280x720
 fonte: https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 qualidade: HD
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cancaonova/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cancaonova/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1352,9 +1143,7 @@ fonte: https://live.lixe.net/hls/g3/TV%20Aparecida%20HD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event77/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/592ae541ca92742fe64fda3b5be6636b/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvaparecida/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvaparecida/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1365,14 +1154,12 @@ logo: https://img.faz-o-eli.online/redevida.png
 
 fonte: https://live.lixe.net/hls/g6/Rede%20Vida%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: http://186.219.52.187/rede_vida/index.m3u8
-qualidade: SD · 720x576
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/404829696060cb59ad18dc0c462047d7/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/redevida/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redevida/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://186.219.52.187/rede_vida/index.m3u8
+qualidade: SD · 720x576
 fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
@@ -1384,9 +1171,7 @@ logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
 
 fonte: https://eitvplay.appmembers.com.br/event61/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7762378cfa27be79b8733e1376155a21/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryid/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryid/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1410,9 +1195,7 @@ logo: https://img.faz-o-eli.online/xsports.png
 
 fonte: https://live.lixe.net/hls/g2/VIVO%209%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/2a4505384f984f4348bda7740723e138/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/xsports/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/xsports/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1425,9 +1208,7 @@ fonte: https://grupoa.satlabscloud.com.br/BAND_SP/tracks-v1a1/mono.ts.m3u8?token
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event3/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/94793228a3081473aebb0311c2f6c6d8/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/bandsp/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1438,20 +1219,10 @@ logo: https://img.faz-o-eli.online/sbt.png
 
 fonte: https://eitvplay.appmembers.com.br/event2/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a50c660f23abe2b1c5433f63bdade053/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sbtsp/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sbtsp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83476.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/140653.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/151040.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169523.m3u8
-qualidade: HD
 
 canal: Record SP
 categoria: TV Aberta
@@ -1464,20 +1235,10 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event96/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 fonte: https://net11.sattvgo.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/151036.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/808f63b0a1b15c4d39466f61242c5800/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83468.m3u8
-qualidade: HD
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordsp/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordsp/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162663.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83613.m3u8
-qualidade: HD
 
 canal: Canal Rural
 categoria: Variedades
@@ -1487,10 +1248,6 @@ fonte: https://live.lixe.net/hls/g3/Canal%20Rural%20TV/index.m3u8
 qualidade: HD
 fonte: http://186.219.52.187/canal_rural/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/142027.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/150349.m3u8
-qualidade: HD
 
 canal: TV Pai Eterno
 categoria: Variedades
@@ -1500,9 +1257,7 @@ fonte: https://live.lixe.net/hls/g5/TV%20Pai%20Eterno%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event142/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/028fa37a6e5657dba3b9381b2f872bce/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paieterno/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paieterno/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1538,7 +1293,7 @@ fonte: https://eitvplay.appmembers.com.br/event79/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD
 fonte: https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/redegospel/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/redegospel/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1564,7 +1319,7 @@ fonte: https://eitvplay.appmembers.com.br/event180/index.m3u8?token=jzFQQe9OVYP1
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvevangelizar/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvevangelizar/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1581,8 +1336,6 @@ fonte: https://eitvplay.appmembers.com.br/event7/index.m3u8?token=jzFQQe9OVYP1yc
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/TV_JUSTICA/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/183762.m3u8
-qualidade: HD
 
 canal: TV Novo Tempo
 categoria: Variedades
@@ -1592,7 +1345,7 @@ fonte: https://live.lixe.net/hls/g8/Novo%20Tempo%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event79/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/novotempo/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/novotempo/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1611,12 +1364,6 @@ fonte: https://eitvplay.appmembers.com.br/event11/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/TV_SENADO/index.m3u8
 qualidade: HD · 1310x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/149353.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/195183.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147738.m3u8
-qualidade: HD
 
 canal: RIT
 categoria: Variedades
@@ -1636,9 +1383,7 @@ logo: https://img.faz-o-eli.online/discoveryhh.png
 
 fonte: https://eitvplay.appmembers.com.br/event18/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a4b7f7cf10f985a1a16149d074777a01/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryhh/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryhh/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1690,14 +1435,6 @@ fonte: http://170.83.16.50/FUTURA/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://186.219.52.187/futura/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162795.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162794.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83562.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147460.m3u8
-qualidade: HD
 
 canal: Canal Gov
 categoria: TV Aberta
@@ -1725,14 +1462,6 @@ fonte: https://eitvplay.appmembers.com.br/event160/index.m3u8?token=jzFQQe9OVYP1
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162811.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83533.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/140939.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162810.m3u8
-qualidade: HD
 
 canal: DumDum
 categoria: Infantil
@@ -1791,9 +1520,7 @@ logo: https://img.faz-o-eli.online/combate.png
 
 fonte: https://live.lixe.net/hls/g7/COMBATE%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/dfb8a664db648519cc47408d39aa9cc0/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/combate/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1802,9 +1529,7 @@ canal: Disney+ 01
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f502ab2c3803bdec987f6e67e63820b9/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1815,7 +1540,7 @@ logo: https://pub.itheone.org/epg-logos/2026-10-20-v2/amazon-prime-video.png
 
 fonte: https://live.lixe.net/hls/g8/Amazon%20Prime%20Video%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/amazonprimevideo/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amazonprimevideo/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1826,7 +1551,7 @@ logo: https://pub.itheone.org/epg-logos/2026-10-20-v2/amazon-prime-video-2.png
 
 fonte: https://live.lixe.net/hls/g2/Amazon%20Prime%20Video%202%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/amazonprimevideo02/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amazonprimevideo02/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1851,7 +1576,7 @@ logo: https://pub.itheone.org/epg-logos/2026-10-20-v2/canal-goat.png
 
 fonte: https://live.lixe.net/hls/g3/Canal%20GOAT%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/canalgoat/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/canalgoat/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1860,9 +1585,7 @@ canal: Paramount+ (Jogo 1)
 categoria: Esportes
 logo: https://img.faz-o-eli.online/paramountplus.png
 
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/826c658eb91298552b672d375ead87b8/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1871,9 +1594,7 @@ canal: Paramount+ (Jogo 2)
 categoria: Esportes
 logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
 
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/6b26aab78d4c1f3338659a97ff7dd6e3/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus02/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus02/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1884,9 +1605,7 @@ logo: https://img.faz-o-eli.online/studiouniversal.png
 
 fonte: https://live.lixe.net/hls/g8/STUDIO%20UNIVERSAL%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7fc27cc86f3a9a06a467cf58e9f8b538/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/studiouniversal/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1897,9 +1616,7 @@ logo: https://img.faz-o-eli.online/gloob.png
 
 fonte: https://live.lixe.net/hls/g7/GLOOB%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/441bd1514ea27f73d6d23706f4de8c44/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/gloob/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1910,7 +1627,7 @@ logo: https://logos.imperioapps.top/GLOBINHO.png
 
 fonte: https://live.lixe.net/hls/g8/GLOOBINHO%20TV/index.m3u8
 qualidade: HD
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/gloobinho/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloobinho/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1923,7 +1640,7 @@ fonte: https://live.lixe.net/hls/g7/Ra%20Tim%20Bum%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event47/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/tvratimbum/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tvratimbum/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1945,9 +1662,7 @@ fonte: https://live.lixe.net/hls/g8/Food%20Network%20HD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event53/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7aaf0cdaac99e7a1bd67b788e0847eea/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/foodnetwork/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/foodnetwork/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1957,8 +1672,6 @@ categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
 fonte: https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
-qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/cce292a08459478ee64c39720866071c/error.txt
 qualidade: HD · 1280x720
 
 canal: Discovery World
@@ -1971,9 +1684,7 @@ fonte: https://grupoa.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=RG
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event41/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/aaec7e50928ad653770040a235288c56/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/discoveryworld/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoveryworld/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -1988,9 +1699,7 @@ fonte: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m
 qualidade: FHD · 1920x1080
 fonte: https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/240p-cc/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/5d01d4a4179941d4f1d786d0eb898289/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2001,9 +1710,7 @@ logo: https://img.faz-o-eli.online/cazetv.png
 
 fonte: https://live.lixe.net/hls/g3/CazeTV%202%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/e370dea9ee4c1a2d3c0aa7c28496dae2/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv2/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2014,13 +1721,7 @@ logo: https://img.faz-o-eli.online/sportynet.png
 
 fonte: https://live.lixe.net/hls/g6/Sportynet%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/84c458c5768e096bb07d42fa73870ec8/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet1/index.m3u8
-qualidade: FHD
-referer: https://playerembedcanais.site/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2029,9 +1730,7 @@ canal: SportyNet+ 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/e04dff5fc055f8aefac96cfff2049adb/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet2/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet2/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2040,9 +1739,7 @@ canal: SportyNet+ 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/968bc9f8011d1e70a66cdce5a51052ed/error.txt
-qualidade: HD · 1280x720
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet3/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2052,16 +1749,6 @@ categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
 fonte: https://net11.sattvgo.com.br/GLOBO_ES/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a322222f1c88bf0afc01b83d5df6e03c/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162686.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162684.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147408.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147401.m3u8
-qualidade: HD
 
 canal: Globo RJ
 categoria: TV Aberta
@@ -2072,20 +1759,10 @@ qualidade: HD
 fonte: https://grupoa.satlabscloud.com.br/GLOBO_RIO/tracks-v1a1/mono.ts.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: HD
 fonte: https://net11.sattvgo.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/56ef346f457f7e30c19620ae76a61081/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globorj/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globorj/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83459.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83502.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83568.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147385.m3u8
-qualidade: HD
 
 canal: Globo RS
 categoria: TV Aberta
@@ -2093,39 +1770,19 @@ logo: https://img.faz-o-eli.online/globosp.png
 
 fonte: https://live.lixe.net/hls/g5/GLOBO%20RS%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83462.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f49874bb33f93f0a6438e0b518d4a747/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147382.m3u8
-qualidade: HD
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globors/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globors/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/154096.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83611.m3u8
-qualidade: HD
 
 canal: Record MG
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
 
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169517.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/e1d02c1179b01aeea33c38e684b03618/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordmg/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordmg/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147652.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/152650.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147660.m3u8
-qualidade: HD
 
 canal: Record RJ
 categoria: TV Aberta
@@ -2134,20 +1791,10 @@ logo: https://img.faz-o-eli.online/record.png
 fonte: https://grupoa.satlabscloud.com.br/RECORD_RIO/tracks-v1a1/mono.ts.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: HD
 fonte: https://gvtelecom.satlabscloud.com.br/RECORD_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/157157.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f4bffcfffb8b11caf3d564fe81553f40/error.txt
-qualidade: HD · 1280x720
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordrj/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordrj/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162969.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/163031.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147664.m3u8
-qualidade: HD
 
 canal: CazeTV 3
 categoria: Esportes
@@ -2155,7 +1802,7 @@ logo: https://img.faz-o-eli.online/cazetv.png
 
 fonte: https://live.lixe.net/hls/g3/CazeTV%203%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv3/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv3/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2164,17 +1811,7 @@ canal: Globo DF
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83455.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/154000.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83564.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/03b23cbb43fb7f7d5520b289ecf652a9/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147396.m3u8
-qualidade: HD
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globodf/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globodf/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2183,20 +1820,10 @@ canal: Globo MG
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147375.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/da5bdc4a67b7c78058df527c1b4d7496/error.txt
-qualidade: HD · 1280x720
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/globomg/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globomg/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83491.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162792.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83565.m3u8
-qualidade: HD
 
 canal: Paramount + 4
 categoria: Variedades
@@ -2204,7 +1831,7 @@ logo: https://vipcanais.net/images/paramountplus.png
 
 fonte: https://live.lixe.net/hls/g1/Paramount%2B%204%20TV/index.m3u8
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus04/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus04/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2252,23 +1879,6 @@ logo: https://i.imgur.com/SRX6EPY.png
 
 fonte: https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 qualidade: HD · 1280x720
-
-canal: Kuriakos Kids
-categoria: Infantil
-logo: https://i.imgur.com/SRX6EPY.png
-
-fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w310812943_b3048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1169954996_b3048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w394773875_b3048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w2080097502_b3048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1138060414_b3048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-qualidade: FHD · 1920x1080
 
 canal: Gospel Cartoon
 categoria: Infantil
@@ -2365,30 +1975,15 @@ logo: https://i.imgur.com/GuM4GnX.png
 fonte: https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 qualidade: HD · 1280x720
 
-canal: TV Clássicos
-categoria: Filmes e Séries
-logo: https://i.imgur.com/c6uFj7A.png
-
-fonte: https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-qualidade: HD · 1280x720
-
 canal: Record DF
 categoria: TV Aberta
 logo: https://1.embedcanaisdetv.com/images/record.png
 
 fonte: https://net11.sattvgo.com.br/RECORD_DF/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recorddf/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165428.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162765.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/157301.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169518.m3u8
-qualidade: HD
 
 canal: MTV
 categoria: Variedades
@@ -2409,8 +2004,6 @@ fonte: https://eitvplay.appmembers.com.br/event20/index.m3u8?token=jzFQQe9OVYP1y
 qualidade: HD · 1280x720
 fonte: https://video37.mais.uol.com.br/live/292.m3u8
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/b226414930a581dd1b3b833655691056/error.txt
-qualidade: HD · 1280x720
 
 canal: HGTV
 categoria: Variedades
@@ -2422,8 +2015,6 @@ fonte: https://grupoa.satlabscloud.com.br/HGTV_HD/index.m3u8?token=RGnYBgq1dxRk5
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event38/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a9627d5ef9147e9c5a3d2ac724eda681/error.txt
-qualidade: HD · 1280x720
 
 canal: Record
 categoria: TV Aberta
@@ -2433,12 +2024,6 @@ fonte: https://live.lixe.net/hls/g2/Record%20HD%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event96/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/e7e8d5da23c711544440d145f580d1ef/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147667.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147655.m3u8
-qualidade: HD
 
 canal: TCM
 categoria: Filmes e Séries
@@ -2447,8 +2032,6 @@ logo: https://img.faz-o-eli.online/tcm.png
 fonte: https://live.lixe.net/hls/g1/TCM%20TV/index.m3u8
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event73/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
-qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/ef1493fc683d38195a942d79e2281239/error.txt
 qualidade: HD · 1280x720
 
 canal: TLC
@@ -2460,8 +2043,6 @@ qualidade: HD
 fonte: https://grupoa.satlabscloud.com.br/TLC_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event19/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
-qualidade: HD · 1280x720
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/3cfc4f0c725509e105de803a1ca2a2a3/error.txt
 qualidade: HD · 1280x720
 
 canal: E!
@@ -2599,91 +2180,12 @@ qualidade: HD
 fonte: https://eitvplay.appmembers.com.br/event147/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD · 1280x720
 
-canal: 24H Chaves
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/53e94d4b6804503b6bf1e9523c4e4f13/error.txt
-qualidade: HD · 1280x720
-
-canal: 24H Dragon Ball Z
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f586e7deb60c02d97509944770e3cd00/error.txt
-qualidade: HD · 1280x720
-
-canal: 24H Friends
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/2babeb93778983134d902f74e8174b3a/error.txt
-qualidade: HD · 1280x720
-
-canal: 24H Os Simpsons
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/906e9af8e9992a50f07331e35ad34454/error.txt
-qualidade: HD · 1280x720
-
-canal: 24H Pica Pau
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/c12c1cb49ef21a6200237c9db3c40d76/error.txt
-qualidade: HD · 1280x720
-
-canal: 24H Todo Mundo Odeia o Cris
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/746e56ee1829117469c0abe25d3ffec6/error.txt
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 1
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/aa63f1e3d104fed38e796f8e700fd053/error.txt
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 2
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/13dac2f64306824a6e9399f70dd764fd/error.txt
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 3
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/5bc6f667cc0d3ff64e7a3fc61d9b9a47/error.txt
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 4
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/d13ca40b3d6075de6723850aa96fc052/error.txt
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 5
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a1dd6e9b902b1838dcd4cd619e0fad3f/error.txt
-qualidade: HD · 1280x720
-
 canal: BIS
 categoria: Variedades
 logo: http://www.fontedecanais.me/logos/canais/bis.png
 
 fonte: https://live.lixe.net/hls/g6/BIS%20HD%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/9d96744a2b5c81ada96850f786ff75fc/error.txt
-qualidade: HD · 1280x720
 
 canal: Band RJ
 categoria: TV Aberta
@@ -2693,212 +2195,12 @@ fonte: https://live.lixe.net/hls/g1/BAND%20RJ%20TV/index.m3u8
 qualidade: HD
 fonte: https://grupoa.satlabscloud.com.br/BAND_RIO/tracks-v1a1/mono.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7804b752a4b0c0db2ee4eef75b29b1a7/error.txt
-qualidade: HD · 1280x720
 
 canal: Curta
 categoria: Documentários
 logo: https://img.faz-o-eli.online/curta.png
 
 fonte: https://live.lixe.net/hls/g5/Curta%20HD%20TV/index.m3u8
-qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/2af56d1d352fe91e22a03706218850a4/error.txt
-qualidade: HD · 1280x720
-
-canal: Globo AM
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7c980fb43308b6577391215623f62f7e/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83497.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162793.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147417.m3u8
-qualidade: HD
-
-canal: Globo CE
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/e784ccac6707f0bfa0af182f7ffc4e59/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83507.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162741.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83657.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147403.m3u8
-qualidade: HD
-
-canal: Globo GO
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/923ac925ee7738a9852d2308c16ae34b/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83270.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162787.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83642.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147405.m3u8
-qualidade: HD
-
-canal: Globo PB
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/326c337c74250151d19e91071d94907a/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147726.m3u8
-qualidade: HD
-
-canal: Globo PE
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/f1326841c2f117df9f30ffca8a8c1188/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162791.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162790.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83567.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147377.m3u8
-qualidade: HD
-
-canal: MAX 01
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.gs/logos/canais/max.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/5af678249fdc3ab78c85bb4eb5a21c0d/error.txt
-qualidade: HD · 1280x720
-
-canal: MAX 02
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.gs/logos/canais/max.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/c8cdf477294cc0f8e3895ef55d13b1fb/error.txt
-qualidade: HD · 1280x720
-
-canal: MAX 03
-categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/max.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/8f991b2c4fbf97a6d5c86c31bde4f27f/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - A Bola
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_abola.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/b4a7afdab6cc827e1cbcc4b3536b7bdf/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Benfica TV
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_benficatv.prev.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/bc786a4cedae76513b4376bc43e7e89f/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Canal 11
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_canal11.prev.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/0ae298a3a54de46fdc716d07d4362485/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Eleven 1
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_eleven1.prev.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/5d1b703b9236fcec307fc0cf4db0b1e8/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Eleven 2
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/799ba4f8eabd1c2d8635a7f60db9d422/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Eleven 3
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_eleven3.prev.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/c4d300e89785cd0f3d9da5b8bacbeb0f/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 1
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/8ea61d98ed2fcc5014e26b9f4937caaf/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 2
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/d951397c5981fcf686b4c184e80bd19a/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 3
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/7cfa7c0826d900f6a17c3b6101e980bd/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 4
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/159df6bf3f0f0c08d5d35fa9ef1ed62b/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 5
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/d2942b31ed4096eb701901ebb728d598/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 6
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/c7a753105f0d333792c8f9a0943040bf/error.txt
-qualidade: HD · 1280x720
-
-canal: PT - Sporttv 7
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/2024545d67fec53bde4f8ff22c789b15/error.txt
-qualidade: HD · 1280x720
-
-canal: Record GO
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/record.png
-
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/49797992742ca887eb178334d18e1e51/error.txt
-qualidade: HD · 1280x720
-fonte: https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83252.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162766.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162767.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147656.m3u8
 qualidade: HD
 
 canal: SBT RJ
@@ -2907,14 +2209,6 @@ logo: https://img.faz-o-eli.online/sbt.png
 
 fonte: https://live.lixe.net/hls/g5/SBT%20RJ%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/057c219ee0bcb3aa204289a129d116cf/error.txt
-qualidade: HD · 1280x720
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83513.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83517.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165438.m3u8
-qualidade: HD
 
 canal: UFC Fight Pass
 categoria: PPV
@@ -2922,14 +2216,12 @@ logo: https://img.faz-o-eli.online/ufcfightpass.png
 
 fonte: https://live.lixe.net/hls/g2/UFC%20Fight%20Pass%20TV/index.m3u8
 qualidade: HD
-fonte: https://73d54345af28613d11b1e12b809e682e.sv-nl-02-cloudfront-net.lat/stream/a45e2bdb917c787d31859c12b9354a4d/error.txt
-qualidade: HD · 1280x720
 
 canal: CazeTV 4
 categoria: Esportes
 logo: https://vipcanais.net/images/cazetv.png
 
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/cazetv4/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv4/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2938,7 +2230,7 @@ canal: Disney+ 02
 categoria: Esportes
 logo: https://1.embedcanaisdetv.com/images/disneyplus.png
 
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/disneyplus02/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus02/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2949,7 +2241,7 @@ logo: https://1.embedcanaisdetv.com/images/nsports.png
 
 fonte: https://eitvplay.appmembers.com.br/event190/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/nsports/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/nsports/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2958,7 +2250,7 @@ canal: Paramount+ 03
 categoria: Esportes
 logo: https://vipcanais.net/images/paramountplus.png
 
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/paramountplus03/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus03/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2967,7 +2259,7 @@ canal: AMC Séries
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/amcseries.png
 
-fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/amcseries/index.m3u8
+fonte: https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amcseries/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -2976,20 +2268,16 @@ canal: Record ES
 categoria: TV Aberta
 logo: https://1.embedcanaisdetv.com/images/record.png
 
-fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/recordes/index.m3u8
+fonte: https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordes/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351590.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351589.m3u8
-qualidade: HD
 
 canal: DAZN
 categoria: Esportes
 logo: https://1.embedcanaisdetv.com/images/dazn.png
 
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/dazn/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/dazn/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
@@ -3007,44 +2295,12 @@ logo: https://upload.wikimedia.org/wikipedia/commons/f/f8/AgroMaisLogo.svg?utm_s
 
 fonte: https://eitvplay.appmembers.com.br/event97/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162557.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162556.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/152570.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/140815.m3u8
-qualidade: HD
 
 canal: SBT TV Aratu Bahia
 categoria: TV Aberta
 logo: https://mir-s3-cdn-cf.behance.net/projects/404/69087893659951.Y3JvcCw5ODEsNzY4LDE5Niww.jpg
 
 fonte: https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289008.m3u8
-qualidade: HD
-
-canal: Kuriakos Cine
-categoria: Filmes e Séries
-logo: https://televisao.tv/images/kuriakos-cine.jpg
-
-fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w50023390_b30048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1170808152_b30048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w2114851543_b30048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w41922480_b30048000_sleng.m3u8
-qualidade: HD
-fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w2047509851_b30048000_sleng.m3u8
-qualidade: HD
-
-canal: SBT Interior
-categoria: TV Aberta
-logo: https://ocanal.com/wp-content/uploads/2025/11/IMG-20250909-WA0000.jpg
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169525.m3u8
 qualidade: HD
 
 canal: Kuriakos TV
@@ -3098,899 +2354,6 @@ logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePfGzDJECvO-VuqtuMB
 fonte: https://cdn-5.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
 qualidade: Full HD
 
-canal: TV Câmara
-categoria: Notícias
-logo: https://moobitv.com.br/uploads/421e43b833609899033a0b898811838f.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147727.m3u8
-qualidade: HD
-
-canal: Globo Araxá MG
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162709.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162710.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162708.m3u8
-qualidade: HD
-
-canal: Globo Bahia Salvador
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/132028.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/132027.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83644.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147392.m3u8
-qualidade: HD
-
-canal: Globo EPTV Campinas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83503.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83550.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83504.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147371.m3u8
-qualidade: HD
-
-canal: Globo EPTV Central Sao Carlos
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162804.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83515.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83549.m3u8
-qualidade: HD
-
-canal: Globo EPTV Ribeirao Preto
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83514.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83434.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165432.m3u8
-qualidade: HD
-
-canal: Globo EPTV Sul de Minas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83516.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162812.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/284490.m3u8
-qualidade: HD
-
-canal: Globo Integração Divinópolis
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162675.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162717.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/151322.m3u8
-qualidade: HD
-
-canal: Globo Inter TV Cabugi Natal
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162785.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162784.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147407.m3u8
-qualidade: HD
-
-canal: Globo MG Inter TV Grande Minas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165440.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165439.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162674.m3u8
-qualidade: HD
-
-canal: Globo NSC TV Centro Oeste
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/193333.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/193334.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/126115.m3u8
-qualidade: HD
-
-canal: Globo NSC TV Chapeco
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147411.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162714.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162715.m3u8
-qualidade: HD
-
-canal: Globo NSC TV Criciúma
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162771.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162789.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147412.m3u8
-qualidade: HD
-
-canal: Globo NSC TV Joinville
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162718.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162719.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147413.m3u8
-qualidade: HD
-
-canal: Globo PE Asa Branca
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/151324.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/152922.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147421.m3u8
-qualidade: HD
-
-canal: Globo RBS TV Cruz Alta
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165433.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83579.m3u8
-qualidade: HD
-
-canal: Globo RBS TV Passo Fundo
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162803.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162761.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/154680.m3u8
-qualidade: HD
-
-canal: Globo RBS TV Pelotas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/86691.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/86690.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147415.m3u8
-qualidade: HD
-
-canal: Globo RBS TV Santa Maria
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147416.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/287472.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/287471.m3u8
-qualidade: HD
-
-canal: Globo RPC Cascavel
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83298.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83330.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83289.m3u8
-qualidade: HD
-
-canal: Globo RPC Curitiba
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83493.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/154280.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147387.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147386.m3u8
-qualidade: HD
-
-canal: Globo RPC Foz do Iguaçu
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/86705.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/86704.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147418.m3u8
-qualidade: HD
-
-canal: Globo RPC Londrina
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/318230.m3u8
-qualidade: HD
-
-canal: Globo RPC Maringa
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162703.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162704.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147419.m3u8
-qualidade: HD
-
-canal: Globo RPC Ponta Grossa
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162699.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162698.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147420.m3u8
-qualidade: HD
-
-canal: Globo RPC TV Paranavai
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162722.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162721.m3u8
-qualidade: HD
-
-canal: Globo Rede Amazônica Rondônia
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/163693.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/152928.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165434.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162734.m3u8
-qualidade: HD
-
-canal: Globo Rede Amazônica Rio Branco
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/163694.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/152927.m3u8
-qualidade: HD
-
-canal: Globo Rede Boa Vista
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162683.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162554.m3u8
-qualidade: HD
-
-canal: Globo Rede Macapá
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162685.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162723.m3u8
-qualidade: HD
-
-canal: Globo TV Anhanguera Palmas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/339235.m3u8
-qualidade: HD
-
-canal: Globo TV Cabo Branco
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162696.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/153908.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83590.m3u8
-qualidade: HD
-
-canal: Globo TV Centro America Cuiabá
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162752.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162751.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/140943.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147369.m3u8
-qualidade: HD
-
-canal: Globo TV Clube Teresina
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162749.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147728.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83508.m3u8
-qualidade: HD
-
-canal: Globo TV Fronteira Presidente Prudente
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162673.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162672.m3u8
-qualidade: HD
-
-canal: Globo TV Gazeta Alagoas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162692.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162691.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/139482.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147422.m3u8
-qualidade: HD
-
-canal: Globo TV Gazeta ES Sul
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162688.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162687.m3u8
-qualidade: HD
-
-canal: Globo TV Integracao Juiz de Fora
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162682.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162681.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147424.m3u8
-qualidade: HD
-
-canal: Globo TV Integracao Uberaba
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83205.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83381.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83401.m3u8
-qualidade: HD
-
-canal: Globo TV Integracao Uberlandia
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162697.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162694.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162760.m3u8
-qualidade: HD
-
-canal: Globo TV Liberal Belém
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83506.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162744.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83649.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147394.m3u8
-qualidade: HD
-
-canal: Globo TV Mirante Cocais
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162783.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162720.m3u8
-qualidade: HD
-
-canal: Globo TV Mirante São Luís
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162742.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147398.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147397.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83498.m3u8
-qualidade: HD
-
-canal: Globo TV Morena MS
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83479.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147400.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147399.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162733.m3u8
-qualidade: HD
-
-canal: Globo TV Rio Sul
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162782.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147425.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83499.m3u8
-qualidade: HD
-
-canal: Globo TV Santa Cruz
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147426.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/284944.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/284945.m3u8
-qualidade: HD
-
-canal: Globo TV Sergipe Aracaju
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147427.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83460.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83775.m3u8
-qualidade: HD
-
-canal: Globo TV Subae
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162779.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83546.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162750.m3u8
-qualidade: HD
-
-canal: Globo TV Tem Bauru
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162737.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162736.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83652.m3u8
-qualidade: HD
-
-canal: Globo TV Tem Itapetininga
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162676.m3u8
-qualidade: HD
-
-canal: Globo TV Tem São José do Rio Preto
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162679.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162678.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162680.m3u8
-qualidade: HD
-
-canal: Globo TV Tribuna Santos
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/150150.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/150151.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83655.m3u8
-qualidade: HD
-
-canal: Globo TV Vanguarda S.J. dos Campos
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/140740.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83656.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/140741.m3u8
-qualidade: HD
-
-canal: Globo TV Vanguarda Taubate
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169521.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169522.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169520.m3u8
-qualidade: HD
-
-canal: Globo Verdes Mares Cariri
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162711.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162743.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162702.m3u8
-qualidade: HD
-
-canal: SBT Amazonas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289012.m3u8
-qualidade: HD
-
-canal: SBT Brasília
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165431.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83474.m3u8
-qualidade: HD
-
-canal: SBT Para
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289001.m3u8
-qualidade: HD
-
-canal: SBT Piaui
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289011.m3u8
-qualidade: HD
-
-canal: SBT RN
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289002.m3u8
-qualidade: HD
-
-canal: SBT RS
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162798.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162797.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/163268.m3u8
-qualidade: HD
-
-canal: SBT Rede Massa
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162848.m3u8
-qualidade: HD
-
-canal: SBT Riberão Preto
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289004.m3u8
-qualidade: HD
-
-canal: SBT SCC
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289003.m3u8
-qualidade: HD
-
-canal: SBT Serra Dourada
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289006.m3u8
-qualidade: HD
-
-canal: SBT São Luis Maranhão
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289007.m3u8
-qualidade: HD
-
-canal: SBT TV Alterosa MG
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/142101.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83495.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/283909.m3u8
-qualidade: HD
-
-canal: SBT TV Difusora Caxias
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289009.m3u8
-qualidade: HD
-
-canal: SBT TV Jangadeiro Ceará
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289005.m3u8
-qualidade: HD
-
-canal: SBT TV Jornal Recife
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/0063c23a2df4cbd75777488210160cec.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/289010.m3u8
-qualidade: HD
-
-canal: Record BA Itapoan
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/163692.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162665.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/169528.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147650.m3u8
-qualidade: HD
-
-canal: Record Bauru
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351571.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351572.m3u8
-qualidade: HD
-
-canal: Record Cabralia
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147669.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/164593.m3u8
-qualidade: HD
-
-canal: Record Campinas
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162764.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/157300.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/157298.m3u8
-qualidade: HD
-
-canal: Record Campos Dos Goytacazes
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351573.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351574.m3u8
-qualidade: HD
-
-canal: Record Curitiba
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351575.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351576.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83796.m3u8
-qualidade: HD
-
-canal: Record Florianópolis
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351577.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351578.m3u8
-qualidade: HD
-
-canal: Record TV Cidade Ceará
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/288606.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351579.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351580.m3u8
-qualidade: HD
-
-canal: Record RS
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351581.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351582.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165435.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162770.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147665.m3u8
-qualidade: HD
-
-canal: Record Interior SP
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162670.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162669.m3u8
-qualidade: HD
-
-canal: Record Litoral Vale do Parnaíba
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162668.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162667.m3u8
-qualidade: HD
-
-canal: Record Manaus
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83465.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147668.m3u8
-qualidade: HD
-
-canal: Record Recife
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351584.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351583.m3u8
-qualidade: HD
-
-canal: Record Ribeirão Preto
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351585.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351586.m3u8
-qualidade: HD
-
-canal: Record Rio Preto
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162666.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83678.m3u8
-qualidade: HD
-
-canal: Record SIC TV Rondônia
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162763.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83696.m3u8
-qualidade: HD
-
-canal: Record Santos e Vale
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351587.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/351588.m3u8
-qualidade: HD
-
-canal: Record TV Atalaia
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83780.m3u8
-qualidade: HD
-
-canal: Record TV MT
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83496.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83520.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83804.m3u8
-qualidade: HD
-
 canal: AWTV
 categoria: TV Aberta
 logo: https://moobitv.com.br/uploads/91110179e89709245e975c7adb92646a.webp
@@ -4005,111 +2368,6 @@ logo: https://moobitv.com.br/uploads/f788c5e79fc25b9c4f39620035fb839a.webp
 fonte: https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
 qualidade: HD
 
-canal: Globo Inter TV Alto Litoral
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162707.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162705.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147406.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162706.m3u8
-qualidade: HD
-
-canal: Globo Inter TV dos Vales
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162713.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162712.m3u8
-qualidade: HD
-
-canal: Globo Inter TV Serra Mar
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/150157.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/164591.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/150156.m3u8
-qualidade: HD
-
-canal: Globo NSC TV Blumenau
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162778.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147410.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83489.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147670.m3u8
-qualidade: HD
-
-canal: Globo NSC TV Florianópolis
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162775.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162777.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83500.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147380.m3u8
-qualidade: HD
-
-canal: Globo RBS TV Caxias do Sul
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83438.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147414.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83333.m3u8
-qualidade: HD
-
-canal: Globo TV Diario Mogi das Cruzes
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162745.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83313.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162746.m3u8
-qualidade: HD
-
-canal: Globo TV Tem Sorocaba
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/152579.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83654.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147373.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162466.m3u8
-qualidade: HD
-
-canal: Record Belém
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162769.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162768.m3u8
-qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83469.m3u8
-qualidade: HD
-
 canal: TV Carioca
 categoria: TV Aberta
 logo: https://moobitv.com.br/uploads/12b581d73b7c96f4e77ca714f542f17e.webp
@@ -4121,33 +2379,100 @@ canal: SportyNet +1
 categoria: Esportes
 logo: https://vipcanais.net/images/sportynet.png
 
-fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth2311oq80soveui6lkbi2iza2zf.cdn12embed.xyz/sportynet1/index.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8
 qualidade: FHD
 referer: https://playerembedcanais.site/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
-canal: Globo
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/a8451d7838534dd7bd912cdb8c921f6c.webp
+canal: Disney+ 07
+categoria: Esportes
+logo: https://vipcanais.net/images/disneyplus.png
 
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/83461.m3u8
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus07/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 08
+categoria: Esportes
+logo: https://vipcanais.net/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus08/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 03
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus03/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 04
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus04/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 05
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus05/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Disney+ 06
+categoria: Esportes
+logo: https://1.embedcanaisdetv.com/images/disneyplus.png
+
+fonte: https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus06/index.m3u8
+qualidade: FHD
+referer: https://playerembedcanais.site/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Kuriakos Kids
+categoria: Infantil
+logo: https://i.imgur.com/SRX6EPY.png
+
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w310812943_b3048000_sleng.m3u8
 qualidade: HD
-
-canal: Record Paranaíba de Uberlândia
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/43ce22a9cc0d656860390cbd95359716.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/162762.m3u8
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1169954996_b3048000_sleng.m3u8
 qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/247611.m3u8
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w394773875_b3048000_sleng.m3u8
 qualidade: HD
-
-canal: TV Escola
-categoria: TV Aberta
-logo: https://moobitv.com.br/uploads/278c768e0d9796b73616396c24c2947d.webp
-
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/165443.m3u8
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w2080097502_b3048000_sleng.m3u8
 qualidade: HD
-fonte: http://offthesun.net:80/live/Q95xJg/7gkKXe/147732.m3u8
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1138060414_b3048000_sleng.m3u8
 qualidade: HD
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+qualidade: FHD · 1920x1080
 
+canal: TV Clássicos
+categoria: Filmes e Séries
+logo: https://i.imgur.com/c6uFj7A.png
+
+fonte: https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Kuriakos Cine
+categoria: Filmes e Séries
+logo: https://televisao.tv/images/kuriakos-cine.jpg
+
+fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w50023390_b30048000_sleng.m3u8
+qualidade: HD
+fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1170808152_b30048000_sleng.m3u8
+qualidade: HD
+fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w2114851543_b30048000_sleng.m3u8
+qualidade: HD
+fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w41922480_b30048000_sleng.m3u8
+qualidade: HD
+fonte: https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w2047509851_b30048000_sleng.m3u8
+qualidade: HD

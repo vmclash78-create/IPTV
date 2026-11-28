@@ -496,6 +496,7 @@ Endless	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7
 Endurance	dub=18:122190,18:947763,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55753.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71434.mp4
 Eneida (2022)	dub=18:959471,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312032.mp4
 Energia Pura (1995)	dub=18:12665
+Enfeitiçadas: Bem-vindos a Hexe	dub=18:1538497
 Enfeitiçados (2024)	dub=18:592983,https://embedplayer2.xyz/cdn/hls/b0c62aee0e7aa4c0b28a37e7d25ec9c2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9457.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71415.mp4
 Enfermeira da Morte	dub=18:1111440,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44488.mp4
 Enforcados 1	leg=18:552737.mp4?lang=leg

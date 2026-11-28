@@ -388,9 +388,9 @@ Bob Esponja Calça Quadrada	1999	3	593
 Bob Hearts Abishola		3	53
 Bob O Construtor		3	52
 Bob Zoom	2012	3	22
-Bob's Burgers	2011	3	390
+Bob's Burgers	2011	3	524
 Bobby e Giada na Itália		3	4
-Bobs Burgers	2011	3	390
+Bobs Burgers	2011	3	524
 Boca a Boca		3	6
 Boca do Lixo		3	8
 Bodkin	2024	3	7
@@ -475,7 +475,7 @@ Bridgerton	2020	3	32
 Brigada Costa del Sol		3	13
 Bright Girls Success		3	16
 Bright Minds		3	17
-Brilhante Victória		3	59
+Brilhante Victória		3	60
 Brilho Perfeito		3	11
 Brincando com Fogo	2020	3	57
 Brincando com Fogo Alemanha		4	18

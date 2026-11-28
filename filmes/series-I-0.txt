@@ -2022,14 +2022,14 @@
 2	70	dub	19:110562/2/70,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/268855.mp4,http://64.31.23.207:80/series/96795792/50165825/5592682.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/241323.mp4
 2	71	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/268856.mp4,http://64.31.23.207:80/series/96795792/50165825/5592683.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/241324.mp4
 @Iluminadas	2022
-1	1	dub	https://embedplayer2.xyz/cdn/hls/83ec29efea1821dfddedb1e6dea47a70/master.txt,http://64.31.23.207:80/series/96795792/50165825/5613749.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30699.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5613750.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30700.mp4
-1	3	dub	https://embedplayer2.xyz/cdn/hls/6caadadc53c1357a2e23b7d0e0afd7c9/master.txt,http://64.31.23.207:80/series/96795792/50165825/5613751.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30701.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5613752.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30702.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5613753.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30704.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5613754.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30705.mp4
-1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5613755.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30706.mp4
-1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5613756.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30707.mp4
+1	1	dub	19:106388/1/1,https://embedplayer2.xyz/cdn/hls/83ec29efea1821dfddedb1e6dea47a70/master.txt,http://64.31.23.207:80/series/96795792/50165825/5613749.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30699.mp4
+1	2	dub	19:106388/1/2,http://64.31.23.207:80/series/96795792/50165825/5613750.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30700.mp4
+1	3	dub	19:106388/1/3,https://embedplayer2.xyz/cdn/hls/6caadadc53c1357a2e23b7d0e0afd7c9/master.txt,http://64.31.23.207:80/series/96795792/50165825/5613751.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30701.mp4
+1	4	dub	19:106388/1/4,http://64.31.23.207:80/series/96795792/50165825/5613752.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30702.mp4
+1	5	dub	19:106388/1/5,http://64.31.23.207:80/series/96795792/50165825/5613753.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30704.mp4
+1	6	dub	19:106388/1/6,http://64.31.23.207:80/series/96795792/50165825/5613754.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30705.mp4
+1	7	dub	19:106388/1/7,http://64.31.23.207:80/series/96795792/50165825/5613755.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30706.mp4
+1	8	dub	19:106388/1/8,http://64.31.23.207:80/series/96795792/50165825/5613756.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/30707.mp4
 @Ilusão Mortal
 1	1	dub	19:331979/1/1,http://64.31.23.207:80/series/96795792/50165825/5666322.mp4
 1	2	dub	19:331979/1/2,http://64.31.23.207:80/series/96795792/50165825/5666323.mp4

@@ -209,6 +209,7 @@ Depois do Terremoto		1	4
 Dept Q	2025	1	9
 Deputy: O Novo Xerife		1	26
 Der Pass	2019	1	38
+Der Scheich		1	7
 Derek		1	13
 Derretendo Pouco a Pouco		1	16
 Derry Girls		1	14
@@ -238,7 +239,7 @@ Descobrindo o Egito		1	2
 Desculpas Pelo Incômodo		1	12
 Desejo Ardente		1	16
 Desejo Fatal	2023	1	35
-Desejo Obsessivo		1	4
+Desejo Obsessivo		2	4
 Desejo Sombrio		2	33
 Desejo de Vingança		2	8
 Desejos S.A.	2024	2	6
@@ -358,7 +359,7 @@ Digimon Savers	2006	2	96
 Digimon Tamers	2001	2	102
 Digimon Xros Wars		2	98
 Digimon Zero Two	1999	2	356
-Digman!		2	8
+Digman!		3	8
 Dignidade		3	8
 Dignity		3	7
 Dilema		3	10
@@ -477,7 +478,7 @@ Dokidoki! Precure		3	98
 Dollar		3	15
 Dollface		3	20
 Dolly Parton - Tocando o Coração		3	8
-Dolunay		3	107
+Dolunay		4	107
 Dom		4	21
 Dom Pixote		4	57
 Dom de Iludir		4	10
@@ -597,7 +598,7 @@ Dubai Ostentacao Milionarios Indianos		4	7
 Dubai Ostentação		4	25
 Dublin Murders		4	8
 Duck Dodgers	2003	4	55
-DuckTales: Os Caçadores de Aventuras	1987	4	128
+DuckTales: Os Caçadores de Aventuras	1987	5	128
 DuckTales: Os Caçadores de Aventuras	1987	5	128
 DuckTales: Os Caçadores de Aventuras	2017	5	128
 Dude, o Cãopanheiro		5	8

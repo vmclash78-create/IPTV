@@ -2322,8 +2322,8 @@
 1	8	dub	19:289763/1/8,http://64.31.23.207:80/series/96795792/50165825/5664319.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/308990.mp4
 1	9	dub	19:289763/1/9,http://64.31.23.207:80/series/96795792/50165825/5664320.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/309534.mp4
 1	10	dub	19:289763/1/10,http://64.31.23.207:80/series/96795792/50165825/5664321.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/309911.mp4
-1	11	dub	http://64.31.23.207:80/series/96795792/50165825/5664322.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310081.mp4
-1	12	dub	http://64.31.23.207:80/series/96795792/50165825/5664323.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310376.mp4
+1	11	dub	19:289763/1/11,http://64.31.23.207:80/series/96795792/50165825/5664322.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310081.mp4
+1	12	dub	19:289763/1/12,http://64.31.23.207:80/series/96795792/50165825/5664323.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310376.mp4
 @Teachers
 1	1	dub	19:64435/1/1
 1	2	dub	19:64435/1/2
@@ -2541,10 +2541,10 @@
 1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5584841.mp4
 1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5584842.mp4
 @Ted Bundy: As Sobreviventes
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5592305.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221692.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5592306.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221693.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5592307.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221694.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5592308.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221695.mp4
+1	1	dub	19:197530/1/1,http://64.31.23.207:80/series/96795792/50165825/5592305.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221692.mp4
+1	2	dub	19:197530/1/2,http://64.31.23.207:80/series/96795792/50165825/5592306.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221693.mp4
+1	3	dub	19:197530/1/3,http://64.31.23.207:80/series/96795792/50165825/5592307.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221694.mp4
+1	4	dub	19:197530/1/4,http://64.31.23.207:80/series/96795792/50165825/5592308.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/221695.mp4
 @Ted Lasso	2020
 1	1	dub	19:97546/1/1,https://embedplayer2.xyz/cdn/hls/99cb174bb222fb90827a182c5a034c76/master.txt,http://64.31.23.207:80/series/96795792/50165825/5590222.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33622.mp4
 1	2	dub	19:97546/1/2,http://64.31.23.207:80/series/96795792/50165825/5590223.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33624.mp4
@@ -3335,7 +3335,7 @@
 1	58	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/282618.mp4
 1	59	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/282619.mp4
 @Temporada de Verão
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5609217.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157629.mp4
+1	1	dub	19:139792/1/1,http://64.31.23.207:80/series/96795792/50165825/5609217.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157629.mp4
 1	2	dub	19:139792/1/2,http://64.31.23.207:80/series/96795792/50165825/5609218.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157630.mp4
 1	3	dub	19:139792/1/3,http://64.31.23.207:80/series/96795792/50165825/5609219.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157631.mp4
 1	4	dub	19:139792/1/4,http://64.31.23.207:80/series/96795792/50165825/5609220.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157632.mp4

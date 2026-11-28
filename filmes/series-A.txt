@@ -251,6 +251,9 @@ A Gangue de Bogota		1	8
 A Garota Desaparecida do Vaticano		1	4
 A Garota Que Ele Nunca Notou		1	8
 A Garota Roubada		1	5
+Ano Natsu de Matteru		10	24
+Anomalia		10	10
+Anos 90 A Decada que Mudou o Mundo		10	10
 Anos 90: A Explosão do Pagode		10	3
 Anos Dourados		10	20
 Anos Incriveis		10	163
@@ -368,9 +371,9 @@ Arquivo X	1993	10	217
 Arquivos Alienigenas Reabertos		10	8
 Arquivos Desclassificados com David Duchovny		10	10
 Arquivos Secretos do Vaticano O Papa e o Demonio		10	4
-Arquivos Sobrenaturais		10	12
-Arquivos do Inexplicável		10	8
-Arranjo de Natal		10	3
+Arquivos Sobrenaturais		11	12
+Arquivos do Inexplicável		11	8
+Arranjo de Natal		11	3
 Arremesso Final	2020	11	10
 Arrested Development		11	91
 Arrow	2012	11	170
@@ -487,9 +490,9 @@ As Tartarugas Ninja		11	54
 As Tartarugas Ninjas	2012	11	124
 As Telefonistas	2017	11	44
 As Terríveis Aventuras de Billy e Mandy	2001	11	89
-As Tontas Não Vão ao Céu		11	140
-As Trapalhadas de Flapjack		11	90
-As Travessuras da Menina Ma		11	20
+As Tontas Não Vão ao Céu		12	140
+As Trapalhadas de Flapjack		12	90
+As Travessuras da Menina Ma		12	20
 As Trigêmeas	1995	12	104
 As Três Detetives		12	10
 As Três Irmãs	2022	12	12
@@ -607,9 +610,9 @@ AzurLane: Slow Ahead!	2021	12	15
 Aí Eu Vi Vantagem		12	18
 a Aprendiz de Feiticeira		12	325
 a Aranha	1994	12	78
-a Menina das Estrelas	2022	12	52
-a Vó e a Boi		12	6
-a cor do amor - a cor do amor		12	69
+a Menina das Estrelas	2022	13	52
+a Vó e a Boi		13	6
+a cor do amor - a cor do amor		13	69
 aka Charlie Sheen		13	2
 amor ilimitado - amor ilimitado		13	70
 À Beira do Caos		13	12
@@ -679,6 +682,7 @@ A História do Mundo: Parte 2		2	8
 A História do Palavrão		2	6
 A Hora do Arrepio		2	66
 A Hora do Diabo	2022	2	11
+A Hora do Pesadelo: O Terror de Freddy Krueger		2	3
 A Horda Dourada		2	16
 A Hóspede		2	20
 A Idade Dourada	2022	2	29
@@ -744,7 +748,7 @@ A Life In Pieces		2	21
 A Linha Invisível	2020	2	6
 A Linha que nos Separa - Bizi Ayıran Çizgi		2	5
 A Lista Terminal		2	16
-A Lista Terminal: Lobo Negro	2025	2	14
+A Lista Terminal: Lobo Negro	2025	3	14
 A Lista de Compras do Assassino		3	16
 A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires	2026	3	2
 A Lição	2022	3	16
@@ -863,7 +867,7 @@ A Pedra dos Sonhos		3	13
 A Penúltima Palavra		3	6
 A Pequena Sereia	1992	3	60
 A Persistencia da Memoria		3	13
-A Pessoa Prometida		3	40
+A Pessoa Prometida		4	40
 A Peste		4	12
 A Pior Vizinhança		4	4
 A Pior das Bruxas	2017	4	51
@@ -978,7 +982,7 @@ A Turma do Pateta	1992	4	91
 A Turma do Ze Colmeia		4	15
 A Ultima Noite em Tremor		4	8
 A Ultima Transmissao O Sequestro de Jodi Huisentruit		4	3
-A Unidade		4	18
+A Unidade		5	18
 A Usurpadora		5	107
 A Vaca E O Frango		5	52
 A Verdade Por Tras do Homem Na Lua		5	6
@@ -1097,7 +1101,7 @@ Abstrato A Arte do Design		5	8
 Absurdos da Engenharia		5	6
 Academia Unicornio		5	9
 Academia Unicórnio: Segredos Revelados	2026	5	12
-Academia de Dança		5	65
+Academia de Dança		6	65
 Academia de Giuseppe		6	13
 Academia de Vampiros	2022	6	20
 Acampados		6	150
@@ -1215,7 +1219,7 @@ Akanesasu Shoujo		6	24
 Akibas Trip The Animation		6	26
 Akif		6	13
 Akikan		6	24
-Akkun to Kanojo		6	50
+Akkun to Kanojo		7	50
 Akudama Drive		7	24
 Akuma kun		7	12
 Akuma no Riddle		7	25
@@ -1335,7 +1339,7 @@ Amantes da Hora do Almoco		7	8
 Amar Perder		7	16
 Amar Você de Novo, Meu Irmão Adotivo		7	1
 Amar a Morte		7	87
-Amar e Como Andar de Bicicleta		7	16
+Amar e Como Andar de Bicicleta		8	16
 Amar e Matar		8	16
 Amar e Para os Fortes		8	7
 Amar e Renovar, Renovar e Amar com Hilary Farr		8	18
@@ -1453,7 +1457,7 @@ Amor e Batatas		8	15
 Amor e Esperanca - Ask ve Umut		8	147
 Amor e Honra		8	154
 Amor e Honra - Leke		8	39
-Amor e Intrigas		8	211
+Amor e Intrigas		9	211
 Amor e Lagrimas - Ask Ve Gozyasi		9	7
 Amor e Morte		9	7
 Amor e Odio - Aşk ve Mavi		9	15
@@ -1504,6 +1508,8 @@ Amores que Enganam		9	10
 Amorteamo	2015	9	5
 Amphibia	2019	9	58
 Amsterdam	2018	9	88
+Amy & Kate: Cantinhos Únicos		9	20
+Amy Schumer na Cozinha – Sem Censura		9	16
 Amy e Tammy Irmas Contra o Peso		9	48
 Amy, a Menina da Mochila Azul		9	115
 América		9	203
@@ -1570,6 +1576,3 @@ Anna		9	20
 Anne Shirley		9	48
 Anne com um "E"	2017	9	27
 Annem Ankara		9	15
-Ano Natsu de Matteru		9	24
-Anomalia		9	10
-Anos 90 A Decada que Mudou o Mundo		9	10

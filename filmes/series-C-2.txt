@@ -1,3 +1,16 @@
+@Catedrais
+1	1	dub	19:330302/1/1
+1	1	leg	19:330302/1/1.mp4?lang=leg
+1	2	dub	19:330302/1/2
+1	2	leg	19:330302/1/2.mp4?lang=leg
+1	3	dub	19:330302/1/3
+1	3	leg	19:330302/1/3.mp4?lang=leg
+1	4	dub	19:330302/1/4
+1	4	leg	19:330302/1/4.mp4?lang=leg
+1	5	dub	19:330302/1/5
+1	5	leg	19:330302/1/5.mp4?lang=leg
+1	6	dub	19:330302/1/6
+1	6	leg	19:330302/1/6.mp4?lang=leg
 @Catfish Brasil
 1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5546606.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226309.mp4
 1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5546607.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226310.mp4
@@ -4377,9 +4390,3 @@
 1	141	dub	19:45865/1/141,http://64.31.23.207:80/series/96795792/50165825/5508352.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/173218.mp4
 1	142	dub	19:45865/1/142,http://64.31.23.207:80/series/96795792/50165825/5508353.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/173219.mp4
 1	143	dub	19:45865/1/143,http://64.31.23.207:80/series/96795792/50165825/5508354.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/173220.mp4
-@Chernobyl	2019
-1	1	dub	19:87108/1/1,https://embedplayer2.xyz/cdn/hls/6662d234addae5f90bf6d06cb397f603/master.txt,http://64.31.23.207:80/series/96795792/50165825/5575271.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5356.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/60615?hash=9a0266daa1007175786487ea
-1	2	dub	19:87108/1/2,https://embedplayer2.xyz/cdn/hls/ea185ff09209d1cc12af52da12388e6a/master.txt,http://64.31.23.207:80/series/96795792/50165825/5575272.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5357.mp4
-1	3	dub	19:87108/1/3,https://embedplayer2.xyz/cdn/hls/d900e31166522402ee294075b7ae19ef/master.txt,http://64.31.23.207:80/series/96795792/50165825/5575273.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5358.mp4
-1	4	dub	19:87108/1/4,https://embedplayer2.xyz/cdn/hls/c8963574daded126444138d12e4fff43/master.txt,http://64.31.23.207:80/series/96795792/50165825/5575274.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5360.mp4
-1	5	dub	19:87108/1/5,https://embedplayer2.xyz/cdn/hls/c6edfa330c08a15aaf2149c330b553a4/master.txt,http://64.31.23.207:80/series/96795792/50165825/5575275.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5361.mp4

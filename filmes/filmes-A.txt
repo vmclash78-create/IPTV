@@ -570,6 +570,7 @@ A Espada Era a Lei (1963)	dub=18:9078,http://dbonline.tech-cdn.top:80/movie/ke-v
 A Espada Mágica: A Lenda de Camelot (1998)	dub=18:18937,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8375.mp4
 A Espada Sem Sombra	dub=18:14763
 A Espada Vingadora de Kung Fu	dub=18:127987
+A Espada da Vingança	dub=18:687238
 A Espada do Imortal (2017)	dub=18:426284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1559.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308332.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308349.mp4
 A Espera	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60675.mp4
 A Espera Do Amanha (2019)	dub=18:565391,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33292.mp4

@@ -103,7 +103,7 @@ Get Shorty: A Máfia do Cinema	2017	0	27
 Ghost Doctor		0	32
 Ghost Force		0	52
 Ghost Hound		0	22
-Ghost Whisperer	2005	0	44
+Ghost Whisperer	2005	0	104
 Ghost in the Shell SAC	2045	0	24
 Ghost in the Shell: SAC_	2045	0	24
 Ghost in the Shell: Stand Alone Complex		0	52

@@ -1483,14 +1483,14 @@
 4	4	dub	19:80475/4/4
 4	5	dub	19:80475/4/5
 @Wellmania
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5627914.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160341.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5627915.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160342.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5627916.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160343.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5627917.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160344.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5627918.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160345.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5627919.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160346.mp4
-1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5627920.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160347.mp4
-1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5627921.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160348.mp4
+1	1	dub	19:195841/1/1,http://64.31.23.207:80/series/96795792/50165825/5627914.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160341.mp4
+1	2	dub	19:195841/1/2,http://64.31.23.207:80/series/96795792/50165825/5627915.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160342.mp4
+1	3	dub	19:195841/1/3,http://64.31.23.207:80/series/96795792/50165825/5627916.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160343.mp4
+1	4	dub	19:195841/1/4,http://64.31.23.207:80/series/96795792/50165825/5627917.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160344.mp4
+1	5	dub	19:195841/1/5,http://64.31.23.207:80/series/96795792/50165825/5627918.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160345.mp4
+1	6	dub	19:195841/1/6,http://64.31.23.207:80/series/96795792/50165825/5627919.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160346.mp4
+1	7	dub	19:195841/1/7,http://64.31.23.207:80/series/96795792/50165825/5627920.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160347.mp4
+1	8	dub	19:195841/1/8,http://64.31.23.207:80/series/96795792/50165825/5627921.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160348.mp4
 @Wentworth
 1	1	leg	19:44856/1/1.mp4?lang=leg
 1	2	leg	19:44856/1/2.mp4?lang=leg
@@ -2198,6 +2198,11 @@
 1	4	dub	19:77601/1/4,http://64.31.23.207:80/series/96795792/50165825/5563510.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160362.mp4
 1	5	dub	19:77601/1/5,http://64.31.23.207:80/series/96795792/50165825/5563511.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160363.mp4
 1	6	dub	19:77601/1/6,http://64.31.23.207:80/series/96795792/50165825/5563512.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/160364.mp4
+@Wildcard Kitchen
+1	1	dub	19:247990/1/1
+1	3	dub	19:247990/1/3
+1	5	dub	19:247990/1/5
+1	6	dub	19:247990/1/6
 @Wilfred
 1	1	dub	19:39525/1/1,http://64.31.23.207:80/series/96795792/50165825/5501691.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/224074.mp4
 1	2	dub	19:39525/1/2,http://64.31.23.207:80/series/96795792/50165825/5501692.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/224075.mp4
@@ -3479,13 +3484,3 @@
 1	7	dub	19:286940/1/7,http://64.31.23.207:80/series/96795792/50165825/5666300.mp4
 1	8	dub	19:286940/1/8,http://64.31.23.207:80/series/96795792/50165825/5666301.mp4
 1	9	dub	19:286940/1/9,http://64.31.23.207:80/series/96795792/50165825/5666302.mp4
-@Woori The Virgin
-1	1	leg	19:154891/1/1.mp4?lang=leg
-1	2	leg	19:154891/1/2.mp4?lang=leg
-1	4	leg	19:154891/1/4.mp4?lang=leg
-1	5	leg	19:154891/1/5.mp4?lang=leg
-1	6	leg	19:154891/1/6.mp4?lang=leg
-1	8	leg	19:154891/1/8.mp4?lang=leg
-1	9	leg	19:154891/1/9.mp4?lang=leg
-1	12	leg	19:154891/1/12.mp4?lang=leg
-1	14	leg	19:154891/1/14.mp4?lang=leg

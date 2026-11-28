@@ -139,7 +139,7 @@ Terapia de Casal		1	10
 Terceira Metade		1	11
 Teresa		1	152
 Teresa II		1	100
-Terra Amarga		1	840
+Terra Amarga		1	1149
 Terra Brava		1	120
 Terra Incógnita	2022	1	16
 Terra Indomável	2025	1	6
@@ -298,8 +298,8 @@ The End of the F***ing World		2	16
 The End of the Fing World		2	16
 The Endgame: Um Conto de Vingança		2	20
 The Epoch of Miyu		2	43
-The Equalizer	2021	2	56
-The Equalizer - A Protetora	2021	2	56
+The Equalizer	2021	2	71
+The Equalizer - A Protetora	2021	2	71
 The Eternal Fragrance		2	33
 The Event		2	22
 The Ex Wife	2022	2	8

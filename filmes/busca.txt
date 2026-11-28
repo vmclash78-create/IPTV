@@ -1284,6 +1284,7 @@ A Escrava Isaura	s	A
 A Escrava Sexual	s	A
 A Escuridão (2016)	f	A
 A Escuta	s	A
+A Espada da Vingança	f	A
 A Espada do Imortal (2017)	f	A
 A Espada Era a Lei (1963)	f	A
 A Espada Mágica: A Lenda de Camelot (1998)	f	A
@@ -1860,6 +1861,7 @@ A Hora do Pesadelo 6	f	A
 A Hora do Pesadelo 6: Pesadelo Final: A Morte de Freddy (1991)	f	A
 A Hora do Pesadelo 7	f	A
 A Hora do Pesadelo 7 - O Retorno de Freddy Krueger (1994)	f	A
+A Hora do Pesadelo: O Terror de Freddy Krueger	s	A
 A Hora do Rango	f	A
 A Hora do Rush (1998)	f	A
 A Hora do Rush 2 (2001)	f	A
@@ -5041,7 +5043,9 @@ Amulet	f	A
 Amuleto	f	A
 Amundsen O Explorador	f	A
 Amy	f	A
+Amy & Kate: Cantinhos Únicos	s	A
 Amy e Tammy Irmas Contra o Peso	s	A
+Amy Schumer na Cozinha – Sem Censura	s	A
 Amy, a Menina da Mochila Azul	s	A
 Amélia	f	A
 América	s	A
@@ -8789,6 +8793,7 @@ Casar com um Assassino	s	C
 Casar com VOCE	s	C
 Casar Denovo De Jeito Nenhum Ex Bilionário!	f	C
 CASAR-SE COM MILIONARIO APOS DESPEDIR-SE DO AMOR TOXICO	f	C
+Casas Estranhas	s	C
 Casas Muito Loucas	s	C
 Casas na Arvore	s	C
 Casas Sobre Rodas	s	C
@@ -9303,6 +9308,7 @@ Choir Girl	f	C
 Choke	f	C
 Cholo Zombies Monstro (2023)	f	C
 Chopin, Uma Sonata em Paris	f	C
+Chopped Junior	s	C
 Chopped Nova Geracao	s	C
 Chopped: Doce Desafio	s	C
 Choque de Cultura	s	C
@@ -11568,6 +11574,7 @@ Depravity	f	D
 Dept Q	s	D	2025
 Deputy: O Novo Xerife	s	D
 Der Pass	s	D	2019
+Der Scheich	s	D
 Deranged	f	D
 Derek	s	D
 Derrapada (2023)	f	D
@@ -13547,6 +13554,7 @@ Endurance	f	E
 Eneida (2022)	f	E
 Enemies With Benefits	s	E
 Energia Pura (1995)	f	E
+Enfeitiçadas: Bem-vindos a Hexe	f	E
 Enfeitiçados (2024)	f	E
 Enfermeira	s	E
 Enfermeira da Morte	f	E
@@ -22832,6 +22840,7 @@ Muito Louca (2018)	f	M
 Muito Louco	f	M
 Muito Mais que o Esperado (2021)	f	M
 Muito Perto para o Natal	f	M
+Muito Prazer	f	M
 Muito Ralph: Vida e Obra de Ralph Lauren	f	M
 Muito Velho Para Morrer Jovem	s	M
 Muitos Homens Num Só	f	M
@@ -26397,6 +26406,7 @@ O Melhor Verão da Minha Vida	f	O
 O Melhor Verão das Nossas Vidas	f	O
 O Meme da Festa de Halloween (2020)	f	O
 O Meme do Mal	f	O
+O menino	f	O
 O Menino Atrás da Porta	f	O
 O Menino da Internet: A História de Aaron Swartz	f	O
 O Menino da Porteira (2009)	f	O
@@ -37273,6 +37283,7 @@ Top Gun Ases indomaveis	f	T
 Top Gun Maverick	f	T
 Top Gunner	f	T
 Top Gunner Zona de Perigo	f	T
+Top Love - Só e Bem Acompanhado!	f	T
 Top Model	s	T
 Top of the Lake	s	T
 Top Secret! Superconfidencial	f	T
@@ -40377,6 +40388,7 @@ Wild Girl	f	W
 Wild Hawaii	f	W
 Wild Isles	s	W
 Wild Wild Country	s	W
+Wildcard Kitchen	s	W
 Wildcat	f	W
 Wildcat (2025)	f	W
 Wildcat - Prisioneira de Guerra (2021)	f	W

@@ -123,3 +123,19 @@ qualidade: FHD · 1920x1080
 fonte: https://eitvplay.appmembers.com.br/event48/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 qualidade: HD
 
+canal: ADULT SWIN
+categoria: Adulto
+logo: https://redeflixapi.click/assets/channel-logos/c7e6275b6ebf8cb79835a6c4.webp
+
+fonte: https://hls.redecanaisby.cv:8443/live/1795880154/wbYZEnbgHfDtaoyK6gcZUw/adult-swin/live.m3u8
+qualidade: HD
+fonte: https://hls.redecanaisby.cv:8443/live/1795881662/d2ijJAKb0-1ZNw8S5mo_sg/adult-swin/live.m3u8
+qualidade: HD
+
+canal: PLAYBOY
+categoria: Adulto
+logo: https://redeflixapi.click/assets/channel-logos/9cb0aced36e2159de4214c31.png
+
+fonte: https://hls.redecanaisby.cv:8443/live/1795881665/tiNmvIgqzB9YoZcyESwVXw/playboy/live.m3u8
+qualidade: HD
+

@@ -909,6 +909,7 @@ f	A Escolha Perfeita 2 (2015)	254470	/qHPcO7Ybp7s2Gg359UMdASGGUir.jpg	Comédia,M
 f	A Escolha Perfeita 3	353616	/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg	Música,Comédia
 f	A Escolhida	627290	/yjNvyKZ3T3nqkZJH9EGFTbRaUJH.jpg	Terror
 f	A Escuridão (2016)	363579	/jjc2firOtbelndhPSf8kReKA9rG.jpg	Ação,Suspense,História
+f	A Espada da Vingança		/pgQoNCKiXu63iiSzQVG7EtsTjCi.jpg	
 f	A Espada do Imortal (2017)	426284	/cjFObrOXLc4kOMktboywpsJZFTp.jpg	Ação,Fantasia,Aventura,Drama
 f	A Espada Era a Lei (1963)	9078	/skbkDIP7QW1QJzT8P778bmqxp2Y.jpg	Animação,Família,Fantasia
 f	A Espada Mágica: A Lenda de Camelot (1998)	18937	/kcCQvWUBRQzKB3kgjnJm4I6RRy5.jpg	Fantasia,Animação,Drama,Romance,Família
@@ -8977,6 +8978,7 @@ f	Endless	226857	/slvVVYVxiKQ5rVKPIrFczozdomF.jpg	Drama,Romance
 f	Endurance	947763	/7LPRuJ7pSxUB559ac8SS5mdElz8.jpg	Documentário
 f	Eneida (2022)	959471	/qNFIYTfVYv3TVQ2HyWbsYu1X9Ka.jpg	Documentário
 f	Energia Pura (1995)	12665	/PdqliHbL6bj9JrQ1eyGGRkpGAJ.jpg	Drama,Fantasia
+f	Enfeitiçadas: Bem-vindos a Hexe		/lhDdE2Uvis4Khtr1o366cAbnb57.jpg	
 f	Enfeitiçados (2024)	592983	/wdo883ETxtJCsjKBNY1y0UNu4bz.jpg	Animação,Fantasia,Família,Aventura,Comédia
 f	Enfermeira da Morte	1111440	/vUWI0mlMhUuOo9oWE5AC2LO33cb.jpg	Suspense,TV
 f	Enforcados 1		/75pLWgS5X6C7ZlS6h3XBe59cAb5.jpg	
@@ -14789,6 +14791,7 @@ f	Muito Louca (2018)	513399	/6za5y0DNUulELnVRLL1kf9OYaLF.jpg	Comédia
 f	Muito Louco	8491	/l3QCGqB5bFlFJKizM9rucsMbHpe.jpg	Comédia,Crime
 f	Muito Mais que o Esperado (2021)	1404388	/cKtsGIh1FnmYmIIiwA5r9Cg8IUH.jpg	Comédia,Drama
 f	Muito Perto para o Natal	764104	/bzZttssj1AvKFC8njdV5RE07BqU.jpg	Romance,Drama,TV
+f	Muito Prazer		/xGFpTUCaf0N3eyLnvDsLptGwxR3.jpg	
 f	Muito Ralph: Vida e Obra de Ralph Lauren	618597	/35B9HpDJPCoaaz70qeERBZPu4eH.jpg	Documentário
 f	Muitos Homens Num Só	336182	/q7lDnhKKv2h5wZQGINAwEXs1RDP.jpg	História,Crime,Drama
 f	Mulan	337401	/72I82eKXCadZWEYygV9GkJOQNEq.jpg	Aventura,Fantasia,Ação
@@ -17334,6 +17337,7 @@ f	O Melhor Verão da Minha Vida	519597	/wIYFfsEv0xaRBmYr4ACzJZhDLwC.jpg	Comédia
 f	O Melhor Verão das Nossas Vidas	655371	/pHUxVCnB3DPu9afBnl01MtlH7q6.jpg	Comédia
 f	O Meme da Festa de Halloween (2020)	544075	/g1cZXa0b93rhGMybRUPajsuwcZH.jpg	Terror
 f	O Meme do Mal	1024530	/wAjwcIUMOM5ADGvzrqwTtrZhKYy.jpg	Terror
+f	O menino		/6wLVChqjN2qsZ3uolEmetkCuzeO.jpg	
 f	O Menino Atrás da Porta	741613	/d7BN5OYN8E7vPxOqr614D4CTUds.jpg	Terror
 f	O Menino da Internet: A História de Aaron Swartz	250658	/72rf6z3E8gpbdXbAdIy7uWYdo8Z.jpg	Documentário,Crime
 f	O Menino da Porteira (2009)	49882	/rcFJATiCHQZ9iuyRPanoAV1zXMR.jpg	Faroeste,Drama
@@ -24318,6 +24322,7 @@ f	Top Gun Ases indomaveis	744	/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg	Ação,Drama,Roma
 f	Top Gun Maverick	361743	/kPbuLGVSJHATkW9fX9L3h1wM0Pa.jpg	Ação,Drama
 f	Top Gunner		/w3pYxiYHcPlEIW44RYdQgNQESvE.jpg	
 f	Top Gunner Zona de Perigo	980083	/2xcV2egehqvKTHFEtvG5k8PMbeB.jpg	Ação
+f	Top Love - Só e Bem Acompanhado!	1283655	/dnEDznGf2ATL0onIlDcGFSJcnEb.jpg	Comédia
 f	Top Secret! Superconfidencial	8764	/kuKyrY1glIM5rLDzF4Wt8XRyXio.jpg	Comédia
 f	Topuria Matador	1312215	/t67EVJZpjyZdYS5mK6Ra3si044c.jpg	Documentário
 f	Topázio	2370	/ojizjzpSQvdqTXPzmXTbUW0i4cF.jpg	Drama,Suspense
@@ -27323,6 +27328,7 @@ s	A História do Mundo: Parte 2	202213	/vQAX03ujKBp2lE42ywIVbIzm4sH.jpg	Comédia
 s	A História do Palavrão		/6sMzS3wWPnV3HU8ENwiFYrSnZ2F.jpg	
 s	A Hora do Arrepio	33841	/i1TpTLQPWWQuyTl6OE3ARyVRRbZ.jpg	Família,Drama
 s	A Hora do Diabo	157061	/qFHKmswojrg4PmZOAgJ1oqVnrWS.jpg	Mistério,Crime,Drama
+s	A Hora do Pesadelo: O Terror de Freddy Krueger		/tISTXELQn3ZFC8mgBwEH77xKXkZ.jpg	
 s	A Hóspede		/xIMIuajGzzVqG2W2oWfXYif2b2W.jpg	
 s	A Idade Dourada	81723	/agrNZZDXsOThmNFB0cjXeb35BvQ.jpg	Drama
 s	A Igreja Oculta	248590	/8MPw1le71B8hFhl4onAyLIoYbn2.jpg	Documentário
@@ -28083,7 +28089,9 @@ s	Amores Verdadeiros	46901	/klZCn9W8lzS1AuNZunIEm7spg5Z.jpg	Drama,Novela
 s	Amorteamo	119510	/fCnGe5lE97HyQ80aFvSNWZ4xuEu.jpg	Drama
 s	Amphibia	85349	/9q3LdxVttf1mXmGhnLUDB5FKECl.jpg	Animação,Ação e aventura,Comédia,Ficção e fantasia,Família
 s	Amsterdam	80350	/jeZ98Lh9kCQIDQSLoODljapaKUg.jpg	Drama
+s	Amy & Kate: Cantinhos Únicos		/2SOxxjCIwYusJAHrEY4F7ceVpjv.jpg	
 s	Amy e Tammy Irmas Contra o Peso	98410	/9Yb2NxLIv2ZvN2KOJPfEd0gqd6r.jpg	Reality
+s	Amy Schumer na Cozinha – Sem Censura		/mCdxV7iCImqX2RoiAc5Rko6LziI.jpg	
 s	América	89491	/cNZTNrWxc02moLzn3NYZqowyJdU.jpg	Família,Reality
 s	América do Norte	30276	/wgSkZVXRH1dyyrSWMGyjO4IJhnn.jpg	Documentário
 s	América Indomável	45239	/aFKm99d2AFWQ4qGRAtE3UzByA2U.jpg	Documentário
@@ -29185,6 +29193,7 @@ s	Casamento às Cegas: Reino Unido	237316	/1EPL2e0fon7P1GK1HlPXdeNMOY9.jpg	Reali
 s	Casamentos Extremos		/shAOwAJlhyGc4lP3QvAxFER1BAv.jpg	
 s	Casar com um Assassino	318262	/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg	Documentário,Crime
 s	Casar com VOCE	243155	/x2nQQPyZPhY2zC4XxWZMtELapn1.jpg	Drama,Comédia
+s	Casas Estranhas		/5QyNhbWZtMlld6ACQ7P3QQMkobO.jpg	
 s	Casas Muito Loucas	253252	/9L465ZYR5Ejr4PQ9uCK2D0vrQ5d.jpg	Reality
 s	Casas na Arvore	49474	/pkqJxkQTtsh7yIVke2LL4Ei63Lk.jpg	Reality
 s	Casas Sobre Rodas	119446	/9Jn2aDeoWUudah1BYXCLNB4ZLOX.jpg	Reality
@@ -29366,6 +29375,7 @@ s	Chivalry of a Failed Knight	67154	/d48gIgIwhOBBeOYCPZEa52V1YPl.jpg	Animação,
 s	Chloe	324919	/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg	Documentário,Comédia,Família
 s	Chobits	37527	/slYEhE26dIiYfVKee5MzJSCXwJW.jpg	Animação,Comédia,Drama,Ficção e fantasia
 s	Chocolate com Pimenta	17674	/vPh5Fo4ptnHrI8Ku0QplHrSoeDe.jpg	Novela,Comédia,Drama
+s	Chopped Junior		/98edwGR4cAXVBWoZwH6tYltvw3N.jpg	
 s	Chopped Nova Geracao	126385	/c6LZONS4IdRjUJhcpi7zUVesNpu.jpg	Reality,Família
 s	Chopped: Doce Desafio		/8fO0HOJGPReUjgRkE7fy1RN2UBW.jpg	
 s	Choque de Cultura	77110	/gBzm8P5VUmgdUmehxuAWnBIZwvp.jpg	Comédia
@@ -29977,6 +29987,7 @@ s	Depois do Terremoto	286732	/yxxSqUHseRFgTmpzr06BNDcuVKD.jpg	Drama
 s	Dept Q	245703	/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg	Drama,Crime,Mistério
 s	Deputy: O Novo Xerife	89498	/5shPt9oZNtpimZRpQxj37LSr8bD.jpg	Faroeste,Drama,Crime
 s	Der Pass	85526	/lJlrSR3D6SknyRBHkmI3E6YNWRq.jpg	Crime,Drama
+s	Der Scheich		/uphDFBGcRX3ZegFHECeeH8hv1Te.jpg	
 s	Derek		/nfcvAjfV4u6uFtrA9X55nyJjrN7.jpg	
 s	Derretendo Pouco a Pouco	92911	/bnooLKK5a5yLrCFP8MCLkeR7upm.jpg	Mistério,Comédia,Ficção e fantasia
 s	Derry Girls	76148	/ix9lphODnzRCAVG5F6w3jEyaGj1.jpg	Comédia,Drama
@@ -30262,6 +30273,7 @@ s	Dora e Seus Amigos Na Cidade	64401	/k517CMDGKGC4qYN3NC0zUgvKqdn.jpg	Animação
 s	Dorei-ku The Animation	78464	/zNVz4OMER51g6TQzy7cgQZymn70.jpg	Animação,Crime,Drama
 s	Dorohedoro	94404	/mmpGV6laOLyNeo21aOFM9oB9HYw.jpg	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Dororo	83100	/6TX5aQHlJKdRZqV9nFPty3dOdfe.jpg	Animação,Ação e aventura
+s	Dossiê Chapecó: O Jogo por Trás da Tragédia		/uOihR7ODsWOhji9FvHl4NLnBFGk.jpg	
 s	Dot	96885	/q3yGxx4rNbSLFHG2VJ74UxXVnSl.jpg	Animação,Infantil,Família
 s	DOTA Dragon’s Blood		/8sa6A1DlRMWVAwWlScunrikYb5Z.jpg	
 s	DOTA: Dragon's Blood		/8sa6A1DlRMWVAwWlScunrikYb5Z.jpg	
@@ -37932,6 +37944,7 @@ s	Why R U?	246564	/tAHbvGejEO7wGk6JmWuEC0Dkm7.jpg	Drama
 s	Why the hell are you here,Teacher!?	86836	/VAAgViuQwGr15mO1Ca2vsXTBHJ.jpg	Animação,Comédia
 s	Wild Cards	240932	/lIhkV9LNwViVD2bylPTFQvDD21e.jpg	Drama,Comédia,Mistério,Crime
 s	Wild Wild Country	77601	/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg	Documentário,Crime
+s	Wildcard Kitchen		/sRpz6J8klZRjGsLO7OJQ14ALv89.jpg	
 s	Wilfred	39525	/2cUYCkmHEWsxaNiVTQnFqxyq5Ij.jpg	Comédia,Drama,Mistério
 s	Will e Grace		/aEaYdyHcpHN3fIXHhXHtXOs8Rtk.jpg	
 s	Will Trent: Agente Especial	208569	/6Xgx6gO6nISLJfdsP2e5ougbdJa.jpg	Crime,Drama,Comédia

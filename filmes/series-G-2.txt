@@ -2772,12 +2772,12 @@
 1	5	dub	19:227239/1/5,http://64.31.23.207:80/series/96795792/50165825/5630669.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/121512.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/121518.mp4
 1	6	dub	19:227239/1/6,http://64.31.23.207:80/series/96795792/50165825/5630670.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/121513.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/121519.mp4
 @Gêmeas: Mórbida Semelhança
-1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5628638.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10262.mp4
-1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5628639.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10263.mp4
-1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5628640.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10265.mp4
-1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5628641.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10266.mp4
-1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5628642.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10267.mp4
-1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5628643.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10269.mp4
+1	1	dub	19:130987/1/1,http://64.31.23.207:80/series/96795792/50165825/5628638.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10262.mp4
+1	2	dub	19:130987/1/2,http://64.31.23.207:80/series/96795792/50165825/5628639.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10263.mp4
+1	3	dub	19:130987/1/3,http://64.31.23.207:80/series/96795792/50165825/5628640.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10265.mp4
+1	4	dub	19:130987/1/4,http://64.31.23.207:80/series/96795792/50165825/5628641.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10266.mp4
+1	5	dub	19:130987/1/5,http://64.31.23.207:80/series/96795792/50165825/5628642.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10267.mp4
+1	6	dub	19:130987/1/6,http://64.31.23.207:80/series/96795792/50165825/5628643.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10269.mp4
 @Gêmeos
 1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/211125.mp4
 1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/211126.mp4

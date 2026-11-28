@@ -708,7 +708,7 @@ Stanley Tucci: Searching for Italy		5	6
 Star		5	47
 Star Detective Precure!		5	22
 Star Driver: Kagayaki No Takuto		5	48
-Star Search		5	12
+Star Search		5	14
 Star Trek: Academia da Frota Estelar	2026	5	10
 Star Trek: Discovery	2017	5	65
 Star Trek: Lower Decks		5	37

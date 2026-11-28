@@ -22442,6 +22442,7 @@ f	Top Gang! Ases Muito Loucos (1991)	Ação,Comédia,Guerra
 f	Top Gun Ases indomaveis	Ação,Drama,Romance
 f	Top Gun Maverick	Ação,Drama
 f	Top Gunner Zona de Perigo	Ação
+f	Top Love - Só e Bem Acompanhado!	Comédia
 f	Top Secret! Superconfidencial	Comédia
 f	Topuria Matador	Documentário
 f	Topázio	Drama,Suspense
